@@ -1,22 +1,28 @@
-# delicious
+# Delicious
 
-**Part of Speech:** noun
+**Part of Speech:** adjective
+**Level:** A1
 
-**Definition:** 맛있다
+**Definition:** Highly pleasant to taste; very tasty.
 
-**Language of Origin:** English
+**Pronunciation:**
+- IPA: /dɪˈlɪʃəs/
+- Syllables: de-li-cious (3 syllables)
+- Stress: second syllable (de-LI-cious)
+
+**Etymology:** From Latin "deliciosus" (delightful), from "deliciae" (delight).
+
+**Frequency:** ⭐⭐⭐ (top 1500)
 
 ## Examples
 
-- **Where is the delicious?** — delicious은(는) 어디인가요?
-- **delicious** is essential for travel.
+- "This food is delicious!" — 이 음식 정말 맛있어!
+- "That was a delicious meal." — 정말 맛있는 식사였어
 
 ## Related Terms
 
-- [[passport]]
-- [[travel]]
+- [[food-vocabulary]] — food category
 
 ## Sources
 
-- [[first-travel-japan]]
-- [[travel-basics]]
+- [[food-vocabulary]]

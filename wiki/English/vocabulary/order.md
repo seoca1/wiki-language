@@ -1,22 +1,28 @@
-# order
+# Order
 
-**Part of Speech:** noun
+**Part of Speech:** verb, noun
+**Level:** A1
 
-**Definition:** 주문
+**Definition:** To request food in a restaurant; to arrange things in a sequence.
 
-**Language of Origin:** English
+**Pronunciation:**
+- IPA: /ˈɔːrdər/
+- Syllables: or-der (2 syllables)
+- Stress: first syllable (OR-der)
+
+**Frequency:** ⭐⭐⭐⭐ (top 500)
 
 ## Examples
 
-- **Where is the order?** — order은(는) 어디인가요?
-- **order** is essential for travel.
+- "I'd like to order, please." — 주문하고 싶은데요
+- "I ordered the steak." — 스테이크 주문했어
 
 ## Related Terms
 
-- [[passport]]
-- [[travel]]
+- [[restaurant]] — where you order
+- [[menu]] — what you order from
+- [[food-vocabulary]] — food category
 
 ## Sources
 
-- [[first-travel-japan]]
-- [[travel-basics]]
+- [[food-vocabulary]]
