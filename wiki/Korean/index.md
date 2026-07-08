@@ -29,29 +29,29 @@ Last updated: 2026-06-23
 
 ### Other (23 entries)
 
-- [[annyeonghaseyo]] - 안녕하세요 — Standard polite greeting, equivalent to "hello" in English.
-- [[bap]] - 밥 — Rice; meal (cooked rice as staple food).
-- [[chaeg]] - 책 — Book.
-- [[chingu]] - 친구 — Friend.
-- [[daseot]] - 다섯 — Five (native Korean).
-- [[dul]] - 둘 — Two (native Korean).
-- [[gajog]] - 가족 — Family.
-- [[gamsahamnida]] - 감사합니다 — Standard polite "thank you."
-- [[gongbu]] - 공부 — Study; to study.
-- [[haggyo]] - 학교 — School.
-- [[hana]] - 하나 — One (native Korean, used standalone or for hours).
-- [[hangug]] - 한국 — Korea (the country, South Korea).
-- [[joesonghamnida]] - 죄송합니다 — Polite "I'm sorry" or "I apologize."
-- [[mannaseo-bangapseumnida]] - 만나서 — Nice to meet you (formal first-meeting greeting).
-- [[mul]] - 물 — Water.
-- [[naeil]] - 내일 — Tomorrow.
-- [[net]] - 넷 — Four (native Korean).
-- [[oneul-nalssiga-joayo]] - 오늘 — The weather is good today.
-- [[oneul]] - 오늘 — Today.
-- [[sarang]] - 사랑 — Love.
-- [[set]] - 셋 — Three (native Korean).
+- [[안녕하세요]] - 안녕하세요 — Standard polite greeting, equivalent to "hello" in English.
+- [[밥]] - 밥 — Rice; meal (cooked rice as staple food).
+- [[책]] - 책 — Book.
+- [[친구]] - 친구 — Friend.
+- [[다섯]] - 다섯 — Five (native Korean).
+- [[둘]] - 둘 — Two (native Korean).
+- [[가족]] - 가족 — Family.
+- [[감사합니다]] - 감사합니다 — Standard polite "thank you."
+- [[공부]] - 공부 — Study; to study.
+- [[학교]] - 학교 — School.
+- [[하나]] - 하나 — One (native Korean, used standalone or for hours).
+- [[한국]] - 한국 — Korea (the country, South Korea).
+- [[죄송합니다]] - 죄송합니다 — Polite "I'm sorry" or "I apologize."
+- [[만나서-반가워요]] - 만나서 — Nice to meet you (formal first-meeting greeting).
+- [[물]] - 물 — Water.
+- [[내일]] - 내일 — Tomorrow.
+- [[넷]] - 넷 — Four (native Korean).
+- [[오늘 날씨가 좋아요]] - 오늘 — The weather is good today.
+- [[오늘]] - 오늘 — Today.
+- [[사랑]] - 사랑 — Love.
+- [[셋]] - 셋 — Three (native Korean).
 - [[travel]] - 여행 — 
-- [[yeol]] - 열 — Ten (native Korean).
+- [[열]] - 열 — Ten (native Korean).
 
 ## Expressions (3 entries)
 
