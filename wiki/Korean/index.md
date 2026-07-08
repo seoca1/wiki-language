@@ -2,53 +2,30 @@
 
 Last updated: 2026-06-23
 
-## Vocabulary (66 entries)
+## Vocabulary (43 entries)
 
-### Travel (첫 여행 경험) (43 entries)
+### Travel (첫 여행 경험) (20 entries)
 
-- [[amai]] - amai — 달다
-- [[atsui]] - atsui — 뜨겁다
-- [[basu]] - basu — 버스
-- [[chikaku]] - chikaku — 가까이
-- [[chikatetsu]] - chikatetsu — 지하철
-- [[chizu]] - chizu — 지도
-- [[choushoku]] - choushoku — 아침 식사
-- [[chuumon]] - chuumon — 주문
-- [[deguchi]] - deguchi — 출구
-- [[densha]] - densha — 전철
-- [[eki]] - eki — 역
-- [[hakubutsukan]] - hakubutsukan — 박물관
-- [[heya]] - heya — 방, 객실
-- [[hidari]] - hidari — 왼쪽
-- [[hoteru]] - hoteru — 호텔
-- [[iriguchi]] - iriguchi — 입구
-- [[jinja]] - jinja — 신사
-- [[kaikei]] - kaikei — 계산
-- [[karai]] - karai — 맵다
-- [[kippu]] - kippu — 표
-- [[kouen]] - kouen — 공원
-- [[kousaten]] - kousaten — 교차로
-- [[kuukou]] - kuukou — 공항
-- [[massugu]] - massugu — 직진
-- [[migi]] - migi — 오른쪽
-- [[nimotsu]] - nimotsu — 짐, 수하물
-- [[nyuukoku]] - nyuukoku — 입국심사
-- [[oishii]] - oishii — 맛있다
-- [[pasupooto]] - pasupooto — 여권
-- [[ryougae]] - ryougae — 환전
-- [[shashin]] - shashin — 사진
-- [[shingou]] - shingou — 신호등
-- [[shinkansen]] - shinkansen — 신칸센
-- [[takai]] - takai — 비싸다
-- [[takushii]] - takushii — 택시
-- [[tera]] - tera — 절
-- [[tooku]] - tooku — 멀리
-- [[tsumetai]] - tsumetai — 차갑다
-- [[umi]] - umi — 바다
-- [[yama]] - yama — 산
-- [[yasui]] - yasui — 싸다
-- [[yoyaku]] - yoyaku — 예약
-- [[zeikan]] - zeikan — 세관
+- [[공항]] - gonghang — 공항
+- [[호텔]] - hotel — 호텔
+- [[택시]] - taeksi — 택시
+- [[버스]] - beoseu — 버스
+- [[기차]] - gicha — 기차
+- [[지하철]] - jihacheol — 지하철
+- [[역]] - yeok — 역
+- [[예약]] - yeyak — 예약
+- [[짐]] - jim — 짐, 수하물
+- [[여권]] - 여권 — 여권
+- [[표]] - pyo — 표
+- [[출구]] - chulgu — 출구
+- [[입구]] - ipgu — 입구
+- [[신호등]] - sinhodeung — 신호등
+- [[지도]] - jido — 지도
+- [[박물관]] - bangmulgwan — 박물관
+- [[세관]] - segwan — 세관
+- [[입국심사]] - ipguk-simsa — 입국심사
+- [[사귀다]] - 사귀다 — 사귀다
+- [[여행]] - travel — 여행
 
 ### Other (23 entries)
 
