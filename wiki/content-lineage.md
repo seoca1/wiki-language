@@ -223,54 +223,19 @@
 
 ---
 
-## ⚠️ 누락된 Wiki Vocabulary 페이지 (Japanese 기준)
+## ⚠️ Wiki Consolidation (2026-07-08)
 
-Game 코퍼스에 있는 항목 중 Wiki vocabulary 페이지 상태:
+**개별 vocabulary 파일들을 aggregation 파일로 통합**
 
-### Food Category (25 entries)
-✅ Raw `food-vocabulary-jp.md` 추가됨
-✅ Wiki vocabulary 페이지 40+ pages 생성됨
+| 언어 | 이전 파일 수 | 이후 파일 수 |
+|------|-----------|------------|
+| English | 280 | 7 |
+| Spanish | 201 | 7 |
+| Japanese | 283 | 7 |
+| Korean | 126 | 4 |
+| **Total** | **~900** | **~25** |
 
-### Business Category (28 entries)
-✅ Raw `business-vocabulary-jp.md` 추가됨
-✅ Wiki vocabulary 페이지 43 pages 생성됨
-
-### Emotions Category (59 entries)
-✅ Raw `emotions-personality-vocabulary-jp.md` 추가됨
-✅ Wiki vocabulary 페이지 37 pages 생성됨
-
-### Nature Category (60 entries)
-✅ Raw `nature-vocabulary-jp.md` 추가됨
-✅ Wiki vocabulary 페이지 35 pages 생성됨
-
-### Animals Category (59 entries)
-✅ Raw `animals-vocabulary-jp.md` 추가됨
-✅ Wiki vocabulary 페이지 35 pages 생성됨
-
-### Clothing Category (42 entries)
-✅ Raw `clothing-vocabulary-jp.md` 추가됨
-✅ Wiki vocabulary 페이지 27 pages 생성됨
-
----
-
-##Lint Rule / 인용 규칙
-
-AGENTS.md 규칙:
-> **`raw/{lang}_words.md` 의 모든 항목은 `source: [[...]]` 필드로 Language 위키 페이지를 인용해야 한다.**
-
-**현재 상태 (2026-06-23)**:
-- corpus.ts: JP 223 entries, EN 164 entries, ES 71 entries → 개별 위키 페이지 참조
-- KR: 296 entries → topic-level 유지 (한글↔로마자 매칭 문제)
-- EN/ES wiki: 235개 stub 페이지 생성됨
-
-**위키 Topic Pages 추가 (2026-06-23)**:
-- JP: food-vocabulary.md, business-vocabulary.md, emotions-personality-vocabulary.md, nature-vocabulary.md, animals-vocabulary.md, clothing-vocabulary.md
-- EN: food-vocabulary.md, business-vocabulary.md, emotions-personality-vocabulary.md, nature-vocabulary.md, animals-vocabulary.md, clothing-vocabulary.md
-- ES: food-vocabulary.md, business-vocabulary.md, emotions-personality-vocabulary.md, nature-vocabulary.md, animals-vocabulary.md, clothing-vocabulary.md
-
----
-
-## 다음 단계 / Next Steps
+**상세내용**: `CLEANUP_REPORT.md` 참조
 
 ### 완료 ✅
 1. **JP Raw Sources 추가**: 모든 주제용 raw 파일 추가
@@ -283,8 +248,13 @@ AGENTS.md 규칙:
 8. **WordEntry.type.ts**: `source?: string` 필드 추가
 9. **KR Raw Sources 추가**: nature, animals, clothing raw 파일 추가
 10. **개별 Source 참조 (2026-06-23)**: JP/EN/ES corpus source를 topic-level에서 개별 page-level로 변경
+11. **Vocabulary 통합 (2026-07-08)**: ~900개 개별 파일 → ~25개 aggregation 파일로 통합
+12. **Cross-contamination 수정**: Korean/Japanese Travel 섹션 오염修正
+13. **Korean 파일명 통일**: romanized → 한글 스크립트로 Rename
+14. **Git Push 완료**: 4개 커밋 origin/main으로 Push됨
 
 ### 남은 작업 ⚠️
-1. **세부 위키 페이지 완성**: EN/ES stub 페이지들을 실제 컨텐츠로 채우기
-2. **Language wiki git 추적**: `git init` 후 커밋 (현재 위키는 git 관리 안됨)
+1. **Korean food aggregation**: Korean food vocabulary aggregation 파일 생성 필요
+2. **Aggregation 내용 검증**: 각 aggregation 파일의 내용이 충분한지 확인
+3. **Expression 정리**: Spanish及其他 언어의 expression 파일 정리
 
