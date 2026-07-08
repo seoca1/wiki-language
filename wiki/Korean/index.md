@@ -50,14 +50,19 @@ Last updated: 2026-06-23
 - [[오늘]] - 오늘 — Today.
 - [[사랑]] - 사랑 — Love.
 - [[셋]] - 셋 — Three (native Korean).
-- [[travel]] - 여행 — 
+- [[여행]] - travel — 
 - [[열]] - 열 — Ten (native Korean).
 
-## Expressions (3 entries)
+## Expressions (8 entries)
 
-- [[arigatou]] - "감사합니다" — 일본어의 가장 기본적인 감사 표현.
-- [[ikura-desuka]] - "얼마예요?" — 가격을 물을 때 쓰는 가장 기본적인 표현.
-- [[sumimasen-wa-doko-desuka]] - "실례합니다, ...는 어디인가요?" — 위치/방향 물을 때 쓰는 가장 기본적인 일본어 표현.
+- [[만나서-반가워요]] - 만나서 반갑습니다 — Nice to meet you (formal first-meeting greeting).
+- [[같이-밥-먹을래]] - 같이 밥 먹을래? — 가장 흔한 첫 데이트 제안.
+- [[너-자꾸-생각나]] - 너 자꾸 생각나 — 썸 표현.
+- [[나-너-좋아해]] - 나 너 좋아해 — 직접 고백.
+- [[손-잡아도-돼]] - 손 잡아도 돼? — 친밀 진전 동의 요청.
+- [[나중에-또-보자]] - 나중에 또 보자 — 작별 인사.
+- [[친구로-지내자]] - 우리 친구로 지내자 — 부드러운 거절.
+- [[보고-싶다]] - 보고 싶다 — 그리움.
 
 ## Sources (1 processed)
 
