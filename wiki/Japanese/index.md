@@ -14,35 +14,23 @@ Last updated: 2026-07-08
 - [[animals-vocabulary]] - 動物 — ペット、野生動物、昆虫
 - [[clothing-vocabulary]] - 衣服とファッション — 衣類、材料、色
 
-## Expressions (7 entries)
+## Expressions (1 theme file / 7 entries)
 
-- [[はじめまして]] - はじめまして — Nice to meet you
-- [[今度ご飯行かない]] - 今度ご飯行かない? — Wanna grab food sometime?
-- [[手繋いでもいい]] - 手繋いでもいい? — Can I hold your hand?
-- [[また連絡する]] - また連絡する — I'll contact you again
-- [[俺の彼女になってよ]] - 俺の彼女になってよ — Be my girlfriend
-- [[好きです付き合ってください]] - 好きです、付き合ってください — I like you, please go out with me
-- [[sumimasen]] - すみません — Excuse me / Sorry
+- [[dating-romance]] - 恋愛・デート表現 — 初対面、お食事デート、手をつなぐ、告白、別れ (7 表現)
 
 ## Sources (14 processed)
 
-- [[travel-basics-jp]] - Travel basics source
-- [[animals-vocabulary-jp]] - Animals vocabulary source
-- [[business-vocabulary-jp]] - Business vocabulary source
-- [[clothing-vocabulary-jp]] - Clothing vocabulary source
-- [[emotions-personality-vocabulary-jp]] - Emotions vocabulary source
-- [[food-vocabulary-jp]] - Food vocabulary source
-- [[nature-vocabulary-jp]] - Nature vocabulary source
-- [[dating-romance-jp]] - Dating & Romance source
-- [[first-travel-korea]] - First travel Korea source
-
----
-
-## Quick Start
-
-To learn Japanese:
-
-1. Start with **[[travel]]** — basic words for first travel
-2. Practice **Expressions** — common phrases
-3. Read **Sources** — original materials
-4. Use the **typing game** to practice (see: Game/typing_language/)
+- [[anime-drama-quotes]] - anime-drama-quotes
+- [[business-email]] - business-email
+- [[daily-life-basics]] - 日常会話 (Daily Life))
+- [[dating-romance-jp]] - dating-romance-jp
+- [[first-travel-korea]] - first-travel-korea
+- [[food-and-dining]] - 食文化 (Food and Dining))
+- [[health-and-body]] - 健康と体 (Health and Body))
+- [[holidays-and-celebrations]] - 祝日 (Holidays))
+- [[literature-passages]] - literature-passages
+- [[shopping-and-money]] - Shopping and Money)
+- [[sports-and-hobbies]] - スポーツと趣味 (Sports and Hobbies))
+- [[technology-and-internet]] - テクノロジー (Technology))
+- [[travel-adventure]] - Travel Adventure)
+- [[travel-basics]] - 旅行基礎 (Travel Basics))

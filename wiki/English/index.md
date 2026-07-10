@@ -14,33 +14,25 @@ Last updated: 2026-07-08
 - [[animals-vocabulary]] - Animals — pets, wild animals, insects, marine life
 - [[clothing-vocabulary]] - Clothing & Fashion — garments, materials, colors
 
-## Expressions (2 entries)
+## Expressions (2 theme files / 12 entries)
 
-- [[how-much]] - "얼마예요?" — Basic price inquiry expression
-- [[where-is]] - "어디인가요?" — Basic location inquiry expression
+- [[daily-basics]] - Everyday essentials — greetings, locations, simple inquiries (4 entries)
+- [[dating-romance]] - Dating & Romance expressions — invitations, confessions, breakups (8 entries)
 
 ## Sources (15 processed)
 
-- [[travel-basics]] - Travel basics source
-- [[food-and-dining]] - Food and dining source
-- [[dating-romance]] - Dating & Romance source
-- [[work-and-career]] - Work and career source
-- [[business-email]] - Business email source
-- [[daily-life-basics]] - Daily life basics source
-- [[first-travel-japan]] - First travel Japan source
-- [[shopping-and-money]] - Shopping and money source
-- [[travel-adventure]] - Travel adventure source
-- [[movie-quotes]] - Movie quotes source
-- [[literature-passages]] - Literature passages source
-- [[anime-drama-quotes]] - Anime drama quotes source
-
----
-
-## Quick Start
-
-To learn English:
-
-1. Start with **[[travel]]** — basic words for first travel
-2. Practice **Expressions** — common phrases
-3. Read **Sources** — original materials
-4. Use the **typing game** to practice (see: Game/typing_language/)
+- [[daily-life-basics]] - Daily Life Basics)
+- [[dating-romance]] - dating-romance
+- [[first-travel-japan]] - first-travel-japan
+- [[food-and-dining]] - Food and Dining)
+- [[health-and-body]] - Health and Body)
+- [[holidays-and-celebrations]] - Holidays and Celebrations)
+- [[literature-passages]] - literature-passages
+- [[movie-quotes]] - movie-quotes
+- [[shopping-and-money]] - Shopping and Money)
+- [[sports-and-hobbies]] - Sports and Hobbies)
+- [[technology-and-internet]] - Technology and Internet)
+- [[travel-adventure]] - Travel Adventure)
+- [[travel-basics]] - Travel Basics)
+- [[travel]] - travel
+- [[work-and-career]] - Work and Career)
