@@ -33,3 +33,24 @@
 - Created directory structure
 - Set up index.md
 - Ready for first source ingest
+
+## [2026-07-10] lint | Language 위키 일괄 점검 + 8 액션 + Game 측 contract sync
+
+8개 액션 완료 (자세한 기록은 `Language/SESSION_SUMMARY_2026-07-10.md` 참조):
+
+- Action 1: 모든 vocabulary 페이지 (25 파일 / 654 entry) 에 `Pipeline Form` YAML 부록 추가
+- Action 2: Korean vocabulary 3 페이지 신규 인제스트
+- Action 3: study-plan/ 표준 적용 (EN/JP/KR stub README)
+- Action 4 (1차): 안전 범위 65건 wikilink strip
+- Action 4 (후속): Wiki Page 컬럼 654행 drop + 범위 한정 strip 733건 + パスポート→pasupooto 86건 매핑
+- Action 5: jp-travel-vocab/ 카탈로그 (orphan 86 → 0)
+- Action 6: .gitignore + .env / __pycache__ 추적 해제 (**🚨 Notion 토큰 평문 노출 — 사용자 무시 결정**)
+- Action 7: pipeline-to-game.md ↔ corpus-pipeline.md 양방향 검증
+- Action 8: Wiki Page col drop 후속 + corruption 35건 수정
+- Action 9: jp-travel-vocab/ 88 per-word → 2 theme 통합 + 스키마 갱신
+- Action 10: expressions/ 59 per-expression → 9 theme 통합 + 스키마 갱신
+- Action 11: Game 측 contract docs (corpus-pipeline.md, AGENTS.md, languages/korean.md) cross-project 정합
+
+**원칙 정착**: "단어나 문장 하나를 .md 로 만들지 않는다" — vocabulary/expressions 모두 theme-file 컨벤션.
+
+**최종**: broken wikilink 1302 → 86 (touch 가능 범위 0, 모두 immutable).

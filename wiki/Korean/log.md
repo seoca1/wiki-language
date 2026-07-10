@@ -103,3 +103,29 @@
 - ✅ `Game/typing_language/prototype/src/ui/Menu.tsx` 한국어 섹션 추가
 - ✅ `Game/typing_language/prototype/src/types.ts` Language union에 'kr' 추가
 - ✅ 캐릭터 한복 외형 자동 적용 (CulturalAppearance)
+## [2026-07-10] ingest | Action 2 — Korean vocabulary 3 페이지 신규
+
+- 출처: `raw/Korean/business-vocabulary.md`, `food-vocabulary.md`, `emotions-personality-vocabulary.md`
+- 인제스트:
+  - `wiki/Korean/vocabulary/business-vocabulary.md` (109 entry, OCR 잡음 4건 제외)
+  - `wiki/Korean/vocabulary/food-vocabulary.md` (97 entry, OCR 잡음 5건 제외)
+  - `wiki/Korean/vocabulary/emotions-personality-vocabulary.md` (86 entry, OCR 잡음 3건 제외)
+- 정제: 원본 raw 의 한자 OCR/인코딩 잡음(예: 掌声, 饺子, 了不起, 服务员 등) 제외
+- 포맷: 기존 `동물 어휘.md` 의 4-컬럼 표 통일
+- 후속 YAML 부록 자동 부착 (Action 1 의 pipeline-to-game.md 5필드)
+- index.md 갱신: Vocabulary 섹션 (4 → 7 theme files)
+
+## [2026-07-10] lint | Language 위키 일괄 점검 + 8 액션 + Game 측 contract sync
+
+(자세한 기록은 `Language/SESSION_SUMMARY_2026-07-10.md` 참조)
+
+8개 액션 완료. 주요 사항:
+- **원칙 정착**: "단어나 문장 하나를 .md 로 만들지 않는다" — vocabulary/expressions 모두 theme-file 컨벤션.
+- **vocabulary YAML 부록**: 25 파일 / 654 entry (display/input/meaning/level/category/source)
+- **Korean vocab 보강**: 292 entry 인제스트 (12 OCR 잡음 제외)
+- **study-plan/ 표준화**: EN/JP/KR stub README
+- **wikilink 정리**: 1302 → 86 (97% 감소, touch 가능 범위 0)
+- **jp-travel-vocab 통합**: 88 per-word → 2 theme
+- **expressions 통합**: 59 per-expression → 9 theme
+- **.gitignore + 시큐어**: .env/.pyc 추적 해제 (🚨 Notion 토큰 평문 노출 — 사용자 무시 결정)
+- **Game 측 contract sync**: corpus-pipeline.md, AGENTS.md, languages/korean.md cross-project 정합

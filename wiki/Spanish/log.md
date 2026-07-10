@@ -89,3 +89,18 @@
 - Created directory structure
 - Set up index.md
 - Ready for first source ingest
+
+## [2026-07-10] lint | Language 위키 일괄 점검 + 8 액션 + Game 측 contract sync
+
+(자세한 기록은 `Language/SESSION_SUMMARY_2026-07-10.md` 참조)
+
+8개 액션 완료. 주요 사항:
+- **원칙 정착**: "단어나 문장 하나를 .md 로 만들지 않는다" — vocabulary/expressions 모두 theme-file 컨벤션.
+- **vocabulary YAML 부록**: 25 파일 / 654 entry
+- **Korean vocab 보강**: 292 entry 인제스트
+- **wikilink 정리**: 1302 → 86 (97% 감소)
+- **jp-travel-vocab 통합**: 88 per-word → 2 theme
+- **expressions 통합**: 59 per-expression → 9 theme
+- **expressions/ 스페인 5개 theme 신규**: `daily-life.md` (8), `romance-relationships.md` (7), `emotions-reactions.md` (10), `subjunctive-patterns.md` (3), `cultural-idioms.md` (4)
+- **.gitignore + 시큐어**: .env/.pyc 추적 해제 (🚨 Notion 토큰 — 사용자 무시)
+- **Game 측 contract sync**: cross-project 정합
