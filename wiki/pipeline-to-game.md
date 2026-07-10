@@ -25,18 +25,19 @@
 
 | 게임 측 항목 | Language 위키 출처 |
 | --- | --- |
-| 단어 1개 (`display` + `input` + `meaning` + `level` + `category`) | `wiki/{Language}/vocabulary/{word}.md` |
-| 표현 1개 (숙어·관용구) | `wiki/{Language}/expressions/{slug}.md` |
+| 단어 1개 (`display` + `input` + `meaning` + `level` + `category`) | `wiki/{Language}/vocabulary/{theme}.md` 안 `### {word}` 섹션 (테마 파일 안 YAML 부록이 게임 직결 단위) |
+| 표현 1개 (숙어·관용구) | `wiki/{Language}/expressions/{theme}.md` 안 `## {expression}` 섹션 (vocabulary 와 동일한 theme-file 컨벤션, 2026-07-10 갱신) |
 | 문화 컨텍스트 1건 (스테이지 설명, NPC 대사 등) | `wiki/{Language}/culture/{topic}.md` |
 | 난이도 라벨 (CEFR, JLPT, TOPIK 등) | `wiki/{Language}/sources/*.md` 의 출처 메타 |
 
-게임은 Language 위키 페이지에서 다음 필드를 추출한다:
+게임은 Language 위키 페이지의 YAML 부록(`## Pipeline Form (machine-readable)`)에서 다음 필드를 추출한다:
 
-- `display` (표시형) — vocabulary 페이지의 단어 자체
+- `display` (표시형) — vocabulary 페이지 안 `### {word}` 섹션의 단어 자체
 - `input` (입력형) — 예: 일본어 로마자, 스페인어 원형, 한국어 로마자
 - `meaning` (뜻) — 한국어 번역 또는 영어 정의
 - `level` (난이도) — vocabulary 페이지의 메타 또는 출처 메타
 - `category` (카테고리) — vocabulary 페이지의 태그 또는 분류
+- `source` (Language 위키 페이지 인용) — `[[{theme-filename}]]` 단일 anchor (per-word 페이지 미사용 컨벤션과 일치)
 
 ## 게임 측 반출 형식
 

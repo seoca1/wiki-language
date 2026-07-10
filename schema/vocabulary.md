@@ -1,12 +1,14 @@
-# Vocabulary Page Schema (Extended)
+# Vocabulary Theme Schema (Extended)
 
-**Base spec**: see `AGENTS.md` §"Vocabulary Pages"
-**This document**: 학습 친화 필드 추가 (pronunciation, memory aid, common mistakes, dialogue, register, frequency)
+**Convention (effective 2026-07-10)**: 단어나 문장 하나를 별도 `.md`로 만들지 않는다.
+모든 어휘는 테마 파일에 통합: `wiki/{Language}/vocabulary/{theme}.md` 안에 `### {word}` 섹션.
+**Base spec**: `schema/AGENTS.md` §"Vocabulary Pages"
+**This document**: tier-2/3 학습 친화 필드 (pronunciation, memory aid, common mistakes, dialogue, register, frequency) — 테마 파일 내 `### {word}` 섹션 단위로 적용.
 
-## Full Template
+## Per-word section template (theme-file 안에서)
 
 ```markdown
-# {word}
+### {word}
 
 **Part of Speech:** noun / verb / adjective / adverb / particle / counter / etc.
 **Level:** A1/A2/B1/B2/C1/C2 (CEFR for EN/ES) | N5/N4/N3/N2/N1 (JLPT for JP) | TOPIK I/II 1-6 (KR)
@@ -18,7 +20,7 @@
 **Pronunciation:**
 - IPA: /.../
 - Syllables: word-by-syllable
-- Stress: 1st / 2nd / 3rd (강세 위치)
+- Stress: 1st / 2nd / 3rd
 - For JP: 読み方 (hiragana)
 - For ES: tilde/stress mark location
 - For KR: romanization (Revised Romanization)
@@ -39,13 +41,13 @@
 
 **Visual:** [Optional: image of 한자 decomposition, or ASCII art, or table]
 
-## Examples
+#### Examples
 
 - [Example sentence 1 — context: casual, with translation]
 - [Example sentence 2 — context: formal, with translation]
 - [Example sentence 3 — context: business, with translation]
 
-## Mini-Dialogue
+#### Mini-Dialogue
 
 ```
 A: [Contextual line 1]   ← [translation]
@@ -54,28 +56,52 @@ A: [Follow-up]           ← [translation]
 B: [Reaction]            ← [translation]
 ```
 
-## Related Terms
+#### Related Terms
 
-- [[synonym1]] — different register or nuance
-- [[antonym1]]
+- [[synonym]] — different register or nuance
+- [[antonym]]
 - [[related-expression]]
 - [[cognate-language]] — e.g., Latin root shared with another word
 
-## Cultural Notes
+#### Cultural Notes
 
 [Any cultural context, body language, social norms — what native speakers know that learners don't]
 
-## Sources
+#### Sources
 
 - [[source-title]] (page X)
 - [[grammar-reference]]
+```
+
+(Tier-1 entries는 `###` + 5필드 + `#### Examples` 만 가져도 게임 코퍼스 직결 가능.)
+
+## Per-theme envelope (theme-file 머리에 1번)
+
+```markdown
+# {Theme} — {한 줄 설명}
+
+**Source:** [[{source-slug}]]
+**Theme:** {Travel & Tourism, Food, ...}
+**Level:** {theme-level band}
+
+{theme 설명 — 어떤 상황에서 어떤 어휘를 다루는지}
+
+---
+
+{per-word sections}
+
+---
+
+## Pipeline Form (machine-readable)
+
+{YAML appender가 자동 생성 — wiki/pipeline-to-game.md L92 참조}
 ```
 
 ## Language-Specific Notes
 
 ### English (EN)
 - Always include IPA + stress + syllables
-- Phrasal verbs: separate `vocabulary/{verb}.md` from `expressions/{verb-particle}.md`
+- Phrasal verbs: split the lemma into a `### {verb}` section inside the relevant theme file, and the particle-construction into the corresponding `expressions/{verb-particle}.md` page (kept at per-expression granularity since multi-word idioms are not "a single word")
 - Register highly important (formal/informal/slang vary widely)
 - False friends with other languages: flag in Common Mistakes
 

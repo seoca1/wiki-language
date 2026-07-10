@@ -69,68 +69,132 @@ Periodically review wiki health:
 
 ### Vocabulary Pages
 
-Location: `wiki/{Language}/vocabulary/{word}.md`
+> **Convention (effective 2026-07-10)**: 단어나 문장 하나를 별도 `.md`로 만들지 않는다.
+> 모든 어휘는 `wiki/{Language}/vocabulary/{theme}.md` 같은 **테마 파일** 단위로 통합하며,
+> 개별 단어는 그 안 `### {word}` 섹션이 된다. (게임 측 파이프라인은 `pipeline-to-game.md` 참조.)
+> 보조 schema(`schema/vocabulary.md`)는 tier-2/3 필드를 다룰 때 참조.
+
+Location: `wiki/{Language}/vocabulary/{theme}.md` (theme-file convention)
 
 ```markdown
-# {word}
+# {Theme} — {한 줄 설명}
 
-**Part of Speech:** noun/verb/adjective/etc.
+**Source:** [[{source-slug}]]
+**Theme:** {Travel & Tourism, Food, ...}
+**Level:** A1-A2 | JLPT N5 | TOPIK 2-3 | ...
 
-**Definition:** [Clear, concise definition]
+{theme에 대한 간결한 설명 — 학습자가 어떤 단어들을 여기서 만나는지}
+
+---
+
+## {subgroup 1 (optional)}
+
+### {word 1}
+
+**Part of Speech:** 명사 (noun) / 동사 (verb) / ...
+
+**Definition:** [뜻 또는 짧은 정의]
+
+**Romaja / IPA / Pronunciación:** [...]
 
 **Etymology:** [Origin and historical development if relevant]
 
-## Examples
+#### Examples
 
-- [Example sentence 1]
-- [Example sentence 2]
-- [Example sentence 3]
+- [Example sentence 1 — context: casual, with translation]
+- [Example sentence 2 — context: formal, with translation]
 
-## Related Terms
+#### Related Terms
 
-- [[synonym1]]
-- [[antonym1]]
+- [[synonym]]
+- [[antonym]]
 - [[related-expression]]
 
-## Cultural Notes
+#### Cultural Notes
 
-[Any cultural context or usage notes]
+[Any cultural context]
 
-## Sources
+#### Sources
 
-- [[source-title]] (page X)
+- [[source-title]]
+
+---
+
+### {word 2}
+
+(같은 형식 반복)
+
+---
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 001, display: "pasaporte", input: "pasaporte", meaning: "여권", level: "A1-A2", category: "viajes", source: "[[viajes]]" }
+- { id: 002, display: "billete", input: "billete", meaning: "티켓", level: "A1-A2", category: "viajes", source: "[[viajes]]" }
+# ...
 ```
+```
+
+게임 측 컨슈머(`Game/typing_language/`)는 위 YAML 부록의 각 entry를 그대로 가져가면 된다. `source: [[{theme-filename}]]` 한 줄이 5필드(display/input/meaning/level/category)와 함께 그 entry가 어느 page에서 왔는지 식별한다.
 
 ### Expression Pages
 
-Location: `wiki/{Language}/expressions/{expression-slug}.md`
+> **Convention (effective 2026-07-10, extending vocabulary principle)**:
+> "단어나 문장 하나를 별도 `.md`로 만들지 않는다". 관용구도 다중 단어 expression 한 개당
+> 페이지 한 개를 권장하지 않고, **테마 파일**로 통합:
+> `wiki/{Language}/expressions/{theme}.md` 안에 `## {expression}` 섹션으로 들어간다.
+> (관용구 예/메타는 단어보다 풍부할 수 있어 보조 schema `schema/expression.md` 의 tier-2/3 필드 활용)
+> 예외: 게임 측 미션 대사(NPC 라인) 같이 다중 문장 + 강한 문맥 의존이면 별도 페이지가 자연스러움.
+
+Location: `wiki/{Language}/expressions/{theme}.md` (theme-file convention)
 
 ```markdown
-# {Expression}
+# {Theme — Expresiones / 表現 / 표현}
 
-**Literal Translation:** [Word-for-word translation]
+> **Theme:** {Daily Life / Romance & Relationships / ...}
+> **Level:** A1-B2 (idioms)
 
-**Meaning:** [What it actually means]
+{theme-intro}
 
-**Usage Context:** [When/how it's used]
+---
 
-## Examples
+## {expression 1}
+
+**Literal Translation:** [Word-for-word translation if cross-language]
+
+**Meaning:** [What it actually means in natural usage]
+
+**Usage Context:** [When/how/where it's used]
+
+**Pattern:** [Grammatical structure]
+
+### Examples
 
 - [Example 1 with context]
 - [Example 2 with context]
 
-## Cultural Background
+### Cultural Background
 
 [Historical or cultural origin if applicable]
 
-## Similar Expressions
+### Similar Expressions
 
 - [[related-expression-1]]
 - [[related-expression-2]]
 
-## Sources
+### Sources
 
 - [[source-title]]
+
+---
+
+## {expression 2}
+
+(같은 형식 반복)
 ```
 
 ### Culture Pages
@@ -209,15 +273,14 @@ Location: `wiki/{Language}/index.md`
 
 Last updated: YYYY-MM-DD
 
-## Vocabulary ({count} entries)
+## Vocabulary ({N} theme files)
 
-- [[word1]] - brief definition
-- [[word2]] - brief definition
+- [[{theme-filename}]] - theme description + entry count
+- [[{theme-filename-2}]] - ...
 
-## Expressions ({count} entries)
+## Expressions ({N} theme files / {M} entries)
 
-- [[expression1]] - brief meaning
-- [[expression2]] - brief meaning
+- [[{expressions-theme-filename}]] - brief meaning + entry count
 
 ## Culture ({count} entries)
 

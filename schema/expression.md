@@ -1,7 +1,10 @@
-# Expression Page Schema (Extended)
+# Expression Theme Schema (Extended)
 
-**Base spec**: see `AGENTS.md` §"Expression Pages"
-**This document**: 숙어/관용구의 구조, 빈도, 격식, 함정 추가
+**Convention (effective 2026-07-10)**: vocabulary 단일 원칙이 expressions 로 확장.
+Per-expression `.md` 는 `wiki/{Language}/expressions/{theme}.md` 안 `## {expression}` 섹션으로 통합.
+
+**Base spec**: `schema/AGENTS.md` §"Expression Pages"
+**This document**: 숙어/관용구의 구조, 빈도, 격식, 함정 — theme-file 내 `## {expression}` 섹션 단위로 적용.
 
 ## Full Template
 
