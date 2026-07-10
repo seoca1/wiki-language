@@ -16,12 +16,12 @@
 
 ## Language Connections
 
-- [[cuando-subjuntivo]] - estructura central
-- [[antes-de-que-subjuntivo]] - estructura fija
-- [[para-que-subjuntivo]] - finalidad
-- [[ojala]] - deseo
-- [[a-ver-si]] - expectativa (sin subjuntivo)
-- [[que-va]] - exclamación relacionada
+- cuando-subjuntivo - estructura central
+- antes-de-que-subjuntivo - estructura fija
+- para-que-subjuntivo - finalidad
+- ojala - deseo
+- a-ver-si - expectativa (sin subjuntivo)
+- que-va - exclamación relacionada
 
 ## Frequency en conversación nativa
 
@@ -30,8 +30,8 @@ Estudios de corpus (RAE, Davies) muestran que el **90% de subjuntivos en habla e
 ## Sources
 
 - [[notes-in-spanish-planes-de-verano]]
-- [[cuando-subjuntivo]]
-- [[antes-de-que-subjuntivo]]
-- [[para-que-subjuntivo]]
-- [[ojala]]
-- [[a-ver-si]]
+- cuando-subjuntivo
+- antes-de-que-subjuntivo
+- para-que-subjuntivo
+- ojala
+- a-ver-si

@@ -49,6 +49,6 @@
 
 ## 인용 (References)
 
-- **vocabulary 인용**: [[kuukou]], [[pasupooto]], [[nimotsu]], ...
+- **vocabulary 인용**: kuukou, pasupooto, nimotsu, ...
 - **expression 인용**: (이 문서의 표현들)
-- **culture 인용**: [[tipping]], [[shoes-off]], [[chopstick-etiquette]]
+- **culture 인용**: tipping, shoes-off, chopstick-etiquette

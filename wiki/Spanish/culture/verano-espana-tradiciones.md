@@ -13,14 +13,14 @@
 
 ## Language Connections
 
-- [[veranear]] - el verbo clave
-- [[bochorno]] - calor húmedo
-- [[chapparon]] - lluvia breve
-- [[solanera]] - sol directo
-- [[escapada]] - viaje corto
-- [[pillar]] - tomar, agarrar
-- [[apuntarse]] - inscribirse
-- [[animarse]] - decidirse
+- veranear - el verbo clave
+- bochorno - calor húmedo
+- chapparon - lluvia breve
+- solanera - sol directo
+- escapada - viaje corto
+- pillar - tomar, agarrar
+- apuntarse - inscribirse
+- animarse - decidirse
 
 ## Vocabulary específico de la España vacacional
 
@@ -35,6 +35,6 @@
 ## Sources
 
 - [[notes-in-spanish-planes-de-verano]]
-- [[bochorno]]
-- [[escapada]]
-- [[veranear]]
+- bochorno
+- escapada
+- veranear

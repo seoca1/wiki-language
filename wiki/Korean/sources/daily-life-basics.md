@@ -18,16 +18,16 @@
 
 ## Vocabulary Extracted
 
-- [[안녕하세요]] — Hello
-- [[감사합니다]] — Thank you
-- [[죄송합니다]] — I'm sorry
-- [[가족]] — Family
-- [[친구]] — Friend
-- [[사랑]] — Love
-- [[일]] — Work
-- [[학교]] — School
-- [[집]] — Home
-- [[시간]] — Time
+- 안녕하세요 — Hello
+- 감사합니다 — Thank you
+- 죄송합니다 — I'm sorry
+- 가족 — Family
+- 친구 — Friend
+- 사랑 — Love
+- 일 — Work
+- 학교 — School
+- 집 — Home
+- 시간 — Time
 
 ## Expressions Extracted
 

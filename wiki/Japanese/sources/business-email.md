@@ -55,10 +55,10 @@
 ## 인용 (References)
 
 ### 어휘 인용 (Vocabulary citations)
-- [[会議]], [[スケジュール]], [[確認]], [[報告]], [[承認]], [[会社]], [[同僚]]
+- 会議, スケジュール, 確認, 報告, 承認, 会社, 同僚
 
 ### 표현 인용 (Expression citations)
-- [[osewa]], [[totsuzen]], [[gokakunin]], [[gowmeiwaku]], [[gosyounin]]
+- osewa, totsuzen, gokakunin, gowmeiwaku, gosyounin
 
 ### 출처 인용 (Source citations)
 - [[business-email]]

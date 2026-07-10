@@ -53,14 +53,14 @@
 ## 인용 (References)
 
 ### 어휘 인용 (Vocabulary citations)
-- [[spoon]], [[force]], [[matrix]], [[fate]], [[power]]
-- [[love]], [[life]], [[death]], [[truth]], [[moment]]
-- [[fight]], [[enemy]], [[friend]], [[brave]], [[strong]]
+- spoon, force, matrix, fate, power
+- love, life, death, truth, moment
+- fight, enemy, friend, brave, strong
 
 ### 표현 인용 (Expression citations)
-- [[there-is-no-spoon]], [[wake-up-neo]], [[free-your-mind]]
-- [[may-the-force]], [[do-or-do-not]], [[great-power]]
-- [[life-is-like]], [[ill-be-back]], [[why-so-serious]]
+- there-is-no-spoon, wake-up-neo, free-your-mind
+- may-the-force, do-or-do-not, great-power
+- life-is-like, ill-be-back, why-so-serious
 
 ### 출처 인용 (Source citations)
 - [[movie-quotes]]

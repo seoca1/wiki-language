@@ -11,10 +11,10 @@
 
 ## Language Connections
 
-- [[promontorio]] - el escenario ambiguo al inicio del cuento
-- [[altivez]] - tratamiento reverencial de lo extraordinario
-- [[bobo]] - la cualidad paradójica del personaje mítico
-- [[desvalido]] - la transformación por el duelo colectivo
+- promontorio - el escenario ambiguo al inicio del cuento
+- altivez - tratamiento reverencial de lo extraordinario
+- bobo - la cualidad paradójica del personaje mítico
+- desvalido - la transformación por el duelo colectivo
 
 ## Fuentes principales
 

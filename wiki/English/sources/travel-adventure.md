@@ -18,16 +18,16 @@ English for travel adventures — hiking, camping, outdoor activities, weather, 
 
 ## Vocabulary Extracted
 
-- [[mountain]] — 산
-- [[forest]] — 숲
-- [[river]] — 강
-- [[lake]] — 호수
-- [[beach]] — 해변
-- [[tent]] — 텐트
-- [[compass]] — 나침반
-- [[map]] — 지도
-- [[weather]] — 날씨
-- [[storm]] — 폭풍
+- mountain — 산
+- forest — 숲
+- river — 강
+- lake — 호수
+- beach — 해변
+- tent — 텐트
+- compass — 나침반
+- map — 지도
+- weather — 날씨
+- storm — 폭풍
 
 ## Expressions Extracted
 
@@ -48,5 +48,5 @@ English for travel adventures — hiking, camping, outdoor activities, weather, 
 ## Sources
 
 - [[travel-basics]] — basic travel
-- [[outdoor-english]] — outdoor scenarios
+- outdoor-english — outdoor scenarios
 - REI Co-op guides

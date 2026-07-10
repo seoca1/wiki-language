@@ -13,11 +13,11 @@
 
 ## Language Connections
 
-- [[receta]] - la unidad básica
-- [[cebolla]] - ingrediente simbólico
-- [[masa]] - base de la cocina mexicana
-- [[a-fuego-lento]] - técnica y tiempo
-- [[ingredientes]] - lo que se mezcla
+- receta - la unidad básica
+- cebolla - ingrediente simbólico
+- masa - base de la cocina mexicana
+- a-fuego-lento - técnica y tiempo
+- ingredientes - lo que se mezcla
 
 ## Influencia
 
@@ -29,5 +29,5 @@
 ## Sources
 
 - [[como-agua-para-chocolate-cap1]]
-- [[receta]]
+- receta
 - [[cocina-espacio-femenino]]

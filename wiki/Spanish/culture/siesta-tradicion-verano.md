@@ -13,12 +13,12 @@
 
 ## Language Connections
 
-- [[siesta]] - vocabulario base
-- [[calor-pegajoso]] - razón climática de la siesta
-- [[ponerse-morado]] - verbo típico de la sobremesa post-siesta
-- [[tapas]] - actividad que reemplaza o acompaña a la siesta en zonas urbanas
+- siesta - vocabulario base
+- calor-pegajoso - razón climática de la siesta
+- ponerse-morado - verbo típico de la sobremesa post-siesta
+- tapas - actividad que reemplaza o acompaña a la siesta en zonas urbanas
 
 ## Sources
 
 - [[notes-in-spanish-listening-log]]
-- [[siesta]]
+- siesta

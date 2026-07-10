@@ -94,15 +94,15 @@ A first date in Japan: **カフェ, 動物園, 水族館, 映画, 散歩(산책)
 
 ## Useful Phrases
 
-- [[好き]] — I like you
-- [[綺麗]] — beautiful
-- [[可愛い]] — cute
-- [[優しい]] — kind
-- [[面白い]] — interesting/funny
-- [[デート]] — date
-- [[告白]] — confession
-- [[付き合う]] — to date
-- [[恋人]] — lover
+- 好き — I like you
+- 綺麗 — beautiful
+- 可愛い — cute
+- 優しい — kind
+- 面白い — interesting/funny
+- デート — date
+- 告白 — confession
+- 付き合う — to date
+- 恋人 — lover
 - 好きです (suki desu) — I like you
 - ありがとう (arigatou) — thank you
 - おはよう / おやすみ — good morning / good night (intimacy signal)
@@ -132,7 +132,7 @@ A first date in Japan: **カフェ, 動物園, 水族館, 映画, 散歩(산책)
 ## Cross-Reference
 
 - Compare with: [[english-dating-culture]], [[spanish-dating-culture]], [[korean-dating-culture]]
-- See also: [[好き]], [[告白]], [[付き合う]], [[恋人]]
+- See also: 好き, 告白, 付き合う, 恋人
 
 ## 一般的な失敗
 

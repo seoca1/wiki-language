@@ -40,16 +40,16 @@ Esta semana he continuado con el Bloque A del [[weekly-plan]], dedicado al **sub
 
 | Palabra      | Significado                       | Origen        |
 | ------------ | --------------------------------- | ------------- |
-| [[cebolla]]  | bulbo que provoca llanto          | cuento+novela |
-| [[matriarca]] | madre que gobierna la familia    | Esquivel      |
-| [[sollozar]] | llorar con hipo                   | Esquivel      |
-| [[anhelar]]  | desear con vehemencia             | Esquivel      |
-| [[molcajete]] | mortero de piedra mexicano       | Esquivel      |
-| [[masa]]     | pasta de maíz o harina            | Esquivel      |
-| [[bochorno]] | calor sofocante                   | podcast       |
-| [[chapparon]] | lluvia fuerte y breve            | podcast       |
-| [[escapada]] | viaje corto de fin de semana      | podcast       |
-| [[pillar]]   | tomar, agarrar (España coloq.)    | podcast       |
+| cebolla  | bulbo que provoca llanto          | cuento+novela |
+| matriarca | madre que gobierna la familia    | Esquivel      |
+| sollozar | llorar con hipo                   | Esquivel      |
+| anhelar  | desear con vehemencia             | Esquivel      |
+| molcajete | mortero de piedra mexicano       | Esquivel      |
+| masa     | pasta de maíz o harina            | Esquivel      |
+| bochorno | calor sofocante                   | podcast       |
+| chapparon | lluvia fuerte y breve            | podcast       |
+| escapada | viaje corto de fin de semana      | podcast       |
+| pillar   | tomar, agarrar (España coloq.)    | podcast       |
 
 ## Expresiones clave (subjuntivo adverbial)
 

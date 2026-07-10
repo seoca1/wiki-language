@@ -20,23 +20,23 @@ Listening log centrado en cómo nativos hablan de planes futuros en español pen
 
 ## Vocabulario Extraído
 
-- [[bochorno]]
-- [[chapparon]]
-- [[solanera]]
-- [[escapada]]
-- [[pillar]]
-- [[apuntarse]]
-- [[animarse]]
-- [[veranear]]
+- bochorno
+- chapparon
+- solanera
+- escapada
+- pillar
+- apuntarse
+- animarse
+- veranear
 
 ## Expresiones Extraídas
 
-- [[cuando-subjuntivo]]
-- [[antes-de-que-subjuntivo]]
-- [[para-que-subjuntivo]]
-- [[ojala]]
-- [[a-ver-si]]
-- [[que-va]]
+- cuando-subjuntivo
+- antes-de-que-subjuntivo
+- para-que-subjuntivo
+- ojala
+- a-ver-si
+- que-va
 
 ## Cultural Insights
 

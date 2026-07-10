@@ -18,16 +18,16 @@ English for shopping, money, prices, bargaining. Useful for travelers and daily 
 
 ## Vocabulary Extracted
 
-- [[shop]] — 가게
-- [[money]] — 돈
-- [[cash]] — 현금
-- [[card]] — 카드
-- [[price]] — 가격
-- [[cheap]] — 싼
-- [[expensive]] — 비싼
-- [[discount]] — 할인
-- [[receipt]] — 영수증
-- [[refund]] — 환불
+- shop — 가게
+- money — 돈
+- cash — 현금
+- card — 카드
+- price — 가격
+- cheap — 싼
+- expensive — 비싼
+- discount — 할인
+- receipt — 영수증
+- refund — 환불
 
 ## Expressions Extracted
 

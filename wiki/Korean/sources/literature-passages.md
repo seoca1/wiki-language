@@ -52,7 +52,7 @@
 ## 인용 (References)
 
 ### 작품 인용 (Work citations)
-- [[춘향전]], [[소문춘당]], [[하루]]
+- 춘향전, 소문춘당, 하루
 
 ### 출처 인용 (Source citations)
 - [[literature-passages]]

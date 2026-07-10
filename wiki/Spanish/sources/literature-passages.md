@@ -67,8 +67,8 @@
 ## 인용 (References)
 
 ### 작품 인용 (Work citations)
-- [[don-quijote]], [[cien-anos-de-soledad]], [[la-casa-de-los-espiritus]]
-- [[el-amor-en-los-tiempos-del-colera]], [[rayuela]], [[como-agua-para-chocolate]]
+- don-quijote, cien-anos-de-soledad, la-casa-de-los-espiritus
+- el-amor-en-los-tiempos-del-colera, rayuela, como-agua-para-chocolate
 
 ### 출처 인용 (Source citations)
 - [[literature-passages]]

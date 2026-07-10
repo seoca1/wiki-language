@@ -20,27 +20,27 @@ Tita es la hija menor de Mama Elena, matriarca estricta de la hacienda De la Gar
 
 ## Vocabulario Extraído
 
-- [[cebolla]]
-- [[matriarca]]
-- [[heredar]]
-- [[sollozar]]
-- [[anhelar]]
-- [[desafiar]]
-- [[someterse]]
-- [[molcajete]]
-- [[masa]]
-- [[receta]]
-- [[tradicion]]
-- [[mandato]]
+- cebolla
+- matriarca
+- heredar
+- sollozar
+- anhelar
+- desafiar
+- someterse
+- molcajete
+- masa
+- receta
+- tradicion
+- mandato
 
 ## Expresiones Extraídas
 
-- [[pedir-la-mano]]
-- [[llorar-como-una-magdalena]]
-- [[a-fuego-lento]]
-- [[tener-el-corazon-en-un-puno]]
-- [[no-poder-venir-a-mas]]
-- [[estar-hecho-pedazos]]
+- pedir-la-mano
+- llorar-como-una-magdalena
+- a-fuego-lento
+- tener-el-corazon-en-un-puno
+- no-poder-venir-a-mas
+- estar-hecho-pedazos
 
 ## Cultural Insights
 
@@ -51,7 +51,7 @@ Tita es la hija menor de Mama Elena, matriarca estricta de la hacienda De la Gar
 
 ## Conexión con Semana 1
 
-> Ver [[el-ahgado-mas-hermoso-del-mundo]] para comparar con García Márquez:
+> Ver el-ahgado-mas-hermoso-del-mundo para comparar con García Márquez:
 > - Mismo estilo: realismo mágico latinoamericano
 > - Diferente espacio: mar (Colombia) vs. cocina (México)
 > - Misma estructura binaria: femenino (cuidado, emoción) vs. masculino (acción, decisión)

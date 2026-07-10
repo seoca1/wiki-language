@@ -19,16 +19,16 @@ Essential English vocabulary and phrases for travelers — airports, hotels, res
 
 ## Vocabulary Extracted
 
-- [[airport]] — 공항
-- [[baggage]] — 수하물
-- [[bus]] — 버스
-- [[hotel]] — 호텔
-- [[restaurant]] — 식당
-- [[taxi]] — 택시
-- [[train]] — 기차
-- [[passport]] — 여권
-- [[ticket]] — 표
-- [[map]] — 지도
+- airport — 공항
+- baggage — 수하물
+- bus — 버스
+- hotel — 호텔
+- restaurant — 식당
+- taxi — 택시
+- train — 기차
+- passport — 여권
+- ticket — 표
+- map — 지도
 
 ## Expressions Extracted
 

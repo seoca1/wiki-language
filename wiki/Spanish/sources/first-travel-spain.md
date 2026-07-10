@@ -18,17 +18,17 @@ Spanish travel vocabulary and phrases for first-time visitors — airports, hote
 
 ## Vocabulary Extracted
 
-- [[hola]] — hello
-- [[gracias]] — thank you
-- [[por favor]] — please
-- [[buenos días]] — good morning
-- [[buenas noches]] — good night
-- [[adiós]] — goodbye
-- [[aeropuerto]] — airport
-- [[estación]] — station
-- [[hotel]] — hotel
-- [[restaurante]] — restaurant
-- [[metro]] — metro/subway
+- hola — hello
+- gracias — thank you
+- por favor — please
+- buenos días — good morning
+- buenas noches — good night
+- adiós — goodbye
+- aeropuerto — airport
+- estación — station
+- hotel — hotel
+- restaurante — restaurant
+- metro — metro/subway
 
 ## Expressions Extracted
 

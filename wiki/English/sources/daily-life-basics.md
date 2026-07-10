@@ -19,18 +19,18 @@ Everyday English for daily routines — greetings, time, weather, family, hobbie
 
 ## Vocabulary Extracted
 
-- [[hello]] — 안녕
-- [[goodbye]] — 잘 가
-- [[good-morning]] — 좋은 아침
-- [[thank-you]] — 감사
-- [[please]] — 부디
-- [[sorry]] — 미안
-- [[yes]] — 네
-- [[no]] — 아니요
-- [[family]] — 가족
-- [[friend]] — 친구
-- [[love]] — 사랑
-- [[work]] — 일
+- hello — 안녕
+- goodbye — 잘 가
+- good-morning — 좋은 아침
+- thank-you — 감사
+- please — 부디
+- sorry — 미안
+- yes — 네
+- no — 아니요
+- family — 가족
+- friend — 친구
+- love — 사랑
+- work — 일
 
 ## Expressions Extracted
 

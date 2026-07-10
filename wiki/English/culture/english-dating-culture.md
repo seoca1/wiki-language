@@ -79,15 +79,15 @@ Earlier expression: "I really like you" (more universally safe).
 
 ## Useful Phrases
 
-- [[i-like-you]] — early affection
-- [[i-love-you]] — deep feeling
-- [[beautiful]] — appearance compliment
-- [[handsome]] — male appearance compliment
-- [[kind]] — personality compliment
-- [[can-i-kiss-you]] — consent request
-- [[would-you-like-to]] — invitation
-- [[i-had-a-great-time]] — end-of-date
-- [[see-you-again]] — follow-up
+- i-like-you — early affection
+- i-love-you — deep feeling
+- beautiful — appearance compliment
+- handsome — male appearance compliment
+- kind — personality compliment
+- can-i-kiss-you — consent request
+- would-you-like-to — invitation
+- i-had-a-great-time — end-of-date
+- see-you-again — follow-up
 
 ## What NOT to Do
 
@@ -115,7 +115,7 @@ Earlier expression: "I really like you" (more universally safe).
 ## Cross-Reference
 
 - Compare with: [[japanese-dating-culture]], [[spanish-dating-culture]], [[korean-dating-culture]]
-- See also: [[i-love-you]], [[beautiful]], [[handsome]]
+- See also: i-love-you, beautiful, handsome
 
 ## Holiday / Special Days
 

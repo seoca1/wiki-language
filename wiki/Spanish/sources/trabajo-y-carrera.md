@@ -18,16 +18,16 @@ Español para el lugar de trabajo — títulos de trabajo, reuniones, correos, e
 
 ## Vocabulary Extracted
 
-- [[trabajo]] — 일
-- [[oficina]] — 사무실
-- [[reunion]] — 회의
-- [[jefe]] — 상사
-- [[proyecto]] — 프로젝트
-- [[plazo]] — 마감
-- [[correo-electronico]] — 이메일
-- [[salario]] — 급여
-- [[colega]] — 동료
-- [[empleado]] — 직원
+- trabajo — 일
+- oficina — 사무실
+- reunion — 회의
+- jefe — 상사
+- proyecto — 프로젝트
+- plazo — 마감
+- correo-electronico — 이메일
+- salario — 급여
+- colega — 동료
+- empleado — 직원
 
 ## Expressions Extracted
 

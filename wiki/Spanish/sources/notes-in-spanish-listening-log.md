@@ -20,22 +20,22 @@ Plantilla de estudio para episodios del podcast *Notes in Spanish Advanced*. El 
 
 ## Vocabulario Extraído
 
-- [[siesta]]
-- [[tapas]]
-- [[currar]]
-- [[guapo]]
-- [[mola]]
-- [[botellon]]
-- [[calor-pegajoso]]
-- [[ponerse-morado]]
+- siesta
+- tapas
+- currar
+- guapo
+- mola
+- botellon
+- calor-pegajoso
+- ponerse-morado
 
 ## Expresiones Extraídas
 
-- [[vamos-que]]
-- [[hombre-pues]]
-- [[yo-que-tu]]
-- [[que-fuerte]]
-- [[que-pasada]]
+- vamos-que
+- hombre-pues
+- yo-que-tu
+- que-fuerte
+- que-pasada
 
 ## Cultural Insights
 

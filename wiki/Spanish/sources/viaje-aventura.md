@@ -18,16 +18,16 @@ Español para aventuras de viaje — senderismo, camping, actividades al aire li
 
 ## Vocabulary Extracted
 
-- [[montana]] — 산
-- [[bosque]] — 숲
-- [[rio]] — 강
-- [[lago]] — 호수
-- [[playa]] — 해변
-- [[tienda-de-campana]] — 텐트
-- [[brujula]] — 나침반
-- [[mapa]] — 지도
-- [[clima]] — 날씨
-- [[tormenta]] — 폭풍
+- montana — 산
+- bosque — 숲
+- rio — 강
+- lago — 호수
+- playa — 해변
+- tienda-de-campana — 텐트
+- brujula — 나침반
+- mapa — 지도
+- clima — 날씨
+- tormenta — 폭풍
 
 ## Expressions Extracted
 

@@ -17,16 +17,16 @@ Español para fiestas, celebraciones, días especiales. Cultura hispana.
 
 ## Vocabulary Extracted
 
-- [[fiesta]] — 파티
-- [[cumpleanos]] — 생일
-- [[navidad]] — 크리스마스
-- [[ano-nuevo]] — 새해
-- [[boda]] — 결혼식
-- [[regalo]] — 선물
-- [[pastel]] — 케이크
-- [[quinceanera]] — 퀸세아녜라
-- [[carnaval]] — 카니발
-- [[semana-santa]] — 부활절 주간
+- fiesta — 파티
+- cumpleanos — 생일
+- navidad — 크리스마스
+- ano-nuevo — 새해
+- boda — 결혼식
+- regalo — 선물
+- pastel — 케이크
+- quinceanera — 퀸세아녜라
+- carnaval — 카니발
+- semana-santa — 부활절 주간
 
 ## Expressions Extracted
 

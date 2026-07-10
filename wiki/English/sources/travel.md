@@ -19,12 +19,12 @@ This is a meta-page referenced from many vocabulary pages. For specific travel c
 
 | Category | Examples |
 |---|---|
-| Transportation | [[airport]], [[train]], [[taxi]], [[bus]], [[subway]] |
-| Accommodation | [[hotel]], [[passport]], [[station]] |
-| Food | [[restaurant]], [[breakfast]], [[water]], [[coffee]] |
-| Directions | [[left]], [[right]], [[near]], [[far]] |
-| Money | [[expensive]], [[cheap]] |
-| Communication | [[hello]], [[please]], [[thank you\|thanks]] |
+| Transportation | airport, train, taxi, bus, subway |
+| Accommodation | hotel, passport, station |
+| Food | restaurant, breakfast, water, coffee |
+| Directions | left, right, near, far |
+| Money | expensive, cheap |
+| Communication | hello, please, thanks |
 
 ## Useful Phrases (Multilingual)
 

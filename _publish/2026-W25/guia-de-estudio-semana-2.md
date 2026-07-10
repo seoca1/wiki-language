@@ -80,43 +80,43 @@ Al final de esta guía, podrás:
 
 | Palabra | Significado | Categoría | Ejemplo |
 |---------|-------------|-----------|---------|
-| [[cebolla]] | bulbo que provoca llanto | sust. f. | pelar la **cebolla** con lágrimas |
-| [[masa]] | pasta de maíz o harina | sust. f. | la **masa** de las tortillas |
-| [[molcajete]] | mortero de piedra mexicano | sust. m. | moler chiles en el **molcajete** |
-| [[receta]] | instrucciones de cocina | sust. f. | la **receta** de las tortas |
+| cebolla | bulbo que provoca llanto | sust. f. | pelar la **cebolla** con lágrimas |
+| masa | pasta de maíz o harina | sust. f. | la **masa** de las tortillas |
+| molcajete | mortero de piedra mexicano | sust. m. | moler chiles en el **molcajete** |
+| receta | instrucciones de cocina | sust. f. | la **receta** de las tortas |
 
 ### 3.2 👨‍👩‍👧 Familia y poder (가족과 권력)
 
 | Palabra | Significado | Connotación | Ejemplo |
 |---------|-------------|-------------|---------|
-| [[matriarca]] | madre que gobierna la familia | autoritaria | Mama Elena era la **matriarca** |
-| [[heredar]] | recibir por sucesión | neutro / dramático | **heredar** una fortuna |
-| [[tradicion]] | costumbre heredada | ambigua | **tradición** sagrada |
-| [[mandato]] | orden autoritaria | impositiva | **mandato** de la matriarca |
+| matriarca | madre que gobierna la familia | autoritaria | Mama Elena era la **matriarca** |
+| heredar | recibir por sucesión | neutro / dramático | **heredar** una fortuna |
+| tradicion | costumbre heredada | ambigua | **tradición** sagrada |
+| mandato | orden autoritaria | impositiva | **mandato** de la matriarca |
 
 ### 3.3 💔 Emociones profundas (깊은 감정)
 
 | Palabra | Significado | Registro | Ejemplo |
 |---------|-------------|----------|---------|
-| [[sollozar]] | llorar con hipo | intenso | Tita **sollozaba** en la cocina |
-| [[anhelar]] | desear con vehemencia | poético | **anhelar** casarse |
-| [[desafiar]] | oponer a la autoridad | rebelde | **desafiar** a Mama Elena |
-| [[someterse]] | sujetarse a otro | resignado | **someterse** a la decisión |
+| sollozar | llorar con hipo | intenso | Tita **sollozaba** en la cocina |
+| anhelar | desear con vehemencia | poético | **anhelar** casarse |
+| desafiar | oponer a la autoridad | rebelde | **desafiar** a Mama Elena |
+| someterse | sujetarse a otro | resignado | **someterse** a la decisión |
 
 ### 3.4 ☀️ Verano y planes (여름과 계획)
 
 | Palabra | Significado | Marca regional |
 |---------|-------------|----------------|
-| [[bochorno]] | calor sofocante | universal |
-| [[chapparon]] | lluvia fuerte y breve | universal |
-| [[solanera]] | lugar con mucho sol | España |
-| [[escapada]] | viaje corto | universal |
-| [[pillar]] | tomar, agarrar | España (no Latinoamérica) |
-| [[apuntarse]] | inscribirse | universal |
-| [[animarse]] | decidirse | universal |
-| [[veranear]] | pasar el verano fuera | España |
+| bochorno | calor sofocante | universal |
+| chapparon | lluvia fuerte y breve | universal |
+| solanera | lugar con mucho sol | España |
+| escapada | viaje corto | universal |
+| pillar | tomar, agarrar | España (no Latinoamérica) |
+| apuntarse | inscribirse | universal |
+| animarse | decidirse | universal |
+| veranear | pasar el verano fuera | España |
 
-> 🔑 **Diferencia clave**: `pillar` es típicamente español. En México se prefiere *agarrar* o *tomar*. Ver [[pillar]] y [[espana-vs-latinoamerica-registro]].
+> 🔑 **Diferencia clave**: `pillar` es típicamente español. En México se prefiere *agarrar* o *tomar*. Ver pillar y [[espana-vs-latinoamerica-registro]].
 
 ---
 

@@ -78,10 +78,10 @@ Al final de esta guía, podrás:
 
 | Palabra | Significado | Categoría gramatical | Ejemplo del cuento |
 |---------|-------------|----------------------|---------------------|
-| [[promontorio]] | elevación de tierra sobre el mar | sust. m. | un **promontorio** oscuro y sigiloso |
-| [[sargazo]] | alga marina parda que flota en bancos | sust. m. | los matorrales de **sargazos** |
-| [[acantilado]] | pendiente rocosa sobre el mar | sust. m. | tiraban a los muertos en los **acantilados** |
-| [[angarillas]] | armazón de varas para transportar carga | sust. f. pl. | improvisaron unas **angarillas** con trinquetes |
+| promontorio | elevación de tierra sobre el mar | sust. m. | un **promontorio** oscuro y sigiloso |
+| sargazo | alga marina parda que flota en bancos | sust. m. | los matorrales de **sargazos** |
+| acantilado | pendiente rocosa sobre el mar | sust. m. | tiraban a los muertos en los **acantilados** |
+| angarillas | armazón de varas para transportar carga | sust. f. pl. | improvisaron unas **angarillas** con trinquetes |
 
 > 💡 **Truco**: todas estas palabras vienen del mundo náutico. Si conoces un término, los demás se agrupan naturalmente (mismo campo semántico).
 
@@ -89,10 +89,10 @@ Al final de esta guía, podrás:
 
 | Palabra | Significado | Connotación | Ejemplo |
 |---------|-------------|-------------|---------|
-| [[altivez]] | majestad, dignidad en el porte | positiva | sobrellevaba la muerte con **altivez** |
-| [[desvalido]] | sin protección, indefenso | emotiva | el hombre más **desvalido** de la tierra |
-| [[bobo]] | cándido, simple, tierno | paradójica | susurraban "ya se fue el **bobo** grande" |
-| [[minucioso]] | detallista, esmerado | irónica (en contexto) | las **minuciosas** noches del mar |
+| altivez | majestad, dignidad en el porte | positiva | sobrellevaba la muerte con **altivez** |
+| desvalido | sin protección, indefenso | emotiva | el hombre más **desvalido** de la tierra |
+| bobo | cándido, simple, tierno | paradójica | susurraban "ya se fue el **bobo** grande" |
+| minucioso | detallista, esmerado | irónica (en contexto) | las **minuciosas** noches del mar |
 
 > ⚠️ **Ojo con "bobo"**: en España se usa con cariño. En Cuba significa "matón, valentón" — un falso amigo cultural crítico.
 
@@ -100,14 +100,14 @@ Al final de esta guía, podrás:
 
 | Palabra | Significado | Registro | Marca regional |
 |---------|-------------|----------|----------------|
-| [[siesta]] | descanso de mediodía | coloquial | universal |
-| [[tapas]] | aperitivo con bebida | coloquial | muy española |
-| [[currar]] | trabajar | vulgar/coloquial | España peninsular |
-| [[guapo]] | atractivo (hombres) | coloquial | España, matices por país |
-| [[mola]] | gusta mucho | muy coloquial | España, Millennials/Gen Z |
-| [[botellón]] | reunión callejera para beber | coloquial | España |
-| [[calor-pegajoso]] | bochorno húmedo | coloquial | universal |
-| [[ponerse-morado]] | hartarse de algo | coloquial festivo | universal |
+| siesta | descanso de mediodía | coloquial | universal |
+| tapas | aperitivo con bebida | coloquial | muy española |
+| currar | trabajar | vulgar/coloquial | España peninsular |
+| guapo | atractivo (hombres) | coloquial | España, matices por país |
+| mola | gusta mucho | muy coloquial | España, Millennials/Gen Z |
+| botellón | reunión callejera para beber | coloquial | España |
+| calor-pegajoso | bochorno húmedo | coloquial | universal |
+| ponerse-morado | hartarse de algo | coloquial festivo | universal |
 
 > 🔑 **Diferencia clave España vs Latinoamérica**: ver [[espana-vs-latinoamerica-registro]]
 

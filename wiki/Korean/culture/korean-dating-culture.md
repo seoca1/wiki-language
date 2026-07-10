@@ -113,11 +113,11 @@ A first date in Korea: **카페, 식당, 영화, 전시회, 공원**. Daytime pr
 
 ## Useful Phrases
 
-- [[안녕하세요]] — hello
-- [[감사합니다]] — thank you
-- [[죄송합니다]] — I'm sorry
-- [[sarang]] — love
-- [[chingu]] — friend (also boyfriend/girlfriend as 남자친구/여자친구)
+- 안녕하세요 — hello
+- 감사합니다 — thank you
+- 죄송합니다 — I'm sorry
+- sarang — love
+- chingu — friend (also boyfriend/girlfriend as 남자친구/여자친구)
 - 좋아해요 — I like you
 - 사랑해 — I love you
 - 보고 싶어 — I miss you
@@ -153,7 +153,7 @@ A first date in Korea: **카페, 식당, 영화, 전시회, 공원**. Daytime pr
 ## Cross-Reference
 
 - Compare with: [[english-dating-culture]], [[japanese-dating-culture]], [[spanish-dating-culture]]
-- See also: [[sarang]], [[chingu]], [[annyeonghaseyo]]
+- See also: sarang, chingu, annyeonghaseyo
 
 ## 100일 / 기념일 문화 상세
 

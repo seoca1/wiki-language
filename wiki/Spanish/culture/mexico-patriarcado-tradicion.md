@@ -13,12 +13,12 @@
 
 ## Language Connections
 
-- [[matriarca]] - el poder femenino dentro del patriarcado
-- [[tradicion]] - lo que se hereda
-- [[mandato]] - la orden autoritaria
-- [[desafiar]] - la acción prohibida
-- [[someterse]] - lo que toca
-- [[pedir-la-mano]] - el rito del patriarcado
+- matriarca - el poder femenino dentro del patriarcado
+- tradicion - lo que se hereda
+- mandato - la orden autoritaria
+- desafiar - la acción prohibida
+- someterse - lo que toca
+- pedir-la-mano - el rito del patriarcado
 
 ## Comparación cultural
 
@@ -32,6 +32,6 @@ La novela no es "exótica" para un lector coreano: le resultará familiar en muc
 ## Sources
 
 - [[como-agua-para-chocolate-cap1]]
-- [[matriarca]]
-- [[pedir-la-mano]]
+- matriarca
+- pedir-la-mano
 - [[cocina-espacio-femenino]]

@@ -18,16 +18,16 @@ English vocabulary for health, body parts, illness, doctor visits. Essential for
 
 ## Vocabulary Extracted
 
-- [[head]] — 머리
-- [[hand]] — 손
-- [[foot]] — 발
-- [[stomach]] — 배
-- [[cold]] — 감기
-- [[fever]] — 열
-- [[doctor]] — 의사
-- [[hospital]] — 병원
-- [[medicine]] — 약
-- [[pain]] — 통증
+- head — 머리
+- hand — 손
+- foot — 발
+- stomach — 배
+- cold — 감기
+- fever — 열
+- doctor — 의사
+- hospital — 병원
+- medicine — 약
+- pain — 통증
 
 ## Expressions Extracted
 

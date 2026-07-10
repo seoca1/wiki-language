@@ -20,22 +20,22 @@ En un pueblo costero desértico aparece el cadáver de un ahogado gigantesco. Mi
 
 ## Vocabulario Extraído
 
-- [[promontorio]]
-- [[sargazo]]
-- [[acantilado]]
-- [[altivez]]
-- [[desvalido]]
-- [[angarillas]]
-- [[minucioso]]
-- [[bobo]]
+- promontorio
+- sargazo
+- acantilado
+- altivez
+- desvalido
+- angarillas
+- minucioso
+- bobo
 
 ## Expresiones Extraídas
 
-- [[quedar-varado]]
-- [[dar-la-voz-de-alarma]]
-- [[subirse-al-higado]]
-- [[tener-cara-de-llamarse]]
-- [[devolverlo-huerfano-a-las-aguas]]
+- quedar-varado
+- dar-la-voz-de-alarma
+- subirse-al-higado
+- tener-cara-de-llamarse
+- devolverlo-huerfano-a-las-aguas
 
 ## Cultural Insights
 

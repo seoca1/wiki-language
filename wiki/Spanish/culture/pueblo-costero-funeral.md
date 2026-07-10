@@ -12,12 +12,12 @@
 
 ## Language Connections
 
-- [[acantilado]] - el punto de devolución al mar
-- [[angarillas]] - camilla improvisada con restos marinos
-- [[bobo]] - apelativo paradójico del difunto
-- [[desvalido]] - el muerto que se humaniza por el duelo
-- [[quedar-varado]] - el cuerpo que se detiene antes de su último viaje
-- [[devolverlo-huerfano-a-las-aguas]] - rito de despedida
+- acantilado - el punto de devolución al mar
+- angarillas - camilla improvisada con restos marinos
+- bobo - apelativo paradójico del difunto
+- desvalido - el muerto que se humaniza por el duelo
+- quedar-varado - el cuerpo que se detiene antes de su último viaje
+- devolverlo-huerfano-a-las-aguas - rito de despedida
 
 ## Fuentes
 

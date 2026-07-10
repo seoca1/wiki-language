@@ -18,16 +18,16 @@ English vocabulary for sports, hobbies, recreation, fitness. Useful for casual c
 
 ## Vocabulary Extracted
 
-- [[sport]] — 스포츠
-- [[football]] — 미식축구 (US) / 축구 (UK)
-- [[soccer]] — 축구
-- [[basketball]] — 농구
-- [[tennis]] — 테니스
-- [[swimming]] — 수영
-- [[running]] — 달리기
-- [[yoga]] — 요가
-- [[music]] — 음악
-- [[reading]] — 독서
+- sport — 스포츠
+- football — 미식축구 (US) / 축구 (UK)
+- soccer — 축구
+- basketball — 농구
+- tennis — 테니스
+- swimming — 수영
+- running — 달리기
+- yoga — 요가
+- music — 음악
+- reading — 독서
 
 ## Expressions Extracted
 

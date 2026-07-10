@@ -12,12 +12,12 @@
 
 ## Language Connections
 
-- [[cocina]] - el espacio físico
-- [[receta]] - el saber transmitido
-- [[cebolla]] - el ingrediente que evoca
-- [[masa]] - el trabajo manual
-- [[a-fuego-lento]] - la técnica como metáfora
-- [[sollozar]] - la emoción en la cocina
+- cocina - el espacio físico
+- receta - el saber transmitido
+- cebolla - el ingrediente que evoca
+- masa - el trabajo manual
+- a-fuego-lento - la técnica como metáfora
+- sollozar - la emoción en la cocina
 
 ## Conexiones con la realidad
 

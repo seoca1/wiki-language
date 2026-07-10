@@ -57,7 +57,7 @@
 ## 인용 (References)
 
 ### 작품 인용 (Work citations)
-- [[坊っちゃん]], [[走れメロス]], [[雪国]], [[吾輩は猫である]]
+- 坊っちゃん, 走れメロス, 雪国, 吾輩は猫である
 
 ### 출처 인용 (Source citations)
 - [[literature-passages]]

@@ -51,22 +51,22 @@
 ## Referencias (References)
 
 ### Citas de Vocabulario (Vocabulary citations)
-- [[nombre]], [[encantado]], [[guapo]], [[guapa]], [[bonita]]
-- [[precioso]], [[sonrisa]], [[hobby]], [[música]]
-- [[café]], [[restaurante]], [[gustar]], [[querer]], [[amar]]
-- [[enamorado]], [[novio]], [[novia]], [[beso]], [[abrazo]]
+- nombre, encantado, guapo, guapa, bonita
+- precioso, sonrisa, hobby, música
+- café, restaurante, gustar, querer, amar
+- enamorado, novio, novia, beso, abrazo
 
 ### Citas de Expresiones (Expression citations)
-- [[encantado-de-conocerte]]
-- [[quieres-tomar-algo]]
-- [[me-gustas-mucho]]
-- [[estoy-enamorado]]
-- [[puedo-cogerte-mano]]
-- [[he-pasado-bien]]
-- [[seguir-siendo-amigos]]
+- encantado-de-conocerte
+- quieres-tomar-algo
+- me-gustas-mucho
+- estoy-enamorado
+- puedo-cogerte-mano
+- he-pasado-bien
+- seguir-siendo-amigos
 
 ### Citas Culturales (Culture citations)
-- [[cumplidos-directos]]
-- [[beso-mejilla]]
-- [[te-quiero-vs-te-amo]]
-- [[consentimiento]]
+- cumplidos-directos
+- beso-mejilla
+- te-quiero-vs-te-amo
+- consentimiento

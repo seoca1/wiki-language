@@ -51,25 +51,25 @@
 ## 인용 (References)
 
 ### 어휘 인용 (Vocabulary citations)
-- [[name]], [[meet]], [[friend]], [[single]]
-- [[beautiful]], [[handsome]], [[cute]], [[kind]], [[smart]], [[funny]]
-- [[hobby]], [[music]], [[weekend]]
-- [[date]], [[café]], [[movie]], [[dinner]]
-- [[like]], [[miss]], [[love]], [[comfortable]]
-- [[hand]], [[kiss]], [[boyfriend]], [[girlfriend]], [[relationship]]
+- name, meet, friend, single
+- beautiful, handsome, cute, kind, smart, funny
+- hobby, music, weekend
+- date, café, movie, dinner
+- like, miss, love, comfortable
+- hand, kiss, boyfriend, girlfriend, relationship
 
 ### 표현 인용 (Expression citations)
-- [[nice-to-meet-you]]
-- [[want-coffee]]
-- [[like-you]]
-- [[be-my-girlfriend]]
-- [[love-you]]
-- [[hold-your-hand]]
-- [[had-a-great-time]]
-- [[stay-friends]]
+- nice-to-meet-you
+- want-coffee
+- like-you
+- be-my-girlfriend
+- love-you
+- hold-your-hand
+- had-a-great-time
+- stay-friends
 
 ### 문화 인용 (Culture citations)
-- [[split-the-bill]]
-- [[i-love-you-timing]]
-- [[consent]]
-- [[hang-out-meaning]]
+- split-the-bill
+- i-love-you-timing
+- consent
+- hang-out-meaning

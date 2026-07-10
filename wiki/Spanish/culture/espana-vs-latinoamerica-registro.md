@@ -12,13 +12,13 @@
 
 ## Language Connections
 
-- [[siesta]] - práctica en declive en ciudades, viva en zonas rurales
-- [[tapas]] - rito social exclusivamente peninsular
-- [[guapo]] - falso amigo cultural crítico
-- [[mola]] - inequívocamente español peninsular
-- [[currar]] - marca de origen
-- [[botellon]] - fenómeno social español
-- [[calor-pegajoso]] - más común en zonas costeras y tropicales
+- siesta - práctica en declive en ciudades, viva en zonas rurales
+- tapas - rito social exclusivamente peninsular
+- guapo - falso amigo cultural crítico
+- mola - inequívocamente español peninsular
+- currar - marca de origen
+- botellon - fenómeno social español
+- calor-pegajoso - más común en zonas costeras y tropicales
 
 ## Tabla rápida
 
@@ -33,5 +33,5 @@
 ## Sources
 
 - [[notes-in-spanish-listening-log]]
-- [[siesta]]
-- [[tapas]]
+- siesta
+- tapas

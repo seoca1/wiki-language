@@ -19,16 +19,16 @@ English vocabulary for restaurants, cooking, food types, dietary restrictions. U
 
 ## Vocabulary Extracted
 
-- [[breakfast]] — 아침 식사
-- [[lunch]] — 점심
-- [[dinner]] — 저녁
-- [[water]] — 물
-- [[coffee]] — 커피
-- [[tea]] — 차
-- [[delicious]] — 맛있는
-- [[spicy]] — 매운
-- [[sweet]] — 달콤한
-- [[hot]] — 뜨거운
+- breakfast — 아침 식사
+- lunch — 점심
+- dinner — 저녁
+- water — 물
+- coffee — 커피
+- tea — 차
+- delicious — 맛있는
+- spicy — 매운
+- sweet — 달콤한
+- hot — 뜨거운
 
 ## Expressions Extracted
 
@@ -48,6 +48,6 @@ English vocabulary for restaurants, cooking, food types, dietary restrictions. U
 
 ## Sources
 
-- [[restaurant-english]] — restaurant scenarios
-- [[breakfast]] — common morning food
+- restaurant-english — restaurant scenarios
+- breakfast — common morning food
 - Cambridge English Vocabulary in Use

@@ -95,14 +95,14 @@ No preguntar = red flag.
 
 ## Useful Phrases
 
-- [[bonita]] — pretty
-- [[guapo]] — handsome
-- [[amar]] — to love (deep)
-- [[querer]] — to love (lighter)
-- [[beso]] — kiss
-- [[cita]] — date
-- [[te-quiero]] — I love you (lighter)
-- [[te-amo]] — I love you (deeper)
+- bonita — pretty
+- guapo — handsome
+- amar — to love (deep)
+- querer — to love (lighter)
+- beso — kiss
+- cita — date
+- te-quiero — I love you (lighter)
+- te-amo — I love you (deeper)
 - Me gustas — I like you
 - Encantado/a — Nice to meet you
 - ¿Quieres... ? — Do you want... ?
@@ -134,7 +134,7 @@ No preguntar = red flag.
 ## Cross-Reference
 
 - Compare with: [[english-dating-culture]], [[japanese-dating-culture]], [[korean-dating-culture]]
-- See also: [[bonita]], [[guapo]], [[te-amo]], [[cita]], [[beso]]
+- See also: bonita, guapo, te-amo, cita, beso
 
 ## Citas / Eventos Especiales
 

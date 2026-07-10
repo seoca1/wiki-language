@@ -45,6 +45,6 @@ so they learn practical Japanese phrases for the airport, hotel, transport, etc.
 
 ## 인용 (References)
 
-- **vocabulary 인용**: [[kuukou]], [[pasupooto]], [[hoteru]], [[nimotsu]], [[chikatetsu]], [[densha]]
-- **expression 인용**: [[where-is]], [[how-much]]
-- **culture 인용**: [[tipping]], [[shoes-off]]
+- **vocabulary 인용**: kuukou, pasupooto, hoteru, nimotsu, chikatetsu, densha
+- **expression 인용**: where-is, how-much
+- **culture 인용**: tipping, shoes-off

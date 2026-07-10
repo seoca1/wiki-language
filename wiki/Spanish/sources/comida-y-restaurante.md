@@ -19,16 +19,16 @@ Español para comida, restaurantes, cocina, restricciones dietéticas. Útil par
 
 ## Vocabulary Extracted
 
-- [[desayuno]] — 아침
-- [[almuerzo]] — 점심
-- [[cena]] — 저녁
-- [[agua]] — 물
-- [[cafe]] — 커피
-- [[te]] — 차
-- [[delicioso]] — 맛있는
-- [[picante]] — 매운
-- [[dulce]] — 단
-- [[carne]] — 고기
+- desayuno — 아침
+- almuerzo — 점심
+- cena — 저녁
+- agua — 물
+- cafe — 커피
+- te — 차
+- delicioso — 맛있는
+- picante — 매운
+- dulce — 단
+- carne — 고기
 
 ## Expressions Extracted
 

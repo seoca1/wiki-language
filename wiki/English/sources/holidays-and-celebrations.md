@@ -18,16 +18,16 @@ English vocabulary for holidays, celebrations, festivals, special days. Cultural
 
 ## Vocabulary Extracted
 
-- [[holiday]] — 휴일
-- [[birthday]] — 생일
-- [[christmas]] — 크리스마스
-- [[halloween]] — 할로윈
-- [[thanksgiving]] — 추수감사절
-- [[easter]] — 부활절
-- [[wedding]] — 결혼식
-- [[party]] — 파티
-- [[gift]] — 선물
-- [[cake]] — 케이크
+- holiday — 휴일
+- birthday — 생일
+- christmas — 크리스마스
+- halloween — 할로윈
+- thanksgiving — 추수감사절
+- easter — 부활절
+- wedding — 결혼식
+- party — 파티
+- gift — 선물
+- cake — 케이크
 
 ## Expressions Extracted
 

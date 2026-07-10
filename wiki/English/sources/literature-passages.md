@@ -65,9 +65,9 @@
 ## 인용 (References)
 
 ### 작품 인용 (Work citations)
-- [[great-gatsby-opening]], [[nineteen-eighty-four-opening]], [[neuromancer-opening]]
-- [[pride-and-prejudice-opening]], [[old-man-and-sea-opening]]
-- [[harry-potter-opening]], [[catcher-in-the-rye-opening]]
+- great-gatsby-opening, nineteen-eighty-four-opening, neuromancer-opening
+- pride-and-prejudice-opening, old-man-and-sea-opening
+- harry-potter-opening, catcher-in-the-rye-opening
 
 ### 출처 인용 (Source citations)
 - [[literature-passages]]

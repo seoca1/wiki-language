@@ -18,15 +18,15 @@ Korean travel vocabulary for Korean learners visiting Korea or learning about Ko
 
 ## Vocabulary Extracted
 
-- [[안녕하세요]] — hello
-- [[감사합니다]] — thank you
-- [[공항]] — airport
-- [[호텔]] — hotel
-- [[식당]] — restaurant
-- [[버스]] — bus
-- [[지하철]] — subway
-- [[택시]] — taxi
-- [[여권]] — passport
+- 안녕하세요 — hello
+- 감사합니다 — thank you
+- 공항 — airport
+- 호텔 — hotel
+- 식당 — restaurant
+- 버스 — bus
+- 지하철 — subway
+- 택시 — taxi
+- 여권 — passport
 
 ## Expressions Extracted
 

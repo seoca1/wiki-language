@@ -18,16 +18,16 @@ English vocabulary for technology, internet, computers, smartphones. Modern esse
 
 ## Vocabulary Extracted
 
-- [[computer]] — 컴퓨터
-- [[phone]] — 전화
-- [[screen]] — 화면
-- [[keyboard]] — 키보드
-- [[internet]] — 인터넷
-- [[email]] — 이메일
-- [[password]] — 비밀번호
-- [[app]] — 앱
-- [[website]] — 웹사이트
-- [[wifi]] — 와이파이
+- computer — 컴퓨터
+- phone — 전화
+- screen — 화면
+- keyboard — 키보드
+- internet — 인터넷
+- email — 이메일
+- password — 비밀번호
+- app — 앱
+- website — 웹사이트
+- wifi — 와이파이
 
 ## Expressions Extracted
 

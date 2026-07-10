@@ -12,12 +12,12 @@
 
 ## Language Connections
 
-- [[cebolla]] - el alimento que evoca lágrimas
-- [[molcajete]] - utensilio prehispánico
-- [[masa]] - la base de la cocina mexicana
-- [[receta]] - estructura narrativa central
-- [[sollozar]] - el llanto que cocina
-- [[a-fuego-lento]] - técnica y metáfora
+- cebolla - el alimento que evoca lágrimas
+- molcajete - utensilio prehispánico
+- masa - la base de la cocina mexicana
+- receta - estructura narrativa central
+- sollozar - el llanto que cocina
+- a-fuego-lento - técnica y metáfora
 
 ## Diferencias con García Márquez
 

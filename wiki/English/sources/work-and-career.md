@@ -18,16 +18,16 @@ English vocabulary for the workplace — job titles, meetings, emails, business 
 
 ## Vocabulary Extracted
 
-- [[work]] — 일
-- [[office]] — 사무실
-- [[meeting]] — 회의
-- [[manager]] — 매니저
-- [[project]] — 프로젝트
-- [[deadline]] — 마감
-- [[email]] — 이메일
-- [[salary]] — 급여
-- [[colleague]] — 동료
-- [[boss]] — 상사
+- work — 일
+- office — 사무실
+- meeting — 회의
+- manager — 매니저
+- project — 프로젝트
+- deadline — 마감
+- email — 이메일
+- salary — 급여
+- colleague — 동료
+- boss — 상사
 
 ## Expressions Extracted
 
@@ -47,6 +47,6 @@ English vocabulary for the workplace — job titles, meetings, emails, business 
 
 ## Sources
 
-- [[business-english]] — professional contexts
-- [[email-etiquette]] — digital communication
+- business-english — professional contexts
+- email-etiquette — digital communication
 - Business English Pod (podcast)
