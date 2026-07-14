@@ -127,3 +127,16 @@
 - **Action**: basic-vocabulary.md 신규 (각 언어 25/22 entries)
 - **Schema**: ### {word} 섹션 + YAML Pipeline Form appendix (game consumer 인용 가능)
 - **다음 단계**: Game raw/ 의 per-word → theme-anchor 자동 변환 (별도 세션 또는 dry-run 후 사용자 확인)
+
+## [2026-07-14] feat | basic-vocabulary theme 신규 (Game corpus curation prep + EN/ES curation 완료)
+
+- **Trigger**: Game corpus raw/{en,es}_words.md 에 basic categories (greeting/number/color/family/basic/adjective) per-word entry 다수 — Language wiki 대응 theme 부재.
+- **Action**: Spanish basic-vocabulary.md 신규 (22 entries, theme-anchor convention)
+- **Cross-project sync**:
+  - Language EN/ES basic-vocabulary 신규 (commit af9f342, 4c62d40)
+  - Game raw/en_words.md 25 entries per-word → [[basic-vocabulary]]
+  - Game raw/es_words.md 22 entries per-word → [[basic-vocabulary]]
+- **Safety**: dry-run 0 false positive 확인 후 apply. Pipeline Form YAML display exact match 기반.
+- **Spanish index 갱신**: 22 → 23 vocab theme files
+- **미매핑**: animal/place/body/travel/food 카테고리 entry 는 unchanged — Language wiki 확장 후 별도 batch
+- **JP/KR curation deferred**: KR categorization 매우 messy, JP 는 12 entry 만 — dedicated session 필요
