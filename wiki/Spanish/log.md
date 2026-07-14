@@ -104,3 +104,19 @@
 - **expressions/ 스페인 5개 theme 신규**: `daily-life.md` (8), `romance-relationships.md` (7), `emotions-reactions.md` (10), `subjunctive-patterns.md` (3), `cultural-idioms.md` (4)
 - **.gitignore + 시큐어**: .env/.pyc 추적 해제 (🚨 Notion 토큰 — 사용자 무시)
 - **Game 측 contract sync**: cross-project 정합
+
+## [2026-07-14] card-extraction | ADR-0062 weekly rerun | +5 mexican_food terms
+
+- **Trigger**: last_processed_date=2026-07-12 (7/13 1차 실행). 7/13 카드 도착 확인 후 rerun.
+- **실행**: `python3 Language/tools/extract_cards.py` (ADR-0062 §D4 idempotent)
+- **결과**: 7/13 카드 (culture:mexican_food) → 5 신규 terms → 신규 theme 파일:
+  - `wiki/Spanish/vocabulary/mexican_food-vocabulary.md` (5 entries)
+  - al pastor / carnitas / pollo / res / pescado (5대 클래식 타코)
+  - YAML Pipeline Form appendix 포함, theme-anchor source `[[mexican_food-vocabulary]]`
+- **Idempotency 검증**: 15 기존 카드 + 1 신규 = 16 processed, 5 lessons SKIP, 24 date SKIP, 0 errors
+  - 69 terms dedup (기존 Language wiki 매칭), 5 신규 write
+  - terms_written=5 (이전 61 → 66)
+- **.openclaw immutable**: pre/post archive file count 동일 (47 files, ADR-0062 §D1 read-only 100% 준수)
+- **Checkpoint**: `_card_extraction_state.md` 갱신 (last_processed_date=2026-07-13)
+- **Spanish index.md 갱신**: 7 → 22 vocab theme files (7/13 batch 15 theme 누락분 반영 + mexican_food 추가), Last updated 2026-07-14
+- **다음 weekly run 기준점**: 2026-07-13
