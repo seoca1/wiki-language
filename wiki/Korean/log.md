@@ -129,3 +129,13 @@
 - **expressions 통합**: 59 per-expression → 9 theme
 - **.gitignore + 시큐어**: .env/.pyc 추적 해제 (🚨 Notion 토큰 평문 노출 — 사용자 무시 결정)
 - **Game 측 contract sync**: corpus-pipeline.md, AGENTS.md, languages/korean.md cross-project 정합
+
+## [2026-07-14] sync | index.md 갱신 — 7/13 batch 누락분 반영
+
+- **Trigger**: 본 세션 Language 상태 점검에서 발견 — EN/JP/KR index.md 가 "Last updated: 2026-07-08" 그대로 stale. 7/13 batch 의 vocab theme 신규분이 index 에 미반영.
+- **Action**: index.md 전면 갱신 (각 언어 vocab/expressions/culture/sources 카운트 + 신규 theme link + 마지막 갱신일)
+- **변경**:
+  - EN: Last updated → 2026-07-14, sources 15개 명시 + first-travel-japan source 추가, Pipeline Notes 섹션
+  - JP: Last updated → 2026-07-14, vocab 7 → 9 (+ jp-counters + kanji-n5), sources 15개 + 2026-07-13_Kanji_N5_100
+  - KR: Last updated → 2026-07-14, vocab 7 → 8 (+ topik1-starter), 의류・패션 어휘 23 entries 명시, raw OCR cleanup 노트
+- **wikilink 검증**: 모든 [[wikilink]] 가 실제 파일 가리킴 확인 (placeholder 제외)

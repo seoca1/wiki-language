@@ -54,3 +54,13 @@
 **원칙 정착**: "단어나 문장 하나를 .md 로 만들지 않는다" — vocabulary/expressions 모두 theme-file 컨벤션.
 
 **최종**: broken wikilink 1302 → 86 (touch 가능 범위 0, 모두 immutable).
+
+## [2026-07-14] sync | index.md 갱신 — 7/13 batch 누락분 반영
+
+- **Trigger**: 본 세션 Language 상태 점검에서 발견 — EN/JP/KR index.md 가 "Last updated: 2026-07-08" 그대로 stale. 7/13 batch 의 vocab theme 신규분이 index 에 미반영.
+- **Action**: index.md 전면 갱신 (각 언어 vocab/expressions/culture/sources 카운트 + 신규 theme link + 마지막 갱신일)
+- **변경**:
+  - EN: Last updated → 2026-07-14, sources 15개 명시 + first-travel-japan source 추가, Pipeline Notes 섹션
+  - JP: Last updated → 2026-07-14, vocab 7 → 9 (+ jp-counters + kanji-n5), sources 15개 + 2026-07-13_Kanji_N5_100
+  - KR: Last updated → 2026-07-14, vocab 7 → 8 (+ topik1-starter), 의류・패션 어휘 23 entries 명시, raw OCR cleanup 노트
+- **wikilink 검증**: 모든 [[wikilink]] 가 실제 파일 가리킴 확인 (placeholder 제외)
