@@ -79,3 +79,10 @@
 - **ZH 상태**: 이미 7/13 scaffold 로 최신 상태 (5 vocab + 4 sources + 2 grammar + conventions)
 - **Action**: Last updated 날짜만 2026-07-14 로 갱신
 - **Vault-wide wikilink 검증**: EN/JP/KR/Spanish index.md 의 모든 [[wikilink]] 가 실제 파일 가리키는지 python 검증 (placeholder 제외) — 모두 유효
+
+## [2026-07-14] session-end | 본 세션 종합 summary 참조
+
+- **세션 종합**: [[SESSION_SUMMARY_2026-07-14]] (전체 15 액션 + 보안 scrub + force-push 요약)
+- **보안 가이드**: [[security-incident-response-2026-07-14]] (_publish/2026-W25/, 360 lines)
+- **상태**: Language HEAD `8aae316` (force-pushed) / Game HEAD `7d78707` (curation push)
+- **세션 종료**: 본 엔트리까지

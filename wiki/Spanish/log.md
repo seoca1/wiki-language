@@ -140,3 +140,10 @@
 - **Spanish index 갱신**: 22 → 23 vocab theme files
 - **미매핑**: animal/place/body/travel/food 카테고리 entry 는 unchanged — Language wiki 확장 후 별도 batch
 - **JP/KR curation deferred**: KR categorization 매우 messy, JP 는 12 entry 만 — dedicated session 필요
+
+## [2026-07-14] session-end | 본 세션 종합 summary 참조
+
+- **세션 종합**: [[SESSION_SUMMARY_2026-07-14]] (전체 15 액션 + 보안 scrub + force-push 요약)
+- **보안 가이드**: [[security-incident-response-2026-07-14]] (_publish/2026-W25/, 360 lines)
+- **상태**: Language HEAD `8aae316` (force-pushed) / Game HEAD `7d78707` (curation push)
+- **세션 종료**: 본 엔트리까지
