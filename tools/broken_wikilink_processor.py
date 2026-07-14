@@ -1,0 +1,188 @@
+#!/usr/bin/env python3
+"""
+broken_wikilink_processor.py — Broken wikilink inventory + stub generator.
+
+Scans Language vault for broken [[stem]] references that have no target page.
+Outputs:
+  --inventory  : full markdown table of broken stems (default)
+  --plan       : ordered processing plan (frequency desc)
+  --create-stubs <output_dir>  : scaffold stub pages (frontmatter only, no body)
+
+Usage:
+  python3 Language/tools/broken_wikilink_processor.py --inventory > /tmp/inv.md
+  python3 Language/tools/broken_wikilink_processor.py --plan
+  python3 Language/tools/broken_wikilink_processor.py --create-stubs /tmp/stubs
+"""
+from __future__ import annotations
+import argparse
+import re
+import sys
+from collections import Counter, defaultdict
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[2]
+EXCLUDE = {'.git','node_modules','.obsidian','.vite','.cache','.mypy_cache','.pytest_cache','.ruff_cache','.omo','.mypy_cache'}
+WIKILINK = re.compile(r'(?<!`)\[\[([^\]|#]+)')
+CODE = re.compile(r'```.*?```', re.DOTALL)
+
+
+def classify(stem: str) -> str:
+    if '-' in stem:
+        parts = stem.split('-')
+        if all(len(p) > 2 for p in parts):
+            return 'spanish_idiom' if any(c in 'áéíóúñ' for c in stem) else 'kebab_compound'
+        return 'short_parts'
+    if stem in {'like', 'love', 'cake'}:
+        return 'english_short'
+    return 'single_word'
+
+
+def detect_language(stem: str, source_path: str) -> str:
+    """Guess target wiki language from source file path."""
+    sp = source_path.lower()
+    if '/spanish' in sp or '/es/' in sp:
+        return 'Spanish'
+    if '/english' in sp or '/en/' in sp:
+        return 'English'
+    if '/korean' in sp or '/ko/' in sp:
+        return 'Korean'
+    if '/japanese' in sp or '/jp/' in sp or '/ja/' in sp:
+        return 'Japanese'
+    return 'Unknown'
+
+
+def collect():
+    """Walk vault, collect broken wikilinks with frequency."""
+    files = [p for p in ROOT.rglob('*.md') if not any(e in p.parts for e in EXCLUDE)]
+    stem_set = {p.stem: p for p in files}
+
+    referencing = defaultdict(set)  # stem -> set of source files
+    for f in files:
+        txt = f.read_text(errors='ignore')
+        no_code = CODE.sub('', txt)
+        for w in WIKILINK.findall(no_code):
+            w = w.strip()
+            if not w or w in {'wikilink','...','…'}: continue
+            if '{' in w or w in {'stem','theme','word'}: continue
+            try: ok = (f.parent / w).resolve().exists()
+            except: ok = False
+            if not ok: ok = Path(w).stem in stem_set
+            if not ok:
+                referencing[w].add(str(f.relative_to(ROOT)))
+    return referencing
+
+
+def render_inventory(referencing):
+    lines = ["# Broken Wikilink Inventory\n"]
+    lines.append(f"총 **{len(referencing)}개** unique stem, 출처 파일 다양\n\n")
+    lines.append("## 카테고리\n")
+    cats = defaultdict(list)
+    for s in referencing:
+        cats[classify(s)].append(s)
+    for cat, stems in sorted(cats.items()):
+        lines.append(f"### {cat} ({len(stems)}개)\n\n")
+        lines.append("| stem | 빈도 | 카테고리 | 출처 샘플 |\n|---|---:|---|---|\n")
+        for s in sorted(stems, key=lambda x: -len(referencing[x])):
+            sample = sorted(referencing[s])[0]
+            lines.append(f"| `[[{s}]]` | {len(referencing[s])} | {detect_language(s, sample)} | `{sample}` |\n")
+        lines.append("\n")
+    return "".join(lines)
+
+
+def render_plan(referencing):
+    """Priority order: freq desc, then language."""
+    lang_pri = {'Spanish': 1, 'English': 2, 'Korean': 3, 'Japanese': 4, 'Unknown': 9}
+    items = []
+    for s, refs in referencing.items():
+        sample = sorted(refs)[0]
+        items.append((len(refs), lang_pri.get(detect_language(s, sample), 9), s, sample))
+    items.sort(key=lambda x: (-x[0], x[1], x[2]))
+    lines = ["# Processing Plan (priority order)\n\n"]
+    lines.append("처리 순서: 빈도 desc, 그다음 언어 우선순위.\n\n")
+    lines.append("| # | stem | 빈도 | 언어 | 첫 출처 |\n|---|---|---:|---|---|\n")
+    for i, (freq, _, stem, sample) in enumerate(items, 1):
+        sample = sorted(referencing[stem])[0]
+        lines.append(f"| {i} | `[[{stem}]]` | {freq} | {detect_language(stem, sample)} | `{sample}` |\n")
+    return "".join(lines)
+
+
+def render_stub(stem: str, sample_path: str) -> str:
+    """Minimal stub page with frontmatter for LLM wiki pattern."""
+    lang = detect_language(stem, sample_path)
+    category = classify(stem)
+    safe_stem = stem.replace("/", "-")
+    return f"""---
+title: "{stem}"
+language: "{lang}"
+category: "{category}"
+status: stub
+source_references: 0
+ingested_from: "auto-discovery 2026-07-11"
+---
+
+# {stem}
+
+> **Status**: stub. 본문은 ingestion 대기 중.
+>
+> 정의·예문·번역 추가 시 body 작성 권장.
+
+## 정의 / Definition
+
+_TODO: 위 정의 / 한 줄 설명_
+
+## 예문 / Examples
+
+_TODO: 사용 예문_
+
+## 번역 (한↔{lang})
+
+_TODO: 번역_
+
+## 관련 어휘
+
+_TODO: 관련 wikilink_
+
+## 인용 / Citations
+
+_TODO: raw/ 또는 _publish/ 출처 인용_
+
+---
+
+*Generated by `Language/tools/broken_wikilink_processor.py` on 2026-07-11.*
+"""
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description="Broken wikilink processor")
+    parser.add_argument("--inventory", action="store_true", help="output inventory markdown")
+    parser.add_argument("--plan", action="store_true", help="output priority plan")
+    parser.add_argument("--create-stubs", metavar="DIR", help="create stub pages in DIR")
+    parser.add_argument("--limit", type=int, default=0, help="limit number of stubs created (0 = all)")
+    args = parser.parse_args()
+
+    referencing = collect()
+
+    if args.create_stubs:
+        out = Path(args.create_stubs)
+        out.mkdir(parents=True, exist_ok=True)
+        stems_sorted = sorted(referencing, key=lambda s: -len(referencing[s]))
+        if args.limit:
+            stems_sorted = stems_sorted[:args.limit]
+        for i, stem in enumerate(stems_sorted, 1):
+            sample = sorted(referencing[stem])[0]
+            safe = stem.replace("/", "-")
+            f = out / f"{safe}.md"
+            f.write_text(render_stub(stem, sample))
+        print(f"Created {len(stems_sorted)} stub files in {out}")
+        return 0
+
+    if args.plan:
+        sys.stdout.write(render_plan(referencing))
+        return 0
+
+    sys.stdout.write(render_inventory(referencing))
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
