@@ -72,3 +72,10 @@
   - both → pinyin-basics-zh, daily-routine-zh, greetings-zh, family-zh
 - **wiki/Chinese/grammar/** 디렉토리 최초 생성
 - **인덱스 갱신**: Chinese index.md 에 Grammar (2 entries) 섹션 추가, Last updated 갱신
+
+## [2026-07-14] sync | index.md date 갱신 + vault-wide wikilink 검증
+
+- **Trigger**: EN/JP/KR index.md 가 stale (Last updated 7/08) 한 상태 발견 → 4 언어 일괄 동기화
+- **ZH 상태**: 이미 7/13 scaffold 로 최신 상태 (5 vocab + 4 sources + 2 grammar + conventions)
+- **Action**: Last updated 날짜만 2026-07-14 로 갱신
+- **Vault-wide wikilink 검증**: EN/JP/KR/Spanish index.md 의 모든 [[wikilink]] 가 실제 파일 가리키는지 python 검증 (placeholder 제외) — 모두 유효

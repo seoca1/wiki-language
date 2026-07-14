@@ -1,6 +1,6 @@
 # Chinese Learning Wiki - Index
 
-Last updated: 2026-07-13 (grammar ingest: basic-particles + word-order)
+Last updated: 2026-07-14 (vault-wide index sync — wikilink integrity verified across EN/JP/KR/ZH/Spanish)
 
 > Chinese (zh) is the **5th language** in the vault, expanding the prior 4-language footprint (English / Japanese / Korean / Spanish). This index follows the same pattern as the other languages' indexes; section headers and theme-file conventions are inherited from `Language/schema/AGENTS.md` (lines 267-294) and the `theme-file` convention established in the 2026-07-10 lint session (no per-word / per-expression `.md` files).
 
