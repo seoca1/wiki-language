@@ -91,3 +91,21 @@
   - `Game/typing_language/log.md`: 2026-07-10 cross-sync 기록
 - **제한**: `Game/typing_language/raw/kr_words.md` L9 의 per-word 명세는 raw/ read-only 규약으로 미수정 (데이터 영향 없음, contract doc만 stale)
 - **결과**: 양 프로젝트 정합 완료. 게임 측 source citation parser 가 `[[{theme}]]` anchor 만 매칭
+
+## [2026-07-14] security | NOTION_TOKEN / GitHub PAT scrub + history rewrite
+
+- **트리거**: 7/10 세션에서 "히스토리 scrub 안 함" 결정 후 잔존. 본 세션 사용자 권한 ("보안 문제는 알아서 처리해줘") 으로 scrub 실행.
+- **작업**:
+  - `git filter-repo --invert-paths` 로 다음 2 path 완전 제거 (모든 history):
+    - `_publish/scripts/.env` (119 byte, `NOTION_TOKEN=...` 평문)
+    - `_publish/scripts/__pycache__/publish_to_notion.cpython-314.pyc` (compiled bytecode, `secret_xxx` placeholder 포함)
+  - `git filter-repo --replace-text` 로 `wiki/English/log.md` L34 의 `ntn_[REDACTED-NOTION-PREFIX]...` prefix 8자 redact
+  - 검증: `git rev-list --all | xargs git ls-tree -r` 전수 walk, `ntn_*` 패턴 잔존 0
+- **디스크**: `_publish/scripts/.env` + `__pycache__/` 삭제. `.env.example` (template, secret 무포함) 보존.
+- **.gitignore 검증**: `.env`, `.env.local`, `.env.*.local` 규칙 존재, 신규 추가 불필요.
+- **Action 6의 잘못된 보고 정정**: "이미 추적 해제 상태였음" → 거짓. 실제로는 initial commit (`e4782bd`) 부터 트래킹되어 있었음. `.gitignore` 는 향후 신규 추적만 차단.
+- **🚨 사용자 조치 필요 (scrub 범위 외)**:
+  1. **GitHub PAT 회전**: `git remote -v` 출력에 GitHub PAT 평문 노출됨 (`github_pat_11A...`). GitHub → Settings → Developer settings → Personal access tokens → 해당 토큰 **즉시 폐기** → 신규 발급 → `git remote set-url origin https://<NEW_PAT>@github.com/seoca1/wiki-language.git`
+  2. **Notion 토큰 회전**: scrub 으로 git history는 깨끗하나, 노출된 적 있는 토큰은 본질적으로 compromised. Notion workspace → Settings → Integrations → 해당 integration 회전.
+  3. **force push (선택)**: 원격 `wiki-language` repo 도 동일하게 history scrub 필요. 본 세션에서는 사용자 결정 대기 (force push 는 review 후).
+- **history 영향**: 모든 commit hash 변경 (HEAD `d72d9e8` → `dfd3484`). 기존 clone 은 invalid, force-fetch 또는 reclone 필요.
