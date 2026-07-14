@@ -120,3 +120,10 @@
 - **Checkpoint**: `_card_extraction_state.md` 갱신 (last_processed_date=2026-07-13)
 - **Spanish index.md 갱신**: 7 → 22 vocab theme files (7/13 batch 15 theme 누락분 반영 + mexican_food 추가), Last updated 2026-07-14
 - **다음 weekly run 기준점**: 2026-07-13
+
+## [2026-07-14] feat | 신규 theme basic-vocabulary 추가 (Game corpus curation prep)
+
+- **Trigger**: Game raw/{en,es}_words.md 에 basic categories (greeting/number/color/family/basic/adjective) per-word entry 다수 — Language wiki 에 대응 theme 부재.
+- **Action**: basic-vocabulary.md 신규 (각 언어 25/22 entries)
+- **Schema**: ### {word} 섹션 + YAML Pipeline Form appendix (game consumer 인용 가능)
+- **다음 단계**: Game raw/ 의 per-word → theme-anchor 자동 변환 (별도 세션 또는 dry-run 후 사용자 확인)

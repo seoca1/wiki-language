@@ -2,7 +2,7 @@
 
 Last updated: 2026-07-14 (7/13 batch sync: 6 vocab themes raw↔wiki + first-travel-japan source)
 
-## Vocabulary (7 theme files)
+## Vocabulary (8 theme files)
 
 ### Core Theme Files
 
@@ -13,6 +13,10 @@ Last updated: 2026-07-14 (7/13 batch sync: 6 vocab themes raw↔wiki + first-tra
 - [[nature-vocabulary]] - Nature & Weather — phenomena, landforms, plants
 - [[animals-vocabulary]] - Animals — pets, wild animals, insects, marine life
 - [[clothing-vocabulary]] - Clothing & Fashion — garments, materials, colors
+
+### Basic Vocabulary (foundation)
+
+- [[basic-vocabulary]] - Basic Vocabulary — greetings, basic responses, numbers 1-10, colors, family, common adjectives (25 entries, A1-A2)
 
 ## Expressions (2 theme files / 12 entries)
 

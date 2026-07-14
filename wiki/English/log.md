@@ -119,3 +119,10 @@
   - JP: Last updated → 2026-07-14, vocab 7 → 9 (+ jp-counters + kanji-n5), sources 15개 + 2026-07-13_Kanji_N5_100
   - KR: Last updated → 2026-07-14, vocab 7 → 8 (+ topik1-starter), 의류・패션 어휘 23 entries 명시, raw OCR cleanup 노트
 - **wikilink 검증**: 모든 [[wikilink]] 가 실제 파일 가리킴 확인 (placeholder 제외)
+
+## [2026-07-14] feat | 신규 theme basic-vocabulary 추가 (Game corpus curation prep)
+
+- **Trigger**: Game raw/{en,es}_words.md 에 basic categories (greeting/number/color/family/basic/adjective) per-word entry 다수 — Language wiki 에 대응 theme 부재.
+- **Action**: basic-vocabulary.md 신규 (각 언어 25/22 entries)
+- **Schema**: ### {word} 섹션 + YAML Pipeline Form appendix (game consumer 인용 가능)
+- **다음 단계**: Game raw/ 의 per-word → theme-anchor 자동 변환 (별도 세션 또는 dry-run 후 사용자 확인)

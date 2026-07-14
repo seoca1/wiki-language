@@ -2,7 +2,7 @@
 
 Last updated: 2026-07-14 (ADR-0062 card extraction 7/13 rerun + index sync)
 
-## Vocabulary (22 theme files)
+## Vocabulary (23 theme files)
 
 ### Core Theme Files
 
@@ -13,6 +13,10 @@ Last updated: 2026-07-14 (ADR-0062 card extraction 7/13 rerun + index sync)
 - [[nature-vocabulary]] - Naturaleza y Clima — Fenómenos, formaciones terrestres, plantas
 - [[animals-vocabulary]] - Animales — Mascotas, animales salvajes, insectos
 - [[clothing-vocabulary]] - Ropa y Moda — Prendas, materiales, colores
+
+### Basic Vocabulary (foundation)
+
+- [[basic-vocabulary]] - Vocabulario Básico — saludos, respuestas básicas, números 1-5, colores, familia, adjetivos comunes (22 entries, A1-A2)
 
 ### Body & Daily Life
 
