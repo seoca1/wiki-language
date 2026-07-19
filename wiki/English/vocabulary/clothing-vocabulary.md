@@ -1,8 +1,12 @@
+---
+source: "clothing-vocabulary"
+category: "clothing"
+level: "A1-B1"
+theme: "clothing"
+---
+
 # Clothing & Fashion (English)
 
-> **Source:** [[clothing-vocabulary]]
-> **Category:** clothing
-> **Level:** A1-B1
 
 This page aggregates all clothing and fashion vocabulary for the typing language game corpus.
 
@@ -12,14 +16,185 @@ This page aggregates all clothing and fashion vocabulary for the typing language
 
 ## Basic Clothing
 
-| English | IPA | Meaning |
-|---------|-----|---------|
-| shirt | /ʃɜːrt/ | 셔츠 |
-| pants | /pænts/ | 바지 |
-| shoes | /ʃuːz/ | 구두 |
-| hat | /hæt/ | 모자 |
-| coat | /koʊt/ | 코트 |
-| dress | /drɛs/ | 드레스 |
+## Basic Clothing
+
+### shirt
+
+**Part of Speech:** noun
+
+**Definition:** 셔츠
+
+**IPA / Pronunciation:** /ʃɜːrt/
+
+**Etymology:** English: shirt (etymology research needed)
+
+#### Examples
+
+- I need a shirt. — Expressing need
+- The shirt is here. — Location/presence
+
+#### Related Terms
+
+- [[shirt]] — Self-reference check
+- [[clothing-vocabulary]] — Clothing vocabulary
+
+#### Cultural Notes
+
+Cultural context to be added
+
+#### Sources
+
+- [[clothing-vocabulary]]
+
+---
+
+### pants
+
+**Part of Speech:** noun
+
+**Definition:** 바지
+
+**IPA / Pronunciation:** /pænts/
+
+**Etymology:** English: pants (etymology research needed)
+
+#### Examples
+
+- I need a pants. — Expressing need
+- The pants is here. — Location/presence
+
+#### Related Terms
+
+- [[pants]] — Self-reference check
+- [[clothing-vocabulary]] — Clothing vocabulary
+
+#### Cultural Notes
+
+Cultural context to be added
+
+#### Sources
+
+- [[clothing-vocabulary]]
+
+---
+
+### shoes
+
+**Part of Speech:** noun
+
+**Definition:** 구두
+
+**IPA / Pronunciation:** /ʃuːz/
+
+**Etymology:** English: shoes (etymology research needed)
+
+#### Examples
+
+- I need a shoes. — Expressing need
+- The shoes is here. — Location/presence
+
+#### Related Terms
+
+- [[shoes]] — Self-reference check
+- [[clothing-vocabulary]] — Clothing vocabulary
+
+#### Cultural Notes
+
+Cultural context to be added
+
+#### Sources
+
+- [[clothing-vocabulary]]
+
+---
+
+### hat
+
+**Part of Speech:** noun
+
+**Definition:** 모자
+
+**IPA / Pronunciation:** /hæt/
+
+**Etymology:** English: hat (etymology research needed)
+
+#### Examples
+
+- I need a hat. — Expressing need
+- The hat is here. — Location/presence
+
+#### Related Terms
+
+- [[hat]] — Self-reference check
+- [[clothing-vocabulary]] — Clothing vocabulary
+
+#### Cultural Notes
+
+Cultural context to be added
+
+#### Sources
+
+- [[clothing-vocabulary]]
+
+---
+
+### coat
+
+**Part of Speech:** noun
+
+**Definition:** 코트
+
+**IPA / Pronunciation:** /koʊt/
+
+**Etymology:** English: coat (etymology research needed)
+
+#### Examples
+
+- I need a coat. — Expressing need
+- The coat is here. — Location/presence
+
+#### Related Terms
+
+- [[coat]] — Self-reference check
+- [[clothing-vocabulary]] — Clothing vocabulary
+
+#### Cultural Notes
+
+Cultural context to be added
+
+#### Sources
+
+- [[clothing-vocabulary]]
+
+---
+
+### dress
+
+**Part of Speech:** noun
+
+**Definition:** 드레스
+
+**IPA / Pronunciation:** /drɛs/
+
+**Etymology:** English: dress (etymology research needed)
+
+#### Examples
+
+- I need a dress. — Expressing need
+- The dress is here. — Location/presence
+
+#### Related Terms
+
+- [[dress]] — Self-reference check
+- [[clothing-vocabulary]] — Clothing vocabulary
+
+#### Cultural Notes
+
+Cultural context to be added
+
+#### Sources
+
+- [[clothing-vocabulary]]
 
 ---
 
@@ -35,11 +210,4 @@ This page aggregates all clothing and fashion vocabulary for the typing language
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
-```yaml
-- { id: 001, display: "shirt", input: "shirt", meaning: "셔츠", level: "A1-B1", category: "clothing", source: "[[clothing-vocabulary]]" }
-- { id: 002, display: "pants", input: "pants", meaning: "바지", level: "A1-B1", category: "clothing", source: "[[clothing-vocabulary]]" }
-- { id: 003, display: "shoes", input: "shoes", meaning: "구두", level: "A1-B1", category: "clothing", source: "[[clothing-vocabulary]]" }
-- { id: 004, display: "hat", input: "hat", meaning: "모자", level: "A1-B1", category: "clothing", source: "[[clothing-vocabulary]]" }
-- { id: 005, display: "coat", input: "coat", meaning: "코트", level: "A1-B1", category: "clothing", source: "[[clothing-vocabulary]]" }
-- { id: 006, display: "dress", input: "dress", meaning: "드레스", level: "A1-B1", category: "clothing", source: "[[clothing-vocabulary]]" }
 ```

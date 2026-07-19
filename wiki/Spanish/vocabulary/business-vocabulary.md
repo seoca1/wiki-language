@@ -1,8 +1,12 @@
+---
+source: "business-vocabulary-es"
+category: "business"
+level: "DELE/Negocios"
+theme: "business"
+---
+
 # Vocabulario de Negocios (Spanish Business Vocabulary)
 
-> **Source:** [[business-vocabulary-es]][[business-vocabulary-es]]
-> **Category:** business
-> **Level:** DELE/Negocios
 
 Esta página agrega todo el vocabulario de negocios para el corpus del juego de mecanografía.
 
@@ -10,31 +14,1385 @@ Esta página agrega todo el vocabulario de negocios para el corpus del juego de 
 
 ## Trabajo y Oficina
 
-| Español | Pronunciación | Significado |
-|---------|--------------|-------------|-----------|
-| trabajo | /tɾaβaɣo/ | trabajo |
-| oficina | /ofiθina/ | oficina |
-| empleado | /empleado/ | empleado |
-| jefe | /xefe/ | jefe |
-| reunión | /reunión/ | reunión |
-| proyecto | /pɾoyekto/ | proyecto |
-| salario | /salarjo/ | salario |
-| correo electrónico | /korreo elektroniko/ | email |
-| reserva | /reˈseɾβa/ | reserva |
-| cuenta | /kwenta/ | cuenta |
+## Trabajo y Oficina
+
+## Trabajo y Oficina
+
+General
+
+### trabajo
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un trabajo. — Expresando necesidad
+- El trabajo está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[trabajo]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
 
 ---
 
-## Páginas Relacionadas
+### Examples
 
-- trabajo — trabajo
-- oficina — oficina
-- empleado — empleado
-- jefe — jefe
+**Part of Speech:** 
 
-## Fuentes
+**Definition:** 
 
-- [[business-vocabulary-es]][[business-vocabulary-es]]
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### oficina
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un oficina. — Expresando necesidad
+- El oficina está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[oficina]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### empleado
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un empleado. — Expresando necesidad
+- El empleado está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[empleado]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### jefe
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un jefe. — Expresando necesidad
+- El jefe está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[jefe]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### reunión
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un reunión. — Expresando necesidad
+- El reunión está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[reunión]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### proyecto
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un proyecto. — Expresando necesidad
+- El proyecto está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[proyecto]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### salario
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un salario. — Expresando necesidad
+- El salario está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[salario]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### correo electrónico
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un correo electrónico. — Expresando necesidad
+- El correo electrónico está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- correo electrónico — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### reserva
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un reserva. — Expresando necesidad
+- El reserva está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[reserva]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### cuenta
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un cuenta. — Expresando necesidad
+- El cuenta está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[cuenta]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+## Sources
+
+- [[business-vocabulary]]
 
 ---
 
@@ -44,15 +1402,4 @@ Esta página agrega todo el vocabulario de negocios para el corpus del juego de 
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
-```yaml
-- { id: 001, display: "trabajo", input: "trabajo", meaning: "trabajo", level: "DELE/Negocios", category: "business", source: "[[business-vocabulary]]" }
-- { id: 002, display: "oficina", input: "oficina", meaning: "oficina", level: "DELE/Negocios", category: "business", source: "[[business-vocabulary]]" }
-- { id: 003, display: "empleado", input: "empleado", meaning: "empleado", level: "DELE/Negocios", category: "business", source: "[[business-vocabulary]]" }
-- { id: 004, display: "jefe", input: "jefe", meaning: "jefe", level: "DELE/Negocios", category: "business", source: "[[business-vocabulary]]" }
-- { id: 005, display: "reunión", input: "reunión", meaning: "reunión", level: "DELE/Negocios", category: "business", source: "[[business-vocabulary]]" }
-- { id: 006, display: "proyecto", input: "proyecto", meaning: "proyecto", level: "DELE/Negocios", category: "business", source: "[[business-vocabulary]]" }
-- { id: 007, display: "salario", input: "salario", meaning: "salario", level: "DELE/Negocios", category: "business", source: "[[business-vocabulary]]" }
-- { id: 008, display: "correo electrónico", input: "correo electrónico", meaning: "email", level: "DELE/Negocios", category: "business", source: "[[business-vocabulary]]" }
-- { id: 009, display: "reserva", input: "reserva", meaning: "reserva", level: "DELE/Negocios", category: "business", source: "[[business-vocabulary]]" }
-- { id: 010, display: "cuenta", input: "cuenta", meaning: "cuenta", level: "DELE/Negocios", category: "business", source: "[[business-vocabulary]]" }
 ```

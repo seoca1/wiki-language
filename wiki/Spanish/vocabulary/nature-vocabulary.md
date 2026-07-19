@@ -1,8 +1,12 @@
+---
+source: "nature-vocabulary-es"
+category: "nature"
+level: "A1-B1"
+theme: "nature"
+---
+
 # Vocabulario de Naturaleza (Spanish Nature Vocabulary)
 
-> **Source:** [[nature-vocabulary-es]]
-> **Category:** nature
-> **Level:** A1-B1
 
 Esta página agrega todo el vocabulario de naturaleza para el corpus del juego de mecanografía.
 
@@ -10,27 +14,1111 @@ Esta página agrega todo el vocabulario de naturaleza para el corpus del juego d
 
 ## Paisajes
 
-| Español | Pronunciación | Significado |
-|---------|--------------|-------------|-----------|
-| montaña | /monˈtaɲa/ | montaña |
-| playa | /plaʎa/ | playa |
-| parque | /paɾke/ | parque |
-| acantilado | /akanŧilaðo/ | acantilado |
-| promontorio | /pɾomontoɾjo/ | promontorio |
+## Paisajes
 
-## Fenómenos Naturales
+## Paisajes
 
-| Español | Pronunciación | Significado |
-|---------|--------------|-------------|-----------|
-| frío | /fɾio/ | frío |
-| calor pegajoso | /kalor peɣaxoso/ | calor pegajoso |
-| solanera | /solanera/ | solanera |
+General
+
+### montaña
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un montaña. — Expresando necesidad
+- El montaña está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[montaña]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
 
 ---
 
-## Fuentes
+### Examples
 
-- [[nature-vocabulary-es]]
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### playa
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un playa. — Expresando necesidad
+- El playa está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[playa]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### parque
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un parque. — Expresando necesidad
+- El parque está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[parque]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### acantilado
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un acantilado. — Expresando necesidad
+- El acantilado está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[acantilado]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### promontorio
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un promontorio. — Expresando necesidad
+- El promontorio está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[promontorio]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### frío
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un frío. — Expresando necesidad
+- El frío está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[frío]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### calor pegajoso
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un calor pegajoso. — Expresando necesidad
+- El calor pegajoso está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- calor pegajoso — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### solanera
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un solanera. — Expresando necesidad
+- El solanera está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[solanera]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+## Sources
+
+- [[nature-vocabulary]]
 
 ---
 
@@ -40,13 +1128,4 @@ Esta página agrega todo el vocabulario de naturaleza para el corpus del juego d
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
-```yaml
-- { id: 001, display: "montaña", input: "montaña", meaning: "montaña", level: "A1-B1", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 002, display: "playa", input: "playa", meaning: "playa", level: "A1-B1", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 003, display: "parque", input: "parque", meaning: "parque", level: "A1-B1", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 004, display: "acantilado", input: "acantilado", meaning: "acantilado", level: "A1-B1", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 005, display: "promontorio", input: "promontorio", meaning: "promontorio", level: "A1-B1", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 006, display: "frío", input: "frío", meaning: "frío", level: "A1-B1", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 007, display: "calor pegajoso", input: "calor pegajoso", meaning: "calor pegajoso", level: "A1-B1", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 008, display: "solanera", input: "solanera", meaning: "solanera", level: "A1-B1", category: "nature", source: "[[nature-vocabulary]]" }
 ```

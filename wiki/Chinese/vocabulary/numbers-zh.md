@@ -1,3 +1,7 @@
+---
+category: "numbers-zh"
+---
+
 # Numbers — 숫자 (数字)
 
 **Source:** numbers-zh-original

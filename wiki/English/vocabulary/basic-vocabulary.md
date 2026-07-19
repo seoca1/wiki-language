@@ -1,3 +1,7 @@
+---
+category: "basic"
+---
+
 # Basic Vocabulary — Greetings, Numbers, Colors, Family, Adjectives
 
 **Source:** [[basic-vocabulary]]
@@ -25,9 +29,9 @@ Core everyday vocabulary: greetings, basic responses, numbers, colors, family te
 
 #### Related Terms
 
-- [[hi]] — informal variant
-- [[goodbye]] — opposite
-- [[thanks]] — gratitude
+- hi — informal variant
+- goodbye — opposite
+- thanks — gratitude
 
 ---
 
@@ -46,7 +50,7 @@ Core everyday vocabulary: greetings, basic responses, numbers, colors, family te
 
 #### Related Terms
 
-- [[hello]] — formal variant
+- hello — formal variant
 
 ---
 
@@ -65,7 +69,7 @@ Core everyday vocabulary: greetings, basic responses, numbers, colors, family te
 
 #### Related Terms
 
-- [[hello]] — opposite
+- hello — opposite
 
 ---
 
@@ -84,7 +88,7 @@ Core everyday vocabulary: greetings, basic responses, numbers, colors, family te
 
 #### Related Terms
 
-- [[please]] — politeness pair
+- please — politeness pair
 
 ---
 
@@ -103,7 +107,7 @@ Core everyday vocabulary: greetings, basic responses, numbers, colors, family te
 
 #### Related Terms
 
-- [[thanks]] — gratitude pair
+- thanks — gratitude pair
 
 ---
 
@@ -170,7 +174,7 @@ Core everyday vocabulary: greetings, basic responses, numbers, colors, family te
 
 #### Related Terms
 
-- [[two]], [[three]]
+- two, three
 
 ---
 
@@ -260,7 +264,7 @@ Core everyday vocabulary: greetings, basic responses, numbers, colors, family te
 
 #### Related Terms
 
-- [[father]]
+- father
 
 ---
 
@@ -274,7 +278,7 @@ Core everyday vocabulary: greetings, basic responses, numbers, colors, family te
 
 #### Related Terms
 
-- [[mother]]
+- mother
 
 ---
 

@@ -1,8 +1,12 @@
+---
+source: "nature-vocabulary-jp"
+category: "nature"
+level: "JLPT N4-N5"
+theme: "nature"
+---
+
 # Nature & Weather (自然・天気語彙)
 
-> **Source:** [[nature-vocabulary-jp]]
-> **Category:** nature
-> **Level:** JLPT N4-N5
 
 This page aggregates all nature and weather vocabulary for the typing language game corpus.
 
@@ -10,48 +14,879 @@ This page aggregates all nature and weather vocabulary for the typing language g
 
 ## Weather (天気)
 
-| Word | Reading | Meaning |
-|------|---------|---------|-----------|
-| 天気 | てんき (tenki) | weather |
-| 雨 | あめ (ame) | rain |
-| 雪 | ゆき (yuki) | snow |
-| 風 | かぜ (kaze) | wind |
-| 雲 | くも (kumo) | cloud |
-| 雷 | かみなり (kaminari) | thunder/lightning |
-| 嵐 | あらし (arashi) | storm |
-| 太陽 | たいよう (taiyou) | sun |
-| 星 | ほし (hoshi) | star |
-| 月 | つき (tsuki) | moon |
-| 空 | そら (sora) | sky |
-| 虹 | にじ (niji) | rainbow |
-| 海 | うみ (umi) | sea |
-| 湖 | みずうみ (mizumi) | lake |
-| 川 | かわ (kawa) | river |
+## Weather (天気)
+
+### 天気
+
+**Part of Speech:** 名詞
+
+**Definition:** weather
+
+**Reading / Hiragana / Romaji:** てんき (tenki)
+
+**Etymology:** 漢字: 天気 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 天気が必要です。 — 必要表現
+- 天気はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[天気]] — 自動参照
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### 雨
+
+**Part of Speech:** 名詞
+
+**Definition:** rain
+
+**Reading / Hiragana / Romaji:** あめ (ame)
+
+**Etymology:** 漢字: 雨 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 雨が必要です。 — 必要表現
+- 雨はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[雨]] — 自動参照
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### 雪
+
+**Part of Speech:** 名詞
+
+**Definition:** snow
+
+**Reading / Hiragana / Romaji:** ゆき (yuki)
+
+**Etymology:** 漢字: 雪 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 雪が必要です。 — 必要表現
+- 雪はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[雪]] — 自動参照
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### 風
+
+**Part of Speech:** 名詞
+
+**Definition:** wind
+
+**Reading / Hiragana / Romaji:** かぜ (kaze)
+
+**Etymology:** 漢字: 風 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 風が必要です。 — 必要表現
+- 風はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[風]] — 自動参照
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### 雲
+
+**Part of Speech:** 名詞
+
+**Definition:** cloud
+
+**Reading / Hiragana / Romaji:** くも (kumo)
+
+**Etymology:** 漢字: 雲 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 雲が必要です。 — 必要表現
+- 雲はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[雲]] — 自動参照
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### 雷
+
+**Part of Speech:** 名詞
+
+**Definition:** thunder/lightning
+
+**Reading / Hiragana / Romaji:** かみなり (kaminari)
+
+**Etymology:** 漢字: 雷 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 雷が必要です。 — 必要表現
+- 雷はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[雷]] — 自動参照
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### 嵐
+
+**Part of Speech:** 名詞
+
+**Definition:** storm
+
+**Reading / Hiragana / Romaji:** あらし (arashi)
+
+**Etymology:** 漢字: 嵐 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 嵐が必要です。 — 必要表現
+- 嵐はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[嵐]] — 自動参照
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### 太陽
+
+**Part of Speech:** 名詞
+
+**Definition:** sun
+
+**Reading / Hiragana / Romaji:** たいよう (taiyou)
+
+**Etymology:** 漢字: 太陽 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 太陽が必要です。 — 必要表現
+- 太陽はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[太陽]] — 自動参照
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### 星
+
+**Part of Speech:** 名詞
+
+**Definition:** star
+
+**Reading / Hiragana / Romaji:** ほし (hoshi)
+
+**Etymology:** 漢字: 星 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 星が必要です。 — 必要表現
+- 星はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[星]] — 自動参照
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### 月
+
+**Part of Speech:** 名詞
+
+**Definition:** moon
+
+**Reading / Hiragana / Romaji:** つき (tsuki)
+
+**Etymology:** 漢字: 月 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 月が必要です。 — 必要表現
+- 月はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[月]] — 自動参照
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### 空
+
+**Part of Speech:** 名詞
+
+**Definition:** sky
+
+**Reading / Hiragana / Romaji:** そら (sora)
+
+**Etymology:** 漢字: 空 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 空が必要です。 — 必要表現
+- 空はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[空]] — 自動参照
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### 虹
+
+**Part of Speech:** 名詞
+
+**Definition:** rainbow
+
+**Reading / Hiragana / Romaji:** にじ (niji)
+
+**Etymology:** 漢字: 虹 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 虹が必要です。 — 必要表現
+- 虹はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[虹]] — 自動参照
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### 海
+
+**Part of Speech:** 名詞
+
+**Definition:** sea
+
+**Reading / Hiragana / Romaji:** うみ (umi)
+
+**Etymology:** 漢字: 海 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 海が必要です。 — 必要表現
+- 海はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[海]] — 自動参照
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### 湖
+
+**Part of Speech:** 名詞
+
+**Definition:** lake
+
+**Reading / Hiragana / Romaji:** みずうみ (mizumi)
+
+**Etymology:** 漢字: 湖 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 湖が必要です。 — 必要表現
+- 湖はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[湖]] — 自動参照
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### 川
+
+**Part of Speech:** 名詞
+
+**Definition:** river
+
+**Reading / Hiragana / Romaji:** かわ (kawa)
+
+**Etymology:** 漢字: 川 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 川が必要です。 — 必要表現
+- 川はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[川]] — 自動参照
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
 
 ## Landforms (地形)
 
-| Word | Reading | Meaning |
-|------|---------|---------|-----------|
-| 山 | やま (yama) | mountain |
-| 森 | もり (mori) | forest |
-| 谷 | たに (tani) | valley |
-| 丘 | おか (oka) | hill |
-| 島 | しま (shima) | island |
-| 砂漠 | さばく (sabaku) | desert |
-| 草原 | はるか (haruka) | grassland |
+### 山
+
+**Part of Speech:** 名詞
+
+**Definition:** mountain
+
+**Reading / Hiragana / Romaji:** やま (yama)
+
+**Etymology:** 漢字: 山 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 山が必要です。 — 必要表現
+- 山はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[山]] — 自動参照
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### 森
+
+**Part of Speech:** 名詞
+
+**Definition:** forest
+
+**Reading / Hiragana / Romaji:** もり (mori)
+
+**Etymology:** 漢字: 森 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 森が必要です。 — 必要表現
+- 森はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[森]] — 自動参照
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### 谷
+
+**Part of Speech:** 名詞
+
+**Definition:** valley
+
+**Reading / Hiragana / Romaji:** たに (tani)
+
+**Etymology:** 漢字: 谷 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 谷が必要です。 — 必要表現
+- 谷はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[谷]] — 自動参照
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### 丘
+
+**Part of Speech:** 名詞
+
+**Definition:** hill
+
+**Reading / Hiragana / Romaji:** おか (oka)
+
+**Etymology:** 漢字: 丘 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 丘が必要です。 — 必要表現
+- 丘はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[丘]] — 自動参照
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### 島
+
+**Part of Speech:** 名詞
+
+**Definition:** island
+
+**Reading / Hiragana / Romaji:** しま (shima)
+
+**Etymology:** 漢字: 島 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 島が必要です。 — 必要表現
+- 島はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[島]] — 自動参照
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### 砂漠
+
+**Part of Speech:** 名詞
+
+**Definition:** desert
+
+**Reading / Hiragana / Romaji:** さばく (sabaku)
+
+**Etymology:** 漢字: 砂漠 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 砂漠が必要です。 — 必要表現
+- 砂漠はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[砂漠]] — 自動参照
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### 草原
+
+**Part of Speech:** 名詞
+
+**Definition:** grassland
+
+**Reading / Hiragana / Romaji:** はるか (haruka)
+
+**Etymology:** 漢字: 草原 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 草原が必要です。 — 必要表現
+- 草原はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[草原]] — 自動参照
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
 
 ## Nature Phenomena (自然現象)
 
-| Word | Reading | Meaning |
-|------|---------|---------|-----------|
-| 成長する | せいちょうする (seichou suru) | grow |
-| 落ちる | おちる (ochiru) | fall down |
-| 溶ける | とける (tokeru) | melt |
-| 凍る | こおる (kooru) | freeze |
-| 咲く | さく (saku) | bloom |
-| 狩る | かる (karu) | hunt |
-| 洗う | あらう (arau) | wash |
-| 風邪 | かぜ (kaze) | cold (illness) |
+### 成長する
+
+**Part of Speech:** 名詞
+
+**Definition:** grow
+
+**Reading / Hiragana / Romaji:** せいちょうする (seichou suru)
+
+**Etymology:** 漢字: 成長する (音読み/訓読みによる語源)
+
+#### Examples
+
+- 成長するが必要です。 — 必要表現
+- 成長するはここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[成長する]] — 自動参照
+
+#### Cultural Notes
+
+擬音語・擬態語（ぎおんご・ぎたいご）が豊富。日常会話で頻出。
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### 落ちる
+
+**Part of Speech:** 名詞
+
+**Definition:** fall down
+
+**Reading / Hiragana / Romaji:** おちる (ochiru)
+
+**Etymology:** 漢字: 落ちる (音読み/訓読みによる語源)
+
+#### Examples
+
+- 落ちるが必要です。 — 必要表現
+- 落ちるはここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[落ちる]] — 自動参照
+
+#### Cultural Notes
+
+擬音語・擬態語（ぎおんご・ぎたいご）が豊富。日常会話で頻出。
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### 溶ける
+
+**Part of Speech:** 名詞
+
+**Definition:** melt
+
+**Reading / Hiragana / Romaji:** とける (tokeru)
+
+**Etymology:** 漢字: 溶ける (音読み/訓読みによる語源)
+
+#### Examples
+
+- 溶けるが必要です。 — 必要表現
+- 溶けるはここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[溶ける]] — 自動参照
+
+#### Cultural Notes
+
+擬音語・擬態語（ぎおんご・ぎたいご）が豊富。日常会話で頻出。
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### 凍る
+
+**Part of Speech:** 名詞
+
+**Definition:** freeze
+
+**Reading / Hiragana / Romaji:** こおる (kooru)
+
+**Etymology:** 漢字: 凍る (音読み/訓読みによる語源)
+
+#### Examples
+
+- 凍るが必要です。 — 必要表現
+- 凍るはここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[凍る]] — 自動参照
+
+#### Cultural Notes
+
+擬音語・擬態語（ぎおんご・ぎたいご）が豊富。日常会話で頻出。
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### 咲く
+
+**Part of Speech:** 名詞
+
+**Definition:** bloom
+
+**Reading / Hiragana / Romaji:** さく (saku)
+
+**Etymology:** 漢字: 咲く (音読み/訓読みによる語源)
+
+#### Examples
+
+- 咲くが必要です。 — 必要表現
+- 咲くはここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[咲く]] — 自動参照
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### 狩る
+
+**Part of Speech:** 名詞
+
+**Definition:** hunt
+
+**Reading / Hiragana / Romaji:** かる (karu)
+
+**Etymology:** 漢字: 狩る (音読み/訓読みによる語源)
+
+#### Examples
+
+- 狩るが必要です。 — 必要表現
+- 狩るはここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[狩る]] — 自動参照
+
+#### Cultural Notes
+
+擬音語・擬態語（ぎおんご・ぎたいご）が豊富。日常会話で頻出。
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### 洗う
+
+**Part of Speech:** 名詞
+
+**Definition:** wash
+
+**Reading / Hiragana / Romaji:** あらう (arau)
+
+**Etymology:** 漢字: 洗う (音読み/訓読みによる語源)
+
+#### Examples
+
+- 洗うが必要です。 — 必要表現
+- 洗うはここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[洗う]] — 自動参照
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
+
+### 風邪
+
+**Part of Speech:** 名詞
+
+**Definition:** cold (illness)
+
+**Reading / Hiragana / Romaji:** かぜ (kaze)
+
+**Etymology:** 漢字: 風邪 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 風邪が必要です。 — 必要表現
+- 風邪はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[風邪]] — 自動参照
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[nature-vocabulary]]
 
 ---
 
@@ -67,35 +902,4 @@ This page aggregates all nature and weather vocabulary for the typing language g
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
-```yaml
-- { id: 001, display: "天気", input: "tenki", meaning: "weather", level: "JLPT N4-N5", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 002, display: "雨", input: "ame", meaning: "rain", level: "JLPT N4-N5", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 003, display: "雪", input: "yuki", meaning: "snow", level: "JLPT N4-N5", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 004, display: "風", input: "kaze", meaning: "wind", level: "JLPT N4-N5", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 005, display: "雲", input: "kumo", meaning: "cloud", level: "JLPT N4-N5", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 006, display: "雷", input: "kaminari", meaning: "thunder/lightning", level: "JLPT N4-N5", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 007, display: "嵐", input: "arashi", meaning: "storm", level: "JLPT N4-N5", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 008, display: "太陽", input: "taiyou", meaning: "sun", level: "JLPT N4-N5", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 009, display: "星", input: "hoshi", meaning: "star", level: "JLPT N4-N5", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 010, display: "月", input: "tsuki", meaning: "moon", level: "JLPT N4-N5", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 011, display: "空", input: "sora", meaning: "sky", level: "JLPT N4-N5", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 012, display: "虹", input: "niji", meaning: "rainbow", level: "JLPT N4-N5", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 013, display: "海", input: "umi", meaning: "sea", level: "JLPT N4-N5", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 014, display: "湖", input: "mizumi", meaning: "lake", level: "JLPT N4-N5", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 015, display: "川", input: "kawa", meaning: "river", level: "JLPT N4-N5", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 016, display: "山", input: "yama", meaning: "mountain", level: "JLPT N4-N5", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 017, display: "森", input: "mori", meaning: "forest", level: "JLPT N4-N5", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 018, display: "谷", input: "tani", meaning: "valley", level: "JLPT N4-N5", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 019, display: "丘", input: "oka", meaning: "hill", level: "JLPT N4-N5", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 020, display: "島", input: "shima", meaning: "island", level: "JLPT N4-N5", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 021, display: "砂漠", input: "sabaku", meaning: "desert", level: "JLPT N4-N5", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 022, display: "草原", input: "haruka", meaning: "grassland", level: "JLPT N4-N5", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 023, display: "成長する", input: "seichou suru", meaning: "grow", level: "JLPT N4-N5", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 024, display: "落ちる", input: "ochiru", meaning: "fall down", level: "JLPT N4-N5", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 025, display: "溶ける", input: "tokeru", meaning: "melt", level: "JLPT N4-N5", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 026, display: "凍る", input: "kooru", meaning: "freeze", level: "JLPT N4-N5", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 027, display: "咲く", input: "saku", meaning: "bloom", level: "JLPT N4-N5", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 028, display: "狩る", input: "karu", meaning: "hunt", level: "JLPT N4-N5", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 029, display: "洗う", input: "arau", meaning: "wash", level: "JLPT N4-N5", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 030, display: "風邪", input: "kaze", meaning: "cold (illness)", level: "JLPT N4-N5", category: "nature", source: "[[nature-vocabulary]]" }
 ```

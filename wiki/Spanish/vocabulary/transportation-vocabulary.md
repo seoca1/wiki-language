@@ -1,3 +1,7 @@
+---
+category: "transportation"
+---
+
 # transportation-vocabulary — Card-extracted vocabulary (2026-06-22 ~ latest)
 
 **Source:** Card News Archive extraction (ADR-0062)
@@ -8,211 +12,334 @@ Vocabulary extracted from .openclaw card_news archive slot [2]. Each entry is ge
 
 ---
 
+General
+
 ### estación
 
-역 — 핵심 8단어
+**Part of Speech:** 
 
-**Part of Speech:** sustantivo/verbo (auto)
-**Source:** Card News 2026-06-25 (slot [2]) — [[transportation-vocabulary]]
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- estación — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[transportation-vocabulary]]
 
 ---
-
 
 ### metro
 
-지하철 — 핵심 8단어
+**Part of Speech:** 
 
-**Part of Speech:** sustantivo/verbo (auto)
-**Source:** Card News 2026-06-25 (slot [2]) — [[transportation-vocabulary]]
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- metro — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[transportation-vocabulary]]
 
 ---
-
 
 ### autobús
 
-버스 — 핵심 8단어
+**Part of Speech:** 
 
-**Part of Speech:** sustantivo/verbo (auto)
-**Source:** Card News 2026-06-25 (slot [2]) — [[transportation-vocabulary]]
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- autobús — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[transportation-vocabulary]]
 
 ---
-
 
 ### taxi
 
-택시 — 핵심 8단어
+**Part of Speech:** 
 
-**Part of Speech:** sustantivo/verbo (auto)
-**Source:** Card News 2026-06-25 (slot [2]) — [[transportation-vocabulary]]
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- taxi — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[transportation-vocabulary]]
 
 ---
-
 
 ### aeropuerto
 
-공항 — 핵심 8단어
+**Part of Speech:** 
 
-**Part of Speech:** sustantivo/verbo (auto)
-**Source:** Card News 2026-06-25 (slot [2]) — [[transportation-vocabulary]]
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- aeropuerto — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[transportation-vocabulary]]
 
 ---
-
 
 ### billete
 
-표 — 핵심 8단어
+**Part of Speech:** 
 
-**Part of Speech:** sustantivo/verbo (auto)
-**Source:** Card News 2026-06-25 (slot [2]) — [[transportation-vocabulary]]
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- billete — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[transportation-vocabulary]]
 
 ---
-
 
 ### tren
 
-기차 — 핵심 8단어
+**Part of Speech:** 
 
-**Part of Speech:** sustantivo/verbo (auto)
-**Source:** Card News 2026-06-25 (slot [2]) — [[transportation-vocabulary]]
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- tren — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[transportation-vocabulary]]
 
 ---
-
 
 ### avión
 
-비행기 — 핵심 8단어
+**Part of Speech:** 
 
-**Part of Speech:** sustantivo/verbo (auto)
-**Source:** Card News 2026-06-25 (slot [2]) — [[transportation-vocabulary]]
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- avión — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[transportation-vocabulary]]
 
 ---
-
 
 ### tomar el metro
 
-지하철을 타다 — 연결 동사
+**Part of Speech:** 
 
-**Part of Speech:** sustantivo/verbo (auto)
-**Source:** Card News 2026-06-25 (slot [2]) — [[transportation-vocabulary]]
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- tomar el metro — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[transportation-vocabulary]]
 
 ---
-
 
 ### comprar un billete
 
-표를 사다 — 연결 동사
+**Part of Speech:** 
 
-**Part of Speech:** sustantivo/verbo (auto)
-**Source:** Card News 2026-06-25 (slot [2]) — [[transportation-vocabulary]]
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- comprar un billete — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[transportation-vocabulary]]
 
 ---
-
 
 ### ir al aeropuerto
 
-공항에 가다 — 연결 동사
+**Part of Speech:** 
 
-**Part of Speech:** sustantivo/verbo (auto)
-**Source:** Card News 2026-06-25 (slot [2]) — [[transportation-vocabulary]]
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- ir al aeropuerto — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[transportation-vocabulary]]
 
 ---
-
 
 ### ir en tren
 
-기차로 가다 — 전치사 결합
+**Part of Speech:** 
 
-**Part of Speech:** sustantivo/verbo (auto)
-**Source:** Card News 2026-06-25 (slot [2]) — [[transportation-vocabulary]]
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- ir en tren — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[transportation-vocabulary]]
 
 ---
 
+---
 
 ## Pipeline Form (machine-readable)
 
-```yaml
-- id: es_transportation-vocabulary_001
-  display: "estación"
-  input: "estación"
-  meaning: "역"
-  level: "A2"
-  category: "transportation-vocabulary"
-  source: "[[transportation-vocabulary]] — Card News 2026-06-25 (slot [2])"
-- id: es_transportation-vocabulary_002
-  display: "metro"
-  input: "metro"
-  meaning: "지하철"
-  level: "A2"
-  category: "transportation-vocabulary"
-  source: "[[transportation-vocabulary]] — Card News 2026-06-25 (slot [2])"
-- id: es_transportation-vocabulary_003
-  display: "autobús"
-  input: "autobús"
-  meaning: "버스"
-  level: "A2"
-  category: "transportation-vocabulary"
-  source: "[[transportation-vocabulary]] — Card News 2026-06-25 (slot [2])"
-- id: es_transportation-vocabulary_004
-  display: "taxi"
-  input: "taxi"
-  meaning: "택시"
-  level: "A2"
-  category: "transportation-vocabulary"
-  source: "[[transportation-vocabulary]] — Card News 2026-06-25 (slot [2])"
-- id: es_transportation-vocabulary_005
-  display: "aeropuerto"
-  input: "aeropuerto"
-  meaning: "공항"
-  level: "A2"
-  category: "transportation-vocabulary"
-  source: "[[transportation-vocabulary]] — Card News 2026-06-25 (slot [2])"
-- id: es_transportation-vocabulary_006
-  display: "billete"
-  input: "billete"
-  meaning: "표"
-  level: "A2"
-  category: "transportation-vocabulary"
-  source: "[[transportation-vocabulary]] — Card News 2026-06-25 (slot [2])"
-- id: es_transportation-vocabulary_007
-  display: "tren"
-  input: "tren"
-  meaning: "기차"
-  level: "A2"
-  category: "transportation-vocabulary"
-  source: "[[transportation-vocabulary]] — Card News 2026-06-25 (slot [2])"
-- id: es_transportation-vocabulary_008
-  display: "avión"
-  input: "avión"
-  meaning: "비행기"
-  level: "A2"
-  category: "transportation-vocabulary"
-  source: "[[transportation-vocabulary]] — Card News 2026-06-25 (slot [2])"
-- id: es_transportation-vocabulary_009
-  display: "tomar el metro"
-  input: "tomar el metro"
-  meaning: "지하철을 타다"
-  level: "A2"
-  category: "transportation-vocabulary"
-  source: "[[transportation-vocabulary]] — Card News 2026-06-25 (slot [2])"
-- id: es_transportation-vocabulary_010
-  display: "comprar un billete"
-  input: "comprar un billete"
-  meaning: "표를 사다"
-  level: "A2"
-  category: "transportation-vocabulary"
-  source: "[[transportation-vocabulary]] — Card News 2026-06-25 (slot [2])"
-- id: es_transportation-vocabulary_011
-  display: "ir al aeropuerto"
-  input: "ir al aeropuerto"
-  meaning: "공항에 가다"
-  level: "A2"
-  category: "transportation-vocabulary"
-  source: "[[transportation-vocabulary]] — Card News 2026-06-25 (slot [2])"
-- id: es_transportation-vocabulary_012
-  display: "ir en tren"
-  input: "ir en tren"
-  meaning: "기차로 가다"
-  level: "A2"
-  category: "transportation-vocabulary"
-  source: "[[transportation-vocabulary]] — Card News 2026-06-25 (slot [2])"
 ```

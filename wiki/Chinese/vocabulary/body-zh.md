@@ -1,3 +1,7 @@
+---
+category: "body-zh"
+---
+
 # Body — 신체 부위 (身体部位)
 
 **Source:** body-zh-original

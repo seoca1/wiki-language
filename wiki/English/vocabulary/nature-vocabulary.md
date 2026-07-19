@@ -1,8 +1,10 @@
+---
+category: "nature"
+theme: "nature"
+---
+
 # Nature & Weather (English)
 
-> **Source:** [[nature-vocabulary]][[nature-vocabulary]]
-> **Category:** nature
-> **Level:** A1-B1
 
 This page aggregates all nature and weather vocabulary for the typing language game corpus.
 
@@ -10,24 +12,65 @@ This page aggregates all nature and weather vocabulary for the typing language g
 
 ## Natural Landmarks (Existing Wiki Pages)
 
-| English | Meaning |
-|---------|---------|-----------|
-| mountain | 산 |
-| sea | 바다 |
-
 ## Weather & Temperature
 
-| English | IPA | Meaning |
-|---------|-----|---------|-----------|
-| hot | /hɒt/ | 더운 |
-| cold | /koʊld/ | 추운 |
+### hot
+
+**Part of Speech:** noun
+
+**Definition:** 더운
+
+**IPA / Pronunciation:** /hɒt/
+
+**Etymology:** English: hot (etymology research needed)
+
+#### Examples
+
+- I need a hot. — Expressing need
+- The hot is here. — Location/presence
+
+#### Related Terms
+
+- [[hot]] — Self-reference check
+
+#### Cultural Notes
+
+Cultural context to be added
+
+#### Sources
+
+- [[nature-vocabulary]]
 
 ---
 
-## Related Pages
+### cold
 
-- mountain — mountains
-- sea — ocean
+**Part of Speech:** noun
+
+**Definition:** 추운
+
+**IPA / Pronunciation:** /koʊld/
+
+**Etymology:** English: cold (etymology research needed)
+
+#### Examples
+
+- I need a cold. — Expressing need
+- The cold is here. — Location/presence
+
+#### Related Terms
+
+- [[cold]] — Self-reference check
+
+#### Cultural Notes
+
+Cultural context to be added
+
+#### Sources
+
+- [[nature-vocabulary]]
+
+---
 
 ## Sources
 
@@ -41,9 +84,4 @@ This page aggregates all nature and weather vocabulary for the typing language g
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
-```yaml
-- { id: 001, display: "mountain", input: "mountain", meaning: "", level: "A1-B1", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 002, display: "sea", input: "sea", meaning: "", level: "A1-B1", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 003, display: "hot", input: "hot", meaning: "더운", level: "A1-B1", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: 004, display: "cold", input: "cold", meaning: "추운", level: "A1-B1", category: "nature", source: "[[nature-vocabulary]]" }
 ```

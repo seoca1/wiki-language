@@ -22,15 +22,15 @@
 
 ## [2026-06-22] ingest | Como agua para chocolate - Capítulo 1 (Esquivel)
 
-- Added 12 vocabulary pages: [[cebolla]], [[matriarca]], [[heredar]], [[sollozar]], [[anhelar]], [[desafiar]], [[someterse]], [[molcajete]], [[masa]], [[receta]], [[tradicion]], [[mandato]]
-- Added 6 expression pages: [[pedir-la-mano]], [[llorar-como-una-magdalena]], [[a-fuego-lento]], [[tener-el-corazon-en-un-puno]], [[no-poder-venir-a-mas]], [[estar-hecho-pedazos]]
+- Added 12 vocabulary entries to [[food-vocabulary]]: cebolla, matriarca, heredar, sollozar, anhelar, desafiar, someterse, molcajete, masa, receta, tradición, mandato
+- Added 6 expressions: [[emotions-reactions]] (llorar como una Magdalena, estar hecho pedazos), [[cultural-idioms]] (pedir la mano, a fuego lento, tener el corazón en un puño, no poder venir a más)
 - Added 4 culture pages: [[realismo-magico-esquivel]], [[cocina-espacio-femenino]], [[mexico-patriarcado-tradicion]], [[recetario-como-estructura]]
 - Summary: [[como-agua-para-chocolate-cap1]]
 
 ## [2026-06-22] ingest | Notes in Spanish Advanced - Planes de verano
 
-- Added 8 vocabulary pages: [[bochorno]], [[chapparon]], [[solanera]], [[escapada]], [[pillar]], [[apuntarse]], [[animarse]], [[veranear]]
-- Added 6 expression pages (subjuntivo adverbial): [[cuando-subjuntivo]], [[antes-de-que-subjuntivo]], [[para-que-subjuntivo]], [[ojala]], [[a-ver-si]], [[que-va]]
+- Added 8 vocabulary entries: [[emotions-personality-vocabulary]] (bochorno, solanera), [[nature-vocabulary]] (chapparon), [[travel]] (escapada, veranear), [[basic-vocabulary]] (pillar, apuntarse, animarse)
+- Added 6 expressions to [[subjunctive-patterns]]: cuando + subjuntivo, antes de que + subjuntivo, para que + subjuntivo, ojalá, a ver si, qué va
 - Added 2 culture pages: [[verano-espana-tradiciones]], [[subjuntivo-conversacional]]
 - Summary: [[notes-in-spanish-planes-de-verano]]
 
@@ -66,15 +66,15 @@
 
 ## [2026-06-16] ingest | El ahogado más hermoso del mundo (García Márquez)
 
-- Added 8 vocabulary pages: [[promontorio]], [[sargazo]], [[acantilado]], [[altivez]], [[desvalido]], [[angarillas]], [[minucioso]], [[bobo]]
-- Added 5 expression pages: [[quedar-varado]], [[dar-la-voz-de-alarma]], [[subirse-al-higado]], [[tener-cara-de-llamarse]], [[devolverlo-huerfano-a-las-aguas]]
+- Added 8 vocabulary entries: [[nature-vocabulary]] (promontorio, sargazo, acantilado), [[emotions-personality-vocabulary]] (altivez, desvalido, minucioso, bobo), [[nature-vocabulary]] (angarillas)
+- Added 5 expressions to [[cultural-idioms]]: quedar varado, dar la voz de alarma, subirse al hígado, tener cara de llamarse, devolverlo huérfano a las aguas
 - Added 2 culture pages: [[realismo-magico-marquez]], [[pueblo-costero-funeral]]
-- Summary: [[el-ahgado-mas-hermoso-del-mundo]]
+- Summary: [[el-ahogado-mas-hermoso-del-mundo]]
 
 ## [2026-06-16] ingest | Notes in Spanish Advanced - listening log
 
-- Added 8 vocabulary pages: [[siesta]], [[tapas]], [[currar]], [[guapo]], [[mola]], [[botellon]], [[calor-pegajoso]], [[ponerse-morado]]
-- Added 5 expression pages: [[vamos-que]], [[hombre-pues]], [[yo-que-tu]], [[que-fuerte]], [[que-pasada]]
+- Added 8 vocabulary entries: [[food-vocabulary]] (siesta, tapas), [[emotions-personality-vocabulary]] (currar, guapo, mola, botellón, ponerse morado), [[nature-vocabulary]] (calor pegajoso)
+- Added 5 expressions to [[daily-life]]: vamos que, hombre pues, yo que tú, qué fuerte, qué pasada
 - Added 2 culture pages: [[espana-vs-latinoamerica-registro]], [[siesta-tradicion-verano]]
 - Summary: [[notes-in-spanish-listening-log]]
 
@@ -147,3 +147,46 @@
 - **보안 가이드**: [[security-incident-response-2026-07-14]] (_publish/2026-W25/, 360 lines)
 - **상태**: Language HEAD `8aae316` (force-pushed) / Game HEAD `7d78707` (curation push)
 - **세션 종료**: 본 엔트리까지
+
+## [2026-07-16] lint | 볼트 전체 wikilink 무결성 점검 + Game raw 마이그레이션
+
+- **Language wiki/ 폴더**: 0개 깨진 링크 (vault-wide wikilink 모두 유효)
+  - Spanish log.md: 40+ per-word wikilink → theme-file anchor (`[[theme]]`) 일괄 치환
+  - English basic-vocabulary.md: 내부 per-word wikilink (`[[hi]]`, `[[hello]]` 등) 제거
+  - Spanish/Japanese vocabulary Source 필드: 중복 `[[xxx-es]]` 정리, `travel-basics-jp` → `travel-basics` 정규화
+  - Chinese grammar 파일: OpenClaw `file://` 외부 링크 2개 → 로컬 source 페이지(`basic-particles-zh.md`, `word-order-zh.md`)로 마이그레이션
+  - Spanish culture 파일: OpenClaw `file://` 외부 링크 2개 → 로컬 source 페이지(`tango-argentino.md`, `mexico-comida-callejera.md`)로 마이그레이션
+
+- **Game/typing_language/raw/** 4개 코퍼스 파일 per-word → theme-anchor 마이그레이션 완료
+  - en_words.md: `airport`, `hotel`, `passport` 등 travel 단어 → `[[travel]]`, animal → `[[animals-vocabulary]]`, food → `[[food-vocabulary]]`, body → `[[body-vocabulary]]`
+  - es_words.md: travel 섹션 전체(`pasaporte`, `aeropuerto`, `hotel` 등) → `[[viajes]]`
+  - jp_words.md: travel 카테고리 `basic-vocabulary` → `[[travel]]` 치환 (regex 기반)
+  - kr_words.md: wiki-driven entries 카테고리별 theme-file 매핑 (`여행`, `food-vocabulary`, `동물 어휘`, `자연・날씨 어휘`, `의류・패션 어휘`, `emotions-personality-vocabulary`, `topik1-starter`)
+
+- **전체 볼트**: 90개 broken link 잔존 (대부분 Fiction/wiki 캐릭터/작품 참조, .omo 작업 문서 아티팩트, raw/_publish 템플릿 플레이스홀더 — 실제 wiki 콘텐츠와 무관)
+
+- **다음 단계**: Fiction/wiki 내부 링크 복구, Game/roguelike_sprawl 단편 소설 경로 수정
+
+## [2026-07-19] lint | Spanish grammar/ 경로 버그 수정 — `[[sources/X]]` → `[[X]]`
+
+- **트리거**: 7/19 vault 점검. lint 스크립트(section-anchor 미인식) 가 잡지 못한 broken wikilink 19건 — `wiki/Spanish/grammar/*.md` 가 `[[sources/2026-05-17_Daily_Routine]]` 처럼 grammar/ 기준 상대경로로 작성됐으나 실제 파일은 `sources/` 한 단계 위.
+- **조치**: 5개 파일 일괄 정규식 치환 (`sed -i '' 's/\[\[sources\/\([0-9_a-zA-Z-]*\)\]\]/[[\1]]/g'`)
+  - `verbos-reflexivos.md` (3건), `gustar.md` (3건), `preterito-indefinido.md` (4건), `presente-es.md` (4건), `preposiciones-es.md` (4건)
+  - basename match 로 vault 어디서든 유일 매칭 → `[[X]]` 형태로 단순화
+- **검증**: Spanish grammar/ 폴더 broken wikilink 19 → 0 (전체 broken 264 → 245)
+- **잔여**: cross-theme anchor 미존재 234건 (`[[animals]]`, `[[comida]]`, `[[직장]]` 등) — 의도 확인 후 별도 세션
+
+## [2026-07-19] lint | cross-theme anchor 일괄 처리 (A 매핑 + B/C strip)
+
+- **트리거**: 직전 lint 에서 식별한 245건 중 234건 (A: 90 / B+C: 147). 의도 명확한 cross-theme anchor 만 수정.
+- **A 매핑** (11 unique, 90 occurrences): theme-name 의도가 명확한 anchor → theme file stem 으로 리매핑
+  - `[[animals]]` → `[[animals-vocabulary]]` (6), `[[animales]]` (11), `[[動物]]` (22)
+  - `[[clothing]]` → `[[clothing-vocabulary]]` (6), `[[ropa]]` (4), `[[服]]` (10)
+  - `[[food]]` → `[[food-vocabulary]]` (9), `[[comida]]` (11), `[[食べ物]]` (9)
+  - `[[漢字]]` → `[[kanji-n5]]` (1), `[[助数詞]]` → `[[jp-counters]]` (1)
+- **B+C strip** (153 unique, 157 occurrences): KR per-word reference + multi-word ES/EN — wikilink wrapper 제거하고 plain text 로 보존
+  - KR business/daily/topik1/의류 vocab 안 `[[직장]]`, `[[커뮤니케이션]]`, `[[안녕]]`, `[[고마워요]]`, `[[빨간 드레스]]` 등 139건
+  - Multi-word `[[la hora]]`, `[[el minuto]]`, `[[calor pegajoso]]` 등 8건
+- **영향 파일**: 22개 (Korean 5, Spanish 5, English 3, Japanese 4 + 기타)
+- **검증**: 전체 broken 245 → **2** (vault 규약상 touch 불가 — `[[theme-stem]]` 템플릿 placeholder 1, `[[../index]]` publish artifact 1)
+- **메모**: B의 KR per-word 참조는 uncommitted `add_frontmatter.py` table→section 리팩토링 완료 시 자연히 section anchor 로 resolve 가능. 현 단계에선 strip 이 가장 안전한 선택.

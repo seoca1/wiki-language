@@ -33,10 +33,10 @@ El par **por / para** es la confusión clásica para hispanohablantes no nativos
 
 ## 활용 레슨 (Lecciones que aplican este concepto)
 
-- [[sources/2026-05-17_Travel_Directions]] — 전치사의 주 활용처. 방향/위치 전치사 (a la izquierda, al lado de, entre) 의 핵심 레슨.
-- [[sources/2026-05-17_Daily_Routine]] — 시간 전치사 (a las, antes de, después de) 가 일상 루틴 묘사에 등장.
-- [[sources/2026-06-16_Restaurant_Ordering]] — 전치사 de (소유/내용, *una taza de café*) 와 en (위치) 활용.
-- [[sources/2026-06-13_Weather_and_Seasons]] — en (시간/계절, *En verano*) 활용.
+- [[2026-05-17_Travel_Directions]] — 전치사의 주 활용처. 방향/위치 전치사 (a la izquierda, al lado de, entre) 의 핵심 레슨.
+- [[2026-05-17_Daily_Routine]] — 시간 전치사 (a las, antes de, después de) 가 일상 루틴 묘사에 등장.
+- [[2026-06-16_Restaurant_Ordering]] — 전치사 de (소유/내용, *una taza de café*) 와 en (위치) 활용.
+- [[2026-06-13_Weather_and_Seasons]] — en (시간/계절, *En verano*) 활용.
 
 ---
 

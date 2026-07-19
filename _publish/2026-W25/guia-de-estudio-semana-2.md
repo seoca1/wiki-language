@@ -115,6 +115,7 @@ Al final de esta guía, podrás:
 | apuntarse | inscribirse | universal |
 | animarse | decidirse | universal |
 | veranear | pasar el verano fuera | España |
+| calor-pegajoso | bochorno húmedo | universal |
 
 > 🔑 **Diferencia clave**: `pillar` es típicamente español. En México se prefiere *agarrar* o *tomar*. Ver pillar y [[espana-vs-latinoamerica-registro]].
 
@@ -128,12 +129,12 @@ Al final de esta guía, podrás:
 
 | Expresión | Significado | Cuándo usarla | Ejemplo |
 |-----------|-------------|---------------|---------|
-| [[pedir-la-mano]] | solicitar matrimonio formalmente | contextos tradicionales | *"Pedro vino a **pedirle la mano** a Tita"* |
-| [[llorar-como-una-magdalena]] | llorar abundantemente | dolor intenso | *"Nacha **lloraba como una Magdalena**"* |
-| [[a-fuego-lento]] | cocinar con poco calor / con calma | cocina + figurado | *"Cocina la salsa **a fuego lento**"* |
-| [[tener-el-corazon-en-un-puno]] | estar angustiado | suspenso, espera | *"Lo vi marcharse **con el corazón en un puño**"* |
-| [[no-poder-venir-a-mas]] | estar en el límite | agotamiento | *"Después de tanta injusticia, **no puedo venir a más**"* |
-| [[estar-hecho-pedazos]] | estar destruido emocionalmente | dolor fuerte | *"Después de la noticia, **estaba hecho pedazos**"* |
+| [[emotions-reactions#pedir-la-mano]] | solicitar matrimonio formalmente | contextos tradicionales | *"Pedro vino a **pedirle la mano** a Tita"* |
+| [[emotions-reactions#llorar-como-una-magdalena]] | llorar abundantemente | dolor intenso | *"Nacha **lloraba como una Magdalena**"* |
+| [[cultural-idioms#a-fuego-lento]] | cocinar con poco calor / con calma | cocina + figurado | *"Cocina la salsa **a fuego lento**"* |
+| [[emotions-reactions#tener-el-corazon-en-un-puno]] | estar angustiado | suspenso, espera | *"Lo vi marcharse **con el corazón en un puño**"* |
+| [[emotions-reactions#no-poder-venir-a-mas]] | estar en el límite | agotamiento | *"Después de tanta injusticia, **no puedo venir a más**"* |
+| [[emotions-reactions#estar-hecho-pedazos]] | estar destruido emocionalmente | dolor fuerte | *"Después de la noticia, **estaba hecho pedazos**"* |
 
 ### 4.2 Grupo gramatical (subjuntivo adverbial)
 
@@ -141,17 +142,17 @@ Al final de esta guía, podrás:
 
 | Expresión | Modo | Disparador | Ejemplo |
 |-----------|------|------------|---------|
-| [[cuando-subjuntivo]] | subjuntivo | futuro incierto | *"**Cuando llegues**, llámame"* |
-| [[antes-de-que-subjuntivo]] | subjuntivo (siempre) | anterioridad | *"Apúntate **antes de que se acaben** las plazas"* |
-| [[para-que-subjuntivo]] | subjuntivo | finalidad | *"Te lo explico **para que entiendas**"* |
-| [[ojala]] | subjuntivo | deseo | *"**Ojalá haga** buen tiempo"* |
-| [[a-ver-si]] | **indicativo** (¡ojo!) | expectativa | *"**A ver si vienes** este sábado"* |
+| [[subjunctive-patterns#cuando-subjuntivo]] | subjuntivo | futuro incierto | *"**Cuando llegues**, llámame"* |
+| [[subjunctive-patterns#antes-de-que-subjuntivo]] | subjuntivo (siempre) | anterioridad | *"Apúntate **antes de que se acaben** las plazas"* |
+| [[subjunctive-patterns#para-que-subjuntivo]] | subjuntivo | finalidad | *"Te lo explico **para que entiendas**"* |
+| [[emotions-reactions#ojala]] | subjuntivo | deseo | *"**Ojalá haga** buen tiempo"* |
+| [[daily-life#a-ver-si]] | **indicativo** (¡ojo!) | expectativa | *"**A ver si vienes** este sábado"* |
 
 ### 4.3 Grupo coloquial (muletillas y exclamaciones)
 
 | Expresión | Función | Ejemplo |
 |-----------|---------|---------|
-| [[que-va]] | rechazo enérgico | *"¿Salir con él? - **¡Qué va!**"* |
+| [[daily-life#que-va]] | rechazo enérgico | *"¿Salir con él? - **¡Qué va!**"* |
 | (a ver si...) | expectativa | *"**A ver si** te animas"* |
 | (pues nada) | cierre | *"**Pues nada**, si no vienes, me voy solo"* |
 
@@ -348,7 +349,7 @@ En conversación cotidiana, los nativos usan el subjuntivo de manera más intuit
 
 ### 7.2 Expresiones (rellenar hueco)
 
-Rellena con la expresión correcta: *pedir la mano · llorar como una Magdalena · a fuego lento · tener el corazón en un puño · estar hecho pedazos*
+Rellena con la expresión correcta: *[[emotions-reactions#pedir-la-mano]] · [[emotions-reactions#llorar-como-una-magdalena]] · [[cultural-idioms#a-fuego-lento]] · [[emotions-reactions#tener-el-corazon-en-un-puno]] · [[emotions-reactions#estar-hecho-pedazos]]*
 
 1. Esperando los resultados, __________.
 2. Cocina la salsa __________ durante dos horas.
@@ -542,4 +543,4 @@ La diferencia es **si el objeto existe en la realidad del hablante o no**. ¿Rec
 - [[cocina-espacio-femenino]] - cultura
 - [[mexico-patriarcado-tradicion]] - cultura
 - [[subjuntivo-conversacional]] - cultura
-- [[cuando-subjuntivo]] - estructura central
+- [[subjunctive-patterns#cuando-subjuntivo]] - estructura central

@@ -1,3 +1,7 @@
+---
+category: "basic"
+---
+
 # Vocabulario Básico — Saludos, Números, Colores, Familia, Adjetivos
 
 **Source:** [[basic-vocabulary]]
@@ -10,16 +14,142 @@ Vocabulario esencial cotidiano: saludos, respuestas básicas, números, colores,
 
 ## Saludos y Cortesía
 
+## Saludos y Cortesía
+
+General
+
 ### hola
 
 **Part of Speech:** interjección (saludo)
 
-**Definition:** 인사 — usado al encontrar a alguien
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
 
 #### Examples
 
-- ¡Hola! ¿Cómo estás? — 안녕! 어떻게 지내? (casual)
-- Hola, soy María. — 안녕, 마리아예요 (presentación)
+- ¡hola! — Exclamación independiente
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Marcadores esenciales de cortesía en culturas hispanohablantes. Se usan con mucha frecuencia.
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
 
 ---
 
@@ -27,11 +157,134 @@ Vocabulario esencial cotidiano: saludos, respuestas básicas, números, colores,
 
 **Part of Speech:** interjección (despedida)
 
-**Definition:** 인사 — usado al separarse
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
 
 #### Examples
 
-- ¡Adiós, hasta luego! — 안녕, 또 봐!
+- ¡adiós! — Exclamación independiente
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Marcadores esenciales de cortesía en culturas hispanohablantes. Se usan con mucha frecuencia.
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
 
 ---
 
@@ -39,11 +292,134 @@ Vocabulario esencial cotidiano: saludos, respuestas básicas, números, colores,
 
 **Part of Speech:** interjección (gratitud)
 
-**Definition:** 감사
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
 
 #### Examples
 
-- ¡Muchas gracias! — 정말 고마워!
+- ¡gracias! — Exclamación independiente
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Marcadores esenciales de cortesía en culturas hispanohablantes. Se usan con mucha frecuencia. Considerados obligatorios en peticiones y respuestas. Su omisión puede parecer grosera.
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
 
 ---
 
@@ -51,21 +427,269 @@ Vocabulario esencial cotidiano: saludos, respuestas básicas, números, colores,
 
 **Part of Speech:** adverbio (cortesía)
 
-**Definition:** 정중함 — usado en peticiones
+**Definition:** 
 
-**Note:** En el corpus se mantiene `por_favor` con guión bajo para evitar ambigüedad con "por favor" (2 palabras).
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- por_favor — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Marcadores esenciales de cortesía en culturas hispanohablantes. Se usan con mucha frecuencia. Considerados obligatorios en peticiones y respuestas. Su omisión puede parecer grosera.
+
+#### Sources
+
+- [[basic-vocabulary]]
 
 ---
 
-## Respuestas Básicas
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
 
 ### sí
 
 **Part of Speech:** adverbio (afirmación)
 
-**Definition:** 긍정
+**Definition:** 
 
-**Note:** Con tilde (sí = yes) distinto de `si` (sin tilde = if).
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- sí — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
 
 ---
 
@@ -73,7 +697,134 @@ Vocabulario esencial cotidiano: saludos, respuestas básicas, números, colores,
 
 **Part of Speech:** adverbio (negación)
 
-**Definition:** 부정
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- no — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
 
 ---
 
@@ -81,19 +832,269 @@ Vocabulario esencial cotidiano: saludos, respuestas básicas, números, colores,
 
 **Part of Speech:** adverbio
 
-**Definition:** 부사 — además de, también
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- además — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
 
 ---
 
-## Números (1-5)
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
 
 ### uno
 
 **Part of Speech:** numeral
 
-**Definition:** 숫자 1
+**Definition:** 
 
-**Note:** Apocopa a "un" antes de sustantivos: "un libro" (un libro).
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Tengo uno libros. — Contando
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
 
 ---
 
@@ -101,7 +1102,134 @@ Vocabulario esencial cotidiano: saludos, respuestas básicas, números, colores,
 
 **Part of Speech:** numeral
 
-**Definition:** 숫자 2
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Tengo dos libros. — Contando
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
 
 ---
 
@@ -109,7 +1237,134 @@ Vocabulario esencial cotidiano: saludos, respuestas básicas, números, colores,
 
 **Part of Speech:** numeral
 
-**Definition:** 숫자 3
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Tengo tres libros. — Contando
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
 
 ---
 
@@ -117,7 +1372,134 @@ Vocabulario esencial cotidiano: saludos, respuestas básicas, números, colores,
 
 **Part of Speech:** numeral
 
-**Definition:** 숫자 4
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Tengo cuatro libros. — Contando
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
 
 ---
 
@@ -125,21 +1507,271 @@ Vocabulario esencial cotidiano: saludos, respuestas básicas, números, colores,
 
 **Part of Speech:** numeral
 
-**Definition:** 숫자 5
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Tengo cinco libros. — Contando
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
 
 ---
 
-## Colores
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
 
 ### rojo
 
 **Part of Speech:** adjetivo / sustantivo
 
-**Definition:** 색깔 빨강
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
 
 #### Examples
 
-- Un coche rojo. — 빨간 차
+- Necesito un rojo. — Expresando necesidad
+- El rojo está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[rojo]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
 
 ---
 
@@ -147,7 +1779,136 @@ Vocabulario esencial cotidiano: saludos, respuestas básicas, números, colores,
 
 **Part of Speech:** adjetivo / sustantivo
 
-**Definition:** 색깔 파랑
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un azul. — Expresando necesidad
+- El azul está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[azul]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
 
 ---
 
@@ -155,17 +1916,273 @@ Vocabulario esencial cotidiano: saludos, respuestas básicas, números, colores,
 
 **Part of Speech:** adjetivo / sustantivo
 
-**Definition:** 색깔 초록
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un verde. — Expresando necesidad
+- El verde está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[verde]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
 
 ---
 
-## Familia
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
 
 ### madre
 
 **Part of Speech:** sustantivo (persona)
 
-**Definition:** 가족 — 부모 중 여성
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un madre. — Expresando necesidad
+- El madre está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[madre]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
 
 ---
 
@@ -173,7 +2190,136 @@ Vocabulario esencial cotidiano: saludos, respuestas básicas, números, colores,
 
 **Part of Speech:** sustantivo (persona)
 
-**Definition:** 가족 — 부모 중 남성
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un padre. — Expresando necesidad
+- El padre está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[padre]] — Autoreferencia
+
+#### Cultural Notes
+
+Jerga regional para "genial/bueno": México=chido/padre, Colombia=bacano, Chile=chévere, Argentina=copado.
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
 
 ---
 
@@ -181,19 +2327,272 @@ Vocabulario esencial cotidiano: saludos, respuestas básicas, números, colores,
 
 **Part of Speech:** sustantivo (persona)
 
-**Definition:** 가족 — 아이
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un niño. — Expresando necesidad
+- El niño está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[niño]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
 
 ---
 
-## Adjetivos Comunes
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
 
 ### rápido
 
 **Part of Speech:** adjetivo
 
-**Definition:** 형용사 — 빠른
+**Definition:** 
 
-**Note:** El corpus usa "rapido" sin acento en display. El acento es "rápido".
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Es muy rápido. — Descripción
+- Un día rápido. — Modificando sustantivo
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
 
 ---
 
@@ -201,7 +2600,135 @@ Vocabulario esencial cotidiano: saludos, respuestas básicas, números, colores,
 
 **Part of Speech:** adjetivo
 
-**Definition:** 형용사 — 쉬운
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Es muy fácil. — Descripción
+- Un día fácil. — Modificando sustantivo
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
 
 ---
 
@@ -209,7 +2736,135 @@ Vocabulario esencial cotidiano: saludos, respuestas básicas, números, colores,
 
 **Part of Speech:** adjetivo
 
-**Definition:** 형용사 — 어려운
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Es muy difícil. — Descripción
+- Un día difícil. — Modificando sustantivo
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
 
 ---
 
@@ -217,7 +2872,141 @@ Vocabulario esencial cotidiano: saludos, respuestas básicas, números, colores,
 
 **Part of Speech:** adjetivo
 
-**Definition:** 형용사 — 중요한
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Es muy importante. — Descripción
+- Un día importante. — Modificando sustantivo
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[basic-vocabulary]]
+
+---
+
+## Sources
+
+- [[basic-vocabulary]]
 
 ---
 
@@ -226,27 +3015,4 @@ Vocabulario esencial cotidiano: saludos, respuestas básicas, números, colores,
 > Generated for downstream consumers (`Game/typing_language/raw/es_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 
-```yaml
-- { id: 001, display: "hola", input: "hola", meaning: "안녕", level: "A1", category: "greeting", source: "[[basic-vocabulary]]" }
-- { id: 002, display: "adios", input: "adios", meaning: "안녕히", level: "A1", category: "greeting", source: "[[basic-vocabulary]]" }
-- { id: 003, display: "gracias", input: "gracias", meaning: "고마워", level: "A1", category: "greeting", source: "[[basic-vocabulary]]" }
-- { id: 004, display: "por_favor", input: "por_favor", meaning: "부디", level: "A1", category: "greeting", source: "[[basic-vocabulary]]" }
-- { id: 005, display: "si", input: "si", meaning: "네", level: "A1", category: "basic", source: "[[basic-vocabulary]]" }
-- { id: 006, display: "no", input: "no", meaning: "아니오", level: "A1", category: "basic", source: "[[basic-vocabulary]]" }
-- { id: 007, display: "ademas", input: "ademas", meaning: "게다가", level: "A2", category: "basic", source: "[[basic-vocabulary]]" }
-- { id: 008, display: "uno", input: "uno", meaning: "하나", level: "A1", category: "number", source: "[[basic-vocabulary]]" }
-- { id: 009, display: "dos", input: "dos", meaning: "둘", level: "A1", category: "number", source: "[[basic-vocabulary]]" }
-- { id: 010, display: "tres", input: "tres", meaning: "셋", level: "A1", category: "number", source: "[[basic-vocabulary]]" }
-- { id: 011, display: "cuatro", input: "cuatro", meaning: "넷", level: "A1", category: "number", source: "[[basic-vocabulary]]" }
-- { id: 012, display: "cinco", input: "cinco", meaning: "다섯", level: "A1", category: "number", source: "[[basic-vocabulary]]" }
-- { id: 013, display: "rojo", input: "rojo", meaning: "빨강", level: "A1", category: "color", source: "[[basic-vocabulary]]" }
-- { id: 014, display: "azul", input: "azul", meaning: "파랑", level: "A1", category: "color", source: "[[basic-vocabulary]]" }
-- { id: 015, display: "verde", input: "verde", meaning: "초록", level: "A1", category: "color", source: "[[basic-vocabulary]]" }
-- { id: 016, display: "madre", input: "madre", meaning: "어머니", level: "A1", category: "family", source: "[[basic-vocabulary]]" }
-- { id: 017, display: "padre", input: "padre", meaning: "아버지", level: "A1", category: "family", source: "[[basic-vocabulary]]" }
-- { id: 018, display: "nino", input: "nino", meaning: "아이", level: "A1", category: "family", source: "[[basic-vocabulary]]" }
-- { id: 019, display: "rapido", input: "rapido", meaning: "빠른", level: "A2", category: "adjective", source: "[[basic-vocabulary]]" }
-- { id: 020, display: "facil", input: "facil", meaning: "쉬운", level: "A2", category: "adjective", source: "[[basic-vocabulary]]" }
-- { id: 021, display: "dificil", input: "dificil", meaning: "어려운", level: "A2", category: "adjective", source: "[[basic-vocabulary]]" }
-- { id: 022, display: "importante", input: "importante", meaning: "중요한", level: "A2", category: "adjective", source: "[[basic-vocabulary]]" }
 ```

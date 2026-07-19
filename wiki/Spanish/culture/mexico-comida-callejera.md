@@ -29,5 +29,4 @@
 
 ## Sources
 
-- 원본: `.openclaw/workspace/wiki/spanish/culture/Mexican_Street_Food.md` (외부 작업공간)
-- [Mexican_Street_Food](file:///Users/emilio/.openclaw/workspace/wiki/spanish/culture/Mexican_Street_Food.md)
+- [[mexico-comida-callejera]]

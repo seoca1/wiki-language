@@ -49,5 +49,5 @@
 ## Sources
 
 - [[first-travel-korea]] — 관련 여행 준비
-- [[travel-basics-jp]] — 일반 여행 어휘
+- [[travel-basics]] — 일반 여행 어휘
 - みんなの日本語 初級

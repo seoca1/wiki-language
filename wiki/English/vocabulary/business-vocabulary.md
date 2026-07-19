@@ -1,8 +1,10 @@
+---
+category: "business"
+theme: "business"
+---
+
 # Business Vocabulary (English)
 
-> **Source:** [[business-vocabulary]][[business-vocabulary]]
-> **Category:** business
-> **Level:** TOEIC/Business English
 
 This page aggregates all business vocabulary for the typing language game corpus.
 
@@ -10,38 +12,268 @@ This page aggregates all business vocabulary for the typing language game corpus
 
 ## Communication & Technology
 
-| English | IPA | Meaning |
-|---------|-----|---------|-----------|
-| email | /ˈiːmeɪl/ | 이메일 |
-| computer | /kəmˈpjuːtər/ | 컴퓨터 |
-| internet | /ˈɪntərnɛt/ | 인터넷 |
-| keyboard | /ˈkiːbɔːrd/ | 키보드 |
-| screen | /skriːn/ | 화면 |
-| phone | /foʊn/ | 전화 |
-| website | /ˈwɛbsaɪt/ | 웹사이트 |
-| wifi | /ˈwaɪfaɪ/ | 와이파이 |
-| password | /ˈpæs.wɜːrd/ | 비밀번호 |
+## Communication & Technology
 
-## Business Context (Existing Wiki Pages)
+### email
 
-| English | Meaning |
-|---------|---------|-----------|
-| meeting | 회의 |
-| reservation | 예약 |
-| ticket | 표 |
-| passport | 여권 |
-| luggage | 수하물 |
-| baggage | 짐 |
-| guide | 가이드 |
+**Part of Speech:** noun
+
+**Definition:** 이메일
+
+**IPA / Pronunciation:** /ˈiːmeɪl/
+
+**Etymology:** English: email (etymology research needed)
+
+#### Examples
+
+- I need a email. — Expressing need
+- The email is here. — Location/presence
+
+#### Related Terms
+
+- [[email]] — Self-reference check
+
+#### Cultural Notes
+
+Cultural context to be added
+
+#### Sources
+
+- [[business-vocabulary]]
 
 ---
 
-## Related Pages
+### computer
 
-- email — electronic mail
-- computer — office equipment
-- internet — online resources
-- reservation — booking
+**Part of Speech:** noun
+
+**Definition:** 컴퓨터
+
+**IPA / Pronunciation:** /kəmˈpjuːtər/
+
+**Etymology:** English: computer (etymology research needed)
+
+#### Examples
+
+- I need a computer. — Expressing need
+- The computer is here. — Location/presence
+
+#### Related Terms
+
+- [[computer]] — Self-reference check
+
+#### Cultural Notes
+
+Cultural context to be added
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### internet
+
+**Part of Speech:** noun
+
+**Definition:** 인터넷
+
+**IPA / Pronunciation:** /ˈɪntərnɛt/
+
+**Etymology:** English: internet (etymology research needed)
+
+#### Examples
+
+- I need a internet. — Expressing need
+- The internet is here. — Location/presence
+
+#### Related Terms
+
+- [[internet]] — Self-reference check
+
+#### Cultural Notes
+
+Cultural context to be added
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### keyboard
+
+**Part of Speech:** noun
+
+**Definition:** 키보드
+
+**IPA / Pronunciation:** /ˈkiːbɔːrd/
+
+**Etymology:** English: keyboard (etymology research needed)
+
+#### Examples
+
+- I need a keyboard. — Expressing need
+- The keyboard is here. — Location/presence
+
+#### Related Terms
+
+- [[keyboard]] — Self-reference check
+
+#### Cultural Notes
+
+Cultural context to be added
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### screen
+
+**Part of Speech:** noun
+
+**Definition:** 화면
+
+**IPA / Pronunciation:** /skriːn/
+
+**Etymology:** English: screen (etymology research needed)
+
+#### Examples
+
+- I need a screen. — Expressing need
+- The screen is here. — Location/presence
+
+#### Related Terms
+
+- [[screen]] — Self-reference check
+
+#### Cultural Notes
+
+Cultural context to be added
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### phone
+
+**Part of Speech:** noun
+
+**Definition:** 전화
+
+**IPA / Pronunciation:** /foʊn/
+
+**Etymology:** English: phone (etymology research needed)
+
+#### Examples
+
+- I need a phone. — Expressing need
+- The phone is here. — Location/presence
+
+#### Related Terms
+
+- [[phone]] — Self-reference check
+
+#### Cultural Notes
+
+Cultural context to be added
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### website
+
+**Part of Speech:** noun
+
+**Definition:** 웹사이트
+
+**IPA / Pronunciation:** /ˈwɛbsaɪt/
+
+**Etymology:** English: website (etymology research needed)
+
+#### Examples
+
+- I need a website. — Expressing need
+- The website is here. — Location/presence
+
+#### Related Terms
+
+- [[website]] — Self-reference check
+
+#### Cultural Notes
+
+Cultural context to be added
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### wifi
+
+**Part of Speech:** noun
+
+**Definition:** 와이파이
+
+**IPA / Pronunciation:** /ˈwaɪfaɪ/
+
+**Etymology:** English: wifi (etymology research needed)
+
+#### Examples
+
+- I need a wifi. — Expressing need
+- The wifi is here. — Location/presence
+
+#### Related Terms
+
+- [[wifi]] — Self-reference check
+
+#### Cultural Notes
+
+Cultural context to be added
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### password
+
+**Part of Speech:** noun
+
+**Definition:** 비밀번호
+
+**IPA / Pronunciation:** /ˈpæs.wɜːrd/
+
+**Etymology:** English: password (etymology research needed)
+
+#### Examples
+
+- I need a password. — Expressing need
+- The password is here. — Location/presence
+
+#### Related Terms
+
+- [[password]] — Self-reference check
+
+#### Cultural Notes
+
+Cultural context to be added
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
 
 ## Sources
 
@@ -55,21 +287,4 @@ This page aggregates all business vocabulary for the typing language game corpus
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
-```yaml
-- { id: 001, display: "email", input: "email", meaning: "이메일", level: "TOEIC/Business English", category: "business", source: "[[business-vocabulary]]" }
-- { id: 002, display: "computer", input: "computer", meaning: "컴퓨터", level: "TOEIC/Business English", category: "business", source: "[[business-vocabulary]]" }
-- { id: 003, display: "internet", input: "internet", meaning: "인터넷", level: "TOEIC/Business English", category: "business", source: "[[business-vocabulary]]" }
-- { id: 004, display: "keyboard", input: "keyboard", meaning: "키보드", level: "TOEIC/Business English", category: "business", source: "[[business-vocabulary]]" }
-- { id: 005, display: "screen", input: "screen", meaning: "화면", level: "TOEIC/Business English", category: "business", source: "[[business-vocabulary]]" }
-- { id: 006, display: "phone", input: "phone", meaning: "전화", level: "TOEIC/Business English", category: "business", source: "[[business-vocabulary]]" }
-- { id: 007, display: "website", input: "website", meaning: "웹사이트", level: "TOEIC/Business English", category: "business", source: "[[business-vocabulary]]" }
-- { id: 008, display: "wifi", input: "wifi", meaning: "와이파이", level: "TOEIC/Business English", category: "business", source: "[[business-vocabulary]]" }
-- { id: 009, display: "password", input: "password", meaning: "비밀번호", level: "TOEIC/Business English", category: "business", source: "[[business-vocabulary]]" }
-- { id: 010, display: "meeting", input: "meeting", meaning: "", level: "TOEIC/Business English", category: "business", source: "[[business-vocabulary]]" }
-- { id: 011, display: "reservation", input: "reservation", meaning: "", level: "TOEIC/Business English", category: "business", source: "[[business-vocabulary]]" }
-- { id: 012, display: "ticket", input: "ticket", meaning: "", level: "TOEIC/Business English", category: "business", source: "[[business-vocabulary]]" }
-- { id: 013, display: "passport", input: "passport", meaning: "", level: "TOEIC/Business English", category: "business", source: "[[business-vocabulary]]" }
-- { id: 014, display: "luggage", input: "luggage", meaning: "", level: "TOEIC/Business English", category: "business", source: "[[business-vocabulary]]" }
-- { id: 015, display: "baggage", input: "baggage", meaning: "", level: "TOEIC/Business English", category: "business", source: "[[business-vocabulary]]" }
-- { id: 016, display: "guide", input: "guide", meaning: "", level: "TOEIC/Business English", category: "business", source: "[[business-vocabulary]]" }
 ```

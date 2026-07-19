@@ -1,8 +1,12 @@
+---
+source: "animals-vocabulary-jp"
+category: "animals"
+level: "JLPT N4-N5"
+theme: "animals"
+---
+
 # Animals (動物語彙)
 
-> **Source:** [[animals-vocabulary-jp]]
-> **Category:** animals
-> **Level:** JLPT N4-N5
 
 This page aggregates all animal vocabulary for the typing language game corpus.
 
@@ -10,51 +14,703 @@ This page aggregates all animal vocabulary for the typing language game corpus.
 
 ## Domestic Animals (ペット/家畜)
 
-| Word | Reading | Meaning |
-|------|---------|---------|-----------|
-| 犬 | いぬ (inu) | dog |
-| 猫 | ねこ (neko) | cat |
-| 馬 | うま (uma) | horse |
-| 牛 | うし (ushi) | cow |
-| 豚 | ぶた (buta) | pig |
-| 鶏 | とり (tori) | chicken |
-| 羊 | ひつじ (hitsuji) | sheep |
+## Domestic Animals (ペット/家畜)
+
+### 犬
+
+**Part of Speech:** 名詞
+
+**Definition:** dog
+
+**Reading / Hiragana / Romaji:** いぬ (inu)
+
+**Etymology:** 漢字: 犬 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 犬が必要です。 — 必要表現
+- 犬はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[犬]] — 自動参照
+- [[animals-vocabulary]] — 動物語彙
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[animals-vocabulary]]
+
+---
+
+### 猫
+
+**Part of Speech:** 名詞
+
+**Definition:** cat
+
+**Reading / Hiragana / Romaji:** ねこ (neko)
+
+**Etymology:** 漢字: 猫 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 猫が必要です。 — 必要表現
+- 猫はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[猫]] — 自動参照
+- [[animals-vocabulary]] — 動物語彙
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[animals-vocabulary]]
+
+---
+
+### 馬
+
+**Part of Speech:** 名詞
+
+**Definition:** horse
+
+**Reading / Hiragana / Romaji:** うま (uma)
+
+**Etymology:** 漢字: 馬 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 馬が必要です。 — 必要表現
+- 馬はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[馬]] — 自動参照
+- [[animals-vocabulary]] — 動物語彙
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[animals-vocabulary]]
+
+---
+
+### 牛
+
+**Part of Speech:** 名詞
+
+**Definition:** cow
+
+**Reading / Hiragana / Romaji:** うし (ushi)
+
+**Etymology:** 漢字: 牛 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 牛が必要です。 — 必要表現
+- 牛はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[牛]] — 自動参照
+- [[animals-vocabulary]] — 動物語彙
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[animals-vocabulary]]
+
+---
+
+### 豚
+
+**Part of Speech:** 名詞
+
+**Definition:** pig
+
+**Reading / Hiragana / Romaji:** ぶた (buta)
+
+**Etymology:** 漢字: 豚 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 豚が必要です。 — 必要表現
+- 豚はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[豚]] — 自動参照
+- [[animals-vocabulary]] — 動物語彙
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[animals-vocabulary]]
+
+---
+
+### 鶏
+
+**Part of Speech:** 名詞
+
+**Definition:** chicken
+
+**Reading / Hiragana / Romaji:** とり (tori)
+
+**Etymology:** 漢字: 鶏 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 鶏が必要です。 — 必要表現
+- 鶏はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[鶏]] — 自動参照
+- [[animals-vocabulary]] — 動物語彙
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[animals-vocabulary]]
+
+---
+
+### 羊
+
+**Part of Speech:** 名詞
+
+**Definition:** sheep
+
+**Reading / Hiragana / Romaji:** ひつじ (hitsuji)
+
+**Etymology:** 漢字: 羊 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 羊が必要です。 — 必要表現
+- 羊はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[羊]] — 自動参照
+- [[animals-vocabulary]] — 動物語彙
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[animals-vocabulary]]
+
+---
 
 ## Wild Animals (野生動物)
 
-| Word | Reading | Meaning |
-|------|---------|---------|-----------|
-| 鳥 | とり (tori) | bird |
-| 魚 | さかな (sakana) | fish |
-| 蛇 | へび (hebi) | snake |
-| 熊 | くま (kuma) | bear |
-| 鹿 | しか (shika) | deer |
-| 猿 | さる (saru) | monkey |
-| 亀 | かめ (kame) | turtle |
+### 鳥
+
+**Part of Speech:** 名詞
+
+**Definition:** bird
+
+**Reading / Hiragana / Romaji:** とり (tori)
+
+**Etymology:** 漢字: 鳥 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 鳥が必要です。 — 必要表現
+- 鳥はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[鳥]] — 自動参照
+- [[animals-vocabulary]] — 動物語彙
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[animals-vocabulary]]
+
+---
+
+### 魚
+
+**Part of Speech:** 名詞
+
+**Definition:** fish
+
+**Reading / Hiragana / Romaji:** さかな (sakana)
+
+**Etymology:** 漢字: 魚 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 魚が必要です。 — 必要表現
+- 魚はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[魚]] — 自動参照
+- [[animals-vocabulary]] — 動物語彙
+- [[food-vocabulary]] — 食べ物語彙
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[animals-vocabulary]]
+
+---
+
+### 蛇
+
+**Part of Speech:** 名詞
+
+**Definition:** snake
+
+**Reading / Hiragana / Romaji:** へび (hebi)
+
+**Etymology:** 漢字: 蛇 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 蛇が必要です。 — 必要表現
+- 蛇はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[蛇]] — 自動参照
+- [[animals-vocabulary]] — 動物語彙
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[animals-vocabulary]]
+
+---
+
+### 熊
+
+**Part of Speech:** 名詞
+
+**Definition:** bear
+
+**Reading / Hiragana / Romaji:** くま (kuma)
+
+**Etymology:** 漢字: 熊 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 熊が必要です。 — 必要表現
+- 熊はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[熊]] — 自動参照
+- [[animals-vocabulary]] — 動物語彙
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[animals-vocabulary]]
+
+---
+
+### 鹿
+
+**Part of Speech:** 名詞
+
+**Definition:** deer
+
+**Reading / Hiragana / Romaji:** しか (shika)
+
+**Etymology:** 漢字: 鹿 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 鹿が必要です。 — 必要表現
+- 鹿はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[鹿]] — 自動参照
+- [[animals-vocabulary]] — 動物語彙
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[animals-vocabulary]]
+
+---
+
+### 猿
+
+**Part of Speech:** 名詞
+
+**Definition:** monkey
+
+**Reading / Hiragana / Romaji:** さる (saru)
+
+**Etymology:** 漢字: 猿 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 猿が必要です。 — 必要表現
+- 猿はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[猿]] — 自動参照
+- [[animals-vocabulary]] — 動物語彙
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[animals-vocabulary]]
+
+---
+
+### 亀
+
+**Part of Speech:** 名詞
+
+**Definition:** turtle
+
+**Reading / Hiragana / Romaji:** かめ (kame)
+
+**Etymology:** 漢字: 亀 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 亀が必要です。 — 必要表現
+- 亀はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[亀]] — 自動参照
+- [[animals-vocabulary]] — 動物語彙
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[animals-vocabulary]]
+
+---
 
 ## Marine Animals (海洋動物)
 
-| Word | Reading | Meaning |
-|------|---------|---------|-----------|
-| 鯨 | くじら (kujira) | whale |
-| 鮫 | さめ (same) | shark |
-| イルカ | いるか (iruka) | dolphin |
+### 鯨
+
+**Part of Speech:** 名詞
+
+**Definition:** whale
+
+**Reading / Hiragana / Romaji:** くじら (kujira)
+
+**Etymology:** 漢字: 鯨 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 鯨が必要です。 — 必要表現
+- 鯨はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[鯨]] — 自動参照
+- [[animals-vocabulary]] — 動物語彙
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[animals-vocabulary]]
+
+---
+
+### 鮫
+
+**Part of Speech:** 名詞
+
+**Definition:** shark
+
+**Reading / Hiragana / Romaji:** さめ (same)
+
+**Etymology:** 漢字: 鮫 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 鮫が必要です。 — 必要表現
+- 鮫はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[鮫]] — 自動参照
+- [[animals-vocabulary]] — 動物語彙
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[animals-vocabulary]]
+
+---
+
+### イルカ
+
+**Part of Speech:** 名詞
+
+**Definition:** dolphin
+
+**Reading / Hiragana / Romaji:** いるか (iruka)
+
+**Etymology:** 外来語: イルカ
+
+#### Examples
+
+- イルカが必要です。 — 必要表現
+- イルカはここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[イルカ]] — 自動参照
+- [[animals-vocabulary]] — 動物語彙
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[animals-vocabulary]]
+
+---
 
 ## Insects (虫)
 
-| Word | Reading | Meaning |
-|------|---------|---------|-----------|
-| 蝶 | ちょう (chou) | butterfly |
-| アリ | あり (ari) | ant |
-| カエル | かえる (kaeru) | frog |
+### 蝶
+
+**Part of Speech:** 名詞
+
+**Definition:** butterfly
+
+**Reading / Hiragana / Romaji:** ちょう (chou)
+
+**Etymology:** 漢字: 蝶 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 蝶が必要です。 — 必要表現
+- 蝶はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[蝶]] — 自動参照
+- [[animals-vocabulary]] — 動物語彙
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[animals-vocabulary]]
+
+---
+
+### アリ
+
+**Part of Speech:** 名詞
+
+**Definition:** ant
+
+**Reading / Hiragana / Romaji:** あり (ari)
+
+**Etymology:** 外来語: アリ
+
+#### Examples
+
+- アリが必要です。 — 必要表現
+- アリはここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[アリ]] — 自動参照
+- [[animals-vocabulary]] — 動物語彙
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[animals-vocabulary]]
+
+---
+
+### カエル
+
+**Part of Speech:** 名詞
+
+**Definition:** frog
+
+**Reading / Hiragana / Romaji:** かえる (kaeru)
+
+**Etymology:** 外来語: カエル
+
+#### Examples
+
+- カエルが必要です。 — 必要表現
+- カエルはここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[カエル]] — 自動参照
+- [[animals-vocabulary]] — 動物語彙
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[animals-vocabulary]]
+
+---
 
 ## Mythical/Legendary (伝説の動物)
 
-| Word | Reading | Meaning |
-|------|---------|---------|-----------|
-| 龍/竜 | りゅう (ryuu) | dragon |
-| 狼 | おおかみ (ookami) | wolf |
-| 狐 | きつね (kitsune) | fox |
+### 龍/竜
+
+**Part of Speech:** 名詞
+
+**Definition:** dragon
+
+**Reading / Hiragana / Romaji:** りゅう (ryuu)
+
+**Etymology:** 漢字: 龍/竜 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 龍/竜が必要です。 — 必要表現
+- 龍/竜はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[龍/竜]] — 自動参照
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[animals-vocabulary]]
+
+---
+
+### 狼
+
+**Part of Speech:** 名詞
+
+**Definition:** wolf
+
+**Reading / Hiragana / Romaji:** おおかみ (ookami)
+
+**Etymology:** 漢字: 狼 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 狼が必要です。 — 必要表現
+- 狼はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[狼]] — 自動参照
+- [[animals-vocabulary]] — 動物語彙
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[animals-vocabulary]]
+
+---
+
+### 狐
+
+**Part of Speech:** 名詞
+
+**Definition:** fox
+
+**Reading / Hiragana / Romaji:** きつね (kitsune)
+
+**Etymology:** 漢字: 狐 (音読み/訓読みによる語源)
+
+#### Examples
+
+- 狐が必要です。 — 必要表現
+- 狐はここにあります。 — 位置/存在
+
+#### Related Terms
+
+- [[狐]] — 自動参照
+- [[animals-vocabulary]] — 動物語彙
+
+#### Cultural Notes
+
+文化的背景情報を追加予定
+
+#### Sources
+
+- [[animals-vocabulary]]
 
 ---
 
@@ -70,28 +726,4 @@ This page aggregates all animal vocabulary for the typing language game corpus.
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
-```yaml
-- { id: 001, display: "犬", input: "inu", meaning: "dog", level: "JLPT N4-N5", category: "animals", source: "[[animals-vocabulary]]" }
-- { id: 002, display: "猫", input: "neko", meaning: "cat", level: "JLPT N4-N5", category: "animals", source: "[[animals-vocabulary]]" }
-- { id: 003, display: "馬", input: "uma", meaning: "horse", level: "JLPT N4-N5", category: "animals", source: "[[animals-vocabulary]]" }
-- { id: 004, display: "牛", input: "ushi", meaning: "cow", level: "JLPT N4-N5", category: "animals", source: "[[animals-vocabulary]]" }
-- { id: 005, display: "豚", input: "buta", meaning: "pig", level: "JLPT N4-N5", category: "animals", source: "[[animals-vocabulary]]" }
-- { id: 006, display: "鶏", input: "tori", meaning: "chicken", level: "JLPT N4-N5", category: "animals", source: "[[animals-vocabulary]]" }
-- { id: 007, display: "羊", input: "hitsuji", meaning: "sheep", level: "JLPT N4-N5", category: "animals", source: "[[animals-vocabulary]]" }
-- { id: 008, display: "鳥", input: "tori", meaning: "bird", level: "JLPT N4-N5", category: "animals", source: "[[animals-vocabulary]]" }
-- { id: 009, display: "魚", input: "sakana", meaning: "fish", level: "JLPT N4-N5", category: "animals", source: "[[animals-vocabulary]]" }
-- { id: 010, display: "蛇", input: "hebi", meaning: "snake", level: "JLPT N4-N5", category: "animals", source: "[[animals-vocabulary]]" }
-- { id: 011, display: "熊", input: "kuma", meaning: "bear", level: "JLPT N4-N5", category: "animals", source: "[[animals-vocabulary]]" }
-- { id: 012, display: "鹿", input: "shika", meaning: "deer", level: "JLPT N4-N5", category: "animals", source: "[[animals-vocabulary]]" }
-- { id: 013, display: "猿", input: "saru", meaning: "monkey", level: "JLPT N4-N5", category: "animals", source: "[[animals-vocabulary]]" }
-- { id: 014, display: "亀", input: "kame", meaning: "turtle", level: "JLPT N4-N5", category: "animals", source: "[[animals-vocabulary]]" }
-- { id: 015, display: "鯨", input: "kujira", meaning: "whale", level: "JLPT N4-N5", category: "animals", source: "[[animals-vocabulary]]" }
-- { id: 016, display: "鮫", input: "same", meaning: "shark", level: "JLPT N4-N5", category: "animals", source: "[[animals-vocabulary]]" }
-- { id: 017, display: "イルカ", input: "iruka", meaning: "dolphin", level: "JLPT N4-N5", category: "animals", source: "[[animals-vocabulary]]" }
-- { id: 018, display: "蝶", input: "chou", meaning: "butterfly", level: "JLPT N4-N5", category: "animals", source: "[[animals-vocabulary]]" }
-- { id: 019, display: "アリ", input: "ari", meaning: "ant", level: "JLPT N4-N5", category: "animals", source: "[[animals-vocabulary]]" }
-- { id: 020, display: "カエル", input: "kaeru", meaning: "frog", level: "JLPT N4-N5", category: "animals", source: "[[animals-vocabulary]]" }
-- { id: 021, display: "龍/竜", input: "ryuu", meaning: "dragon", level: "JLPT N4-N5", category: "animals", source: "[[animals-vocabulary]]" }
-- { id: 022, display: "狼", input: "ookami", meaning: "wolf", level: "JLPT N4-N5", category: "animals", source: "[[animals-vocabulary]]" }
-- { id: 023, display: "狐", input: "kitsune", meaning: "fox", level: "JLPT N4-N5", category: "animals", source: "[[animals-vocabulary]]" }
 ```

@@ -1,8 +1,12 @@
+---
+source: "emotions-personality-vocabulary-es"
+category: "emotion"
+level: "A1-B1"
+theme: "emotion"
+---
+
 # Vocabulario de Emociones y Personalidad (Spanish)
 
-> **Source:** [[emotions-personality-vocabulary-es]]
-> **Category:** emotion
-> **Level:** A1-B1
 
 Esta página agrega todo el vocabulario de emociones y personalidad para el corpus del juego de mecanografía.
 
@@ -10,32 +14,1795 @@ Esta página agrega todo el vocabulario de emociones y personalidad para el corp
 
 ## Emociones
 
-| Español | Pronunciación | Significado |
-|---------|--------------|-------------|-----------|
-| amor | /aˈmoɾ/ | amor |
-| gustar | /ɡusˈtaɾ/ | gustar |
-| querer | /keˈɾeɾ/ | querer |
-| hermoso | /eɾˈmoso/ | hermoso |
-| bonita | /bonita/ | bonita |
-| precioso | /pɾeˈθjoso/ | precioso |
-| guapo | /ɡwapo/ | guapo |
-| frío | /fɾio/ | frío |
-| bochorno | /botʃorno/ | bochorno |
-| solanera | /solanera/ | solanera |
+## Emociones
 
-## Personalidad
+## Emociones
 
-| Español | Pronunciación | Significado |
-|---------|--------------|-------------|-----------|
-| altivez | /altiβez/ | altivez |
-| mola | /mola/ | mola (gusta mucho) |
-| desafiar | /desafjar/ | desafiar |
+General
+
+### amor
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un amor. — Expresando necesidad
+- El amor está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[amor]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
 
 ---
 
-## Fuentes
+### Examples
 
-- [[emotions-personality-vocabulary-es]]
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### gustar
+
+**Part of Speech:** verbo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Yo gustar todos los días. — Uso básico
+- Por favor gustar esto. — Forma de petición
+
+#### Related Terms
+
+- [[gustar]] — Forma base
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### querer
+
+**Part of Speech:** verbo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Yo querer todos los días. — Uso básico
+- Por favor querer esto. — Forma de petición
+
+#### Related Terms
+
+- [[querer]] — Forma base
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### hermoso
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un hermoso. — Expresando necesidad
+- El hermoso está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[hermoso]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### bonita
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un bonita. — Expresando necesidad
+- El bonita está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[bonita]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### precioso
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un precioso. — Expresando necesidad
+- El precioso está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[precioso]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### guapo
+
+**Part of Speech:** adjetivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Es muy guapo. — Descripción
+- Un día guapo. — Modificando sustantivo
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### frío
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un frío. — Expresando necesidad
+- El frío está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[frío]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### bochorno
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un bochorno. — Expresando necesidad
+- El bochorno está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[bochorno]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### solanera
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un solanera. — Expresando necesidad
+- El solanera está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[solanera]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### altivez
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un altivez. — Expresando necesidad
+- El altivez está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[altivez]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### mola
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un mola. — Expresando necesidad
+- El mola está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[mola]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### desafiar
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un desafiar. — Expresando necesidad
+- El desafiar está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[desafiar]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+## Sources
+
+- [[emotions-personality-vocabulary]]
 
 ---
 
@@ -45,18 +1812,4 @@ Esta página agrega todo el vocabulario de emociones y personalidad para el corp
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
-```yaml
-- { id: 001, display: "amor", input: "amor", meaning: "amor", level: "A1-B1", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
-- { id: 002, display: "gustar", input: "gustar", meaning: "gustar", level: "A1-B1", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
-- { id: 003, display: "querer", input: "querer", meaning: "querer", level: "A1-B1", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
-- { id: 004, display: "hermoso", input: "hermoso", meaning: "hermoso", level: "A1-B1", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
-- { id: 005, display: "bonita", input: "bonita", meaning: "bonita", level: "A1-B1", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
-- { id: 006, display: "precioso", input: "precioso", meaning: "precioso", level: "A1-B1", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
-- { id: 007, display: "guapo", input: "guapo", meaning: "guapo", level: "A1-B1", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
-- { id: 008, display: "frío", input: "frío", meaning: "frío", level: "A1-B1", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
-- { id: 009, display: "bochorno", input: "bochorno", meaning: "bochorno", level: "A1-B1", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
-- { id: 010, display: "solanera", input: "solanera", meaning: "solanera", level: "A1-B1", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
-- { id: 011, display: "altivez", input: "altivez", meaning: "altivez", level: "A1-B1", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
-- { id: 012, display: "mola", input: "mola", meaning: "mola (gusta mucho)", level: "A1-B1", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
-- { id: 013, display: "desafiar", input: "desafiar", meaning: "desafiar", level: "A1-B1", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
 ```

@@ -1,3 +1,7 @@
+---
+category: "travel"
+---
+
 # Travel Essentials
 
 **Source:** [[travel-basics]]

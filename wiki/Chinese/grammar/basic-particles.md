@@ -318,8 +318,7 @@
 
 ## Sources
 
-- 원본: `.openclaw/workspace/wiki/chinese/grammar/Basic_Particles_Chinese.md` (외부 작업공간)
-- [Basic_Particles_Chinese](file:///Users/emilio/.openclaw/workspace/wiki/chinese/grammar/Basic_Particles_Chinese.md)
+- [[basic-particles-zh]]
 
 ## Related
 

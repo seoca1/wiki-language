@@ -1,3 +1,7 @@
+---
+category: "colors-zh"
+---
+
 # Colors — 색깔 (颜色)
 
 **Source:** colors-zh-original

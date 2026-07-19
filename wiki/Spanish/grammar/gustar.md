@@ -28,9 +28,9 @@ La fórmula central es `pronombre IO + gusta/gustan + sujeto`. El verbo concuerd
 
 ## 활용 레슨 (Lecciones que aplican este concepto)
 
-- [[sources/2026-06-16_Restaurant_Ordering]] — 메뉴 선호 표현의 핵심 (*Me gusta la paella, ¿Te gusta el café?*).
-- [[sources/2026-05-17_Daily_Routine]] — 일상 선호 표현 (*Me gusta leer por la noche*).
-- [[sources/2026-06-13_Weather_and_Seasons]] — 날씨/계절 선호 (*No me gusta el frío*).
+- [[2026-06-16_Restaurant_Ordering]] — 메뉴 선호 표현의 핵심 (*Me gusta la paella, ¿Te gusta el café?*).
+- [[2026-05-17_Daily_Routine]] — 일상 선호 표현 (*Me gusta leer por la noche*).
+- [[2026-06-13_Weather_and_Seasons]] — 날씨/계절 선호 (*No me gusta el frío*).
 
 ---
 

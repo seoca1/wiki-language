@@ -1303,7 +1303,7 @@
 ## Sources
 
 - [[first-travel-japan]]
-- [[travel-basics-jp]]
+- [[travel-basics]]
 
 ---
 

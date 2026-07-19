@@ -1,3 +1,7 @@
+---
+category: "reflexive-verbs"
+---
+
 # reflexive-verbs-grammar — Card-extracted vocabulary (2026-06-22 ~ latest)
 
 **Source:** Card News Archive extraction (ADR-0062)

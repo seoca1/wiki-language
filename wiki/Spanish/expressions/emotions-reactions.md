@@ -375,3 +375,75 @@ Otras variantes equivalentes: "en tu lugar...", "si fuera tú..." (con imperfect
 - [[notes-in-spanish-listening-log]]
 
 ---
+
+## ponerse morado
+
+**Literal Translation:** ficar roxo (ponerse morado)
+**Meaning:** Comer en exceso hasta no poder más. También: comer algo con mucho gusto y abundancia.
+**Usage Context:** Coloquial, familiar. Muy usado en España y México. "Me puse morado de gambas" = comí muchas gambas.
+
+### Examples
+
+
+- *En la boda me **puse morado** de marisco.*
+- *Los niños se **pusieron morados** de dulces.*
+- *¡Qué rico estaba todo, me **puse morado**!*
+
+
+### Cultural Background
+
+
+La expresión viene de la imagen de alguien que come tanto que se le pone la cara morada (como un moretón o por la congestión). En la cultura gastronómica española, **ponerse morado** es casi un cumplido al anfitrión: indica que la comida estaba deliciosa y abundante. En México se usa igual: *me puse morado de tacos*.
+
+### Similar Expressions
+
+
+- comer-como-un-lobo - comer con mucha hambre
+- hartarse-de-comer - comer hasta el hartazgo
+- llenar-el-buche - coloquial (Cono Sur)
+
+### Sources
+
+
+- [[food-and-dining]]
+- [[mexico-comida-callejera]]
+- Guías de estudio semana 1-2
+
+---
+
+## pedir la mano
+
+**Literal Translation:** pedir a mão (em casamento)
+**Meaning:** Pedir formalmente la mano de alguien en matrimonio. El paso tradicional antes de la boda.
+**Usage Context:** Formal, ceremonial. Tradicionalmente lo hace el novio (o su familia) a los padres de la novia.
+
+### Examples
+
+
+- *Ayer **pidió la mano** de María a sus padres.*
+- *Es tradición **pedir la mano** antes de comprometerse.*
+- *Mi abuelo **pidió la mano** de mi abuela en 1950.*
+
+
+### Cultural Background
+
+
+Ritual de origen medieval: el novio solicita permiso al padre/tutor de la novia. En la España tradicional y Latinoamérica conservadora sigue vigente, aunque hoy es más simbólico. En *Cien años de soledad*, los Buendía siguen este protocolo. Variante moderna: la pareja lo decide junta y avisa a las familias.
+
+### Similar Expressions
+
+
+- comprometerse - formalizar el compromiso
+- proponer-matrimonio - la propuesta en sí
+- pedir-matrimonio - variante directa
+
+### Sources
+
+
+- [[dating-romance-es]]
+- [[realismo-magico-marquez]]
+- Guías de estudio semana 1-2
+
+---
+
+---

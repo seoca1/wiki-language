@@ -28,5 +28,4 @@
 
 ## Sources
 
-- 원본: `.openclaw/workspace/wiki/spanish/culture/Tango_Culture.md` (외부 작업공간)
-- [Tango_Culture](file:///Users/emilio/.openclaw/workspace/wiki/spanish/culture/Tango_Culture.md)
+- [[tango-argentino]]

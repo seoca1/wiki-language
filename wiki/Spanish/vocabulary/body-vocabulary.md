@@ -1,3 +1,7 @@
+---
+category: "body"
+---
+
 # body-vocabulary — Card-extracted vocabulary (2026-06-22 ~ latest)
 
 **Source:** Card News Archive extraction (ADR-0062)
@@ -8,177 +12,280 @@ Vocabulary extracted from .openclaw card_news archive slot [2]. Each entry is ge
 
 ---
 
+General
+
 ### cabeza
 
-머리 — 핵심 10 부위
+**Part of Speech:** 
 
-**Part of Speech:** sustantivo/verbo (auto)
-**Source:** Card News 2026-07-09 (slot [2]) — [[body-vocabulary]]
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- cabeza — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[body-vocabulary]]
 
 ---
-
 
 ### ojo
 
-눈 — 핵심 10 부위
+**Part of Speech:** 
 
-**Part of Speech:** sustantivo/verbo (auto)
-**Source:** Card News 2026-07-09 (slot [2]) — [[body-vocabulary]]
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- ojo — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[body-vocabulary]]
 
 ---
-
 
 ### boca
 
-입 — 핵심 10 부위
+**Part of Speech:** 
 
-**Part of Speech:** sustantivo/verbo (auto)
-**Source:** Card News 2026-07-09 (slot [2]) — [[body-vocabulary]]
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- boca — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[body-vocabulary]]
 
 ---
-
 
 ### brazo
 
-팔 — 핵심 10 부위
+**Part of Speech:** 
 
-**Part of Speech:** sustantivo/verbo (auto)
-**Source:** Card News 2026-07-09 (slot [2]) — [[body-vocabulary]]
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- brazo — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[body-vocabulary]]
 
 ---
-
 
 ### mano
 
-손 — 핵심 10 부위
+**Part of Speech:** 
 
-**Part of Speech:** sustantivo/verbo (auto)
-**Source:** Card News 2026-07-09 (slot [2]) — [[body-vocabulary]]
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- mano — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[body-vocabulary]]
 
 ---
-
 
 ### espalda
 
-등 — 핵심 10 부위
+**Part of Speech:** 
 
-**Part of Speech:** sustantivo/verbo (auto)
-**Source:** Card News 2026-07-09 (slot [2]) — [[body-vocabulary]]
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- espalda — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[body-vocabulary]]
 
 ---
-
 
 ### estómago
 
-위 — 핵심 10 부위
+**Part of Speech:** 
 
-**Part of Speech:** sustantivo/verbo (auto)
-**Source:** Card News 2026-07-09 (slot [2]) — [[body-vocabulary]]
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- estómago — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[body-vocabulary]]
 
 ---
-
 
 ### pierna
 
-다리 — 핵심 10 부위
+**Part of Speech:** 
 
-**Part of Speech:** sustantivo/verbo (auto)
-**Source:** Card News 2026-07-09 (slot [2]) — [[body-vocabulary]]
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- pierna — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[body-vocabulary]]
 
 ---
-
 
 ### pie
 
-발 — 핵심 10 부위
+**Part of Speech:** 
 
-**Part of Speech:** sustantivo/verbo (auto)
-**Source:** Card News 2026-07-09 (slot [2]) — [[body-vocabulary]]
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- pie — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[body-vocabulary]]
 
 ---
-
 
 ### corazón
 
-심장 — 핵심 10 부위
+**Part of Speech:** 
 
-**Part of Speech:** sustantivo/verbo (auto)
-**Source:** Card News 2026-07-09 (slot [2]) — [[body-vocabulary]]
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- corazón — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[body-vocabulary]]
 
 ---
 
+---
 
 ## Pipeline Form (machine-readable)
 
-```yaml
-- id: es_body-vocabulary_001
-  display: "cabeza"
-  input: "cabeza"
-  meaning: "머리"
-  level: "A1"
-  category: "body-vocabulary"
-  source: "[[body-vocabulary]] — Card News 2026-07-09 (slot [2])"
-- id: es_body-vocabulary_002
-  display: "ojo"
-  input: "ojo"
-  meaning: "눈"
-  level: "A1"
-  category: "body-vocabulary"
-  source: "[[body-vocabulary]] — Card News 2026-07-09 (slot [2])"
-- id: es_body-vocabulary_003
-  display: "boca"
-  input: "boca"
-  meaning: "입"
-  level: "A1"
-  category: "body-vocabulary"
-  source: "[[body-vocabulary]] — Card News 2026-07-09 (slot [2])"
-- id: es_body-vocabulary_004
-  display: "brazo"
-  input: "brazo"
-  meaning: "팔"
-  level: "A1"
-  category: "body-vocabulary"
-  source: "[[body-vocabulary]] — Card News 2026-07-09 (slot [2])"
-- id: es_body-vocabulary_005
-  display: "mano"
-  input: "mano"
-  meaning: "손"
-  level: "A1"
-  category: "body-vocabulary"
-  source: "[[body-vocabulary]] — Card News 2026-07-09 (slot [2])"
-- id: es_body-vocabulary_006
-  display: "espalda"
-  input: "espalda"
-  meaning: "등"
-  level: "A1"
-  category: "body-vocabulary"
-  source: "[[body-vocabulary]] — Card News 2026-07-09 (slot [2])"
-- id: es_body-vocabulary_007
-  display: "estómago"
-  input: "estómago"
-  meaning: "위"
-  level: "A1"
-  category: "body-vocabulary"
-  source: "[[body-vocabulary]] — Card News 2026-07-09 (slot [2])"
-- id: es_body-vocabulary_008
-  display: "pierna"
-  input: "pierna"
-  meaning: "다리"
-  level: "A1"
-  category: "body-vocabulary"
-  source: "[[body-vocabulary]] — Card News 2026-07-09 (slot [2])"
-- id: es_body-vocabulary_009
-  display: "pie"
-  input: "pie"
-  meaning: "발"
-  level: "A1"
-  category: "body-vocabulary"
-  source: "[[body-vocabulary]] — Card News 2026-07-09 (slot [2])"
-- id: es_body-vocabulary_010
-  display: "corazón"
-  input: "corazón"
-  meaning: "심장"
-  level: "A1"
-  category: "body-vocabulary"
-  source: "[[body-vocabulary]] — Card News 2026-07-09 (slot [2])"
 ```

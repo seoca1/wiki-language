@@ -326,8 +326,7 @@
 
 ## Sources
 
-- 원본: `.openclaw/workspace/wiki/chinese/grammar/Word_Order_Chinese.md` (외부 작업공간)
-- [Word_Order_Chinese](file:///Users/emilio/.openclaw/workspace/wiki/chinese/grammar/Word_Order_Chinese.md)
+- [[word-order-zh]]
 
 ## Related
 

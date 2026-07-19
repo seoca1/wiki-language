@@ -84,5 +84,5 @@ Esta semana he continuado con el Bloque A del [[weekly-plan]], dedicado al **sub
 - [[weekly-plan]] — plan completo
 - [[como-agua-para-chocolate-cap1]] — fuente 1
 - [[notes-in-spanish-planes-de-verano]] — fuente 2
-- [[cuando-subjuntivo]] — estructura central
+- [[subjunctive-patterns#cuando-subjuntivo]] — estructura central
 - [[blog-output]] — guía de publicación

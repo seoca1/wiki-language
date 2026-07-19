@@ -121,11 +121,11 @@ Al final de esta guía, podrás:
 
 | Expresión | Significado | Cuándo usarla | Ejemplo |
 |-----------|-------------|---------------|---------|
-| [[quedar-varado]] | detenerse, no poder avanzar | barcos, vehículos, proyectos | *"El coche quedó **varado** en la nieve."* |
-| [[dar-la-voz-de-alarma]] | avisar de un peligro | emergencias, alertas | *"La vecina **dio la voz de alarma** al ver humo."* |
-| [[subirse-al-higado]] | enojarse profundamente | disgusto que se acumula | *"Se me **subió al hígado** que no me agradecieran."* |
-| [[tener-cara-de-llamarse]] | parecer de un nombre | comentarios sobre apariencia | *"Este gato **tiene cara de llamarse** Mishi."* |
-| [[devolverlo-huerfano-a-las-aguas]] | enterrar a un náufrago | rituales funerarios marítimos | *"La tradición es **devolverlo huérfano** si nadie lo reclama."* |
+| [[cultural-idioms#quedar-varado]] | detenerse, no poder avanzar | barcos, vehículos, proyectos | *"El coche quedó **varado** en la nieve."* |
+| [[cultural-idioms#dar-la-voz-de-alarma]] | avisar de un peligro | emergencias, alertas | *"La vecina **dio la voz de alarma** al ver humo."* |
+| [[emotions-reactions#subirse-al-higado]] | enojarse profundamente | disgusto que se acumula | *"Se me **subió al hígado** que no me agradecieran."* |
+| [[emotions-reactions#tener-cara-de-llamarse]] | parecer de un nombre | comentarios sobre apariencia | *"Este gato **tiene cara de llamarse** Mishi."* |
+| [[cultural-idioms#devolverlo-huerfano-a-las-aguas]] | enterrar a un náufrago | rituales funerarios marítimos | *"La tradición es **devolverlo huérfano** si nadie lo reclama."* |
 
 ### 4.2 Grupo coloquial (español peninsular)
 
@@ -133,11 +133,11 @@ Al final de esta guía, podrás:
 
 | Expresión | Significado | Función | Ejemplo |
 |-----------|-------------|---------|---------|
-| [[vamos-que]] | conclusión, consecuencia | conector | *"Bueno, **vamos, que** al final llovió."* |
-| [[hombre-pues]] | reacción, resumen | muletilla | *"**Hombre, pues** no es para tanto, ¿eh?"* |
-| [[yo-que-tu]] | consejo con condicional | sugerencia | *"**Yo que tú, no me lo pensaría** dos veces."* |
-| [[que-fuerte]] | exclamación de impacto | reacción | *"¡Me han subido el alquiler un 30 %! - **¡Qué fuerte!**"* |
-| [[que-pasada]] | exclamación de admiración | entusiasmo | *"¡**Qué pasada** de concierto!"* |
+| [[daily-life#vamos-que]] | conclusión, consecuencia | conector | *"Bueno, **vamos, que** al final llovió."* |
+| [[daily-life#hombre-pues]] | reacción, resumen | muletilla | *"**Hombre, pues** no es para tanto, ¿eh?"* |
+| [[daily-life#yo-que-tu]] | consejo con condicional | sugerencia | *"**Yo que tú, no me lo pensaría** dos veces."* |
+| [[emotions-reactions#que-fuerte]] | exclamación de impacto | reacción | *"¡Me han subido el alquiler un 30 %! - **¡Qué fuerte!**"* |
+| [[emotions-reactions#que-pasada]] | exclamación de admiración | entusiasmo | *"¡**Qué pasada** de concierto!"* |
 
 ---
 
@@ -252,7 +252,7 @@ En pueblos pesqueros del Caribe, los **funerales de náufragos** siguen un patr�
 
 ### 7.2 Expresiones (rellenar hueco)
 
-Rellena con la expresión correcta: *quedar varado · dar la voz de alarma · tener cara de llamarse · vamos que · yo que tú*
+Rellena con la expresión correcta: *[[cultural-idioms#quedar-varado]] · [[cultural-idioms#dar-la-voz-de-alarma]] · [[emotions-reactions#tener-cara-de-llamarse]] · [[daily-life#vamos-que]] · [[daily-life#yo-que-tu]]*
 
 1. La negociación __________ por desacuerdos políticos.
 2. "¡Auxilio, hay humo!" - alguien tiene que __________.

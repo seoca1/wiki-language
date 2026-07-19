@@ -22,10 +22,10 @@ Toda forma infinitiva en español termina en `-AR`, `-ER` o `-IR`, y cada grupo 
 
 ## 활용 레슨 (Lecciones que aplican este concepto)
 
-- [[sources/2026-05-17_Daily_Routine]] — 일상 루틴 묘사. 동사 원형 대부분 현재 시제로 활용 (*me levanto, desayuno, voy al trabajo*).
-- [[sources/2026-05-17_Travel_Directions]] — 현재 시제로 길 묻기/안내 (*¿Dónde está...?*, *Gire a la izquierda*).
-- [[sources/2026-06-13_Weather_and_Seasons]] — hacer / estar / llover 현재형으로 날씨 묘사 (*Llueve, hace frío, está nublado*).
-- [[sources/2026-06-16_Restaurant_Ordering]] — 주문/희망 표현 (*Quisiera, ¿Tiene...?*).
+- [[2026-05-17_Daily_Routine]] — 일상 루틴 묘사. 동사 원형 대부분 현재 시제로 활용 (*me levanto, desayuno, voy al trabajo*).
+- [[2026-05-17_Travel_Directions]] — 현재 시제로 길 묻기/안내 (*¿Dónde está...?*, *Gire a la izquierda*).
+- [[2026-06-13_Weather_and_Seasons]] — hacer / estar / llover 현재형으로 날씨 묘사 (*Llueve, hace frío, está nublado*).
+- [[2026-06-16_Restaurant_Ordering]] — 주문/희망 표현 (*Quisiera, ¿Tiene...?*).
 
 ---
 

@@ -71,3 +71,41 @@
 - **보안 가이드**: [[security-incident-response-2026-07-14]] (_publish/2026-W25/, 360 lines)
 - **상태**: Language HEAD `8aae316` (force-pushed) / Game HEAD `7d78707` (curation push)
 - **세션 종료**: 본 엔트리까지
+
+## [2026-07-16] lint | 볼트 전체 wikilink 무결성 점검 + Game raw 마이그레이션
+
+- **Language wiki/ 폴더**: 0개 깨진 링크 (vault-wide wikilink 모두 유효)
+  - Spanish log.md: 40+ per-word wikilink → theme-file anchor (`[[theme]]`) 일괄 치환
+  - English basic-vocabulary.md: 내부 per-word wikilink (`[[hi]]`, `[[hello]]` 등) 제거
+  - Spanish/Japanese vocabulary Source 필드: 중복 `[[xxx-es]]` 정리, `travel-basics-jp` → `travel-basics` 정규화
+  - Chinese grammar 파일: OpenClaw `file://` 외부 링크 2개 → 로컬 source 페이지(`basic-particles-zh.md`, `word-order-zh.md`)로 마이그레이션
+  - Spanish culture 파일: OpenClaw `file://` 외부 링크 2개 → 로컬 source 페이지(`tango-argentino.md`, `mexico-comida-callejera.md`)로 마이그레이션
+
+- **Game/typing_language/raw/** 4개 코퍼스 파일 per-word → theme-anchor 마이그레이션 완료
+  - en_words.md: `airport`, `hotel`, `passport` 등 travel 단어 → `[[travel]]`, animal → `[[animals-vocabulary]]`, food → `[[food-vocabulary]]`, body → `[[body-vocabulary]]`
+  - es_words.md: travel 섹션 전체(`pasaporte`, `aeropuerto`, `hotel` 등) → `[[viajes]]`
+  - jp_words.md: travel 카테고리 `basic-vocabulary` → `[[travel]]` 치환 (regex 기반)
+  - kr_words.md: wiki-driven entries 카테고리별 theme-file 매핑 (`여행`, `food-vocabulary`, `동물 어휘`, `자연・날씨 어휘`, `의류・패션 어휘`, `emotions-personality-vocabulary`, `topik1-starter`)
+
+- **전체 볼트**: 90개 broken link 잔존 (대부분 Fiction/wiki 캐릭터/작품 참조, .omo 작업 문서 아티팩트, raw/_publish 템플릿 플레이스홀더 — 실제 wiki 콘텐츠와 무관)
+
+- **다음 단계**: Fiction/wiki 내부 링크 복구, Game/roguelike_sprawl 단편 소설 경로 수정
+
+## [2026-07-16] lint | 볼트 전체 wikilink 무결성 점검 + Game raw 마이그레이션
+
+- **Language wiki/ 폴더**: 0개 깨진 링크 (vault-wide wikilink 모두 유효)
+  - Spanish log.md: 40+ per-word wikilink → theme-file anchor (`[[theme]]`) 일괄 치환
+  - English basic-vocabulary.md: 내부 per-word wikilink (`[[hi]]`, `[[hello]]` 등) 제거
+  - Spanish/Japanese vocabulary Source 필드: 중복 `[[xxx-es]]` 정리, `travel-basics-jp` → `travel-basics` 정규화
+  - Chinese grammar 파일: OpenClaw `file://` 외부 링크 2개 → 로컬 source 페이지(`basic-particles-zh.md`, `word-order-zh.md`)로 마이그레이션
+  - Spanish culture 파일: OpenClaw `file://` 외부 링크 2개 → 로컬 source 페이지(`tango-argentino.md`, `mexico-comida-callejera.md`)로 마이그레이션
+
+- **Game/typing_language/raw/** 4개 코퍼스 파일 per-word → theme-anchor 마이그레이션 완료
+  - en_words.md: `airport`, `hotel`, `passport` 등 travel 단어 → `[[travel]]`, animal → `[[animals-vocabulary]]`, food → `[[food-vocabulary]]`, body → `[[body-vocabulary]]`
+  - es_words.md: travel 섹션 전체(`pasaporte`, `aeropuerto`, `hotel` 등) → `[[viajes]]`
+  - jp_words.md: travel 카테고리 `basic-vocabulary` → `[[travel]]` 치환 (regex 기반)
+  - kr_words.md: wiki-driven entries 카테고리별 theme-file 매핑 (`여행`, `food-vocabulary`, `동물 어휘`, `자연・날씨 어휘`, `의류・패션 어휘`, `emotions-personality-vocabulary`, `topik1-starter`)
+
+- **전체 볼트**: 90개 broken link 잔존 (대부분 Fiction/wiki 캐릭터/작품 참조, .omo 작업 문서 아티팩트, raw/_publish 템플릿 플레이스홀더 — 실제 wiki 콘텐츠와 무관)
+
+- **다음 단계**: Fiction/wiki 내부 링크 복구, Game/roguelike_sprawl 단편 소설 경로 수정

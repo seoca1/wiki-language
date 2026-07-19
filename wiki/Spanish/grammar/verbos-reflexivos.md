@@ -25,9 +25,9 @@ El concepto no tiene equivalente directo en coreano, por lo que conviene pensarl
 
 ## 활용 레슨 (Lecciones que aplican este concepto)
 
-- [[sources/2026-05-17_Daily_Routine]] — 반사 동사의 주 활용처. 아침 루틴 전체가 이 문법 위에서 굴러간다.
-- [[sources/2026-05-17_Travel_Directions]] — 이동 맥락에서 일부 반사 동사 등장 (sentarse, pararse).
-- [[sources/2026-06-13_Weather_and_Seasons]] — *me siento mejor con frío* 같은 감정/상태 반사 표현.
+- [[2026-05-17_Daily_Routine]] — 반사 동사의 주 활용처. 아침 루틴 전체가 이 문법 위에서 굴러간다.
+- [[2026-05-17_Travel_Directions]] — 이동 맥락에서 일부 반사 동사 등장 (sentarse, pararse).
+- [[2026-06-13_Weather_and_Seasons]] — *me siento mejor con frío* 같은 감정/상태 반사 표현.
 
 ---
 

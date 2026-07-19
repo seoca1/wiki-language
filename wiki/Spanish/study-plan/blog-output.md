@@ -202,4 +202,4 @@ curl -X POST "https://example.com/wp-json/wp/v2/posts" \
 ## Fuentes
 
 - [[weekly-plan]] - 학습 계획 본체
-- [[../index]] - 스페인어 위키 인덱스
+- ../index - 스페인어 위키 인덱스

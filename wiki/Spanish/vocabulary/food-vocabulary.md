@@ -1,8 +1,12 @@
+---
+source: "food-vocabulary-es"
+category: "food"
+level: "A1-B1"
+theme: "food"
+---
+
 # Vocabulario de Comida (Spanish Food Vocabulary)
 
-> **Source:** [[food-vocabulary-es]][[food-vocabulary-es]]
-> **Category:** food
-> **Level:** A1-B1
 
 Esta página agrega todo el vocabulario de comida y restaurante para el corpus del juego de mecanografía.
 
@@ -10,53 +14,3175 @@ Esta página agrega todo el vocabulario de comida y restaurante para el corpus d
 
 ## Alimentos Básicos
 
-| Español | Pronunciación | Significado |
-|---------|--------------|-------------|-----------|
-| carne | /karne/ | carne |
-| pollo | /polʎo/ | pollo |
-| huevo | /weβo/ | huevo |
-| queso | /keso/ | queso |
-| pan | /pan/ | pan |
-| pasta | /pasta/ | pasta |
-| cebolla | /θeβoʎa/ | cebolla |
+## Alimentos Básicos
 
-## Bebidas
+## Alimentos Básicos
 
-| Español | Pronunciación | Significado |
-|---------|--------------|-------------|-----------|
-| agua | /aɣwa/ | agua |
-| café | /kafe/ | café |
-| té | /te/ | té |
-| vino | /bino/ | vino |
-| cerveza | /θeɾβeθa/ | cerveza |
+General
 
-## Restaurante
+### carne
 
-| Español | Pronunciación | Significado |
-|---------|--------------|-------------|-----------|
-| menú | /menu/ | menú |
-| pedido | /peðiðo/ | pedido |
-| cuenta | /kwenta/ | cuenta |
-| desayuno | /desaʃuno/ | desayuno |
-| almuerzo | /almuɛɾso/ | almuerzo |
-| cena | /θena/ | cena |
-| restaurante | /restawɾante/ | restaurante |
-| deliciosa | /deliθjosa/ | deliciosa |
-| dulce | /dulθe/ | dulce |
-| picante | /pikante/ | picante |
-| receta | /reθeta/ | receta |
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un carne. — Expresando necesidad
+- El carne está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[carne]] — Autoreferencia
+- [[food-vocabulary]] — Vocabulario de comida
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
 
 ---
 
-## Páginas Relacionadas
+### Examples
 
-- restaurante — lugar para comer
-- menú — carta de comidas
-- receta — receta de cocina
+**Part of Speech:** 
 
-## Fuentes
+**Definition:** 
 
-- [[food-vocabulary-es]][[food-vocabulary-es]]
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### pollo
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un pollo. — Expresando necesidad
+- El pollo está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[pollo]] — Autoreferencia
+- [[animals-vocabulary]] — Vocabulario de animales
+- [[food-vocabulary]] — Vocabulario de comida
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### huevo
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un huevo. — Expresando necesidad
+- El huevo está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[huevo]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### queso
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un queso. — Expresando necesidad
+- El queso está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[queso]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### pan
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un pan. — Expresando necesidad
+- El pan está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[pan]] — Autoreferencia
+- [[food-vocabulary]] — Vocabulario de comida
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### pasta
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un pasta. — Expresando necesidad
+- El pasta está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[pasta]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### cebolla
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un cebolla. — Expresando necesidad
+- El cebolla está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[cebolla]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### agua
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un agua. — Expresando necesidad
+- El agua está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[agua]] — Autoreferencia
+- [[food-vocabulary]] — Vocabulario de comida
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### café
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un café. — Expresando necesidad
+- El café está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[café]] — Autoreferencia
+- [[food-vocabulary]] — Vocabulario de comida
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### té
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un té. — Expresando necesidad
+- El té está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[té]] — Autoreferencia
+- [[food-vocabulary]] — Vocabulario de comida
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### vino
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un vino. — Expresando necesidad
+- El vino está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[vino]] — Autoreferencia
+- [[food-vocabulary]] — Vocabulario de comida
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### cerveza
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un cerveza. — Expresando necesidad
+- El cerveza está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[cerveza]] — Autoreferencia
+- [[food-vocabulary]] — Vocabulario de comida
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### menú
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un menú. — Expresando necesidad
+- El menú está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[menú]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### pedido
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un pedido. — Expresando necesidad
+- El pedido está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[pedido]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### cuenta
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un cuenta. — Expresando necesidad
+- El cuenta está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[cuenta]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### desayuno
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un desayuno. — Expresando necesidad
+- El desayuno está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[desayuno]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### almuerzo
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un almuerzo. — Expresando necesidad
+- El almuerzo está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[almuerzo]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### cena
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un cena. — Expresando necesidad
+- El cena está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[cena]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### restaurante
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un restaurante. — Expresando necesidad
+- El restaurante está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[restaurante]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### deliciosa
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un deliciosa. — Expresando necesidad
+- El deliciosa está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[deliciosa]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### dulce
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un dulce. — Expresando necesidad
+- El dulce está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[dulce]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### picante
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un picante. — Expresando necesidad
+- El picante está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[picante]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### receta
+
+**Part of Speech:** sustantivo
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Necesito un receta. — Expresando necesidad
+- El receta está aquí. — Ubicación/presencia
+
+#### Related Terms
+
+- [[receta]] — Autoreferencia
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Examples
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Examples — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Related Terms
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Related Terms — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Cultural Notes
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Cultural Notes — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+### Sources
+
+**Part of Speech:** 
+
+**Definition:** 
+
+**Pronunciation / IPA:** 
+
+**Etymology:** 
+
+#### Examples
+
+- Sources — Oración de ejemplo necesaria
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+Contexto cultural por añadir
+
+#### Sources
+
+- [[food-vocabulary]]
+
+---
+
+## Sources
+
+- [[food-vocabulary]]
 
 ---
 
@@ -66,28 +3192,4 @@ Esta página agrega todo el vocabulario de comida y restaurante para el corpus d
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
-```yaml
-- { id: 001, display: "carne", input: "carne", meaning: "carne", level: "A1-B1", category: "food", source: "[[food-vocabulary]]" }
-- { id: 002, display: "pollo", input: "pollo", meaning: "pollo", level: "A1-B1", category: "food", source: "[[food-vocabulary]]" }
-- { id: 003, display: "huevo", input: "huevo", meaning: "huevo", level: "A1-B1", category: "food", source: "[[food-vocabulary]]" }
-- { id: 004, display: "queso", input: "queso", meaning: "queso", level: "A1-B1", category: "food", source: "[[food-vocabulary]]" }
-- { id: 005, display: "pan", input: "pan", meaning: "pan", level: "A1-B1", category: "food", source: "[[food-vocabulary]]" }
-- { id: 006, display: "pasta", input: "pasta", meaning: "pasta", level: "A1-B1", category: "food", source: "[[food-vocabulary]]" }
-- { id: 007, display: "cebolla", input: "cebolla", meaning: "cebolla", level: "A1-B1", category: "food", source: "[[food-vocabulary]]" }
-- { id: 008, display: "agua", input: "agua", meaning: "agua", level: "A1-B1", category: "food", source: "[[food-vocabulary]]" }
-- { id: 009, display: "café", input: "café", meaning: "café", level: "A1-B1", category: "food", source: "[[food-vocabulary]]" }
-- { id: 010, display: "té", input: "té", meaning: "té", level: "A1-B1", category: "food", source: "[[food-vocabulary]]" }
-- { id: 011, display: "vino", input: "vino", meaning: "vino", level: "A1-B1", category: "food", source: "[[food-vocabulary]]" }
-- { id: 012, display: "cerveza", input: "cerveza", meaning: "cerveza", level: "A1-B1", category: "food", source: "[[food-vocabulary]]" }
-- { id: 013, display: "menú", input: "menú", meaning: "menú", level: "A1-B1", category: "food", source: "[[food-vocabulary]]" }
-- { id: 014, display: "pedido", input: "pedido", meaning: "pedido", level: "A1-B1", category: "food", source: "[[food-vocabulary]]" }
-- { id: 015, display: "cuenta", input: "cuenta", meaning: "cuenta", level: "A1-B1", category: "food", source: "[[food-vocabulary]]" }
-- { id: 016, display: "desayuno", input: "desayuno", meaning: "desayuno", level: "A1-B1", category: "food", source: "[[food-vocabulary]]" }
-- { id: 017, display: "almuerzo", input: "almuerzo", meaning: "almuerzo", level: "A1-B1", category: "food", source: "[[food-vocabulary]]" }
-- { id: 018, display: "cena", input: "cena", meaning: "cena", level: "A1-B1", category: "food", source: "[[food-vocabulary]]" }
-- { id: 019, display: "restaurante", input: "restaurante", meaning: "restaurante", level: "A1-B1", category: "food", source: "[[food-vocabulary]]" }
-- { id: 020, display: "deliciosa", input: "deliciosa", meaning: "deliciosa", level: "A1-B1", category: "food", source: "[[food-vocabulary]]" }
-- { id: 021, display: "dulce", input: "dulce", meaning: "dulce", level: "A1-B1", category: "food", source: "[[food-vocabulary]]" }
-- { id: 022, display: "picante", input: "picante", meaning: "picante", level: "A1-B1", category: "food", source: "[[food-vocabulary]]" }
-- { id: 023, display: "receta", input: "receta", meaning: "receta", level: "A1-B1", category: "food", source: "[[food-vocabulary]]" }
 ```

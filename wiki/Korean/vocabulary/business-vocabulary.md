@@ -1,8 +1,12 @@
+---
+source: "business-vocabulary"
+category: "business"
+level: "TOPIK 2~3"
+theme: "business"
+---
+
 # Korean Business Vocabulary
 
-> **Source:** [[business-vocabulary]]
-> **Category:** business
-> **Level:** TOPIK 2~3
 
 이 페이지는 한국어 business 어휘를 통합합니다. 원본 자료에서 한자 OCR/인코딩 잡음이 포함된 일부 항목은 제외되었습니다.
 
@@ -10,147 +14,3153 @@
 
 ## 1. 이메일/서신 (Email/Correspondence)
 
-| 단어 | 로마자 | 의미 |
-|------|---------|--------|-----------|
-| --- | --- | --- |
-| 이메일 | imeil | email |
-| 주소 | juso | address |
-| 보낸 사람 | bonaen salam | sender |
-| 받는 사람 | bannneun salam | recipient |
-| 제목 | jedong | subject/title |
-| 본문 | bonmun | body text |
-| 첨부 | cheombu | attachment |
-| 보내다 | bonaeda | to send |
-| 받다 | batda | to receive |
-| 답장 | dabjang | reply |
-| 전달 | jedona | delivery/forwarding |
-| 읽다 | ikda | to read |
-| 저장 | jajun | save |
-| 삭제 | saksil | delete |
-| 취소 | chwiso | cancel |
+### 이메일
+
+**Part of Speech:** 명사
+
+**Definition:** email
+
+**Romaja / IPA / Pronunciación:** imeil
+
+**Etymology:** 한자어: 이메일 (확인 필요)
+
+#### Examples
+
+- 이메일이/가 필요해요. — email 필요 표현
+- 이메일 주세요. — email 요청 표현
+
+#### Related Terms
+
+- [[이메일]] — 동일어 반복 확인
+- 커뮤니케이션 — 소통 관련 어휘
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 주소
+
+**Part of Speech:** 명사
+
+**Definition:** address
+
+**Romaja / IPA / Pronunciación:** juso
+
+**Etymology:** 한자어: 주소 (확인 필요)
+
+#### Examples
+
+- 주소이/가 필요해요. — address 필요 표현
+- 주소 주세요. — address 요청 표현
+
+#### Related Terms
+
+- [[주소]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 보낸 사람
+
+**Part of Speech:** 명사
+
+**Definition:** sender
+
+**Romaja / IPA / Pronunciación:** bonaen salam
+
+**Etymology:** 고유어: 보낸 사람 (어원 추적 필요)
+
+#### Examples
+
+- 보낸 사람이/가 필요해요. — sender 필요 표현
+- 보낸 사람 주세요. — sender 요청 표현
+
+#### Related Terms
+
+- 보낸 사람 — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 받는 사람
+
+**Part of Speech:** 명사
+
+**Definition:** recipient
+
+**Romaja / IPA / Pronunciación:** bannneun salam
+
+**Etymology:** 고유어: 받는 사람 (어원 추적 필요)
+
+#### Examples
+
+- 받는 사람이/가 필요해요. — recipient 필요 표현
+- 받는 사람 주세요. — recipient 요청 표현
+
+#### Related Terms
+
+- 받는 사람 — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 제목
+
+**Part of Speech:** 명사
+
+**Definition:** subject/title
+
+**Romaja / IPA / Pronunciación:** jedong
+
+**Etymology:** 한자어: 제목 (확인 필요)
+
+#### Examples
+
+- 제목이/가 필요해요. — subject/title 필요 표현
+- 제목 주세요. — subject/title 요청 표현
+
+#### Related Terms
+
+- [[제목]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 본문
+
+**Part of Speech:** 명사
+
+**Definition:** body text
+
+**Romaja / IPA / Pronunciación:** bonmun
+
+**Etymology:** 한자어: 본문 (확인 필요)
+
+#### Examples
+
+- 본문이/가 필요해요. — body text 필요 표현
+- 본문 주세요. — body text 요청 표현
+
+#### Related Terms
+
+- [[본문]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 첨부
+
+**Part of Speech:** 명사
+
+**Definition:** attachment
+
+**Romaja / IPA / Pronunciación:** cheombu
+
+**Etymology:** 한자어: 첨부 (확인 필요)
+
+#### Examples
+
+- 첨부이/가 필요해요. — attachment 필요 표현
+- 첨부 주세요. — attachment 요청 표현
+
+#### Related Terms
+
+- [[첨부]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 보내다
+
+**Part of Speech:** 동사
+
+**Definition:** to send
+
+**Romaja / IPA / Pronunciación:** bonaeda
+
+**Etymology:** 한자어: 보내다 (확인 필요)
+
+#### Examples
+
+- 보내다 — 기본 활용 예문 필요
+- 보내다요/합니다 — 정중/평어 변형 예문 필요
+
+#### Related Terms
+
+- [[보내다]] — 어간 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 받다
+
+**Part of Speech:** 동사
+
+**Definition:** to receive
+
+**Romaja / IPA / Pronunciación:** batda
+
+**Etymology:** 한자어: 받다 (확인 필요)
+
+#### Examples
+
+- 받다 — 기본 활용 예문 필요
+- 받다요/합니다 — 정중/평어 변형 예문 필요
+
+#### Related Terms
+
+- [[받다]] — 어간 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 답장
+
+**Part of Speech:** 명사
+
+**Definition:** reply
+
+**Romaja / IPA / Pronunciación:** dabjang
+
+**Etymology:** 한자어: 답장 (확인 필요)
+
+#### Examples
+
+- 답장이/가 필요해요. — reply 필요 표현
+- 답장 주세요. — reply 요청 표현
+
+#### Related Terms
+
+- [[답장]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 전달
+
+**Part of Speech:** 명사
+
+**Definition:** delivery/forwarding
+
+**Romaja / IPA / Pronunciación:** jedona
+
+**Etymology:** 한자어: 전달 (확인 필요)
+
+#### Examples
+
+- 전달이/가 필요해요. — delivery/forwarding 필요 표현
+- 전달 주세요. — delivery/forwarding 요청 표현
+
+#### Related Terms
+
+- [[전달]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 읽다
+
+**Part of Speech:** 동사
+
+**Definition:** to read
+
+**Romaja / IPA / Pronunciación:** ikda
+
+**Etymology:** 한자어: 읽다 (확인 필요)
+
+#### Examples
+
+- 읽다 — 기본 활용 예문 필요
+- 읽다요/합니다 — 정중/평어 변형 예문 필요
+
+#### Related Terms
+
+- [[읽다]] — 어간 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 저장
+
+**Part of Speech:** 동사
+
+**Definition:** save
+
+**Romaja / IPA / Pronunciación:** jajun
+
+**Etymology:** 한자어: 저장 (확인 필요)
+
+#### Examples
+
+- 저장 — 기본 활용 예문 필요
+- 저장요/합니다 — 정중/평어 변형 예문 필요
+
+#### Related Terms
+
+- [[저장]] — 어간 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 삭제
+
+**Part of Speech:** 동사
+
+**Definition:** delete
+
+**Romaja / IPA / Pronunciación:** saksil
+
+**Etymology:** 한자어: 삭제 (확인 필요)
+
+#### Examples
+
+- 삭제 — 기본 활용 예문 필요
+- 삭제요/합니다 — 정중/평어 변형 예문 필요
+
+#### Related Terms
+
+- [[삭제]] — 어간 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 취소
+
+**Part of Speech:** 동사
+
+**Definition:** cancel
+
+**Romaja / IPA / Pronunciación:** chwiso
+
+**Etymology:** 한자어: 취소 (확인 필요)
+
+#### Examples
+
+- 취소 — 기본 활용 예문 필요
+- 취소요/합니다 — 정중/평어 변형 예문 필요
+
+#### Related Terms
+
+- [[취소]] — 어간 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
 
 ## 2. 회의/미팅 (Meeting)
 
-| 단어 | 로마자 | 의미 |
-|------|---------|--------|-----------|
-| 회의 | hoeui | meeting/conference |
-| 일정 | iljeong | schedule |
-| 안건 | angeon | agenda |
-| 참석자 | chamseokja | participants |
-| 발표 | balhyo | presentation |
-| 발언 | bal-eon | speech/statement |
-| 토론 | doron | discussion/debate |
-| 의견 | uigyeon | opinion |
-| 결정 | gyeoljeong | decision |
-| 찬성 | chanseong | approval |
-| 반대 | bandae | opposition |
-| 합의 | haegui | agreement |
-| 기록 | girok | record/minutes |
-| 시간 | sigan | time |
-| 장소 | jangsi | location |
-| 연기 | yeongi | postponement |
-| 취소 | chwiso | cancellation |
+### 회의
+
+**Part of Speech:** 명사
+
+**Definition:** meeting/conference
+
+**Romaja / IPA / Pronunciación:** hoeui
+
+**Etymology:** 한자어: 회의 (확인 필요)
+
+#### Examples
+
+- 회의이/가 필요해요. — meeting/conference 필요 표현
+- 회의 주세요. — meeting/conference 요청 표현
+
+#### Related Terms
+
+- [[회의]] — 동일어 반복 확인
+- [[회의]] — 회의 관련 어휘
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 일정
+
+**Part of Speech:** 명사
+
+**Definition:** schedule
+
+**Romaja / IPA / Pronunciación:** iljeong
+
+**Etymology:** 한자어: 일정 (확인 필요)
+
+#### Examples
+
+- 일정이/가 필요해요. — schedule 필요 표현
+- 일정 주세요. — schedule 요청 표현
+
+#### Related Terms
+
+- [[일정]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 안건
+
+**Part of Speech:** 명사
+
+**Definition:** agenda
+
+**Romaja / IPA / Pronunciación:** angeon
+
+**Etymology:** 한자어: 안건 (확인 필요)
+
+#### Examples
+
+- 안건이/가 필요해요. — agenda 필요 표현
+- 안건 주세요. — agenda 요청 표현
+
+#### Related Terms
+
+- [[안건]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 참석자
+
+**Part of Speech:** 명사
+
+**Definition:** participants
+
+**Romaja / IPA / Pronunciación:** chamseokja
+
+**Etymology:** 한자어: 참석자 (확인 필요)
+
+#### Examples
+
+- 참석자이/가 필요해요. — participants 필요 표현
+- 참석자 주세요. — participants 요청 표현
+
+#### Related Terms
+
+- [[참석자]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 발표
+
+**Part of Speech:** 명사
+
+**Definition:** presentation
+
+**Romaja / IPA / Pronunciación:** balhyo
+
+**Etymology:** 한자어: 발표 (확인 필요)
+
+#### Examples
+
+- 발표이/가 필요해요. — presentation 필요 표현
+- 발표 주세요. — presentation 요청 표현
+
+#### Related Terms
+
+- [[발표]] — 동일어 반복 확인
+- [[회의]] — 회의 관련 어휘
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 발언
+
+**Part of Speech:** 명사
+
+**Definition:** speech/statement
+
+**Romaja / IPA / Pronunciación:** bal-eon
+
+**Etymology:** 한자어: 발언 (확인 필요)
+
+#### Examples
+
+- 발언이/가 필요해요. — speech/statement 필요 표현
+- 발언 주세요. — speech/statement 요청 표현
+
+#### Related Terms
+
+- [[발언]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 토론
+
+**Part of Speech:** 명사
+
+**Definition:** discussion/debate
+
+**Romaja / IPA / Pronunciación:** doron
+
+**Etymology:** 한자어: 토론 (확인 필요)
+
+#### Examples
+
+- 토론이/가 필요해요. — discussion/debate 필요 표현
+- 토론 주세요. — discussion/debate 요청 표현
+
+#### Related Terms
+
+- [[토론]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 의견
+
+**Part of Speech:** 명사
+
+**Definition:** opinion
+
+**Romaja / IPA / Pronunciación:** uigyeon
+
+**Etymology:** 한자어: 의견 (확인 필요)
+
+#### Examples
+
+- 의견이/가 필요해요. — opinion 필요 표현
+- 의견 주세요. — opinion 요청 표현
+
+#### Related Terms
+
+- [[의견]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 결정
+
+**Part of Speech:** 명사
+
+**Definition:** decision
+
+**Romaja / IPA / Pronunciación:** gyeoljeong
+
+**Etymology:** 한자어: 결정 (확인 필요)
+
+#### Examples
+
+- 결정이/가 필요해요. — decision 필요 표현
+- 결정 주세요. — decision 요청 표현
+
+#### Related Terms
+
+- [[결정]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 찬성
+
+**Part of Speech:** 명사
+
+**Definition:** approval
+
+**Romaja / IPA / Pronunciación:** chanseong
+
+**Etymology:** 한자어: 찬성 (확인 필요)
+
+#### Examples
+
+- 찬성이/가 필요해요. — approval 필요 표현
+- 찬성 주세요. — approval 요청 표현
+
+#### Related Terms
+
+- [[찬성]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 반대
+
+**Part of Speech:** 명사
+
+**Definition:** opposition
+
+**Romaja / IPA / Pronunciación:** bandae
+
+**Etymology:** 한자어: 반대 (확인 필요)
+
+#### Examples
+
+- 반대이/가 필요해요. — opposition 필요 표현
+- 반대 주세요. — opposition 요청 표현
+
+#### Related Terms
+
+- [[반대]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 합의
+
+**Part of Speech:** 명사
+
+**Definition:** agreement
+
+**Romaja / IPA / Pronunciación:** haegui
+
+**Etymology:** 한자어: 합의 (확인 필요)
+
+#### Examples
+
+- 합의이/가 필요해요. — agreement 필요 표현
+- 합의 주세요. — agreement 요청 표현
+
+#### Related Terms
+
+- [[합의]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 기록
+
+**Part of Speech:** 명사
+
+**Definition:** record/minutes
+
+**Romaja / IPA / Pronunciación:** girok
+
+**Etymology:** 한자어: 기록 (확인 필요)
+
+#### Examples
+
+- 기록이/가 필요해요. — record/minutes 필요 표현
+- 기록 주세요. — record/minutes 요청 표현
+
+#### Related Terms
+
+- [[기록]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 시간
+
+**Part of Speech:** 명사
+
+**Definition:** time
+
+**Romaja / IPA / Pronunciación:** sigan
+
+**Etymology:** 한자어: 시간 (확인 필요)
+
+#### Examples
+
+- 시간이/가 필요해요. — time 필요 표현
+- 시간 주세요. — time 요청 표현
+
+#### Related Terms
+
+- [[시간]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 장소
+
+**Part of Speech:** 명사
+
+**Definition:** location
+
+**Romaja / IPA / Pronunciación:** jangsi
+
+**Etymology:** 한자어: 장소 (확인 필요)
+
+#### Examples
+
+- 장소이/가 필요해요. — location 필요 표현
+- 장소 주세요. — location 요청 표현
+
+#### Related Terms
+
+- [[장소]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 연기
+
+**Part of Speech:** 명사
+
+**Definition:** postponement
+
+**Romaja / IPA / Pronunciación:** yeongi
+
+**Etymology:** 한자어: 연기 (확인 필요)
+
+#### Examples
+
+- 연기이/가 필요해요. — postponement 필요 표현
+- 연기 주세요. — postponement 요청 표현
+
+#### Related Terms
+
+- [[연기]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 취소
+
+**Part of Speech:** 동사
+
+**Definition:** cancellation
+
+**Romaja / IPA / Pronunciación:** chwiso
+
+**Etymology:** 한자어: 취소 (확인 필요)
+
+#### Examples
+
+- 취소 — 기본 활용 예문 필요
+- 취소요/합니다 — 정중/평어 변형 예문 필요
+
+#### Related Terms
+
+- [[취소]] — 어간 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
 
 ## 3. 프레젠테이션 (Presentation)
 
-| 단어 | 로마자 | 의미 |
-|------|---------|--------|-----------|
-| 발표자 | balhyuja | presenter |
-| 슬라이드 | seullaideu | slide |
-| 자료 | jaryo | materials/data |
-| 차트 | chateu | chart |
-| 그래프 | geuraepeu | graph |
-| 표 | pyo | table/form |
-| 설명 | seolmyeong | explanation |
-| 요약 | yoyak | summary |
-| 결론 | gyeollon | conclusion |
-| 질문 | jilmun | question |
-| 답변 | dabdan | answer |
-| 리허설 | riheoseol | rehearsal |
+### 발표자
+
+**Part of Speech:** 명사
+
+**Definition:** presenter
+
+**Romaja / IPA / Pronunciación:** balhyuja
+
+**Etymology:** 한자어: 발표자 (확인 필요)
+
+#### Examples
+
+- 발표자이/가 필요해요. — presenter 필요 표현
+- 발표자 주세요. — presenter 요청 표현
+
+#### Related Terms
+
+- [[발표자]] — 동일어 반복 확인
+- [[회의]] — 회의 관련 어휘
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 슬라이드
+
+**Part of Speech:** 명사
+
+**Definition:** slide
+
+**Romaja / IPA / Pronunciación:** seullaideu
+
+**Etymology:** 고유어: 슬라이드 (어원 추적 필요)
+
+#### Examples
+
+- 슬라이드이/가 필요해요. — slide 필요 표현
+- 슬라이드 주세요. — slide 요청 표현
+
+#### Related Terms
+
+- [[슬라이드]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 자료
+
+**Part of Speech:** 명사
+
+**Definition:** materials/data
+
+**Romaja / IPA / Pronunciación:** jaryo
+
+**Etymology:** 한자어: 자료 (확인 필요)
+
+#### Examples
+
+- 자료이/가 필요해요. — materials/data 필요 표현
+- 자료 주세요. — materials/data 요청 표현
+
+#### Related Terms
+
+- [[자료]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 차트
+
+**Part of Speech:** 명사
+
+**Definition:** chart
+
+**Romaja / IPA / Pronunciación:** chateu
+
+**Etymology:** 한자어: 차트 (확인 필요)
+
+#### Examples
+
+- 차트이/가 필요해요. — chart 필요 표현
+- 차트 주세요. — chart 요청 표현
+
+#### Related Terms
+
+- [[차트]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 그래프
+
+**Part of Speech:** 명사
+
+**Definition:** graph
+
+**Romaja / IPA / Pronunciación:** geuraepeu
+
+**Etymology:** 한자어: 그래프 (확인 필요)
+
+#### Examples
+
+- 그래프이/가 필요해요. — graph 필요 표현
+- 그래프 주세요. — graph 요청 표현
+
+#### Related Terms
+
+- [[그래프]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 표
+
+**Part of Speech:** 명사
+
+**Definition:** table/form
+
+**Romaja / IPA / Pronunciación:** pyo
+
+**Etymology:** 한자어: 표 (확인 필요)
+
+#### Examples
+
+- 표이/가 필요해요. — table/form 필요 표현
+- 표 주세요. — table/form 요청 표현
+
+#### Related Terms
+
+- [[표]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 설명
+
+**Part of Speech:** 명사
+
+**Definition:** explanation
+
+**Romaja / IPA / Pronunciación:** seolmyeong
+
+**Etymology:** 한자어: 설명 (확인 필요)
+
+#### Examples
+
+- 설명이/가 필요해요. — explanation 필요 표현
+- 설명 주세요. — explanation 요청 표현
+
+#### Related Terms
+
+- [[설명]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 요약
+
+**Part of Speech:** 명사
+
+**Definition:** summary
+
+**Romaja / IPA / Pronunciación:** yoyak
+
+**Etymology:** 한자어: 요약 (확인 필요)
+
+#### Examples
+
+- 요약이/가 필요해요. — summary 필요 표현
+- 요약 주세요. — summary 요청 표현
+
+#### Related Terms
+
+- [[요약]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 결론
+
+**Part of Speech:** 명사
+
+**Definition:** conclusion
+
+**Romaja / IPA / Pronunciación:** gyeollon
+
+**Etymology:** 한자어: 결론 (확인 필요)
+
+#### Examples
+
+- 결론이/가 필요해요. — conclusion 필요 표현
+- 결론 주세요. — conclusion 요청 표현
+
+#### Related Terms
+
+- [[결론]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 질문
+
+**Part of Speech:** 명사
+
+**Definition:** question
+
+**Romaja / IPA / Pronunciación:** jilmun
+
+**Etymology:** 한자어: 질문 (확인 필요)
+
+#### Examples
+
+- 질문이/가 필요해요. — question 필요 표현
+- 질문 주세요. — question 요청 표현
+
+#### Related Terms
+
+- [[질문]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 답변
+
+**Part of Speech:** 명사
+
+**Definition:** answer
+
+**Romaja / IPA / Pronunciación:** dabdan
+
+**Etymology:** 한자어: 답변 (확인 필요)
+
+#### Examples
+
+- 답변이/가 필요해요. — answer 필요 표현
+- 답변 주세요. — answer 요청 표현
+
+#### Related Terms
+
+- [[답변]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 리허설
+
+**Part of Speech:** 명사
+
+**Definition:** rehearsal
+
+**Romaja / IPA / Pronunciación:** riheoseol
+
+**Etymology:** 한자어: 리허설 (확인 필요)
+
+#### Examples
+
+- 리허설이/가 필요해요. — rehearsal 필요 표현
+- 리허설 주세요. — rehearsal 요청 표현
+
+#### Related Terms
+
+- [[리허설]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
 
 ## 4. 직장/업무 (Work/Job)
 
-| 단어 | 로마자 | 의미 |
-|------|---------|--------|-----------|
-| 회사 | hoesa | company |
-| 사무실 | samusil | office |
-| 동료 | dongnyo | colleague |
-| 상사 | sangsa | superior/boss |
-| 부하 | buha | subordinate |
-| 직원 | jigwon | employee |
-| 대표 | daepyo | representative/CEO |
-| 팀장 | timjang | team leader |
-| 프로젝트 | peurojekteu | project |
-| 업무 | eommu | work/tasks |
-| 계약 | gyeyak | contract |
-| 체결 | cheolgyeol | signing (contract) |
-| 체결하다 | cheolgyeolhada | to sign |
-| 매출 | maechul | sales revenue |
-| 목표 | mokpyo | goal/target |
-| 달성 | dalseong | achievement |
-| 보고서 | bogoseo | report |
-| 제출 | jegye | submission |
-| 제출하다 | jejye-hada | to submit |
-| 처리 | cheori | processing |
-| 처리하다 | cheolihada | to process |
-| 확인 | hwakjin | confirmation |
-| 확인하다 | hwakjin hada | to confirm |
-| 승인 | seungin | approval |
-| 승인하다 | seungin hada | to approve |
-| 거절 | geojael | refusal/rejection |
-| 거절하다 | geojael hada | to refuse |
+### 회사
+
+**Part of Speech:** 명사
+
+**Definition:** company
+
+**Romaja / IPA / Pronunciación:** hoesa
+
+**Etymology:** 한자어: 회사 (확인 필요)
+
+#### Examples
+
+- 회사이/가 필요해요. — company 필요 표현
+- 회사 주세요. — company 요청 표현
+
+#### Related Terms
+
+- [[회사]] — 동일어 반복 확인
+- 직장 — 직장 관련 어휘
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 사무실
+
+**Part of Speech:** 명사
+
+**Definition:** office
+
+**Romaja / IPA / Pronunciación:** samusil
+
+**Etymology:** 한자어: 사무실 (확인 필요)
+
+#### Examples
+
+- 사무실이/가 필요해요. — office 필요 표현
+- 사무실 주세요. — office 요청 표현
+
+#### Related Terms
+
+- [[사무실]] — 동일어 반복 확인
+- 직장 — 직장 관련 어휘
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 동료
+
+**Part of Speech:** 명사
+
+**Definition:** colleague
+
+**Romaja / IPA / Pronunciación:** dongnyo
+
+**Etymology:** 한자어: 동료 (확인 필요)
+
+#### Examples
+
+- 동료이/가 필요해요. — colleague 필요 표현
+- 동료 주세요. — colleague 요청 표현
+
+#### Related Terms
+
+- [[동료]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 상사
+
+**Part of Speech:** 명사
+
+**Definition:** superior/boss
+
+**Romaja / IPA / Pronunciación:** sangsa
+
+**Etymology:** 한자어: 상사 (확인 필요)
+
+#### Examples
+
+- 상사이/가 필요해요. — superior/boss 필요 표현
+- 상사 주세요. — superior/boss 요청 표현
+
+#### Related Terms
+
+- [[상사]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+호칭 문화: 팀장님, 부장님, 차장님 등 직함+님 표준.
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 부하
+
+**Part of Speech:** 명사
+
+**Definition:** subordinate
+
+**Romaja / IPA / Pronunciación:** buha
+
+**Etymology:** 한자어: 부하 (확인 필요)
+
+#### Examples
+
+- 부하이/가 필요해요. — subordinate 필요 표현
+- 부하 주세요. — subordinate 요청 표현
+
+#### Related Terms
+
+- [[부하]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 직원
+
+**Part of Speech:** 명사
+
+**Definition:** employee
+
+**Romaja / IPA / Pronunciación:** jigwon
+
+**Etymology:** 한자어: 직원 (확인 필요)
+
+#### Examples
+
+- 직원이/가 필요해요. — employee 필요 표현
+- 직원 주세요. — employee 요청 표현
+
+#### Related Terms
+
+- [[직원]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 대표
+
+**Part of Speech:** 명사
+
+**Definition:** representative/CEO
+
+**Romaja / IPA / Pronunciación:** daepyo
+
+**Etymology:** 한자어: 대표 (확인 필요)
+
+#### Examples
+
+- 대표이/가 필요해요. — representative/CEO 필요 표현
+- 대표 주세요. — representative/CEO 요청 표현
+
+#### Related Terms
+
+- [[대표]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+한국 직장 문화에서 직함+님 필수. 이름+씨는 동료 간.
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 팀장
+
+**Part of Speech:** 명사
+
+**Definition:** team leader
+
+**Romaja / IPA / Pronunciación:** timjang
+
+**Etymology:** 한자어: 팀장 (확인 필요)
+
+#### Examples
+
+- 팀장이/가 필요해요. — team leader 필요 표현
+- 팀장 주세요. — team leader 요청 표현
+
+#### Related Terms
+
+- [[팀장]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+호칭 문화: 팀장님, 부장님, 차장님 등 직함+님 표준.
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 프로젝트
+
+**Part of Speech:** 명사
+
+**Definition:** project
+
+**Romaja / IPA / Pronunciación:** peurojekteu
+
+**Etymology:** 고유어: 프로젝트 (어원 추적 필요)
+
+#### Examples
+
+- 프로젝트이/가 필요해요. — project 필요 표현
+- 프로젝트 주세요. — project 요청 표현
+
+#### Related Terms
+
+- [[프로젝트]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 업무
+
+**Part of Speech:** 명사
+
+**Definition:** work/tasks
+
+**Romaja / IPA / Pronunciación:** eommu
+
+**Etymology:** 한자어: 업무 (확인 필요)
+
+#### Examples
+
+- 업무이/가 필요해요. — work/tasks 필요 표현
+- 업무 주세요. — work/tasks 요청 표현
+
+#### Related Terms
+
+- [[업무]] — 동일어 반복 확인
+- 직장 — 직장 관련 어휘
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 계약
+
+**Part of Speech:** 명사
+
+**Definition:** contract
+
+**Romaja / IPA / Pronunciación:** gyeyak
+
+**Etymology:** 한자어: 계약 (확인 필요)
+
+#### Examples
+
+- 계약이/가 필요해요. — contract 필요 표현
+- 계약 주세요. — contract 요청 표현
+
+#### Related Terms
+
+- [[계약]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 체결
+
+**Part of Speech:** 명사
+
+**Definition:** signing (contract)
+
+**Romaja / IPA / Pronunciación:** cheolgyeol
+
+**Etymology:** 한자어: 체결 (확인 필요)
+
+#### Examples
+
+- 체결이/가 필요해요. — signing (contract) 필요 표현
+- 체결 주세요. — signing (contract) 요청 표현
+
+#### Related Terms
+
+- [[체결]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 체결하다
+
+**Part of Speech:** 동사
+
+**Definition:** to sign
+
+**Romaja / IPA / Pronunciación:** cheolgyeolhada
+
+**Etymology:** 고유어: 체결하다 (어원 추적 필요)
+
+#### Examples
+
+- 체결하다 — 기본 활용 예문 필요
+- 체결하다요/합니다 — 정중/평어 변형 예문 필요
+
+#### Related Terms
+
+- [[체결]] — 어간 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 매출
+
+**Part of Speech:** 명사
+
+**Definition:** sales revenue
+
+**Romaja / IPA / Pronunciación:** maechul
+
+**Etymology:** 한자어: 매출 (확인 필요)
+
+#### Examples
+
+- 매출이/가 필요해요. — sales revenue 필요 표현
+- 매출 주세요. — sales revenue 요청 표현
+
+#### Related Terms
+
+- [[매출]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 목표
+
+**Part of Speech:** 명사
+
+**Definition:** goal/target
+
+**Romaja / IPA / Pronunciación:** mokpyo
+
+**Etymology:** 한자어: 목표 (확인 필요)
+
+#### Examples
+
+- 목표이/가 필요해요. — goal/target 필요 표현
+- 목표 주세요. — goal/target 요청 표현
+
+#### Related Terms
+
+- [[목표]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 달성
+
+**Part of Speech:** 명사
+
+**Definition:** achievement
+
+**Romaja / IPA / Pronunciación:** dalseong
+
+**Etymology:** 한자어: 달성 (확인 필요)
+
+#### Examples
+
+- 달성이/가 필요해요. — achievement 필요 표현
+- 달성 주세요. — achievement 요청 표현
+
+#### Related Terms
+
+- [[달성]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 보고서
+
+**Part of Speech:** 명사
+
+**Definition:** report
+
+**Romaja / IPA / Pronunciación:** bogoseo
+
+**Etymology:** 한자어: 보고서 (확인 필요)
+
+#### Examples
+
+- 보고서이/가 필요해요. — report 필요 표현
+- 보고서 주세요. — report 요청 표현
+
+#### Related Terms
+
+- [[보고서]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 제출
+
+**Part of Speech:** 명사
+
+**Definition:** submission
+
+**Romaja / IPA / Pronunciación:** jegye
+
+**Etymology:** 한자어: 제출 (확인 필요)
+
+#### Examples
+
+- 제출이/가 필요해요. — submission 필요 표현
+- 제출 주세요. — submission 요청 표현
+
+#### Related Terms
+
+- [[제출]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 제출하다
+
+**Part of Speech:** 동사
+
+**Definition:** to submit
+
+**Romaja / IPA / Pronunciación:** jejye-hada
+
+**Etymology:** 고유어: 제출하다 (어원 추적 필요)
+
+#### Examples
+
+- 제출하다 — 기본 활용 예문 필요
+- 제출하다요/합니다 — 정중/평어 변형 예문 필요
+
+#### Related Terms
+
+- [[제출]] — 어간 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 처리
+
+**Part of Speech:** 명사
+
+**Definition:** processing
+
+**Romaja / IPA / Pronunciación:** cheori
+
+**Etymology:** 한자어: 처리 (확인 필요)
+
+#### Examples
+
+- 처리이/가 필요해요. — processing 필요 표현
+- 처리 주세요. — processing 요청 표현
+
+#### Related Terms
+
+- [[처리]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 처리하다
+
+**Part of Speech:** 동사
+
+**Definition:** to process
+
+**Romaja / IPA / Pronunciación:** cheolihada
+
+**Etymology:** 고유어: 처리하다 (어원 추적 필요)
+
+#### Examples
+
+- 처리하다 — 기본 활용 예문 필요
+- 처리하다요/합니다 — 정중/평어 변형 예문 필요
+
+#### Related Terms
+
+- [[처리]] — 어간 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 확인
+
+**Part of Speech:** 명사
+
+**Definition:** confirmation
+
+**Romaja / IPA / Pronunciación:** hwakjin
+
+**Etymology:** 한자어: 확인 (확인 필요)
+
+#### Examples
+
+- 확인이/가 필요해요. — confirmation 필요 표현
+- 확인 주세요. — confirmation 요청 표현
+
+#### Related Terms
+
+- [[확인]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 확인하다
+
+**Part of Speech:** 동사
+
+**Definition:** to confirm
+
+**Romaja / IPA / Pronunciación:** hwakjin hada
+
+**Etymology:** 고유어: 확인하다 (어원 추적 필요)
+
+#### Examples
+
+- 확인하다 — 기본 활용 예문 필요
+- 확인하다요/합니다 — 정중/평어 변형 예문 필요
+
+#### Related Terms
+
+- [[확인]] — 어간 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 승인
+
+**Part of Speech:** 명사
+
+**Definition:** approval
+
+**Romaja / IPA / Pronunciación:** seungin
+
+**Etymology:** 한자어: 승인 (확인 필요)
+
+#### Examples
+
+- 승인이/가 필요해요. — approval 필요 표현
+- 승인 주세요. — approval 요청 표현
+
+#### Related Terms
+
+- [[승인]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 승인하다
+
+**Part of Speech:** 동사
+
+**Definition:** to approve
+
+**Romaja / IPA / Pronunciación:** seungin hada
+
+**Etymology:** 고유어: 승인하다 (어원 추적 필요)
+
+#### Examples
+
+- 승인하다 — 기본 활용 예문 필요
+- 승인하다요/합니다 — 정중/평어 변형 예문 필요
+
+#### Related Terms
+
+- [[승인]] — 어간 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 거절
+
+**Part of Speech:** 명사
+
+**Definition:** refusal/rejection
+
+**Romaja / IPA / Pronunciación:** geojael
+
+**Etymology:** 한자어: 거절 (확인 필요)
+
+#### Examples
+
+- 거절이/가 필요해요. — refusal/rejection 필요 표현
+- 거절 주세요. — refusal/rejection 요청 표현
+
+#### Related Terms
+
+- [[거절]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 거절하다
+
+**Part of Speech:** 동사
+
+**Definition:** to refuse
+
+**Romaja / IPA / Pronunciación:** geojael hada
+
+**Etymology:** 고유어: 거절하다 (어원 추적 필요)
+
+#### Examples
+
+- 거절하다 — 기본 활용 예문 필요
+- 거절하다요/합니다 — 정중/평어 변형 예문 필요
+
+#### Related Terms
+
+- [[거절]] — 어간 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
 
 ## 5. 숫자/계약 (Numbers/Contract)
 
-| 단어 | 로마자 | 의미 |
-|------|---------|--------|-----------|
-| 가격 | gagyeok | price |
-| 비용 | biyong | cost/expense |
-| 예산 | yesan | budget |
-| 지출 | jisul | expenditure |
-| 수입 | susup | income/revenue |
-| 이익 | ikyak | profit |
-| 손실 | sonsil | loss |
-| 투자 | tuja | investment |
-| 협력 | hyeomnyeok | cooperation/collaboration |
-| 파트너 | pateuneo | partner |
-| 계약금 | gyeyakgeum | deposit/down payment |
-| 분할 납부 | bunhal nappu | installment payment |
-| 이자 | ija | interest |
-| 환율 | hwanyul | exchange rate |
-| 세금 | segeum | tax |
-| 신고 | singo | report/filing |
-| 신고하다 | singo hada | to file |
+### 가격
+
+**Part of Speech:** 명사
+
+**Definition:** price
+
+**Romaja / IPA / Pronunciación:** gagyeok
+
+**Etymology:** 한자어: 가격 (확인 필요)
+
+#### Examples
+
+- 가격이/가 필요해요. — price 필요 표현
+- 가격 주세요. — price 요청 표현
+
+#### Related Terms
+
+- [[가격]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 비용
+
+**Part of Speech:** 명사
+
+**Definition:** cost/expense
+
+**Romaja / IPA / Pronunciación:** biyong
+
+**Etymology:** 한자어: 비용 (확인 필요)
+
+#### Examples
+
+- 비용이/가 필요해요. — cost/expense 필요 표현
+- 비용 주세요. — cost/expense 요청 표현
+
+#### Related Terms
+
+- [[비용]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 예산
+
+**Part of Speech:** 명사
+
+**Definition:** budget
+
+**Romaja / IPA / Pronunciación:** yesan
+
+**Etymology:** 한자어: 예산 (확인 필요)
+
+#### Examples
+
+- 예산이/가 필요해요. — budget 필요 표현
+- 예산 주세요. — budget 요청 표현
+
+#### Related Terms
+
+- [[예산]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 지출
+
+**Part of Speech:** 명사
+
+**Definition:** expenditure
+
+**Romaja / IPA / Pronunciación:** jisul
+
+**Etymology:** 한자어: 지출 (확인 필요)
+
+#### Examples
+
+- 지출이/가 필요해요. — expenditure 필요 표현
+- 지출 주세요. — expenditure 요청 표현
+
+#### Related Terms
+
+- [[지출]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 수입
+
+**Part of Speech:** 명사
+
+**Definition:** income/revenue
+
+**Romaja / IPA / Pronunciación:** susup
+
+**Etymology:** 한자어: 수입 (확인 필요)
+
+#### Examples
+
+- 수입이/가 필요해요. — income/revenue 필요 표현
+- 수입 주세요. — income/revenue 요청 표현
+
+#### Related Terms
+
+- [[수입]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 이익
+
+**Part of Speech:** 명사
+
+**Definition:** profit
+
+**Romaja / IPA / Pronunciación:** ikyak
+
+**Etymology:** 한자어: 이익 (확인 필요)
+
+#### Examples
+
+- 이익이/가 필요해요. — profit 필요 표현
+- 이익 주세요. — profit 요청 표현
+
+#### Related Terms
+
+- [[이익]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 손실
+
+**Part of Speech:** 명사
+
+**Definition:** loss
+
+**Romaja / IPA / Pronunciación:** sonsil
+
+**Etymology:** 한자어: 손실 (확인 필요)
+
+#### Examples
+
+- 손실이/가 필요해요. — loss 필요 표현
+- 손실 주세요. — loss 요청 표현
+
+#### Related Terms
+
+- [[손실]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 투자
+
+**Part of Speech:** 명사
+
+**Definition:** investment
+
+**Romaja / IPA / Pronunciación:** tuja
+
+**Etymology:** 한자어: 투자 (확인 필요)
+
+#### Examples
+
+- 투자이/가 필요해요. — investment 필요 표현
+- 투자 주세요. — investment 요청 표현
+
+#### Related Terms
+
+- [[투자]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 협력
+
+**Part of Speech:** 명사
+
+**Definition:** cooperation/collaboration
+
+**Romaja / IPA / Pronunciación:** hyeomnyeok
+
+**Etymology:** 한자어: 협력 (확인 필요)
+
+#### Examples
+
+- 협력이/가 필요해요. — cooperation/collaboration 필요 표현
+- 협력 주세요. — cooperation/collaboration 요청 표현
+
+#### Related Terms
+
+- [[협력]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 파트너
+
+**Part of Speech:** 명사
+
+**Definition:** partner
+
+**Romaja / IPA / Pronunciación:** pateuneo
+
+**Etymology:** 한자어: 파트너 (확인 필요)
+
+#### Examples
+
+- 파트너이/가 필요해요. — partner 필요 표현
+- 파트너 주세요. — partner 요청 표현
+
+#### Related Terms
+
+- [[파트너]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 계약금
+
+**Part of Speech:** 명사
+
+**Definition:** deposit/down payment
+
+**Romaja / IPA / Pronunciación:** gyeyakgeum
+
+**Etymology:** 한자어: 계약금 (확인 필요)
+
+#### Examples
+
+- 계약금이/가 필요해요. — deposit/down payment 필요 표현
+- 계약금 주세요. — deposit/down payment 요청 표현
+
+#### Related Terms
+
+- [[계약금]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 분할 납부
+
+**Part of Speech:** 명사
+
+**Definition:** installment payment
+
+**Romaja / IPA / Pronunciación:** bunhal nappu
+
+**Etymology:** 고유어: 분할 납부 (어원 추적 필요)
+
+#### Examples
+
+- 분할 납부이/가 필요해요. — installment payment 필요 표현
+- 분할 납부 주세요. — installment payment 요청 표현
+
+#### Related Terms
+
+- 분할 납부 — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 이자
+
+**Part of Speech:** 명사
+
+**Definition:** interest
+
+**Romaja / IPA / Pronunciación:** ija
+
+**Etymology:** 한자어: 이자 (확인 필요)
+
+#### Examples
+
+- 이자이/가 필요해요. — interest 필요 표현
+- 이자 주세요. — interest 요청 표현
+
+#### Related Terms
+
+- [[이자]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 환율
+
+**Part of Speech:** 명사
+
+**Definition:** exchange rate
+
+**Romaja / IPA / Pronunciación:** hwanyul
+
+**Etymology:** 한자어: 환율 (확인 필요)
+
+#### Examples
+
+- 환율이/가 필요해요. — exchange rate 필요 표현
+- 환율 주세요. — exchange rate 요청 표현
+
+#### Related Terms
+
+- [[환율]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 세금
+
+**Part of Speech:** 명사
+
+**Definition:** tax
+
+**Romaja / IPA / Pronunciación:** segeum
+
+**Etymology:** 한자어: 세금 (확인 필요)
+
+#### Examples
+
+- 세금이/가 필요해요. — tax 필요 표현
+- 세금 주세요. — tax 요청 표현
+
+#### Related Terms
+
+- [[세금]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 신고
+
+**Part of Speech:** 명사
+
+**Definition:** report/filing
+
+**Romaja / IPA / Pronunciación:** singo
+
+**Etymology:** 한자어: 신고 (확인 필요)
+
+#### Examples
+
+- 신고이/가 필요해요. — report/filing 필요 표현
+- 신고 주세요. — report/filing 요청 표현
+
+#### Related Terms
+
+- [[신고]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 신고하다
+
+**Part of Speech:** 동사
+
+**Definition:** to file
+
+**Romaja / IPA / Pronunciación:** singo hada
+
+**Etymology:** 고유어: 신고하다 (어원 추적 필요)
+
+#### Examples
+
+- 신고하다 — 기본 활용 예문 필요
+- 신고하다요/합니다 — 정중/평어 변형 예문 필요
+
+#### Related Terms
+
+- [[신고]] — 어간 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
 
 ## 6. 전화/커뮤니케이션 (Phone/Communication)
 
-| 단어 | 로마자 | 의미 |
-|------|---------|--------|-----------|
-| 전화 | jeonhwa | telephone/phone call |
-| 전화하다 | jeonhwa hada | to call |
-| 메시지 | messiji | message |
-| 문자 | munjja | text message |
-| 끊다 | kkeunda | to cut/hang up |
-| 통화 중 | tonghwa jung | busy (line) |
-| 전화번호 | jeonhwabeonho | phone number |
-| 안내 | annae | guidance/information |
-| 연결 | yeongyeol | connection |
-| 재통화 | jaetonghwa | callback |
+### 전화
+
+**Part of Speech:** 명사
+
+**Definition:** telephone/phone call
+
+**Romaja / IPA / Pronunciación:** jeonhwa
+
+**Etymology:** 한자어: 전화 (확인 필요)
+
+#### Examples
+
+- 전화이/가 필요해요. — telephone/phone call 필요 표현
+- 전화 주세요. — telephone/phone call 요청 표현
+
+#### Related Terms
+
+- [[전화]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 전화하다
+
+**Part of Speech:** 동사
+
+**Definition:** to call
+
+**Romaja / IPA / Pronunciación:** jeonhwa hada
+
+**Etymology:** 고유어: 전화하다 (어원 추적 필요)
+
+#### Examples
+
+- 전화하다 — 기본 활용 예문 필요
+- 전화하다요/합니다 — 정중/평어 변형 예문 필요
+
+#### Related Terms
+
+- [[전화]] — 어간 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 메시지
+
+**Part of Speech:** 명사
+
+**Definition:** message
+
+**Romaja / IPA / Pronunciación:** messiji
+
+**Etymology:** 한자어: 메시지 (확인 필요)
+
+#### Examples
+
+- 메시지이/가 필요해요. — message 필요 표현
+- 메시지 주세요. — message 요청 표현
+
+#### Related Terms
+
+- [[메시지]] — 동일어 반복 확인
+- 커뮤니케이션 — 소통 관련 어휘
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 문자
+
+**Part of Speech:** 명사
+
+**Definition:** text message
+
+**Romaja / IPA / Pronunciación:** munjja
+
+**Etymology:** 한자어: 문자 (확인 필요)
+
+#### Examples
+
+- 문자이/가 필요해요. — text message 필요 표현
+- 문자 주세요. — text message 요청 표현
+
+#### Related Terms
+
+- [[문자]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 끊다
+
+**Part of Speech:** 동사
+
+**Definition:** to cut/hang up
+
+**Romaja / IPA / Pronunciación:** kkeunda
+
+**Etymology:** 한자어: 끊다 (확인 필요)
+
+#### Examples
+
+- 끊다 — 기본 활용 예문 필요
+- 끊다요/합니다 — 정중/평어 변형 예문 필요
+
+#### Related Terms
+
+- [[끊다]] — 어간 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 통화 중
+
+**Part of Speech:** 명사
+
+**Definition:** busy (line)
+
+**Romaja / IPA / Pronunciación:** tonghwa jung
+
+**Etymology:** 고유어: 통화 중 (어원 추적 필요)
+
+#### Examples
+
+- 통화 중이/가 필요해요. — busy (line) 필요 표현
+- 통화 중 주세요. — busy (line) 요청 표현
+
+#### Related Terms
+
+- 통화 중 — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 전화번호
+
+**Part of Speech:** 명사
+
+**Definition:** phone number
+
+**Romaja / IPA / Pronunciación:** jeonhwabeonho
+
+**Etymology:** 고유어: 전화번호 (어원 추적 필요)
+
+#### Examples
+
+- 전화번호이/가 필요해요. — phone number 필요 표현
+- 전화번호 주세요. — phone number 요청 표현
+
+#### Related Terms
+
+- [[전화번호]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 안내
+
+**Part of Speech:** 명사
+
+**Definition:** guidance/information
+
+**Romaja / IPA / Pronunciación:** annae
+
+**Etymology:** 한자어: 안내 (확인 필요)
+
+#### Examples
+
+- 안내이/가 필요해요. — guidance/information 필요 표현
+- 안내 주세요. — guidance/information 요청 표현
+
+#### Related Terms
+
+- [[안내]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 연결
+
+**Part of Speech:** 명사
+
+**Definition:** connection
+
+**Romaja / IPA / Pronunciación:** yeongyeol
+
+**Etymology:** 한자어: 연결 (확인 필요)
+
+#### Examples
+
+- 연결이/가 필요해요. — connection 필요 표현
+- 연결 주세요. — connection 요청 표현
+
+#### Related Terms
+
+- [[연결]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 재통화
+
+**Part of Speech:** 명사
+
+**Definition:** callback
+
+**Romaja / IPA / Pronunciación:** jaetonghwa
+
+**Etymology:** 한자어: 재통화 (확인 필요)
+
+#### Examples
+
+- 재통화이/가 필요해요. — callback 필요 표현
+- 재통화 주세요. — callback 요청 표현
+
+#### Related Terms
+
+- [[재통화]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
 
 ## 7. 비즈니스 표현 (Business Expressions)
 
-| 단어 | 로마자 | 의미 |
-|------|---------|--------|-----------|
-| ____님께 | ____nim-kke | To Mr./Ms. ____ |
-| 회신 바랍니다 | hoesin baramnida | Please reply |
-| 확인 부탁드립니다 | hwakjin butakdeurimnida | Please confirm |
-| 검토 부탁드립니다 | geomto butakdeurimnida | Please review |
-| 협조 부탁드립니다 | hyeopjo butakdeurimnida | Please cooperate |
-| 죄송합니다만 | joesonghamnidaman | I apologize, but... |
-| 감사합니다 | gamsahamnida | Thank you |
-| 수고하세요 | sugohaseyo | You辛苦了 (casual) |
-| 열공하세요 | yeolgonghaseyo | Keep studying/working hard |
-| 오늘 잘 부탁드립니다 | oneul jal butakdeurimnida | Please take care of today |
+### ____님께
+
+**Part of Speech:** 동사
+
+**Definition:** To Mr./Ms. ____
+
+**Romaja / IPA / Pronunciación:** ____nim-kke
+
+**Etymology:** 고유어: ____님께 (어원 추적 필요)
+
+#### Examples
+
+- ____님께 — 기본 활용 예문 필요
+- ____님께요/합니다 — 정중/평어 변형 예문 필요
+
+#### Related Terms
+
+- ____님께 — 어간 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 회신 바랍니다
+
+**Part of Speech:** 명사
+
+**Definition:** Please reply
+
+**Romaja / IPA / Pronunciación:** hoesin baramnida
+
+**Etymology:** 고유어: 회신 바랍니다 (어원 추적 필요)
+
+#### Examples
+
+- 회신 바랍니다이/가 필요해요. — Please reply 필요 표현
+- 회신 바랍니다 주세요. — Please reply 요청 표현
+
+#### Related Terms
+
+- 회신 바랍니다 — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 확인 부탁드립니다
+
+**Part of Speech:** 명사
+
+**Definition:** Please confirm
+
+**Romaja / IPA / Pronunciación:** hwakjin butakdeurimnida
+
+**Etymology:** 고유어: 확인 부탁드립니다 (어원 추적 필요)
+
+#### Examples
+
+- 확인 부탁드립니다이/가 필요해요. — Please confirm 필요 표현
+- 확인 부탁드립니다 주세요. — Please confirm 요청 표현
+
+#### Related Terms
+
+- 확인 부탁드립니다 — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 검토 부탁드립니다
+
+**Part of Speech:** 명사
+
+**Definition:** Please review
+
+**Romaja / IPA / Pronunciación:** geomto butakdeurimnida
+
+**Etymology:** 고유어: 검토 부탁드립니다 (어원 추적 필요)
+
+#### Examples
+
+- 검토 부탁드립니다이/가 필요해요. — Please review 필요 표현
+- 검토 부탁드립니다 주세요. — Please review 요청 표현
+
+#### Related Terms
+
+- 검토 부탁드립니다 — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 협조 부탁드립니다
+
+**Part of Speech:** 명사
+
+**Definition:** Please cooperate
+
+**Romaja / IPA / Pronunciación:** hyeopjo butakdeurimnida
+
+**Etymology:** 고유어: 협조 부탁드립니다 (어원 추적 필요)
+
+#### Examples
+
+- 협조 부탁드립니다이/가 필요해요. — Please cooperate 필요 표현
+- 협조 부탁드립니다 주세요. — Please cooperate 요청 표현
+
+#### Related Terms
+
+- 협조 부탁드립니다 — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 죄송합니다만
+
+**Part of Speech:** 명사
+
+**Definition:** I apologize, but...
+
+**Romaja / IPA / Pronunciación:** joesonghamnidaman
+
+**Etymology:** 고유어: 죄송합니다만 (어원 추적 필요)
+
+#### Examples
+
+- 죄송합니다만이/가 필요해요. — I apologize, but... 필요 표현
+- 죄송합니다만 주세요. — I apologize, but... 요청 표현
+
+#### Related Terms
+
+- [[죄송합니다만]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+한국어 감사/사과 표현 빈도 매우 높음. 생략 시 무례하게 여겨짐.
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 감사합니다
+
+**Part of Speech:** 감탄사/인사말
+
+**Definition:** Thank you
+
+**Romaja / IPA / Pronunciación:** gamsahamnida
+
+**Etymology:** 고유어: 감사합니다 (어원 추적 필요)
+
+#### Examples
+
+- 감사합니다 — 예문 작성 필요
+
+#### Related Terms
+
+
+#### Cultural Notes
+
+한국어 감사/사과 표현 빈도 매우 높음. 생략 시 무례하게 여겨짐.
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 수고하세요
+
+**Part of Speech:** 명사
+
+**Definition:** You辛苦了 (casual)
+
+**Romaja / IPA / Pronunciación:** sugohaseyo
+
+**Etymology:** 고유어: 수고하세요 (어원 추적 필요)
+
+#### Examples
+
+- 수고하세요이/가 필요해요. — You辛苦了 (casual) 필요 표현
+- 수고하세요 주세요. — You辛苦了 (casual) 요청 표현
+
+#### Related Terms
+
+- [[수고하세요]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+직장/상점에서 일하는 사람께 인사할 때 씀. 윗사람께는 "수고하십시오" 권장.
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 열공하세요
+
+**Part of Speech:** 명사
+
+**Definition:** Keep studying/working hard
+
+**Romaja / IPA / Pronunciación:** yeolgonghaseyo
+
+**Etymology:** 고유어: 열공하세요 (어원 추적 필요)
+
+#### Examples
+
+- 열공하세요이/가 필요해요. — Keep studying/working hard 필요 표현
+- 열공하세요 주세요. — Keep studying/working hard 요청 표현
+
+#### Related Terms
+
+- [[열공하세요]] — 동일어 반복 확인
+
+#### Cultural Notes
+
+젊은 층/온라인에서 격려로 씀. "열심히 공부하세요" 줄임말.
+
+#### Sources
+
+- [[business-vocabulary]]
+
+---
+
+### 오늘 잘 부탁드립니다
+
+**Part of Speech:** 명사
+
+**Definition:** Please take care of today
+
+**Romaja / IPA / Pronunciación:** oneul jal butakdeurimnida
+
+**Etymology:** 고유어: 오늘 잘 부탁드립니다 (어원 추적 필요)
+
+#### Examples
+
+- 오늘 잘 부탁드립니다이/가 필요해요. — Please take care of today 필요 표현
+- 오늘 잘 부탁드립니다 주세요. — Please take care of today 요청 표현
+
+#### Related Terms
+
+- 오늘 잘 부탁드립니다 — 동일어 반복 확인
+
+#### Cultural Notes
+
+문화적 맥락 추가 필요
+
+#### Sources
+
+- [[business-vocabulary]]
 
 ---
 
@@ -166,114 +3176,4 @@
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
-```yaml
-- { id: 001, display: "---", input: "---", meaning: "---", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 002, display: "이메일", input: "이메일", meaning: "email", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 003, display: "주소", input: "주소", meaning: "address", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 004, display: "보낸 사람", input: "보낸 사람", meaning: "sender", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 005, display: "받는 사람", input: "받는 사람", meaning: "recipient", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 006, display: "제목", input: "제목", meaning: "subject/title", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 007, display: "본문", input: "본문", meaning: "body text", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 008, display: "첨부", input: "첨부", meaning: "attachment", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 009, display: "보내다", input: "보내다", meaning: "to send", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 010, display: "받다", input: "받다", meaning: "to receive", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 011, display: "답장", input: "답장", meaning: "reply", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 012, display: "전달", input: "전달", meaning: "delivery/forwarding", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 013, display: "읽다", input: "읽다", meaning: "to read", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 014, display: "저장", input: "저장", meaning: "save", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 015, display: "삭제", input: "삭제", meaning: "delete", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 016, display: "취소", input: "취소", meaning: "cancel", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 017, display: "회의", input: "회의", meaning: "meeting/conference", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 018, display: "일정", input: "일정", meaning: "schedule", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 019, display: "안건", input: "안건", meaning: "agenda", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 020, display: "참석자", input: "참석자", meaning: "participants", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 021, display: "발표", input: "발표", meaning: "presentation", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 022, display: "발언", input: "발언", meaning: "speech/statement", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 023, display: "토론", input: "토론", meaning: "discussion/debate", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 024, display: "의견", input: "의견", meaning: "opinion", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 025, display: "결정", input: "결정", meaning: "decision", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 026, display: "찬성", input: "찬성", meaning: "approval", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 027, display: "반대", input: "반대", meaning: "opposition", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 028, display: "합의", input: "합의", meaning: "agreement", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 029, display: "기록", input: "기록", meaning: "record/minutes", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 030, display: "시간", input: "시간", meaning: "time", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 031, display: "장소", input: "장소", meaning: "location", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 032, display: "연기", input: "연기", meaning: "postponement", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 033, display: "취소", input: "취소", meaning: "cancellation", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 034, display: "발표자", input: "발표자", meaning: "presenter", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 035, display: "슬라이드", input: "슬라이드", meaning: "slide", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 036, display: "자료", input: "자료", meaning: "materials/data", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 037, display: "차트", input: "차트", meaning: "chart", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 038, display: "그래프", input: "그래프", meaning: "graph", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 039, display: "표", input: "표", meaning: "table/form", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 040, display: "설명", input: "설명", meaning: "explanation", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 041, display: "요약", input: "요약", meaning: "summary", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 042, display: "결론", input: "결론", meaning: "conclusion", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 043, display: "질문", input: "질문", meaning: "question", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 044, display: "답변", input: "답변", meaning: "answer", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 045, display: "리허설", input: "리허설", meaning: "rehearsal", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 046, display: "회사", input: "회사", meaning: "company", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 047, display: "사무실", input: "사무실", meaning: "office", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 048, display: "동료", input: "동료", meaning: "colleague", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 049, display: "상사", input: "상사", meaning: "superior/boss", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 050, display: "부하", input: "부하", meaning: "subordinate", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 051, display: "직원", input: "직원", meaning: "employee", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 052, display: "대표", input: "대표", meaning: "representative/CEO", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 053, display: "팀장", input: "팀장", meaning: "team leader", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 054, display: "프로젝트", input: "프로젝트", meaning: "project", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 055, display: "업무", input: "업무", meaning: "work/tasks", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 056, display: "계약", input: "계약", meaning: "contract", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 057, display: "체결", input: "체결", meaning: "signing (contract)", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 058, display: "체결하다", input: "체결하다", meaning: "to sign", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 059, display: "매출", input: "매출", meaning: "sales revenue", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 060, display: "목표", input: "목표", meaning: "goal/target", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 061, display: "달성", input: "달성", meaning: "achievement", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 062, display: "보고서", input: "보고서", meaning: "report", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 063, display: "제출", input: "제출", meaning: "submission", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 064, display: "제출하다", input: "제출하다", meaning: "to submit", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 065, display: "처리", input: "처리", meaning: "processing", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 066, display: "처리하다", input: "처리하다", meaning: "to process", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 067, display: "확인", input: "확인", meaning: "confirmation", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 068, display: "확인하다", input: "확인하다", meaning: "to confirm", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 069, display: "승인", input: "승인", meaning: "approval", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 070, display: "승인하다", input: "승인하다", meaning: "to approve", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 071, display: "거절", input: "거절", meaning: "refusal/rejection", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 072, display: "거절하다", input: "거절하다", meaning: "to refuse", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 073, display: "가격", input: "가격", meaning: "price", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 074, display: "비용", input: "비용", meaning: "cost/expense", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 075, display: "예산", input: "예산", meaning: "budget", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 076, display: "지출", input: "지출", meaning: "expenditure", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 077, display: "수입", input: "수입", meaning: "income/revenue", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 078, display: "이익", input: "이익", meaning: "profit", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 079, display: "손실", input: "손실", meaning: "loss", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 080, display: "투자", input: "투자", meaning: "investment", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 081, display: "협력", input: "협력", meaning: "cooperation/collaboration", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 082, display: "파트너", input: "파트너", meaning: "partner", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 083, display: "계약금", input: "계약금", meaning: "deposit/down payment", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 084, display: "분할 납부", input: "분할 납부", meaning: "installment payment", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 085, display: "이자", input: "이자", meaning: "interest", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 086, display: "환율", input: "환율", meaning: "exchange rate", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 087, display: "세금", input: "세금", meaning: "tax", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 088, display: "신고", input: "신고", meaning: "report/filing", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 089, display: "신고하다", input: "신고하다", meaning: "to file", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 090, display: "전화", input: "전화", meaning: "telephone/phone call", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 091, display: "전화하다", input: "전화하다", meaning: "to call", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 092, display: "메시지", input: "메시지", meaning: "message", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 093, display: "문자", input: "문자", meaning: "text message", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 094, display: "끊다", input: "끊다", meaning: "to cut/hang up", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 095, display: "통화 중", input: "통화 중", meaning: "busy (line)", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 096, display: "전화번호", input: "전화번호", meaning: "phone number", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 097, display: "안내", input: "안내", meaning: "guidance/information", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 098, display: "연결", input: "연결", meaning: "connection", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 099, display: "재통화", input: "재통화", meaning: "callback", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 100, display: "____님께", input: "____님께", meaning: "To Mr./Ms. ____", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 101, display: "회신 바랍니다", input: "회신 바랍니다", meaning: "Please reply", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 102, display: "확인 부탁드립니다", input: "확인 부탁드립니다", meaning: "Please confirm", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 103, display: "검토 부탁드립니다", input: "검토 부탁드립니다", meaning: "Please review", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 104, display: "협조 부탁드립니다", input: "협조 부탁드립니다", meaning: "Please cooperate", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 105, display: "죄송합니다만", input: "죄송합니다만", meaning: "I apologize, but...", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 106, display: "감사합니다", input: "감사합니다", meaning: "Thank you", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 107, display: "수고하세요", input: "수고하세요", meaning: "You辛苦了 (casual)", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 108, display: "열공하세요", input: "열공하세요", meaning: "Keep studying/working hard", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
-- { id: 109, display: "오늘 잘 부탁드립니다", input: "오늘 잘 부탁드립니다", meaning: "Please take care of today", level: "TOPIK 2~3", category: "business", source: "[[business-vocabulary]]" }
 ```

@@ -32,10 +32,10 @@ Conviene distinguirlo del **pretérito imperfecto**, que describe acciones en cu
 
 ## 활용 레슨 (Lecciones que aplican este concepto)
 
-- [[sources/2026-05-17_Daily_Routine]] — 어제/지난주 묘사 연습. *Ayer me levanté a las 7, desayuné café y fui al trabajo.*
-- [[sources/2026-05-17_Travel_Directions]] — 여행 회상. *Llegué al hotel, busqué la dirección, encontré la plaza.*
-- [[sources/2026-06-13_Weather_and_Seasons]] — 과거 날씨/계절 묘사. *El año pasado llovió mucho en agosto.*
-- [[sources/2026-06-16_Restaurant_Ordering]] — 식당 경험 회상. *Pedí paella, me gustó mucho, pagué la cuenta.*
+- [[2026-05-17_Daily_Routine]] — 어제/지난주 묘사 연습. *Ayer me levanté a las 7, desayuné café y fui al trabajo.*
+- [[2026-05-17_Travel_Directions]] — 여행 회상. *Llegué al hotel, busqué la dirección, encontré la plaza.*
+- [[2026-06-13_Weather_and_Seasons]] — 과거 날씨/계절 묘사. *El año pasado llovió mucho en agosto.*
+- [[2026-06-16_Restaurant_Ordering]] — 식당 경험 회상. *Pedí paella, me gustó mucho, pagué la cuenta.*
 
 ---
 

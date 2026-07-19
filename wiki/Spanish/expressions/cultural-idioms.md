@@ -42,6 +42,74 @@ La construcción de **"devolver a alguien huérfano a X"** invierte el entierro 
 
 ---
 
+## calor pegajoso
+
+**Literal Translation:** calor pegajoso
+**Meaning:** Calor húmedo y sofocante que se adhiere a la piel. Sensación de pegajosidad por la humedad alta combinada con temperatura elevada.
+**Usage Context:** Coloquial, muy usado en zonas costeras y tropicales (Caribe, México, Centroamérica). Describe el clima típico de verano en esas regiones.
+
+### Examples
+
+
+- *En agosto aquí hace un **calor pegajoso** insoportable.*
+- *Salí a la calle y me recibió ese **calor pegajoso** de siempre.*
+- *No hay aire acondicionado que quite el **calor pegajoso**.*
+
+
+### Cultural Background
+
+
+En el Caribe y zonas costeras, el **calor pegajoso** no es solo temperatura — es humedad que no deja evaporar el sudor. La expresión captura la sensación física completa: ropa pegada, piel húmeda, aire espeso. En la literatura caribeña (García Márquez, Carpentier) es un elemento atmosférico recurrente que moldea el ritmo de vida: siestas obligatorias, actividades nocturnas, arquitectura ventilada.
+
+### Similar Expressions
+
+
+- bochorno - calor húmedo sofocante (más formal)
+- calor asfixiante - más dramático
+- pegarse el calor - quedarse el calor en el cuerpo
+
+### Sources
+
+
+- [[notes-in-spanish-listening-log]]
+- Guías de estudio semana 1-2
+
+---
+
+## viajes esenciales
+
+**Literal Translation:** viagens essenciais
+**Meaning:** Vocabulario y expresiones fundamentales para viajar: aeropuerto, hotel, restaurante, transporte, direcciones.
+**Usage Context:** Guía de referencia rápida para situaciones de viaje. Nivel A1-A2.
+
+### Examples
+
+
+- *Necesito repasar mis **viajes esenciales** antes de volar.*
+- *La guía de **viajes esenciales** me salvó en el aeropuerto.*
+
+
+### Cultural Background
+
+
+Término pedagógico usado en materiales de español para viajeros. Agrupa las 50-100 expresiones de supervivencia que todo estudiante necesita en su primer viaje a un país hispanohablante. En los cursos intensivos de "español para viajar" es el módulo base.
+
+### Similar Expressions
+
+
+- español-para-viajar - sinónimo de curso
+- supervivencia-linguistica - término técnico
+- frasebook - término inglés
+
+### Sources
+
+
+- [[first-travel-spain]]
+- [[travel-basics]]
+- Guías de estudio semana 1-2
+
+---
+
 ## a fuego lento
 
 **Literal Translation:** em fogo brando

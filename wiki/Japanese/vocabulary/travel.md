@@ -1,6 +1,10 @@
+---
+category: "travel"
+---
+
 # 旅行 (りょこう) - Travel
 
-**Source:** [[travel-basics-jp]]
+**Source:** [[travel-basics]]
 **Theme:** Travel & Tourism
 **Level:** A1-A2
 
@@ -150,7 +154,7 @@
 
 ## Sources
 
-- [[travel-basics-jp]]
+- [[travel-basics]]
 
 ---
 

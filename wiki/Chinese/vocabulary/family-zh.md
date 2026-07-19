@@ -1,3 +1,7 @@
+---
+category: "family-zh"
+---
+
 # Family — 가족 (家庭成员)
 
 **Source:** family-zh-original

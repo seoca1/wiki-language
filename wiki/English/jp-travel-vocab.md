@@ -1304,7 +1304,7 @@ Forty-three Japanese words for English-speaking travelers to Japan.
 ## Sources
 
 - [[first-travel-japan]]
-- [[travel-basics-jp]]
+- [[travel-basics]]
 
 ---
 

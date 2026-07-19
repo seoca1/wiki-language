@@ -65,7 +65,7 @@ Last updated: 2026-07-14 (ADR-0062 card extraction 7/13 rerun + index sync)
 - [[como-agua-para-chocolate-cap1]] - Como agua para chocolate - Capítulo 1 (Enero)
 - [[dating-romance-es]] - dating-romance-es
 - [[el-ahogado-mas-hermoso-del-mundo]] - El ahogado más hermoso del mundo
-- [[fiestas-y-celebracione]] - Fiestas y Celebraciones (Holidays)
+- [[fiestas-y-celebraciones]] - Fiestas y Celebraciones (Holidays)
 - [[first-travel-spain]] - first-travel-spain
 - [[literature-passages]] - literature-passages
 - [[notes-in-spanish-listening-log]] - Notes in Spanish - Listening Log

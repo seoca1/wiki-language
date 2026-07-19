@@ -1,3 +1,7 @@
+---
+category: "measure-words-zh"
+---
+
 # Measure Words — 양사 (量词)
 
 **Source:** measure-words-zh-original
