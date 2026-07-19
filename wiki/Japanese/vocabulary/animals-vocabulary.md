@@ -625,7 +625,7 @@ This page aggregates all animal vocabulary for the typing language game corpus.
 
 ## Mythical/Legendary (伝説の動物)
 
-### 龍/竜
+### 龍/竜 (tatsu/ryū)
 
 **Part of Speech:** 名詞
 
@@ -642,7 +642,7 @@ This page aggregates all animal vocabulary for the typing language game corpus.
 
 #### Related Terms
 
-- [[龍/竜]] — 自動参照
+- `龍/竜` — 自動参照 (intentional placeholder; not an active wikilink)
 
 #### Cultural Notes
 

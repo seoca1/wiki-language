@@ -31,7 +31,7 @@ This page aggregates all food and restaurant vocabulary for the typing language 
 
 #### Related Terms
 
-- [[meat]] — Self-reference check
+- `meat` — Self-reference check (intentional placeholder; not an active wikilink)
 - [[food-vocabulary]] — Food vocabulary
 
 #### Cultural Notes

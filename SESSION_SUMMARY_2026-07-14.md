@@ -148,7 +148,7 @@ python 스크립트로 검증. **placeholder 제외 0 broken link**.
 - 본 가이드 작성: 7/10 session summary 와 동일 스타일
 - 보안 가이드 본문: `_publish/2026-W25/security-incident-response-2026-07-14.md`
 - 한국어 위키 원칙 ("단어나 문장 하나를 별도 `.md` 로 만들지 않음"): Language/schema/AGENTS.md L72-75
-- 게임 corpus 컨벤션 (`source: [[theme-stem]]`): Language/wiki/pipeline-to-game.md L33-39
+- 게임 corpus 컨벤션 (`source: theme-stem`): Language/wiki/pipeline-to-game.md L33-39  *(legacy placeholder; intent was example-syntax, not a real cross-ref)*
 - ADR-0062 (Card Extraction Pipeline): decisions/0062-card-extraction-pipeline.md
 
 ## 후속 후보 (사용자 결정 대기)

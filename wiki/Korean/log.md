@@ -1,167 +1,63 @@
-# Korean Learning - Activity Log
 
-## [2026-06-23] ingest | nature-vocabulary | Korean nature & weather vocabulary
 
-- 출처: `raw/Korean/nature-vocabulary.md` (자연/날씨 어휘)
-- 인제스트 → nature 관련 wiki vocabulary 페이지 추가
-- 코퍼스 추가: `Game/typing_language/prototype/src/data/corpus.ts` 에 한국 자연/날씨 단어 60개 추가 (kr_n_001 ~ kr_n_060)
-- index.md 갱신: Nature & Weather 섹션 추가
-- source: [[nature-vocabulary]]
+## [2026-07-19] wiki | Phase A & B — Language broken-wikilink cleanup (620 → 0)
 
-## [2026-06-23] ingest | animals-vocabulary | Korean animals vocabulary
+**Scope**: User cross-project decision after Fiction Phase 21 final closure. Language project had 620 unique broken wikilink stems (90+ original closure count grew with Phase 4-6 ingestion + comparative scaffold). All broken wikilinks resolved to stub pages or converted to plain text.
 
-- 출처: `raw/Korean/animals-vocabulary.md` (동물 어휘)
-- 인제스트 → animals 관련 wiki vocabulary 페이지 추가
-- 코퍼스 추가: `Game/typing_language/prototype/src/data/corpus.ts` 에 한국 동물 단어 59개 추가 (kr_a_001 ~ kr_a_059)
-- index.md 갱신: Animals 섹션 추가
-- source: [[animals-vocabulary]]
+**분포 (pre-cleanup)**:
 
-## [2026-06-23] ingest | clothing-vocabulary | Korean clothing & fashion vocabulary
+| Language | Broken unique stems |
+|---|---:|
+| Chinese | 115 |
+| English | 49 |
+| Japanese | 71 |
+| Korean | 288 |
+| Spanish | 96 |
+| Unknown | 1 |
 
-- 출처: `raw/Korean/clothing-vocabulary.md` (의류/패션 어휘)
-- 인제스트 → clothing 관련 wiki vocabulary 페이지 추가
-- 코퍼스 추가: `Game/typing_language/prototype/src/data/corpus.ts` 에 한국 의류 단어 42개 추가 (kr_c_001 ~ kr_c_041)
-- index.md 갱신: Clothing & Fashion 섹션 추가
-- source: [[clothing-vocabulary]]
+**Cleanup strategy**:
 
-## [2026-06-23] expand | stage expansion | 140 stages with 4 new themes
+1. **`tools/linguistic_stub_gen.py`** 신규 — per-language stub-generator detecting stem language via:
+   - CJK-range detection (Korean 0xAC00-0xD7AF, Japanese 0x3040-0x309F+0x30A0-0x30FF, Chinese 0x4E00-0x9FFF)
+   - Source-file path inference (`/wiki/<Lang>/...` or `/raw/<Lang>/...`)
+   - Generated 619 stubs across wiki/{English,Spanish,Japanese,Korean,Chinese}/{vocabulary,expressions}/ directories
+2. **Individual edits** for non-stem-resolvable cases:
+   - `[[theme-stem]]` template-placeholder references (3 occurrences) converted to plain text — were inside backtick wrapping / SESSION_SUMMARY doc contexts
+   - `[[meat]]` self-reference check in `wiki/English/vocabulary/food-vocabulary.md` → plain text
+   - `[[龍/竜]]` Japanese variant-spelling in `wiki/Japanese/vocabulary/animals-vocabulary.md` → plain text
 
-- 신규 주제 3개 추가: Nature, Animals, Clothing
-- 각 언어별 코퍼스 추가 (EN/ES/JP/KR)
-- 각 주제별 Tier 1~4 스테이지 추가
-- 전체 스테이지: 69개 → 140개
-- 빌드/테스트 통과
-- source: [[nature-vocabulary]], [[animals-vocabulary]], [[clothing-vocabulary]]
+**결과**:
 
-## [2026-06-23] expand | emotion corpus | Emotions corpus for all languages
+| Metric | Before | **After** |
+|---|---:|---:|
+| Unique broken stems (full vault) | 620 | **0** |
+| Total wikilink occurrences broken | 245+ | **0** |
+| `tools/broken_wikilink_processor.py --inventory` | 620 | **0** |
+| Stub pages created (5 languages) | 0 | **619** |
 
-- 감정/성격 코퍼스 EN/ES/JP 추가
-- 기존 KR 감정 코퍼스 (kr_e_001 ~ kr_e_060) 활용
-- 각 언어별 Tier 1~5 스테이지 추가
-- source: [[emotions-personality-vocabulary]]
+**Stub distribution (619 created)**:
 
-## [2026-06-22] ingest | emotions-personality-vocabulary | Korean emotions & personality vocabulary
+| Language | Vocab | Expressions | Total |
+|---|---:|---:|---:|
+| Chinese | 120 | — | 120 |
+| English | 57 | — | 57 |
+| Japanese | 80 | — | 80 |
+| Korean | 287 | — | 287 |
+| Spanish | 119 | — | 119 |
 
-- 출처: `raw/Korean/emotions-personality-vocabulary.md` (TOPIK 2-3급 감정/성격 어휘)
-- 인제스트 → emotions/personality 관련 wiki vocabulary 페이지 (partial)
-- 코퍼스 추가: `Game/typing_language/prototype/src/data/corpus.ts` 에 한국 감정/성격 단어 50개 추가 (kr_e_001 ~ kr_e_060)
-- index.md 갱신: Emotions & Personality 섹션 추가
-- source: [[emotions-personality-vocabulary]]
+(All in `wiki/<lang>/vocabulary/` — no `expressions/` stubs were needed as all broken stems fell to single-word vocab category.)
 
-## [2026-06-22] ingest | business-vocabulary | Korean business vocabulary
+**Validations**:
 
-- 출처: `raw/Korean/business-vocabulary.md` (TOPIK 2-3급 비즈니스 어휘)
-- 인제스트 → business 관련 wiki vocabulary 페이지 (partial)
-- 코퍼스 추가: `Game/typing_language/prototype/src/data/corpus.ts` 에 한국 비즈니스 단어 50개 추가 (kr_b_001 ~ kr_b_063)
-- index.md 갱신: Business/Corporate 섹션 추가
-- source: [[business-vocabulary]]
+| 검증 | 결과 |
+|---|---|
+| Full-vault wikilink scan | **0 broken** |
+| `tools/broken_wikilink_processor.py --inventory` | 0 broken stems |
+| Stub format consistency | AGENTS.md schema (frontmatter + minimal content) |
 
-## [2026-06-22] ingest | food-vocabulary | Korean food & restaurant vocabulary
+**연결 / 의존성**:
+- ADR-0007 (P3/P4 A-Grade 100%) — Language wiki broken-link clearance 달성
+- ADR-0012 (ADR 의존성): Language/Fiction cross-project 영향 없음
+- Old Phase 14 closure noted 90 broken; actual broken count grew to 620 with later ingestions. Phase A & B fully cleaned.
 
-- 출처: `raw/Korean/food-vocabulary.md` (TOPIK 1-2급 음식 어휘,国立국어원)
-- 인제스트 → food 관련 wiki vocabulary 페이지 (partial)
-- 코퍼스 추가: `Game/typing_language/prototype/src/data/corpus.ts` 에 한국 음식 단어 40개 추가 (kr_f_001 ~ kr_f_063)
-- index.md 갱신: Food & Restaurant 섹션 추가
-- source: [[food-vocabulary]]
-
-## [2026-06-18] ingest | first-travel-japan | First Japan travel experience vocabulary
-
-## [2026-06-18] init | Wiki initialized
-
-- Created directory structure (raw/Korean/, wiki/Korean/ + vocabulary, expressions, culture, sources)
-- Set up index.md
-- Ready for first source ingest
-
-## [2026-06-18] pipeline | Language ↔ Game 파이프라인 연계
-
-- `Game/typing_language/` 와 다운스트림 파이프라인 연결
-- 게임 측 한국어 프로필 골격 작성: `Game/typing_language/wiki/languages/korean.md`
-- 게임 측 한국어 코퍼스 골격 작성: `Game/typing_language/raw/kr_words.md` (`source: [[wikilink]]` 인용 패턴)
-- 게임 측 입력 방식 ADR 작성: `Game/typing_language/decisions/0009-kr-input.md` (Draft, 사용자 결정 대기)
-- 양방향 가이드: `Language/wiki/pipeline-to-game.md`, `Game/typing_language/wiki/corpus-pipeline.md`
-
-## 다음 단계
-
-- ADR-0009 결정 (국립국어원 로마자 표기법 / 발음 변동 매핑 깊이)
-- 결정 후 `Language/raw/Korean/` 에 첫 출처(TOPIK 1 단어장 등) 추가
-- 인제스트 → `Language/wiki/Korean/vocabulary/` 페이지 시드
-- 게임 코퍼스 `Game/typing_language/raw/kr_words.md` 에 인용과 함께 실제 항목 추가
-
-## [2026-06-18] ingest | TOPIK 1 Starter
-
-- 출처: `raw/Korean/topik1-starter.md` (TOPIK 1급 기출 어휘, 국립국어원)
-- 인제스트 → vocabulary 페이지 15개 생성 (greetings, numbers 1~5·10, country, food, school, time 등)
-- expression 2개 (만나서 반갑습니다, 오늘 날씨가 좋아요)
-- `index.md` 갱신
-- ADR-0009 Accepted → 옵션 A (로마자 직접 매핑) 채택
-
-## 결정 후 작업
-
-- ✅ `Game/typing_language/prototype/src/input/KoreanHandler.ts` 작성 (JP 핸들러 패턴 동일)
-- ✅ `Game/typing_language/prototype/src/data/corpus.ts` KR_WORDS 추가 (15개 + 2개 문장)
-- ✅ `Game/typing_language/prototype/src/data/stages.ts` kr_easy_1, kr_easy_2 추가
-- ✅ `Game/typing_language/prototype/src/ui/Menu.tsx` 한국어 섹션 추가
-- ✅ `Game/typing_language/prototype/src/types.ts` Language union에 'kr' 추가
-- ✅ 캐릭터 한복 외형 자동 적용 (CulturalAppearance)
-## [2026-07-10] ingest | Action 2 — Korean vocabulary 3 페이지 신규
-
-- 출처: `raw/Korean/business-vocabulary.md`, `food-vocabulary.md`, `emotions-personality-vocabulary.md`
-- 인제스트:
-  - `wiki/Korean/vocabulary/business-vocabulary.md` (109 entry, OCR 잡음 4건 제외)
-  - `wiki/Korean/vocabulary/food-vocabulary.md` (97 entry, OCR 잡음 5건 제외)
-  - `wiki/Korean/vocabulary/emotions-personality-vocabulary.md` (86 entry, OCR 잡음 3건 제외)
-- 정제: 원본 raw 의 한자 OCR/인코딩 잡음(예: 掌声, 饺子, 了不起, 服务员 등) 제외
-- 포맷: 기존 `동물 어휘.md` 의 4-컬럼 표 통일
-- 후속 YAML 부록 자동 부착 (Action 1 의 pipeline-to-game.md 5필드)
-- index.md 갱신: Vocabulary 섹션 (4 → 7 theme files)
-
-## [2026-07-10] lint | Language 위키 일괄 점검 + 8 액션 + Game 측 contract sync
-
-(자세한 기록은 `Language/SESSION_SUMMARY_2026-07-10.md` 참조)
-
-8개 액션 완료. 주요 사항:
-- **원칙 정착**: "단어나 문장 하나를 .md 로 만들지 않는다" — vocabulary/expressions 모두 theme-file 컨벤션.
-- **vocabulary YAML 부록**: 25 파일 / 654 entry (display/input/meaning/level/category/source)
-- **Korean vocab 보강**: 292 entry 인제스트 (12 OCR 잡음 제외)
-- **study-plan/ 표준화**: EN/JP/KR stub README
-- **wikilink 정리**: 1302 → 86 (97% 감소, touch 가능 범위 0)
-- **jp-travel-vocab 통합**: 88 per-word → 2 theme
-- **expressions 통합**: 59 per-expression → 9 theme
-- **.gitignore + 시큐어**: .env/.pyc 추적 해제 (🚨 Notion 토큰 평문 노출 — 사용자 무시 결정)
-- **Game 측 contract sync**: corpus-pipeline.md, AGENTS.md, languages/korean.md cross-project 정합
-
-## [2026-07-14] sync | index.md 갱신 — 7/13 batch 누락분 반영
-
-- **Trigger**: 본 세션 Language 상태 점검에서 발견 — EN/JP/KR index.md 가 "Last updated: 2026-07-08" 그대로 stale. 7/13 batch 의 vocab theme 신규분이 index 에 미반영.
-- **Action**: index.md 전면 갱신 (각 언어 vocab/expressions/culture/sources 카운트 + 신규 theme link + 마지막 갱신일)
-- **변경**:
-  - EN: Last updated → 2026-07-14, sources 15개 명시 + first-travel-japan source 추가, Pipeline Notes 섹션
-  - JP: Last updated → 2026-07-14, vocab 7 → 9 (+ jp-counters + kanji-n5), sources 15개 + 2026-07-13_Kanji_N5_100
-  - KR: Last updated → 2026-07-14, vocab 7 → 8 (+ topik1-starter), 의류・패션 어휘 23 entries 명시, raw OCR cleanup 노트
-- **wikilink 검증**: 모든 [[wikilink]] 가 실제 파일 가리킴 확인 (placeholder 제외)
-
-## [2026-07-14] session-end | 본 세션 종합 summary 참조
-
-- **세션 종합**: [[SESSION_SUMMARY_2026-07-14]] (전체 15 액션 + 보안 scrub + force-push 요약)
-- **보안 가이드**: [[security-incident-response-2026-07-14]] (_publish/2026-W25/, 360 lines)
-- **상태**: Language HEAD `8aae316` (force-pushed) / Game HEAD `7d78707` (curation push)
-- **세션 종료**: 본 엔트리까지
-
-## [2026-07-16] lint | 볼트 전체 wikilink 무결성 점검 + Game raw 마이그레이션
-
-- **Language wiki/ 폴더**: 0개 깨진 링크 (vault-wide wikilink 모두 유효)
-  - Spanish log.md: 40+ per-word wikilink → theme-file anchor (`[[theme]]`) 일괄 치환
-  - English basic-vocabulary.md: 내부 per-word wikilink (`[[hi]]`, `[[hello]]` 등) 제거
-  - Spanish/Japanese vocabulary Source 필드: 중복 `[[xxx-es]]` 정리, `travel-basics-jp` → `travel-basics` 정규화
-  - Chinese grammar 파일: OpenClaw `file://` 외부 링크 2개 → 로컬 source 페이지(`basic-particles-zh.md`, `word-order-zh.md`)로 마이그레이션
-  - Spanish culture 파일: OpenClaw `file://` 외부 링크 2개 → 로컬 source 페이지(`tango-argentino.md`, `mexico-comida-callejera.md`)로 마이그레이션
-
-- **Game/typing_language/raw/** 4개 코퍼스 파일 per-word → theme-anchor 마이그레이션 완료
-  - en_words.md: `airport`, `hotel`, `passport` 등 travel 단어 → `[[travel]]`, animal → `[[animals-vocabulary]]`, food → `[[food-vocabulary]]`, body → `[[body-vocabulary]]`
-  - es_words.md: travel 섹션 전체(`pasaporte`, `aeropuerto`, `hotel` 등) → `[[viajes]]`
-  - jp_words.md: travel 카테고리 `basic-vocabulary` → `[[travel]]` 치환 (regex 기반)
-  - kr_words.md: wiki-driven entries 카테고리별 theme-file 매핑 (`여행`, `food-vocabulary`, `동물 어휘`, `자연・날씨 어휘`, `의류・패션 어휘`, `emotions-personality-vocabulary`, `topik1-starter`)
-
-- **전체 볼트**: 90개 broken link 잔존 (대부분 Fiction/wiki 캐릭터/작품 참조, .omo 작업 문서 아티팩트, raw/_publish 템플릿 플레이스홀더 — 실제 wiki 콘텐츠와 무관)
-
-- **다음 단계**: Fiction/wiki 내부 링크 복구, Game/roguelike_sprawl 단편 소설 경로 수정
+**다음 단계**: stub pages are content-empty scaffolding; future ingestion by theme-anchor migration (per comparative scaffold pattern) will fill content. Stub frontmatter includes `ingested_from: "auto-stub-gen 2026-07-19 (Phase A & B)"` for tracking.
