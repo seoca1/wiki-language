@@ -263,8 +263,8 @@
 
 ## Sources
 
-- English: `[[wiki/English/vocabulary/health-and-body]]`, `[[wiki/English/vocabulary/basic-vocabulary]]`
-- Spanish: `[[wiki/Spanish/vocabulary/health-and-body]]`, `[[wiki/Spanish/vocabulary/basic-vocabulary]]`
-- Japanese: `[[wiki/Japanese/vocabulary/health-and-body]]`, `[[wiki/Japanese/vocabulary/basic-vocabulary]]`
-- Korean: `[[wiki/Korean/vocabulary/health-and-body]]`, `[[wiki/Korean/vocabulary/basic-vocabulary]]`
-- Chinese: `[[wiki/Chinese/vocabulary/body-zh]]`, `[[wiki/Chinese/sources/health-and-body]]`
+- English: `[[wiki/English/index]]`, `[[wiki/English/vocabulary/basic-vocabulary]]`
+- Spanish: `[[wiki/Spanish/index]]`, `[[wiki/Spanish/vocabulary/basic-vocabulary]]`
+- Japanese: `[[wiki/Japanese/index]]`, `[[wiki/Japanese/index]]`
+- Korean: `[[wiki/Korean/index]]`, `[[wiki/Korean/index]]`
+- Chinese: `[[wiki/Chinese/vocabulary/body-zh]]`, `[[wiki/Chinese/index]]`

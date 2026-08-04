@@ -90,7 +90,7 @@
 - Spanish: `[[wiki/Spanish/vocabulary/...]]`, `[[wiki/Spanish/culture/...]]`
 - Japanese: `[[wiki/Japanese/vocabulary/...]]`, `[[wiki/Japanese/culture/...]]`
 - Korean: `[[wiki/Korean/vocabulary/...]]`, `[[wiki/Korean/culture/...]]`
-- Chinese: `[[wiki/Chinese/vocabulary/...]]`, `[[wiki/Chinese/culture/...]]`
+- Chinese: `[[wiki/Chinese/vocabulary/...]]`, `[[Language/wiki/Chinese/culture/...]]`
 
 ---
 

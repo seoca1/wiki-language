@@ -216,11 +216,11 @@
 
 ## Related Pages
 
-- `[[cultural-values.md]]` — values driving nonverbal norms
-- `[[politeness-honorifics.md]]` — bowing, eye contact, hierarchy
-- `[[greetings.md]]` — greeting rituals
-- `[[business-email.md]]` — digital body language (emoji, timing)
-- `[[untranslatable-concepts.md]]` — *kuuki o yomu, nunchi, mianzi*
+- `[[cultural-values]]` — values driving nonverbal norms
+- `[[politeness-honorifics]]` — bowing, eye contact, hierarchy
+- `[[greetings]]` — greeting rituals
+- `[[business-email]]` — digital body language (emoji, timing)
+- `[[untranslatable-concepts]]` — *kuuki o yomu, nunchi, mianzi*
 
 ---
 

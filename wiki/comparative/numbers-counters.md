@@ -203,5 +203,5 @@
 - English: `[[wiki/English/vocabulary/basic-vocabulary]]`
 - Spanish: `[[wiki/Spanish/vocabulary/basic-vocabulary]]`, `[[wiki/Spanish/vocabulary/time-prepositions-vocabulary]]`
 - Japanese: `[[wiki/Japanese/vocabulary/jp-counters]]`, `[[wiki/Japanese/vocabulary/kanji-n5]]`, `[[wiki/Japanese/sources/2026-07-13_Kanji_N5_100]]`
-- Korean: `[[wiki/Korean/vocabulary/basic-vocabulary]]`, `[[wiki/Korean/vocabulary/topik1-starter]]`, `[[wiki/Korean/sources/daily-life-basics]]`
+- Korean: `[[wiki/Korean/index]]`, `[[wiki/Korean/vocabulary/topik1-starter]]`, `[[wiki/Korean/sources/daily-life-basics]]`
 - Chinese: `[[wiki/Chinese/vocabulary/numbers-zh]]`, `[[wiki/Chinese/vocabulary/measure-words-zh]]`, `[[wiki/Chinese/sources/pinyin-basics-zh]]`

@@ -294,10 +294,10 @@
 
 ## Related Pages
 
-- `[[writing-systems.md]]` — orthography behind phonology
-- `[[grammar-difficulty-map.md]]` — grammar as pronunciation multiplier
-- `[[cultural-values.md]]` — pronunciation as identity marker
-- `[[negation.md]]` — prosody of negation
+- `[[writing-systems]]` — orthography behind phonology
+- `[[grammar-difficulty-map]]` — grammar as pronunciation multiplier
+- `[[cultural-values]]` — pronunciation as identity marker
+- `[[negation]]` — prosody of negation
 
 ---
 
@@ -309,6 +309,6 @@
 - Duanmu (2007) *The Phonology of Standard Chinese*
 - `[[wiki/English/vocabulary/basic-vocabulary]]`
 - `[[wiki/Spanish/vocabulary/basic-vocabulary]]`
-- `[[wiki/Japanese/vocabulary/basic-vocabulary]]`, `[[wiki/Japanese/vocabulary/jp-counters]]`
-- `[[wiki/Korean/vocabulary/basic-vocabulary]]`, `[[wiki/Korean/vocabulary/topik1-starter]]`
+- `[[wiki/Japanese/index]]`, `[[wiki/Japanese/vocabulary/jp-counters]]`
+- `[[wiki/Korean/index]]`, `[[wiki/Korean/vocabulary/topik1-starter]]`
 - `[[wiki/Chinese/vocabulary/numbers-zh]]`, `[[wiki/Chinese/sources/pinyin-basics-zh]]`

@@ -288,10 +288,10 @@ CVCC:  값 (gaps) = ㄱ + ㅏ + ㄱ + ㅅ (final cluster)
 
 ## Related Pages
 
-- `[[pronunciation-challenges.md]]` — sound systems behind orthographies
-- `[[grammar-difficulty-map.md]]` — grammar complexity by feature
-- `[[cultural-values.md]]` — writing system as cultural artifact
-- `[[untranslatable-concepts.md]]` — concepts embedded in scripts
+- `[[pronunciation-challenges]]` — sound systems behind orthographies
+- `[[grammar-difficulty-map]]` — grammar complexity by feature
+- `[[cultural-values]]` — writing system as cultural artifact
+- `[[untranslatable-concepts]]` — concepts embedded in scripts
 
 ---
 
@@ -299,8 +299,8 @@ CVCC:  값 (gaps) = ㄱ + ㅏ + ㄱ + ㅅ (final cluster)
 
 - `[[wiki/English/vocabulary/basic-vocabulary]]`
 - `[[wiki/Spanish/vocabulary/basic-vocabulary]]`
-- `[[wiki/Japanese/vocabulary/basic-vocabulary]]`, `[[wiki/Japanese/vocabulary/jp-counters]]`, `[[wiki/Japanese/vocabulary/kanji-n5]]`
-- `[[wiki/Korean/vocabulary/basic-vocabulary]]`, `[[wiki/Korean/vocabulary/topik1-starter]]`
+- `[[wiki/Japanese/index]]`, `[[wiki/Japanese/vocabulary/jp-counters]]`, `[[wiki/Japanese/vocabulary/kanji-n5]]`
+- `[[wiki/Korean/index]]`, `[[wiki/Korean/vocabulary/topik1-starter]]`
 - `[[wiki/Chinese/vocabulary/body-zh]]`, `[[wiki/Chinese/sources/pinyin-basics-zh]]`
 - Unicode Consortium — *Unicode Standard*
 - DeFrancis, J. (1989) *Visible Speech: The Diverse Oneness of Writing Systems*

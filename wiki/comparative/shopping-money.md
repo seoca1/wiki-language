@@ -174,7 +174,7 @@
 ## Sources
 
 - English: `[[wiki/English/vocabulary/travel]]`, `[[wiki/English/vocabulary/basic-vocabulary]]`
-- Spanish: `[[wiki/Spanish/vocabulary/basic-vocabulary]]`, `[[wiki/Spanish/vocabulary/travel]]`
+- Spanish: `[[wiki/Spanish/vocabulary/basic-vocabulary]]`, `[[wiki/Spanish/vocabulary/viajes]]`
 - Japanese: `[[wiki/Japanese/vocabulary/travel]]`, `[[wiki/Japanese/vocabulary/business-vocabulary]]`
-- Korean: `[[wiki/Korean/vocabulary/여행]]`, `[[wiki/Korean/vocabulary/basic-vocabulary]]`
+- Korean: `[[wiki/Korean/vocabulary/여행]]`, `[[wiki/Korean/index]]`
 - Chinese: `[[wiki/Chinese/vocabulary/numbers-zh]]`, `[[wiki/Chinese/vocabulary/measure-words-zh]]`

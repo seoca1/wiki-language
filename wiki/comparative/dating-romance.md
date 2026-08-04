@@ -3,7 +3,7 @@
 **Languages**: English · Spanish · Japanese · Korean · Chinese
 **Last updated**: 2026-07-19
 
-> **Sources**: `[[wiki/English/vocabulary/dating-romance]]`, `[[wiki/English/culture/english-dating-culture]]`, `[[wiki/Spanish/vocabulary/dating-romance-es]]`, `[[wiki/Spanish/culture/espana-vs-latinoamerica-registro]]`, `[[wiki/Japanese/vocabulary/dating-romance]]`, `[[wiki/Japanese/culture/japanese-dating-culture]]`, `[[wiki/Korean/vocabulary/dating-romance]]`, `[[wiki/Korean/culture/korean-dating-culture]]`, `[[wiki/Chinese/sources/greetings-zh]]`
+> **Sources**: `[[wiki/English/expressions/dating-romance]]`, `[[wiki/English/culture/english-dating-culture]]`, `[[wiki/Spanish/index]]`, `[[wiki/Spanish/culture/espana-vs-latinoamerica-registro]]`, `[[wiki/Japanese/expressions/dating-romance]]`, `[[wiki/Japanese/culture/japanese-dating-culture]]`, `[[wiki/Korean/expressions/dating-romance]]`, `[[wiki/Korean/culture/korean-dating-culture]]`, `[[wiki/Chinese/sources/greetings-zh]]`
 
 ---
 
@@ -174,14 +174,14 @@
 - `[[greetings]]` — goodnight/morning texts
 - `[[food-dining]]` — date restaurant vocabulary
 - `[[travel-essentials]]` — couple travel phrases
-- `[[cultural-values.md]]` — collectivist vs individualist romance norms
+- `[[cultural-values]]` — collectivist vs individualist romance norms
 
 ---
 
 ## Sources
 
-- English: `[[wiki/English/vocabulary/dating-romance]]`, `[[wiki/English/culture/english-dating-culture]]`
-- Spanish: `[[wiki/Spanish/vocabulary/dating-romance-es]]`, `[[wiki/Spanish/culture/espana-vs-latinoamerica-registro]]`
-- Japanese: `[[wiki/Japanese/vocabulary/dating-romance]]`, `[[wiki/Japanese/culture/japanese-dating-culture]]`
-- Korean: `[[wiki/Korean/vocabulary/dating-romance]]`, `[[wiki/Korean/culture/korean-dating-culture]]`
+- English: `[[wiki/English/expressions/dating-romance]]`, `[[wiki/English/culture/english-dating-culture]]`
+- Spanish: `[[wiki/Spanish/index]]`, `[[wiki/Spanish/culture/espana-vs-latinoamerica-registro]]`
+- Japanese: `[[wiki/Japanese/expressions/dating-romance]]`, `[[wiki/Japanese/culture/japanese-dating-culture]]`
+- Korean: `[[wiki/Korean/expressions/dating-romance]]`, `[[wiki/Korean/culture/korean-dating-culture]]`
 - Chinese: `[[wiki/Chinese/sources/greetings-zh]]`

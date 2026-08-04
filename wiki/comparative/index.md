@@ -1,9 +1,9 @@
 # Cross-Language Comparative Wiki — Index
 
-Last updated: 2026-07-19
+Last updated: 2026-07-29 (6 new cross-cutting pages: mood-systems, tense-aspect-systems, lengua-espanola-hispanohablantes, tradiciones-veraniegas, lunch-and-rest-patterns, diatopic-variation-patterns)
 
 > **Scope**: Systematic side-by-side comparisons across **English, Spanish, Japanese, Korean, Chinese** — the five languages in this vault.
-> **Convention**: Each page follows a structured table format with per-language columns + synthesis notes. Sources cited via `[[wiki/{Language}/...]]` wikilinks.
+> **Convention**: Each page follows a structured table format with per-language columns + synthesis notes. Sources cited via [[wiki/{Language}/...]] wikilinks.
 
 ---
 
@@ -14,8 +14,12 @@ Last updated: 2026-07-19
 | [[politeness-honorifics]] | EN / ES / JP / KR / CH | Speech levels, honorifics, register, pronouns |
 | [[greetings]] | EN / ES / JP / KR / CH | Greeting rituals, time-based, status-based, contact |
 | [[numbers-counters]] | EN / ES / JP / KR / CH | Cardinal/ordinal, counters/classifiers, large numbers |
-| [[pronouns-reference]] | EN / ES / JP / KR / CH | Personal, demonstrative, indefinite, zero-pronoun |
+| [[pronouns-reference]] | EN / ES / JP / KR / CH | Personal, demonstrative, interrogative, zero-pronoun |
 | [[negation]] | EN / ES / JP / KR / CH | Negation particles, double negation, scope |
+| [[emotions]] | EN / ES / JP / KR / CH | Happy/sad/angry vocabulary, cultural display rules, untranslatable emotions |
+| [[weather-seasons]] | EN / ES / JP / KR / CH | Weather conditions, seasons, climate, holidays, weather small talk |
+| [[mood-systems]] | EN / ES / JP / KR / CH | Indicative vs. subjunctive vs. imperative — mood systems across 5 languages |
+| [[tense-aspect-systems]] | EN / ES / JP / KR / CH | Tense and aspect encoding comparison — preterite/imperfect, 了/过, て-form completions |
 
 ---
 
@@ -30,6 +34,9 @@ Last updated: 2026-07-19
 | [[shopping-money]] | EN / ES / JP / KR / CH | Prices, bargaining, payment, receipts, returns |
 | [[health-body]] | EN / ES / JP / KR / CH | Symptoms, pharmacy, doctor visit, body parts |
 | [[time-calendar]] | EN / ES / JP / KR / CH | Clock time, dates, holidays, relative time expressions |
+| [[transportation]] | EN / ES / JP / KR / CH | Metro/train/bus systems, driving, ride-share apps |
+| [[holidays-celebrations]] | EN / ES / JP / KR / CH | Major holidays, greetings, food, gift-giving customs |
+| [[tradiciones-veraniegas]] | ES ↔ JP ↔ KR ↔ EN ↔ CH | Summer siesta traditions — siesta vs. 昼寝 (hirune) vs. 낮잠 (natjam) vs. power nap |
 
 ---
 
@@ -40,6 +47,12 @@ Last updated: 2026-07-19
 | [[untranslatable-concepts]] | EN / ES / JP / KR / CH | Words with no direct equivalent (e.g., *sobremesa*, *wabi-sabi*, *jeong*, *guanxi*) |
 | [[cultural-values]] | EN / ES / JP / KR / CH | Individualism vs collectivism, face, hierarchy, harmony |
 | [[gestures-body-language]] | EN / ES / JP / KR / CH | Bowing, hand gestures, eye contact, personal space |
+| [[idioms-proverbs]] | EN / ES / JP / KR / CH | Culture-bound sayings (*wabi-sabi*, *sobremesa*, *guanxi*) |
+| [[slang-colloquial]] | EN / ES / JP / KR / CH | Informal register, texting, regional dialect, Gen Z |
+| [[confusion-hotspots]] | EN / ES / JP / KR / CH | False friends, common errors, easy mistakes |
+| [[family-kinship]] | EN / ES / JP / KR / CH | Kinship systems, hierarchy, in-law terms |
+| [[lunch-and-rest-patterns]] | EN ↔ ES ↔ JP ↔ KR ↔ CH | Midday meal + rest traditions — lunch timing, post-meal rest, workplace nap culture |
+| [[lengua-espanola-hispanohablantes]] | ES regional | Spanish dialectal variation — castellano, mexicano, rioplatense, andino, caribeño |
 
 ---
 
@@ -50,21 +63,61 @@ Last updated: 2026-07-19
 | [[writing-systems]] | EN / ES / JP / KR / CH | Alphabet, syllabary, logographic, learning order |
 | [[pronunciation-challenges]] | EN / ES / JP / KR / CH | Phonemes, tones, pitch accent, liaison, assimilation |
 | [[grammar-difficulty-map]] | EN / ES / JP / KR / CH | Case, gender, aspect, evidentiality, topic-comment |
+| [[master-cheatsheet]] | EN / ES / JP / KR / CH | One-page quick reference per language (print/memorize) |
+| [[education-student-life]] | EN / ES / JP / KR / CH | School systems, exams (Gaokao, Su-neung, Center Shiken), cram schools, university culture |
+| [[diatopic-variation-patterns]] | EN ↔ ES ↔ JP ↔ KR ↔ CH | Regional dialect variation patterns — standardized forms, prestige varieties, mutual intelligibility |
+
+---
+
+## Modern/Contemporary Comparisons
+
+| Page | Languages | Focus |
+|------|-----------|-------|
+| [[tech-internet]] | EN / ES / JP / KR / CH | Mobile pay, social media, streaming, internet slang |
+| [[literature-media]] | EN / ES / JP / KR / CH | Canonical authors, genres, K-pop/anime/cultural waves |
+| [[learning-resources]] | EN / ES / JP / KR / CH | Apps, podcasts, textbooks, YouTube, immersion |
+
+---
+
+## Wiki Meta
+
+- [[theme-vocabulary]] — meta-vocabulary page documenting how vocabulary is thematically organized across the multilingual corpora (food, family, work, time, etc.)
 
 ---
 
 ## Navigation
 
-- **Per-language wikis**: `[[wiki/English/index]]` · `[[wiki/Spanish/index]]` · `[[wiki/Japanese/index]]` · `[[wiki/Korean/index]]` · `[[wiki/Chinese/index]]`
-- **Pipeline**: `[[pipeline-to-game]]` — downstream consumers (typing_language game)
-- **Log**: `[[log]]` — this directory's activity log (separate from per-language logs)
+- **Per-language wikis**: [[../English/index]] · [[../Spanish/index]] · [[../Japanese/index]] · [[../Korean/index]] · [[../Chinese/index]]
+- **Pipeline**: [[../pipeline-to-game]] — downstream consumers (typing_language game)
+- **Log**: [[log]] — this directory's activity log (separate from per-language logs)
+- **Status**: [[FINAL_STATUS]] — final completion status report
+
+## Get Started
+
+**Not sure where to begin?** See [[tour-guide]] for personalized learning paths based on your goals, time, and starting language.
+
+**Quick start**: 15-30 min tour:
+1. [[master-cheatsheet]] — One-page essential reference
+2. [[politeness-honorifics]] — The most important cultural differentiator
+3. [[numbers-counters]] — Critical for daily life
+
+**Comprehensive**: 12-15 hours for the full wiki (see [[tour-guide]] for recommended reading order)
 
 ---
 
 ## Contribution Guidelines
 
-1. **Evidence-based**: Every cell cites a source page in the respective language wiki (`[[wiki/{Language}/vocabulary/...]]`, `[[wiki/{Language}/culture/...]]`)
+1. **Evidence-based**: Every cell cites a source page in the respective language wiki ([[wiki/{Language}/vocabulary/...]], [[wiki/{Language}/culture/...]])
 2. **Consistent structure**: Use the comparison table template (see [[comparative-template]])
 3. **Synthesis over listing**: Add a "Key Contrasts" or "Learner Takeaways" section interpreting the table
 4. **Update index**: Add new pages to the appropriate table above
-5. **Log entries**: Append to `[[log]]` with `## [YYYY-MM-DD] comparative | Page Title`
+5. **Log entries**: Append to [[log]] with `## [YYYY-MM-DD] comparative | Page Title`
+
+---
+
+## Statistics
+
+- **Total comparative pages**: 37 (excluding index/log/template)
+- **Categories**: 6 (Core, Situational, Cultural, Learning, Modern, Reference)
+- **Languages covered**: 5 (EN, ES, JP, KR, CH)
+- **Last update batch**: 2026-07-29 — 6 new cross-cutting pages: [[mood-systems]], [[tense-aspect-systems]], [[lengua-espanola-hispanohablantes]], [[tradiciones-veraniegas]], [[lunch-and-rest-patterns]], [[diatopic-variation-patterns]]

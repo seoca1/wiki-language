@@ -249,11 +249,11 @@
 
 ## Related Pages
 
-- `[[pronunciation-challenges.md]]` — phonology feeding grammar
-- `[[writing-systems.md]]` — orthography enabling grammar
-- `[[cultural-values.md]]` — honorifics as cultural grammar
-- `[[negation.md]]` — negation grammar across languages
-- `[[untranslatable-concepts.md]]` — grammaticalized concepts
+- `[[pronunciation-challenges]]` — phonology feeding grammar
+- `[[writing-systems]]` — orthography enabling grammar
+- `[[cultural-values]]` — honorifics as cultural grammar
+- `[[negation]]` — negation grammar across languages
+- `[[untranslatable-concepts]]` — grammaticalized concepts
 
 ---
 
@@ -267,6 +267,6 @@
 - Butt & Benjamin (2011) *A New Reference Grammar of Modern Spanish*
 - `[[wiki/English/vocabulary/basic-vocabulary]]`
 - `[[wiki/Spanish/vocabulary/basic-vocabulary]]`
-- `[[wiki/Japanese/vocabulary/basic-vocabulary]]`, `[[wiki/Japanese/vocabulary/jp-counters]]`
-- `[[wiki/Korean/vocabulary/basic-vocabulary]]`, `[[wiki/Korean/vocabulary/topik1-starter]]`
+- `[[wiki/Japanese/index]]`, `[[wiki/Japanese/vocabulary/jp-counters]]`
+- `[[wiki/Korean/index]]`, `[[wiki/Korean/vocabulary/topik1-starter]]`
 - `[[wiki/Chinese/vocabulary/numbers-zh]]`, `[[wiki/Chinese/sources/pinyin-basics-zh]]`

@@ -68,7 +68,7 @@
 - **Third person**: *kare/kanojo* exist but sound translated; *ano hito* (that person) preferred
 - **Plural**: *-tachi* (neutral), *-ra* (casual/masculine), *-gata* (honorific)
 - **Zero pronoun**: Standard — context determines referent
-- **Sources**: `[[wiki/Japanese/vocabulary/basic-vocabulary]]`, `[[wiki/Japanese/culture/japanese-dating-culture]]`
+- **Sources**: `[[wiki/Japanese/index]]`, `[[wiki/Japanese/culture/japanese-dating-culture]]`
 
 ### Korean
 - **Pronoun = register choice**: Like Japanese, no neutral forms
@@ -84,7 +84,7 @@
 - **Third person**: *geu/geunyeo* (그/그녀) — written/formal; *geu bun* (그분) — honorific
 - **Zero pronoun**: Standard — subject/object routinely dropped
 - **Reflexive**: *jagi* (자기) — self; *jagijasin* (자신) — oneself
-- **Sources**: `[[wiki/Korean/vocabulary/basic-vocabulary]]`, `[[wiki/Korean/culture/korean-dating-culture]]`
+- **Sources**: `[[wiki/Korean/index]]`, `[[wiki/Korean/culture/korean-dating-culture]]`
 
 ### Chinese
 - **Pro-drop**: Subjects/objects freely omitted
@@ -206,7 +206,7 @@
 - `[[politeness-honorifics]]` — pronoun choice encodes politeness
 - `[[greetings]]` — address forms in greetings
 - `[[business-email]]` — pronoun conventions in writing
-- `[[negation.md]]` — negative pronouns (*nadie, dare mo...nai, amudo...*)
+- `[[negation]]` — negative pronouns (*nadie, dare mo...nai, amudo...*)
 
 ---
 
@@ -214,6 +214,6 @@
 
 - English: `[[wiki/English/vocabulary/basic-vocabulary]]`
 - Spanish: `[[wiki/Spanish/vocabulary/basic-vocabulary]]`, `[[wiki/Spanish/culture/espana-vs-latinoamerica-registro]]`
-- Japanese: `[[wiki/Japanese/vocabulary/basic-vocabulary]]`, `[[wiki/Japanese/culture/japanese-dating-culture]]`
-- Korean: `[[wiki/Korean/vocabulary/basic-vocabulary]]`, `[[wiki/Korean/culture/korean-dating-culture]]`
+- Japanese: `[[wiki/Japanese/index]]`, `[[wiki/Japanese/culture/japanese-dating-culture]]`
+- Korean: `[[wiki/Korean/index]]`, `[[wiki/Korean/culture/korean-dating-culture]]`
 - Chinese: `[[wiki/Chinese/sources/greetings-zh]]`, `[[wiki/Chinese/vocabulary/family-zh]]`
