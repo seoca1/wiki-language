@@ -1,5 +1,7 @@
 # Content Pipeline: Language → OpenClaw Foreign Wiki
 
+> **Last updated**: 2026-07-29 (Grammar pages count correction: Spanish grammar/ = 5 language-specific, plus 1 cross-language verb-conjugation-patterns.md in wiki/grammar/)
+
 `Language/`는 학습 콘텐츠의 **단일 진실 공급원(single source of truth)** 이고, `.openclaw/workspace/wiki/{lang}/`은 그 콘텐츠를 일상 노출(daily exposure) 단위로 끌어와 독자가 매일 짧게 만나는 외래 위키로 운영된다. 동시에 `.openclaw` 산출물은 외부 발행(Notion / Hugo) 으로 흘러가지만, **외부 발행은 본 파이프라인의 사정권이 아니다**. 이 문서는 다운스트림인 Language 위키 측의 계약이다.
 
 ## 원칙
@@ -49,7 +51,7 @@
 ```yaml
 # .openclaw/workspace/wiki/spanish/_exposure_log.md (Pool row)
 - date: 2026-07-14
-  source: "[[pasaporte]]"      # vault anchor — Language/wiki/Spanish/vocabulary/viajes.md
+  source: "[[viajes]]"      # vault anchor — Language/wiki/Spanish/vocabulary/viajes.md (theme-file, per-word 페이지 미사용 컨벤션)
   duration_min: 5
   note: "Daily exposure — viaje vocab"
 ```
@@ -119,6 +121,65 @@
 
 English 과 Korean 은 일상 노출 대상이 아니므로 `.openclaw` 위키를 두지 않는다. Chinese 는 신규로 Language 위키부터 만든 뒤 `.openclaw` 위키를 함께 연다. 다른 언어가 노출 대상으로 추가될 때 이 표에 행을 더한다.
 
+## Current State (2026-07-29)
+
+Language wiki 가 openclaw contract 보완 상태 (post-language-expansion):
+
+### Vocabulary theme files (YAML pipeline entries)
+
+`.openclaw` 가 machine-readable 로 추출 가능한 `## Pipeline Form (machine-readable)` YAML section 보유:
+
+| Language | Files | YAML entries | Source |
+| --- | --- | --- | --- |
+| English | 9 | 111 | [Oxford 3000 + OEC] |
+| Spanish | 23 | 276 | [es_words.md](https://github.com/seoca1/typing-language) + comparative research |
+| Japanese | 9 | 267 | [jp_words.md] + JLPT reference |
+| Korean | 13 | 549 | [kr_words.md] + TOPIK reference |
+| Chinese | 5 | 56 | [Chinese HSK 1-2 curriculum] |
+| **Total** | **59** | **1,259** | — |
+
+### Culture pages (5-min daily exposure readiness)
+
+`.openclaw` 가 5-min daily exposure 풀에 포함할 수 있는 culture 페이지 (summary + examples + 2+ citations + 200+ words 충족):
+
+| Language | Ready | Total | Examples section |
+| --- | --- | --- | --- |
+| English | 5/5 | 5 | `## Examples` |
+| Spanish | 14/14 | 14 | `## Ejemplos` |
+| Japanese | 5/5 | 5 | `## 例文` (reibん) |
+| Korean | 4/4 | 4 | `## 예문` (yesmun) |
+| Chinese | 4/4 | 4 | `## 示例` (shili) |
+| **Total** | **32/32** | **32** | — |
+
+### Grammar pages
+
+`.openclaw` 가 레슨 참조로 끌어갈 수 있는 grammar 페이지:
+
+| Language | Files | Status |
+| --- | --- | --- |
+| English | 0 | **Gap** — raw/ 에 grammar source 부재, 신규 raw ingest 후 작성 필요 |
+| Spanish | 5 | ✓ (gustar, preposiciones, presente, preterito, reflexivos) — language-specific grammar |
+| Japanese | 0 | **Gap** — raw/ 에 grammar source 부재 |
+| Korean | 0 | **Gap** — raw/ 에 grammar source 부재 |
+| Chinese | 2 | ✓ |
+
+추가: `wiki/grammar/verb-conjugation-patterns.md` (cross-language: **6 pages**, ES verb paradigm + comparative cross-references) — 1 file 추가 가능.
+
+Grammar 페이지가 0 인 언어 (EN/JA/KO) 는 `.openclaw` 가 grammar/ 디렉토리에서 콘텐츠를 끌어갈 수 없으므로, 새 raw source ingest 시 grammar 페이지 동시 생성을 우선순위로 한다.
+
+### Cross-cutting comparative pages
+
+5개 언어 비교 페이지 (`wiki/comparative/`) — `.openclaw` 가 cross-language 풀에 활용 가능:
+
+| Page | Language pairs |
+| --- | --- |
+| [[tradiciones-veraniegas]] | ES ↔ JP ↔ KR ↔ EN ↔ ZH (siesta vs. 昼寝 vs. 낮잠 vs. power nap) |
+| [[lengua-espanola-hispanohablantes]] | ES regional dialects |
+| [[mood-systems]] | indicative vs. subjunctive across 5 langs |
+| [[tense-aspect-systems]] | tense/aspect comparison |
+| [[lunch-and-rest-patterns]] | midday meal/rest across 5 cultures |
+| [[diatopic-variation-patterns]] | regional dialect patterns across 5 langs |
+
 ## 관련 문서
 
 - 게임 측 파이프라인: `Language/wiki/pipeline-to-game.md`
@@ -126,3 +187,4 @@ English 과 Korean 은 일상 노출 대상이 아니므로 `.openclaw` 위키�
 - `.openclaw` 언어별 위키: `.openclaw/workspace/wiki/{lang}/`
 - `.openclaw` 일상 노출 풀: `.openclaw/workspace/wiki/{lang}/_exposure_log.md`
 - LLM Wiki 표준: `Language/schema/AGENTS.md`
+- Cross-cutting comparative: `Language/wiki/comparative/index.md`

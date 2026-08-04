@@ -1,6 +1,6 @@
 # Language Learning Wiki
 
-A personal knowledge base for learning English, Spanish, Japanese, and Korean using the LLM Wiki pattern.
+A personal knowledge base for learning **English, Spanish, Japanese, Korean, and Chinese** using the LLM Wiki pattern, plus a **cross-language comparative wiki** for systematic 5-language comparisons.
 
 ## Structure
 
@@ -11,20 +11,33 @@ Language/
 │   ├── Spanish/           # Spanish learning materials
 │   ├── Japanese/          # Japanese learning materials
 │   ├── Korean/            # Korean learning materials
+│   ├── Chinese/           # Chinese learning materials (2026-07 scaffolded)
 │   └── assets/            # Images, audio, diagrams
 │
 ├── wiki/                   # LLM-maintained knowledge base
 │   ├── English/           # English learning wiki
-│   │   ├── index.md       # Master index
+│   │   ├── index.md       # Master index (with Cross-Language Comparisons section)
 │   │   ├── log.md         # Activity log
-│   │   ├── vocabulary/    # Word pages
+│   │   ├── vocabulary/    # Theme files (vocabulary/{theme}.md with ### {word} sections)
 │   │   ├── expressions/   # Idiom and phrase pages
 │   │   ├── culture/       # Cultural context pages
 │   │   └── sources/       # Source summaries
 │   │
 │   ├── Spanish/           # Spanish learning wiki (same structure)
 │   ├── Japanese/          # Japanese learning wiki (same structure)
-│   └── Korean/            # Korean learning wiki (same structure)
+│   ├── Korean/            # Korean learning wiki (same structure)
+│   ├── Chinese/           # Chinese learning wiki (same structure + grammar/)
+│   │
+│   └── comparative/        # Cross-Language Comparative Wiki (2026-07-19)
+│       ├── index.md       # Master navigation hub
+│       ├── master-cheatsheet.md  # One-page quick reference per language
+│       └── 24 comparison pages across 6 categories:
+│         ├── Core Linguistic (politeness, greetings, numbers, pronouns, negation)
+│         ├── Situational (travel, food, business, dating, shopping, health, time)
+│         ├── Cultural Concepts (untranslatables, values, gestures, idioms, slang)
+│         ├── Learning Strategy (writing systems, pronunciation, grammar, cheatsheet)
+│         ├── Modern/Contemporary (tech-internet, literature-media)
+│         └── Reference (README, log, template)
 │
 └── schema/
     └── AGENTS.md          # Instructions for LLM agents
@@ -92,9 +105,21 @@ This is not a traditional flashcard or vocabulary app. Instead, it's a **persist
 Based on your preferences:
 - **Materials**: Original books (novels, non-fiction), textbooks, web articles
 - **Key elements**: Vocabulary, expressions/idioms, cultural context
-- **Languages**: English, Spanish, Japanese, Korean
+- **Languages**: English, Spanish, Japanese, Korean, **Chinese** (added 2026-07)
 
 The system is designed to support your specific learning style and priorities.
+
+## Cross-Language Comparisons
+
+`wiki/comparative/` contains **24 systematic comparison pages** across all 5 languages covering:
+
+- **Linguistic systems**: Politeness/honorifics, greetings, numbers/counters, pronouns, negation
+- **Situational phrases**: Travel, food/dining, business email, dating, shopping, health, time
+- **Cultural concepts**: Untranslatables (wabi-sabi, han, jeong, guanxi, etc.), values, gestures, idioms, slang
+- **Learning strategy**: Writing systems, pronunciation challenges, grammar difficulty map, master cheatsheet
+- **Modern/contemporary**: Tech/internet, literature/media
+
+Each page has **cross-references back to per-language wikis** via `[[wiki/{Language}/...]]` wikilinks, enabling bidirectional discovery.
 
 ## Downstream Consumers
 

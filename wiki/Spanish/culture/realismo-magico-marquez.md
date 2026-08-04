@@ -22,6 +22,15 @@
 - *El ahogado más hermoso del mundo* (1968) - ejemplo compacto
 - Isabel Allende, Juan Rulfo, Alejo Carpentier - otros autores mayores
 
+
+## Ejemplos de realismo mágico en García Márquez
+
+«"Muchos años después, frente al pelotón de fusilamiento, el coronel Aureliano Buendía había de recordar aquella remota tarde…" — apertura de *Cien años de soledad*, donde el tiempo se pliega.»
+«Los Buendía suben al cielo envueltos en sábanas blancas, Remedios la Bella, ascendiendo mientras borda.»
+«La peste del insomnio y los olvidos ha borrado la memoria de Macondo, metáfora de la fragilidad histórica.»
+
+---
+
 ## Sources
 
 - [[el-ahogado-mas-hermoso-del-mundo]]

@@ -18,11 +18,11 @@ General
 
 **Part of Speech:** 
 
-**Definition:** 
+**Definition:** Table (dining surface).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈme.sa/
 
-**Etymology:** 
+**Etymology:** From Latin "mensa". "Mesa para dos" = "table for two".
 
 #### Examples
 
@@ -45,11 +45,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** 
 
-**Definition:** 
+**Definition:** Menu (also letter).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈkaɾ.ta/
 
-**Etymology:** 
+**Etymology:** From Latin "charta" (paper). "Carta de vinos" = "wine list". Note: in Spain "carta" = menu; in Latin America often "menú" is used.
 
 #### Examples
 
@@ -72,11 +72,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** 
 
-**Definition:** 
+**Definition:** Waiter (male server).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /kamaˈɾe.ɾo/
 
-**Etymology:** 
+**Etymology:** From Spanish "cámara" (room) → "one who serves in the room". Feminine: "camarera". Common: "¡Camarero!" = "Waiter!".
 
 #### Examples
 
@@ -99,11 +99,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** 
 
-**Definition:** 
+**Definition:** Plate / Dish (food serving).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈpla.to/
 
-**Etymology:** 
+**Etymology:** From Latin "plattus" (flat). "Plato fuerte" = "main dish".
 
 #### Examples
 
@@ -126,11 +126,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** 
 
-**Definition:** 
+**Definition:** Drink (beverage).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /beˈβi.ða/
 
-**Etymology:** 
+**Etymology:** From "beber" (to drink). "Bebida sin alcohol" = "non-alcoholic drink".
 
 #### Examples
 
@@ -153,11 +153,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** 
 
-**Definition:** 
+**Definition:** Bill / Check (restaurant total).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈkwen.ta/
 
-**Etymology:** 
+**Etymology:** From Latin "compŭta" (count). "La cuenta, por favor" = "The bill, please".
 
 #### Examples
 
@@ -180,11 +180,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** 
 
-**Definition:** 
+**Definition:** Tip (gratuity).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /pɾoˈpi.na/
 
-**Etymology:** 
+**Etymology:** From Latin "propīnāre" (to drink to one's health). Universal in restaurant context.
 
 #### Examples
 
@@ -207,11 +207,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** 
 
-**Definition:** 
+**Definition:** Cutlery / Silverware (forks, knives, spoons).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /kuˈβjeɾ.tos/
 
-**Etymology:** 
+**Etymology:** Plural of "cubierto" (covered). "Cubiertos de plata" = "silver cutlery".
 
 #### Examples
 
@@ -261,4 +261,19 @@ Contexto cultural por añadir
 
 ## Pipeline Form (machine-readable)
 
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
+> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: es_restaurant_vocabulary_001, display: "mesa", input: "mesa", meaning: "Table (dining surface).", level: "** A1-B1", category: "restaurant-vocabulary", source: "[[restaurant-vocabulary]]" }
+- { id: es_restaurant_vocabulary_002, display: "carta", input: "carta", meaning: "Menu (also letter).", level: "** A1-B1", category: "restaurant-vocabulary", source: "[[restaurant-vocabulary]]" }
+- { id: es_restaurant_vocabulary_003, display: "camarero", input: "camarero", meaning: "Waiter (male server).", level: "** A1-B1", category: "restaurant-vocabulary", source: "[[restaurant-vocabulary]]" }
+- { id: es_restaurant_vocabulary_004, display: "plato", input: "plato", meaning: "Plate / Dish (food serving).", level: "** A1-B1", category: "restaurant-vocabulary", source: "[[restaurant-vocabulary]]" }
+- { id: es_restaurant_vocabulary_005, display: "bebida", input: "bebida", meaning: "Drink (beverage).", level: "** A1-B1", category: "restaurant-vocabulary", source: "[[restaurant-vocabulary]]" }
+- { id: es_restaurant_vocabulary_006, display: "cuenta", input: "cuenta", meaning: "Bill / Check (restaurant total).", level: "** A1-B1", category: "restaurant-vocabulary", source: "[[restaurant-vocabulary]]" }
+- { id: es_restaurant_vocabulary_007, display: "propina", input: "propina", meaning: "Tip (gratuity).", level: "** A1-B1", category: "restaurant-vocabulary", source: "[[restaurant-vocabulary]]" }
+- { id: es_restaurant_vocabulary_008, display: "cubiertos", input: "cubiertos", meaning: "Cutlery / Silverware (forks, knives, spoons).", level: "** A1-B1", category: "restaurant-vocabulary", source: "[[restaurant-vocabulary]]" }
+- { id: es_restaurant_vocabulary_009, display: "mesa para dos", input: "mesa para dos", meaning: "**Pronunciation / IPA:**", level: "** A1-B1", category: "restaurant-vocabulary", source: "[[restaurant-vocabulary]]" }
 ```
+

@@ -16,9 +16,7 @@ Esta página agrega todo el vocabulario de animales para el corpus del juego de 
 
 ## Animales Básicos
 
-## Animales Básicos
 
-## Animales Básicos
 
 General
 
@@ -26,11 +24,11 @@ General
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Dog (domesticated canine).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈpe.ro/
 
-**Etymology:** 
+**Etymology:** Onomatopoeic, possibly from Latin "perra" or Vulgar Latin *canis perrus. Universal. "Perro callejero" = "stray dog".
 
 #### Examples
 
@@ -39,7 +37,7 @@ General
 
 #### Related Terms
 
-- [[perro]] — Autoreferencia
+- perro — Autoreferencia
 - [[animals-vocabulary]] — Vocabulario de animales
 
 #### Cultural Notes
@@ -164,11 +162,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Cat (domesticated feline).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈɡa.to/
 
-**Etymology:** 
+**Etymology:** From Late Latin "gattus" (of unknown origin, possibly North African). Universal. "Gato montés" = "wildcat".
 
 #### Examples
 
@@ -177,7 +175,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[gato]] — Autoreferencia
+- gato — Autoreferencia
 - [[animals-vocabulary]] — Vocabulario de animales
 
 #### Cultural Notes
@@ -302,11 +300,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Bird (flying animal).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈpa.xa.ɾo/
 
-**Etymology:** 
+**Etymology:** From Late Latin "passarō" (sparrow). Universal. "Pájaro carpintero" = "woodpecker".
 
 #### Examples
 
@@ -315,7 +313,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[pájaro]] — Autoreferencia
+- pájaro — Autoreferencia
 - [[animals-vocabulary]] — Vocabulario de animales
 
 #### Cultural Notes
@@ -440,11 +438,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Fish (aquatic vertebrate, singular).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /pes/ or /peθ/
 
-**Etymology:** 
+**Etymology:** From Latin "piscis". Plural: "peces". "Pez tropical" = "tropical fish".
 
 #### Examples
 
@@ -453,7 +451,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[pez]] — Autoreferencia
+- pez — Autoreferencia
 - [[animals-vocabulary]] — Vocabulario de animales
 
 #### Cultural Notes
@@ -578,11 +576,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Horse (equine).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /kaˈβa.ʎo/ or /kaˈba.ʝo/
 
-**Etymology:** 
+**Etymology:** From Vulgar Latin "caballus" (workhorse). Universal. "Caballo de carreras" = "racehorse".
 
 #### Examples
 
@@ -591,7 +589,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[caballo]] — Autoreferencia
+- caballo — Autoreferencia
 - [[animals-vocabulary]] — Vocabulario de animales
 
 #### Cultural Notes
@@ -716,11 +714,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Cow (bovine female).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈba.ka/
 
-**Etymology:** 
+**Etymology:** From Latin "vacca". Universal. "Vaca lechera" = "dairy cow".
 
 #### Examples
 
@@ -729,7 +727,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[vaca]] — Autoreferencia
+- vaca — Autoreferencia
 - [[animals-vocabulary]] — Vocabulario de animales
 
 #### Cultural Notes
@@ -854,11 +852,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Pig (swine).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈθeɾ.ðo/ or /ˈseɾ.ðo/
 
-**Etymology:** 
+**Etymology:** From Latin "cerda" (bristle, applied to the animal). Universal. "Cerdo asado" = "roast pork".
 
 #### Examples
 
@@ -867,7 +865,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[cerdo]] — Autoreferencia
+- cerdo — Autoreferencia
 - [[animals-vocabulary]] — Vocabulario de animales
 
 #### Cultural Notes
@@ -992,11 +990,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Sheep (ovine).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /oˈβe.xa/
 
-**Etymology:** 
+**Etymology:** From Vulgar Latin "ovicla" (from "ovis" sheep). Universal. "Oveja negra" = "black sheep (outcast)".
 
 #### Examples
 
@@ -1005,7 +1003,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[oveja]] — Autoreferencia
+- oveja — Autoreferencia
 - [[animals-vocabulary]] — Vocabulario de animales
 
 #### Cultural Notes
@@ -1130,11 +1128,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Chicken (poultry).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈpo.ʎo/ or /ˈpo.ʝo/
 
-**Etymology:** 
+**Etymology:** From Latin "pullus" (young animal). Universal. "Pollo asado" = "roast chicken".
 
 #### Examples
 
@@ -1143,7 +1141,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[pollo]] — Autoreferencia
+- pollo — Autoreferencia
 - [[animals-vocabulary]] — Vocabulario de animales
 - [[food-vocabulary]] — Vocabulario de comida
 
@@ -1273,8 +1271,19 @@ Contexto cultural por añadir
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
-> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
+> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
 > The body above remains the human-readable form and is the source of truth.
 
+```yaml
+- { id: es_animals_vocabulary_001, display: "perro", input: "perro", meaning: "Dog (domesticated canine).", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
+- { id: es_animals_vocabulary_002, display: "gato", input: "gato", meaning: "Cat (domesticated feline).", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
+- { id: es_animals_vocabulary_003, display: "pájaro", input: "pájaro", meaning: "Bird (flying animal).", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
+- { id: es_animals_vocabulary_004, display: "pez", input: "pez", meaning: "Fish (aquatic vertebrate, singular).", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
+- { id: es_animals_vocabulary_005, display: "caballo", input: "caballo", meaning: "Horse (equine).", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
+- { id: es_animals_vocabulary_006, display: "vaca", input: "vaca", meaning: "Cow (bovine female).", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
+- { id: es_animals_vocabulary_007, display: "cerdo", input: "cerdo", meaning: "Pig (swine).", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
+- { id: es_animals_vocabulary_008, display: "oveja", input: "oveja", meaning: "Sheep (ovine).", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
+- { id: es_animals_vocabulary_009, display: "pollo", input: "pollo", meaning: "Chicken (poultry).", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
 ```
+

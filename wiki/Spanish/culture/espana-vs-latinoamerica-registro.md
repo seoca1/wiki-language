@@ -30,8 +30,20 @@
 | De acuerdo       | vale            | sale, órale         | dale, bueno         |
 | Llamar a la puerta | llamar, tocar  | tocar               | timbear             |
 
+
+## Ejemplos de variación diatópica
+
+«En España: "coche". En México: "carro". En Argentina: "auto". — misma realidad, tres registros.»
+«En España se usa "vosotros" (segunda persona plural); en Latinoamérica se usa "ustedes".»
+«"Coger" en España significa "tomar"; en muchos países latinoamericanos significa algo muy distinto. — ejemplo clásico de falso amigo.»
+
+---
+
 ## Sources
 
 - [[notes-in-spanish-listening-log]]
 - siesta
 - tapas
+
+- [[dele-a2-estructura]] - Examen oficial de nivel A2 del Cervantes
+- *lengua-espanola-hispanohablantes* - Variación diatópica comparada

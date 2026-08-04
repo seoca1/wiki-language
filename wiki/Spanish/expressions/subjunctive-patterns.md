@@ -135,4 +135,38 @@ La regla: `cuando + subjuntivo` cuando la acción principal es **futura** y la s
 - [[notes-in-spanish-planes-de-verano]]
 - [[subjunctive-patterns]]
 
+
+
+---
+
+## ojala
+
+**Literal Translation:** ojala (del árabe *law šá lláh*, "si Dios quiere")
+**Meaning:** Expresión de **deseo intenso**, anhelo. Siempre lleva subjuntivo. "¡Ojalá haga sol!", "Ojalá que vengas".
+**Usage Context:** Universal, todos los registros. Deseo de algo incierto o improbable.
+
+### Examples
+
+- ***¡Ojalá** haga buen tiempo mañana!** — Notes in Spanish
+- ***¡Ojalá** podamos ir a la playa!* — Deseo plan
+- ***Ojalá que** no llueva.* — Variante con "que"
+
+### Cultural Background
+
+**Ojalá** viene del árabe andalusí *law šá lláh* ("si Dios quiere"). Es la expresión de deseo por excelencia en español. **Siempre lleva subjuntivo** (presente para futuro, imperfecto para imposible/irreal). Diferencia con *a ver si*: *ojalá* = deseo (subjuntivo); *a ver si* = expectativa (indicativo). En habla coloquial: "ojalá que..." refuerza el deseo. En *Notes in Spanish*, "¡Ojalá haga sol en agosto!" es deseo clásico veraniego. Error común: *ojalá hace sol* (indicativo) → incorrecto.
+
+### Similar Expressions
+
+- a-ver-si - expectativa (indicativo)
+- quisiera-que - deseo formal
+- espero-que - deseo estándar
+- ojalá-que - variante coloquial reforzada
+
+### Sources
+
+- [[notes-in-spanish-planes-de-verano]]
+- [[subjunctive-patterns]]
+
+---
+
 ---

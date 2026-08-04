@@ -16,7 +16,6 @@ This page aggregates all animal vocabulary for the typing language game corpus.
 
 ## Basic Animals
 
-## Basic Animals
 
 ### dog
 
@@ -35,7 +34,7 @@ This page aggregates all animal vocabulary for the typing language game corpus.
 
 #### Related Terms
 
-- [[dog]] — Self-reference check
+- dog — Self-reference check
 - [[animals-vocabulary]] — Animal vocabulary
 
 #### Cultural Notes
@@ -65,7 +64,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[cat]] — Self-reference check
+- cat — Self-reference check
 - [[animals-vocabulary]] — Animal vocabulary
 
 #### Cultural Notes
@@ -95,7 +94,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[bird]] — Self-reference check
+- bird — Self-reference check
 - [[animals-vocabulary]] — Animal vocabulary
 
 #### Cultural Notes
@@ -125,7 +124,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[fish]] — Self-reference check
+- fish — Self-reference check
 - [[animals-vocabulary]] — Animal vocabulary
 
 #### Cultural Notes
@@ -155,7 +154,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[horse]] — Self-reference check
+- horse — Self-reference check
 - [[animals-vocabulary]] — Animal vocabulary
 
 #### Cultural Notes
@@ -185,7 +184,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[cow]] — Self-reference check
+- cow — Self-reference check
 - [[animals-vocabulary]] — Animal vocabulary
 
 #### Cultural Notes
@@ -206,8 +205,16 @@ Cultural context to be added
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
-> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
+> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
 > The body above remains the human-readable form and is the source of truth.
 
+```yaml
+- { id: en_animals_vocabulary_001, display: "dog", input: "dog", meaning: "개", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
+- { id: en_animals_vocabulary_002, display: "cat", input: "cat", meaning: "고양이", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
+- { id: en_animals_vocabulary_003, display: "bird", input: "bird", meaning: "새", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
+- { id: en_animals_vocabulary_004, display: "fish", input: "fish", meaning: "물고기", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
+- { id: en_animals_vocabulary_005, display: "horse", input: "horse", meaning: "말", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
+- { id: en_animals_vocabulary_006, display: "cow", input: "cow", meaning: "소", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
 ```
+

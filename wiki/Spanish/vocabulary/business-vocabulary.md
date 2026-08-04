@@ -14,9 +14,7 @@ Esta página agrega todo el vocabulario de negocios para el corpus del juego de 
 
 ## Trabajo y Oficina
 
-## Trabajo y Oficina
 
-## Trabajo y Oficina
 
 General
 
@@ -24,11 +22,11 @@ General
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Work / Job (employment).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /tɾaˈβa.xo/
 
-**Etymology:** 
+**Etymology:** From Latin "tripalium" (torture device, later neutral sense). Universal. "Trabajo en equipo" = "teamwork".
 
 #### Examples
 
@@ -37,7 +35,7 @@ General
 
 #### Related Terms
 
-- [[trabajo]] — Autoreferencia
+- trabajo — Autoreferencia
 
 #### Cultural Notes
 
@@ -161,11 +159,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Office (workplace).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /oˈfi.θi.na/ or /oˈfi.si.na/
 
-**Etymology:** 
+**Etymology:** From Latin "officīna" (workshop). Universal. "Oficina central" = "headquarters".
 
 #### Examples
 
@@ -174,7 +172,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[oficina]] — Autoreferencia
+- oficina — Autoreferencia
 
 #### Cultural Notes
 
@@ -298,11 +296,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Employee (worker).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /em.pleˈa.ðo/
 
-**Etymology:** 
+**Etymology:** Past participle of "emplear" (to employ). Universal. "Empleado del mes" = "employee of the month".
 
 #### Examples
 
@@ -311,7 +309,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[empleado]] — Autoreferencia
+- empleado — Autoreferencia
 
 #### Cultural Notes
 
@@ -435,11 +433,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Boss / Chief (supervisor).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈxe.fe/
 
-**Etymology:** 
+**Etymology:** From Old French "chef" (head, leader). Feminine: "jefa". Universal. "Jefe de cocina" = "head chef".
 
 #### Examples
 
@@ -448,7 +446,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[jefe]] — Autoreferencia
+- jefe — Autoreferencia
 
 #### Cultural Notes
 
@@ -572,11 +570,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Meeting (gathering).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /reuˈnjon/
 
-**Etymology:** 
+**Etymology:** From "reunir" (to reunite). Universal. "Reunión de equipo" = "team meeting".
 
 #### Examples
 
@@ -585,7 +583,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[reunión]] — Autoreferencia
+- reunión — Autoreferencia
 
 #### Cultural Notes
 
@@ -709,11 +707,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Project (planned work).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /pɾoˈʝek.to/
 
-**Etymology:** 
+**Etymology:** From Latin "proiectum" (thrown forward). Universal. "Proyecto de ley" = "bill (legislative)".
 
 #### Examples
 
@@ -722,7 +720,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[proyecto]] — Autoreferencia
+- proyecto — Autoreferencia
 
 #### Cultural Notes
 
@@ -846,11 +844,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Salary (wages).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /saˈla.ɾjo/
 
-**Etymology:** 
+**Etymology:** From Latin "salarium" (salt money, Roman soldier allowance). Universal. "Salario mínimo" = "minimum wage".
 
 #### Examples
 
@@ -859,7 +857,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[salario]] — Autoreferencia
+- salario — Autoreferencia
 
 #### Cultural Notes
 
@@ -1120,11 +1118,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Reservation (booking or backup).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /reˈseɾ.βa/
 
-**Etymology:** 
+**Etymology:** From Latin "reservāre". "Reserva de hotel" = "hotel reservation".
 
 #### Examples
 
@@ -1133,7 +1131,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[reserva]] — Autoreferencia
+- reserva — Autoreferencia
 
 #### Cultural Notes
 
@@ -1257,11 +1255,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Account / Bill (financial).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈkwen.ta/
 
-**Etymology:** 
+**Etymology:** From Latin "compŭta" (count). Universal. "Cuenta bancaria" = "bank account".
 
 #### Examples
 
@@ -1270,7 +1268,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[cuenta]] — Autoreferencia
+- cuenta — Autoreferencia
 
 #### Cultural Notes
 
@@ -1396,10 +1394,127 @@ Contexto cultural por añadir
 
 ---
 
+### plazo
+
+**Part of Speech:** sustantivo (masculino)
+
+**Definition:** Plazo / Deadline, time limit. Fecha límite para entregar un trabajo, pagar una factura, presentar un documento.
+
+**Pronunciation / IPA:** /ˈpla.θo/ (Spain) or /ˈpla.so/ (Latin America)
+
+**Etymology:** From Latin "placitum" (acordado, resuelto). "Plazo fijo" = fixed term; "a plazo" = on credit/installments.
+
+#### Examples
+
+- *El **plazo** de entrega es el viernes.* — Trabajo
+- *Pagué a **plazos** (12 meses).* — Financiación
+- *Fuera de **plazo** = tardío.* — Administrativo
+
+#### Related Terms
+
+- *deadline* — anglicismo común
+- *fecha-limite* — sinónimo formal
+- *proyecto* — tiene plazos
+
+#### Cultural Notes
+
+En **España**: "plazo" uso estándar. En **México**: "fecha límite" más común en contextos formales; "plazo" en financieros. **"Dentro de plazo"** / **"fuera de plazo"** = cumplimiento administrativo. En *trabajo-y-carrera*, "plazo" aparece como vocabulario clave de oficina. **"A plazos"** = pago fraccionado (cuotas).
+
+#### Sources
+
+- [[trabajo-y-carrera]]
+- [[business-vocabulary]]
+---
+
+### colega
+
+**Part of Speech:** sustantivo (común en género)
+
+**Definition:** Colega / Colleague, coworker. Compañero de trabajo o profesión. Registro neutro/profesional.
+
+**Pronunciation / IPA:** /koˈle.ɣa/
+
+**Etymology:** From Latin "collēga" (compañero de cargo). "Co-" (con) + "legare" (enviar, elegir).
+
+#### Examples
+
+- *Mi **colega** Juan lleva 10 años en la empresa.* — Presentación
+- *Voy a almorzar con unos **colegas**.* — Social laboral
+- *Consulté a un **colega** del departamento legal.* — Profesional
+
+#### Related Terms
+
+- *compañero* — más general
+- *jefe* — superior
+- *empleado* — subordinado
+- *networking* — red de colegas
+
+#### Cultural Notes
+
+**España vs LatAm**: En **España**, "colega" = compañero de trabajo (neutro) Y "colega" = amigo (coloquial, "¿qué tal, colega?"). En **México/LatAm**: "colega" casi solo profesional; "cuate", "compa", "parcero" para amigos. **Registro**: "colega" > "compañero" en formalidad leve. En *trabajo-y-carrera*, "colega" = vocabulario oficina estándar.
+
+#### Sources
+
+- [[trabajo-y-carrera]]
+- [[business-vocabulary]]
+---
+
+### correo-electronico
+
+**Part of Speech:** sustantivo (masculino)
+
+**Definition:** Correo electrónico / Email. Mensaje digital enviado vía internet. Abreviado: **email**, **e-mail**, **mail**.
+
+**Pronunciation / IPA:** /koˈreo elekˈtɾo.niko/
+
+**Etymology:** "Correo" (servicio postal) + "electrónico" (electrónico). Calco de "electronic mail".
+
+#### Examples
+
+- *Te envío el **correo electrónico** con los detalles.* — Estándar
+- *¿Me das tu **email**?* — Abreviado común
+- *Revisa tu **bandeja de entrada**.* — Terminología
+
+#### Related Terms
+
+- *bandeja-entrada* — inbox
+- *asunto* — subject line
+- *adjunto* — attachment
+- *firma* — signature block
+- *spam* — correo no deseado
+
+#### Cultural Notes
+
+**Formato correo español**:
+- **Estimado/a [Nombre]:** (formal) / **Hola [Nombre]:** (informal)
+- Cuerpo
+- **Cordialmente, / Atentamente, / Un saludo,** (cierre)
+- **Firma** (nombre, cargo, teléfono, empresa)
+
+**España**: "correo electrónico" o "email" (anglicismo aceptado RAE). **México**: "correo" o "email". **Argentina**: "mail" muy común. En *trabajo-y-carrera*, frases modelo: "Adjunto encontrarás", "Como decía en mi correo anterior", "Te respondo luego".
+
+#### Sources
+
+- [[trabajo-y-carrera]]
+- [[business-vocabulary]]
+---
+
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
-> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
+> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
 > The body above remains the human-readable form and is the source of truth.
 
+```yaml
+- { id: es_business_vocabulary_001, display: "trabajo", input: "trabajo", meaning: "Work / Job (employment).", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: es_business_vocabulary_002, display: "oficina", input: "oficina", meaning: "Office (workplace).", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: es_business_vocabulary_003, display: "empleado", input: "empleado", meaning: "Employee (worker).", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: es_business_vocabulary_004, display: "jefe", input: "jefe", meaning: "Boss / Chief (supervisor).", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: es_business_vocabulary_005, display: "reunión", input: "reunión", meaning: "Meeting (gathering).", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: es_business_vocabulary_006, display: "proyecto", input: "proyecto", meaning: "Project (planned work).", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: es_business_vocabulary_007, display: "salario", input: "salario", meaning: "Salary (wages).", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: es_business_vocabulary_008, display: "correo electrónico", input: "correo electrónico", meaning: "**Pronunciation / IPA:**", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: es_business_vocabulary_009, display: "reserva", input: "reserva", meaning: "Reservation (booking or backup).", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: es_business_vocabulary_010, display: "cuenta", input: "cuenta", meaning: "Account / Bill (financial).", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
 ```
+

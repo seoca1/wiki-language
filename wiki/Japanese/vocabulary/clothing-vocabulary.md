@@ -14,7 +14,6 @@ This page aggregates all clothing and fashion vocabulary for the typing language
 
 ## Tops (上着)
 
-## Tops (上着)
 
 ### シャツ
 
@@ -33,7 +32,7 @@ This page aggregates all clothing and fashion vocabulary for the typing language
 
 #### Related Terms
 
-- [[シャツ]] — 自動参照
+- シャツ — 自動参照
 - [[clothing-vocabulary]] — 服語彙
 
 #### Cultural Notes
@@ -63,7 +62,7 @@ This page aggregates all clothing and fashion vocabulary for the typing language
 
 #### Related Terms
 
-- [[青いシャツ]] — 自動参照
+- 青いシャツ — 自動参照
 
 #### Cultural Notes
 
@@ -92,7 +91,7 @@ This page aggregates all clothing and fashion vocabulary for the typing language
 
 #### Related Terms
 
-- [[コート]] — 自動参照
+- コート — 自動参照
 - [[clothing-vocabulary]] — 服語彙
 
 #### Cultural Notes
@@ -122,7 +121,7 @@ This page aggregates all clothing and fashion vocabulary for the typing language
 
 #### Related Terms
 
-- [[セーター]] — 自動参照
+- セーター — 自動参照
 
 #### Cultural Notes
 
@@ -151,7 +150,7 @@ This page aggregates all clothing and fashion vocabulary for the typing language
 
 #### Related Terms
 
-- [[ジャケット]] — 自動参照
+- ジャケット — 自動参照
 - [[clothing-vocabulary]] — 服語彙
 
 #### Cultural Notes
@@ -181,7 +180,7 @@ This page aggregates all clothing and fashion vocabulary for the typing language
 
 #### Related Terms
 
-- [[ドレス]] — 自動参照
+- ドレス — 自動参照
 
 #### Cultural Notes
 
@@ -210,7 +209,7 @@ This page aggregates all clothing and fashion vocabulary for the typing language
 
 #### Related Terms
 
-- [[赤いドレス]] — 自動参照
+- 赤いドレス — 自動参照
 
 #### Cultural Notes
 
@@ -239,7 +238,7 @@ This page aggregates all clothing and fashion vocabulary for the typing language
 
 #### Related Terms
 
-- [[半袖]] — 自動参照
+- 半袖 — 自動参照
 
 #### Cultural Notes
 
@@ -268,7 +267,7 @@ This page aggregates all clothing and fashion vocabulary for the typing language
 
 #### Related Terms
 
-- [[長袖]] — 自動参照
+- 長袖 — 自動参照
 
 #### Cultural Notes
 
@@ -299,7 +298,7 @@ This page aggregates all clothing and fashion vocabulary for the typing language
 
 #### Related Terms
 
-- [[ズボン]] — 自動参照
+- ズボン — 自動参照
 - [[clothing-vocabulary]] — 服語彙
 
 #### Cultural Notes
@@ -329,7 +328,7 @@ This page aggregates all clothing and fashion vocabulary for the typing language
 
 #### Related Terms
 
-- [[白いズボン]] — 自動参照
+- 白いズボン — 自動参照
 
 #### Cultural Notes
 
@@ -358,7 +357,7 @@ This page aggregates all clothing and fashion vocabulary for the typing language
 
 #### Related Terms
 
-- [[スカート]] — 自動参照
+- スカート — 自動参照
 - [[clothing-vocabulary]] — 服語彙
 
 #### Cultural Notes
@@ -390,7 +389,7 @@ This page aggregates all clothing and fashion vocabulary for the typing language
 
 #### Related Terms
 
-- [[靴]] — 自動参照
+- 靴 — 自動参照
 - [[clothing-vocabulary]] — 服語彙
 
 #### Cultural Notes
@@ -420,7 +419,7 @@ This page aggregates all clothing and fashion vocabulary for the typing language
 
 #### Related Terms
 
-- [[黒い靴]] — 自動参照
+- 黒い靴 — 自動参照
 
 #### Cultural Notes
 
@@ -449,7 +448,7 @@ This page aggregates all clothing and fashion vocabulary for the typing language
 
 #### Related Terms
 
-- [[靴下]] — 自動参照
+- 靴下 — 自動参照
 - [[clothing-vocabulary]] — 服語彙
 
 #### Cultural Notes
@@ -479,7 +478,7 @@ This page aggregates all clothing and fashion vocabulary for the typing language
 
 #### Related Terms
 
-- [[手袋]] — 自動参照
+- 手袋 — 自動参照
 - [[clothing-vocabulary]] — 服語彙
 
 #### Cultural Notes
@@ -511,7 +510,7 @@ This page aggregates all clothing and fashion vocabulary for the typing language
 
 #### Related Terms
 
-- [[帽子]] — 自動参照
+- 帽子 — 自動参照
 - [[clothing-vocabulary]] — 服語彙
 
 #### Cultural Notes
@@ -541,7 +540,7 @@ This page aggregates all clothing and fashion vocabulary for the typing language
 
 #### Related Terms
 
-- [[マフラー]] — 自動参照
+- マフラー — 自動参照
 - [[clothing-vocabulary]] — 服語彙
 
 #### Cultural Notes
@@ -573,7 +572,7 @@ This page aggregates all clothing and fashion vocabulary for the typing language
 
 #### Related Terms
 
-- [[絹]] — 自動参照
+- 絹 — 自動参照
 
 #### Cultural Notes
 
@@ -602,7 +601,7 @@ This page aggregates all clothing and fashion vocabulary for the typing language
 
 #### Related Terms
 
-- [[綿]] — 自動参照
+- 綿 — 自動参照
 
 #### Cultural Notes
 
@@ -631,7 +630,7 @@ This page aggregates all clothing and fashion vocabulary for the typing language
 
 #### Related Terms
 
-- [[羊毛]] — 自動参照
+- 羊毛 — 自動参照
 
 #### Cultural Notes
 
@@ -645,14 +644,37 @@ This page aggregates all clothing and fashion vocabulary for the typing language
 
 ## Sources
 
-- [[clothing-vocabulary-jp]]
+- [[clothing-vocabulary]]
 
 ---
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
-> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
+> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
 > The body above remains the human-readable form and is the source of truth.
 
+```yaml
+- { id: jp_clothing_vocabulary_001, display: "シャツ", input: "シャツ", meaning: "shirt", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: jp_clothing_vocabulary_002, display: "青いシャツ", input: "青いシャツ", meaning: "blue shirt", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: jp_clothing_vocabulary_003, display: "コート", input: "コート", meaning: "coat", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: jp_clothing_vocabulary_004, display: "セーター", input: "セーター", meaning: "sweater", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: jp_clothing_vocabulary_005, display: "ジャケット", input: "ジャケット", meaning: "jacket", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: jp_clothing_vocabulary_006, display: "ドレス", input: "ドレス", meaning: "dress", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: jp_clothing_vocabulary_007, display: "赤いドレス", input: "赤いドレス", meaning: "red dress", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: jp_clothing_vocabulary_008, display: "半袖", input: "半袖", meaning: "short sleeves", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: jp_clothing_vocabulary_009, display: "長袖", input: "長袖", meaning: "long sleeves", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: jp_clothing_vocabulary_010, display: "ズボン", input: "ズボン", meaning: "pants", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: jp_clothing_vocabulary_011, display: "白いズボン", input: "白いズボン", meaning: "white pants", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: jp_clothing_vocabulary_012, display: "スカート", input: "スカート", meaning: "skirt", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: jp_clothing_vocabulary_013, display: "靴", input: "靴", meaning: "shoes", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: jp_clothing_vocabulary_014, display: "黒い靴", input: "黒い靴", meaning: "black shoes", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: jp_clothing_vocabulary_015, display: "靴下", input: "靴下", meaning: "socks", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: jp_clothing_vocabulary_016, display: "手袋", input: "手袋", meaning: "gloves", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: jp_clothing_vocabulary_017, display: "帽子", input: "帽子", meaning: "hat/cap", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: jp_clothing_vocabulary_018, display: "マフラー", input: "マフラー", meaning: "scarf", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: jp_clothing_vocabulary_019, display: "絹", input: "絹", meaning: "silk", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: jp_clothing_vocabulary_020, display: "綿", input: "綿", meaning: "cotton", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: jp_clothing_vocabulary_021, display: "羊毛", input: "羊毛", meaning: "wool", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
 ```
+

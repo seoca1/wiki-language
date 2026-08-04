@@ -27,6 +27,15 @@
 
 Estudios de corpus (RAE, Davies) muestran que el **90% de subjuntivos en habla espontánea** son de cláusulas adverbiales (`cuando, antes de que, para que`) o desiderativas (`ojalá, espero que`). El subjuntivo "de libro" (en cláusulas adjetivas con antecedente incierto) es **raro en conversación** y aparece más en escritura.
 
+
+## Ejemplos de subjuntivo en conversación cotidiana
+
+«"Quiero que vengas" — el verbo querer dispara subjuntivo para expresar deseo.»
+«"Ojalá llueva" —Wish clauses en subjuntivo son la norma hispano.»
+«"Es importante que estudies" — el adjetivo importante + subjuntivo para exhortación es un patrón clave.»
+
+---
+
 ## Sources
 
 - [[notes-in-spanish-planes-de-verano]]
@@ -35,3 +44,6 @@ Estudios de corpus (RAE, Davies) muestran que el **90% de subjuntivos en habla e
 - para-que-subjuntivo
 - ojala
 - a-ver-si
+
+- *verb-conjugation-patterns* - Patrones de conjugación verbal
+- *mood-systems* - Indicativo vs. subjuntivo vs. imperativo

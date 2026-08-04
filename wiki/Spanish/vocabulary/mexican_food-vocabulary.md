@@ -45,11 +45,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** 
 
-**Definition:** 
+**Definition:** Carnitas (slow-cooked pork, Mexican).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /kaɾˈni.tas/
 
-**Etymology:** 
+**Etymology:** Plural diminutive of "carne" (meat). "Tacos de carnitas" = "carnitas tacos".
 
 #### Examples
 
@@ -72,11 +72,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** 
 
-**Definition:** 
+**Definition:** Chicken (poultry).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈpo.ʎo/ or /ˈpo.ʝo/
 
-**Etymology:** 
+**Etymology:** From Latin "pullus" (young animal). Universal. "Pollo asado" = "roasted chicken".
 
 #### Examples
 
@@ -101,11 +101,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** 
 
-**Definition:** 
+**Definition:** Beef (cattle meat).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /res/
 
-**Etymology:** 
+**Etymology:** From Latin "rēm" (thing, object), later specialized to cattle. "Carne de res" = "beef".
 
 #### Examples
 
@@ -128,11 +128,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** 
 
-**Definition:** 
+**Definition:** Fish (seafood).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /pesˈka.ðo/
 
-**Etymology:** 
+**Etymology:** From Latin "piscātus" (fished). Universal. "Pescado frito" = "fried fish".
 
 #### Examples
 
@@ -156,4 +156,15 @@ Contexto cultural por añadir
 
 ## Pipeline Form (machine-readable)
 
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
+> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: es_mexican_food_vocabulary_001, display: "al pastor", input: "al pastor", meaning: "**Pronunciation / IPA:**", level: "** A1-B1", category: "mexican_food-vocabulary", source: "[[mexican_food-vocabulary]]" }
+- { id: es_mexican_food_vocabulary_002, display: "carnitas", input: "carnitas", meaning: "Carnitas (slow-cooked pork, Mexican).", level: "** A1-B1", category: "mexican_food-vocabulary", source: "[[mexican_food-vocabulary]]" }
+- { id: es_mexican_food_vocabulary_003, display: "pollo", input: "pollo", meaning: "Chicken (poultry).", level: "** A1-B1", category: "mexican_food-vocabulary", source: "[[mexican_food-vocabulary]]" }
+- { id: es_mexican_food_vocabulary_004, display: "res", input: "res", meaning: "Beef (cattle meat).", level: "** A1-B1", category: "mexican_food-vocabulary", source: "[[mexican_food-vocabulary]]" }
+- { id: es_mexican_food_vocabulary_005, display: "pescado", input: "pescado", meaning: "Fish (seafood).", level: "** A1-B1", category: "mexican_food-vocabulary", source: "[[mexican_food-vocabulary]]" }
 ```
+

@@ -49,6 +49,6 @@ Español para fiestas, celebraciones, días especiales. Cultura hispana.
 
 ## Sources
 
-- [[daily-life-basics]] — vocabulario general
+- *daily-life-basics* — vocabulario general
 - [[dating-romance-es]] — situaciones sociales
 - Guía cultural hispana

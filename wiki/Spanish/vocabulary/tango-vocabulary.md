@@ -18,11 +18,11 @@ General
 
 **Part of Speech:** 
 
-**Definition:** 
+**Definition:** Abrazo / Embrace (tango hold).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /aˈbɾa.so/ or /aˈbɾa.θo/
 
-**Etymology:** 
+**Etymology:** From "abrazo" (embrace, hug). Central tango concept. "Cerrar el abrazo" = "to close the embrace (tighten the tango hold)".
 
 #### Examples
 
@@ -45,11 +45,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** 
 
-**Definition:** 
+**Definition:** Milonga (tango-related music/dance, faster).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /miˈloŋ.ɡa/
 
-**Etymology:** 
+**Etymology:** From Portuguese/Brazilian "milonga", possibly of African origin. Tango-related social dance.
 
 #### Examples
 
@@ -72,11 +72,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** 
 
-**Definition:** 
+**Definition:** Lunfardo (Buenos Aires tango slang).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /lunˈfaɾ.ðo/
 
-**Etymology:** 
+**Etymology:** From Italian "lombardo" (Lombard, region of Italy). Buenos Aires tango-era slang, originated from Italian immigrants.
 
 #### Examples
 
@@ -99,11 +99,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** 
 
-**Definition:** 
+**Definition:** Cabeceo (the nod, tango invitation gesture).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ka.βeˈθeo/ or /ka.beˈseo/
 
-**Etymology:** 
+**Etymology:** From Spanish "cabeza" (head) → "movement of the head". Traditional tango way to invite a partner across the room.
 
 #### Examples
 
@@ -126,11 +126,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** 
 
-**Definition:** 
+**Definition:** Mina (woman, tango lunfardo).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈmi.na/
 
-**Etymology:** 
+**Etymology:** Lunfardo slang. From Italian "mina" or possibly Arabic influence. Tango-era term for a woman.
 
 #### Examples
 
@@ -153,4 +153,15 @@ Contexto cultural por añadir
 
 ## Pipeline Form (machine-readable)
 
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
+> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: es_tango_vocabulary_001, display: "abrazo", input: "abrazo", meaning: "Abrazo / Embrace (tango hold).", level: "** A1-B1", category: "tango-vocabulary", source: "[[tango-vocabulary]]" }
+- { id: es_tango_vocabulary_002, display: "milonga", input: "milonga", meaning: "Milonga (tango-related music/dance, faster).", level: "** A1-B1", category: "tango-vocabulary", source: "[[tango-vocabulary]]" }
+- { id: es_tango_vocabulary_003, display: "lunfardo", input: "lunfardo", meaning: "Lunfardo (Buenos Aires tango slang).", level: "** A1-B1", category: "tango-vocabulary", source: "[[tango-vocabulary]]" }
+- { id: es_tango_vocabulary_004, display: "cabeceo", input: "cabeceo", meaning: "Cabeceo (the nod, tango invitation gesture).", level: "** A1-B1", category: "tango-vocabulary", source: "[[tango-vocabulary]]" }
+- { id: es_tango_vocabulary_005, display: "mina", input: "mina", meaning: "Mina (woman, tango lunfardo).", level: "** A1-B1", category: "tango-vocabulary", source: "[[tango-vocabulary]]" }
 ```
+

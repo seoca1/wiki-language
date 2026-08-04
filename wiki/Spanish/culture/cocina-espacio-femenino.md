@@ -26,6 +26,15 @@
 - En la **literatura feminista latinoamericana**, la cocina se reinterpreta como lugar de poder
 - La película (1992) lleva al extremo la metáfora: Tita **es** la cocina
 
+
+## Ejemplos de espacios y roles de género en la cocina
+
+«En las familias tradicionales mexicanas, la cocina era el centro del hogar donde la madre, las hijas y las abuelas transmitían recetas y saberes de generación en generación.»
+«Hoy muchas chefs mujeres mexicanas — como Elena Reygadas o Diana Kennedy — han convertido ese espacio privado en un escenario profesional y gastronómico.»
+«La frase "la cocina es el corazón de la casa" refleja la asociación histórica entre feminidad y cocina en la cultura hispana.»
+
+---
+
 ## Sources
 
 - [[como-agua-para-chocolate-cap1]]

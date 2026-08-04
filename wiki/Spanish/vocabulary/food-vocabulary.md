@@ -14,9 +14,7 @@ Esta página agrega todo el vocabulario de comida y restaurante para el corpus d
 
 ## Alimentos Básicos
 
-## Alimentos Básicos
 
-## Alimentos Básicos
 
 General
 
@@ -24,11 +22,11 @@ General
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Meat (animal flesh).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈkaɾ.ne/
 
-**Etymology:** 
+**Etymology:** From Latin "carnem". Universal. "Carne de res" = "beef".
 
 #### Examples
 
@@ -37,7 +35,7 @@ General
 
 #### Related Terms
 
-- [[carne]] — Autoreferencia
+- carne — Autoreferencia
 - [[food-vocabulary]] — Vocabulario de comida
 
 #### Cultural Notes
@@ -162,11 +160,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Chicken (poultry).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈpo.ʎo/ or /ˈpo.ʝo/
 
-**Etymology:** 
+**Etymology:** From Latin "pullus" (young animal). Universal. "Pollo asado" = "roast chicken".
 
 #### Examples
 
@@ -175,7 +173,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[pollo]] — Autoreferencia
+- pollo — Autoreferencia
 - [[animals-vocabulary]] — Vocabulario de animales
 - [[food-vocabulary]] — Vocabulario de comida
 
@@ -301,11 +299,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Egg (food item).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈwe.βo/
 
-**Etymology:** 
+**Etymology:** From Latin "ovum". Universal. "Huevo frito" = "fried egg".
 
 #### Examples
 
@@ -314,7 +312,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[huevo]] — Autoreferencia
+- huevo — Autoreferencia
 
 #### Cultural Notes
 
@@ -438,11 +436,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Cheese (dairy product).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈke.so/
 
-**Etymology:** 
+**Etymology:** From Latin "caseus". Universal. "Queso manchego" = "Manchego cheese".
 
 #### Examples
 
@@ -451,7 +449,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[queso]] — Autoreferencia
+- queso — Autoreferencia
 
 #### Cultural Notes
 
@@ -575,11 +573,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Bread (baked grain food).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /pan/
 
-**Etymology:** 
+**Etymology:** From Latin "pānis". Universal. "Pan integral" = "whole wheat bread".
 
 #### Examples
 
@@ -588,7 +586,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[pan]] — Autoreferencia
+- pan — Autoreferencia
 - [[food-vocabulary]] — Vocabulario de comida
 
 #### Cultural Notes
@@ -713,11 +711,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Pasta / Paste (Italian-style noodles).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈpas.ta/
 
-**Etymology:** 
+**Etymology:** From Italian "pasta" (paste). Universal. "Pasta italiana" = "Italian pasta".
 
 #### Examples
 
@@ -726,7 +724,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[pasta]] — Autoreferencia
+- pasta — Autoreferencia
 
 #### Cultural Notes
 
@@ -848,56 +846,32 @@ Contexto cultural por añadir
 
 ### cebolla
 
-**Part of Speech:** sustantivo
+**Part of Speech:** sustantivo (femenino)
 
-**Definition:** 
+**Definition:** Cebolla / Onion (vegetable). In *Como agua para chocolate*, the onion's tears become magical: Tita's tears mix with onion juice while peeling, transferring her emotions into the food.
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /θeˈβo.ʎa/ (Spain) or /seˈβo.ʝa/ (Latin America)
 
-**Etymology:** 
-
-#### Examples
-
-- Necesito un cebolla. — Expresando necesidad
-- El cebolla está aquí. — Ubicación/presencia
-
-#### Related Terms
-
-- [[cebolla]] — Autoreferencia
-
-#### Cultural Notes
-
-Contexto cultural por añadir
-
-#### Sources
-
-- [[food-vocabulary]]
-
----
-
-### Examples
-
-**Part of Speech:** 
-
-**Definition:** 
-
-**Pronunciation / IPA:** 
-
-**Etymology:** 
+**Etymology:** From Latin "cēpulla" (diminutive of "cēpa"). Universal. "Cebolla picada" = "chopped onion".
 
 #### Examples
 
-- Examples — Oración de ejemplo necesaria
+- *Tita pelaba las **cebollas** y no podía evitar que se le escaparan algunas lágrimas.* — Como agua para chocolate
+- *La **cebolla** hace llorar a cualquiera.* — Uso general
+- *Agrega **cebolla** picada al sofrito.* — Cocina
 
 #### Related Terms
 
+- *llorar-como-una-magdalena* — expresión relacionada (llorar mucho)
+- *a-fuego-lento* — técnica culinaria (aparece en la novela)
 
 #### Cultural Notes
 
-Contexto cultural por añadir
+En *Como agua para chocolate*, las cebollas son el catalizador de la magia culinaria de Tita: sus lágrimas al pelarlas se mezclan con la comida y transmiten su tristeza a quienes la comen. La cocina se convierte en el único espacio donde Tita puede expresar sus emociones reprimidas. En México, "cebolla" también se usa en expresiones como "ponerse la cebolla" (emborracharse, coloquial).
 
 #### Sources
 
+- [[como-agua-para-chocolate-cap1]]
 - [[food-vocabulary]]
 
 ---
@@ -987,11 +961,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Water (H₂O).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈa.ɣwa/
 
-**Etymology:** 
+**Etymology:** From Latin "aqua". Universal. "Agua del grifo" = "tap water".
 
 #### Examples
 
@@ -1000,7 +974,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[agua]] — Autoreferencia
+- agua — Autoreferencia
 - [[food-vocabulary]] — Vocabulario de comida
 
 #### Cultural Notes
@@ -1125,11 +1099,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Coffee (beverage and plant).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /kaˈfe/
 
-**Etymology:** 
+**Etymology:** From Turkish "kahve" via Arabic "qahwa". Universal. "Café con leche" = "coffee with milk".
 
 #### Examples
 
@@ -1138,7 +1112,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[café]] — Autoreferencia
+- café — Autoreferencia
 - [[food-vocabulary]] — Vocabulario de comida
 
 #### Cultural Notes
@@ -1263,11 +1237,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Tea (beverage).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /te/
 
-**Etymology:** 
+**Etymology:** From Chinese "茶" (cha) via Malay "teh". Universal. "Té verde" = "green tea".
 
 #### Examples
 
@@ -1276,7 +1250,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[té]] — Autoreferencia
+- té — Autoreferencia
 - [[food-vocabulary]] — Vocabulario de comida
 
 #### Cultural Notes
@@ -1401,11 +1375,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Wine (fermented grape beverage).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈbi.no/
 
-**Etymology:** 
+**Etymology:** From Latin "vīnum". Universal. "Vino tinto" = "red wine".
 
 #### Examples
 
@@ -1414,7 +1388,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[vino]] — Autoreferencia
+- vino — Autoreferencia
 - [[food-vocabulary]] — Vocabulario de comida
 
 #### Cultural Notes
@@ -1539,11 +1513,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Beer (fermented beverage).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /θeɾˈβe.sa/ or /seɾˈβe.sa/
 
-**Etymology:** 
+**Etymology:** From Latin "cerevisia" (Celtic origin). Universal. "Cerveza artesanal" = "craft beer".
 
 #### Examples
 
@@ -1552,7 +1526,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[cerveza]] — Autoreferencia
+- cerveza — Autoreferencia
 - [[food-vocabulary]] — Vocabulario de comida
 
 #### Cultural Notes
@@ -1677,11 +1651,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Menu (list of dishes).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /meˈnu/
 
-**Etymology:** 
+**Etymology:** From French "menu". "Menú del día" = "menu of the day".
 
 #### Examples
 
@@ -1690,7 +1664,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[menú]] — Autoreferencia
+- menú — Autoreferencia
 
 #### Cultural Notes
 
@@ -1814,11 +1788,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Order (request for food/service).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /peˈði.ðo/
 
-**Etymology:** 
+**Etymology:** From "pedir" (to request). Universal. "Hacer un pedido" = "to place an order".
 
 #### Examples
 
@@ -1827,7 +1801,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[pedido]] — Autoreferencia
+- pedido — Autoreferencia
 
 #### Cultural Notes
 
@@ -1951,11 +1925,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Bill / Check (restaurant).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈkwen.ta/
 
-**Etymology:** 
+**Etymology:** From Latin "compŭta". "La cuenta, por favor" = "The bill, please".
 
 #### Examples
 
@@ -1964,7 +1938,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[cuenta]] — Autoreferencia
+- cuenta — Autoreferencia
 
 #### Cultural Notes
 
@@ -2088,11 +2062,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Breakfast (morning meal).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /de.saˈʝu.no/
 
-**Etymology:** 
+**Etymology:** From "des- " (un-) + "ayuno" (fast, breakfast). "Desayuno continental" = "continental breakfast".
 
 #### Examples
 
@@ -2101,7 +2075,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[desayuno]] — Autoreferencia
+- desayuno — Autoreferencia
 
 #### Cultural Notes
 
@@ -2225,11 +2199,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Lunch (midday meal).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /alˈmweɾ.so/ or /alˈmwer.so/
 
-**Etymology:** 
+**Etymology:** From "al- " (the) + "muerzo" (snack, meal). "Almuerzo de trabajo" = "working lunch".
 
 #### Examples
 
@@ -2238,7 +2212,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[almuerzo]] — Autoreferencia
+- almuerzo — Autoreferencia
 
 #### Cultural Notes
 
@@ -2362,11 +2336,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Dinner / Supper (evening meal).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈθe.na/ or /ˈse.na/
 
-**Etymology:** 
+**Etymology:** From Latin "cēna". Universal. "Cena romántica" = "romantic dinner".
 
 #### Examples
 
@@ -2375,7 +2349,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[cena]] — Autoreferencia
+- cena — Autoreferencia
 
 #### Cultural Notes
 
@@ -2499,11 +2473,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Restaurant (dining establishment).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /res.tawˈɾan.te/
 
-**Etymology:** 
+**Etymology:** From French "restaurant" (restorative). Universal. "Restaurante de lujo" = "luxury restaurant".
 
 #### Examples
 
@@ -2512,7 +2486,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[restaurante]] — Autoreferencia
+- restaurante — Autoreferencia
 
 #### Cultural Notes
 
@@ -2636,11 +2610,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Delicious (feminine adjective).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /de.liˈθjo.sa/ or /de.liˈsjo.sa/
 
-**Etymology:** 
+**Etymology:** Feminine of "delicioso". "¡Está deliciosa!" = "It's delicious!"
 
 #### Examples
 
@@ -2649,7 +2623,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[deliciosa]] — Autoreferencia
+- deliciosa — Autoreferencia
 
 #### Cultural Notes
 
@@ -2773,11 +2747,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Sweet (taste, also candy).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈdul.θe/ or /ˈdul.se/
 
-**Etymology:** 
+**Etymology:** From Latin "dulcis". Universal. "Postre dulce" = "sweet dessert".
 
 #### Examples
 
@@ -2786,7 +2760,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[dulce]] — Autoreferencia
+- dulce — Autoreferencia
 
 #### Cultural Notes
 
@@ -2910,11 +2884,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Spicy / Hot (taste).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /piˈkan.te/
 
-**Etymology:** 
+**Etymology:** From Italian "piccante". Universal. "Comida picante" = "spicy food".
 
 #### Examples
 
@@ -2923,7 +2897,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[picante]] — Autoreferencia
+- picante — Autoreferencia
 
 #### Cultural Notes
 
@@ -3045,32 +3019,35 @@ Contexto cultural por añadir
 
 ### receta
 
-**Part of Speech:** sustantivo
+**Part of Speech:** sustantivo (femenino)
 
-**Definition:** 
+**Definition:** Receta / Recipe (cooking instructions). Central to *Como agua para chocolate* — each chapter opens with a recipe that structures the narrative.
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /reˈθe.ta/ (Spain) or /reˈse.ta/ (Latin America)
 
-**Etymology:** 
+**Etymology:** From Latin "recipere" (to receive/take). "Receta médica" = "prescription"; "receta de cocina" = "cooking recipe".
 
 #### Examples
 
-- Necesito un receta. — Expresando necesidad
-- El receta está aquí. — Ubicación/presencia
+- *El capítulo abre con una **receta** para tortas de Navidad.* — Como agua para chocolate
+- *Sigue la **receta** paso a paso.* — Cocina
+- *La **receta** de la abuela es secreta.* — Uso familiar
 
 #### Related Terms
 
-- [[receta]] — Autoreferencia
+- *a-fuego-lento* — técnica culinaria
+- [[cocina-espacio-femenino]] — concepto cultural
 
 #### Cultural Notes
 
-Contexto cultural por añadir
+En *Como agua para chocolate*, la estructura de recetario no es decorativa: cada receta del mes marca el tono emocional del capítulo. La receta de "Tortas de Navidad" del Capítulo 1 (Enero) establece el patrón: los ingredientes y la preparación reflejan el estado de Tita. En México, "receta" también implica transmisión familiar — "receta de la abuela" es un tesoro cultural.
 
 #### Sources
 
+- [[como-agua-para-chocolate-cap1]]
 - [[food-vocabulary]]
-
 ---
+
 
 ### Examples
 
@@ -3186,10 +3163,228 @@ Contexto cultural por añadir
 
 ---
 
+### masa
+
+**Part of Speech:** sustantivo (femenino)
+
+**Definition:** Masa / Dough (corn or flour base for tortillas, tamales, etc.). Fundamental to Mexican cuisine.
+
+**Pronunciation / IPA:** /ˈma.sa/
+
+**Etymology:** From Latin "massa" (lump, dough). "Masa de maíz" = "corn dough"; "masa para tortillas" = "tortilla dough".
+
+#### Examples
+
+- *La **masa** de maíz se hace con maíz nixtamalizado.* — Cocina mexicana
+- *Amasa la **masa** hasta que esté suave.* — Preparación
+- *Tortillas hechas con **masa** fresca.* — Comida
+
+#### Related Terms
+
+- *molcajete* — herramienta para moler
+- *tortilla* — producto final
+
+#### Cultural Notes
+
+La masa es la base de la alimentación mesoamericana. El proceso de nixtamalización (cocer maíz en agua con cal) transforma el maíz en masa nutritiva y manejable. En *Como agua para chocolate*, la masa aparece implícita en las tortas y tamales. "Hacer masa" es una actividad comunitaria y ritual en muchas comunidades mexicanas.
+
+#### Sources
+
+- [[como-agua-para-chocolate-cap1]]
+- [[food-vocabulary]]
+---
+
+### molcajete
+
+**Part of Speech:** sustantivo (masculino)
+
+**Definition:** Molcajete / Stone mortar (traditional Mexican mortar made from volcanic rock). Used for grinding salsas, spices, guacamole.
+
+**Pronunciation / IPA:** /mol.kaˈxe.te/
+
+**Etymology:** From Nahuatl "molcaxitl" (molca = sauce, xitl = bowl/container). Pre-hispanic tool still essential in Mexican kitchens.
+
+#### Examples
+
+- *Muele los chiles en el **molcajete**.* — Como agua para chocolate / cocina tradicional
+- *El **molcajete** da sabor a la salsa.* — Cocina
+- *Salsa de **molcajete** sabe diferente a la de licuadora.* — Opinión culinaria
+
+#### Related Terms
+
+- *tejolote* — mano del molcajete (pestle)
+- *masa* — se puede hacer en molcajete
+
+#### Cultural Notes
+
+El molcajete es herencia pre-hispánica: piedra volcánica porosa que "recuerda" los sabores. Cada familia tiene su molcajete curado por generaciones. En la novela, Nacha (la cocinera) usa el molcajete para preparar salsas que acompañan las emociones de Tita. "Salsa de molcajete" implica autenticidad y tradición frente a electrodomésticos modernos.
+
+#### Sources
+
+- [[como-agua-para-chocolate-cap1]]
+- [[food-vocabulary]]
+---
+
+### tapas
+
+**Part of Speech:** sustantivo (femenino, plural)
+
+**Definition:** Tapas / Small savory dishes served with drinks. En España, tradición de aperitivo gratuito o de bajo coste que acompaña la bebida.
+
+**Pronunciation / IPA:** /ˈta.pas/
+
+**Etymology:** From "tapar" (cubrir). Originalmente loncha de jamón/queso que cubría la copa de vino para evitar polvo/moscas.
+
+#### Examples
+
+- *En Granada, las **tapas** son gratis con la caña.* — Cultura andaluza
+- *Vamos de **tapas** por el centro.* — Plan social
+- *Una **tapa** de tortilla y una caña, por favor.* — Pedido en bar
+
+#### Related Terms
+
+- *pincho* — variante norteña (País Vasco, Navarra)
+- *raciones* — porciones mayores para compartir
+- *menu-del-dia* — menú completo almuerzo
+
+#### Cultural Notes
+
+La cultura de **tapas** varía radicalmente por regiones: en Andalucía (Granada, Almería, Jaén) la tapa es **gratis** con la bebida; en Madrid se paga pero es generosa; en País Vasco se llaman **pintxos** y se pagan por unidad. "Ir de tapas" (tapear) es actividad social principal: moverse de bar en bar, una tapa + una bebida en cada uno. En *Notes in Spanish*, Ben y Marina discuten cómo la tapa gratuita moldea la vida social andaluza vs. el "pincho" de pago del norte.
+
+#### Sources
+
+- [[notes-in-spanish-listening-log]]
+- [[food-vocabulary]]
+---
+
+### cafe
+
+**Part of Speech:** sustantivo (masculino)
+
+**Definition:** Café / Coffee. Bebida de granos de café tostados y molidos. "Café" = grano, planta, bebida, establecimiento (cafetería).
+
+**Pronunciation / IPA:** /kaˈfe/
+
+**Etymology:** From Turkish "kahve" via Arabic "qahwa" (vino de la planta). Llegó a Europa s. XVII.
+
+#### Examples
+
+- *Un **café** solo, por favor.* — Espresso (España)
+- ***Café** con leche* — Desayuno estándar
+- *Nos vemos en el **café** de la esquina.* — Lugar
+
+#### Related Terms
+
+- *cafe-con-leche* — estándar desayuno
+- *cortado* — espresso + poca leche
+- *cafe-solo* — espresso
+- *te* — alternativa
+
+#### Cultural Notes
+
+**España**: Cultura de bar: "café solo" (espresso), "cortado" (espresso + leche), "café con leche" (50/50, taza grande), "café americano" (aguado), "carajillo" (con licor). **México**: "Café de olla" (canela, piloncillo, olla barro), "americano" (filtro). **Colombia**: "Tinto" (negro, azúcar), "pintado" (con leche). **Argentina**: "Café con leche" + medialunas. En *comida-y-restaurante*, "café" = bebida post-comida / desayuno.
+
+#### Sources
+
+- [[comida-y-restaurante]]
+- [[food-vocabulary]]
+---
+
+### te
+
+**Part of Speech:** sustantivo (masculino)
+
+**Definition:** Té / Tea. Infusión de hojas de Camellia sinensis. Tipos: negro, verde, blanco, rojo, oolong.
+
+**Pronunciation / IPA:** /te/
+
+**Etymology:** From Chinese "茶" (chá) via Malay "teh" (Amoy) → portugués "chá" → neerlandés "thee" → inglés "tea" → español "té".
+
+#### Examples
+
+- *Un **té** verde, por favor.* — Pedido
+- ***Té** negro con leche* — Inglés
+- *¿**Té** o café?* — Alternativa
+
+#### Related Terms
+
+- *infusion* — genérico (hierbas, frutas)
+- *te-verde* — antioxidantes
+- *te-negro* — teína alta
+- *cafe* — alternativa cafeína
+
+#### Cultural Notes
+
+**España**: Té = digestivo, tarde, cafés/teterías. "Té con leche" (inglés). **México**: "Té de manzanilla" (digestivo), "té de limón" (gripe). **Argentina**: "Té con leche" (merienda), mate = infusión distinta (Ilex paraguariensis). **Marruecos/Andalucía**: "Té moruno" (verde + menta + azúcar, ritual). En *comida-y-restaurante*, "té" = alternativa café, digestivo.
+
+#### Sources
+
+- [[comida-y-restaurante]]
+- [[food-vocabulary]]
+---
+
+### delicioso
+
+**Part of Speech:** adjetivo
+
+**Definition:** Delicioso / Delicious, exquisite. Sabor muy agradable, exquisito. "Está delicioso" = "It's delicious".
+
+**Pronunciation / IPA:** /de.liˈθjo.so/ (Spain) or /de.liˈsjo.so/ (Latin America)
+
+**Etymology:** From Latin "dēliciōsus" (delicioso, voluptuoso). De "delicia" (deleite).
+
+#### Examples
+
+- *¡Está **delicioso**!* — Elogio comida
+- *Un plato **delicioso**.* — Descripción
+- *Cocina **deliciosa**.* — Restaurante
+
+#### Related Terms
+
+- *rico* — coloquial "está rico"
+- *sabroso* — con sabor
+- *exquisito* — más formal
+- *bueno* — básico
+
+#### Cultural Notes
+
+**España**: "¡Está delicioso!" / "¡Qué rico!" (coloquial). **México**: "¡Está riquísimo!" / "¡Qué delicia!". **Argentina**: "¡Está riquísimo!" / "¡Qué rico!". **Diferencia**: "Delicioso" = formal/elogio alto; "Rico" = cotidiano. En *comida-y-restaurante*, "Está delicioso" = expresión de satisfacción post-comida.
+
+#### Sources
+
+- [[comida-y-restaurante]]
+- [[food-vocabulary]]
+---
+
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
-> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
+> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
 > The body above remains the human-readable form and is the source of truth.
 
+```yaml
+- { id: es_food_vocabulary_001, display: "carne", input: "carne", meaning: "Meat (animal flesh).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: es_food_vocabulary_002, display: "pollo", input: "pollo", meaning: "Chicken (poultry).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: es_food_vocabulary_003, display: "huevo", input: "huevo", meaning: "Egg (food item).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: es_food_vocabulary_004, display: "queso", input: "queso", meaning: "Cheese (dairy product).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: es_food_vocabulary_005, display: "pan", input: "pan", meaning: "Bread (baked grain food).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: es_food_vocabulary_006, display: "pasta", input: "pasta", meaning: "Pasta / Paste (Italian-style noodles).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: es_food_vocabulary_007, display: "cebolla", input: "cebolla", meaning: "Onion (vegetable).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: es_food_vocabulary_008, display: "agua", input: "agua", meaning: "Water (H₂O).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: es_food_vocabulary_009, display: "café", input: "café", meaning: "Coffee (beverage and plant).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: es_food_vocabulary_010, display: "té", input: "té", meaning: "Tea (beverage).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: es_food_vocabulary_011, display: "vino", input: "vino", meaning: "Wine (fermented grape beverage).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: es_food_vocabulary_012, display: "cerveza", input: "cerveza", meaning: "Beer (fermented beverage).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: es_food_vocabulary_013, display: "menú", input: "menú", meaning: "Menu (list of dishes).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: es_food_vocabulary_014, display: "pedido", input: "pedido", meaning: "Order (request for food/service).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: es_food_vocabulary_015, display: "cuenta", input: "cuenta", meaning: "Bill / Check (restaurant).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: es_food_vocabulary_016, display: "desayuno", input: "desayuno", meaning: "Breakfast (morning meal).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: es_food_vocabulary_017, display: "almuerzo", input: "almuerzo", meaning: "Lunch (midday meal).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: es_food_vocabulary_018, display: "cena", input: "cena", meaning: "Dinner / Supper (evening meal).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: es_food_vocabulary_019, display: "restaurante", input: "restaurante", meaning: "Restaurant (dining establishment).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: es_food_vocabulary_020, display: "deliciosa", input: "deliciosa", meaning: "Delicious (feminine adjective).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: es_food_vocabulary_021, display: "dulce", input: "dulce", meaning: "Sweet (taste, also candy).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: es_food_vocabulary_022, display: "picante", input: "picante", meaning: "Spicy / Hot (taste).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: es_food_vocabulary_023, display: "receta", input: "receta", meaning: "Recipe (cooking instructions).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
 ```
+

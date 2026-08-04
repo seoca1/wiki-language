@@ -31,7 +31,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[기쁨]] — 동일어 반복 확인
+- 기쁨 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -60,7 +60,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[슬픔]] — 동일어 반복 확인
+- 슬픔 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -89,7 +89,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[화남]] — 동일어 반복 확인
+- 화남 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -118,7 +118,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[두려움]] — 동일어 반복 확인
+- 두려움 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -147,7 +147,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[놀람]] — 동일어 반복 확인
+- 놀람 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -176,7 +176,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[싫음]] — 동일어 반복 확인
+- 싫음 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -205,7 +205,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[부러움]] — 동일어 반복 확인
+- 부러움 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -234,7 +234,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[후회]] — 동일어 반복 확인
+- 후회 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -263,7 +263,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[불안]] — 동일어 반복 확인
+- 불안 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -292,7 +292,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[죄책감]] — 동일어 반복 확인
+- 죄책감 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -321,7 +321,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[당황]] — 동일어 반복 확인
+- 당황 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -350,7 +350,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[갑갑]] — 동일어 반복 확인
+- 갑갑 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -381,7 +381,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[설렘]] — 동일어 반복 확인
+- 설렘 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -410,7 +410,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[그립다]] — 어간 확인
+- 그립다 — 어간 확인
 
 #### Cultural Notes
 
@@ -439,7 +439,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[그리움]] — 동일어 반복 확인
+- 그리움 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -497,7 +497,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[안심]] — 동일어 반복 확인
+- 안심 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -526,7 +526,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[흡족]] — 동일어 반복 확인
+- 흡족 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -555,7 +555,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[감동]] — 동일어 반복 확인
+- 감동 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -584,7 +584,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[감격]] — 동일어 반복 확인
+- 감격 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -613,7 +613,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[흐뭏]] — 동일어 반복 확인
+- 흐뭏 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -642,7 +642,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[서글픔]] — 동일어 반복 확인
+- 서글픔 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -671,7 +671,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[벅찰]] — 동일어 반복 확인
+- 벅찰 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -700,7 +700,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[뛰놀림]] — 동일어 반복 확인
+- 뛰놀림 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -731,7 +731,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[착하다]] — 동일어 반복 확인
+- 착하다 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -760,7 +760,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[이쁘다]] — 동일어 반복 확인
+- 이쁘다 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -789,7 +789,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[예쁘다]] — 동일어 반복 확인
+- 예쁘다 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -818,7 +818,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[귀엽다]] — 동일어 반복 확인
+- 귀엽다 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -847,7 +847,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[멋있다]] — 동일어 반복 확인
+- 멋있다 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -876,7 +876,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[잘생겼다]] — 동일어 반복 확인
+- 잘생겼다 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -905,7 +905,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[훌륭하다]] — 동일어 반복 확인
+- 훌륭하다 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -934,7 +934,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[대단하다]] — 동일어 반복 확인
+- 대단하다 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -963,7 +963,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[다정하다]] — 동일어 반복 확인
+- 다정하다 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -992,7 +992,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[따뜻하다]] — 동일어 반복 확인
+- 따뜻하다 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1021,7 +1021,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[순수하다]] — 동일어 반복 확인
+- 순수하다 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1050,7 +1050,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[정직하다]] — 동일어 반복 확인
+- 정직하다 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1108,7 +1108,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[성실하다]] — 동일어 반복 확인
+- 성실하다 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1137,7 +1137,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[밝다]] — 동일어 반복 확인
+- 밝다 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1166,7 +1166,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[활발하다]] — 동일어 반복 확인
+- 활발하다 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1195,7 +1195,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[친절하다]] — 동일어 반복 확인
+- 친절하다 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1224,7 +1224,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[친근하다]] — 동일어 반복 확인
+- 친근하다 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1253,7 +1253,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[침착하다]] — 동일어 반복 확인
+- 침착하다 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1284,7 +1284,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[나쁘다]] — 동일어 반복 확인
+- 나쁘다 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1313,7 +1313,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[못생겼다]] — 동일어 반복 확인
+- 못생겼다 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1342,7 +1342,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[불친절하다]] — 동일어 반복 확인
+- 불친절하다 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1371,7 +1371,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[무례하다]] — 동일어 반복 확인
+- 무례하다 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1400,7 +1400,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[무책임하다]] — 동일어 반복 확인
+- 무책임하다 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1429,7 +1429,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[게으르다]] — 동일어 반복 확인
+- 게으르다 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1458,7 +1458,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[성급하다]] — 동일어 반복 확인
+- 성급하다 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1487,7 +1487,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[변덕스럽다]] — 동일어 반복 확인
+- 변덕스럽다 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1516,7 +1516,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[거짓말쟁이]] — 동일어 반복 확인
+- 거짓말쟁이 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1574,7 +1574,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[옹졸하다]] — 동일어 반복 확인
+- 옹졸하다 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1779,7 +1779,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[놀라다]] — 어간 확인
+- 놀라다 — 어간 확인
 
 #### Cultural Notes
 
@@ -1866,7 +1866,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[후회]] — 어간 확인
+- 후회 — 어간 확인
 
 #### Cultural Notes
 
@@ -1924,7 +1924,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[당황]] — 어간 확인
+- 당황 — 어간 확인
 
 #### Cultural Notes
 
@@ -1953,7 +1953,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[감동]] — 어간 확인
+- 감동 — 어간 확인
 
 #### Cultural Notes
 
@@ -2040,7 +2040,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[비참하다]] — 동일어 반복 확인
+- 비참하다 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -2100,7 +2100,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[힘들다]] — 어간 확인
+- 힘들다 — 어간 확인
 
 #### Cultural Notes
 
@@ -2158,7 +2158,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[지치다]] — 어간 확인
+- 지치다 — 어간 확인
 
 #### Cultural Notes
 
@@ -2216,7 +2216,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[홈입다]] — 어간 확인
+- 홈입다 — 어간 확인
 
 #### Cultural Notes
 
@@ -2245,7 +2245,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[한심하다]] — 동일어 반복 확인
+- 한심하다 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -2274,7 +2274,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[야속하다]] — 동일어 반복 확인
+- 야속하다 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -2303,7 +2303,7 @@ theme: "emotions-personality"
 
 #### Related Terms
 
-- [[울적하다]] — 동일어 반복 확인
+- 울적하다 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -2497,8 +2497,95 @@ theme: "emotions-personality"
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
-> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
+> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
 > The body above remains the human-readable form and is the source of truth.
 
+```yaml
+- { id: kr_emotions_personality_vocabulary_001, display: "기쁨", input: "기쁨", meaning: "happiness", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_002, display: "슬픔", input: "슬픔", meaning: "sadness", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_003, display: "화남", input: "화남", meaning: "anger", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_004, display: "두려움", input: "두려움", meaning: "fear", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_005, display: "놀람", input: "놀람", meaning: "surprise", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_006, display: "싫음", input: "싫음", meaning: "dislike", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_007, display: "부러움", input: "부러움", meaning: "envy", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_008, display: "후회", input: "후회", meaning: "regret", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_009, display: "불안", input: "불안", meaning: "anxiety", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_010, display: "죄책감", input: "죄책감", meaning: "guilt", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_011, display: "당황", input: "당황", meaning: "embarrassment", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_012, display: "갑갑", input: "갑갑", meaning: "frustration/ suffocation", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_013, display: "설렘", input: "설렘", meaning: "flutter/excitement", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_014, display: "그립다", input: "그립다", meaning: "to miss (someone/something)", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_015, display: "그리움", input: "그리움", meaning: "longing/missing", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_016, display: "보고 싶다", input: "보고 싶다", meaning: "to miss (someone)", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_017, display: "안심", input: "안심", meaning: "relief", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_018, display: "흡족", input: "흡족", meaning: "satisfaction", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_019, display: "감동", input: "감동", meaning: "deep emotion/touched", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_020, display: "감격", input: "감격", meaning: "overwhelming emotion", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_021, display: "흐뭏", input: "흐뭏", meaning: "slightly sad/empty", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_022, display: "서글픔", input: "서글픔", meaning: "slight sadness", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_023, display: "벅찰", input: "벅찰", meaning: "being overwhelmed", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_024, display: "뛰놀림", input: "뛰놀림", meaning: "jumping for joy", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_025, display: "착하다", input: "착하다", meaning: "kind/good-natured", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_026, display: "이쁘다", input: "이쁘다", meaning: "pretty/cute", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_027, display: "예쁘다", input: "예쁘다", meaning: "beautiful/pretty", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_028, display: "귀엽다", input: "귀엽다", meaning: "adorable", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_029, display: "멋있다", input: "멋있다", meaning: "cool/handsome", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_030, display: "잘생겼다", input: "잘생겼다", meaning: "handsome (male)", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_031, display: "훌륭하다", input: "훌륭하다", meaning: "splendid/excellent", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_032, display: "대단하다", input: "대단하다", meaning: "great/amazing", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_033, display: "다정하다", input: "다정하다", meaning: "affectionate", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_034, display: "따뜻하다", input: "따뜻하다", meaning: "warm (personality)", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_035, display: "순수하다", input: "순수하다", meaning: "pure/innocent", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_036, display: "정직하다", input: "정직하다", meaning: "honest", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_037, display: "책임감 있다", input: "책임감 있다", meaning: "responsible", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_038, display: "성실하다", input: "성실하다", meaning: "diligent", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_039, display: "밝다", input: "밝다", meaning: "bright/cheerful", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_040, display: "활발하다", input: "활발하다", meaning: "lively", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_041, display: "친절하다", input: "친절하다", meaning: "kind/considerate", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_042, display: "친근하다", input: "친근하다", meaning: "familiar/approachable", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_043, display: "침착하다", input: "침착하다", meaning: "calm/settled", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_044, display: "나쁘다", input: "나쁘다", meaning: "bad", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_045, display: "못생겼다", input: "못생겼다", meaning: "ugly", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_046, display: "불친절하다", input: "불친절하다", meaning: "unkind", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_047, display: "무례하다", input: "무례하다", meaning: "rude", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_048, display: "무책임하다", input: "무책임하다", meaning: "irresponsible", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_049, display: "게으르다", input: "게으르다", meaning: "lazy", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_050, display: "성급하다", input: "성급하다", meaning: "hasty", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_051, display: "변덕스럽다", input: "변덕스럽다", meaning: "fickle", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_052, display: "거짓말쟁이", input: "거짓말쟁이", meaning: "liar", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_053, display: "배짱이 두둡다", input: "배짱이 두둡다", meaning: "thick-skinned", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_054, display: "옹졸하다", input: "옹졸하다", meaning: "petty", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_055, display: "욕심 많다", input: "욕심 많다", meaning: "greedy", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_056, display: "얄미워하다", input: "얄미워하다", meaning: "to be annoying", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_057, display: "질투하다", input: "질투하다", meaning: "to be jealous", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_058, display: "기뻐하다", input: "기뻐하다", meaning: "to be happy", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_059, display: "화나하다", input: "화나하다", meaning: "to be angry", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_060, display: "두려워하다", input: "두려워하다", meaning: "to be afraid", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_061, display: "놀라다", input: "놀라다", meaning: "to be surprised", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_062, display: "싫어하다", input: "싫어하다", meaning: "to dislike", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_063, display: "부러워하다", input: "부러워하다", meaning: "to envy", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_064, display: "후회하다", input: "후회하다", meaning: "to regret", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_065, display: "불안해하다", input: "불안해하다", meaning: "to feel anxious", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_066, display: "당황하다", input: "당황하다", meaning: "to be embarrassed", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_067, display: "감동하다", input: "감동하다", meaning: "to be moved/touched", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_068, display: "행복하다", input: "행복하다", meaning: "to be happy", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_069, display: "평범하다", input: "평범하다", meaning: "to be ordinary", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_070, display: "비참하다", input: "비참하다", meaning: "miserable", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_071, display: "잘 지내다", input: "잘 지내다", meaning: "to do well", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_072, display: "힘들다", input: "힘들다", meaning: "to be difficult/hard", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_073, display: "쉬하다", input: "쉬하다", meaning: "to rest", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_074, display: "지치다", input: "지치다", meaning: "to get exhausted", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_075, display: "답답하다", input: "답답하다", meaning: "to feel frustrated", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_076, display: "홈입다", input: "홈입다", meaning: "to feel suffocated/trapped", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_077, display: "한심하다", input: "한심하다", meaning: "pathetic", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_078, display: "야속하다", input: "야속하다", meaning: "cold/heartless", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_079, display: "울적하다", input: "울적하다", meaning: "melancholic", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_080, display: "눈물이 나다", input: "눈물이 나다", meaning: "to tear up", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_081, display: "가슴이 벅차다", input: "가슴이 벅차다", meaning: "to be overwhelmed with emotion", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_082, display: "마음이 아프다", input: "마음이 아프다", meaning: "to feel heartache", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_083, display: "미안하다", input: "미안하다", meaning: "to feel sorry", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_084, display: "걸 않다", input: "걸 않다", meaning: "to not suit/fit", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotions_personality_vocabulary_085, display: "어울리지 않다", input: "어울리지 않다", meaning: "to not get along", level: "TOPIK 1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
 ```
+

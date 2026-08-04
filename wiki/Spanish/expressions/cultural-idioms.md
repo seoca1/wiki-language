@@ -105,7 +105,7 @@ Término pedagógico usado en materiales de español para viajeros. Agrupa las 5
 
 
 - [[first-travel-spain]]
-- [[travel-basics]]
+- *travel-basics*
 - Guías de estudio semana 1-2
 
 ---

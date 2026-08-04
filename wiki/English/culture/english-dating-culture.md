@@ -123,6 +123,14 @@ Earlier expression: "I really like you" (more universally safe).
 - **Anniversaries** — celebrate relationship start
 - **No formal "100 days" celebration** (unlike Korean culture)
 
+## Examples
+
+"Coffee date" — first-date archetype in US urban culture, neutral public setting.
+"Hinge" (launched 2012) — dating app designed for "designed to be deleted" with relationship focus.
+"Ghosting" — abruptly cutting off all communication without explanation, common post-2010s dating culture phenomenon.
+
+---
+
 ## Sources
 
 - [[dating-romance]] — main source

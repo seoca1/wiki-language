@@ -86,4 +86,4 @@ Esta semana he comenzado mi proyecto de español usando el patrón *LLM Wiki*. H
 - [[el-ahogado-mas-hermoso-del-mundo]] — fuente 1
 - [[notes-in-spanish-listening-log]] — fuente 2
 - [[blog-output]] — guía de publicación
-- [[../index]] — índice del wiki
+- [[index]] — índice del wiki

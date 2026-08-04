@@ -975,8 +975,45 @@ Contexto cultural por añadir
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
-> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
+> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
 > The body above remains the human-readable form and is the source of truth.
 
+```yaml
+- { id: es_adjectives_vocabulary_001, display: "grande", input: "grande", meaning: "크다", level: "A1", category: "adjectives-vocabulary", source: "[[adjectives-vocabulary]]" }
+- { id: es_adjectives_vocabulary_002, display: "pequeño/a", input: "pequeño/a", meaning: "작다", level: "A1", category: "adjectives-vocabulary", source: "[[adjectives-vocabulary]]" }
+- { id: es_adjectives_vocabulary_003, display: "bueno/a", input: "bueno/a", meaning: "좋다", level: "A1", category: "adjectives-vocabulary", source: "[[adjectives-vocabulary]]" }
+- { id: es_adjectives_vocabulary_004, display: "malo/a", input: "malo/a", meaning: "나쁘다", level: "A1", category: "adjectives-vocabulary", source: "[[adjectives-vocabulary]]" }
+- { id: es_adjectives_vocabulary_005, display: "nuevo/a", input: "nuevo/a", meaning: "새롭다", level: "A1", category: "adjectives-vocabulary", source: "[[adjectives-vocabulary]]" }
+- { id: es_adjectives_vocabulary_006, display: "viejo/a", input: "viejo/a", meaning: "오래되다", level: "A1", category: "adjectives-vocabulary", source: "[[adjectives-vocabulary]]" }
+- { id: es_adjectives_vocabulary_007, display: "bonito/a", input: "bonito/a", meaning: "예쁘다", level: "A1", category: "adjectives-vocabulary", source: "[[adjectives-vocabulary]]" }
+- { id: es_adjectives_vocabulary_008, display: "feo/a", input: "feo/a", meaning: "추하다", level: "A1", category: "adjectives-vocabulary", source: "[[adjectives-vocabulary]]" }
+- { id: es_adjectives_vocabulary_009, display: "fácil", input: "fácil", meaning: "쉽다", level: "A1", category: "adjectives-vocabulary", source: "[[adjectives-vocabulary]]" }
+- { id: es_adjectives_vocabulary_010, display: "difícil", input: "difícil", meaning: "어렵다", level: "A1", category: "adjectives-vocabulary", source: "[[adjectives-vocabulary]]" }
+- { id: es_adjectives_vocabulary_011, display: "rápido/a", input: "rápido/a", meaning: "빠르다", level: "A1", category: "adjectives-vocabulary", source: "[[adjectives-vocabulary]]" }
+- { id: es_adjectives_vocabulary_012, display: "lento/a", input: "lento/a", meaning: "느리다", level: "A1", category: "adjectives-vocabulary", source: "[[adjectives-vocabulary]]" }
+- { id: es_adjectives_vocabulary_013, display: "caliente", input: "caliente", meaning: "온도", level: "A1", category: "adjectives-vocabulary", source: "[[adjectives-vocabulary]]" }
+- { id: es_adjectives_vocabulary_014, display: "frío/a", input: "frío/a", meaning: "차갑다", level: "A1", category: "adjectives-vocabulary", source: "[[adjectives-vocabulary]]" }
+- { id: es_adjectives_vocabulary_015, display: "rojo/a", input: "rojo/a", meaning: "빨간", level: "A1", category: "adjectives-vocabulary", source: "[[adjectives-vocabulary]]" }
+- { id: es_adjectives_vocabulary_016, display: "azul", input: "azul", meaning: "파란", level: "A1", category: "adjectives-vocabulary", source: "[[adjectives-vocabulary]]" }
+- { id: es_adjectives_vocabulary_017, display: "verde", input: "verde", meaning: "초록", level: "A1", category: "adjectives-vocabulary", source: "[[adjectives-vocabulary]]" }
+- { id: es_adjectives_vocabulary_018, display: "amarillo/a", input: "amarillo/a", meaning: "노란", level: "A1", category: "adjectives-vocabulary", source: "[[adjectives-vocabulary]]" }
+- { id: es_adjectives_vocabulary_019, display: "negro/a", input: "negro/a", meaning: "검은", level: "A1", category: "adjectives-vocabulary", source: "[[adjectives-vocabulary]]" }
+- { id: es_adjectives_vocabulary_020, display: "blanco/a", input: "blanco/a", meaning: "흰", level: "A1", category: "adjectives-vocabulary", source: "[[adjectives-vocabulary]]" }
+- { id: es_adjectives_vocabulary_021, display: "gris", input: "gris", meaning: "회색의", level: "A1", category: "adjectives-vocabulary", source: "[[adjectives-vocabulary]]" }
+- { id: es_adjectives_vocabulary_022, display: "rosa", input: "rosa", meaning: "분홍색의", level: "A1", category: "adjectives-vocabulary", source: "[[adjectives-vocabulary]]" }
+- { id: es_adjectives_vocabulary_023, display: "marrón", input: "marrón", meaning: "갈색의", level: "A1", category: "adjectives-vocabulary", source: "[[adjectives-vocabulary]]" }
+- { id: es_adjectives_vocabulary_024, display: "naranja", input: "naranja", meaning: "주황색의", level: "A1", category: "adjectives-vocabulary", source: "[[adjectives-vocabulary]]" }
+- { id: es_adjectives_vocabulary_025, display: "morado/a", input: "morado/a", meaning: "보라색의", level: "A1", category: "adjectives-vocabulary", source: "[[adjectives-vocabulary]]" }
+- { id: es_adjectives_vocabulary_026, display: "cero", input: "cero", meaning: "0", level: "A1", category: "adjectives-vocabulary", source: "[[adjectives-vocabulary]]" }
+- { id: es_adjectives_vocabulary_027, display: "uno", input: "uno", meaning: "1", level: "A1", category: "adjectives-vocabulary", source: "[[adjectives-vocabulary]]" }
+- { id: es_adjectives_vocabulary_028, display: "dos", input: "dos", meaning: "2", level: "A1", category: "adjectives-vocabulary", source: "[[adjectives-vocabulary]]" }
+- { id: es_adjectives_vocabulary_029, display: "tres", input: "tres", meaning: "3", level: "A1", category: "adjectives-vocabulary", source: "[[adjectives-vocabulary]]" }
+- { id: es_adjectives_vocabulary_030, display: "diez", input: "diez", meaning: "10", level: "A1", category: "adjectives-vocabulary", source: "[[adjectives-vocabulary]]" }
+- { id: es_adjectives_vocabulary_031, display: "veinte", input: "veinte", meaning: "20", level: "A1", category: "adjectives-vocabulary", source: "[[adjectives-vocabulary]]" }
+- { id: es_adjectives_vocabulary_032, display: "treinta", input: "treinta", meaning: "30", level: "A1", category: "adjectives-vocabulary", source: "[[adjectives-vocabulary]]" }
+- { id: es_adjectives_vocabulary_033, display: "cien", input: "cien", meaning: "100", level: "A1", category: "adjectives-vocabulary", source: "[[adjectives-vocabulary]]" }
+- { id: es_adjectives_vocabulary_034, display: "doscientos", input: "doscientos", meaning: "200", level: "A1", category: "adjectives-vocabulary", source: "[[adjectives-vocabulary]]" }
+- { id: es_adjectives_vocabulary_035, display: "mil", input: "mil", meaning: "1000", level: "A1", category: "adjectives-vocabulary", source: "[[adjectives-vocabulary]]" }
 ```
+

@@ -26,6 +26,15 @@
 - Costumbres gallegas de entierro marítimo de náufragos
 - Tradiciones pesqueras de Centroamérica y Caribe
 
+
+## Ejemplos de rituales funerarios en pueblos costeros
+
+«En pueblos de la costa atlántica colombiana, el cuerpo se vela en la casa y se acompaña con música de gaita durante siete días.»
+«En la costa chilena, los velorios se hacen con panes especiales llamados "marraquetas" y se comparte con la comunidad.»
+«"Se lo llevó la marea" — eufemismo poético en el Pacífico colombiano para referirse a la muerte del pescador.»
+
+---
+
 ## Sources
 
 - [[el-ahogado-mas-hermoso-del-mundo]]

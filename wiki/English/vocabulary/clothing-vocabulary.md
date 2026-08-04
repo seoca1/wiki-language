@@ -16,7 +16,6 @@ This page aggregates all clothing and fashion vocabulary for the typing language
 
 ## Basic Clothing
 
-## Basic Clothing
 
 ### shirt
 
@@ -35,7 +34,7 @@ This page aggregates all clothing and fashion vocabulary for the typing language
 
 #### Related Terms
 
-- [[shirt]] — Self-reference check
+- shirt — Self-reference check
 - [[clothing-vocabulary]] — Clothing vocabulary
 
 #### Cultural Notes
@@ -65,7 +64,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[pants]] — Self-reference check
+- pants — Self-reference check
 - [[clothing-vocabulary]] — Clothing vocabulary
 
 #### Cultural Notes
@@ -95,7 +94,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[shoes]] — Self-reference check
+- shoes — Self-reference check
 - [[clothing-vocabulary]] — Clothing vocabulary
 
 #### Cultural Notes
@@ -125,7 +124,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[hat]] — Self-reference check
+- hat — Self-reference check
 - [[clothing-vocabulary]] — Clothing vocabulary
 
 #### Cultural Notes
@@ -155,7 +154,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[coat]] — Self-reference check
+- coat — Self-reference check
 - [[clothing-vocabulary]] — Clothing vocabulary
 
 #### Cultural Notes
@@ -185,7 +184,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[dress]] — Self-reference check
+- dress — Self-reference check
 - [[clothing-vocabulary]] — Clothing vocabulary
 
 #### Cultural Notes
@@ -206,8 +205,16 @@ Cultural context to be added
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
-> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
+> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
 > The body above remains the human-readable form and is the source of truth.
 
+```yaml
+- { id: en_clothing_vocabulary_001, display: "shirt", input: "shirt", meaning: "셔츠", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: en_clothing_vocabulary_002, display: "pants", input: "pants", meaning: "바지", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: en_clothing_vocabulary_003, display: "shoes", input: "shoes", meaning: "구두", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: en_clothing_vocabulary_004, display: "hat", input: "hat", meaning: "모자", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: en_clothing_vocabulary_005, display: "coat", input: "coat", meaning: "코트", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: en_clothing_vocabulary_006, display: "dress", input: "dress", meaning: "드레스", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
 ```
+

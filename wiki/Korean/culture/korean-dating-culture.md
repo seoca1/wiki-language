@@ -165,6 +165,14 @@ A first date in Korea: **카페, 식당, 영화, 전시회, 공원**. Daytime pr
 - **1주년**: 365일, 더 중요한 milestone
 - **기념일 무시는 큰 매너 위반**
 
+## 예문
+
+"썸" (sseom, "스킹"의 줄임말): 교제 전 호감을 주고받는 단계. "썸을 타다" = 호감 교환 중.
+"고백"(go-baek): 정식으로 좋아한다고 고백하는 행위. 친구 관계 → 연인 관계로 전환.
+"소개팅"(so-gae-ting): 지인이나 매칭 앱을 통한 arranged-blind-date. 그룹 소개팅도 흔함.
+
+---
+
 ## Sources
 
 - [[dating-romance-kr]] — 메인 소스

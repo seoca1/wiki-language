@@ -51,7 +51,7 @@
   meaning: 한국          # 또는 영어 정의
   level: 1               # TOPIK 1~6 또는 Language 정의 등급
   category: country      # Language 위키의 태그
-  source: "[[hangug]]"   # Language 위키 페이지 인용 (필수)
+  source: "[[topik1-starter]]"   # Language 위키 theme-file 인용 (필수) — per-word 페이지 미사용 (2026-07-10 컨벤션)
 ```
 
 `source` 필드는 **반드시** Language 위키 페이지(`[[wikilink]]`)여야 한다. raw 코퍼스 파일 자체에 출처 문장을 함께 적어도 좋다.
@@ -119,3 +119,4 @@
 - 게임 측 언어 페이지: `Game/typing_language/wiki/languages/*.md`
 - 게임 측 원본 코퍼스: `Game/typing_language/raw/*_words.md`
 - LLM Wiki 표준: `Language/schema/AGENTS.md`
+- **Cross-Language Comparisons**: `Language/wiki/comparative/index` — 5언어 (EN/ES/JP/KR/CH) 비교 페이지 24개. 게임이 다국어 캐릭터를 표현할 때(예: NPC 대사 다국어 버전) 참조 가능. 특히 `politeness-honorifics`, `greetings`, `pronouns-reference` 페이지가 게임 콘텐츠 큐레이션에 직접 활용 가능.

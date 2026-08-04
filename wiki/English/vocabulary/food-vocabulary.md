@@ -12,7 +12,6 @@ This page aggregates all food and restaurant vocabulary for the typing language 
 
 ## Basic Ingredients
 
-## Basic Ingredients
 
 ### meat
 
@@ -61,7 +60,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[chicken]] — Self-reference check
+- chicken — Self-reference check
 - [[food-vocabulary]] — Food vocabulary
 
 #### Cultural Notes
@@ -91,7 +90,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[beef]] — Self-reference check
+- beef — Self-reference check
 
 #### Cultural Notes
 
@@ -120,7 +119,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[pork]] — Self-reference check
+- pork — Self-reference check
 
 #### Cultural Notes
 
@@ -149,7 +148,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[egg]] — Self-reference check
+- egg — Self-reference check
 - [[food-vocabulary]] — Food vocabulary
 
 #### Cultural Notes
@@ -179,7 +178,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[milk]] — Self-reference check
+- milk — Self-reference check
 
 #### Cultural Notes
 
@@ -208,7 +207,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[cheese]] — Self-reference check
+- cheese — Self-reference check
 - [[food-vocabulary]] — Food vocabulary
 
 #### Cultural Notes
@@ -238,7 +237,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[butter]] — Self-reference check
+- butter — Self-reference check
 
 #### Cultural Notes
 
@@ -267,7 +266,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[salt]] — Self-reference check
+- salt — Self-reference check
 
 #### Cultural Notes
 
@@ -296,7 +295,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[sugar]] — Self-reference check
+- sugar — Self-reference check
 
 #### Cultural Notes
 
@@ -325,7 +324,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[oil]] — Self-reference check
+- oil — Self-reference check
 
 #### Cultural Notes
 
@@ -354,7 +353,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[vegetable]] — Self-reference check
+- vegetable — Self-reference check
 
 #### Cultural Notes
 
@@ -383,7 +382,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[fruit]] — Self-reference check
+- fruit — Self-reference check
 
 #### Cultural Notes
 
@@ -412,7 +411,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[rice]] — Self-reference check
+- rice — Self-reference check
 
 #### Cultural Notes
 
@@ -441,7 +440,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[noodle]] — Self-reference check
+- noodle — Self-reference check
 
 #### Cultural Notes
 
@@ -472,7 +471,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[coffee]] — Self-reference check
+- coffee — Self-reference check
 - [[food-vocabulary]] — Food vocabulary
 
 #### Cultural Notes
@@ -502,7 +501,7 @@ Common beverage offerings in social/business settings.
 
 #### Related Terms
 
-- [[tea]] — Self-reference check
+- tea — Self-reference check
 - [[food-vocabulary]] — Food vocabulary
 
 #### Cultural Notes
@@ -532,7 +531,7 @@ Common beverage offerings in social/business settings.
 
 #### Related Terms
 
-- [[juice]] — Self-reference check
+- juice — Self-reference check
 
 #### Cultural Notes
 
@@ -561,7 +560,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[beer]] — Self-reference check
+- beer — Self-reference check
 - [[food-vocabulary]] — Food vocabulary
 
 #### Cultural Notes
@@ -591,7 +590,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[wine]] — Self-reference check
+- wine — Self-reference check
 - [[food-vocabulary]] — Food vocabulary
 
 #### Cultural Notes
@@ -621,7 +620,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[water]] — Self-reference check
+- water — Self-reference check
 - [[food-vocabulary]] — Food vocabulary
 
 #### Cultural Notes
@@ -653,7 +652,7 @@ Common beverage offerings in social/business settings.
 
 #### Related Terms
 
-- [[menu]] — Self-reference check
+- menu — Self-reference check
 
 #### Cultural Notes
 
@@ -710,7 +709,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[bill]] — Self-reference check
+- bill — Self-reference check
 
 #### Cultural Notes
 
@@ -739,7 +738,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[restaurant]] — Self-reference check
+- restaurant — Self-reference check
 
 #### Cultural Notes
 
@@ -768,7 +767,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[café]] — Self-reference check
+- café — Self-reference check
 
 #### Cultural Notes
 
@@ -797,7 +796,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[breakfast]] — Self-reference check
+- breakfast — Self-reference check
 
 #### Cultural Notes
 
@@ -901,8 +900,40 @@ Cultural context to be added
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
-> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
+> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
 > The body above remains the human-readable form and is the source of truth.
 
+```yaml
+- { id: en_food_vocabulary_001, display: "meat", input: "meat", meaning: "고기", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_vocabulary_002, display: "chicken", input: "chicken", meaning: "닭고기", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_vocabulary_003, display: "beef", input: "beef", meaning: "소고기", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_vocabulary_004, display: "pork", input: "pork", meaning: "돼지고기", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_vocabulary_005, display: "egg", input: "egg", meaning: "달걀", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_vocabulary_006, display: "milk", input: "milk", meaning: "우유", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_vocabulary_007, display: "cheese", input: "cheese", meaning: "치즈", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_vocabulary_008, display: "butter", input: "butter", meaning: "버터", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_vocabulary_009, display: "salt", input: "salt", meaning: "소금", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_vocabulary_010, display: "sugar", input: "sugar", meaning: "설탕", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_vocabulary_011, display: "oil", input: "oil", meaning: "기름", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_vocabulary_012, display: "vegetable", input: "vegetable", meaning: "야채", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_vocabulary_013, display: "fruit", input: "fruit", meaning: "과일", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_vocabulary_014, display: "rice", input: "rice", meaning: "쌀", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_vocabulary_015, display: "noodle", input: "noodle", meaning: "면", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_vocabulary_016, display: "coffee", input: "coffee", meaning: "커피", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_vocabulary_017, display: "tea", input: "tea", meaning: "차", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_vocabulary_018, display: "juice", input: "juice", meaning: "주스", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_vocabulary_019, display: "beer", input: "beer", meaning: "맥주", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_vocabulary_020, display: "wine", input: "wine", meaning: "와인", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_vocabulary_021, display: "water", input: "water", meaning: "물", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_vocabulary_022, display: "menu", input: "menu", meaning: "메뉴", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_vocabulary_023, display: "order", input: "order", meaning: "주문", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_vocabulary_024, display: "bill", input: "bill", meaning: "계산서", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_vocabulary_025, display: "restaurant", input: "restaurant", meaning: "식당", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_vocabulary_026, display: "café", input: "café", meaning: "카페", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_vocabulary_027, display: "breakfast", input: "breakfast", meaning: "아침", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_vocabulary_028, display: "delicious", input: "delicious", meaning: "맛있는", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_vocabulary_029, display: "sweet", input: "sweet", meaning: "달콤한", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_vocabulary_030, display: "spicy", input: "spicy", meaning: "매운", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
 ```
+

@@ -31,7 +31,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[이메일]] — 동일어 반복 확인
+- 이메일 — 동일어 반복 확인
 - 커뮤니케이션 — 소통 관련 어휘
 
 #### Cultural Notes
@@ -61,7 +61,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[주소]] — 동일어 반복 확인
+- 주소 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -148,7 +148,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[제목]] — 동일어 반복 확인
+- 제목 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -177,7 +177,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[본문]] — 동일어 반복 확인
+- 본문 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -206,7 +206,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[첨부]] — 동일어 반복 확인
+- 첨부 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -235,7 +235,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[보내다]] — 어간 확인
+- 보내다 — 어간 확인
 
 #### Cultural Notes
 
@@ -264,7 +264,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[받다]] — 어간 확인
+- 받다 — 어간 확인
 
 #### Cultural Notes
 
@@ -293,7 +293,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[답장]] — 동일어 반복 확인
+- 답장 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -322,7 +322,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[전달]] — 동일어 반복 확인
+- 전달 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -351,7 +351,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[읽다]] — 어간 확인
+- 읽다 — 어간 확인
 
 #### Cultural Notes
 
@@ -380,7 +380,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[저장]] — 어간 확인
+- 저장 — 어간 확인
 
 #### Cultural Notes
 
@@ -409,7 +409,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[삭제]] — 어간 확인
+- 삭제 — 어간 확인
 
 #### Cultural Notes
 
@@ -438,7 +438,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[취소]] — 어간 확인
+- 취소 — 어간 확인
 
 #### Cultural Notes
 
@@ -469,8 +469,8 @@ theme: "business"
 
 #### Related Terms
 
-- [[회의]] — 동일어 반복 확인
-- [[회의]] — 회의 관련 어휘
+- 회의 — 동일어 반복 확인
+- 회의 — 회의 관련 어휘
 
 #### Cultural Notes
 
@@ -499,7 +499,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[일정]] — 동일어 반복 확인
+- 일정 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -528,7 +528,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[안건]] — 동일어 반복 확인
+- 안건 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -557,7 +557,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[참석자]] — 동일어 반복 확인
+- 참석자 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -586,8 +586,8 @@ theme: "business"
 
 #### Related Terms
 
-- [[발표]] — 동일어 반복 확인
-- [[회의]] — 회의 관련 어휘
+- 발표 — 동일어 반복 확인
+- 회의 — 회의 관련 어휘
 
 #### Cultural Notes
 
@@ -616,7 +616,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[발언]] — 동일어 반복 확인
+- 발언 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -645,7 +645,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[토론]] — 동일어 반복 확인
+- 토론 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -674,7 +674,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[의견]] — 동일어 반복 확인
+- 의견 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -703,7 +703,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[결정]] — 동일어 반복 확인
+- 결정 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -732,7 +732,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[찬성]] — 동일어 반복 확인
+- 찬성 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -761,7 +761,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[반대]] — 동일어 반복 확인
+- 반대 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -790,7 +790,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[합의]] — 동일어 반복 확인
+- 합의 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -819,7 +819,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[기록]] — 동일어 반복 확인
+- 기록 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -848,7 +848,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[시간]] — 동일어 반복 확인
+- 시간 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -877,7 +877,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[장소]] — 동일어 반복 확인
+- 장소 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -906,7 +906,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[연기]] — 동일어 반복 확인
+- 연기 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -935,7 +935,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[취소]] — 어간 확인
+- 취소 — 어간 확인
 
 #### Cultural Notes
 
@@ -966,8 +966,8 @@ theme: "business"
 
 #### Related Terms
 
-- [[발표자]] — 동일어 반복 확인
-- [[회의]] — 회의 관련 어휘
+- 발표자 — 동일어 반복 확인
+- 회의 — 회의 관련 어휘
 
 #### Cultural Notes
 
@@ -996,7 +996,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[슬라이드]] — 동일어 반복 확인
+- 슬라이드 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1025,7 +1025,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[자료]] — 동일어 반복 확인
+- 자료 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1054,7 +1054,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[차트]] — 동일어 반복 확인
+- 차트 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1083,7 +1083,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[그래프]] — 동일어 반복 확인
+- 그래프 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1112,7 +1112,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[표]] — 동일어 반복 확인
+- 표 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1141,7 +1141,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[설명]] — 동일어 반복 확인
+- 설명 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1170,7 +1170,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[요약]] — 동일어 반복 확인
+- ''요약'' — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1199,7 +1199,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[결론]] — 동일어 반복 확인
+- 결론 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1228,7 +1228,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[질문]] — 동일어 반복 확인
+- 질문 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1257,7 +1257,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[답변]] — 동일어 반복 확인
+- 답변 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1286,7 +1286,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[리허설]] — 동일어 반복 확인
+- 리허설 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1317,7 +1317,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[회사]] — 동일어 반복 확인
+- 회사 — 동일어 반복 확인
 - 직장 — 직장 관련 어휘
 
 #### Cultural Notes
@@ -1347,7 +1347,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[사무실]] — 동일어 반복 확인
+- 사무실 — 동일어 반복 확인
 - 직장 — 직장 관련 어휘
 
 #### Cultural Notes
@@ -1377,7 +1377,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[동료]] — 동일어 반복 확인
+- 동료 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1406,7 +1406,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[상사]] — 동일어 반복 확인
+- 상사 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1435,7 +1435,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[부하]] — 동일어 반복 확인
+- 부하 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1464,7 +1464,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[직원]] — 동일어 반복 확인
+- 직원 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1493,7 +1493,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[대표]] — 동일어 반복 확인
+- 대표 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1522,7 +1522,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[팀장]] — 동일어 반복 확인
+- 팀장 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1551,7 +1551,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[프로젝트]] — 동일어 반복 확인
+- 프로젝트 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1580,7 +1580,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[업무]] — 동일어 반복 확인
+- 업무 — 동일어 반복 확인
 - 직장 — 직장 관련 어휘
 
 #### Cultural Notes
@@ -1610,7 +1610,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[계약]] — 동일어 반복 확인
+- 계약 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1639,7 +1639,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[체결]] — 동일어 반복 확인
+- 체결 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1668,7 +1668,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[체결]] — 어간 확인
+- 체결 — 어간 확인
 
 #### Cultural Notes
 
@@ -1697,7 +1697,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[매출]] — 동일어 반복 확인
+- 매출 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1726,7 +1726,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[목표]] — 동일어 반복 확인
+- 목표 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1755,7 +1755,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[달성]] — 동일어 반복 확인
+- 달성 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1784,7 +1784,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[보고서]] — 동일어 반복 확인
+- 보고서 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1813,7 +1813,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[제출]] — 동일어 반복 확인
+- 제출 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1842,7 +1842,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[제출]] — 어간 확인
+- 제출 — 어간 확인
 
 #### Cultural Notes
 
@@ -1871,7 +1871,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[처리]] — 동일어 반복 확인
+- 처리 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1900,7 +1900,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[처리]] — 어간 확인
+- 처리 — 어간 확인
 
 #### Cultural Notes
 
@@ -1929,7 +1929,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[확인]] — 동일어 반복 확인
+- 확인 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -1958,7 +1958,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[확인]] — 어간 확인
+- 확인 — 어간 확인
 
 #### Cultural Notes
 
@@ -1987,7 +1987,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[승인]] — 동일어 반복 확인
+- 승인 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -2016,7 +2016,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[승인]] — 어간 확인
+- 승인 — 어간 확인
 
 #### Cultural Notes
 
@@ -2045,7 +2045,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[거절]] — 동일어 반복 확인
+- 거절 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -2074,7 +2074,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[거절]] — 어간 확인
+- 거절 — 어간 확인
 
 #### Cultural Notes
 
@@ -2105,7 +2105,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[가격]] — 동일어 반복 확인
+- 가격 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -2134,7 +2134,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[비용]] — 동일어 반복 확인
+- 비용 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -2163,7 +2163,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[예산]] — 동일어 반복 확인
+- 예산 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -2192,7 +2192,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[지출]] — 동일어 반복 확인
+- 지출 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -2221,7 +2221,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[수입]] — 동일어 반복 확인
+- 수입 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -2250,7 +2250,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[이익]] — 동일어 반복 확인
+- 이익 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -2279,7 +2279,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[손실]] — 동일어 반복 확인
+- 손실 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -2308,7 +2308,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[투자]] — 동일어 반복 확인
+- 투자 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -2337,7 +2337,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[협력]] — 동일어 반복 확인
+- 협력 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -2366,7 +2366,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[파트너]] — 동일어 반복 확인
+- 파트너 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -2395,7 +2395,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[계약금]] — 동일어 반복 확인
+- 계약금 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -2453,7 +2453,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[이자]] — 동일어 반복 확인
+- 이자 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -2482,7 +2482,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[환율]] — 동일어 반복 확인
+- 환율 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -2511,7 +2511,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[세금]] — 동일어 반복 확인
+- 세금 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -2540,7 +2540,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[신고]] — 동일어 반복 확인
+- 신고 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -2569,7 +2569,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[신고]] — 어간 확인
+- 신고 — 어간 확인
 
 #### Cultural Notes
 
@@ -2600,7 +2600,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[전화]] — 동일어 반복 확인
+- 전화 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -2629,7 +2629,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[전화]] — 어간 확인
+- 전화 — 어간 확인
 
 #### Cultural Notes
 
@@ -2658,7 +2658,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[메시지]] — 동일어 반복 확인
+- 메시지 — 동일어 반복 확인
 - 커뮤니케이션 — 소통 관련 어휘
 
 #### Cultural Notes
@@ -2688,7 +2688,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[문자]] — 동일어 반복 확인
+- 문자 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -2717,7 +2717,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[끊다]] — 어간 확인
+- 끊다 — 어간 확인
 
 #### Cultural Notes
 
@@ -2775,7 +2775,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[전화번호]] — 동일어 반복 확인
+- 전화번호 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -2804,7 +2804,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[안내]] — 동일어 반복 확인
+- 안내 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -2833,7 +2833,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[연결]] — 동일어 반복 확인
+- 연결 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -2862,7 +2862,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[재통화]] — 동일어 반복 확인
+- 재통화 — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -3038,7 +3038,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[죄송합니다만]] — 동일어 반복 확인
+- ''죄송합니다만'' — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -3094,7 +3094,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[수고하세요]] — 동일어 반복 확인
+- ''수고하세요'' — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -3123,7 +3123,7 @@ theme: "business"
 
 #### Related Terms
 
-- [[열공하세요]] — 동일어 반복 확인
+- ''열공하세요'' — 동일어 반복 확인
 
 #### Cultural Notes
 
@@ -3172,8 +3172,118 @@ theme: "business"
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
-> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
+> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
 > The body above remains the human-readable form and is the source of truth.
 
+```yaml
+- { id: kr_business_vocabulary_001, display: "이메일", input: "이메일", meaning: "email", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_002, display: "주소", input: "주소", meaning: "address", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_003, display: "보낸 사람", input: "보낸 사람", meaning: "sender", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_004, display: "받는 사람", input: "받는 사람", meaning: "recipient", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_005, display: "제목", input: "제목", meaning: "subject/title", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_006, display: "본문", input: "본문", meaning: "body text", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_007, display: "첨부", input: "첨부", meaning: "attachment", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_008, display: "보내다", input: "보내다", meaning: "to send", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_009, display: "받다", input: "받다", meaning: "to receive", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_010, display: "답장", input: "답장", meaning: "reply", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_011, display: "전달", input: "전달", meaning: "delivery/forwarding", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_012, display: "읽다", input: "읽다", meaning: "to read", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_013, display: "저장", input: "저장", meaning: "save", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_014, display: "삭제", input: "삭제", meaning: "delete", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_015, display: "취소", input: "취소", meaning: "cancel", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_016, display: "회의", input: "회의", meaning: "meeting/conference", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_017, display: "일정", input: "일정", meaning: "schedule", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_018, display: "안건", input: "안건", meaning: "agenda", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_019, display: "참석자", input: "참석자", meaning: "participants", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_020, display: "발표", input: "발표", meaning: "presentation", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_021, display: "발언", input: "발언", meaning: "speech/statement", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_022, display: "토론", input: "토론", meaning: "discussion/debate", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_023, display: "의견", input: "의견", meaning: "opinion", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_024, display: "결정", input: "결정", meaning: "decision", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_025, display: "찬성", input: "찬성", meaning: "approval", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_026, display: "반대", input: "반대", meaning: "opposition", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_027, display: "합의", input: "합의", meaning: "agreement", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_028, display: "기록", input: "기록", meaning: "record/minutes", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_029, display: "시간", input: "시간", meaning: "time", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_030, display: "장소", input: "장소", meaning: "location", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_031, display: "연기", input: "연기", meaning: "postponement", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_032, display: "취소", input: "취소", meaning: "cancellation", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_033, display: "발표자", input: "발표자", meaning: "presenter", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_034, display: "슬라이드", input: "슬라이드", meaning: "slide", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_035, display: "자료", input: "자료", meaning: "materials/data", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_036, display: "차트", input: "차트", meaning: "chart", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_037, display: "그래프", input: "그래프", meaning: "graph", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_038, display: "표", input: "표", meaning: "table/form", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_039, display: "설명", input: "설명", meaning: "explanation", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_040, display: "요약", input: "요약", meaning: "summary", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_041, display: "결론", input: "결론", meaning: "conclusion", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_042, display: "질문", input: "질문", meaning: "question", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_043, display: "답변", input: "답변", meaning: "answer", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_044, display: "리허설", input: "리허설", meaning: "rehearsal", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_045, display: "회사", input: "회사", meaning: "company", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_046, display: "사무실", input: "사무실", meaning: "office", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_047, display: "동료", input: "동료", meaning: "colleague", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_048, display: "상사", input: "상사", meaning: "superior/boss", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_049, display: "부하", input: "부하", meaning: "subordinate", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_050, display: "직원", input: "직원", meaning: "employee", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_051, display: "대표", input: "대표", meaning: "representative/CEO", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_052, display: "팀장", input: "팀장", meaning: "team leader", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_053, display: "프로젝트", input: "프로젝트", meaning: "project", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_054, display: "업무", input: "업무", meaning: "work/tasks", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_055, display: "계약", input: "계약", meaning: "contract", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_056, display: "체결", input: "체결", meaning: "signing (contract)", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_057, display: "체결하다", input: "체결하다", meaning: "to sign", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_058, display: "매출", input: "매출", meaning: "sales revenue", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_059, display: "목표", input: "목표", meaning: "goal/target", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_060, display: "달성", input: "달성", meaning: "achievement", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_061, display: "보고서", input: "보고서", meaning: "report", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_062, display: "제출", input: "제출", meaning: "submission", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_063, display: "제출하다", input: "제출하다", meaning: "to submit", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_064, display: "처리", input: "처리", meaning: "processing", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_065, display: "처리하다", input: "처리하다", meaning: "to process", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_066, display: "확인", input: "확인", meaning: "confirmation", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_067, display: "확인하다", input: "확인하다", meaning: "to confirm", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_068, display: "승인", input: "승인", meaning: "approval", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_069, display: "승인하다", input: "승인하다", meaning: "to approve", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_070, display: "거절", input: "거절", meaning: "refusal/rejection", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_071, display: "거절하다", input: "거절하다", meaning: "to refuse", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_072, display: "가격", input: "가격", meaning: "price", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_073, display: "비용", input: "비용", meaning: "cost/expense", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_074, display: "예산", input: "예산", meaning: "budget", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_075, display: "지출", input: "지출", meaning: "expenditure", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_076, display: "수입", input: "수입", meaning: "income/revenue", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_077, display: "이익", input: "이익", meaning: "profit", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_078, display: "손실", input: "손실", meaning: "loss", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_079, display: "투자", input: "투자", meaning: "investment", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_080, display: "협력", input: "협력", meaning: "cooperation/collaboration", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_081, display: "파트너", input: "파트너", meaning: "partner", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_082, display: "계약금", input: "계약금", meaning: "deposit/down payment", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_083, display: "분할 납부", input: "분할 납부", meaning: "installment payment", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_084, display: "이자", input: "이자", meaning: "interest", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_085, display: "환율", input: "환율", meaning: "exchange rate", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_086, display: "세금", input: "세금", meaning: "tax", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_087, display: "신고", input: "신고", meaning: "report/filing", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_088, display: "신고하다", input: "신고하다", meaning: "to file", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_089, display: "전화", input: "전화", meaning: "telephone/phone call", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_090, display: "전화하다", input: "전화하다", meaning: "to call", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_091, display: "메시지", input: "메시지", meaning: "message", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_092, display: "문자", input: "문자", meaning: "text message", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_093, display: "끊다", input: "끊다", meaning: "to cut/hang up", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_094, display: "통화 중", input: "통화 중", meaning: "busy (line)", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_095, display: "전화번호", input: "전화번호", meaning: "phone number", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_096, display: "안내", input: "안내", meaning: "guidance/information", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_097, display: "연결", input: "연결", meaning: "connection", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_098, display: "재통화", input: "재통화", meaning: "callback", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_099, display: "____님께", input: "____님께", meaning: "To Mr./Ms. ____", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_100, display: "회신 바랍니다", input: "회신 바랍니다", meaning: "Please reply", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_101, display: "확인 부탁드립니다", input: "확인 부탁드립니다", meaning: "Please confirm", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_102, display: "검토 부탁드립니다", input: "검토 부탁드립니다", meaning: "Please review", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_103, display: "협조 부탁드립니다", input: "협조 부탁드립니다", meaning: "Please cooperate", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_104, display: "죄송합니다만", input: "죄송합니다만", meaning: "I apologize, but...", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_105, display: "감사합니다", input: "감사합니다", meaning: "Thank you", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_106, display: "수고하세요", input: "수고하세요", meaning: "You辛苦了 (casual)", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_107, display: "열공하세요", input: "열공하세요", meaning: "Keep studying/working hard", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: kr_business_vocabulary_108, display: "오늘 잘 부탁드립니다", input: "오늘 잘 부탁드립니다", meaning: "Please take care of today", level: "TOPIK 1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
 ```
+

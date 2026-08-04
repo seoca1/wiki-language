@@ -34,19 +34,12 @@ Vocabulary extracted from .openclaw card_news archive slot [2]. Each entry is ge
 
 ## Pipeline Form (machine-readable)
 
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
+> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
+> The body above remains the human-readable form and is the source of truth.
+
 ```yaml
-- id: es_gustar-verb-grammar_001
-  display: "encantar"
-  input: "encantar"
-  meaning: "아주 좋아하다 — Me encanta"
-  level: "A2"
-  category: "gustar-verb-grammar"
-  source: "[[gustar-verb-grammar]] — Card News 2026-06-27 (slot [2])"
-- id: es_gustar-verb-grammar_002
-  display: "interesar"
-  input: "interesar"
-  meaning: "관심"
-  level: "A2"
-  category: "gustar-verb-grammar"
-  source: "[[gustar-verb-grammar]] — Card News 2026-06-27 (slot [2])"
+- { id: es_gustar_verb_grammar_001, display: "encantar", input: "encantar", level: "** A1-B1", category: "gustar-verb-grammar", source: "[[gustar-verb-grammar]]" }
+- { id: es_gustar_verb_grammar_002, display: "interesar", input: "interesar", level: "** A1-B1", category: "gustar-verb-grammar", source: "[[gustar-verb-grammar]]" }
 ```
+

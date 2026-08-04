@@ -61,3 +61,42 @@
 - Old Phase 14 closure noted 90 broken; actual broken count grew to 620 with later ingestions. Phase A & B fully cleaned.
 
 **다음 단계**: stub pages are content-empty scaffolding; future ingestion by theme-anchor migration (per comparative scaffold pattern) will fill content. Stub frontmatter includes `ingested_from: "auto-stub-gen 2026-07-19 (Phase A & B)"` for tracking.
+
+## [2026-07-19] culture | English-Speaking Workplace Culture added
+
+- Created `wiki/English/culture/english-workplace-culture.md` (~400 lines)
+- Comprehensive guide to Anglophone business culture (US/UK/CA/AU)
+- Topics: directness, hierarchy, communication styles, meeting culture, common idioms, salary/compensation, leave policies
+- Includes extensive list of workplace idioms ("touch base", "boil the ocean", "low-hanging fruit", etc.)
+- Per-country comparison: US flat/individualist vs UK consensus vs AU "tall poppy syndrome"
+- Industry-specific dress codes, remote work culture, performance reviews
+- DEI concepts, "drinking from the firehose", "deep dive" jargon
+- Index.md updated to reflect new culture entry (1→2)
+
+## [2026-07-19] expressions | English Daily Life added
+
+- Created `wiki/English/expressions/daily-life.md` (~400 lines)
+- 10 essential English survival phrases with cultural notes
+- Thank you, Excuse me, Hello, How much, Bathroom, Don't understand, Help, Station, Enjoy meal, Yes I understand
+- Regional variants: UK (loo, cheers, sorry) vs US (bathroom, thank you) vs AU (g'day, no worries) vs CA (washroom)
+- Emergency numbers (911 US/CA, 999 UK, 000 AU, 112 EU)
+- Cultural notes on tipping, tax inclusion, card preference
+- Index.md updated (Expressions: 2 → 3 theme files, 12 → 22 entries)
+
+## [2026-07-19] expressions | English Business + Travel expressions added
+
+Created 2 new expression theme files for English, bringing expressions to 5 total:
+
+- [business-basics](expressions/business-basics.md) - Thank you for your email, I would appreciate it if, Best regards, I'll follow up next week, I'll get back to you on that, Thank you for your time, Per our discussion, I'd like to schedule a meeting, Thanks for the update, Could you please... (10 表現)
+- [travel-basics](expressions/travel-basics.md) - Where is the airport, hotel, train station, Can I have a ticket to ___, How much is a taxi, How do I get to ___, Help, Call 911!, Can you take a photo of me, Where can I find a good restaurant (10 表現)
+
+Index.md updated (Expressions: 3 → 5 theme files, 22 → 42 entries)
+
+## [2026-07-19] culture | English School Culture + Holidays added
+
+Two new comprehensive English culture pages added, bringing English to 5 culture pages (matching ES/KR/CN/JP range):
+
+- [[culture/english-school-life]] - English-Speaking School Culture — US/UK/CA/AU K-12 + college, SAT/A-Levels, prom, dorm life, Ivy League vs Oxbridge (2026-07-19 신규)
+- [[culture/english-holidays]] - English-Speaking Holidays — Thanksgiving, Christmas, Halloween, July 4, ANZAC, Remembrance, Black Friday, religious observances (2026-07-19 신규)
+
+Index.md updated (Culture: 2 → 5 entries)

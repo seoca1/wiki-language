@@ -29,6 +29,15 @@
 
 La novela no es "exótica" para un lector coreano: le resultará familiar en muchos aspectos.
 
+
+## Ejemplos de estructuras patriarcales tradicionales
+
+«Antiguamente, en familias rurales mexicanas, el padre tenía la última palabra sobre herencia, matrimonio y decisiones económicas.»
+«Hoy día, muchos escritores y escritoras (como Laura Esquivel o Elena Poniatowska) cuestionan estas estructuras a través de la novela y el ensayo.»
+«La frase "los hombres son los cabezas de la familia" refleja la persistente —y cada vez más cuestionada— norma patriarcal.»
+
+---
+
 ## Sources
 
 - [[como-agua-para-chocolate-cap1]]

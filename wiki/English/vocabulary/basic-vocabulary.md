@@ -372,6 +372,15 @@ Core everyday vocabulary: greetings, basic responses, numbers, colors, family te
 
 ---
 
+## Cross-Language Comparison
+
+For systematic English/Spanish/Japanese/Korean/Chinese comparison of basic terms and concepts, see:
+- `[[Language/wiki/comparative/greetings]]` — Hello, goodbye, how are you across 5 languages
+- `[[Language/wiki/comparative/numbers-counters]]` — Numbers 1-10, counter systems comparison
+- `[[Language/wiki/comparative/pronouns-reference]]` — I, you, he/she/it personal pronouns across 5 languages
+- `[[Language/wiki/comparative/confusion-hotspots]]` — Common English learning errors
+- `[[Language/wiki/comparative/idioms-proverbs]]` — Universal proverbs and their translations
+
 ## Pipeline Form (machine-readable)
 
 > Generated for downstream consumers (`Game/typing_language/raw/en_words.md`).

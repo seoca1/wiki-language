@@ -18,7 +18,19 @@
 - ponerse-morado - verbo típico de la sobremesa post-siesta
 - tapas - actividad que reemplaza o acompaña a la siesta en zonas urbanas
 
+
+## Ejemplos de la tradición de la siesta
+
+«Entre las 14:00 y las 17:00, tiendas y oficinas en España cierran por la "siesta" — pausa térmica históricamente adaptada al calor del mediodía.»
+«En pueblos pequeños de Castilla, los mayores se sientan a la sombra del olmo y los niños duermen dentro, en el fresco.»
+«La expresión "echarse la siesta" se usa tanto para la pausa corta de 20 min como para el reposo largo de dos horas.»
+
+---
+
 ## Sources
 
 - [[notes-in-spanish-listening-log]]
 - siesta
+
+- [[verano-espana-tradiciones]] - Tradiciones veraniegas más amplias
+- *tradiciones-veraniegas* - Siesta vs. riposo vs. powernap

@@ -133,7 +133,7 @@ No preguntar = red flag.
 
 ## Cross-Reference
 
-- Compare with: [[english-dating-culture]], [[japanese-dating-culture]], [[korean-dating-culture]]
+- Compare with: *english-dating-culture*, *japanese-dating-culture*, *korean-dating-culture*
 - See also: bonita, guapo, te-amo, cita, beso
 
 ## Citas / Eventos Especiales
@@ -149,6 +149,15 @@ No preguntar = red flag.
 - **Familiaridad**: LatAm más rápido.
 - **Lenguaje formal**: España más formal inicialmente.
 - **Cumplidos**: España más contenido; LatAm más efusivo.
+
+
+## Ejemplos
+
+«En España: "Quedamos a las 8 en la plaza mayor" — el rendez-vous típico es en plaza pública, no en domicilio.»
+«En México: "¿Quieres ser mi novia/o?" — la pregunta formal de iniciar relación sigue siendo común.»
+«En Argentina: "Vamos a tomar un café" — café como pretexto para conversaciones prolongadas.»
+
+---
 
 ## Sources
 

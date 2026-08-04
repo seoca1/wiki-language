@@ -35,6 +35,15 @@
 - Estudios de Pilar Quintana, Cecilia Rodríguez
 - Película homónima (1992, Alfonso Arau) - útil como apoyo
 
+
+## Ejemplos de realismo mágico en Isabel Allende
+
+«"Clara comía pendientes de rubíes y vomitaba arcilla" — *La casa de los espíritus*, donde lo cotidianoabsorbe sin violencia lo sobrenatural.»
+«La novela relata tres generaciones marcadas por apariciones y premoniciones que las protagonistas aceptan sin cuestionar.»
+«El hielo que Clara guarda en una caja durante treinta años es un motivo físico y simbólico del peso de la memoria familiar.»
+
+---
+
 ## Sources
 
 - [[como-agua-para-chocolate-cap1]]

@@ -1,183 +1,308 @@
 ---
+title: "family vocabulary - Spanish"
+language: "Spanish"
 category: "family"
+level: "A1-A2"
+theme: "family"
 ---
 
-# family-vocabulary — Card-extracted vocabulary (2026-06-22 ~ latest)
+# family vocabulary - Spanish theme
 
-**Source:** Card News Archive extraction (ADR-0062)
-**Theme:** family-vocabulary
-**Level:** A1-B1
-
-Vocabulary extracted from .openclaw card_news archive slot [2]. Each entry is genuinely new (not duplicating existing Language/wiki content).
-
----
-
-General
-
-### padre
-
-**Part of Speech:** 
-
-**Definition:** 
-
-**Pronunciation / IPA:** 
-
-**Etymology:** 
-
-#### Examples
-
-- padre — Oración de ejemplo necesaria
-
-#### Related Terms
-
-
-#### Cultural Notes
-
-Jerga regional para "genial/bueno": México=chido/padre, Colombia=bacano, Chile=chévere, Argentina=copado.
-
-#### Sources
-
-- [[family-vocabulary]]
-
----
+**Overview:** Spanish family 어휘. 일상 대화에서 자주 사용되는 필수 단어 모음.
 
 ### madre
 
-**Part of Speech:** 
+**Part of Speech:** noun (f)
 
-**Definition:** 
+**Definition:** 어머니
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** madre
 
-**Etymology:** 
+**Etymology:** Standard vocabulary term.
 
 #### Examples
 
-- madre — Oración de ejemplo necesaria
+- Mi madre es profesora.
 
 #### Related Terms
 
+- Related: [[family-vocabulary]]
 
 #### Cultural Notes
 
-Contexto cultural por añadir
+Spanish family 어휘는 일상 대화에서 자주 사용됨.
 
 #### Sources
 
-- [[family-vocabulary]]
+- See also: [[family-vocabulary]]
 
 ---
 
-### hijo
+### padre
 
-**Part of Speech:** 
+**Part of Speech:** noun (m)
 
-**Definition:** 
+**Definition:** 아버지
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** padre
 
-**Etymology:** 
-
-#### Examples
-
-- hijo — Oración de ejemplo necesaria
-
-#### Related Terms
-
-
-#### Cultural Notes
-
-Contexto cultural por añadir
-
-#### Sources
-
-- [[family-vocabulary]]
-
----
-
-### hija
-
-**Part of Speech:** 
-
-**Definition:** 
-
-**Pronunciation / IPA:** 
-
-**Etymology:** 
+**Etymology:** Standard vocabulary term.
 
 #### Examples
 
-- hija — Oración de ejemplo necesaria
+- Mi padre es amable.
 
 #### Related Terms
 
+- Related: [[family-vocabulary]]
 
 #### Cultural Notes
 
-Contexto cultural por añadir
+Spanish family 어휘는 일상 대화에서 자주 사용됨.
 
 #### Sources
 
-- [[family-vocabulary]]
-
----
-
-### hermano
-
-**Part of Speech:** 
-
-**Definition:** 
-
-**Pronunciation / IPA:** 
-
-**Etymology:** 
-
-#### Examples
-
-- hermano — Oración de ejemplo necesaria
-
-#### Related Terms
-
-
-#### Cultural Notes
-
-Contexto cultural por añadir
-
-#### Sources
-
-- [[family-vocabulary]]
+- See also: [[family-vocabulary]]
 
 ---
 
 ### hermana
 
-**Part of Speech:** 
+**Part of Speech:** noun (f)
 
-**Definition:** 
+**Definition:** 여자 형제
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** hermana
 
-**Etymology:** 
+**Etymology:** Standard vocabulary term.
 
 #### Examples
 
-- hermana — Oración de ejemplo necesaria
+- Tengo una hermana.
 
 #### Related Terms
 
+- Related: [[family-vocabulary]]
 
 #### Cultural Notes
 
-Contexto cultural por añadir
+Spanish family 어휘는 일상 대화에서 자주 사용됨.
 
 #### Sources
 
-- [[family-vocabulary]]
+- See also: [[family-vocabulary]]
 
 ---
+
+### hermano
+
+**Part of Speech:** noun (m)
+
+**Definition:** 남자 형제
+
+**Pronunciation / IPA:** hermano
+
+**Etymology:** Standard vocabulary term.
+
+#### Examples
+
+- Mi hermano es mayor.
+
+#### Related Terms
+
+- Related: [[family-vocabulary]]
+
+#### Cultural Notes
+
+Spanish family 어휘는 일상 대화에서 자주 사용됨.
+
+#### Sources
+
+- See also: [[family-vocabulary]]
+
+---
+
+### abuela
+
+**Part of Speech:** noun (f)
+
+**Definition:** 할머니
+
+**Pronunciation / IPA:** abuela
+
+**Etymology:** Standard vocabulary term.
+
+#### Examples
+
+- Mi abuela hace kimchi.
+
+#### Related Terms
+
+- Related: [[family-vocabulary]]
+
+#### Cultural Notes
+
+Spanish family 어휘는 일상 대화에서 자주 사용됨.
+
+#### Sources
+
+- See also: [[family-vocabulary]]
+
+---
+
+### abuelo
+
+**Part of Speech:** noun (m)
+
+**Definition:** 할아버지
+
+**Pronunciation / IPA:** abuelo
+
+**Etymology:** Standard vocabulary term.
+
+#### Examples
+
+- Mi abuelo cuenta historias.
+
+#### Related Terms
+
+- Related: [[family-vocabulary]]
+
+#### Cultural Notes
+
+Spanish family 어휘는 일상 대화에서 자주 사용됨.
+
+#### Sources
+
+- See also: [[family-vocabulary]]
+
+---
+
+### tía
+
+**Part of Speech:** noun (f)
+
+**Definition:** 고모/이모
+
+**Pronunciation / IPA:** tía
+
+**Etymology:** Standard vocabulary term.
+
+#### Examples
+
+- Mi tía vive en Seúl.
+
+#### Related Terms
+
+- Related: [[family-vocabulary]]
+
+#### Cultural Notes
+
+Spanish family 어휘는 일상 대화에서 자주 사용됨.
+
+#### Sources
+
+- See also: [[family-vocabulary]]
+
+---
+
+### tío
+
+**Part of Speech:** noun (m)
+
+**Definition:** 삼촌/외삼촌
+
+**Pronunciation / IPA:** tío
+
+**Etymology:** Standard vocabulary term.
+
+#### Examples
+
+- Mi tío es médico.
+
+#### Related Terms
+
+- Related: [[family-vocabulary]]
+
+#### Cultural Notes
+
+Spanish family 어휘는 일상 대화에서 자주 사용됨.
+
+#### Sources
+
+- See also: [[family-vocabulary]]
+
+---
+
+### primo/prima
+
+**Part of Speech:** noun (m/f)
+
+**Definition:** 사촌
+
+**Pronunciation / IPA:** primo/prima
+
+**Etymology:** Standard vocabulary term.
+
+#### Examples
+
+- Tengo tres primos.
+
+#### Related Terms
+
+- Related: [[family-vocabulary]]
+
+#### Cultural Notes
+
+Spanish family 어휘는 일상 대화에서 자주 사용됨.
+
+#### Sources
+
+- See also: [[family-vocabulary]]
+
+---
+
+### familia
+
+**Part of Speech:** noun (f)
+
+**Definition:** 가족
+
+**Pronunciation / IPA:** familia
+
+**Etymology:** Standard vocabulary term.
+
+#### Examples
+
+- Amo a mi familia.
+
+#### Related Terms
+
+- Related: [[family-vocabulary]]
+
+#### Cultural Notes
+
+Spanish family 어휘는 일상 대화에서 자주 사용됨.
+
+#### Sources
+
+- See also: [[family-vocabulary]]
 
 ---
 
 ## Pipeline Form (machine-readable)
 
+> Machine-readable for cross-language indexers.
+
+```yaml
+- { id: es_family_001, display: "madre", input: "madre", meaning: "어머니", level: "A1", category: "family", source: "[[family-vocabulary]]" }
+- { id: es_family_002, display: "padre", input: "padre", meaning: "아버지", level: "A1", category: "family", source: "[[family-vocabulary]]" }
+- { id: es_family_003, display: "hermana", input: "hermana", meaning: "여자 형제", level: "A1", category: "family", source: "[[family-vocabulary]]" }
+- { id: es_family_004, display: "hermano", input: "hermano", meaning: "남자 형제", level: "A1", category: "family", source: "[[family-vocabulary]]" }
+- { id: es_family_005, display: "abuela", input: "abuela", meaning: "할머니", level: "A1", category: "family", source: "[[family-vocabulary]]" }
+- { id: es_family_006, display: "abuelo", input: "abuelo", meaning: "할아버지", level: "A1", category: "family", source: "[[family-vocabulary]]" }
+- { id: es_family_007, display: "tía", input: "tía", meaning: "고모/이모", level: "A2", category: "family", source: "[[family-vocabulary]]" }
+- { id: es_family_008, display: "tío", input: "tío", meaning: "삼촌/외삼촌", level: "A2", category: "family", source: "[[family-vocabulary]]" }
+- { id: es_family_009, display: "primo/prima", input: "primo/prima", meaning: "사촌", level: "A2", category: "family", source: "[[family-vocabulary]]" }
+- { id: es_family_010, display: "familia", input: "familia", meaning: "가족", level: "A1", category: "family", source: "[[family-vocabulary]]" }
 ```

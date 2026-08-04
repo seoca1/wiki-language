@@ -40,3 +40,6 @@ This lesson teaches the 20 most essential Mandarin greetings plus the self-intro
 - 50-expression reference table at the end is the most concentrated reference material in the OpenClaw Chinese lesson set
 - Direct prerequisite for [[daily-routine-zh]] (which assumes learners can already self-introduce)
 - Anchors forward into [[family-zh]] (family vocabulary for self-introduction) and [[numbers-zh]] (age expressions)
+## Sources
+
+- `Language/raw/Chinese/README.md` — Chinese raw materials 보존 정책 (현 디렉토리 부재, source-summary 단계에서 인용)

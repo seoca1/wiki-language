@@ -14,9 +14,7 @@ Esta página agrega todo el vocabulario de emociones y personalidad para el corp
 
 ## Emociones
 
-## Emociones
 
-## Emociones
 
 General
 
@@ -24,11 +22,11 @@ General
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Love (deep affection).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /aˈmoɾ/
 
-**Etymology:** 
+**Etymology:** From Latin "amōrem". Universal. "Amor propio" = "self-esteem / self-love".
 
 #### Examples
 
@@ -37,7 +35,7 @@ General
 
 #### Related Terms
 
-- [[amor]] — Autoreferencia
+- amor — Autoreferencia
 
 #### Cultural Notes
 
@@ -161,11 +159,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** verbo
 
-**Definition:** 
+**Definition:** To like / To please (verb, gustar-verb structure).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ɡusˈtaɾ/
 
-**Etymology:** 
+**Etymology:** From Latin "gustāre" (to taste). Note: in Spanish, the thing liked is the subject: "Me gusta X" = "X pleases me (I like X)".
 
 #### Examples
 
@@ -298,11 +296,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** verbo
 
-**Definition:** 
+**Definition:** To want / To love (verb).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /keˈɾeɾ/
 
-**Etymology:** 
+**Etymology:** From Latin "quaerĕre" (to seek, wish). Universal. "Te quiero" = "I love you".
 
 #### Examples
 
@@ -311,7 +309,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[querer]] — Forma base
+- querer — Forma base
 
 #### Cultural Notes
 
@@ -435,11 +433,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Beautiful (adjective, masculine).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /eɾˈmo.so/
 
-**Etymology:** 
+**Etymology:** From Latin "formōsus" (shapely, beautiful). Feminine: "hermosa".
 
 #### Examples
 
@@ -448,7 +446,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[hermoso]] — Autoreferencia
+- hermoso — Autoreferencia
 
 #### Cultural Notes
 
@@ -572,11 +570,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Pretty (adjective, feminine).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /boˈni.ta/
 
-**Etymology:** 
+**Etymology:** Diminutive of "bueno" (good). Universal. "¡Qué bonita!" = "How pretty!"
 
 #### Examples
 
@@ -585,7 +583,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[bonita]] — Autoreferencia
+- bonita — Autoreferencia
 
 #### Cultural Notes
 
@@ -709,11 +707,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Precious / Gorgeous (adjective).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /pɾeˈθjo.so/ or /pɾeˈsjo.so/
 
-**Etymology:** 
+**Etymology:** From Latin "pretiōsus" (valuable). Universal. "Momento precioso" = "precious moment".
 
 #### Examples
 
@@ -722,7 +720,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[precioso]] — Autoreferencia
+- precioso — Autoreferencia
 
 #### Cultural Notes
 
@@ -846,11 +844,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** adjetivo
 
-**Definition:** 
+**Definition:** Handsome / Good-looking (Spain: masculine).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈɡwa.po/
 
-**Etymology:** 
+**Etymology:** Possibly from "guapetón" or Old Spanish. Feminine: "guapa". Universal in Spain; in Latin America means "brave/courageous".
 
 #### Examples
 
@@ -982,11 +980,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Cold (emotion, also weather).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈfɾi.o/
 
-**Etymology:** 
+**Etymology:** From Latin "frīgĭdum". In emotional context: "estar frío" = "to be cold/distant".
 
 #### Examples
 
@@ -995,7 +993,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[frío]] — Autoreferencia
+- frío — Autoreferencia
 
 #### Cultural Notes
 
@@ -1119,11 +1117,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Heat wave / Sultriness (summer weather).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /boˈtʃoɾ.no/
 
-**Etymology:** 
+**Etymology:** From Late Latin "vulturnus" (south wind) via Vulgar Latin *bulturnus. "¡Qué bochorno!" = "How hot/humid!".
 
 #### Examples
 
@@ -1132,7 +1130,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[bochorno]] — Autoreferencia
+- bochorno — Autoreferencia
 
 #### Cultural Notes
 
@@ -1256,11 +1254,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Sunny disposition (emotion, also weather).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /so.laˈne.ɾa/
 
-**Etymology:** 
+**Etymology:** From "sol" (sun) + "-anera". Emotional context: cheerful warmth from sun exposure.
 
 #### Examples
 
@@ -1269,7 +1267,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[solanera]] — Autoreferencia
+- solanera — Autoreferencia
 
 #### Cultural Notes
 
@@ -1393,11 +1391,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Haughtiness / Pride (arrogance).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /al.tiˈβes/ or /al.tiˈves/
 
-**Etymology:** 
+**Etymology:** From "altivo" (haughty). Universal. "Su altivez" = "his/her haughtiness".
 
 #### Examples
 
@@ -1406,7 +1404,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[altivez]] — Autoreferencia
+- altivez — Autoreferencia
 
 #### Cultural Notes
 
@@ -1530,11 +1528,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Cool / Awesome (colloquial, Spain).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈmo.la/
 
-**Etymology:** 
+**Etymology:** Spain colloquial, possibly from "molar" (to grind/teeth). "¡Mola mucho!" = "It's awesome!"
 
 #### Examples
 
@@ -1543,7 +1541,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[mola]] — Autoreferencia
+- mola — Autoreferencia
 
 #### Cultural Notes
 
@@ -1665,151 +1663,281 @@ Contexto cultural por añadir
 
 ### desafiar
 
-**Part of Speech:** sustantivo
+**Part of Speech:** verbo
 
-**Definition:** 
+**Definition:** Desafiar / To challenge, to defy. In *Como agua para chocolate*, Tita desafía la tradición familiar al enamorarse de Pedro.
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /de.saˈfjaɾ/
 
-**Etymology:** 
-
-#### Examples
-
-- Necesito un desafiar. — Expresando necesidad
-- El desafiar está aquí. — Ubicación/presencia
-
-#### Related Terms
-
-- [[desafiar]] — Autoreferencia
-
-#### Cultural Notes
-
-Contexto cultural por añadir
-
-#### Sources
-
-- [[emotions-personality-vocabulary]]
-
----
-
-### Examples
-
-**Part of Speech:** 
-
-**Definition:** 
-
-**Pronunciation / IPA:** 
-
-**Etymology:** 
+**Etymology:** From "des-" (un-) + "afiar" (to sharpen). Universal. "Desafiar a alguien" = "to challenge someone".
 
 #### Examples
 
-- Examples — Oración de ejemplo necesaria
+- *Tita se atreve a **desafiar** el mandato de Mama Elena.* — Como agua para chocolate
+- *No me **desafíes**.* — Conflicto
+- *El proyecto **desafía** las expectativas.* — Uso figurado
 
 #### Related Terms
 
+- *someterse* — opuesto (obedecer)
+- *mandato* — lo que se desafía
+- *tradicion* — contexto del desafío
 
 #### Cultural Notes
 
-Contexto cultural por añadir
+En la novela, el acto de desafiar no es solo rebeldía: es supervivencia emocional. Tita desafía cocinando con sus emociones, transformando la opresión en arte. En español, "desafiar" implica confrontación directa, mientras que "resistir" es más pasivo. La jerarquía: desafiar > resistir > someterse.
 
 #### Sources
 
+- [[como-agua-para-chocolate-cap1]]
 - [[emotions-personality-vocabulary]]
-
 ---
 
-### Related Terms
+### sollozar
 
-**Part of Speech:** 
+**Part of Speech:** verbo
 
-**Definition:** 
+**Definition:** Sollozar / To sob, to weep convulsively. In *Como agua para chocolate*, Tita solloza en la cocina mientras pela cebollas.
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /so.ˈʎo.θaɾ/ (Spain) or /so.ˈʝo.saɾ/ (Latin America)
 
-**Etymology:** 
+**Etymology:** From Latin "sŭbclŭsāre" (to sob). "Sollozo" = noun (sob).
 
 #### Examples
 
-- Related Terms — Oración de ejemplo necesaria
+- *Tita **sollozaba** en la cocina.* — Como agua para chocolate
+- *El niño **solloza** en brazos de su madre.* — Uso general
+- *No **sollozes**, todo saldrá bien.* — Consuelo
 
 #### Related Terms
 
+- *llorar-como-una-magdalena* — expresión idiomática
+- *anhelar* — emoción relacionada
 
 #### Cultural Notes
 
-Contexto cultural por añadir
+"Sollozar" implica un llanto físico, audible, con hipo — más intenso que "llorar". En la literatura latinoamericana, el sollozo femenino suele marcar puntos de quiebre emocional. En México, "sollozar" se usa en contextos dramáticos y literarios; en lo cotidiano se prefiere "llorar a moco tendido" (coloquial).
 
 #### Sources
 
+- [[como-agua-para-chocolate-cap1]]
 - [[emotions-personality-vocabulary]]
-
 ---
 
-### Cultural Notes
+### anhelar
 
-**Part of Speech:** 
+**Part of Speech:** verbo
 
-**Definition:** 
+**Definition:** Anhelar / To yearn, to long for intensely. Tita anhela estar con Pedro pero la tradición se lo impide.
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /a.ˈne.laɾ/
 
-**Etymology:** 
+**Etymology:** From Latin "anhelāre" (to pant, to breathe hard). Originalmente "respirar con dificultad"; sentido figurado "desear ardientemente".
 
 #### Examples
 
-- Cultural Notes — Oración de ejemplo necesaria
+- *Tita **anhela** la libertad.* — Como agua para chocolate
+- ***Anhelo** verte de nuevo.* — Romántico
+- *El pueblo **anhela** la paz.* — Colectivo
 
 #### Related Terms
 
+- *desear* — sinónimo más suave
+- *querer* — verbo básico
+- *sollozar* — expresión física del anhelo
 
 #### Cultural Notes
 
-Contexto cultural por añadir
+"Anhelar" lleva una connotación de deseo casi doloroso, físico — "anhelar" comparte raíz con "anhelante" (jadeante). En la novela, el anhelo de Tita se manifiesta físicamente en su cocina. Diferencia clave: "desear" = want; "anhelar" = yearn con sufrimiento.
 
 #### Sources
 
+- [[como-agua-para-chocolate-cap1]]
 - [[emotions-personality-vocabulary]]
-
 ---
 
-### Sources
+### someterse
 
-**Part of Speech:** 
+**Part of Speech:** verbo (pronominal)
 
-**Definition:** 
+**Definition:** Someterse / To submit, to yield to authority. Tita debe someterse al mandato de Mama Elena... hasta que deja de hacerlo.
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /so.meˈteɾ.se/
 
-**Etymology:** 
+**Etymology:** From Latin "submittĕre" (sub- "bajo" + mittĕre "enviar/poner"). "Someter" = transitive; "someterse" = reflexivo.
 
 #### Examples
 
-- Sources — Oración de ejemplo necesaria
+- *Tita se **somete** a la tradición familiar.* — Como agua para chocolate
+- *No me **someteré** a tus caprichos.* — Resistencia
+- *El pueblo se **sometió** al mandato.* — Colectivo
 
 #### Related Terms
 
+- *desafiar* — opuesto
+- *mandato* — a lo que se somete
+- *tradicion* — estructura que exige sumisión
 
 #### Cultural Notes
 
-Contexto cultural por añadir
+"Someterse" implica aceptación (voluntaria o forzada) de una jerarquía. En México, la estructura patriarcal tradicional exigía que las hijas menores se sometieran al cuidado de la madre. La novela explora el momento en que la sumisión se rompe: no con violencia, sino con comida. "Someterse" vs "obedecer": el primero implica interiorización de la jerarquía; el segundo, cumplimiento externo.
 
 #### Sources
 
+- [[como-agua-para-chocolate-cap1]]
 - [[emotions-personality-vocabulary]]
-
 ---
 
-## Sources
+### heredar
 
+**Part of Speech:** verbo
+
+**Definition:** Heredar / To inherit (property, traits, traditions). Pedro hereda una fortuna; Tita hereda la obligación de cuidar a su madre.
+
+**Pronunciation / IPA:** /e.ɾeˈðaɾ/
+
+**Etymology:** From Latin "hērēditāre" (to inherit). "Herencia" = noun; "heredero/a" = heir.
+
+#### Examples
+
+- *Pedro **heredó** una fortuna de su padre.* — Como agua para chocolate
+- ***Heredé** los ojos de mi madre.* — Rasgos familiares
+- *La tradición se **hereda** de generación en generación.* — Cultura
+
+#### Related Terms
+
+- *matriarca* — quien deja la herencia (o la carga)
+- *mandato* — lo que se hereda como obligación
+- *tradicion* — herencia cultural
+
+#### Cultural Notes
+
+En la novela, la herencia tiene dos caras: Pedro hereda dinero (libertad), Tita hereda obligación (encierro). En México, "herencia" incluye no solo bienes sino recetas, remedios, dichos — "herencia de la abuela". El verbo "heredar" se usa tanto para lo material como lo inmaterial.
+
+#### Sources
+
+- [[como-agua-para-chocolate-cap1]]
 - [[emotions-personality-vocabulary]]
+---
 
+### matriarca
+
+**Part of Speech:** sustantivo (femenino)
+
+**Definition:** Matriarca / Matriarch (female head of family). Mama Elena es la matriarca que gobierna con mano de hierro.
+
+**Pronunciation / IPA:** /ma.tɾiˈaɾ.ka/
+
+**Etymology:** From Greek "mētēr" (madre) + "archein" (gobernar). Contrapartida de "patriarca".
+
+#### Examples
+
+- *Mama Elena, la **matriarca** de los De la Garza.* — Como agua para chocolate
+- *Mi abuela es la **matriarca** de la familia.* — Uso familiar
+- *Una **matriarca** indiscutida.* — Descripción
+
+#### Related Terms
+
+- *patriarca* — contrapartida masculina
+- *heredar* — lo que la matriarca transmite
+- *mandato* — su herramienta de poder
+- *someterse* — lo que exige
+
+#### Cultural Notes
+
+"Matriarca" no es solo "madre mayor" — implica autoridad estructural. En la novela, Mama Elena encarna el patriarcado ejercido por una mujer: usa la tradición para controlar. En México contemporáneo, "matriarca" puede ser elogio (mujer fuerte que sostiene familia) o crítica (controladora). La novela lo usa en sentido trágico: el poder de la matriarca destruye a su hija menor.
+
+#### Sources
+
+- [[como-agua-para-chocolate-cap1]]
+- [[emotions-personality-vocabulary]]
+---
+
+### mandato
+
+**Part of Speech:** sustantivo (masculino)
+
+**Definition:** Mandato / Mandate, order, decree. "¡Aquí no hay más ley que la mía!" — el mandato absoluto de Mama Elena.
+
+**Pronunciation / IPA:** /manˈda.to/
+
+**Etymology:** From Latin "mandātum" (orden, encargo). De "mandāre" (ordenar). "Mandar" = verbo.
+
+#### Examples
+
+- *El **mandato** de la tradición: la hija menor no se casa.* — Como agua para chocolate
+- *Cumplí el **mandato** de mi jefe.* — Laboral
+- *Divino **mandato**.* — Religioso
+
+#### Related Terms
+
+- *matriarca* — quien emite el mandato
+- *someterse* — respuesta al mandato
+- *desafiar* — ruptura del mandato
+- *tradicion* — fuente del mandato
+
+#### Cultural Notes
+
+En la novela, el "mandato" no es legal sino costumbrista: "tradición sagrada" que funciona como ley. En español jurídico, "mandato" es contrato de representación; en lo cotidiano, "orden autoritaria". La frase "mandato sagrado" en la novela yuxtapone lo religioso y lo doméstico, legitimando la opresión.
+
+#### Sources
+
+- [[como-agua-para-chocolate-cap1]]
+- [[emotions-personality-vocabulary]]
+---
+
+### tradicion
+
+**Part of Speech:** sustantivo (femenino)
+
+**Definition:** Tradición / Tradition. La tradición familiar que encadena a Tita: "Tita es mi hija menor y tiene que quedarse conmigo hasta que yo me muera."
+
+**Pronunciation / IPA:** /tɾa.ðiˈθjon/ (Spain) or /tɾa.ðiˈsjon/ (Latin America)
+
+**Etymology:** From Latin "trāditiō" (entrega, transmisión). De "trādere" (entregar, transmitir).
+
+#### Examples
+
+- *Es **tradición** en esta familia.* — Como agua para chocolate
+- *La **tradición** culinaria mexicana.* — Cultura
+- *Romper con la **tradición**.* — Cambio social
+
+#### Related Terms
+
+- *matriarca* — guardiana de la tradición
+- *mandato* — forma operativa de la tradición
+- *heredar* — transmisión de la tradición
+- [[cocina-espacio-femenino]] — donde la tradición se vive
+
+#### Cultural Notes
+
+En *Como agua para chocolate*, la tradición no es pasiva: es un mandato activo que se hace cumplir. La "tradición sagrada" de la hija menor es una invención familiar presentada como inmemorial. En México, "tradición" tiene peso moral: "por tradición" cierra debates. La novela pregunta: ¿qué tradiciones nutren y cuáles aprisionan? La cocina de Tita preserva tradición culinaria mientras subvierte tradición familiar.
+
+#### Sources
+
+- [[como-agua-para-chocolate-cap1]]
+- [[emotions-personality-vocabulary]]
 ---
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
-> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
+> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
 > The body above remains the human-readable form and is the source of truth.
 
+```yaml
+- { id: es_emotions_personality_vocabulary_001, display: "amor", input: "amor", meaning: "Love (deep affection).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: es_emotions_personality_vocabulary_002, display: "gustar", input: "gustar", meaning: "To like / To please (verb, gustar-verb structure).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: es_emotions_personality_vocabulary_003, display: "querer", input: "querer", meaning: "To want / To love (verb).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: es_emotions_personality_vocabulary_004, display: "hermoso", input: "hermoso", meaning: "Beautiful (adjective, masculine).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: es_emotions_personality_vocabulary_005, display: "bonita", input: "bonita", meaning: "Pretty (adjective, feminine).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: es_emotions_personality_vocabulary_006, display: "precioso", input: "precioso", meaning: "Precious / Gorgeous (adjective).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: es_emotions_personality_vocabulary_007, display: "guapo", input: "guapo", meaning: "Handsome / Good-looking (Spain: masculine).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: es_emotions_personality_vocabulary_008, display: "frío", input: "frío", meaning: "Cold (emotion, also weather).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: es_emotions_personality_vocabulary_009, display: "bochorno", input: "bochorno", meaning: "Heat wave / Sultriness (summer weather).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: es_emotions_personality_vocabulary_010, display: "solanera", input: "solanera", meaning: "Sunny disposition (emotion, also weather).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: es_emotions_personality_vocabulary_011, display: "altivez", input: "altivez", meaning: "Haughtiness / Pride (arrogance).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: es_emotions_personality_vocabulary_012, display: "mola", input: "mola", meaning: "Cool / Awesome (colloquial, Spain).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: es_emotions_personality_vocabulary_013, display: "desafiar", input: "desafiar", meaning: "To challenge / To defy (verb).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
 ```
+

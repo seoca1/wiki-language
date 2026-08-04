@@ -15,7 +15,6 @@ OpenClaw의 N5 한자 목록에서 숫자, 시간, 위치, 신체, 가족, 자�
 
 ## 숫자
 
-## 숫자
 
 ### 一
 
@@ -54,7 +53,11 @@ OpenClaw의 N5 한자 목록에서 숫자, 시간, 위치, 신체, 가족, 자�
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
-> The sections above remain the human-readable source of truth.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
+> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
+> The body above remains the human-readable form and is the source of truth.
 
+```yaml
+- { id: jp_kanji_n5_001, display: "一", input: "一", meaning: "하나", level: "** JLPT N5", category: "kanji-n5", source: "[[kanji-n5]]" }
 ```
+

@@ -58,6 +58,15 @@
 - [[gustar]] — construcción favorita para Expresión Oral sobre gustos y preferencias.
 - [[preposiciones-es]] — a / de / en / por / para, decisivas en Expresión Escrita.
 
+
+## Ejemplos
+
+«En la sección de Expresión Escrita, tarea 1: "Escribe un correo a un amigo describiendo tus vacaciones (50-80 palabras)".»
+«En Comprensión de Lectura: "Lee los siguientes letreros y elige la opción correcta".»
+«En Expresión Oral: el examinador pregunta "Háblame de tu familia" y el candidato responde durante 3-4 minutos.»
+
+---
+
 ## Sources
 
 - 원본: `.openclaw/workspace/wiki/spanish/_DELE_A2_Checklist.md` §DELE A2 개요 + §읽기/쓰기/듣기/말하기 (formato y criterios de evaluación, líneas 14-20 y 81-160).

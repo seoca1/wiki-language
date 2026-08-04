@@ -40,3 +40,6 @@ This lesson teaches how to describe a full day in Mandarin, from waking up (起�
 - Pairs with [[greetings-zh]]: greetings teach self-introduction, daily routine teaches day description
 - The 4-step learning ladder (Level 1 wake-up times → Level 2 morning routine → Level 3 full day → Level 4 day comparison) is a clean scaffolding structure worth replicating in other language wikis
 - Heavy anchor into [[measure-words-zh]] (measure word integration), [[numbers-zh]] (time expressions), and [[body-zh]] (body-related routine verbs like 洗脸, 刷牙)
+## Sources
+
+- `Language/raw/Chinese/README.md` — Chinese raw materials 보존 정책 (현 디렉토리 부재, source-summary 단계에서 인용)

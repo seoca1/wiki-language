@@ -39,3 +39,6 @@ This lesson covers the three tone sandhi (变调) rules that govern how Mandarin
 - Builds directly on [[pinyin-basics-zh]] (created same day, same author, one tier higher in difficulty)
 - 20 model sentences at the end are the highest-leverage practice material: each sentence combines multiple sandhi rules
 - This lesson is the bridge between pronunciation drills ([pinyin-basics-zh]]) and real conversational practice ([daily-routine-zh]], [[greetings-zh]])
+## Sources
+
+- `Language/raw/Chinese/README.md` — Chinese raw materials 보존 정책 (현 디렉토리 부재, source-summary 단계에서 인용)

@@ -16,9 +16,7 @@ Esta página agrega todo el vocabulario de ropa y moda para el corpus del juego 
 
 ## Ropa Básica
 
-## Ropa Básica
 
-## Ropa Básica
 
 General
 
@@ -26,11 +24,11 @@ General
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Shirt (upper garment).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /kaˈmi.sa/
 
-**Etymology:** 
+**Etymology:** From Late Latin "camisia". Universal. "Camisa de manga larga" = "long-sleeve shirt".
 
 #### Examples
 
@@ -39,7 +37,7 @@ General
 
 #### Related Terms
 
-- [[camisa]] — Autoreferencia
+- camisa — Autoreferencia
 - [[clothing-vocabulary]] — Vocabulario de ropa
 
 #### Cultural Notes
@@ -164,11 +162,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Pants / Trousers (lower garment).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /pan.taˈlon/
 
-**Etymology:** 
+**Etymology:** From Italian "pantaloni" (after Pantalone, Venetian character). Usually plural: "pantalones".
 
 #### Examples
 
@@ -177,7 +175,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[pantalón]] — Autoreferencia
+- pantalón — Autoreferencia
 
 #### Cultural Notes
 
@@ -301,11 +299,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Shoe (single footwear).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /saˈpa.to/
 
-**Etymology:** 
+**Etymology:** From Old Spanish "çapato". Universal. "Zapato derecho" = "right shoe".
 
 #### Examples
 
@@ -314,7 +312,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[zapato]] — Autoreferencia
+- zapato — Autoreferencia
 
 #### Cultural Notes
 
@@ -438,11 +436,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Hat (headwear with brim).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /somˈbɾe.ɾo/
 
-**Etymology:** 
+**Etymology:** From "sombra" (shade) + "-ero" (instrument). "Sombrero de paja" = "straw hat".
 
 #### Examples
 
@@ -451,7 +449,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[sombrero]] — Autoreferencia
+- sombrero — Autoreferencia
 - [[clothing-vocabulary]] — Vocabulario de ropa
 
 #### Cultural Notes
@@ -576,11 +574,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Coat / Overcoat (heavy outer garment).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /aˈbɾi.ɣo/
 
-**Etymology:** 
+**Etymology:** From "abrigar" (to shelter). "Abrigo de invierno" = "winter coat".
 
 #### Examples
 
@@ -589,7 +587,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[abrigo]] — Autoreferencia
+- abrigo — Autoreferencia
 - [[clothing-vocabulary]] — Vocabulario de ropa
 
 #### Cultural Notes
@@ -714,11 +712,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** sustantivo
 
-**Definition:** 
+**Definition:** Dress (one-piece garment).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /besˈti.ðo/
 
-**Etymology:** 
+**Etymology:** From "vestir" (to dress). Universal. "Vestido de novia" = "wedding dress".
 
 #### Examples
 
@@ -727,7 +725,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[vestido]] — Autoreferencia
+- vestido — Autoreferencia
 - [[clothing-vocabulary]] — Vocabulario de ropa
 
 #### Cultural Notes
@@ -856,8 +854,16 @@ Contexto cultural por añadir
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
-> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
+> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
 > The body above remains the human-readable form and is the source of truth.
 
+```yaml
+- { id: es_clothing_vocabulary_001, display: "camisa", input: "camisa", meaning: "Shirt (upper garment).", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: es_clothing_vocabulary_002, display: "pantalón", input: "pantalón", meaning: "Pants / Trousers (lower garment).", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: es_clothing_vocabulary_003, display: "zapato", input: "zapato", meaning: "Shoe (single footwear).", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: es_clothing_vocabulary_004, display: "sombrero", input: "sombrero", meaning: "Hat (headwear with brim).", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: es_clothing_vocabulary_005, display: "abrigo", input: "abrigo", meaning: "Coat / Overcoat (heavy outer garment).", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: es_clothing_vocabulary_006, display: "vestido", input: "vestido", meaning: "Dress (one-piece garment).", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
 ```
+

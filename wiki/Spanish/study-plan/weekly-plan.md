@@ -133,7 +133,7 @@ tags: [español, semanal, subjuntivo]
 
 ### Enlaces
 - [[weekly-plan]]
-- [[subjuntivo-y-subjetividad]]
+- *subjuntivo-y-subjetividad*
 ```
 
 자세한 발행 워크플로우는 `[[blog-output]]` 참조.

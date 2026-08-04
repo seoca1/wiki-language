@@ -14,7 +14,6 @@ This page aggregates all emotion and personality vocabulary for the typing langu
 
 ## Emotions & Feelings
 
-## Emotions & Feelings
 
 ### love
 
@@ -33,7 +32,7 @@ This page aggregates all emotion and personality vocabulary for the typing langu
 
 #### Related Terms
 
-- [[love]] — Self-reference check
+- love — Self-reference check
 
 #### Cultural Notes
 
@@ -62,7 +61,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[like]] — Self-reference check
+- like — Self-reference check
 
 #### Cultural Notes
 
@@ -82,8 +81,12 @@ Cultural context to be added
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
-> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
+> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
 > The body above remains the human-readable form and is the source of truth.
 
+```yaml
+- { id: en_emotions_personality_vocabulary_001, display: "love", input: "love", meaning: "사랑", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotions_personality_vocabulary_002, display: "like", input: "like", meaning: "좋아하다", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
 ```
+

@@ -303,7 +303,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[gracias]] — Autoreferencia
+- gracias — Autoreferencia
 
 #### Cultural Notes
 
@@ -386,7 +386,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[perdón]] — Autoreferencia
+- perdón — Autoreferencia
 
 #### Cultural Notes
 
@@ -415,7 +415,7 @@ Contexto cultural por añadir
 
 #### Related Terms
 
-- [[disculpe]] — Forma base
+- disculpe — Forma base
 
 #### Cultural Notes
 
@@ -733,8 +733,36 @@ Contexto cultural por añadir
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
-> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
+> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
 > The body above remains the human-readable form and is the source of truth.
 
+```yaml
+- { id: es_polite_expressions_vocabulary_001, display: "¿qué?", input: "¿qué?", meaning: "무엇", level: "A1", category: "polite-expressions-vocabulary", source: "[[polite-expressions-vocabulary]]" }
+- { id: es_polite_expressions_vocabulary_002, display: "¿quién?", input: "¿quién?", meaning: "누구", level: "A1", category: "polite-expressions-vocabulary", source: "[[polite-expressions-vocabulary]]" }
+- { id: es_polite_expressions_vocabulary_003, display: "¿dónde?", input: "¿dónde?", meaning: "어디", level: "A1", category: "polite-expressions-vocabulary", source: "[[polite-expressions-vocabulary]]" }
+- { id: es_polite_expressions_vocabulary_004, display: "¿cuándo?", input: "¿cuándo?", meaning: "언제", level: "A1", category: "polite-expressions-vocabulary", source: "[[polite-expressions-vocabulary]]" }
+- { id: es_polite_expressions_vocabulary_005, display: "¿cómo?", input: "¿cómo?", meaning: "어떻게", level: "A1", category: "polite-expressions-vocabulary", source: "[[polite-expressions-vocabulary]]" }
+- { id: es_polite_expressions_vocabulary_006, display: "¿cuánto/a?", input: "¿cuánto/a?", meaning: "양/가격", level: "A1", category: "polite-expressions-vocabulary", source: "[[polite-expressions-vocabulary]]" }
+- { id: es_polite_expressions_vocabulary_007, display: "¿cuántos/as?", input: "¿cuántos/as?", meaning: "수", level: "A1", category: "polite-expressions-vocabulary", source: "[[polite-expressions-vocabulary]]" }
+- { id: es_polite_expressions_vocabulary_008, display: "¿por qué?", input: "¿por qué?", meaning: "왜", level: "A1", category: "polite-expressions-vocabulary", source: "[[polite-expressions-vocabulary]]" }
+- { id: es_polite_expressions_vocabulary_009, display: "¿para qué?", input: "¿para qué?", meaning: "무엇을", level: "A1", category: "polite-expressions-vocabulary", source: "[[polite-expressions-vocabulary]]" }
+- { id: es_polite_expressions_vocabulary_010, display: "por favor", input: "por favor", meaning: "제발", level: "A1", category: "polite-expressions-vocabulary", source: "[[polite-expressions-vocabulary]]" }
+- { id: es_polite_expressions_vocabulary_011, display: "gracias", input: "gracias", meaning: "감사합니다", level: "A1", category: "polite-expressions-vocabulary", source: "[[polite-expressions-vocabulary]]" }
+- { id: es_polite_expressions_vocabulary_012, display: "muchas gracias", input: "muchas gracias", meaning: "매우", level: "A1", category: "polite-expressions-vocabulary", source: "[[polite-expressions-vocabulary]]" }
+- { id: es_polite_expressions_vocabulary_013, display: "de nada", input: "de nada", meaning: "천만에요", level: "A1", category: "polite-expressions-vocabulary", source: "[[polite-expressions-vocabulary]]" }
+- { id: es_polite_expressions_vocabulary_014, display: "perdón", input: "perdón", meaning: "실례합니다", level: "A1", category: "polite-expressions-vocabulary", source: "[[polite-expressions-vocabulary]]" }
+- { id: es_polite_expressions_vocabulary_015, display: "disculpe", input: "disculpe", meaning: "실례합니다", level: "A1", category: "polite-expressions-vocabulary", source: "[[polite-expressions-vocabulary]]" }
+- { id: es_polite_expressions_vocabulary_016, display: "buenos días", input: "buenos días", meaning: "좋은", level: "A1", category: "polite-expressions-vocabulary", source: "[[polite-expressions-vocabulary]]" }
+- { id: es_polite_expressions_vocabulary_017, display: "buenas tardes", input: "buenas tardes", meaning: "좋은", level: "A1", category: "polite-expressions-vocabulary", source: "[[polite-expressions-vocabulary]]" }
+- { id: es_polite_expressions_vocabulary_018, display: "buenas noches", input: "buenas noches", meaning: "좋은", level: "A1", category: "polite-expressions-vocabulary", source: "[[polite-expressions-vocabulary]]" }
+- { id: es_polite_expressions_vocabulary_019, display: "hola", input: "hola", meaning: "안녕", level: "A1", category: "polite-expressions-vocabulary", source: "[[polite-expressions-vocabulary]]" }
+- { id: es_polite_expressions_vocabulary_020, display: "adiós", input: "adiós", meaning: "안녕히", level: "A1", category: "polite-expressions-vocabulary", source: "[[polite-expressions-vocabulary]]" }
+- { id: es_polite_expressions_vocabulary_021, display: "hasta luego", input: "hasta luego", meaning: "나중에", level: "A1", category: "polite-expressions-vocabulary", source: "[[polite-expressions-vocabulary]]" }
+- { id: es_polite_expressions_vocabulary_022, display: "hasta mañana", input: "hasta mañana", meaning: "내일", level: "A1", category: "polite-expressions-vocabulary", source: "[[polite-expressions-vocabulary]]" }
+- { id: es_polite_expressions_vocabulary_023, display: "encantado/a", input: "encantado/a", meaning: "만나서", level: "A1", category: "polite-expressions-vocabulary", source: "[[polite-expressions-vocabulary]]" }
+- { id: es_polite_expressions_vocabulary_024, display: "lo siento", input: "lo siento", meaning: "미안합니다", level: "A1", category: "polite-expressions-vocabulary", source: "[[polite-expressions-vocabulary]]" }
+- { id: es_polite_expressions_vocabulary_025, display: "sí", input: "sí", meaning: "네", level: "A1", category: "polite-expressions-vocabulary", source: "[[polite-expressions-vocabulary]]" }
+- { id: es_polite_expressions_vocabulary_026, display: "no", input: "no", meaning: "아니요", level: "A1", category: "polite-expressions-vocabulary", source: "[[polite-expressions-vocabulary]]" }
 ```
+

@@ -27,6 +27,15 @@
 - [[tango-argentino]]: comparación entre dos prácticas culturales y dos variedades regionales del español.
 - [[cocina-espacio-femenino]]: otra perspectiva sobre la comida como espacio de memoria, identidad y vida social.
 
+
+## Ejemplos
+
+«"¿Qué quieres comer? — Un taco al pastor con todo, por favor" — interacción callejera típica en Ciudad de México.»
+«En los puestos de tacos, el cliente elige salsa verde o roja, cebolla, cilantro, limón.»
+«"Pásame el elote con queso y chile" — Elotes callejeros (corn on the cob) en mercados callejeros de Oaxaca.»
+
+---
+
 ## Sources
 
 - [[mexico-comida-callejera]]

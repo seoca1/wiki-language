@@ -45,11 +45,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** 
 
-**Definition:** 
+**Definition:** Cold / Cold weather.
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈfɾi.o/
 
-**Etymology:** 
+**Etymology:** From Latin "frīgĭdum". Antonym: "calor". "Hace frío" = "It's cold".
 
 #### Examples
 
@@ -72,11 +72,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** 
 
-**Definition:** 
+**Definition:** Sun (star; sunlight).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /sol/
 
-**Etymology:** 
+**Etymology:** From Latin "sōlem". Universal. "Tomar el sol" = "to sunbathe".
 
 #### Examples
 
@@ -99,11 +99,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** 
 
-**Definition:** 
+**Definition:** Wind (moving air).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈbjen.to/
 
-**Etymology:** 
+**Etymology:** From Latin "vēntum". Universal. "Viento solar" = "solar wind".
 
 #### Examples
 
@@ -153,11 +153,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** 
 
-**Definition:** 
+**Definition:** Sunny (clear weather).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /so.leˈa.ðo/
 
-**Etymology:** 
+**Etymology:** From "sol" (sun) + "-eado" (adjective suffix). "Día soleado" = "sunny day".
 
 #### Examples
 
@@ -180,11 +180,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** 
 
-**Definition:** 
+**Definition:** Clear (cloudless sky).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /des.peˈxa.ðo/
 
-**Etymology:** 
+**Etymology:** Past participle of "despejar" (to clear). "Cielo despejado" = "clear sky".
 
 #### Examples
 
@@ -207,11 +207,11 @@ Contexto cultural por añadir
 
 **Part of Speech:** 
 
-**Definition:** 
+**Definition:** It rains (verb form).
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈʎwe.βe/
 
-**Etymology:** 
+**Etymology:** Third person singular present of "llover" (to rain). "Hoy llueve" = "Today it's raining".
 
 #### Examples
 
@@ -234,4 +234,18 @@ Contexto cultural por añadir
 
 ## Pipeline Form (machine-readable)
 
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
+> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: es_weather_vocabulary_001, display: "hace calor", input: "hace calor", meaning: "**Pronunciation / IPA:**", level: "** A1-B1", category: "weather-vocabulary", source: "[[weather-vocabulary]]" }
+- { id: es_weather_vocabulary_002, display: "frío", input: "frío", meaning: "Cold / Cold weather.", level: "** A1-B1", category: "weather-vocabulary", source: "[[weather-vocabulary]]" }
+- { id: es_weather_vocabulary_003, display: "sol", input: "sol", meaning: "Sun (star; sunlight).", level: "** A1-B1", category: "weather-vocabulary", source: "[[weather-vocabulary]]" }
+- { id: es_weather_vocabulary_004, display: "viento", input: "viento", meaning: "Wind (moving air).", level: "** A1-B1", category: "weather-vocabulary", source: "[[weather-vocabulary]]" }
+- { id: es_weather_vocabulary_005, display: "está nublado", input: "está nublado", meaning: "**Pronunciation / IPA:**", level: "** A1-B1", category: "weather-vocabulary", source: "[[weather-vocabulary]]" }
+- { id: es_weather_vocabulary_006, display: "soleado", input: "soleado", meaning: "Sunny (clear weather).", level: "** A1-B1", category: "weather-vocabulary", source: "[[weather-vocabulary]]" }
+- { id: es_weather_vocabulary_007, display: "despejado", input: "despejado", meaning: "Clear (cloudless sky).", level: "** A1-B1", category: "weather-vocabulary", source: "[[weather-vocabulary]]" }
+- { id: es_weather_vocabulary_008, display: "llueve", input: "llueve", meaning: "It rains (verb form).", level: "** A1-B1", category: "weather-vocabulary", source: "[[weather-vocabulary]]" }
 ```
+

@@ -34,3 +34,6 @@ This source covers Chinese word order (SVO structure) and its key differences fr
 ## Notes
 
 Source: OpenClaw workspace `Word_Order_Chinese.md` (Notion page: 39ef643d-3530-81c9-b5a1-c2b3263141a3). Full content migrated to `wiki/Chinese/grammar/word-order.md`.
+## Sources
+
+- `Language/raw/Chinese/README.md` — Chinese raw materials 보존 정책 (현 디렉토리 부재, source-summary 단계에서 인용)

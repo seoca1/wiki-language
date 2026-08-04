@@ -49,5 +49,5 @@ Español para aventuras de viaje — senderismo, camping, actividades al aire li
 ## Sources
 
 - [[first-travel-spain]] — España
-- [[travel-basics]] — básico
+- *travel-basics* — básico
 - [[como-agua-para-chocolate-cap1]] — contexto cultural

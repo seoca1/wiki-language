@@ -26,6 +26,15 @@
 - [[spanish-dating-culture]]: comparación entre invitaciones verbales, lenguaje corporal y normas de cortesía.
 - [[mexico-comida-callejera]]: contraste con otra tradición cultural destacada del mundo hispanohablante.
 
+
+## Ejemplos
+
+«"Nos vemos en la milonga del sábado" — el centro social del tango en Buenos Aires.»
+«"El cabeceo es la invitación silenciosa: una mirada y un gesto con la cabeza" — código de la milonga.»
+«"La última canción suele ser La cumparsita" — cierre ritual de cualquier milonga.»
+
+---
+
 ## Sources
 
 - [[tango-argentino]]

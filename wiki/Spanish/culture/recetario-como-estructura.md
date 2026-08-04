@@ -26,6 +26,15 @@
 - **Chick lit** posterior y *food writing* deben algo a Esquivel
 - La novela anticipa el interés cultural por la **cocina como patrimonio inmaterial** (UNESCO, s. XXI)
 
+
+## Ejemplos de estructura narrativa tipo recetario
+
+«Como en una receta: "Primero…, luego…, finalmente…" — la estructura de muchos relatos orales tradicionales sigue esta secuencia temporal ritual.»
+«"A fuego lento durante 40 minutos" funciona en una receta y en una narración donde los personajes se transforman gradualmente.»
+«La estructura de *Como agua para chocolate* de Laura Esquivel presenta cada capítulo como una receta.»
+
+---
+
 ## Sources
 
 - [[como-agua-para-chocolate-cap1]]

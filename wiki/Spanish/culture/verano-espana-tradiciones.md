@@ -32,9 +32,21 @@
 - *gazpacho* - sopa fría de verano
 - *siesta post-playa* - descanso tras comer
 
+
+## Ejemplos de tradiciones veraniegas en España
+
+«"En agosto se va todo a la playa" — cierre masivo de tiendas y oficinas durante las vacaciones estivales.»
+«Las "fiestas patronales" de cada pueblo, con verbenas, procesiones y orquestas al aire libre.»
+«"Tomarse un helado" en la sobremesa de la comida, costumbre profundamente española en los meses de calor.»
+
+---
+
 ## Sources
 
 - [[notes-in-spanish-planes-de-verano]]
-- bochorno
+- *bochorno*
 - escapada
 - veranear
+
+- [[siesta-tradicion-verano]] - Pausa de mediodía
+- *tradiciones-veraniegas* - Verano en distintas culturas

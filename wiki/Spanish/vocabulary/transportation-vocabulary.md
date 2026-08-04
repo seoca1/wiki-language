@@ -1,345 +1,308 @@
 ---
+title: "transportation vocabulary - Spanish"
+language: "Spanish"
 category: "transportation"
+level: "A1-A2"
+theme: "transportation"
 ---
 
-# transportation-vocabulary — Card-extracted vocabulary (2026-06-22 ~ latest)
+# transportation vocabulary - Spanish theme
 
-**Source:** Card News Archive extraction (ADR-0062)
-**Theme:** transportation-vocabulary
-**Level:** A1-B1
+**Overview:** Spanish transportation 어휘. 일상 대화에서 자주 사용되는 필수 단어 모음.
 
-Vocabulary extracted from .openclaw card_news archive slot [2]. Each entry is genuinely new (not duplicating existing Language/wiki content).
+### coche
 
----
+**Part of Speech:** noun (m)
 
-General
+**Definition:** 자동차
 
-### estación
+**Pronunciation / IPA:** coche
 
-**Part of Speech:** 
-
-**Definition:** 
-
-**Pronunciation / IPA:** 
-
-**Etymology:** 
+**Etymology:** Standard vocabulary term.
 
 #### Examples
 
-- estación — Oración de ejemplo necesaria
+- Conduzco un coche al trabajo.
 
 #### Related Terms
 
+- Related: [[transportation-vocabulary]]
 
 #### Cultural Notes
 
-Contexto cultural por añadir
+Spanish transportation 어휘는 일상 대화에서 자주 사용됨.
 
 #### Sources
 
-- [[transportation-vocabulary]]
-
----
-
-### metro
-
-**Part of Speech:** 
-
-**Definition:** 
-
-**Pronunciation / IPA:** 
-
-**Etymology:** 
-
-#### Examples
-
-- metro — Oración de ejemplo necesaria
-
-#### Related Terms
-
-
-#### Cultural Notes
-
-Contexto cultural por añadir
-
-#### Sources
-
-- [[transportation-vocabulary]]
+- See also: [[transportation-vocabulary]]
 
 ---
 
 ### autobús
 
-**Part of Speech:** 
+**Part of Speech:** noun (m)
 
-**Definition:** 
+**Definition:** 버스
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** autobús
 
-**Etymology:** 
-
-#### Examples
-
-- autobús — Oración de ejemplo necesaria
-
-#### Related Terms
-
-
-#### Cultural Notes
-
-Contexto cultural por añadir
-
-#### Sources
-
-- [[transportation-vocabulary]]
-
----
-
-### taxi
-
-**Part of Speech:** 
-
-**Definition:** 
-
-**Pronunciation / IPA:** 
-
-**Etymology:** 
+**Etymology:** Standard vocabulary term.
 
 #### Examples
 
-- taxi — Oración de ejemplo necesaria
+- El autobús está retrasado hoy.
 
 #### Related Terms
 
+- Related: [[transportation-vocabulary]]
 
 #### Cultural Notes
 
-Contexto cultural por añadir
+Spanish transportation 어휘는 일상 대화에서 자주 사용됨.
 
 #### Sources
 
-- [[transportation-vocabulary]]
-
----
-
-### aeropuerto
-
-**Part of Speech:** 
-
-**Definition:** 
-
-**Pronunciation / IPA:** 
-
-**Etymology:** 
-
-#### Examples
-
-- aeropuerto — Oración de ejemplo necesaria
-
-#### Related Terms
-
-
-#### Cultural Notes
-
-Contexto cultural por añadir
-
-#### Sources
-
-- [[transportation-vocabulary]]
-
----
-
-### billete
-
-**Part of Speech:** 
-
-**Definition:** 
-
-**Pronunciation / IPA:** 
-
-**Etymology:** 
-
-#### Examples
-
-- billete — Oración de ejemplo necesaria
-
-#### Related Terms
-
-
-#### Cultural Notes
-
-Contexto cultural por añadir
-
-#### Sources
-
-- [[transportation-vocabulary]]
+- See also: [[transportation-vocabulary]]
 
 ---
 
 ### tren
 
-**Part of Speech:** 
+**Part of Speech:** noun (m)
 
-**Definition:** 
+**Definition:** 기차
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** tren
 
-**Etymology:** 
+**Etymology:** Standard vocabulary term.
 
 #### Examples
 
-- tren — Oración de ejemplo necesaria
+- Tomo el tren a Madrid.
 
 #### Related Terms
 
+- Related: [[transportation-vocabulary]]
 
 #### Cultural Notes
 
-Contexto cultural por añadir
+Spanish transportation 어휘는 일상 대화에서 자주 사용됨.
 
 #### Sources
 
-- [[transportation-vocabulary]]
+- See also: [[transportation-vocabulary]]
 
 ---
 
 ### avión
 
-**Part of Speech:** 
+**Part of Speech:** noun (m)
 
-**Definition:** 
+**Definition:** 비행기
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** avión
 
-**Etymology:** 
-
-#### Examples
-
-- avión — Oración de ejemplo necesaria
-
-#### Related Terms
-
-
-#### Cultural Notes
-
-Contexto cultural por añadir
-
-#### Sources
-
-- [[transportation-vocabulary]]
-
----
-
-### tomar el metro
-
-**Part of Speech:** 
-
-**Definition:** 
-
-**Pronunciation / IPA:** 
-
-**Etymology:** 
+**Etymology:** Standard vocabulary term.
 
 #### Examples
 
-- tomar el metro — Oración de ejemplo necesaria
+- El avión es rápido.
 
 #### Related Terms
 
+- Related: [[transportation-vocabulary]]
 
 #### Cultural Notes
 
-Contexto cultural por añadir
+Spanish transportation 어휘는 일상 대화에서 자주 사용됨.
 
 #### Sources
 
-- [[transportation-vocabulary]]
+- See also: [[transportation-vocabulary]]
 
 ---
 
-### comprar un billete
+### barco
 
-**Part of Speech:** 
+**Part of Speech:** noun (m)
 
-**Definition:** 
+**Definition:** 배
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** barco
 
-**Etymology:** 
+**Etymology:** Standard vocabulary term.
 
 #### Examples
 
-- comprar un billete — Oración de ejemplo necesaria
+- El barco cruza el océano.
 
 #### Related Terms
 
+- Related: [[transportation-vocabulary]]
 
 #### Cultural Notes
 
-Contexto cultural por añadir
+Spanish transportation 어휘는 일상 대화에서 자주 사용됨.
 
 #### Sources
 
-- [[transportation-vocabulary]]
+- See also: [[transportation-vocabulary]]
 
 ---
 
-### ir al aeropuerto
+### bicicleta
 
-**Part of Speech:** 
+**Part of Speech:** noun (f)
 
-**Definition:** 
+**Definition:** 자전거
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** bicicleta
 
-**Etymology:** 
+**Etymology:** Standard vocabulary term.
 
 #### Examples
 
-- ir al aeropuerto — Oración de ejemplo necesaria
+- Voy en bicicleta al colegio.
 
 #### Related Terms
 
+- Related: [[transportation-vocabulary]]
 
 #### Cultural Notes
 
-Contexto cultural por añadir
+Spanish transportation 어휘는 일상 대화에서 자주 사용됨.
 
 #### Sources
 
-- [[transportation-vocabulary]]
+- See also: [[transportation-vocabulary]]
 
 ---
 
-### ir en tren
+### taxi
 
-**Part of Speech:** 
+**Part of Speech:** noun (m)
 
-**Definition:** 
+**Definition:** 택시
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** taxi
 
-**Etymology:** 
+**Etymology:** Standard vocabulary term.
 
 #### Examples
 
-- ir en tren — Oración de ejemplo necesaria
+- Tomé un taxi a casa.
 
 #### Related Terms
 
+- Related: [[transportation-vocabulary]]
 
 #### Cultural Notes
 
-Contexto cultural por añadir
+Spanish transportation 어휘는 일상 대화에서 자주 사용됨.
 
 #### Sources
 
-- [[transportation-vocabulary]]
+- See also: [[transportation-vocabulary]]
 
 ---
+
+### metro
+
+**Part of Speech:** noun (m)
+
+**Definition:** 지하철
+
+**Pronunciation / IPA:** metro
+
+**Etymology:** Standard vocabulary term.
+
+#### Examples
+
+- El metro es rápido en Madrid.
+
+#### Related Terms
+
+- Related: [[transportation-vocabulary]]
+
+#### Cultural Notes
+
+Spanish transportation 어휘는 일상 대화에서 자주 사용됨.
+
+#### Sources
+
+- See also: [[transportation-vocabulary]]
+
+---
+
+### estación
+
+**Part of Speech:** noun (f)
+
+**Definition:** 역
+
+**Pronunciation / IPA:** estación
+
+**Etymology:** Standard vocabulary term.
+
+#### Examples
+
+- La estación de tren está cerca.
+
+#### Related Terms
+
+- Related: [[transportation-vocabulary]]
+
+#### Cultural Notes
+
+Spanish transportation 어휘는 일상 대화에서 자주 사용됨.
+
+#### Sources
+
+- See also: [[transportation-vocabulary]]
+
+---
+
+### billete
+
+**Part of Speech:** noun (m)
+
+**Definition:** 표
+
+**Pronunciation / IPA:** billete
+
+**Etymology:** Standard vocabulary term.
+
+#### Examples
+
+- Compré un billete en línea.
+
+#### Related Terms
+
+- Related: [[transportation-vocabulary]]
+
+#### Cultural Notes
+
+Spanish transportation 어휘는 일상 대화에서 자주 사용됨.
+
+#### Sources
+
+- See also: [[transportation-vocabulary]]
 
 ---
 
 ## Pipeline Form (machine-readable)
 
+> Machine-readable for cross-language indexers.
+
+```yaml
+- { id: es_transportation_001, display: "coche", input: "coche", meaning: "자동차", level: "A1", category: "transportation", source: "[[transportation-vocabulary]]" }
+- { id: es_transportation_002, display: "autobús", input: "autobús", meaning: "버스", level: "A1", category: "transportation", source: "[[transportation-vocabulary]]" }
+- { id: es_transportation_003, display: "tren", input: "tren", meaning: "기차", level: "A1", category: "transportation", source: "[[transportation-vocabulary]]" }
+- { id: es_transportation_004, display: "avión", input: "avión", meaning: "비행기", level: "A1", category: "transportation", source: "[[transportation-vocabulary]]" }
+- { id: es_transportation_005, display: "barco", input: "barco", meaning: "배", level: "A2", category: "transportation", source: "[[transportation-vocabulary]]" }
+- { id: es_transportation_006, display: "bicicleta", input: "bicicleta", meaning: "자전거", level: "A1", category: "transportation", source: "[[transportation-vocabulary]]" }
+- { id: es_transportation_007, display: "taxi", input: "taxi", meaning: "택시", level: "A1", category: "transportation", source: "[[transportation-vocabulary]]" }
+- { id: es_transportation_008, display: "metro", input: "metro", meaning: "지하철", level: "A1", category: "transportation", source: "[[transportation-vocabulary]]" }
+- { id: es_transportation_009, display: "estación", input: "estación", meaning: "역", level: "A1", category: "transportation", source: "[[transportation-vocabulary]]" }
+- { id: es_transportation_010, display: "billete", input: "billete", meaning: "표", level: "A1", category: "transportation", source: "[[transportation-vocabulary]]" }
 ```

@@ -12,7 +12,6 @@ This page aggregates all business vocabulary for the typing language game corpus
 
 ## Communication & Technology
 
-## Communication & Technology
 
 ### email
 
@@ -31,7 +30,7 @@ This page aggregates all business vocabulary for the typing language game corpus
 
 #### Related Terms
 
-- [[email]] — Self-reference check
+- email — Self-reference check
 
 #### Cultural Notes
 
@@ -60,7 +59,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[computer]] — Self-reference check
+- computer — Self-reference check
 
 #### Cultural Notes
 
@@ -89,7 +88,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[internet]] — Self-reference check
+- internet — Self-reference check
 
 #### Cultural Notes
 
@@ -118,7 +117,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[keyboard]] — Self-reference check
+- keyboard — Self-reference check
 
 #### Cultural Notes
 
@@ -147,7 +146,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[screen]] — Self-reference check
+- screen — Self-reference check
 
 #### Cultural Notes
 
@@ -176,7 +175,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[phone]] — Self-reference check
+- phone — Self-reference check
 
 #### Cultural Notes
 
@@ -205,7 +204,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[website]] — Self-reference check
+- website — Self-reference check
 
 #### Cultural Notes
 
@@ -234,7 +233,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[wifi]] — Self-reference check
+- wifi — Self-reference check
 
 #### Cultural Notes
 
@@ -263,7 +262,7 @@ Cultural context to be added
 
 #### Related Terms
 
-- [[password]] — Self-reference check
+- password — Self-reference check
 
 #### Cultural Notes
 
@@ -283,8 +282,19 @@ Cultural context to be added
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
-> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
+> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
 > The body above remains the human-readable form and is the source of truth.
 
+```yaml
+- { id: en_business_vocabulary_001, display: "email", input: "email", meaning: "이메일", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: en_business_vocabulary_002, display: "computer", input: "computer", meaning: "컴퓨터", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: en_business_vocabulary_003, display: "internet", input: "internet", meaning: "인터넷", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: en_business_vocabulary_004, display: "keyboard", input: "keyboard", meaning: "키보드", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: en_business_vocabulary_005, display: "screen", input: "screen", meaning: "화면", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: en_business_vocabulary_006, display: "phone", input: "phone", meaning: "전화", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: en_business_vocabulary_007, display: "website", input: "website", meaning: "웹사이트", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: en_business_vocabulary_008, display: "wifi", input: "wifi", meaning: "와이파이", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: en_business_vocabulary_009, display: "password", input: "password", meaning: "비밀번호", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
 ```
+

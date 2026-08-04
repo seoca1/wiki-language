@@ -14,7 +14,6 @@ This page aggregates all emotion and personality vocabulary for the typing langu
 
 ## Basic Emotions (基本感情)
 
-## Basic Emotions (基本感情)
 
 ### 嬉しい
 
@@ -33,7 +32,7 @@ This page aggregates all emotion and personality vocabulary for the typing langu
 
 #### Related Terms
 
-- [[嬉しい]] — 自動参照
+- 嬉しい — 自動参照
 
 #### Cultural Notes
 
@@ -62,7 +61,7 @@ This page aggregates all emotion and personality vocabulary for the typing langu
 
 #### Related Terms
 
-- [[悲しい]] — 自動参照
+- 悲しい — 自動参照
 
 #### Cultural Notes
 
@@ -91,7 +90,7 @@ This page aggregates all emotion and personality vocabulary for the typing langu
 
 #### Related Terms
 
-- [[寂しい]] — 自動参照
+- 寂しい — 自動参照
 
 #### Cultural Notes
 
@@ -120,7 +119,7 @@ This page aggregates all emotion and personality vocabulary for the typing langu
 
 #### Related Terms
 
-- [[怒った]] — 自動参照
+- 怒った — 自動参照
 
 #### Cultural Notes
 
@@ -149,7 +148,7 @@ This page aggregates all emotion and personality vocabulary for the typing langu
 
 #### Related Terms
 
-- [[怖い]] — 自動参照
+- 怖い — 自動参照
 
 #### Cultural Notes
 
@@ -178,7 +177,7 @@ This page aggregates all emotion and personality vocabulary for the typing langu
 
 #### Related Terms
 
-- [[恥ずかしい]] — 自動参照
+- 恥ずかしい — 自動参照
 
 #### Cultural Notes
 
@@ -207,7 +206,7 @@ This page aggregates all emotion and personality vocabulary for the typing langu
 
 #### Related Terms
 
-- [[嫉妬]] — 自動参照
+- 嫉妬 — 自動参照
 
 #### Cultural Notes
 
@@ -236,7 +235,7 @@ This page aggregates all emotion and personality vocabulary for the typing langu
 
 #### Related Terms
 
-- [[不安]] — 自動参照
+- 不安 — 自動参照
 
 #### Cultural Notes
 
@@ -265,7 +264,7 @@ This page aggregates all emotion and personality vocabulary for the typing langu
 
 #### Related Terms
 
-- [[緊張する]] — 自動参照
+- 緊張する — 自動参照
 
 #### Cultural Notes
 
@@ -294,7 +293,7 @@ This page aggregates all emotion and personality vocabulary for the typing langu
 
 #### Related Terms
 
-- [[感動]] — 自動参照
+- 感動 — 自動参照
 
 #### Cultural Notes
 
@@ -323,7 +322,7 @@ This page aggregates all emotion and personality vocabulary for the typing langu
 
 #### Related Terms
 
-- [[感謝する]] — 自動参照
+- 感謝する — 自動参照
 
 #### Cultural Notes
 
@@ -352,7 +351,7 @@ This page aggregates all emotion and personality vocabulary for the typing langu
 
 #### Related Terms
 
-- [[親切]] — 自動参照
+- 親切 — 自動参照
 
 #### Cultural Notes
 
@@ -381,7 +380,7 @@ This page aggregates all emotion and personality vocabulary for the typing langu
 
 #### Related Terms
 
-- [[後悔]] — 自動参照
+- 後悔 — 自動参照
 
 #### Cultural Notes
 
@@ -410,7 +409,7 @@ This page aggregates all emotion and personality vocabulary for the typing langu
 
 #### Related Terms
 
-- [[ときめく]] — 自動参照
+- ときめく — 自動参照
 
 #### Cultural Notes
 
@@ -441,7 +440,7 @@ This page aggregates all emotion and personality vocabulary for the typing langu
 
 #### Related Terms
 
-- [[綺麗]] — 自動参照
+- 綺麗 — 自動参照
 
 #### Cultural Notes
 
@@ -470,7 +469,7 @@ This page aggregates all emotion and personality vocabulary for the typing langu
 
 #### Related Terms
 
-- [[可愛い]] — 自動参照
+- 可愛い — 自動参照
 
 #### Cultural Notes
 
@@ -499,7 +498,7 @@ This page aggregates all emotion and personality vocabulary for the typing langu
 
 #### Related Terms
 
-- [[かっこいい]] — 自動参照
+- かっこいい — 自動参照
 
 #### Cultural Notes
 
@@ -528,7 +527,7 @@ This page aggregates all emotion and personality vocabulary for the typing langu
 
 #### Related Terms
 
-- [[悪い]] — 自動参照
+- 悪い — 自動参照
 
 #### Cultural Notes
 
@@ -557,7 +556,7 @@ This page aggregates all emotion and personality vocabulary for the typing langu
 
 #### Related Terms
 
-- [[良い]] — 自動参照
+- 良い — 自動参照
 
 #### Cultural Notes
 
@@ -586,7 +585,7 @@ This page aggregates all emotion and personality vocabulary for the typing langu
 
 #### Related Terms
 
-- [[高い]] — 自動参照
+- 高い — 自動参照
 
 #### Cultural Notes
 
@@ -615,7 +614,7 @@ This page aggregates all emotion and personality vocabulary for the typing langu
 
 #### Related Terms
 
-- [[安い]] — 自動参照
+- 安い — 自動参照
 
 #### Cultural Notes
 
@@ -644,7 +643,7 @@ This page aggregates all emotion and personality vocabulary for the typing langu
 
 #### Related Terms
 
-- [[機嫌が悪い]] — 自動参照
+- 機嫌が悪い — 自動参照
 
 #### Cultural Notes
 
@@ -673,7 +672,7 @@ This page aggregates all emotion and personality vocabulary for the typing langu
 
 #### Related Terms
 
-- [[明るい]] — 自動参照
+- 明るい — 自動参照
 
 #### Cultural Notes
 
@@ -702,7 +701,7 @@ This page aggregates all emotion and personality vocabulary for the typing langu
 
 #### Related Terms
 
-- [[暗い]] — 自動参照
+- 暗い — 自動参照
 
 #### Cultural Notes
 
@@ -731,7 +730,7 @@ This page aggregates all emotion and personality vocabulary for the typing langu
 
 #### Related Terms
 
-- [[暑い]] — 自動参照
+- 暑い — 自動参照
 
 #### Cultural Notes
 
@@ -760,7 +759,7 @@ This page aggregates all emotion and personality vocabulary for the typing langu
 
 #### Related Terms
 
-- [[寒い]] — 自動参照
+- 寒い — 自動参照
 
 #### Cultural Notes
 
@@ -789,7 +788,7 @@ This page aggregates all emotion and personality vocabulary for the typing langu
 
 #### Related Terms
 
-- [[きつい]] — 自動参照
+- きつい — 自動参照
 
 #### Cultural Notes
 
@@ -818,7 +817,7 @@ This page aggregates all emotion and personality vocabulary for the typing langu
 
 #### Related Terms
 
-- [[緩い]] — 自動参照
+- 緩い — 自動参照
 
 #### Cultural Notes
 
@@ -847,7 +846,7 @@ This page aggregates all emotion and personality vocabulary for the typing langu
 
 #### Related Terms
 
-- [[怠け者]] — 自動参照
+- 怠け者 — 自動参照
 
 #### Cultural Notes
 
@@ -876,7 +875,7 @@ This page aggregates all emotion and personality vocabulary for the typing langu
 
 #### Related Terms
 
-- [[勤勉]] — 自動参照
+- 勤勉 — 自動参照
 
 #### Cultural Notes
 
@@ -905,7 +904,7 @@ This page aggregates all emotion and personality vocabulary for the typing langu
 
 #### Related Terms
 
-- [[沉着]] — 自動参照
+- 沉着 — 自動参照
 
 #### Cultural Notes
 
@@ -934,7 +933,7 @@ This page aggregates all emotion and personality vocabulary for the typing langu
 
 #### Related Terms
 
-- [[無礼]] — 自動参照
+- 無礼 — 自動参照
 
 #### Cultural Notes
 
@@ -954,8 +953,42 @@ This page aggregates all emotion and personality vocabulary for the typing langu
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
-> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
+> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
 > The body above remains the human-readable form and is the source of truth.
 
+```yaml
+- { id: jp_emotions_personality_vocabulary_001, display: "嬉しい", input: "嬉しい", meaning: "happy", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: jp_emotions_personality_vocabulary_002, display: "悲しい", input: "悲しい", meaning: "sad", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: jp_emotions_personality_vocabulary_003, display: "寂しい", input: "寂しい", meaning: "lonely", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: jp_emotions_personality_vocabulary_004, display: "怒った", input: "怒った", meaning: "angry", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: jp_emotions_personality_vocabulary_005, display: "怖い", input: "怖い", meaning: "scary/fearful", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: jp_emotions_personality_vocabulary_006, display: "恥ずかしい", input: "恥ずかしい", meaning: "embarrassed", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: jp_emotions_personality_vocabulary_007, display: "嫉妬", input: "嫉妬", meaning: "jealousy", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: jp_emotions_personality_vocabulary_008, display: "不安", input: "不安", meaning: "anxious", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: jp_emotions_personality_vocabulary_009, display: "緊張する", input: "緊張する", meaning: "nervous", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: jp_emotions_personality_vocabulary_010, display: "感動", input: "感動", meaning: "deeply moved", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: jp_emotions_personality_vocabulary_011, display: "感謝する", input: "感謝する", meaning: "grateful", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: jp_emotions_personality_vocabulary_012, display: "親切", input: "親切", meaning: "kind", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: jp_emotions_personality_vocabulary_013, display: "後悔", input: "後悔", meaning: "regret", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: jp_emotions_personality_vocabulary_014, display: "ときめく", input: "ときめく", meaning: "heart races", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: jp_emotions_personality_vocabulary_015, display: "綺麗", input: "綺麗", meaning: "beautiful/clean", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: jp_emotions_personality_vocabulary_016, display: "可愛い", input: "可愛い", meaning: "cute", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: jp_emotions_personality_vocabulary_017, display: "かっこいい", input: "かっこいい", meaning: "cool", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: jp_emotions_personality_vocabulary_018, display: "悪い", input: "悪い", meaning: "bad", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: jp_emotions_personality_vocabulary_019, display: "良い", input: "良い", meaning: "good", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: jp_emotions_personality_vocabulary_020, display: "高い", input: "高い", meaning: "high/tall/expensive", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: jp_emotions_personality_vocabulary_021, display: "安い", input: "安い", meaning: "cheap/low", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: jp_emotions_personality_vocabulary_022, display: "機嫌が悪い", input: "機嫌が悪い", meaning: "in a bad mood", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: jp_emotions_personality_vocabulary_023, display: "明るい", input: "明るい", meaning: "bright/cheerful", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: jp_emotions_personality_vocabulary_024, display: "暗い", input: "暗い", meaning: "dark/dreary", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: jp_emotions_personality_vocabulary_025, display: "暑い", input: "暑い", meaning: "hot (weather)", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: jp_emotions_personality_vocabulary_026, display: "寒い", input: "寒い", meaning: "cold (weather)", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: jp_emotions_personality_vocabulary_027, display: "きつい", input: "きつい", meaning: "tight/strict", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: jp_emotions_personality_vocabulary_028, display: "緩い", input: "緩い", meaning: "loose/relaxed", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: jp_emotions_personality_vocabulary_029, display: "怠け者", input: "怠け者", meaning: "lazy person", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: jp_emotions_personality_vocabulary_030, display: "勤勉", input: "勤勉", meaning: "diligent", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: jp_emotions_personality_vocabulary_031, display: "沉着", input: "沉着", meaning: "calm/serene", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: jp_emotions_personality_vocabulary_032, display: "無礼", input: "無礼", meaning: "rude", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
 ```
+

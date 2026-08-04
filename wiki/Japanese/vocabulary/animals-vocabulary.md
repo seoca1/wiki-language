@@ -14,7 +14,6 @@ This page aggregates all animal vocabulary for the typing language game corpus.
 
 ## Domestic Animals (ペット/家畜)
 
-## Domestic Animals (ペット/家畜)
 
 ### 犬
 
@@ -33,7 +32,7 @@ This page aggregates all animal vocabulary for the typing language game corpus.
 
 #### Related Terms
 
-- [[犬]] — 自動参照
+- 犬 — 自動参照
 - [[animals-vocabulary]] — 動物語彙
 
 #### Cultural Notes
@@ -63,7 +62,7 @@ This page aggregates all animal vocabulary for the typing language game corpus.
 
 #### Related Terms
 
-- [[猫]] — 自動参照
+- 猫 — 自動参照
 - [[animals-vocabulary]] — 動物語彙
 
 #### Cultural Notes
@@ -93,7 +92,7 @@ This page aggregates all animal vocabulary for the typing language game corpus.
 
 #### Related Terms
 
-- [[馬]] — 自動参照
+- 馬 — 自動参照
 - [[animals-vocabulary]] — 動物語彙
 
 #### Cultural Notes
@@ -123,7 +122,7 @@ This page aggregates all animal vocabulary for the typing language game corpus.
 
 #### Related Terms
 
-- [[牛]] — 自動参照
+- 牛 — 自動参照
 - [[animals-vocabulary]] — 動物語彙
 
 #### Cultural Notes
@@ -153,7 +152,7 @@ This page aggregates all animal vocabulary for the typing language game corpus.
 
 #### Related Terms
 
-- [[豚]] — 自動参照
+- 豚 — 自動参照
 - [[animals-vocabulary]] — 動物語彙
 
 #### Cultural Notes
@@ -183,7 +182,7 @@ This page aggregates all animal vocabulary for the typing language game corpus.
 
 #### Related Terms
 
-- [[鶏]] — 自動参照
+- 鶏 — 自動参照
 - [[animals-vocabulary]] — 動物語彙
 
 #### Cultural Notes
@@ -213,7 +212,7 @@ This page aggregates all animal vocabulary for the typing language game corpus.
 
 #### Related Terms
 
-- [[羊]] — 自動参照
+- 羊 — 自動参照
 - [[animals-vocabulary]] — 動物語彙
 
 #### Cultural Notes
@@ -245,7 +244,7 @@ This page aggregates all animal vocabulary for the typing language game corpus.
 
 #### Related Terms
 
-- [[鳥]] — 自動参照
+- 鳥 — 自動参照
 - [[animals-vocabulary]] — 動物語彙
 
 #### Cultural Notes
@@ -275,7 +274,7 @@ This page aggregates all animal vocabulary for the typing language game corpus.
 
 #### Related Terms
 
-- [[魚]] — 自動参照
+- 魚 — 自動参照
 - [[animals-vocabulary]] — 動物語彙
 - [[food-vocabulary]] — 食べ物語彙
 
@@ -306,7 +305,7 @@ This page aggregates all animal vocabulary for the typing language game corpus.
 
 #### Related Terms
 
-- [[蛇]] — 自動参照
+- 蛇 — 自動参照
 - [[animals-vocabulary]] — 動物語彙
 
 #### Cultural Notes
@@ -336,7 +335,7 @@ This page aggregates all animal vocabulary for the typing language game corpus.
 
 #### Related Terms
 
-- [[熊]] — 自動参照
+- 熊 — 自動参照
 - [[animals-vocabulary]] — 動物語彙
 
 #### Cultural Notes
@@ -366,7 +365,7 @@ This page aggregates all animal vocabulary for the typing language game corpus.
 
 #### Related Terms
 
-- [[鹿]] — 自動参照
+- 鹿 — 自動参照
 - [[animals-vocabulary]] — 動物語彙
 
 #### Cultural Notes
@@ -396,7 +395,7 @@ This page aggregates all animal vocabulary for the typing language game corpus.
 
 #### Related Terms
 
-- [[猿]] — 自動参照
+- 猿 — 自動参照
 - [[animals-vocabulary]] — 動物語彙
 
 #### Cultural Notes
@@ -426,7 +425,7 @@ This page aggregates all animal vocabulary for the typing language game corpus.
 
 #### Related Terms
 
-- [[亀]] — 自動参照
+- 亀 — 自動参照
 - [[animals-vocabulary]] — 動物語彙
 
 #### Cultural Notes
@@ -458,7 +457,7 @@ This page aggregates all animal vocabulary for the typing language game corpus.
 
 #### Related Terms
 
-- [[鯨]] — 自動参照
+- 鯨 — 自動参照
 - [[animals-vocabulary]] — 動物語彙
 
 #### Cultural Notes
@@ -488,7 +487,7 @@ This page aggregates all animal vocabulary for the typing language game corpus.
 
 #### Related Terms
 
-- [[鮫]] — 自動参照
+- 鮫 — 自動参照
 - [[animals-vocabulary]] — 動物語彙
 
 #### Cultural Notes
@@ -518,7 +517,7 @@ This page aggregates all animal vocabulary for the typing language game corpus.
 
 #### Related Terms
 
-- [[イルカ]] — 自動参照
+- イルカ — 自動参照
 - [[animals-vocabulary]] — 動物語彙
 
 #### Cultural Notes
@@ -550,7 +549,7 @@ This page aggregates all animal vocabulary for the typing language game corpus.
 
 #### Related Terms
 
-- [[蝶]] — 自動参照
+- 蝶 — 自動参照
 - [[animals-vocabulary]] — 動物語彙
 
 #### Cultural Notes
@@ -580,7 +579,7 @@ This page aggregates all animal vocabulary for the typing language game corpus.
 
 #### Related Terms
 
-- [[アリ]] — 自動参照
+- アリ — 自動参照
 - [[animals-vocabulary]] — 動物語彙
 
 #### Cultural Notes
@@ -610,7 +609,7 @@ This page aggregates all animal vocabulary for the typing language game corpus.
 
 #### Related Terms
 
-- [[カエル]] — 自動参照
+- カエル — 自動参照
 - [[animals-vocabulary]] — 動物語彙
 
 #### Cultural Notes
@@ -671,7 +670,7 @@ This page aggregates all animal vocabulary for the typing language game corpus.
 
 #### Related Terms
 
-- [[狼]] — 自動参照
+- 狼 — 自動参照
 - [[animals-vocabulary]] — 動物語彙
 
 #### Cultural Notes
@@ -701,7 +700,7 @@ This page aggregates all animal vocabulary for the typing language game corpus.
 
 #### Related Terms
 
-- [[狐]] — 自動参照
+- 狐 — 自動参照
 - [[animals-vocabulary]] — 動物語彙
 
 #### Cultural Notes
@@ -716,14 +715,39 @@ This page aggregates all animal vocabulary for the typing language game corpus.
 
 ## Sources
 
-- [[animals-vocabulary-jp]]
+- [[animals-vocabulary]]
 
 ---
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
-> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
+> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
 > The body above remains the human-readable form and is the source of truth.
 
+```yaml
+- { id: jp_animals_vocabulary_001, display: "犬", input: "犬", meaning: "dog", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
+- { id: jp_animals_vocabulary_002, display: "猫", input: "猫", meaning: "cat", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
+- { id: jp_animals_vocabulary_003, display: "馬", input: "馬", meaning: "horse", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
+- { id: jp_animals_vocabulary_004, display: "牛", input: "牛", meaning: "cow", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
+- { id: jp_animals_vocabulary_005, display: "豚", input: "豚", meaning: "pig", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
+- { id: jp_animals_vocabulary_006, display: "鶏", input: "鶏", meaning: "chicken", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
+- { id: jp_animals_vocabulary_007, display: "羊", input: "羊", meaning: "sheep", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
+- { id: jp_animals_vocabulary_008, display: "鳥", input: "鳥", meaning: "bird", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
+- { id: jp_animals_vocabulary_009, display: "魚", input: "魚", meaning: "fish", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
+- { id: jp_animals_vocabulary_010, display: "蛇", input: "蛇", meaning: "snake", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
+- { id: jp_animals_vocabulary_011, display: "熊", input: "熊", meaning: "bear", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
+- { id: jp_animals_vocabulary_012, display: "鹿", input: "鹿", meaning: "deer", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
+- { id: jp_animals_vocabulary_013, display: "猿", input: "猿", meaning: "monkey", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
+- { id: jp_animals_vocabulary_014, display: "亀", input: "亀", meaning: "turtle", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
+- { id: jp_animals_vocabulary_015, display: "鯨", input: "鯨", meaning: "whale", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
+- { id: jp_animals_vocabulary_016, display: "鮫", input: "鮫", meaning: "shark", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
+- { id: jp_animals_vocabulary_017, display: "イルカ", input: "イルカ", meaning: "dolphin", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
+- { id: jp_animals_vocabulary_018, display: "蝶", input: "蝶", meaning: "butterfly", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
+- { id: jp_animals_vocabulary_019, display: "アリ", input: "アリ", meaning: "ant", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
+- { id: jp_animals_vocabulary_020, display: "カエル", input: "カエル", meaning: "frog", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
+- { id: jp_animals_vocabulary_021, display: "龍/竜 (tatsu/ryū)", input: "龍/竜 (tatsu/ryū)", meaning: "dragon", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
+- { id: jp_animals_vocabulary_022, display: "狼", input: "狼", meaning: "wolf", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
+- { id: jp_animals_vocabulary_023, display: "狐", input: "狐", meaning: "fox", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
 ```
+

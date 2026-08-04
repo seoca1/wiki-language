@@ -61,3 +61,45 @@
 - Old Phase 14 closure noted 90 broken; actual broken count grew to 620 with later ingestions. Phase A & B fully cleaned.
 
 **다음 단계**: stub pages are content-empty scaffolding; future ingestion by theme-anchor migration (per comparative scaffold pattern) will fill content. Stub frontmatter includes `ingested_from: "auto-stub-gen 2026-07-19 (Phase A & B)"` for tracking.
+
+## [2026-07-19] culture | Japanese Food Culture added
+
+- Created `wiki/Japanese/culture/japanese-food-culture.md` (~700 lines)
+- Comprehensive guide to 和食 (washoku) — UNESCO Intangible Cultural Heritage
+- Topics: 旬 (seasonality), 5 flavors (五味), 5 colors (五色), 5 cooking methods (五法)
+- 寿司/刺身/麺類/鍋物/焼き物/揚げ物/ご飯物 8大カテゴリ完全網羅
+- ラーメン地方スタイル (Sapporo, Tokyo, Hakata, etc.)
+- 寿司ネタ全種 (maguro, toro, hamachi, uni, etc.)
+- 8地方料理 (Hokkaido, Tokyo, Kansai, Okinawa, etc.)
+- テーブルマナー (箸, いただきます, ごちそうさま)
+- コンビニ文化 (konbini 24/7 food)
+- 自販機 (vending machine density world highest)
+- Index.md updated to reflect new culture entry (1→2)
+
+## [2026-07-19] expressions | Japanese Daily Life added
+
+- Created `wiki/Japanese/expressions/daily-life.md` (~400 lines)
+- 10 essential Japanese survival phrases with full romaji, Korean, English translations
+- ありがとう, すみません, いただきます, いくらですか, トイレはどこですか, わかりません, 助けて, 駅はどこですか, おはようございます, こんにちは
+- Cultural notes for each (Japanese politeness, chopstick taboos, いただきます origin, etc.)
+- Emergency numbers (110 police, 119 ambulance/fire)
+- Index.md updated (Expressions: 1 → 2 theme files, 7 → 17 entries)
+
+## [2026-07-19] expressions | Japanese Business + Travel + Food expressions added
+
+Created 3 new expression theme files for Japanese, bringing expressions to parity with Chinese (5 files):
+
+- [business-basics](expressions/business-basics.md) - お世話になっております, よろしくお願いします, お疲れ様です, 失礼します, 検討します, 承知しました, 申し訳ございません, お疲れ様でした, お疲れ, ご確認ください (10 表現)
+- [travel-basics](expressions/travel-basics.md) - 空港, ホテル, 切符をください, 駅はどこですか, 道を教えてください, 警察を呼んでください, 英語を話せる人いますか, 写真を撮ってもいいですか, 荷物を預かってもらえますか (10 表現)
+- [food-dining](expressions/food-dining.md) - メニューをください, これをください, お会計お願いします, 辛くしないでください, ベジタリアンです, お酒を飲みません, おいしい, 持ち帰りできますか (10 表現)
+
+Index.md updated (Expressions: 2 → 5 theme files, 17 → 47 entries)
+
+## [2026-07-19] culture | Japanese School Culture + Traditions added
+
+Two new comprehensive Japanese culture pages added, bringing Japanese to 4 culture pages (matching EN/KR/CN):
+
+- [[culture/japanese-school-life]] - 日本の学校文化 — 制服・給食・部活・受験・七五三・修学旅行・センター試験 (2026-07-19 신규)
+- [[culture/japanese-traditions]] - 日本の伝統文化 — お辞儀・お箸・お正月・お葬式・お寺・神社・冠婚葬祭 (2026-07-19 신규)
+
+Index.md updated (Culture: 2 → 4 entries)

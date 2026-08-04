@@ -22,9 +22,9 @@
    - Source-file path inference (`/wiki/<Lang>/...` or `/raw/<Lang>/...`)
    - Generated 619 stubs across wiki/{English,Spanish,Japanese,Korean,Chinese}/{vocabulary,expressions}/ directories
 2. **Individual edits** for non-stem-resolvable cases:
-   - `[[theme-stem]]` template-placeholder references (3 occurrences) converted to plain text — were inside backtick wrapping / SESSION_SUMMARY doc contexts
-   - `[[meat]]` self-reference check in `wiki/English/vocabulary/food-vocabulary.md` → plain text
-   - `[[龍/竜]]` Japanese variant-spelling in `wiki/Japanese/vocabulary/animals-vocabulary.md` → plain text
+   - `*theme-stem*` template-placeholder references (3 occurrences) converted to plain text — were inside backtick wrapping / SESSION_SUMMARY doc contexts
+   - `*meat*` self-reference check in `wiki/English/vocabulary/food-vocabulary.md` → plain text
+   - `*龍/竜*` Japanese variant-spelling in `wiki/Japanese/vocabulary/animals-vocabulary.md` → plain text
 
 **결과**:
 
