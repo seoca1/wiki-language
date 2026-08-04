@@ -11,6 +11,7 @@ This wiki uses the LLM Wiki pattern to build a persistent, compounding knowledge
    - `Spanish/` - Spanish learning materials
    - `Japanese/` - Japanese learning materials
    - `Korean/` - Korean learning materials
+   - `Chinese/` - Chinese learning materials (added 2026-07 scaffolded as 5th language)
    - `assets/` - Images, audio clips, diagrams referenced in source materials
 
 2. **wiki/** - LLM-maintained knowledge base, organized by language
@@ -18,6 +19,7 @@ This wiki uses the LLM Wiki pattern to build a persistent, compounding knowledge
    - `Spanish/` - Spanish learning wiki pages
    - `Japanese/` - Japanese learning wiki pages
    - `Korean/` - Korean learning wiki pages
+   - `Chinese/` - Chinese learning wiki pages (zh, 5th language)
    - Each language wiki contains:
      - `index.md` - Master index of all pages in this language
      - `log.md` - Chronological record of ingests and updates
@@ -323,12 +325,12 @@ Each entry starts with `## [YYYY-MM-DD]` for easy parsing.
 
 ## Multi-language Workflow
 
-Since this wiki covers four languages:
+Since this wiki covers five languages (English, Spanish, Japanese, Korean, Chinese):
 
 - Keep each language's wiki completely separate (no mixing)
-- Use consistent page structures across all four languages for easy comparison
-- When a user asks cross-language questions (e.g., "How do Spanish and Japanese express politeness?"), create a synthesis document and save it in the most relevant language wiki, or create a comparative analysis in a shared location if appropriate
-- The agent should be prepared to work in any of the four languages at any time
+- Use consistent page structures across all five languages for easy comparison
+- When a user asks cross-language questions (e.g., "How do Spanish and Japanese express politeness?"), create a synthesis document and save it in the most relevant language wiki, or create a comparative analysis in `wiki/comparative/` (the cross-language comparative wiki holds 28+ pages spanning all 5 languages)
+- The agent should be prepared to work in any of the five languages at any time
 
 ## Special Considerations
 
@@ -352,6 +354,16 @@ Since this wiki covers four languages:
 - Track phrasal verbs separately (highly idiomatic)
 - Include pronunciation guides for difficult words
 - Mark register (formal, informal, slang)
+
+### For Chinese (zh)
+
+- **Tones**: Mandarin has 4 tones + neutral; tone pairs and tone sandhi are critical. Always include tone marks (mā/má/mǎ/mà/ma) in vocabulary entries.
+- **Simplified vs Traditional**: Note which character set is used in raw sources; wiki pages may mix but should default to Simplified unless source is Traditional.
+- **Measure words (量词)**: Always pair a noun with its classifier (个/条/只/张/本). Single-noun entries without their measure word are incomplete.
+- **HSK level**: Use HSK 1-6 scale (not JLPT/TOPIK). Beginner is HSK 1-2, intermediate 3-4, advanced 5-6.
+- **Characters ≠ words**: Chinese is logographic; one character may map to a multi-character word. Track both the character and the word-level unit.
+- **Pinyin notation**: Use tone-marked pinyin (nǐ hǎo) for readability; numbered pinyin (ni3 hao3) only in YAML `input` fields for the game pipeline.
+- **Bilingual cross-references**: Chinese vocabulary pages often benefit from `zh ↔ KO` parallel display (user is a Korean speaker).
 
 ### For Korean
 
@@ -400,6 +412,6 @@ Since this wiki covers four languages:
 Based on user preferences:
 - **Materials**: Original books (novels, non-fiction), textbooks, web articles/blogs
 - **Key elements to track**: Vocabulary, expressions/idioms, cultural context
-- **Languages**: English, Spanish, Japanese, Korean (equal priority)
+- **Languages**: English, Spanish, Japanese, Korean, Chinese (equal priority; Chinese added 2026-07 as 5th language)
 
 The agent should prioritize these elements when processing sources and suggest related materials that align with these preferences.
