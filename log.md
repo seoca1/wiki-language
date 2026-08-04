@@ -892,3 +892,37 @@
 - `Language/wiki/Spanish/sources/viaje-aventura.md`
 - `Language/wiki/Spanish/sources/comida-y-restaurante.md`
 - `Language/wiki/Spanish/sources/literature-passages.md`
+
+## [2026-08-04] docs(hygiene) | 3-commit split — theme-file cleanup + comparative expansion + Spanish/Chinese sync
+
+**Status**: Complete
+
+### 작업
+- **Commit `d5b396c`** — `refactor(Language): theme-file convention cleanup` (625 files)
+  - 624 auto-stub-gen per-word 파일 삭제 (KO 288 / ZH 119 / ES 96 / JP 71 / EN 49 + 4 .gitkeep)
+  - `_inventory/BROKEN_WIKILINKS_2026-07-11.md` 삭제 (vault lint 으로 대체)
+  - `schema/AGENTS.md`: Chinese 추가 (raw/, wiki/, Multi-language Workflow, Special Considerations: 4성 + 경성, 간체/번체, 양사, HSK, 한자 vs 단어, pinyin, zh-KO 병기)
+- **Commit `2e50f1e`** — `feat(Language/comparative): expand cross-language wiki to 35 pages` (37 files)
+  - 신규 비교 페이지 23개 (mood-systems, tense-aspect-systems, emotions, education-student-life, family-kinship, holidays-celebrations, weather-seasons, transportation, confusion-hotspots, slang-colloquial, learning-resources, master-cheatsheet, tour-guide, literature-media, idioms-proverbs, theme-vocabulary, etc.)
+  - 비교 페이지 갱신: `index.md` (+53), `log.md` (+266)
+  - broken link fix: `theme-vocabulary.md` `[[theme]]` → `[[theme-vocabulary]]`
+  - 사용자 결정으로 4개 페이지 (cultural-values, untranslatable-concepts, food-dining, greetings) 의 template-rewrite 회귀는 HEAD 에서 복원하여 보존
+- **Commit `6477534`** — `feat(Language): Spanish raw ingestion + Chinese wiki sync + tooling` (281 files)
+  - Spanish 2026-08-03 인제스트: 40+ 어휘, 35+ 표현, 20 문화 페이지 (literatura-hispana C1-C2, fiestas, trabajo, viaje, comida)
+  - Chinese wiki sync: `wiki/Chinese/{index.md, log.md, sources/*.md, culture/*.md}`, `.gitkeep` 정리
+  - Per-language wiki 확장 (EN/JP/KR/ZH): Cross-Language Comparisons + Round 2 Reconciliation + source pages
+  - Pipeline docs: `pipeline-to-game.md`, `pipeline-to-openclaw.md` (per-word → theme-file 컨벤션)
+  - Top-level: `README.md` (Chinese + comparative 추가), `decisions/README.md`, `SESSION_SUMMARY_2026-07-19.md`
+  - Tooling: `tools/README.md`, `tools/ingest_2026-07-16/`, `tools/learning_activities/`
+  - Broken link fix: `wiki/Spanish/index.md` `*sources/fiestas-y-celebrations*` (오타 + italic) → `[[sources/fiestas-y-celebraciones]]` (wikilink)
+
+### 검증
+- vault lint (FULL audit, anchor + stem matching): **0 broken / 426 files**
+- wiki orphans: **0**
+- 914 uncommitted → 3 commits → 0 uncommitted
+
+### 인용
+- `Language/schema/AGENTS.md` §3 (Core Operations), §5 (log 기록), §6 (절대 금지)
+- workspace `AGENTS.md` §6 ("한 세션에 너무 많은 파일 변경 — 검토 부담") — 3-commit 분할 결정
+- `Game/typing_language/AGENTS.md` §1.5 (theme-file 인용 컨벤션)
+- 2026-07-10 theme-file convention (`schema/AGENTS.md` L72-74)
