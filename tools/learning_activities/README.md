@@ -68,7 +68,7 @@
 
 ## 제외 (roguelike_sprawl 전용)
 
-다음 스크립트는 roguelike_sprawl 게임 audio 진단 전용이므로 workspace `scripts/` 에 보존:
+다음 스크립트는 roguelike_sprawl 게임 audio 진단 전용이므로 `Game/roguelike_sprawl/scripts/` 에 위치 (2026-08-05 이동, 이전 workspace `scripts/` → 프로젝트 scripts/):
 - `audio-doctor.py` (7 refs)
 - `verify_sounds.py` (9 refs)
 

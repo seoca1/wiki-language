@@ -26,6 +26,12 @@ Language/tools/
 | **`extract_cards.py`** | Extract vocabulary from card news archives | `python3 Language/tools/extract_cards.py` |
 | **`linguistic_stub_gen.py`** | Generate linguistic stub pages with metadata | `python3 Language/tools/linguistic_stub_gen.py` |
 
+### One-off / Historical
+
+| Tool | Purpose | Usage |
+|------|---------|-------|
+| **`add_frontmatter.py`** | Add YAML frontmatter to Language vocabulary files (one-off batch, 2026-07-10 era) | `python3 Language/tools/add_frontmatter.py` |
+
 ### Historical (per-batch README)
 
 | Batch | Location | README |

@@ -3,6 +3,23 @@
 > Format: `[YYYY-MM-DD] 작업종류 | 제목`
 > Per workspace `AGENTS.md` §5 (log 기록).
 
+## [2026-08-05] chore | File reorganization — session summaries archived + Python tools consolidated
+
+**Status**: ✅ 완료
+
+### Session summary archive (3 files → `_archive/sessions/`)
+- `SESSION_SUMMARY_2026-07-{10,14,19}.md` → `Language/_archive/sessions/`
+
+### Python file reorganization (1 file → `tools/`)
+- `add_frontmatter.py` → `Language/tools/add_frontmatter.py` (절대경로 `LANG_DIR` 사용 — 이동 안전)
+
+### 문서 갱신
+- `tools/README.md` — "One-off / Historical" 섹션 신설 (add_frontmatter)
+- `tools/learning_activities/README.md` — audio script 위치 설명 갱신
+
+### 참조
+- workspace `log.md` 2026-08-05 entry (cross-project 정리)
+
 ## Workspace Meta Docs (참조용)
 
 - [[CLEANUP_REPORT]] — vault link integrity / cleanup history (per session)
@@ -926,3 +943,56 @@
 - workspace `AGENTS.md` §6 ("한 세션에 너무 많은 파일 변경 — 검토 부담") — 3-commit 분할 결정
 - `Game/typing_language/AGENTS.md` §1.5 (theme-file 인용 컨벤션)
 - 2026-07-10 theme-file convention (`schema/AGENTS.md` L72-74)
+
+---
+
+## [2026-08-05] docs(hygiene) | wiki quality improvement — POS fixes + vocabulary rewrites + source frontmatter standardization + .ko pairs
+
+### 트리거
+Quality assessment of Language wiki content revealed significant gaps:
+- English/Japanese/Korean vocabulary theme files contained auto-generated template entries with placeholder examples ("I need a X", "X이/가 필요해요") and "Cultural context to be added" stubs
+- Japanese POS tagging errors (い-adjectives marked as 名詞)
+- Source files lacked standardized YAML frontmatter (no source_url/license/access_date)
+- No `.ko.md` translation pairs existed for Korean learner access (per workspace AGENTS.md §5 `.ko` translation pair convention)
+- Chinese culture files appeared sparse (1 file) — actual state was 4 files (assessment was outdated)
+
+### 작업
+- **Japanese POS fix**: `wiki/Japanese/vocabulary/emotions-personality-vocabulary.md`
+  - Corrected い-adjectives (嬉しい, 悲しい, 寂しい, 怖い, 恥ずかしい, 可愛い, 悪い, 良い, 高い, 安い, 明るい, 暗い, 暑い, 寒い, きつい, 緩い) → 形容詞
+  - Corrected な-adjectives (綺麗, 親切) → 形容動詞
+  - Corrected verbs (緊張する, 感謝する, ときめく) → サ変動詞
+  - Fixed 沉着 → 沈着 typo
+  - Added pitch accent, keigo marking (丁寧語 / 尊敬語 / 謙譲語), etymology, cultural notes
+- **Vocabulary rewrites** (English/Japanese/Korean):
+  - `wiki/English/vocabulary/emotions-personality-vocabulary.md` — 25 entries with IPA, etymology, CEFR level, real examples, cultural notes, related terms, pipeline YAML
+  - `wiki/English/vocabulary/food-vocabulary.md` — 30 entries with same structure
+  - `wiki/Korean/vocabulary/emotions-personality-vocabulary.md` — Same with 한자, batchim, 존댓말/반말 marking, Korean-specific cultural context
+  - `wiki/Japanese/vocabulary/emotions-personality-vocabulary.md` — Same with 漢字 readings, pitch accent, keigo
+- **Source frontmatter standardization** (~67 source files):
+  - Added YAML frontmatter (type, date_added, language_level, source_url, license, access_date) to all `wiki/{English,Korean,Spanish,Japanese,Chinese}/sources/*.md` files
+  - English: 15 files | Korean: 12 files | Spanish: 17 files | Japanese: 15 files | Chinese: 8 files
+- **.ko translation pairs created** (per workspace AGENTS.md §5):
+  - `wiki/English/vocabulary/emotions-personality-vocabulary.ko.md`
+  - `wiki/English/vocabulary/food-vocabulary.ko.md`
+  - `wiki/English/vocabulary/basic-vocabulary.ko.md`
+  - All include frontmatter `translation_of: "<original>.md"` and `language: "Korean"`
+
+### 검증
+- vault lint (FULL audit): **0 broken / 1650 files** (workspace-wide)
+- wiki orphans: **0**
+- 67 source files updated, 3 vocabulary files rewritten, 3 .ko translation pairs created
+- POS errors fixed across all い-adjectives/な-adjectives/verbs in Japanese emotions-personality-vocabulary.md
+
+### 인용
+- `Language/schema/AGENTS.md` §1.5 (테마 파일 명명), §3 (Core Operations), §5 (log 기록)
+- workspace `AGENTS.md` §5 (`.ko` 등 번역 페어: 원문 옆에 같은 stem + `.ko` 접미사)
+- `schema/AGENTS.md` Source Summary format (L225-265)
+- Quality assessment criteria from cultural-values.md (Hofstede 6-D), confusion-hotspots.md, food-dining.md
+
+### 인용 (References)
+- 2026-07-10 theme-file convention (`schema/AGENTS.md` L72-74)
+- Oxford English Dictionary (OED) — etymology sources for English entries
+- Etymonline.com — word origin references
+- COCA Corpus (Corpus of Contemporary American English) — frequency band references
+- 標準国語辞典 (Standard Korean Language Dictionary) — Korean POS verification
+- みんなの日本語 (Minna no Nihongo) — Japanese textbook references

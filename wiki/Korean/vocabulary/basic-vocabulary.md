@@ -6,7 +6,7 @@ description: "Common Korean vocabulary spanning greetings, numbers, colors, food
 language: ko
 ---
 
-# 기초 어휘 — Korean (基礎語彙)
+# 기초 어휘 — Korean
 
 > **Aggregator 페이지**: `Game/typing_language/raw/kr_words.md` 코퍼스의 `source: [[basic-vocabulary]]` 인용을 resolve하기 위해 2026-07-30 생성됨. KR corpus 697 entries (전체의 54.8%) 가 이 theme-file을 인용함.
 
