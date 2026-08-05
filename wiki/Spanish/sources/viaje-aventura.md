@@ -1,3 +1,13 @@
+---
+type: "Viaje / Aventura"
+date_added: "2026-06-20"
+language_level: "B1-B2 (Intermediate)"
+language: "Spanish"
+source_url: ""
+license: "Educational use"
+access_date: "2026-06-20"
+---
+
 # Viaje de Aventura (Travel Adventure) — Spanish (Source Hub)
 
 **Type:** Viaje / Aventura

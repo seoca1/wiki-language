@@ -1,3 +1,13 @@
+---
+type: "Spanish Lesson (Travel & Directions)"
+date_added: "2026-05-17"
+language_level: "Beginner-Intermediate (A2-B1)"
+language: "Spanish"
+source_url: ".openclaw/workspace/wiki/spanish/lessons/Travel_Directions.md"
+license: "Educational use"
+access_date: "2026-05-17"
+---
+
 # Travel & Directions (Viajes y Direcciones) — 2026-05-17
 
 **Type:** Spanish Lesson (Travel & Directions)

@@ -1,3 +1,13 @@
+---
+type: "Fiestas"
+date_added: "2026-06-20"
+language_level: "A1-B1 (Beginner)"
+language: "Spanish"
+source_url: ""
+license: "Educational use"
+access_date: "2026-06-20"
+---
+
 # Fiestas y Celebraciones (Holidays) — Spanish (Source Hub)
 
 **Type:** Fiestas

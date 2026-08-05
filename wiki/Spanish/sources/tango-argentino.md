@@ -1,3 +1,14 @@
+---
+type: "culture note"
+date_added: "2026-07-13"
+language_level: "A2"
+language: "Spanish"
+region: "Argentina"
+source_url: ".openclaw/workspace/wiki/spanish/culture/Tango_Culture.md"
+license: "Educational use"
+access_date: "2026-07-13"
+---
+
 # Tango Argentino — Culture Note
 
 **Type:** Culture Note  

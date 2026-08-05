@@ -1,3 +1,13 @@
+---
+type: "travel / cultural"
+date_added: "2026-06-20"
+language_level: "A2 (Beginner)"
+language: "Spanish"
+source_url: "https://www.edinumen.es/catalogo/prisma"
+license: "Educational use"
+access_date: "2026-06-20"
+---
+
 # first-travel-spain (Source Hub)
 
 **Type:** Travel / Cultural

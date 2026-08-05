@@ -1,3 +1,14 @@
+---
+type: "culture note"
+date_added: "2026-07-13"
+language_level: "A2"
+language: "Spanish"
+region: "Mexico"
+source_url: ".openclaw/workspace/wiki/spanish/culture/Mexican_Street_Food.md"
+license: "Educational use"
+access_date: "2026-07-13"
+---
+
 # Mexican Street Food — Culture Note
 
 **Type:** Culture Note  

@@ -1,3 +1,13 @@
+---
+type: "Trabajo / Profesional"
+date_added: "2026-06-20"
+language_level: "A2-B2 (Intermediate)"
+language: "Spanish"
+source_url: ""
+license: "Educational use"
+access_date: "2026-06-20"
+---
+
 # Trabajo y Carrera (Work and Career) — Spanish (Source Hub)
 
 **Type:** Trabajo / Profesional

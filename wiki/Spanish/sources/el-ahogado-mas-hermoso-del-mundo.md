@@ -1,3 +1,14 @@
+---
+type: "cuento (short story)"
+date_added: "2026-06-16"
+author: "Gabriel García Márquez (1968)"
+language_level: "B1-B2 (intermedio-alto)"
+language: "Spanish"
+source_url: "https://ciudadseva.com/texto/el-ahogado-mas-hermoso-del-mundo/"
+license: "Educational use (fair use literary excerpts)"
+access_date: "2026-06-16"
+---
+
 # El ahogado más hermoso del mundo
 
 **Type:** cuento (short story)
@@ -48,5 +59,5 @@ Texto completo disponible en `raw/Spanish/el-ahgado-mas-hermoso-del-mundo.md` (c
 
 ## Sources
 
-- Recopilado de: https://ciudadseva.com/texto/el-ahogado-mas-hermoso-del-mundo/
+- Recopilado de: https://ciudadseva.com/texto/el-ahgado-mas-hermoso-del-mundo/
 - Obra original en *La increíble y triste historia de la cándida Eréndira y de su abuela desalmada* (1972)

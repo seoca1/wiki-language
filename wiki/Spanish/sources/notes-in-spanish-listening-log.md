@@ -1,3 +1,15 @@
+---
+type: "listening log + podcast study guide"
+date_added: "2026-06-16"
+language_level: "B1-B2"
+language: "Spanish"
+podcast: "Notes in Spanish (Advanced) - Ben y Marina"
+episode_reference: "La siesta de verano"
+source_url: "https://notesinspanish.com/advanced/"
+license: "Educational use (podcast listening notes)"
+access_date: "2026-06-16"
+---
+
 # Notes in Spanish - Listening Log
 
 **Type:** listening log + podcast study guide

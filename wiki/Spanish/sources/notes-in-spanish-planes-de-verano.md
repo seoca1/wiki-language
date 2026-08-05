@@ -1,3 +1,15 @@
+---
+type: "listening log + subjuntivo adverbial study guide"
+date_added: "2026-06-22"
+language_level: "B1-B2"
+language: "Spanish"
+podcast: "Notes in Spanish (Advanced) - Ben y Marina"
+topic: "Planes de verano + subjuntivo en cláusulas adverbiales"
+source_url: "https://notesinspanish.com/advanced/"
+license: "Educational use (podcast listening notes)"
+access_date: "2026-06-22"
+---
+
 # Notes in Spanish Advanced - Planes de verano
 
 **Type:** listening log + subjuntivo adverbial study guide

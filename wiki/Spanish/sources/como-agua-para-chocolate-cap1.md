@@ -1,3 +1,14 @@
+---
+type: "novela (resumen + pasajes + notas)"
+date_added: "2026-06-22"
+author: "Laura Esquivel (1989)"
+language_level: "B1-B2 (intermedio-alto)"
+language: "Spanish"
+source_url: ""
+license: "Educational use (fair use literary excerpts)"
+access_date: "2026-06-22"
+---
+
 # Como agua para chocolate - Capítulo 1 (Enero)
 
 **Type:** novela (resumen + pasajes + notas)

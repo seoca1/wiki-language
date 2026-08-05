@@ -1,3 +1,14 @@
+---
+type: "curriculum + telenovela/diálogo cinematográfico"
+date_added: "2026-06-19"
+language_level: "CEFR B1-B2"
+language: "Spanish"
+theme: "Coqueteo, citas, relaciones (PG-13)"
+source_url: "raw/Spanish/dating-romance-es.md"
+license: "Educational use"
+access_date: "2026-06-19"
+---
+
 # dating-romance-es
 
 **Type:** Curriculum + Telenovela/diálogo cinematográfico

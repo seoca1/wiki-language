@@ -1,3 +1,13 @@
+---
+type: "Spanish Lesson (Weather & Seasons)"
+date_added: "2026-06-13"
+language_level: "Beginner (A1-A2)"
+language: "Spanish"
+source_url: ".openclaw/workspace/wiki/spanish/lessons/Weather_and_Seasons.md"
+license: "Educational use"
+access_date: "2026-06-13"
+---
+
 # Weather and Seasons (El Clima y las Estaciones) — 2026-06-13
 
 **Type:** Spanish Lesson (Weather & Seasons)

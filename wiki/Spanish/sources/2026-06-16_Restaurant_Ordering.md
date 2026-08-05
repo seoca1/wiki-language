@@ -1,3 +1,13 @@
+---
+type: "Spanish Lesson (Restaurant Ordering)"
+date_added: "2026-06-16"
+language_level: "Beginner-Intermediate (A2)"
+language: "Spanish"
+source_url: ".openclaw/workspace/wiki/spanish/lessons/Restaurant_Ordering.md"
+license: "Educational use"
+access_date: "2026-06-16"
+---
+
 # Restaurant Ordering (Pedir Comida) — 2026-06-16
 
 **Type:** Spanish Lesson (Restaurant Ordering)

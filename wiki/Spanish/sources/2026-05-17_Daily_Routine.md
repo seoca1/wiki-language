@@ -1,3 +1,13 @@
+---
+type: "Spanish Lesson (Daily Routine)"
+date_added: "2026-05-17"
+language_level: "Beginner (A1-A2)"
+language: "Spanish"
+source_url: ".openclaw/workspace/wiki/spanish/lessons/Daily_Routine.md"
+license: "Educational use"
+access_date: "2026-05-17"
+---
+
 # Daily Routine (Rutina Diaria) — 2026-05-17
 
 **Type:** Spanish Lesson (Daily Routine)

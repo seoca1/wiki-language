@@ -1,3 +1,14 @@
+---
+type: "literature & prose"
+date_added: "2026-06-23"
+language_level: "CEFR C1-C2"
+language: "Spanish"
+theme: "Literary Excerpts — opening passages from classic and modern Spanish and Latin American literature"
+source_url: "raw/Spanish/literature-passages.md"
+license: "Educational use (fair use literary excerpts)"
+access_date: "2026-06-23"
+---
+
 # literature-passages
 
 **Type:** Literature & Prose
