@@ -1,12 +1,13 @@
 ---
 category: "food"
 theme: "food"
+level: "A1-B1"
+source: "food-vocabulary"
 ---
 
 # Food Vocabulary (English)
 
-
-This page aggregates all food and restaurant vocabulary for the typing language game corpus.
+This page aggregates food and restaurant vocabulary for the typing language game corpus. Entries include CEFR level, part of speech, IPA, etymology, authentic examples, and cultural notes.
 
 ---
 
@@ -15,886 +16,1014 @@ This page aggregates all food and restaurant vocabulary for the typing language 
 
 ### meat
 
-**Part of Speech:** noun
+**Part of Speech:** noun (uncountable)
 
-**Definition:** 고기
+**Definition:** animal flesh used as food
 
 **IPA / Pronunciation:** /miːt/
 
-**Etymology:** English: meat (etymology research needed)
+**Etymology:** Old English *mete* "food, nourishment" → Proto-Germanic *mati* → PIE *mad-* "moist, wet" (also source of *mast* "nuts for fodder"). Narrowed to "flesh meat" 14c.; *flesh-meat* distinguished from *fish-meat*.
 
 #### Examples
 
-- I need a meat. — Expressing need
-- The meat is here. — Location/presence
+- Red **meat** is high in iron. — Generic category
+- **Meat** and potatoes. — Traditional meal
+- **Meat**-free Monday. — Dietary trend
 
 #### Related Terms
 
-- `meat` — Self-reference check (intentional placeholder; not an active wikilink)
-- [[food-vocabulary]] — Food vocabulary
+- [[food-vocabulary#beef|beef (noun: cow meat)]]
+- [[food-vocabulary#pork|pork (noun: pig meat)]]
+- [[food-vocabulary#poultry|poultry (noun: bird meat)]]
 
 #### Cultural Notes
 
-Cultural context to be added
+"Meat" = uncountable mass noun (*some meat*, not *a meat*). "Meat and two veg" = traditional British meal. "Meat space" = physical world (vs cyberspace). Religious restrictions: halal, kosher, Hindu vegetarian.
 
 #### Sources
 
 - [[food-vocabulary]]
+- Oxford English Dictionary
+- COCA corpus (frequency: top 2000)
 
----
 
 ### chicken
 
-**Part of Speech:** noun
+**Part of Speech:** noun (uncountable: meat / countable: bird)
 
-**Definition:** 닭고기
+**Definition:** domestic fowl raised for meat and eggs
 
 **IPA / Pronunciation:** /ˈtʃɪkɪn/
 
-**Etymology:** English: chicken (etymology research needed)
+**Etymology:** Old English *cicen* "young fowl" → *cocc* "rooster" + *-en* diminutive → "young rooster" → generalized to all ages. Cognate with German *Küken* "chick", Dutch *kuiken*.
 
 #### Examples
 
-- I need a chicken. — Expressing need
-- The chicken is here. — Location/presence
+- **Chicken** soup for the soul. — Comfort food idiom
+- Grilled **chicken** breast. — Meat (uncountable)
+- A **chicken** crossed the road. — Bird (countable, joke)
 
 #### Related Terms
 
-- chicken — Self-reference check
-- [[food-vocabulary]] — Food vocabulary
+- [[food-vocabulary#poultry|poultry (noun: category)]]
+- [[food-vocabulary#hen|hen (noun: female chicken)]]
+- [[food-vocabulary#rooster|rooster (noun: male chicken)]]
 
 #### Cultural Notes
 
-Cultural context to be added
+"Chicken" = meat (uncountable) AND bird (countable) — same word, different grammar. "Chicken out" = lose courage. "Chicken feed" = small amount of money. "No spring chicken" = not young. Universal meat (few religious taboos).
 
 #### Sources
 
 - [[food-vocabulary]]
+- Oxford English Dictionary
+- COCA corpus (frequency: top 2000)
 
----
 
 ### beef
 
-**Part of Speech:** noun
+**Part of Speech:** noun (uncountable)
 
-**Definition:** 소고기
+**Definition:** meat from cattle (cows, bulls, steers)
 
 **IPA / Pronunciation:** /biːf/
 
-**Etymology:** English: beef (etymology research needed)
+**Etymology:** Old French *boef* "ox, beef" → Latin *bovem* "ox, cow" → PIE *gwou-* "cow". Norman French *boef* (meat) vs Anglo-Saxon *cu* (live animal) → classic class distinction (servants used French for meat, English for animal).
 
 #### Examples
 
-- I need a beef. — Expressing need
-- The beef is here. — Location/presence
+- **Beef** stew. — Dish
+- **Beef** up security. — Verb: strengthen
+- **Beef** with someone. — Slang: complaint/conflict
 
 #### Related Terms
 
-- beef — Self-reference check
+- [[food-vocabulary#steak|steak (noun: beef cut)]]
+- [[food-vocabulary#burger|burger (noun: ground beef patty)]]
+- [[food-vocabulary#cattle|cattle (noun: live animals)]]
 
 #### Cultural Notes
 
-Cultural context to be added
+"Beef" = French-derived meat term (vs "cow" = animal). Hindu taboo: beef forbidden. "Where's the beef?" = 1984 Wendy's ad → "where's the substance?" "Beef" as verb (complain) = AAVE → mainstream slang.
 
 #### Sources
 
 - [[food-vocabulary]]
+- Oxford English Dictionary
+- COCA corpus (frequency: top 3000)
 
----
 
 ### pork
 
-**Part of Speech:** noun
+**Part of Speech:** noun (uncountable)
 
-**Definition:** 돼지고기
+**Definition:** meat from pigs
 
 **IPA / Pronunciation:** /pɔːrk/
 
-**Etymology:** English: pork (etymology research needed)
+**Etymology:** Old French *porc* "pig, pork" → Latin *porcus* "pig" → PIE *porko-* "young pig". Same Norman/Anglo split as beef/pig.
 
 #### Examples
 
-- I need a pork. — Expressing need
-- The pork is here. — Location/presence
+- **Pork** chops. — Cut
+- **Pork** belly. — Fatty cut (bacon source)
+- **Pork** barrel politics. — Idiom: government spending for local gain
 
 #### Related Terms
 
-- pork — Self-reference check
+- [[food-vocabulary#bacon|bacon (noun: cured pork belly)]]
+- [[food-vocabulary#ham|ham (noun: cured pork leg)]]
+- [[food-vocabulary#sausage|sausage (noun: ground pork in casing)]]
 
 #### Cultural Notes
 
-Cultural context to be added
+"Pork" = meat term (vs "pig" = animal). Jewish/Muslim taboo: pork forbidden (non-halal, non-kosher). "Pork barrel" = US political metaphor. "Living high on the hog" = prosperous.
 
 #### Sources
 
 - [[food-vocabulary]]
+- Oxford English Dictionary
+- COCA corpus (frequency: top 3000)
 
----
 
 ### egg
 
-**Part of Speech:** noun
+**Part of Speech:** noun (countable)
 
-**Definition:** 달걀
+**Definition:** oval reproductive body laid by birds, used as food
 
 **IPA / Pronunciation:** /ɛɡ/
 
-**Etymology:** English: egg (etymology research needed)
+**Etymology:** Old Norse *egg* → Proto-Germanic *ajją* → PIE *ōwo-* "egg" (also source of Latin *ovum*, Greek *ōon*, Russian *jajco*). Old English *æg* replaced by Norse form.
 
 #### Examples
 
-- I need a egg. — Expressing need
-- The egg is here. — Location/presence
+- Scrambled **eggs**. — Dish (plural default)
+- **Egg** white / yolk. — Parts
+- **Egg** on your face. — Idiom: embarrassment
 
 #### Related Terms
 
-- egg — Self-reference check
-- [[food-vocabulary]] — Food vocabulary
+- [[food-vocabulary#omelet|omelet (noun: beaten eggs cooked)]]
+- [[food-vocabulary#boiled egg|boiled egg (noun)]]
+- [[food-vocabulary#fried egg|fried egg (noun)]]
 
 #### Cultural Notes
 
-Cultural context to be added
+"Egg" = countable (*an egg*, *two eggs*). "Egg" as verb: *egg on* "encourage (bad behavior)". "Good egg" / "bad egg" = person. "Egghead" = intellectual (1950s). "Nest egg" = savings.
 
 #### Sources
 
 - [[food-vocabulary]]
+- Oxford English Dictionary
+- COCA corpus (frequency: top 2000)
 
----
 
 ### milk
 
-**Part of Speech:** noun
+**Part of Speech:** noun (uncountable)
 
-**Definition:** 우유
+**Definition:** white liquid produced by mammals, used as food
 
 **IPA / Pronunciation:** /mɪlk/
 
-**Etymology:** English: milk (etymology research needed)
+**Etymology:** Old English *meoluc* → Proto-Germanic *meluk-* → *melk-* "to milk" → PIE *h₂melg-* "to wipe, stroke" (milking motion). Cognate with *mild*, *emulsion*.
 
 #### Examples
 
-- I need a milk. — Expressing need
-- The milk is here. — Location/presence
+- A glass of **milk**. — Quantifier required
+- **Milk** and cookies. — Classic pairing
+- **Milk** it for all it's worth. — Verb: exploit
 
 #### Related Terms
 
-- milk — Self-reference check
+- [[food-vocabulary#cream|cream (noun: high-fat milk)]]
+- [[food-vocabulary#butter|butter (noun: churned cream)]]
+- [[food-vocabulary#cheese|cheese (noun: curdled milk)]]
 
 #### Cultural Notes
 
-Cultural context to be added
+"Milk" = uncountable (*some milk*, not *a milk*). "Milk run" = easy routine. "Cry over spilled milk" = regret past. Lactose intolerance common globally (70% adults). Plant "milks" (soy, almond, oat) — contested labeling.
 
 #### Sources
 
 - [[food-vocabulary]]
+- Oxford English Dictionary
+- COCA corpus (frequency: top 1000)
 
----
 
 ### cheese
 
-**Part of Speech:** noun
+**Part of Speech:** noun (uncountable / countable: types)
 
-**Definition:** 치즈
+**Definition:** food made from pressed milk curds
 
 **IPA / Pronunciation:** /tʃiːz/
 
-**Etymology:** English: cheese (etymology research needed)
+**Etymology:** Old English *cēse* → West Germanic *kāsī* → Latin *caseus* "cheese" → PIE *kwat-* "to ferment, become sour". Cognate with German *Käse*, Dutch *kaas*, Spanish *queso*.
 
 #### Examples
 
-- I need a cheese. — Expressing need
-- The cheese is here. — Location/presence
+- **Cheese** and crackers. — Snack
+- **Cheese** board. — Assortment
+- Say **cheese**! — Photo prompt
 
 #### Related Terms
 
-- cheese — Self-reference check
-- [[food-vocabulary]] — Food vocabulary
+- [[food-vocabulary#cheddar|cheddar (noun: hard cheese)]]
+- [[food-vocabulary#mozzarella|mozzarella (noun: soft cheese)]]
+- [[food-vocabulary#parmesan|parmesan (noun: hard aged cheese)]]
 
 #### Cultural Notes
 
-Cultural context to be added
+"Cheese" = mass noun (*some cheese*) but countable for types (*three cheeses*). "Cheesy" = overly sentimental/cliché. "Big cheese" = important person. "Cut the cheese" = flatulate (slang). 1800+ varieties globally.
 
 #### Sources
 
 - [[food-vocabulary]]
+- Oxford English Dictionary
+- COCA corpus (frequency: top 2000)
 
----
 
 ### butter
 
-**Part of Speech:** noun
+**Part of Speech:** noun (uncountable)
 
-**Definition:** 버터
+**Definition:** solid dairy product made by churning cream
 
 **IPA / Pronunciation:** /ˈbʌtər/
 
-**Etymology:** English: butter (etymology research needed)
+**Etymology:** Old English *butere* → Latin *butyrum* → Greek *boutyron* "cow cheese" (*bous* "cow" + *tyros* "cheese"). Literally "cow cheese" → butter.
 
 #### Examples
 
-- I need a butter. — Expressing need
-- The butter is here. — Location/presence
+- **Butter** on toast. — Spread
+- **Butter** someone up. — Idiom: flatter
+- **Butter** fingers. — Idiom: clumsy
 
 #### Related Terms
 
-- butter — Self-reference check
+- [[food-vocabulary#margarine|margarine (noun: butter substitute)]]
+- [[food-vocabulary#ghee|ghee (noun: clarified butter)]]
+- [[food-vocabulary#cream|cream (noun: source)]]
 
 #### Cultural Notes
 
-Cultural context to be added
+"Butter" = uncountable. "Butter up" = flatter for gain. "Bread and butter" = livelihood / basic income. "Butter wouldn't melt in his mouth" = innocent appearance. French cuisine: *beurre* essential.
 
 #### Sources
 
 - [[food-vocabulary]]
+- Oxford English Dictionary
+- COCA corpus (frequency: top 2000)
 
----
 
 ### salt
 
-**Part of Speech:** noun
+**Part of Speech:** noun (uncountable)
 
-**Definition:** 소금
+**Definition:** crystalline mineral (NaCl) used for seasoning and preservation
 
 **IPA / Pronunciation:** /sɔːlt/
 
-**Etymology:** English: salt (etymology research needed)
+**Etymology:** Old English *sealt* → Proto-Germanic *saltom* → PIE *sal-* "salt" (also source of *salary* "salt money" — Roman soldiers paid in salt). Cognate with German *Salz*, Latin *sal*, Greek *hals*.
 
 #### Examples
 
-- I need a salt. — Expressing need
-- The salt is here. — Location/presence
+- Add **salt** to taste. — Seasoning
+- **Salt** of the earth. — Idiom: good, honest people
+- **Salt** away money. — Verb: save
 
 #### Related Terms
 
-- salt — Self-reference check
+- [[food-vocabulary#pepper|pepper (noun: companion spice)]]
+- [[food-vocabulary#sea salt|sea salt (noun)]]
+- [[food-vocabulary#salty|salty (adj: taste / slang: bitter)]]
 
 #### Cultural Notes
 
-Cultural context to be added
+"Salt" = uncountable. "Salt" = essential historically (preservation, trade). "Worth one's salt" = competent. "Take with a grain of salt" = be skeptical. "Salty" slang = angry, bitter (US). Sodium health concerns.
 
 #### Sources
 
 - [[food-vocabulary]]
+- Oxford English Dictionary
+- COCA corpus (frequency: top 2000)
 
----
 
 ### sugar
 
-**Part of Speech:** noun
+**Part of Speech:** noun (uncountable)
 
-**Definition:** 설탕
+**Definition:** sweet crystalline substance (sucrose) from cane or beet
 
 **IPA / Pronunciation:** /ˈʃʊɡər/
 
-**Etymology:** English: sugar (etymology research needed)
+**Etymology:** Old French *sucre* → Medieval Latin *succarum* → Arabic *sukkar* → Persian *shakar* → Sanskrit *śarkarā* "ground sugar, grit". Cognate with *jaggery*, *saccharin*.
 
 #### Examples
 
-- I need a sugar. — Expressing need
-- The sugar is here. — Location/presence
+- A spoonful of **sugar**. — Quantifier
+- **Sugar** and spice. — Nursery rhyme
+- **Sugar** coat the truth. — Verb: make palatable
 
 #### Related Terms
 
-- sugar — Self-reference check
+- [[food-vocabulary#honey|honey (noun: natural sweetener)]]
+- [[food-vocabulary#syrup|syrup (noun: liquid sugar)]]
+- [[food-vocabulary#sweet|sweet (adj/noun)]]
 
 #### Cultural Notes
 
-Cultural context to be added
+"Sugar" = uncountable. "Sugar" = term of endearment ("sugar", "sugar pie"). "Sugar daddy/mama" = older wealthy partner. "Sugar high" = energy burst. "Sugar-free" = diet label. Historical: sugar drove slave trade.
 
 #### Sources
 
 - [[food-vocabulary]]
+- Oxford English Dictionary
+- COCA corpus (frequency: top 2000)
 
----
 
 ### oil
 
-**Part of Speech:** noun
+**Part of Speech:** noun (uncountable)
 
-**Definition:** 기름
+**Definition:** viscous liquid fat from plants, animals, or synthesis; used for cooking
 
 **IPA / Pronunciation:** /ɔɪl/
 
-**Etymology:** English: oil (etymology research needed)
+**Etymology:** Old French *oile* → Latin *oleum* "olive oil" → Greek *elaion* "olive oil" → *elaia* "olive". Originally only olive oil; extended to petroleum 16c.
 
 #### Examples
 
-- I need a oil. — Expressing need
-- The oil is here. — Location/presence
+- **Olive oil** for salad. — Type specification
+- **Cooking oil**. — Generic
+- **Oil** and water don't mix. — Idiom: incompatibility
 
 #### Related Terms
 
-- oil — Self-reference check
+- [[food-vocabulary#olive oil|olive oil (noun)]]
+- [[food-vocabulary#vegetable oil|vegetable oil (noun)]]
+- [[food-vocabulary#fry|fry (verb: cook in oil)]]
 
 #### Cultural Notes
 
-Cultural context to be added
+"Oil" = uncountable. "Burn the midnight oil" = work late. "Oil" = petroleum (black gold). "Snake oil" = fraudulent cure. Mediterranean diet: olive oil central. Smoke point matters for cooking.
 
 #### Sources
 
 - [[food-vocabulary]]
+- Oxford English Dictionary
+- COCA corpus (frequency: top 2000)
 
----
 
 ### vegetable
 
-**Part of Speech:** noun
+**Part of Speech:** noun (countable)
 
-**Definition:** 야채
+**Definition:** plant or plant part used as food (culinary, not botanical)
 
 **IPA / Pronunciation:** /ˈvɛdʒtəbəl/
 
-**Etymology:** English: vegetable (etymology research needed)
+**Etymology:** Old French *vegetable* "living, growing" → Medieval Latin *vegetabilis* → Latin *vegetare* "to enliven" → *vegetus* "vigorous" → *vigor* "active". Originally "any plant" → culinary sense 18c.
 
 #### Examples
 
-- I need a vegetable. — Expressing need
-- The vegetable is here. — Location/presence
+- Eat your **vegetables**. — Plural default
+- **Vegetable** soup. — Attributive
+- **Vegetable** oil. — Derived product
 
 #### Related Terms
 
-- vegetable — Self-reference check
+- [[food-vocabulary#veggie|veggie (noun: colloquial)]]
+- [[food-vocabulary#salad|salad (noun: raw vegetables)]]
+- [[food-vocabulary#vegan|vegan (adj/noun: no animal products)]]
 
 #### Cultural Notes
 
-Cultural context to be added
+"Vegetable" = culinary category (excludes fruits, grains, nuts botanically). "Veggie" = colloquial (UK *veg*). "Vegetable" as adj: *vegetable matter, vegetable dye*. "Hidden vegetables" = parenting tactic. "Vegetable state" = medical (persistent vegetative).
 
 #### Sources
 
 - [[food-vocabulary]]
+- Oxford English Dictionary
+- COCA corpus (frequency: top 2000)
 
----
 
 ### fruit
 
-**Part of Speech:** noun
+**Part of Speech:** noun (countable / uncountable: collective)
 
-**Definition:** 과일
+**Definition:** sweet fleshy product of plant containing seeds, eaten as food
 
 **IPA / Pronunciation:** /fruːt/
 
-**Etymology:** English: fruit (etymology research needed)
+**Etymology:** Old French *fruit* → Latin *fructus* "enjoyment, produce" → *frui* "to enjoy". Cognate with *fruition*, *frugal* "fruitful → thrifty".
 
 #### Examples
 
-- I need a fruit. — Expressing need
-- The fruit is here. — Location/presence
+- Fresh **fruit** for dessert. — Collective
+- A **fruit** salad. — Dish
+- **Fruit** of one's labor. — Idiom: result
 
 #### Related Terms
 
-- fruit — Self-reference check
+- [[food-vocabulary#apple|apple (noun)]]
+- [[food-vocabulary#banana|banana (noun)]]
+- [[food-vocabulary#berry|berry (noun: small fruit)]]
 
 #### Cultural Notes
 
-Cultural context to be added
+"Fruit" = collective (*eat fruit*) or countable (*a fruit*). Botanical vs culinary: tomato = fruit botanically, vegetable culinarily. "Fruity" = flavor / slang (eccentric, gay). "Forbidden fruit" = temptation. "Low-hanging fruit" = easy wins.
 
 #### Sources
 
 - [[food-vocabulary]]
+- Oxford English Dictionary
+- COCA corpus (frequency: top 2000)
 
----
 
 ### rice
 
-**Part of Speech:** noun
+**Part of Speech:** noun (uncountable)
 
-**Definition:** 쌀/밥
+**Definition:** cereal grain (Oryza sativa) staple food for half humanity
 
 **IPA / Pronunciation:** /raɪs/
 
-**Etymology:** English: rice (etymology research needed)
+**Etymology:** Old French *ris* → Italian *riso* → Byzantine Greek *oriza* → Old Persian *brizi* → Sanskrit *vrīhi* "rice". Ultimate origin uncertain (possibly Austroasiatic).
 
 #### Examples
 
-- I need a rice. — Expressing need
-- The rice is here. — Location/presence
+- A bowl of **rice**. — Quantifier
+- **Rice** and beans. — Complete protein combo
+- **Rice** paddy. — Cultivation
 
 #### Related Terms
 
-- rice — Self-reference check
+- [[food-vocabulary#fried rice|fried rice (noun)]]
+- [[food-vocabulary#sushi|sushi (noun: vinegared rice)]]
+- [[food-vocabulary#risotto|risotto (noun: Italian rice dish)]]
 
 #### Cultural Notes
 
-Cultural context to be added
+"Rice" = uncountable (*some rice*). Staple for 3.5B+ people. "Rice bowl" = Asian meal format. "Rice Christian" = convert for food aid. "Rice paper" = edible wrapper. Throwing rice at weddings = fertility symbol.
 
 #### Sources
 
 - [[food-vocabulary]]
+- Oxford English Dictionary
+- COCA corpus (frequency: top 2000)
 
----
 
 ### noodle
 
-**Part of Speech:** noun
+**Part of Speech:** noun (countable / usually plural)
 
-**Definition:** 면
+**Definition:** long thin strip of unleavened dough, cooked in boiling water
 
 **IPA / Pronunciation:** /ˈnuːdəl/
 
-**Etymology:** English: noodle (etymology research needed)
+**Etymology:** German *Nudel* "dumpling, noodle" (16c.) → uncertain origin, possibly *Knödel* "dumpling" or Latin *minutulus* "tiny". Entered English 18c. via German immigrants.
 
 #### Examples
 
-- I need a noodle. — Expressing need
-- The noodle is here. — Location/presence
+- **Noodle** soup. — Attributive
+- **Noodles** with sauce. — Plural default
+- Use your **noodle**. — Slang: brain
 
 #### Related Terms
 
-- noodle — Self-reference check
+- [[food-vocabulary#pasta|pasta (noun: Italian noodles)]]
+- [[food-vocabulary#ramen|ramen (noun: Japanese wheat noodles)]]
+- [[food-vocabulary#spaghetti|spaghetti (noun: long thin pasta)]]
 
 #### Cultural Notes
 
-Cultural context to be added
+"Noodle" = usually plural (*noodles*). "Noodle" = brain (slang). "Noodle around" = improvise. Asian vs Italian: *noodles* (Asian, wheat/rice) vs *pasta* (Italian, durum wheat). "Instant noodles" = 1958 invention (Momofuku Ando).
 
 #### Sources
 
 - [[food-vocabulary]]
+- Oxford English Dictionary
+- COCA corpus (frequency: top 3000)
+
 
 ---
 
 ## Beverages
 
+
 ### coffee
 
-**Part of Speech:** noun
+**Part of Speech:** noun (uncountable)
 
-**Definition:** 커피
+**Definition:** brewed drink from roasted coffee beans
 
-**IPA / Pronunciation:** /ˈkɔːfi/
+**IPA / Pronunciation:** /ˈkɔːfi/ (US) /ˈkɒfi/ (UK)
 
-**Etymology:** English: coffee (etymology research needed)
+**Etymology:** Dutch *koffie* → Turkish *kahve* → Arabic *qahwa* "wine, coffee" → *qahiya* "to lack hunger" (appetite suppressant). Spread via Ottoman Empire → Europe 16c.
 
 #### Examples
 
-- I need a coffee. — Expressing need
-- The coffee is here. — Location/presence
+- A cup of **coffee**. — Quantifier
+- **Coffee** break. — Workplace ritual
+- **Coffee** table. — Furniture
 
 #### Related Terms
 
-- coffee — Self-reference check
-- [[food-vocabulary]] — Food vocabulary
+- [[food-vocabulary#espresso|espresso (noun: concentrated coffee)]]
+- [[food-vocabulary#latte|latte (noun: espresso + milk)]]
+- [[food-vocabulary#caffeine|caffeine (noun: stimulant)]]
 
 #### Cultural Notes
 
-Common beverage offerings in social/business settings.
+"Coffee" = uncountable. "Coffee break" = US workplace institution (1950s). "Coffee date" = low-pressure meeting. "Wake up and smell the coffee" = face reality. Global commodity: 2nd most traded after oil.
 
 #### Sources
 
 - [[food-vocabulary]]
+- Oxford English Dictionary
+- COCA corpus (frequency: top 1000)
 
----
 
 ### tea
 
-**Part of Speech:** noun
+**Part of Speech:** noun (uncountable)
 
-**Definition:** 차
+**Definition:** infusion of cured Camellia sinensis leaves
 
 **IPA / Pronunciation:** /tiː/
 
-**Etymology:** English: tea (etymology research needed)
+**Etymology:** Amoy Chinese *te* (Xiamen dialect) → Dutch *thee* → English *tea*. Mandarin *chá* → Portuguese *chá* → Russian *chay*, Hindi *chai*, Arabic *shay*. Two global forms: *tea* (maritime trade) vs *chai* (overland Silk Road).
 
 #### Examples
 
-- I need a tea. — Expressing need
-- The tea is here. — Location/presence
+- A cup of **tea**. — Quantifier
+- **Tea** time. — British ritual (afternoon tea)
+- **Tea** party. — Social / political (Boston Tea Party)
 
 #### Related Terms
 
-- tea — Self-reference check
-- [[food-vocabulary]] — Food vocabulary
+- [[food-vocabulary#green tea|green tea (noun)]]
+- [[food-vocabulary#black tea|black tea (noun)]]
+- [[food-vocabulary#chai|chai (noun: spiced Indian tea)]]
 
 #### Cultural Notes
 
-Common beverage offerings in social/business settings.
+"Tea" = uncountable. British: "cuppa", "builder's tea" (strong, milk). Afternoon tea = ritual (scones, sandwiches). "Not my cup of tea" = not my preference. "Spill the tea" = gossip (AAVE → mainstream). High tea ≠ afternoon tea (high tea = evening meal).
 
 #### Sources
 
 - [[food-vocabulary]]
+- Oxford English Dictionary
+- COCA corpus (frequency: top 1000)
 
----
 
 ### juice
 
-**Part of Speech:** noun
+**Part of Speech:** noun (uncountable / countable: types)
 
-**Definition:** 주스
+**Definition:** liquid extracted from fruits or vegetables
 
 **IPA / Pronunciation:** /dʒuːs/
 
-**Etymology:** English: juice (etymology research needed)
+**Etymology:** Old French *jus* "liquid, broth" → Latin *jus* "broth, sauce, juice" → PIE *yew-* "to mix, blend". Cognate with *jus* (legal: right), *juicy*.
 
 #### Examples
 
-- I need a juice. — Expressing need
-- The juice is here. — Location/presence
+- **Orange juice** at breakfast. — Type
+- Freshly squeezed **juice**. — Quality
+- **Juice** up the battery. — Verb: charge
 
 #### Related Terms
 
-- juice — Self-reference check
+- [[food-vocabulary#smoothie|smoothie (noun: blended fruit)]]
+- [[food-vocabulary#nectar|nectar (noun: thick juice)]]
+- [[food-vocabulary#concentrate|concentrate (noun: frozen juice)]]
 
 #### Cultural Notes
 
-Cultural context to be added
+"Juice" = uncountable (*some juice*) or countable types (*three juices*). "Juice" slang = electricity, gasoline, steroids, influence. "Juice cleanse" = diet trend. "No juice" = no power. "Juice box" = childhood lunch staple.
 
 #### Sources
 
 - [[food-vocabulary]]
+- Oxford English Dictionary
+- COCA corpus (frequency: top 2000)
 
----
 
 ### beer
 
-**Part of Speech:** noun
+**Part of Speech:** noun (uncountable / countable: servings)
 
-**Definition:** 맥주
+**Definition:** fermented alcoholic beverage from malted grains, flavored with hops
 
-**IPA / Pronunciation:** /bɪər/
+**IPA / Pronunciation:** /bɪər/ (US) /bɪə/ (UK)
 
-**Etymology:** English: beer (etymology research needed)
+**Etymology:** Old English *beor* "strong drink" → Proto-Germanic *beuzą* → uncertain (possibly *beuwo-* "barley" or monastic Latin *biber* "drink"). Cognate with German *Bier*, Dutch *bier*.
 
 #### Examples
 
-- I need a beer. — Expressing need
-- The beer is here. — Location/presence
+- A **beer** after work. — Countable: serving
+- **Beer** garden. — Outdoor venue
+- **Beer** belly. — Colloquial: abdominal fat
 
 #### Related Terms
 
-- beer — Self-reference check
-- [[food-vocabulary]] — Food vocabulary
+- [[food-vocabulary#ale|ale (noun: top-fermented beer)]]
+- [[food-vocabulary#lager|lager (noun: bottom-fermented)]]
+- [[food-vocabulary#brew|brew (verb/noun)]]
 
 #### Cultural Notes
 
-Cultural context to be added
+"Beer" = uncountable substance, countable servings (*two beers*). "Beer goggles" = alcohol-induced attraction. "Craft beer" = small-batch movement. "Beer pong" = drinking game. German *Reinheitsgebot* (1516) = purity law.
 
 #### Sources
 
 - [[food-vocabulary]]
+- Oxford English Dictionary
+- COCA corpus (frequency: top 2000)
 
----
 
 ### wine
 
-**Part of Speech:** noun
+**Part of Speech:** noun (uncountable / countable: types/vintages)
 
-**Definition:** 와인
+**Definition:** fermented alcoholic beverage from grapes
 
 **IPA / Pronunciation:** /waɪn/
 
-**Etymology:** English: wine (etymology research needed)
+**Etymology:** Old English *win* → Latin *vinum* "wine" → PIE *woino-* "wine" (also source of *vine*, *vineyard*, *vintage*). Cognate with German *Wein*, French *vin*, Spanish *vino*.
 
 #### Examples
 
-- I need a wine. — Expressing need
-- The wine is here. — Location/presence
+- A glass of **wine**. — Quantifier
+- **Red wine** / **white wine**. — Types
+- **Wine** and dine. — Verb phrase: entertain lavishly
 
 #### Related Terms
 
-- wine — Self-reference check
-- [[food-vocabulary]] — Food vocabulary
+- [[food-vocabulary#vintage|vintage (noun: harvest year)]]
+- [[food-vocabulary#vineyard|vineyard (noun: grape farm)]]
+- [[food-vocabulary#sommelier|sommelier (noun: wine expert)]]
 
 #### Cultural Notes
 
-Cultural context to be added
+"Wine" = uncountable, countable for types (*a fine wine*). "Wine" = cultural capital (knowledge = sophistication). "Wine o'clock" = humorous drinking time. "Sour grapes" = Aesop's fable (rationalization). Terroir = sense of place.
 
 #### Sources
 
 - [[food-vocabulary]]
+- Oxford English Dictionary
+- COCA corpus (frequency: top 2000)
 
----
 
 ### water
 
-**Part of Speech:** noun
+**Part of Speech:** noun (uncountable)
 
-**Definition:** 물
+**Definition:** colorless, odorless, tasteless liquid (H₂O) essential for life
 
-**IPA / Pronunciation:** /ˈwɔːtər/
+**IPA / Pronunciation:** /ˈwɔːtər/ (US) /ˈwɔːtə/ (UK)
 
-**Etymology:** English: water (etymology research needed)
+**Etymology:** Old English *wæter* → Proto-Germanic *watōr* → PIE *wódr̥* "water" (also source of *otter*, *winter*, *hydrate*, *whiskey* "water of life"). Cognate with German *Wasser*, Russian *voda*, Greek *hudōr*.
 
 #### Examples
 
-- I need a water. — Expressing need
-- The water is here. — Location/presence
+- A glass of **water**. — Quantifier
+- **Water** under the bridge. — Idiom: past, forgotten
+- **Water** cooler talk. — Workplace gossip
 
 #### Related Terms
 
-- water — Self-reference check
-- [[food-vocabulary]] — Food vocabulary
+- [[food-vocabulary#tap water|tap water (noun)]]
+- [[food-vocabulary#bottled water|bottled water (noun)]]
+- [[food-vocabulary#sparkling water|sparkling water (noun)]]
 
 #### Cultural Notes
 
-Common beverage offerings in social/business settings.
+"Water" = uncountable. "Water" = human right (UN 2010). "Water cooler" = office social hub. "Test the waters" = explore cautiously. "In deep water" = trouble. "Waterboarding" = torture. Bottled water industry: $300B+.
 
 #### Sources
 
 - [[food-vocabulary]]
+- Oxford English Dictionary
+- COCA corpus (frequency: top 500)
+
 
 ---
 
 ## Restaurant & Dining
 
+
 ### menu
 
-**Part of Speech:** noun
+**Part of Speech:** noun (countable)
 
-**Definition:** 메뉴
+**Definition:** list of dishes available at a restaurant
 
 **IPA / Pronunciation:** /ˈmɛnjuː/
 
-**Etymology:** English: menu (etymology research needed)
+**Etymology:** French *menu* "small, detailed" → Latin *minutus* "small" → *minuere* "to diminish". Originally "small list" → "list of dishes" 19c.
 
 #### Examples
 
-- I need a menu. — Expressing need
-- The menu is here. — Location/presence
+- Can I see the **menu**? — Request
+- **Menu** of the day. — Daily special
+- **Menu** bar. — Computing: UI element
 
 #### Related Terms
 
-- menu — Self-reference check
+- [[food-vocabulary#order|order (verb/noun)]]
+- [[food-vocabulary#special|special (noun: daily dish)]]
+- [[food-vocabulary#à la carte|à la carte (phrase: priced individually)]]
 
 #### Cultural Notes
 
-Cultural context to be added
+"Menu" = borrowed from French (like *restaurant, chef, cuisine*). "Menu" in computing = 1980s metaphor. "Secret menu" = off-menu items (In-N-Out, Starbucks). "Tasting menu" = chef's selection.
 
 #### Sources
 
 - [[food-vocabulary]]
+- Oxford English Dictionary
+- COCA corpus (frequency: top 3000)
 
----
 
 ### order
 
-**Part of Speech:** noun/verb
+**Part of Speech:** verb / noun
 
-**Definition:** 주문
+**Definition:** request food/drink; the requested items
 
-**IPA / Pronunciation:** /ˈɔːrdər/
+**IPA / Pronunciation:** /ˈɔːrdər/ (US) /ˈɔːdə/ (UK)
 
-**Etymology:** English: order (etymology research needed)
+**Etymology:** Old French *ordre* "row, rank, series" → Latin *ordinem* "arrangement, order" → *ordiri* "to begin to weave" → PIE *ar-* "to fit together". Restaurant sense: "place in sequence" → "request".
 
 #### Examples
 
-- I need a order. — Expressing need
-- The order is here. — Location/presence
+- I'd like to **order** the salmon. — Verb
+- Your **order** is ready. — Noun: items
+- **Order** up! — Kitchen call
 
 #### Related Terms
 
+- [[food-vocabulary#menu|menu (noun)]]
+- [[food-vocabulary#waiter|waiter (noun)]]
+- [[food-vocabulary#takeout|takeout (noun: food to go)]]
 
 #### Cultural Notes
 
-Cultural context to be added
+"Order" = verb + noun (same form). "Order in" = delivery. "Order out" = takeout. "Made to order" = custom. "Order of magnitude" = scientific. "Law and order" = fixed phrase.
 
 #### Sources
 
 - [[food-vocabulary]]
+- Oxford English Dictionary
+- COCA corpus (frequency: top 1000)
 
----
 
 ### bill
 
-**Part of Speech:** noun
+**Part of Speech:** noun (countable)
 
-**Definition:** 계산서
+**Definition:** statement of charges for food/drink; check (US)
 
 **IPA / Pronunciation:** /bɪl/
 
-**Etymology:** English: bill (etymology research needed)
+**Etymology:** Old English *bill* "written document" → Medieval Latin *billa* "decree" → Latin *bulla* "seal, bubble" → "document with seal". Restaurant sense: "itemized list" 18c.
 
 #### Examples
 
-- I need a bill. — Expressing need
-- The bill is here. — Location/presence
+- The **bill**, please. — Request
+- Split the **bill**. — Shared payment
+- **Bill** of fare. — Archaic: menu
 
 #### Related Terms
 
-- bill — Self-reference check
+- [[food-vocabulary#check|check (noun: US restaurant bill)]]
+- [[food-vocabulary#tip|tip (noun: gratuity)]]
+- [[food-vocabulary#receipt|receipt (noun: proof of payment)]]
 
 #### Cultural Notes
 
-Cultural context to be added
+US: "check" or "bill". UK: "bill". "Bill" = also legislative proposal, bird beak, banknote. "Foot the bill" = pay. "Bill and coo" = kiss affectionately. "Fit the bill" = meet requirements.
 
 #### Sources
 
 - [[food-vocabulary]]
+- Oxford English Dictionary
+- COCA corpus (frequency: top 2000)
 
----
 
 ### restaurant
 
-**Part of Speech:** noun
+**Part of Speech:** noun (countable)
 
-**Definition:** 식당
+**Definition:** establishment where meals are prepared and served to customers
 
-**IPA / Pronunciation:** /ˈrɛstərɒnt/
+**IPA / Pronunciation:** /ˈrɛstərənt/ (US) /ˈrɛstrɒ̃/ (UK)
 
-**Etymology:** English: restaurant (etymology research needed)
+**Etymology:** French *restaurant* "restorative" → *restaurer* "to restore" → Latin *restaurare* "renew, rebuild" (*re-* + *staurare* "set up"). 1765 Paris: Boulanger sold "restaurants" (restorative broths) → genericized.
 
 #### Examples
 
-- I need a restaurant. — Expressing need
-- The restaurant is here. — Location/presence
+- Italian **restaurant**. — Cuisine type
+- Fine dining **restaurant**. — Category
+- **Restaurant** week. — Promotional event
 
 #### Related Terms
 
-- restaurant — Self-reference check
+- [[food-vocabulary#café|café (noun: casual)]]
+- [[food-vocabulary#bistro|bistro (noun: small casual)]]
+- [[food-vocabulary#eatery|eatery (noun: casual synonym)]]
 
 #### Cultural Notes
 
-Cultural context to be added
+"Restaurant" = French loan (pronunciation varies). "Restaurant" replaced "eating house" (18c.). Michelin stars = prestige rating. "Restaurant" = 1.1M+ in US. "Ghost kitchen" = delivery-only (2020s).
 
 #### Sources
 
 - [[food-vocabulary]]
+- Oxford English Dictionary
+- COCA corpus (frequency: top 2000)
 
----
 
 ### café
 
-**Part of Speech:** noun
+**Part of Speech:** noun (countable)
 
-**Definition:** 카페
+**Definition:** small establishment serving coffee, light meals, pastries
 
-**IPA / Pronunciation:** /kæˈfeɪ/
+**IPA / Pronunciation:** /kæˈfeɪ/ (US) /ˈkæfeɪ/ (UK)
 
-**Etymology:** Loanword: café (origin varies)
+**Etymology:** French *café* "coffee" → Turkish *kahve* → Arabic *qahwa*. Originally "coffee house" (17c. London, Paris) → social hubs (Enlightenment salons).
 
 #### Examples
 
-- I need a café. — Expressing need
-- The café is here. — Location/presence
+- Meet at the **café**. — Venue
+- **Café** culture. — Urban lifestyle
+- Internet **café**. — 1990s: public computer access
 
 #### Related Terms
 
-- café — Self-reference check
+- [[food-vocabulary#coffee|coffee (noun)]]
+- [[food-vocabulary#bistro|bistro (noun: small restaurant)]]
+- [[food-vocabulary#coffee shop|coffee shop (noun: US café)]]
 
 #### Cultural Notes
 
-Cultural context to be added
+"Café" = French loan (accent optional: *cafe*). "Café society" = 1920s intellectuals. "Sidewalk café" = European streetscape. "Café racer" = motorcycle style. "Café con leche" = Spanish coffee with milk.
 
 #### Sources
 
 - [[food-vocabulary]]
+- Oxford English Dictionary
+- COCA corpus (frequency: top 3000)
 
----
 
 ### breakfast
 
-**Part of Speech:** noun
+**Part of Speech:** noun (uncountable / countable: event)
 
-**Definition:** 아침
+**Definition:** first meal of the day, typically eaten in the morning
 
 **IPA / Pronunciation:** /ˈbrɛkfəst/
 
-**Etymology:** English: breakfast (etymology research needed)
+**Etymology:** *break* + *fast* "end the overnight fast" (Middle English *brekefast*). Literal: breaking the night's fast. Cognate with *breakfast* (verb: eat breakfast).
 
 #### Examples
 
-- I need a breakfast. — Expressing need
-- The breakfast is here. — Location/presence
+- **Breakfast** is ready. — Meal
+- **Breakfast** meeting. — Business
+- **Breakfast** of champions. — Wheaties slogan / ironic
 
 #### Related Terms
 
-- breakfast — Self-reference check
+- [[food-vocabulary#brunch|brunch (noun: late breakfast + lunch)]]
+- [[food-vocabulary#continental breakfast|continental breakfast (noun: light)]]
+- [[food-vocabulary#full English|full English (noun: cooked breakfast)]]
 
 #### Cultural Notes
 
-Cultural context to be added
+"Breakfast" = uncountable meal, countable event (*a nice breakfast*). "Breakfast" = most important meal (marketing 1940s). "Continental breakfast" = pastries, coffee (European style). "Full English" = eggs, bacon, beans, toast, tomato, mushroom.
 
 #### Sources
 
 - [[food-vocabulary]]
+- Oxford English Dictionary
+- COCA corpus (frequency: top 2000)
 
----
 
 ### delicious
 
 **Part of Speech:** adjective
 
-**Definition:** 맛있는
+**Definition:** highly pleasing to the taste; very enjoyable
 
 **IPA / Pronunciation:** /dɪˈlɪʃəs/
 
-**Etymology:** English: delicious (etymology research needed)
+**Etymology:** Old French *delicios* → Latin *deliciosus* "delightful" → *delicia* "delight, allurement" → *delicere* "entice" (*de-* + *lacere* "to lure"). Cognate with *delight*, *delicate*.
 
 #### Examples
 
-- It is delicious. — Description
-- A very delicious day. — Modifying noun
+- This cake is **delicious**. — Predicative
+- A **delicious** meal. — Attributive
+- **Delicious**! — Exclamation
 
 #### Related Terms
 
+- [[food-vocabulary#tasty|tasty (adj: less formal)]]
+- [[food-vocabulary#yummy|yummy (adj: childish)]]
+- [[food-vocabulary#mouthwatering|mouthwatering (adj: vivid)]]
 
 #### Cultural Notes
 
-Cultural context to be added
+"Delicious" = standard positive evaluation. "Delicious" = higher register than "tasty", "yummy". "Delicious irony" = metaphorical. "Looks delicious" = visual anticipation. "Finger-licking good" = KFC slogan.
 
 #### Sources
 
 - [[food-vocabulary]]
+- Oxford English Dictionary
+- COCA corpus (frequency: top 3000)
 
----
 
 ### sweet
 
-**Part of Speech:** adjective
+**Part of Speech:** adjective / noun
 
-**Definition:** 달콤한
+**Definition:** having taste of sugar; dessert course (BrE)
 
 **IPA / Pronunciation:** /swiːt/
 
-**Etymology:** English: sweet (etymology research needed)
+**Etymology:** Old English *swēte* → Proto-Germanic *swōtuz* → PIE *swād-* "sweet" (also source of *sugar*, *sweetheart*, *sweat* — unrelated). Cognate with German *süß*, Dutch *zoet*.
 
 #### Examples
 
-- It is sweet. — Description
-- A very sweet day. — Modifying noun
+- **Sweet** tea. — Adjective: flavor
+- **Sweet** tooth. — Idiom: love desserts
+- **Sweets** (BrE) = candy (AmE). — Noun: confectionery
 
 #### Related Terms
 
+- [[food-vocabulary#sugar|sugar (noun)]]
+- [[food-vocabulary#dessert|dessert (noun: sweet course)]]
+- [[food-vocabulary#bitter|bitter (adj: opposite)]]
 
 #### Cultural Notes
 
-Cultural context to be added
+UK/US difference: *sweets* (UK) = *candy* (US). "Sweet" = term of endearment. "Sweet talk" = flattery. "Sweet spot" = optimal point. "Sweet dreams" = bedtime wish. "Sweetheart" = lover / term of address.
 
 #### Sources
 
 - [[food-vocabulary]]
+- Oxford English Dictionary
+- COCA corpus (frequency: top 2000)
 
----
 
 ### spicy
 
 **Part of Speech:** adjective
 
-**Definition:** 매운
+**Definition:** flavored with spices; hot (chili heat)
 
 **IPA / Pronunciation:** /ˈspaɪsi/
 
-**Etymology:** English: spicy (etymology research needed)
+**Etymology:** *spice* + *-y* → *spice* (Old French *espice* → Latin *species* "kind, sort, goods" → *specere* "to look at" → "spices" = valuable goods). "Hot" sense 16c. (chili introduction).
 
 #### Examples
 
-- It is spicy. — Description
-- A very spicy day. — Modifying noun
+- **Spicy** food. — Adjective
+- **Spicy** kick. — Noun phrase: heat
+- **Spicy** gossip. — Metaphor: scandalous
 
 #### Related Terms
 
+- [[food-vocabulary#hot|hot (adj: temperature / spicy)]]
+- [[food-vocabulary#mild|mild (adj: not spicy)]]
+- [[food-vocabulary#chili|chili (noun: pepper)]]
 
 #### Cultural Notes
 
-Cultural context to be added
+"Spicy" = both "seasoned" and "chili-hot". Scoville scale measures heat. "Spicy" metaphor = exciting, risqué. "Spicy memoir" = revealing. "Mild/medium/hot" = restaurant scale. Cultural tolerance varies widely.
 
 #### Sources
 
 - [[food-vocabulary]]
+- Oxford English Dictionary
+- COCA corpus (frequency: top 3000)
+
 
 ---
 
 ## Sources
 
-- [[food-vocabulary]][[food-vocabulary]]
+- [[food-vocabulary]]
+- Oxford English Dictionary (OED)
+- Corpus of Contemporary American English (COCA) — frequency bands
+- Cambridge English Dictionary
+- Merriam-Webster
+- Etymonline.com
 
 ---
 
@@ -923,17 +1052,16 @@ Cultural context to be added
 - { id: en_food_vocabulary_016, display: "coffee", input: "coffee", meaning: "커피", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
 - { id: en_food_vocabulary_017, display: "tea", input: "tea", meaning: "차", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
 - { id: en_food_vocabulary_018, display: "juice", input: "juice", meaning: "주스", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: en_food_vocabulary_019, display: "beer", input: "beer", meaning: "맥주", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: en_food_vocabulary_020, display: "wine", input: "wine", meaning: "와인", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_vocabulary_019, display: "beer", input: "beer", meaning: "맥주", level: "A2", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_vocabulary_020, display: "wine", input: "wine", meaning: "와인", level: "A2", category: "food-vocabulary", source: "[[food-vocabulary]]" }
 - { id: en_food_vocabulary_021, display: "water", input: "water", meaning: "물", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: en_food_vocabulary_022, display: "menu", input: "menu", meaning: "메뉴", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_vocabulary_022, display: "menu", input: "menu", meaning: "메뉴", level: "A2", category: "food-vocabulary", source: "[[food-vocabulary]]" }
 - { id: en_food_vocabulary_023, display: "order", input: "order", meaning: "주문", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: en_food_vocabulary_024, display: "bill", input: "bill", meaning: "계산서", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: en_food_vocabulary_025, display: "restaurant", input: "restaurant", meaning: "식당", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: en_food_vocabulary_026, display: "café", input: "café", meaning: "카페", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_vocabulary_024, display: "bill", input: "bill", meaning: "계산서", level: "A2", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_vocabulary_025, display: "restaurant", input: "restaurant", meaning: "식당", level: "A2", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_vocabulary_026, display: "café", input: "café", meaning: "카페", level: "A2", category: "food-vocabulary", source: "[[food-vocabulary]]" }
 - { id: en_food_vocabulary_027, display: "breakfast", input: "breakfast", meaning: "아침", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: en_food_vocabulary_028, display: "delicious", input: "delicious", meaning: "맛있는", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_vocabulary_028, display: "delicious", input: "delicious", meaning: "맛있는", level: "A2", category: "food-vocabulary", source: "[[food-vocabulary]]" }
 - { id: en_food_vocabulary_029, display: "sweet", input: "sweet", meaning: "달콤한", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: en_food_vocabulary_030, display: "spicy", input: "spicy", meaning: "매운", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_vocabulary_030, display: "spicy", input: "spicy", meaning: "매운", level: "A2", category: "food-vocabulary", source: "[[food-vocabulary]]" }
 ```
-
