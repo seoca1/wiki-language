@@ -1,3 +1,12 @@
+---
+type: "health"
+date_added: "2026-06-20"
+language_level: "A1-A2 (Beginner)"
+source_url: "https://www.oup.com/elt/oxford-picture-dictionary"
+license: "Educational use"
+access_date: "2026-06-20"
+---
+
 # Health and Body — English (Source Hub)
 
 **Type:** Health

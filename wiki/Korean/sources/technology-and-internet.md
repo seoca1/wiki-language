@@ -1,3 +1,13 @@
+---
+type: "기술 (Technology)"
+date_added: "2026-06-20"
+language_level: "TOPIK I 2-3 (Beginner-Intermediate)"
+language: "Korean"
+source_url: ""
+license: "Educational use"
+access_date: "2026-06-20"
+---
+
 # 기술과 인터넷 (Technology and Internet) — Korean (Source Hub)
 
 **Type:** 기술 (Technology)

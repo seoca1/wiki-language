@@ -1,3 +1,14 @@
+---
+type: "curriculum + film dialogue"
+date_added: "2026-06-19"
+language_level: "CEFR B1-B2"
+language: "English"
+theme: "Dating & Romance — flirting, courtship, affection (PG-13)"
+source_url: "raw/English/dating-romance.md"
+license: "Educational use"
+access_date: "2026-06-19"
+---
+
 # dating-romance
 
 **Type:** Curriculum + Film dialogue

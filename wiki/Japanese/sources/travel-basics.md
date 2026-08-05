@@ -1,3 +1,13 @@
+---
+type: "旅行 (Travel)"
+date_added: "2026-06-20"
+language_level: "N5-N4 (Beginner)"
+language: "Japanese"
+source_url: ""
+license: "Educational use"
+access_date: "2026-06-20"
+---
+
 # 旅行基礎 (Travel Basics) — Japanese (Source Hub)
 
 **Type:** 旅行 (Travel)

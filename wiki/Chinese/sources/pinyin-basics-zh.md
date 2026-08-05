@@ -1,3 +1,13 @@
+---
+type: "lesson"
+date_added: "2026-07-13"
+language_level: "beginner (HSK 1)"
+language: "Chinese"
+source_url: ".openclaw/workspace/wiki/chinese/lessons/Pinyin_Basics.md"
+license: "Educational use"
+access_date: "2026-07-13"
+---
+
 # Pinyin Basics (Chinese Pinyin Foundations)
 
 **Type:** lesson
@@ -39,6 +49,7 @@ This lesson introduces the Hanyu Pinyin romanization system used in Mainland Chi
 - The lesson pairs naturally with [[tone-pairs-zh]] (same author, 2026-07-13 creation date, builds on this foundation)
 - 56 basic syllables + 4 tones are the surface area learners need to internalize before tackling vocabulary
 - Vocabulary anchors below intentionally reach forward into the theme files this task creates (numbers, body, family, colors) so the wiki self-cites from day one
+
 ## Sources
 
 - `Language/raw/Chinese/README.md` — Chinese raw materials 보존 정책 (현 디렉토리 부재, source-summary 단계에서 인용)

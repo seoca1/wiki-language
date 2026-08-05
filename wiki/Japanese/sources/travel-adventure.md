@@ -1,3 +1,13 @@
+---
+type: "旅行 (Travel)"
+date_added: "2026-06-20"
+language_level: "N4-N3 (Intermediate)"
+language: "Japanese"
+source_url: ""
+license: "Educational use"
+access_date: "2026-06-20"
+---
+
 # Travel Adventure — Japanese (Source Hub)
 
 **Type:** 旅行 (Travel)

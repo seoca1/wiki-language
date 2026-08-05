@@ -1,3 +1,13 @@
+---
+type: "スポーツ/趣味"
+date_added: "2026-06-20"
+language_level: "N4-N3 (Intermediate)"
+language: "Japanese"
+source_url: "https://www.nhk.or.jp/sports/"
+license: "Educational use"
+access_date: "2026-06-20"
+---
+
 # スポーツと趣味 (Sports and Hobbies) — Japanese (Source Hub)
 
 **Type:** スポーツ/趣味

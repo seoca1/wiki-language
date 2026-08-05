@@ -1,3 +1,14 @@
+---
+type: "旅行ジャーナル / 実戦学習ノート"
+date_added: "2024-06-18"
+language_level: "JLPT N5"
+language: "Japanese"
+theme: "韓国初旅行 (ソウル/釜山)"
+source_url: "raw/Japanese/first-travel-korea.md"
+license: "Educational use"
+access_date: "2024-06-18"
+---
+
 # first-travel-korea
 
 **Type:** 旅行ジャーナル / 実戦学習ノート

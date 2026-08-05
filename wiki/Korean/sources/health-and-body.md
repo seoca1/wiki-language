@@ -1,3 +1,13 @@
+---
+type: "건강 (Health)"
+date_added: "2026-06-20"
+language_level: "TOPIK I 2-3 (Beginner-Intermediate)"
+language: "Korean"
+source_url: ""
+license: "Educational use"
+access_date: "2026-06-20"
+---
+
 # 건강과 몸 (Health and Body) — Korean (Source Hub)
 
 **Type:** 건강 (Health)

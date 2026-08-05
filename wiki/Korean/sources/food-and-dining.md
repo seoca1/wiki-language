@@ -1,3 +1,13 @@
+---
+type: "음식 (Food)"
+date_added: "2026-06-20"
+language_level: "TOPIK I 2-3 (Beginner-Intermediate)"
+language: "Korean"
+source_url: ""
+license: "Educational use"
+access_date: "2026-06-20"
+---
+
 # 음식 문화 (Food and Dining) — Korean (Source Hub)
 
 **Type:** 음식 (Food)

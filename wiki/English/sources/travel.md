@@ -1,3 +1,12 @@
+---
+type: "general topic (hub page)"
+date_added: "2026-06-20"
+language_level: "All levels"
+source_url: ""
+license: "Internal wiki content"
+access_date: "2026-06-20"
+---
+
 # travel
 
 **Type:** General Topic (Hub Page)

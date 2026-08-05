@@ -1,3 +1,12 @@
+---
+type: "work / professional"
+date_added: "2026-06-20"
+language_level: "A2-B2 (Intermediate)"
+source_url: "https://www.bbc.co.uk/learningenglish/business"
+license: "Educational use"
+access_date: "2026-06-20"
+---
+
 # Work and Career — English (Source Hub)
 
 **Type:** Work / Professional

@@ -1,3 +1,12 @@
+---
+type: "travel / adventure"
+date_added: "2026-06-20"
+language_level: "B1-B2 (Intermediate)"
+source_url: "https://www.rei.com/learn/expert-advice.html"
+license: "Educational use"
+access_date: "2026-06-20"
+---
+
 # Travel Adventure — English (Source Hub)
 
 **Type:** Travel / Adventure

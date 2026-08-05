@@ -1,3 +1,12 @@
+---
+type: "holidays"
+date_added: "2026-06-20"
+language_level: "A2-B1 (Intermediate)"
+source_url: "https://www.usa.gov/holidays"
+license: "Educational use"
+access_date: "2026-06-20"
+---
+
 # Holidays and Celebrations — English (Source Hub)
 
 **Type:** Holidays

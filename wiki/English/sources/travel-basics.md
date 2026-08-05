@@ -1,3 +1,12 @@
+---
+type: "travel / daily life"
+date_added: "2026-06-20"
+language_level: "A1-B1 (Beginner)"
+source_url: "https://www.cambridge.org/elt/english-vocabulary-in-use"
+license: "Educational use"
+access_date: "2026-06-20"
+---
+
 # Travel Basics — English (Source Hub)
 
 **Type:** Travel / Daily Life

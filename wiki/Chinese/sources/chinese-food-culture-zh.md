@@ -1,3 +1,13 @@
+---
+type: "source summary (lesson)"
+date_added: "2026-07-19"
+language_level: "HSK 3-4 (Intermediate)"
+language: "Chinese (Simplified)"
+source_url: ""
+license: "Educational use"
+access_date: "2026-07-19"
+---
+
 # Chinese Food & Dining Culture (中国饮食文化)
 
 **Type:** Source Summary (lesson)
@@ -89,6 +99,5 @@ Chinese food culture is one of the most important aspects of Chinese cultural id
 - 中国饮食文化 (China Food Culture) — academic publications
 - 中国文化概论 (Introduction to Chinese Culture)
 - [[chinese-cuisine-culture]]
-- [[food-dining]]
 - [[food-dining]]
 - [[greetings]]

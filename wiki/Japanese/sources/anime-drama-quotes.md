@@ -1,3 +1,14 @@
+---
+type: "anime & drama"
+date_added: "2026-06-23"
+language_level: "CEFR B2-C1"
+language: "Japanese"
+theme: "Anime & Drama Quotes — iconic lines from popular Japanese anime and drama series"
+source_url: "raw/Japanese/anime-drama-quotes.md"
+license: "Fair use (anime/drama quotes for educational purposes)"
+access_date: "2026-06-23"
+---
+
 # anime-drama-quotes
 
 **Type:** Anime & Drama
@@ -42,7 +53,7 @@
    - Theme: justice, corporate fight, determination
    - Key quote: "やられたら、やり返す。加倍にだ。"
 
-### 文체 특징 (Stylistic Features)
+### 文体特徴 (Stylistic Features)
 - 캐릭터별 말투 차이 (존댓말, 반말, 의儀式的な表現)
 - 상황별 감정 표현
 - 만화/애니메이션 특유의 강한 표현

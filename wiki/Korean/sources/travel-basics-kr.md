@@ -1,3 +1,13 @@
+---
+type: "travel / reference"
+date_added: "2026-06-20"
+language_level: "TOPIK I 1-2"
+language: "Korean"
+source_url: ""
+license: "Educational use"
+access_date: "2026-06-20"
+---
+
 # travel-basics-kr (Source Hub)
 
 **Type:** Travel / Reference

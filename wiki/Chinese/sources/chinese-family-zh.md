@@ -1,3 +1,13 @@
+---
+type: "source summary (lesson)"
+date_added: "2026-07-19"
+language_level: "HSK 4-5 (Upper Intermediate)"
+language: "Chinese (Simplified)"
+source_url: ""
+license: "Educational use"
+access_date: "2026-07-19"
+---
+
 # Chinese Family & Filial Piety (中国家庭与孝道)
 
 **Type:** Source Summary (lesson)

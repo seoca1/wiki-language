@@ -1,3 +1,13 @@
+---
+type: "食事 (Food)"
+date_added: "2026-06-20"
+language_level: "N5-N4 (Beginner)"
+language: "Japanese"
+source_url: ""
+license: "Educational use"
+access_date: "2026-06-20"
+---
+
 # 食文化 (Food and Dining) — Japanese (Source Hub)
 
 **Type:** 食事 (Food)

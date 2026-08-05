@@ -1,3 +1,13 @@
+---
+type: "テクノロジー (Technology)"
+date_added: "2026-06-20"
+language_level: "N4-N3 (Intermediate)"
+language: "Japanese"
+source_url: ""
+license: "Educational use"
+access_date: "2026-06-20"
+---
+
 # テクノロジー (Technology) — Japanese (Source Hub)
 
 **Type:** テクノロジー (Technology)

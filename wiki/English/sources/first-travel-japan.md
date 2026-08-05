@@ -1,3 +1,14 @@
+---
+type: "travel journal / 실전 학습 노트"
+date_added: "2024-06-18"
+language_level: "CEFR A1-A2"
+language: "English"
+theme: "일본 첫 여행 (한국인 학습자 시점)"
+source_url: "raw/English/first-travel-japan.md"
+license: "Educational use"
+access_date: "2024-06-18"
+---
+
 # first-travel-japan
 
 **Type:** Travel journal / 실전 학습 노트

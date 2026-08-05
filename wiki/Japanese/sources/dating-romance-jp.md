@@ -1,3 +1,14 @@
+---
+type: "curriculum + drama dialogue"
+date_added: "2026-06-19"
+language_level: "JLPT N4-N3"
+language: "Japanese"
+theme: "恋愛会話・デート・告白 (PG-13相当)"
+source_url: "raw/Japanese/dating-romance-jp.md"
+license: "Educational use"
+access_date: "2026-06-19"
+---
+
 # dating-romance-jp
 
 **Type:** Curriculum + Drama dialogue

@@ -1,3 +1,13 @@
+---
+type: "일상 (Daily Life)"
+date_added: "2026-06-20"
+language_level: "TOPIK I 1-2 (Beginner)"
+language: "Korean"
+source_url: ""
+license: "Educational use"
+access_date: "2026-06-20"
+---
+
 # 일상 회화 (Daily Life) — Korean (Source Hub)
 
 **Type:** 일상 (Daily Life)

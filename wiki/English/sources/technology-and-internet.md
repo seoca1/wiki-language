@@ -1,3 +1,12 @@
+---
+type: "technology"
+date_added: "2026-06-20"
+language_level: "A2-B1 (Intermediate)"
+source_url: "https://www.ellevatenetwork.com"
+license: "Educational use"
+access_date: "2026-06-20"
+---
+
 # Technology and Internet — English (Source Hub)
 
 **Type:** Technology

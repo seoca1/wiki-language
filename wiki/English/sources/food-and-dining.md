@@ -1,3 +1,12 @@
+---
+type: "food / restaurant"
+date_added: "2026-06-20"
+language_level: "A1-B1 (Beginner)"
+source_url: "https://www.cambridge.org/elt/english-vocabulary-in-use"
+license: "Educational use"
+access_date: "2026-06-20"
+---
+
 # Food and Dining — English (Source Hub)
 
 **Type:** Food / Restaurant

@@ -1,3 +1,13 @@
+---
+type: "日常 (Daily Life)"
+date_added: "2026-06-20"
+language_level: "N5 (Beginner)"
+language: "Japanese"
+source_url: "https://www.3anet.co.jp/np/ja/products/detail/53"
+license: "Educational use"
+access_date: "2026-06-20"
+---
+
 # 日常会話 (Daily Life) — Japanese (Source Hub)
 
 **Type:** 日常 (Daily Life)

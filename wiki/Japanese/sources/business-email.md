@@ -1,3 +1,14 @@
+---
+type: "business Japanese"
+date_added: "2026-06-23"
+language_level: "CEFR B2-C1"
+language: "Japanese"
+theme: "Business Email Phrases — formal Japanese business email expressions and patterns"
+source_url: "raw/Japanese/business-email.md"
+license: "Educational use"
+access_date: "2026-06-23"
+---
+
 # business-email
 
 **Type:** Business Japanese

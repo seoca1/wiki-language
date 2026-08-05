@@ -1,3 +1,14 @@
+---
+type: "literature & prose"
+date_added: "2026-06-23"
+language_level: "CEFR C1-C2"
+language: "Japanese"
+theme: "Literary Excerpts — opening passages from classic and modern Japanese literature"
+source_url: "raw/Japanese/literature-passages.md"
+license: "Educational use (public domain literary excerpts)"
+access_date: "2026-06-23"
+---
+
 # literature-passages
 
 **Type:** Literature & Prose

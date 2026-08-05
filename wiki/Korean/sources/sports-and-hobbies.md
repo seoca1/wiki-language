@@ -1,3 +1,13 @@
+---
+type: "스포츠/취미"
+date_added: "2026-06-20"
+language_level: "TOPIK I 2-3 (Beginner-Intermediate)"
+language: "Korean"
+source_url: "https://www.kbs.co.kr/sports"
+license: "Educational use"
+access_date: "2026-06-20"
+---
+
 # 스포츠와 취미 (Sports and Hobbies) — Korean (Source Hub)
 
 **Type:** 스포츠/취미

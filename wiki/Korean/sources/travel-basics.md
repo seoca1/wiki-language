@@ -1,3 +1,13 @@
+---
+type: "여행 (Travel)"
+date_added: "2026-06-20"
+language_level: "TOPIK I 1-2 (Beginner)"
+language: "Korean"
+source_url: ""
+license: "Educational use"
+access_date: "2026-06-20"
+---
+
 # 여행 기초 (Travel Basics) — Korean (Source Hub)
 
 **Type:** 여행 (Travel)

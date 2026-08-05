@@ -1,3 +1,14 @@
+---
+type: "curriculum + K-Drama/영화"
+date_added: "2026-06-19"
+language_level: "TOPIK 2-3급"
+language: "Korean"
+theme: "연애 회화, 썸, 고백 (15세 이상)"
+source_url: "raw/Korean/dating-romance-kr.md"
+license: "Educational use"
+access_date: "2026-06-19"
+---
+
 # dating-romance-kr
 
 **Type:** Curriculum + K-Drama/영화

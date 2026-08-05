@@ -1,3 +1,12 @@
+---
+type: "sports / hobbies"
+date_added: "2026-06-20"
+language_level: "A1-B1 (Beginner)"
+source_url: "https://www.npr.org/sections/sports"
+license: "Educational use"
+access_date: "2026-06-20"
+---
+
 # Sports and Hobbies — English (Source Hub)
 
 **Type:** Sports / Hobbies

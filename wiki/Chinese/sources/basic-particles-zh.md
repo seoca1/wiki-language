@@ -1,3 +1,13 @@
+---
+type: "grammar"
+date_added: "2026-07-13"
+language_level: "HSK 1-2 (Beginner)"
+language: "Chinese"
+source_url: ".openclaw/workspace/wiki/chinese/grammar/Basic_Particles_Chinese.md"
+license: "Educational use"
+access_date: "2026-07-13"
+---
+
 # Basic Particles (Basic_Particles_Chinese.md)
 
 **Type:** grammar  
@@ -32,6 +42,7 @@ This source covers the four essential Chinese particles: 的 (de - possessive), 
 ## Notes
 
 Source: OpenClaw workspace `Basic_Particles_Chinese.md` (Notion page: 39ef643d-3530-8174-a452-ee7be6eca1d8). Full content migrated to `wiki/Chinese/grammar/basic-particles.md`.
+
 ## Sources
 
 - `Language/raw/Chinese/README.md` — Chinese raw materials 보존 정책 (현 디렉토리 부재, source-summary 단계에서 인용)

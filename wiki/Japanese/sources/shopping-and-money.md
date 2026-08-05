@@ -1,3 +1,13 @@
+---
+type: "買い物 (Shopping)"
+date_added: "2026-06-20"
+language_level: "N5-N4 (Beginner)"
+language: "Japanese"
+source_url: ""
+license: "Educational use"
+access_date: "2026-06-20"
+---
+
 # Shopping and Money — Japanese (Source Hub)
 
 **Type:** 買い物 (Shopping)

@@ -1,3 +1,14 @@
+---
+type: "personal travel journal / 실전 학습 노트"
+date_added: "2024-06-18"
+language_level: "TOPIK 1 / JLPT N5"
+language: "Korean"
+theme: "첫 해외 여행 (일본)"
+source_url: "raw/Korean/first-travel-japan.md"
+license: "Educational use"
+access_date: "2024-06-18"
+---
+
 # first-travel-japan
 
 **Type:** Personal travel journal / 실전 학습 노트

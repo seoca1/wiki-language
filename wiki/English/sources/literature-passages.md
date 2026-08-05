@@ -1,3 +1,14 @@
+---
+type: "literature & prose"
+date_added: "2026-06-23"
+language_level: "CEFR C1-C2"
+language: "English"
+theme: "Literary Excerpts — opening lines and famous passages from classic and modern literature"
+source_url: "raw/English/literature-passages.md"
+license: "Educational use (public domain excerpts)"
+access_date: "2026-06-23"
+---
+
 # literature-passages
 
 **Type:** Literature & Prose

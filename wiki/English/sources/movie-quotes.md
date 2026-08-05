@@ -1,3 +1,14 @@
+---
+type: "film & cinema"
+date_added: "2026-06-23"
+language_level: "CEFR B2-C1"
+language: "English"
+theme: "Famous Movie Quotes — iconic lines from classic and modern cinema"
+source_url: "raw/English/movie-quotes.md"
+license: "Fair use (movie quotes for educational purposes)"
+access_date: "2026-06-23"
+---
+
 # movie-quotes
 
 **Type:** Film & Cinema

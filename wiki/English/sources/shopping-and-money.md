@@ -1,3 +1,12 @@
+---
+type: "shopping / money"
+date_added: "2026-06-20"
+language_level: "A1-A2 (Beginner)"
+source_url: "https://www.oup.com/elt/practical-english-usage"
+license: "Educational use"
+access_date: "2026-06-20"
+---
+
 # Shopping and Money — English (Source Hub)
 
 **Type:** Shopping / Money

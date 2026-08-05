@@ -1,3 +1,13 @@
+---
+type: "쇼핑 (Shopping)"
+date_added: "2026-06-20"
+language_level: "TOPIK I 1-2 (Beginner)"
+language: "Korean"
+source_url: ""
+license: "Educational use"
+access_date: "2026-06-20"
+---
+
 # 쇼핑과 돈 (Shopping and Money) — Korean (Source Hub)
 
 **Type:** 쇼핑 (Shopping)

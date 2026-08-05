@@ -1,3 +1,12 @@
+---
+type: "daily life"
+date_added: "2026-06-20"
+language_level: "A1-A2 (Beginner)"
+source_url: "https://www.dk.com/english-for-everyone"
+license: "Educational use"
+access_date: "2026-06-20"
+---
+
 # Daily Life Basics — English (Source Hub)
 
 **Type:** Daily Life
