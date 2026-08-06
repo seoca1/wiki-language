@@ -996,3 +996,29 @@ Quality assessment of Language wiki content revealed significant gaps:
 - COCA Corpus (Corpus of Contemporary American English) — frequency band references
 - 標準国語辞典 (Standard Korean Language Dictionary) — Korean POS verification
 - みんなの日本語 (Minna no Nihongo) — Japanese textbook references
+
+## [2026-08-06] feat | Spanish vocabulary KO translations — 5 new pairs (7,350 lines)
+
+**Status**: ✅ 완료 — 5 Spanish vocabulary KO translation pairs committed.
+
+### 범위
+2026-08-05 Spanish ingest follow-on (commit `dca5343` added 24 *.ko.md pairs for English vocabulary themes). 본 commit `dbb9f33` 에서 Spanish vocabulary 의 KO 번역 페어 5 개 추가 (사용자 carry-over dirty 에서 발견).
+
+### 5 새 KO pairs
+| File | Lines |
+|---|---:|
+| `wiki/Spanish/vocabulary/adjectives-vocabulary.ko.md` | 1,115 |
+| `wiki/Spanish/vocabulary/clothing-vocabulary.ko.md` | 3,827 |
+| `wiki/Spanish/vocabulary/daily-life-vocabulary.ko.md` | 725 |
+| `wiki/Spanish/vocabulary/emotions-personality-vocabulary.ko.md` | 905 |
+| `wiki/Spanish/vocabulary/polite-expressions-vocabulary.ko.md` | 778 |
+| **Total** | **7,350** |
+
+`clothing-vocabulary.ko.md` (3,827 lines) 의 큰 볼륨은 2026-07-30 Spanish ingest 세션의 의류 어휘 확장에 대응.
+
+### 검증
+- `python3 audit_vault.py` (workspace-wide) → ✅ CLEAN
+- 5 *.ko.md files follow established pattern (same stem as EN source files in same directory per workspace AGENTS.md §5)
+
+### Push 상태
+- 1 commit ahead of `main` (no upstream — `git remote add` required for push)
