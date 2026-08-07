@@ -125,25 +125,25 @@ Comprehensive cultural analysis pages:
 
 ## Sources (22 processed)
 
-- *sources/comida-y-restaurante* - Comida y Restaurante (Food and Restaurant)
-- *sources/como-agua-para-chocolate-cap1* - Como agua para chocolate - Capítulo 1 (Enero)
-- *sources/dating-romance-es* - dating-romance-es
-- *sources/el-ahogado-mas-hermoso-del-mundo* - El ahogado más hermoso del mundo
+- [[sources/comida-y-restaurante]] - Comida y Restaurante (Food and Restaurant)
+- [[sources/como-agua-para-chocolate-cap1]] - Como agua para chocolate - Capítulo 1 (Enero)
+- [[sources/dating-romance-es]] - dating-romance-es
+- [[sources/el-ahogado-mas-hermoso-del-mundo]] - El ahogado más hermoso del mundo
 - [[sources/fiestas-y-celebraciones]] - Fiestas y Celebraciones (Holidays)
-- *sources/first-travel-spain* - first-travel-spain
-- *sources/literature-passages* - literature-passages
-- *sources/notes-in-spanish-listening-log* - Notes in Spanish - Listening Log
-- *sources/notes-in-spanish-planes-de-verano* - Notes in Spanish Advanced - Planes de verano
-- *sources/trabajo-y-carrera* - Trabajo y Carrera (Work and Career)
-- *sources/viaje-aventura* - Viaje de Aventura (Travel Adventure)
+- [[sources/first-travel-spain]] - first-travel-spain
+- [[sources/literature-passages]] - literature-passages
+- [[sources/notes-in-spanish-listening-log]] - Notes in Spanish - Listening Log
+- [[sources/notes-in-spanish-planes-de-verano]] - Notes in Spanish Advanced - Planes de verano
+- [[sources/trabajo-y-carrera]] - Trabajo y Carrera (Work and Career)
+- [[sources/viaje-aventura]] - Viaje de Aventura (Travel Adventure)
 
 ### Source Pages with Dates
 
-- *sources/2026-05-17_Daily_Routine* - Daily Routine (5/17 ingest)
-- *sources/2026-05-17_Travel_Directions* - Travel Directions (5/17 ingest)
-- *sources/2026-06-13_Weather_and_Seasons* - Weather and Seasons (6/13 ingest)
-- *sources/2026-06-16_Restaurant_Ordering* - Restaurant Ordering (6/16 ingest)
-- *sources/mexico-comida-callejera* - Comida callejera mexicana (culture/sources overlap)
+- [[sources/2026-05-17_Daily_Routine]] - Daily Routine (5/17 ingest)
+- [[sources/2026-05-17_Travel_Directions]] - Travel Directions (5/17 ingest)
+- [[sources/2026-06-13_Weather_and_Seasons]] - Weather and Seasons (6/13 ingest)
+- [[sources/2026-06-16_Restaurant_Ordering]] - Restaurant Ordering (6/16 ingest)
+- [[sources/mexico-comida-callejera]] - Comida callejera mexicana (culture/sources overlap)
 
 ## Study Plan (4 entries)
 
@@ -159,32 +159,32 @@ Personal study workflows and resource planning:
 > Orphan pages reconciled from filesystem. Descriptions from each file's Overview section.
 
 ### Expressions (added 2)
-- *expressions/apologies* — Spanish disculpas — Lo siento, Perdón, Disculpa, Disculpe, Lo lamento (5+ entries)
-- *expressions/agreement* — Spanish agreement expressions — Sí, Vale, De acuerdo, OK, Estoy de acuerdo (5+ entries)
+- [[expressions/apologies]] — Spanish disculpas — Lo siento, Perdón, Disculpa, Disculpe, Lo lamento (5+ entries)
+- [[expressions/agreement]] — Spanish agreement expressions — Sí, Vale, De acuerdo, OK, Estoy de acuerdo (5+ entries)
 
 ### Vocabulary (added 9)
-- *vocabulary/education-vocabulary* — Spanish escuela/aprendizaje vocabulario — académico, estudio, sistema educativo (5+ entries)
-- *vocabulary/colors-vocabulary* — Spanish colores vocabulario — expresiones de color básicas (5+ entries)
-- *vocabulary/months-vocabulary* — Spanish meses vocabulario — enero-diciembre + estaciones (5+ entries)
-- *vocabulary/technology-vocabulary* — Spanish tecnología vocabulario — computadora/internet/digital (5+ entries)
-- *vocabulary/ordinal-numbers-vocabulary* — Spanish ordinales — primero, segundo, tercero... (5+ entries)
-- *vocabulary/weekdays-vocabulary* — Spanish días de la semana — lunes-domingo (5+ entries)
-- *vocabulary/directions-vocabulary* — Spanish direcciones vocabulario — N/S/E/O + expresiones de ubicación (5+ entries)
-- *vocabulary/health-vocabulary* — Spanish salud vocabulario — hospital/síntomas/cuerpo (5+ entries)
-- *vocabulary/numbers-vocabulary* — Spanish números vocabulario — uno-diez + numerales básicos (5+ entries)
+- [[vocabulary/education-vocabulary]] — Spanish escuela/aprendizaje vocabulario — académico, estudio, sistema educativo (5+ entries)
+- [[vocabulary/colors-vocabulary]] — Spanish colores vocabulario — expresiones de color básicas (5+ entries)
+- [[vocabulary/months-vocabulary]] — Spanish meses vocabulario — enero-diciembre + estaciones (5+ entries)
+- [[vocabulary/technology-vocabulary]] — Spanish tecnología vocabulario — computadora/internet/digital (5+ entries)
+- [[vocabulary/ordinal-numbers-vocabulary]] — Spanish ordinales — primero, segundo, tercero... (5+ entries)
+- [[vocabulary/weekdays-vocabulary]] — Spanish días de la semana — lunes-domingo (5+ entries)
+- [[vocabulary/directions-vocabulary]] — Spanish direcciones vocabulario — N/S/E/O + expresiones de ubicación (5+ entries)
+- [[vocabulary/health-vocabulary]] — Spanish salud vocabulario — hospital/síntomas/cuerpo (5+ entries)
+- [[vocabulary/numbers-vocabulary]] — Spanish números vocabulario — uno-diez + numerales básicos (5+ entries)
 
 ## Cross-Language Comparisons
 
 See [[index]] for systematic EN/ES/JP/KR/CH comparisons. Especially relevant for Spanish:
 
-- *politeness-honorifics* — *Tú/usted/vos* three-way split (Spain/LatAm); Spain uses *vosotros* (no other language has this)
+- [[politeness-honorifics]] — *Tú/usted/vos* three-way split (Spain/LatAm); Spain uses *vosotros* (no other language has this)
 - [[greetings]] — Spanish *qué tal* vs JP time-based greetings vs KR all-day *annyeonghaseyo*
-- *numbers-counters* — Spanish **billón** = 10¹² (long scale) vs English billion = 10⁹ — financial trap
-- *cultural-values* — *Sobremesa* (post-meal linger), *tú* default region-dependent
-- *lengua-espanola-hispanohablantes* — 5 Spanish regional dialects (castellano/mexicano/rioplatense/andino/caribeño)
-- *tradiciones-veraniegas* — Spanish siesta (90-120 min) cross-cultural comparison
-- *mood-systems* — Spanish subjuntivo (richest system) vs EN modal / JP-KR mood suffixes
-- *tense-aspect-systems* — Spanish preterite/imperfect distinction vs English simple past
-- *verb-conjugation-patterns* — 6 Spanish verb conjugation tables (-AR/-ER/-IR × 6 persons × 4 tenses)
-- *lunch-and-rest-patterns* — Spanish 14:00-15:30 lunch vs other cultures
-- *master-cheatsheet* — One-page essential reference per language
+- [[numbers-counters]] — Spanish **billón** = 10¹² (long scale) vs English billion = 10⁹ — financial trap
+- [[cultural-values]] — *Sobremesa* (post-meal linger), *tú* default region-dependent
+- [[lengua-espanola-hispanohablantes]] — 5 Spanish regional dialects (castellano/mexicano/rioplatense/andino/caribeño)
+- [[tradiciones-veraniegas]] — Spanish siesta (90-120 min) cross-cultural comparison
+- [[mood-systems]] — Spanish subjuntivo (richest system) vs EN modal / JP-KR mood suffixes
+- [[tense-aspect-systems]] — Spanish preterite/imperfect distinction vs English simple past
+- [[verb-conjugation-patterns]] — 6 Spanish verb conjugation tables (-AR/-ER/-IR × 6 persons × 4 tenses)
+- [[lunch-and-rest-patterns]] — Spanish 14:00-15:30 lunch vs other cultures
+- [[master-cheatsheet]] — One-page essential reference per language

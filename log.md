@@ -1024,3 +1024,59 @@ Quality assessment of Language wiki content revealed significant gaps:
 
 ### Push 상태
 - 3 commits ahead of `main` (no upstream — `git remote add` required for push)
+
+## [2026-08-07] lint | Spanish expressions orphan reconciliation — 2 wikilinks
+
+**Status**: ✅ 완료 — 2 Spanish expression files promoted from italic decoration to real wikilinks in `wiki/Spanish/index.md`.
+
+### 범위
+`wiki/Spanish/expressions/{agreement,apologies}.md` (각 65 lines) 가 동일 언어 wiki 어디에서도 inbound `[[...]]` 가 없어 orphan �로 분류됨. 원인: 2026-07-30 "Round 2 — Index Reconciliation" 에서 index.md 에 추가될 때 `*italic*` 형식으로 기재됨 (다른 언어의 index.md 는 `[[wikilink]]` 형식).
+
+### 변경
+- `wiki/Spanish/index.md` line 162: `*expressions/apologies*` → `[[expressions/apologies]]`
+- `wiki/Spanish/index.md` line 163: `*expressions/agreement*` → `[[expressions/agreement]]`
+
+### 검증
+- 5 언어 orphan 재검사 (path-qualified wikilink 포함) → **0 orphan** (EN/JP/KO/ZH/ES 모두)
+- `python3 audit_vault.py` (workspace-wide, 1736 files) → Language 영역 **0 broken / 0 orphan**
+  - 잔여 5 broken links 는 `Game/roguelike_sprawl/` 한정 (Language 무관)
+- 잔여 2 "orphan"은 false positive:
+  - `_inventory/BROKEN_WIKILINKS_2026-07-11.md` — historical audit artifact (의도적 unlinked)
+  - `wiki/grammar/verb-conjugation-patterns.md` — `wiki/comparative/tense-aspect-systems.md` line 31 에서 `[[verb-conjugation-patterns]]` 로 inbound 존재 (per-language orphan check 의 false positive)
+
+### 발견 (별도, 미해결)
+- **Spanish `index.md` 의 일관성 문제**: ~30 entries 가 `*italics*` 형식으로 기재되어 있으나, 동일 stem 의 파일이 다른 Spanish wiki page (e.g. `vocabulary/food-vocabulary.md`, `expressions/daily-life.md`, `study-plan/recursos-es.md`) 에서 `[[wikilink]]` 로 inbound 가 존재 → orphan 은 아니지만 다른 4개 언어 index.md 와 일관성 없음. 영향 항목:
+  - Sources (10): comida-y-restaurante, como-agua-para-chocolate-cap1, dating-romance-es, el-ahogado-mas-hermoso-del-mundo, first-travel-spain, literature-passages, notes-in-spanish-listening-log, notes-in-spanish-planes-de-verano, trabajo-y-carrera, viaje-aventura
+  - Vocabulary (9): education-vocabulary, colors-vocabulary, months-vocabulary, technology-vocabulary, ordinal-numbers-vocabulary, weekdays-vocabulary, directions-vocabulary, health-vocabulary, numbers-vocabulary
+  - Cross-language comparisons (7+): politeness-honorifics, numbers-counters, cultural-values, tradiciones-veraniegas, mood-systems, tense-aspect-systems, lunch-and-rest-patterns
+  - 결정 보류 — 사용자 confirm 필요 (cosmetic, blocking 아님)
+
+## [2026-08-07] lint | Spanish/index.md *italic* → [[wikilink]] 일괄 변환 — 34 entries
+
+**Status**: ✅ 완료 — 34 Spanish/index.md entries 를 `*italic*` 에서 `[[wikilink]]` 로 변환.
+
+### 범위
+2026-08-07 morning session 에서 발견된 Spanish/index.md 의 cosmetic inconsistency 해소. EN/JP/KO/ZH index.md 와 일관성 확보.
+
+### 변경 (34 entries)
+**Sources (15 entries)**
+- `sources/comida-y-restaurante`, `sources/como-agua-para-chocolate-cap1`, `sources/dating-romance-es`, `sources/el-ahogado-mas-hermoso-del-mundo`, `sources/first-travel-spain`, `sources/literature-passages`, `sources/notes-in-spanish-listening-log`, `sources/notes-in-spanish-planes-de-verano`, `sources/trabajo-y-carrera`, `sources/viaje-aventura`
+- `sources/2026-05-17_Daily_Routine`, `sources/2026-05-17_Travel_Directions`, `sources/2026-06-13_Weather_and_Seasons`, `sources/2026-06-16_Restaurant_Ordering`, `sources/mexico-comida-callejera`
+
+**Vocabulary (9 entries)**
+- `vocabulary/education-vocabulary`, `vocabulary/colors-vocabulary`, `vocabulary/months-vocabulary`, `vocabulary/technology-vocabulary`, `vocabulary/ordinal-numbers-vocabulary`, `vocabulary/weekdays-vocabulary`, `vocabulary/directions-vocabulary`, `vocabulary/health-vocabulary`, `vocabulary/numbers-vocabulary`
+
+**Cross-language comparisons (10 entries)**
+- `politeness-honorifics`, `numbers-counters`, `cultural-values`, `lengua-espanola-hispanohablantes`, `tradiciones-veraniegas`, `mood-systems`, `tense-aspect-systems`, `verb-conjugation-patterns`, `lunch-and-rest-patterns`, `master-cheatsheet`
+
+### 보존 (의도적 italic, 변환 금지)
+- Spanish 어휘 강조: `*Tú/usted/vos*`, `*vosotros*`, `*Sobremesa*`, `*qué tal*`, `*annyeonghaseyo*`, `*tú*` — 파일 참조 아닌 어휘 emphasis
+- 변환 script 는 file-existence whitelist (`stems_with_files`) 로 안전하게 동작
+
+### 검증
+- 5 언어 orphan 재검사 → **0 orphan** (EN/JP/KO/ZH/ES 모두)
+- `python3 audit_vault.py` (workspace-wide) → Language 영역 **0 broken / 0 orphan**
+- 변환 34 entries 전부 실제 파일 stem 매칭 확인 (script 내 whitelist 검증)
+
+### 인용
+- EN/JP/KO/ZH index.md 의 `[[wikilink]]` 형식 (Language/schema/AGENTS.md §4 Index Format)
