@@ -9,6 +9,7 @@ This directory contains Language-specific Python utilities for wiki maintenance,
 
 ```
 Language/tools/
+├── audit_vault.py                  # Symlink → ../../../audit_vault.py (workspace root)
 ├── broken_wikilink_processor.py   # Broken wikilink inventory + stub generator
 ├── extract_cards.py               # Card News Archive → vocabulary extraction
 ├── linguistic_stub_gen.py         # Auto-generate linguistic stub pages
@@ -22,6 +23,7 @@ Language/tools/
 
 | Tool | Purpose | Usage |
 |------|---------|-------|
+| **`audit_vault.py`** (symlink) | Vault-wide wikilink lint (symlink-aware, 2026-08-07 fix) | `python3 Language/tools/audit_vault.py` |
 | **`broken_wikilink_processor.py`** | Find broken wikilinks, generate stub pages | `python3 Language/tools/broken_wikilink_processor.py --inventory` |
 | **`extract_cards.py`** | Extract vocabulary from card news archives | `python3 Language/tools/extract_cards.py` |
 | **`linguistic_stub_gen.py`** | Generate linguistic stub pages with metadata | `python3 Language/tools/linguistic_stub_gen.py` |
