@@ -292,7 +292,9 @@ Chinese time 어휘는 일상 대화에서 자주 사용됨.
 
 ## Pipeline Form (machine-readable)
 
-> Machine-readable for cross-language indexers / game corpus extraction.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
 - { id: zh_time_001, display: "今天 (jīntiān, 今天)", input: "今天 (jīntiān, 今天)", meaning: "today", level: "HSK 1", category: "time", source: "[[time-vocabulary]]" }
@@ -302,7 +304,6 @@ Chinese time 어휘는 일상 대화에서 자주 사용됨.
 - { id: zh_time_005, display: "下午 (xiàwǔ, 下午)", input: "下午 (xiàwǔ, 下午)", meaning: "afternoon", level: "HSK 1", category: "time", source: "[[time-vocabulary]]" }
 - { id: zh_time_006, display: "晚上 (wǎnshang, 晚上)", input: "晚上 (wǎnshang, 晚上)", meaning: "evening", level: "HSK 1", category: "time", source: "[[time-vocabulary]]" }
 - { id: zh_time_007, display: "中午 (zhōngwǔ, 中午)", input: "中午 (zhōngwǔ, 中午)", meaning: "noon", level: "HSK 1", category: "time", source: "[[time-vocabulary]]" }
-- { id: zh_time_008, display: "中午 (zhōngwǔ, 中午)", input: "中午 (zhōngwǔ, 中午)", meaning: "noon", level: "HSK 1", category: "time", source: "[[time-vocabulary]]" }
-- { id: zh_time_009, display: "周末 (zhōumò, 週末)", input: "周末 (zhōumò, 週末)", meaning: "weekend", level: "HSK 2", category: "time", source: "[[time-vocabulary]]" }
-- { id: zh_time_010, display: "小时 (xiǎoshí, 小時)", input: "小时 (xiǎoshí, 小時)", meaning: "hour", level: "HSK 1", category: "time", source: "[[time-vocabulary]]" }
+- { id: zh_time_008, display: "周末 (zhōumò, 週末)", input: "周末 (zhōumò, 週末)", meaning: "weekend", level: "HSK 2", category: "time", source: "[[time-vocabulary]]" }
+- { id: zh_time_009, display: "小时 (xiǎoshí, 小時)", input: "小时 (xiǎoshí, 小時)", meaning: "hour", level: "HSK 1", category: "time", source: "[[time-vocabulary]]" }
 ```

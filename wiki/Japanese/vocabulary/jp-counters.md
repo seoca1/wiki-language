@@ -1,5 +1,6 @@
 ---
 category: "jp-counters"
+level: "JLPT N5"
 ---
 
 # 일본어 양사 (助数詞): JLPT N5 핵심 카운터
@@ -53,11 +54,10 @@ category: "jp-counters"
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
-> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
 - { id: jp_jp_counters_001, display: "一つ", input: "一つ", meaning: "한", level: "** JLPT N5", category: "jp-counters", source: "[[jp-counters]]" }
 ```
-

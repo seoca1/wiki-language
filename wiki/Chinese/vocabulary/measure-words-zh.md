@@ -1,5 +1,6 @@
 ---
 category: "measure-words-zh"
+level: "HSK 1-2"
 ---
 
 # Measure Words — 양사 (量词)
@@ -289,19 +290,20 @@ category: "measure-words-zh"
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/zh_words.md`).
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: zh_measure_001, display: "个", input: "ge4", meaning: "일반 양사", level: "HSK 1", category: "measure-words", source: "[[measure-words-zh]]" }
-- { id: zh_measure_002, display: "本", input: "ben3", meaning: "책", level: "HSK 1", category: "measure-words", source: "[[measure-words-zh]]" }
-- { id: zh_measure_003, display: "张", input: "zhang1", meaning: "평평한 것", level: "HSK 1", category: "measure-words", source: "[[measure-words-zh]]" }
-- { id: zh_measure_004, display: "杯", input: "bei1", meaning: "잔/컵", level: "HSK 1", category: "measure-words", source: "[[measure-words-zh]]" }
-- { id: zh_measure_005, display: "只", input: "zhi1", meaning: "동물 한 마리", level: "HSK 1", category: "measure-words", source: "[[measure-words-zh]]" }
-- { id: zh_measure_006, display: "条", input: "tiao2", meaning: "길고 가느다란 것", level: "HSK 1", category: "measure-words", source: "[[measure-words-zh]]" }
-- { id: zh_measure_007, display: "件", input: "jian4", meaning: "의복/물건", level: "HSK 1", category: "measure-words", source: "[[measure-words-zh]]" }
-- { id: zh_measure_008, display: "双", input: "shuang1", meaning: "쌍(신발)", level: "HSK 2", category: "measure-words", source: "[[measure-words-zh]]" }
-- { id: zh_measure_009, display: "辆", input: "liang4", meaning: "차량", level: "HSK 2", category: "measure-words", source: "[[measure-words-zh]]" }
-- { id: zh_measure_010, display: "块", input: "kuai4", meaning: "돈/조각", level: "HSK 2", category: "measure-words", source: "[[measure-words-zh]]" }
-- { id: zh_measure_011, display: "座", input: "zuo4", meaning: "산/건물", level: "HSK 2", category: "measure-words", source: "[[measure-words-zh]]" }
+- { id: zh_measure_words_zh_001, display: "个 (gè)", input: "个 (gè)", meaning: "가장 일반적인 양사", level: "HSK 1-2", category: "measure-words-zh", source: "[[measure-words]]" }
+- { id: zh_measure_words_zh_002, display: "本 (běn)", input: "本 (běn)", meaning: "책/잡지 단위", level: "HSK 1-2", category: "measure-words-zh", source: "[[measure-words]]" }
+- { id: zh_measure_words_zh_003, display: "张 (zhāng)", input: "张 (zhāng)", meaning: "평평한 것 (종이, 사진, 카드)", level: "HSK 1-2", category: "measure-words-zh", source: "[[measure-words]]" }
+- { id: zh_measure_words_zh_004, display: "杯 (bēi)", input: "杯 (bēi)", meaning: "잔/컵", level: "HSK 1-2", category: "measure-words-zh", source: "[[measure-words]]" }
+- { id: zh_measure_words_zh_005, display: "只 (zhī)", input: "只 (zhī)", meaning: "동물 (한 마리)", level: "HSK 1-2", category: "measure-words-zh", source: "[[measure-words]]" }
+- { id: zh_measure_words_zh_006, display: "条 (tiáo)", input: "条 (tiáo)", meaning: "길고 가느다란 것", level: "HSK 1-2", category: "measure-words-zh", source: "[[measure-words]]" }
+- { id: zh_measure_words_zh_007, display: "件 (jiàn)", input: "件 (jiàn)", meaning: "의복/물건", level: "HSK 1-2", category: "measure-words-zh", source: "[[measure-words]]" }
+- { id: zh_measure_words_zh_008, display: "双 (shuāng)", input: "双 (shuāng)", meaning: "쌍 (신발, 양말)", level: "HSK 1-2", category: "measure-words-zh", source: "[[measure-words]]" }
+- { id: zh_measure_words_zh_009, display: "辆 (liàng)", input: "辆 (liàng)", meaning: "차량", level: "HSK 1-2", category: "measure-words-zh", source: "[[measure-words]]" }
+- { id: zh_measure_words_zh_010, display: "块 (kuài)", input: "块 (kuài)", meaning: "돈 (위안 속어) / 조각", level: "HSK 1-2", category: "measure-words-zh", source: "[[measure-words]]" }
+- { id: zh_measure_words_zh_011, display: "座 (zuò)", input: "座 (zuò)", meaning: "산/건물 (큰 구조물)", level: "HSK 1-2", category: "measure-words-zh", source: "[[measure-words]]" }
 ```

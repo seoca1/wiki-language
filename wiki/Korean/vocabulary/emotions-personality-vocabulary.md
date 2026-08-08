@@ -2760,3 +2760,86 @@ theme: "emotions-personality"
 #### Cultural Notes
 
 '당황하다' = 일시적 혼란. '멘붕' = 2010년대 신조어(멘탈 붕괴), 젊은층 일
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: kr_emotion_001, display: "기쁨 (gippeum)", input: "기쁨 (gippeum)", meaning: "happiness, joy, delight", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_002, display: "기쁘다 (gippeuda)", input: "기쁘다 (gippeuda)", meaning: "to be happy, glad, pleased", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_003, display: "슬픔 (seulpeum)", input: "슬픔 (seulpeum)", meaning: "sadness, sorrow, grief", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_004, display: "슬프다 (seulpeuda)", input: "슬프다 (seulpeuda)", meaning: "to be sad, sorrowful", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_005, display: "화남 (hwanam)", input: "화남 (hwanam)", meaning: "anger, rage", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_006, display: "화나다 (hwanada)", input: "화나다 (hwanada)", meaning: "to get angry, to become angry", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_007, display: "두려움 (dureoum)", input: "두려움 (dureoum)", meaning: "fear, dread, apprehension", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_008, display: "두렵다 (dureopda)", input: "두렵다 (dureopda)", meaning: "to be fearful, afraid, apprehensive", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_009, display: "놀람 (nollam)", input: "놀람 (nollam)", meaning: "surprise, astonishment, shock", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_010, display: "놀라다 (nollada)", input: "놀라다 (nollada)", meaning: "to be surprised, startled, astonished", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_011, display: "싫음 (sireum)", input: "싫음 (sireum)", meaning: "dislike, aversion, unwillingness", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_012, display: "싫다 (sireota)", input: "싫다 (sireota)", meaning: "to dislike, to be unwilling, to not want", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_013, display: "부러움 (boreum)", input: "부러움 (boreum)", meaning: "envy, yearning", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_014, display: "부럽다 (bureopda)", input: "부럽다 (bureopda)", meaning: "to be envious, to envy", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_015, display: "후회 (huhoe)", input: "후회 (huhoe)", meaning: "regret, remorse, repentance", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_016, display: "후회하다 (huhoehada)", input: "후회하다 (huhoehada)", meaning: "to regret, to repent", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_017, display: "불안 (bulan)", input: "불안 (bulan)", meaning: "anxiety, uneasiness, insecurity, worry", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_018, display: "불안하다 (bulanhada)", input: "불안하다 (bulanhada)", meaning: "to be anxious, uneasy, insecure, worried", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_019, display: "죄책감 (joechaekgam)", input: "죄책감 (joechaekgam)", meaning: "guilt, sense of guilt, guilty conscience", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_020, display: "당황 (danghwang)", input: "당황 (danghwang)", meaning: "embarrassment, fluster, bewilderment, confusion", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_021, display: "당황하다 (danghwanghada)", input: "당황하다 (danghwanghada)", meaning: "to be flustered, embarrassed, bewildered", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_022, display: "갑갑 (gapgap)", input: "갑갑 (gapgap)", meaning: "frustration, stuffiness, suffocation, pent-up feeling", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_023, display: "갑갑하다 (gapgaphada)", input: "갑갑하다 (gapgaphada)", meaning: "to feel stifled, frustrated, stuffy, pent-up", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_024, display: "설렘 (seolleom)", input: "설렘 (seolleom)", meaning: "flutter, excitement, thrill, anticipation (romantic or positive)", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_025, display: "설레다 (seolleoda)", input: "설레다 (seolleoda)", meaning: "to flutter, to feel excitement/thrill, to be nervous with anticipation", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_026, display: "그립다 (geuripda)", input: "그립다 (geuripda)", meaning: "to miss (someone/something), to long for", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_027, display: "그리움 (geurium)", input: "그리움 (geurium)", meaning: "longing, yearning, missing someone", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_028, display: "보고 싶다 (bogo sipda)", input: "보고 싶다 (bogo sipda)", meaning: "to want to see; to miss (someone)", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_029, display: "안심 (ansim)", input: "안심 (ansim)", meaning: "relief, peace of mind, reassurance", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_030, display: "안심하다 (ansimhada)", input: "안심하다 (ansimhada)", meaning: "to feel relieved, to be reassured, to put one's mind at ease", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_031, display: "흡족 (heupjok)", input: "흡족 (heupjok)", meaning: "satisfaction, contentment, gratification", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_032, display: "만족하다 (manjokhada)", input: "만족하다 (manjokhada)", meaning: "to be satisfied, content, fulfilled", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_033, display: "감동 (gamdong)", input: "감동 (gamdong)", meaning: "deep emotion, being moved, inspiration, touching moment", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_034, display: "감동하다 (gamdonghada)", input: "감동하다 (gamdonghada)", meaning: "to be deeply moved, touched, inspired", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_035, display: "감격 (gamgyeok)", input: "감격 (gamgyeok)", meaning: "overwhelming emotion, deep gratitude mixed with emotion, being overcome", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_036, display: "감격하다 (gamgyeokhada)", input: "감격하다 (gamgyeokhada)", meaning: "to be overwhelmed with emotion, to be deeply touched and grateful", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_037, display: "착하다 (chakhada)", input: "착하다 (chakhada)", meaning: "kind, good-natured, nice, virtuous", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_038, display: "예쁘다 (yeppeuda)", input: "예쁘다 (yeppeuda)", meaning: "pretty, beautiful, lovely", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_039, display: "귀엽다 (gwiyeopda)", input: "귀엽다 (gwiyeopda)", meaning: "cute, adorable, lovely", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_040, display: "멋있다 (meositta)", input: "멋있다 (meositta)", meaning: "cool, stylish, handsome, impressive", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_041, display: "잘생겼다 (jalsaenggyeotta)", input: "잘생겼다 (jalsaenggyeotta)", meaning: "handsome (male), good-looking", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_042, display: "훌륭하다 (hulryunghada)", input: "훌륭하다 (hulryunghada)", meaning: "splendid, excellent, magnificent, admirable", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_043, display: "대단하다 (daedanhada)", input: "대단하다 (daedanhada)", meaning: "great, amazing, tremendous, remarkable", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_044, display: "다정하다 (dajeonghada)", input: "다정하다 (dajeonghada)", meaning: "affectionate, tender, warm-hearted, loving", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_045, display: "따뜻하다 (ttatteuthada)", input: "따뜻하다 (ttatteuthada)", meaning: "warm (personality), kind-hearted, compassionate", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_046, display: "순수하다 (sunsuhada)", input: "순수하다 (sunsuhada)", meaning: "pure, innocent, uncorrupted, genuine", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_047, display: "정직하다 (jeongjikhada)", input: "정직하다 (jeongjikhada)", meaning: "honest, upright, integrity", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_048, display: "책임감 있다 (chaegimgam itda)", input: "책임감 있다 (chaegimgam itda)", meaning: "responsible, having sense of responsibility/duty", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_049, display: "성실하다 (seongsilhada)", input: "성실하다 (seongsilhada)", meaning: "diligent, sincere, earnest, conscientious", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_050, display: "밝다 (balgda)", input: "밝다 (balgda)", meaning: "bright, cheerful, optimistic, clear", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_051, display: "활발하다 (hwalbalhada)", input: "활발하다 (hwalbalhada)", meaning: "lively, active, energetic, vigorous", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_052, display: "친절하다 (chinjeolhada)", input: "친절하다 (chinjeolhada)", meaning: "kind, courteous, helpful, friendly", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_053, display: "친근하다 (chingeunhada)", input: "친근하다 (chingeunhada)", meaning: "familiar, approachable, friendly, close-feeling", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_054, display: "침착하다 (chimchakada)", input: "침착하다 (chimchakada)", meaning: "calm, composed, cool-headed, collected", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_055, display: "나쁘다 (nabbeuda)", input: "나쁘다 (nabbeuda)", meaning: "bad, poor, wrong, evil", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_056, display: "못생겼다 (motsaenggyeotta)", input: "못생겼다 (motsaenggyeotta)", meaning: "ugly, unattractive (appearance)", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_057, display: "불친절하다 (bulchinjeolhada)", input: "불친절하다 (bulchinjeolhada)", meaning: "unkind, discourteous, unhelpful", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_058, display: "무례하다 (muryehada)", input: "무례하다 (muryehada)", meaning: "rude, impolite, disrespectful, ill-mannered", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_059, display: "무책임하다 (muchaegimhada)", input: "무책임하다 (muchaegimhada)", meaning: "irresponsible, not taking responsibility", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_060, display: "게으르다 (geeureuda)", input: "게으르다 (geeureuda)", meaning: "lazy, indolent, slack", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_061, display: "성급하다 (seonggeupada)", input: "성급하다 (seonggeupada)", meaning: "hasty, impatient, precipitate, rash", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_062, display: "변덕스럽다 (byeondukseureopda)", input: "변덕스럽다 (byeondukseureopda)", meaning: "fickle, capricious, moody, changeable", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_063, display: "거짓말쟁이 (geojinmaljaengi)", input: "거짓말쟁이 (geojinmaljaengi)", meaning: "liar, habitual liar", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_064, display: "배짱이 두둡다 (baejjangi dudupda)", input: "배짱이 두둡다 (baejjangi dudupda)", meaning: "thick-skinned, nervy, bold, unflappable, having guts", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_065, display: "옹졸하다 (ongjolhada)", input: "옹졸하다 (ongjolhada)", meaning: "petty, small-minded, narrow-minded, mean-spirited", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_066, display: "욕심 많다 (yoksim manta)", input: "욕심 많다 (yoksim manta)", meaning: "greedy, avaricious, having many desires", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_067, display: "얄미워하다 (yalmiwohada)", input: "얄미워하다 (yalmiwohada)", meaning: "to find someone annoying/irksome, to be annoyed by someone's behavior", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_068, display: "질투하다 (jiltuhada)", input: "질투하다 (jiltuhada)", meaning: "to be jealous, to envy with resentment", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_069, display: "기뻐하다 (gippeohada)", input: "기뻐하다 (gippeohada)", meaning: "to be glad, to rejoice (about someone else's good fortune or one's own)", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_070, display: "화나하다 (hwanahada)", input: "화나하다 (hwanahada)", meaning: "to get angry (often used for third person or habitual tendency)", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_071, display: "두려워하다 (dureowohada)", input: "두려워하다 (dureowohada)", meaning: "to fear, to be afraid of (third person or habitual)", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_072, display: "싫어하다 (sireohada)", input: "싫어하다 (sireohada)", meaning: "to dislike, to hate (third person or habitual)", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_073, display: "부러워하다 (bureowohada)", input: "부러워하다 (bureowohada)", meaning: "to envy (third person or habitual)", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+- { id: kr_emotion_074, display: "불안해하다 (bulanhaehada)", input: "불안해하다 (bulanhaehada)", meaning: "to feel anxious, to worry (third person or habitual)", level: "TOPIK 2~3", category: "emotion", source: "[[emotions-personality-vocabulary]]" }
+```

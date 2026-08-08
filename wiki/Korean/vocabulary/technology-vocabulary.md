@@ -292,7 +292,9 @@ Korean technology 어휘는 일상 대화에서 자주 사용됨.
 
 ## Pipeline Form (machine-readable)
 
-> Machine-readable for cross-language indexers.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
 - { id: kr_technology_001, display: "컴퓨터 (computer)", input: "컴퓨터 (computer)", meaning: "computer", level: "TOPIK 1", category: "technology", source: "[[technology-vocabulary]]" }

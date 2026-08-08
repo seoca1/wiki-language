@@ -292,7 +292,9 @@ English weather 어휘는 일상 대화에서 자주 사용됨.
 
 ## Pipeline Form (machine-readable)
 
-> Machine-readable for cross-language indexers.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
 - { id: en_weather_001, display: "sunny", input: "sunny", meaning: "맑은", level: "A1", category: "weather", source: "[[weather-vocabulary]]" }

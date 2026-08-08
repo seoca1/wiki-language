@@ -1,5 +1,6 @@
 ---
 category: "present-tense"
+level: "A1-B1"
 ---
 
 # present-tense-grammar — Card-extracted vocabulary (2026-06-22 ~ latest)
@@ -44,26 +45,12 @@ vivir 살다 — vivo / vives / vive / vivimos / vivís / viven
 
 ## Pipeline Form (machine-readable)
 
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
+
 ```yaml
-- id: es_present-tense-grammar_001
-  display: "-ar"
-  input: "-ar"
-  meaning: "hablar 말하다"
-  level: "A2"
-  category: "present-tense-grammar"
-  source: "[[present-tense-grammar]] — Card News 2026-07-01 (slot [2])"
-- id: es_present-tense-grammar_002
-  display: "-er"
-  input: "-er"
-  meaning: "comer 먹다"
-  level: "A2"
-  category: "present-tense-grammar"
-  source: "[[present-tense-grammar]] — Card News 2026-07-01 (slot [2])"
-- id: es_present-tense-grammar_003
-  display: "-ir"
-  input: "-ir"
-  meaning: "vivir 살다"
-  level: "A2"
-  category: "present-tense-grammar"
-  source: "[[present-tense-grammar]] — Card News 2026-07-01 (slot [2])"
+- { id: es_present_tense_001, display: "-ar", input: "-ar", meaning: "", level: "A1-B1", category: "present-tense", source: "[[present-tense-grammar]]" }
+- { id: es_present_tense_002, display: "-er", input: "-er", meaning: "", level: "A1-B1", category: "present-tense", source: "[[present-tense-grammar]]" }
+- { id: es_present_tense_003, display: "-ir", input: "-ir", meaning: "", level: "A1-B1", category: "present-tense", source: "[[present-tense-grammar]]" }
 ```

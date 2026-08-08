@@ -863,34 +863,34 @@ Three distinct senses: 1) gratitude (formal), 2) understand/recognize, 3) increa
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
-> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: en_emotions_personality_vocabulary_001, display: "love", input: "love", meaning: "사랑", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotions_personality_vocabulary_002, display: "like", input: "like", meaning: "좋아하다", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotions_personality_vocabulary_003, display: "happy", input: "happy", meaning: "행복한", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotions_personality_vocabulary_004, display: "sad", input: "sad", meaning: "슬픈", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotions_personality_vocabulary_005, display: "angry", input: "angry", meaning: "화난", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotions_personality_vocabulary_006, display: "afraid", input: "afraid", meaning: "두려운", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotions_personality_vocabulary_007, display: "excited", input: "excited", meaning: "신난", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotions_personality_vocabulary_008, display: "nervous", input: "nervous", meaning: "긴장한", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotions_personality_vocabulary_009, display: "proud", input: "proud", meaning: "자랑스러운", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotions_personality_vocabulary_010, display: "jealous", input: "jealous", meaning: "질투하는", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotions_personality_vocabulary_011, display: "grateful", input: "grateful", meaning: "감사한", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotions_personality_vocabulary_012, display: "embarrassed", input: "embarrassed", meaning: "당황한", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotions_personality_vocabulary_013, display: "disappointed", input: "disappointed", meaning: "실망한", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotions_personality_vocabulary_014, display: "kind", input: "kind", meaning: "친절한", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotions_personality_vocabulary_015, display: "honest", input: "honest", meaning: "정직한", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotions_personality_vocabulary_016, display: "confident", input: "confident", meaning: "자신감 있는", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotions_personality_vocabulary_017, display: "shy", input: "shy", meaning: "수줍은", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotions_personality_vocabulary_018, display: "friendly", input: "friendly", meaning: "친근한", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotions_personality_vocabulary_019, display: "patient", input: "patient", meaning: "인내심 있는", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotions_personality_vocabulary_020, display: "optimistic", input: "optimistic", meaning: "낙관적인", level: "B2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotions_personality_vocabulary_021, display: "ambitious", input: "ambitious", meaning: "야심찬", level: "B2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotions_personality_vocabulary_022, display: "reliable", input: "reliable", meaning: "믿을 수 있는", level: "B2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotions_personality_vocabulary_023, display: "enjoy", input: "enjoy", meaning: "즐기다", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotions_personality_vocabulary_024, display: "hate", input: "hate", meaning: "미워하다", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotions_personality_vocabulary_025, display: "appreciate", input: "appreciate", meaning: "고마워하다/이해하다", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_001, display: "love", input: "love", meaning: "사랑", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_002, display: "like", input: "like", meaning: "좋아하다", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_003, display: "happy", input: "happy", meaning: "행복한", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_004, display: "sad", input: "sad", meaning: "슬픈", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_005, display: "angry", input: "angry", meaning: "화난", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_006, display: "afraid", input: "afraid", meaning: "두려운", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_007, display: "excited", input: "excited", meaning: "신난", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_008, display: "nervous", input: "nervous", meaning: "긴장한", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_009, display: "proud", input: "proud", meaning: "자랑스러운", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_010, display: "jealous", input: "jealous", meaning: "질투하는", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_011, display: "grateful", input: "grateful", meaning: "감사한", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_012, display: "embarrassed", input: "embarrassed", meaning: "당황한", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_013, display: "disappointed", input: "disappointed", meaning: "실망한", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_014, display: "kind", input: "kind", meaning: "친절한", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_015, display: "honest", input: "honest", meaning: "정직한", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_016, display: "confident", input: "confident", meaning: "자신감 있는", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_017, display: "shy", input: "shy", meaning: "수줍은", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_018, display: "friendly", input: "friendly", meaning: "친근한", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_019, display: "patient", input: "patient", meaning: "인내심 있는", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_020, display: "optimistic", input: "optimistic", meaning: "낙관적인", level: "B2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_021, display: "ambitious", input: "ambitious", meaning: "야심찬", level: "B2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_022, display: "reliable", input: "reliable", meaning: "믿을 수 있는", level: "B2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_023, display: "enjoy", input: "enjoy", meaning: "즐기다", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_024, display: "hate", input: "hate", meaning: "미워하다", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_025, display: "appreciate", input: "appreciate", meaning: "고마워하다/이해하다", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
 ```

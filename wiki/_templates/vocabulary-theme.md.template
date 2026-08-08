@@ -1,0 +1,65 @@
+---
+category: "{theme-category}"
+theme: "{theme-name}"
+level: "{A1-A2 / JLPT N5 / TOPIK 1-2 / HSK 1-2}"
+source: "{theme-filename}"
+---
+
+# {Theme Name} ({Language})
+
+**Source:** [[{source-slug}]]
+**Theme:** {Travel & Tourism / Food / Business / ...}
+**Level:** {A1-A2 / JLPT N5 / TOPIK 1-2 / HSK 1-2}
+
+{2-3 sentence description of what learners encounter in this theme. Mention typical contexts and learning goals.}
+
+---
+
+## {Subgroup 1 (optional)}
+
+### {word 1}
+
+**Part of Speech:** {명사 (noun) / 동사 (verb) / 형용사 (adjective) / ...}
+**Definition:** {뜻 또는 짧은 정의}
+**Romaja / IPA / Pronunciación:** [{pronunciation guide}]
+**Etymology:** {origin if relevant, e.g., 한자 파생어, loanword from English, native Spanish, etc.}
+
+#### Examples
+
+- {Example sentence 1 — context: casual, with translation} — {translation}
+- {Example sentence 2 — context: formal, with translation} — {translation}
+
+#### Related Terms
+
+- [[synonym-or-antonym]]
+- [[related-expression]]
+
+#### Cultural Notes
+
+{Any cultural context — politeness level, register, regional variant, etc.}
+
+#### Sources
+
+- [[source-title]]
+
+---
+
+### {word 2}
+
+{Same format repeated}
+
+---
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: {lang}_{theme}_001, display: "{word1}", input: "{word1}", meaning: "{meaning1}", level: "{level}", category: "{theme-category}", source: "[[{theme-filename}]]" }
+- { id: {lang}_{theme}_002, display: "{word2}", input: "{word2}", meaning: "{meaning2}", level: "{level}", category: "{theme-category}", source: "[[{theme-filename}]]" }
+# ... (one entry per `### {word}` section above)
+```
+
+> **TODO**: After filling the body, run `python3 Language/tools/generate_yaml_pipeline.py --lang {lang}` to regenerate the YAML section with correct IDs.

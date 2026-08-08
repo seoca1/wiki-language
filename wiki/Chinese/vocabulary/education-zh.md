@@ -516,25 +516,24 @@ theme: "education"
 
 ## Pipeline Form (machine-readable)
 
-> Machine-readable for cross-language indexers / game corpus extraction.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: ch_education_001, display: "学校", input: "学校", meaning: "학교", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_002, display: "学生", input: "学生", meaning: "학생", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_003, display: "老师", input: "老师", meaning: "선생", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_004, display: "同学", input: "同学", meaning: "동급생", level: "HSK 2", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_005, display: "书", input: "书", meaning: "책", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_006, display: "本子", input: "本子", meaning: "공책/노트", level: "HSK 2", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_007, display: "笔", input: "笔", meaning: "펜", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_008, display: "铅笔", input: "铅笔", meaning: "연필", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_009, display: "字典", input: "字典", meaning: "사전", level: "HSK 2", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_010, display: "图书馆", input: "图书馆", meaning: "도서관", level: "HSK 2", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_011, display: "教室", input: "教室", meaning: "교실", level: "HSK 2", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_012, display: "课", input: "课", meaning: "수업/lesson", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_013, display: "考试", input: "考试", meaning: "시험", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_014, display: "作业", input: "作业", meaning: "숙제", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_015, display: "考试", input: "考试", meaning: "시험", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_016, display: "学习", input: "学习", meaning: "학습하다", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_017, display: "老师", input: "老师", meaning: "선생님", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_018, display: "学生", input: "学生", meaning: "학생", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
+- { id: zh_education_001, display: "学校", input: "学校", meaning: "학교", level: "HSK 1", category: "education", source: "[[education]]" }
+- { id: zh_education_002, display: "学生", input: "学生", meaning: "학생", level: "HSK 1", category: "education", source: "[[education]]" }
+- { id: zh_education_003, display: "老师", input: "老师", meaning: "선생님", level: "HSK 1", category: "education", source: "[[education]]" }
+- { id: zh_education_004, display: "同学", input: "同学", meaning: "동급생", level: "HSK 2", category: "education", source: "[[education]]" }
+- { id: zh_education_005, display: "书", input: "书", meaning: "책", level: "HSK 1", category: "education", source: "[[education]]" }
+- { id: zh_education_006, display: "本子", input: "本子", meaning: "공책/노트", level: "HSK 2", category: "education", source: "[[education]]" }
+- { id: zh_education_007, display: "笔", input: "笔", meaning: "펜", level: "HSK 1", category: "education", source: "[[education]]" }
+- { id: zh_education_008, display: "铅笔", input: "铅笔", meaning: "연필", level: "HSK 1", category: "education", source: "[[education]]" }
+- { id: zh_education_009, display: "字典", input: "字典", meaning: "사전", level: "HSK 2", category: "education", source: "[[education]]" }
+- { id: zh_education_010, display: "图书馆", input: "图书馆", meaning: "도서관", level: "HSK 2", category: "education", source: "[[education]]" }
+- { id: zh_education_011, display: "教室", input: "教室", meaning: "교실", level: "HSK 2", category: "education", source: "[[education]]" }
+- { id: zh_education_012, display: "课", input: "课", meaning: "수업/lesson", level: "HSK 1", category: "education", source: "[[education]]" }
+- { id: zh_education_013, display: "考试", input: "考试", meaning: "시험", level: "HSK 1", category: "education", source: "[[education]]" }
+- { id: zh_education_014, display: "作业", input: "作业", meaning: "숙제", level: "HSK 1", category: "education", source: "[[education]]" }
+- { id: zh_education_015, display: "学习", input: "学习", meaning: "학습하다", level: "HSK 1", category: "education", source: "[[education]]" }
 ```

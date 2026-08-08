@@ -1,5 +1,6 @@
 ---
 category: "basic"
+level: "A1-A2"
 ---
 
 # Basic Vocabulary — Greetings, Numbers, Colors, Family, Adjectives
@@ -383,33 +384,34 @@ For systematic English/Spanish/Japanese/Korean/Chinese comparison of basic terms
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/en_words.md`).
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: 001, display: "hello", input: "hello", meaning: "안녕", level: "A1", category: "greeting", source: "[[basic-vocabulary]]" }
-- { id: 002, display: "hi", input: "hi", meaning: "안녕", level: "A1", category: "greeting", source: "[[basic-vocabulary]]" }
-- { id: 003, display: "goodbye", input: "goodbye", meaning: "안녕히", level: "A1", category: "greeting", source: "[[basic-vocabulary]]" }
-- { id: 004, display: "thanks", input: "thanks", meaning: "고마워", level: "A1", category: "greeting", source: "[[basic-vocabulary]]" }
-- { id: 005, display: "please", input: "please", meaning: "부디", level: "A1", category: "greeting", source: "[[basic-vocabulary]]" }
-- { id: 006, display: "yes", input: "yes", meaning: "네", level: "A1", category: "basic", source: "[[basic-vocabulary]]" }
-- { id: 007, display: "no", input: "no", meaning: "아니오", level: "A1", category: "basic", source: "[[basic-vocabulary]]" }
-- { id: 008, display: "sorry", input: "sorry", meaning: "미안", level: "A1", category: "basic", source: "[[basic-vocabulary]]" }
-- { id: 009, display: "one", input: "one", meaning: "하나", level: "A1", category: "number", source: "[[basic-vocabulary]]" }
-- { id: 010, display: "two", input: "two", meaning: "둘", level: "A1", category: "number", source: "[[basic-vocabulary]]" }
-- { id: 011, display: "three", input: "three", meaning: "셋", level: "A1", category: "number", source: "[[basic-vocabulary]]" }
-- { id: 012, display: "ten", input: "ten", meaning: "열", level: "A1", category: "number", source: "[[basic-vocabulary]]" }
-- { id: 013, display: "red", input: "red", meaning: "빨강", level: "A1", category: "color", source: "[[basic-vocabulary]]" }
-- { id: 014, display: "blue", input: "blue", meaning: "파랑", level: "A1", category: "color", source: "[[basic-vocabulary]]" }
-- { id: 015, display: "green", input: "green", meaning: "초록", level: "A1", category: "color", source: "[[basic-vocabulary]]" }
-- { id: 016, display: "mother", input: "mother", meaning: "어머니", level: "A1", category: "family", source: "[[basic-vocabulary]]" }
-- { id: 017, display: "father", input: "father", meaning: "아버지", level: "A1", category: "family", source: "[[basic-vocabulary]]" }
-- { id: 018, display: "aunt", input: "aunt", meaning: "이모", level: "A1", category: "family", source: "[[basic-vocabulary]]" }
-- { id: 019, display: "baby", input: "baby", meaning: "아기", level: "A1", category: "family", source: "[[basic-vocabulary]]" }
-- { id: 020, display: "together", input: "together", meaning: "함께", level: "A2", category: "basic", source: "[[basic-vocabulary]]" }
-- { id: 021, display: "beautiful", input: "beautiful", meaning: "아름다운", level: "A2", category: "adjective", source: "[[basic-vocabulary]]" }
-- { id: 022, display: "expensive", input: "expensive", meaning: "비싼", level: "A2", category: "adjective", source: "[[basic-vocabulary]]" }
-- { id: 023, display: "important", input: "important", meaning: "중요한", level: "A2", category: "adjective", source: "[[basic-vocabulary]]" }
-- { id: 024, display: "difficult", input: "difficult", meaning: "어려운", level: "A2", category: "adjective", source: "[[basic-vocabulary]]" }
-- { id: 025, display: "favorite", input: "favorite", meaning: "좋아하는", level: "A2", category: "adjective", source: "[[basic-vocabulary]]" }
+- { id: en_basic_001, display: "hello", input: "hello", meaning: "안녕", level: "A1", category: "greeting", source: "[[basic-vocabulary]]" }
+- { id: en_basic_002, display: "hi", input: "hi", meaning: "안녕", level: "A1", category: "greeting", source: "[[basic-vocabulary]]" }
+- { id: en_basic_003, display: "goodbye", input: "goodbye", meaning: "안녕히", level: "A1", category: "greeting", source: "[[basic-vocabulary]]" }
+- { id: en_basic_004, display: "thanks", input: "thanks", meaning: "고마워", level: "A1", category: "greeting", source: "[[basic-vocabulary]]" }
+- { id: en_basic_005, display: "please", input: "please", meaning: "부디", level: "A1", category: "greeting", source: "[[basic-vocabulary]]" }
+- { id: en_basic_006, display: "yes", input: "yes", meaning: "네", level: "A1", category: "basic", source: "[[basic-vocabulary]]" }
+- { id: en_basic_007, display: "no", input: "no", meaning: "아니오", level: "A1", category: "basic", source: "[[basic-vocabulary]]" }
+- { id: en_basic_008, display: "sorry", input: "sorry", meaning: "미안", level: "A1", category: "basic", source: "[[basic-vocabulary]]" }
+- { id: en_basic_009, display: "one", input: "one", meaning: "하나", level: "A1", category: "number", source: "[[basic-vocabulary]]" }
+- { id: en_basic_010, display: "two", input: "two", meaning: "둘", level: "A1", category: "number", source: "[[basic-vocabulary]]" }
+- { id: en_basic_011, display: "three", input: "three", meaning: "셋", level: "A1", category: "number", source: "[[basic-vocabulary]]" }
+- { id: en_basic_012, display: "ten", input: "ten", meaning: "열", level: "A1", category: "number", source: "[[basic-vocabulary]]" }
+- { id: en_basic_013, display: "red", input: "red", meaning: "빨강", level: "A1", category: "color", source: "[[basic-vocabulary]]" }
+- { id: en_basic_014, display: "blue", input: "blue", meaning: "파랑", level: "A1", category: "color", source: "[[basic-vocabulary]]" }
+- { id: en_basic_015, display: "green", input: "green", meaning: "초록", level: "A1", category: "color", source: "[[basic-vocabulary]]" }
+- { id: en_basic_016, display: "mother", input: "mother", meaning: "어머니", level: "A1", category: "family", source: "[[basic-vocabulary]]" }
+- { id: en_basic_017, display: "father", input: "father", meaning: "아버지", level: "A1", category: "family", source: "[[basic-vocabulary]]" }
+- { id: en_basic_018, display: "aunt", input: "aunt", meaning: "이모", level: "A1", category: "family", source: "[[basic-vocabulary]]" }
+- { id: en_basic_019, display: "baby", input: "baby", meaning: "아기", level: "A1", category: "family", source: "[[basic-vocabulary]]" }
+- { id: en_basic_020, display: "beautiful", input: "beautiful", meaning: "아름다운", level: "A2", category: "adjective", source: "[[basic-vocabulary]]" }
+- { id: en_basic_021, display: "expensive", input: "expensive", meaning: "비싼", level: "A2", category: "adjective", source: "[[basic-vocabulary]]" }
+- { id: en_basic_022, display: "important", input: "important", meaning: "중요한", level: "A2", category: "adjective", source: "[[basic-vocabulary]]" }
+- { id: en_basic_023, display: "difficult", input: "difficult", meaning: "어려운", level: "A2", category: "adjective", source: "[[basic-vocabulary]]" }
+- { id: en_basic_024, display: "favorite", input: "favorite", meaning: "좋아하는", level: "A2", category: "adjective", source: "[[basic-vocabulary]]" }
+- { id: en_basic_025, display: "together", input: "together", meaning: "함께", level: "A2", category: "basic", source: "[[basic-vocabulary]]" }
 ```

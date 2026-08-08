@@ -292,7 +292,9 @@ Korean colors 어휘는 일상 대화에서 자주 사용됨.
 
 ## Pipeline Form (machine-readable)
 
-> Machine-readable for cross-language indexers.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
 - { id: kr_colors_001, display: "빨강 (빨강, ppalgang)", input: "빨강 (빨강, ppalgang)", meaning: "red", level: "TOPIK 1", category: "colors", source: "[[colors-vocabulary]]" }
@@ -301,8 +303,4 @@ Korean colors 어휘는 일상 대화에서 자주 사용됨.
 - { id: kr_colors_004, display: "노랑 (노랑, norang)", input: "노랑 (노랑, norang)", meaning: "yellow", level: "TOPIK 1", category: "colors", source: "[[colors-vocabulary]]" }
 - { id: kr_colors_005, display: "검정 (검정, geomjeong)", input: "검정 (검정, geomjeong)", meaning: "black", level: "TOPIK 1", category: "colors", source: "[[colors-vocabulary]]" }
 - { id: kr_colors_006, display: "하양 (하양, hayang)", input: "하양 (하양, hayang)", meaning: "white", level: "TOPIK 1", category: "colors", source: "[[colors-vocabulary]]" }
-- { id: kr_colors_007, display: "빨강 (빨강, ppalgang)", input: "빨강 (빨강, ppalgang)", meaning: "red", level: "TOPIK 1", category: "colors", source: "[[colors-vocabulary]]" }
-- { id: kr_colors_008, display: "파랑 (파랑, paradng)", input: "파랑 (파랑, paradng)", meaning: "blue", level: "TOPIK 1", category: "colors", source: "[[colors-vocabulary]]" }
-- { id: kr_colors_009, display: "초록 (초록, chorok)", input: "초록 (초록, chorok)", meaning: "green", level: "TOPIK 1", category: "colors", source: "[[colors-vocabulary]]" }
-- { id: kr_colors_010, display: "노랑 (노랑, norang)", input: "노랑 (노랑, norang)", meaning: "yellow", level: "TOPIK 1", category: "colors", source: "[[colors-vocabulary]]" }
 ```

@@ -1,0 +1,44 @@
+# {Cross-Language Topic}
+
+> **Theme:** {Linguistic system / Situational / Cultural concept / Learning strategy / Modern-contemporary}
+> **Scope:** {2-5 languages covered}
+> **Languages:** {English, Spanish, Japanese, Korean, Chinese}
+
+{2-3 sentence introduction. What is this comparative page about? Why does it span multiple languages? What insight does it provide?}
+
+---
+
+## {Section 1: Overview}
+
+{High-level description of how the concept manifests across the 5 languages.}
+
+| Language | Term | Literal | Usage |
+|---|---|---|---|
+| 🇰🇷 Korean | {한국어 단어} | {literal translation} | {brief usage note} |
+| 🇯🇵 Japanese | {日本語} | {literal} | {brief usage note} |
+| 🇪🇸 Spanish | {español} | {literal} | {brief usage note} |
+| 🇨🇳 Chinese | {中文} | {literal} | {brief usage note} |
+| 🇬🇧 English | {English word} | {literal} | {brief usage note} |
+
+## {Section 2: Cross-linguistic patterns}
+
+{Detailed comparison. Where do the languages converge? Where do they diverge?}
+
+## {Section 3: Cultural context}
+
+{Cultural background for why each language has its own expression of this concept.}
+
+## Per-language wiki references
+
+- **Korean**: [[culture/korean-{topic}]], [[vocabulary/{korean-theme}]]
+- **Japanese**: [[culture/japanese-{topic}]], [[vocabulary/{jp-theme}]]
+- **Spanish**: [[culture/{spanish-topic}]], [[vocabulary/{es-theme}]]
+- **Chinese**: [[culture/{chinese-topic}]], [[vocabulary/{zh-theme}]]
+- **English**: [[culture/english-{topic}]], [[vocabulary/{en-theme}]]
+
+## Sources
+
+- [[korean-{topic}]] - Korean perspective
+- [[japanese-{topic}]] - Japanese perspective
+- [[spanish-{topic}]] - Spanish perspective
+- [[chinese-{topic}]] - Chinese perspective

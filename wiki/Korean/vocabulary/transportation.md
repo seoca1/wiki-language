@@ -1,3 +1,10 @@
+---
+category: "travel-basics"
+theme: "Transportation"
+level: "A1-B2"
+source: "travel-basics"
+---
+
 # Transportation Vocabulary (한국어 교통 어휘)
 
 > **Theme:** Transportation
@@ -397,30 +404,30 @@ Note: Per schema/AGENTS.md, per-word vocab pages are deprecated. This consolidat
 See also: `[[food-vocabulary]]`, `[[emotions-personality-vocabulary]]`, `[[business-vocabulary]]`, `[[topik1-starter]]`
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
-> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: kr_transportation_001, display: "종류 (Types)", input: "종류 (Types)", level: "** A1-B2", category: "transportation", source: "[[transportation]]" }
-- { id: kr_transportation_002, display: "차종 (Car Types by Size)", input: "차종 (Car Types by Size)", level: "** A1-B2", category: "transportation", source: "[[transportation]]" }
-- { id: kr_transportation_003, display: "차 부품 (Car Parts)", input: "차 부품 (Car Parts)", level: "** A1-B2", category: "transportation", source: "[[transportation]]" }
-- { id: kr_transportation_004, display: "자동차 동사 (Car Verbs)", input: "자동차 동사 (Car Verbs)", level: "** A1-B2", category: "transportation", source: "[[transportation]]" }
-- { id: kr_transportation_005, display: "노선 (Lines)", input: "노선 (Lines)", level: "** A1-B2", category: "transportation", source: "[[transportation]]" }
-- { id: kr_transportation_006, display: "지하철 동사 (Subway Verbs)", input: "지하철 동사 (Subway Verbs)", level: "** A1-B2", category: "transportation", source: "[[transportation]]" }
-- { id: kr_transportation_007, display: "지하철 표 (Subway Tickets)", input: "지하철 표 (Subway Tickets)", level: "** A1-B2", category: "transportation", source: "[[transportation]]" }
-- { id: kr_transportation_008, display: "종류 (Bus Types)", input: "종류 (Bus Types)", level: "** A1-B2", category: "transportation", source: "[[transportation]]" }
-- { id: kr_transportation_009, display: "버스 관련 (Bus Related)", input: "버스 관련 (Bus Related)", level: "** A1-B2", category: "transportation", source: "[[transportation]]" }
-- { id: kr_transportation_010, display: "종류 (Train Types)", input: "종류 (Train Types)", level: "** A1-B2", category: "transportation", source: "[[transportation]]" }
-- { id: kr_transportation_011, display: "기차역 (Train Station)", input: "기차역 (Train Station)", level: "** A1-B2", category: "transportation", source: "[[transportation]]" }
-- { id: kr_transportation_012, display: "열차 동사 (Train Verbs)", input: "열차 동사 (Train Verbs)", level: "** A1-B2", category: "transportation", source: "[[transportation]]" }
-- { id: kr_transportation_013, display: "공항 (Airport)", input: "공항 (Airport)", level: "** A1-B2", category: "transportation", source: "[[transportation]]" }
-- { id: kr_transportation_014, display: "항공편 (Flights)", input: "항공편 (Flights)", level: "** A1-B2", category: "transportation", source: "[[transportation]]" }
-- { id: kr_transportation_015, display: "여객기 클래스 (Cabin Classes)", input: "여객기 클래스 (Cabin Classes)", level: "** A1-B2", category: "transportation", source: "[[transportation]]" }
-- { id: kr_transportation_016, display: "종류 (Taxi Types)", input: "종류 (Taxi Types)", level: "** A1-B2", category: "transportation", source: "[[transportation]]" }
-- { id: kr_transportation_017, display: "택시 동사 (Taxi Verbs)", input: "택시 동사 (Taxi Verbs)", level: "** A1-B2", category: "transportation", source: "[[transportation]]" }
-- { id: kr_transportation_018, display: "택시 어휘 (Taxi Vocabulary)", input: "택시 어휘 (Taxi Vocabulary)", level: "** A1-B2", category: "transportation", source: "[[transportation]]" }
-- { id: kr_transportation_019, display: "자전거 동사 (Bicycle Verbs)", input: "자전거 동사 (Bicycle Verbs)", level: "** A1-B2", category: "transportation", source: "[[transportation]]" }
-- { id: kr_transportation_020, display: "공항 절차 (Airport Procedures)", input: "공항 절차 (Airport Procedures)", level: "** A1-B2", category: "transportation", source: "[[transportation]]" }
-- { id: kr_transportation_021, display: "긴급 상황 (Emergency)", input: "긴급 상황 (Emergency)", level: "** A1-B2", category: "transportation", source: "[[transportation]]" }
+- { id: kr_transportation_001, display: "종류 (Types)", input: "종류 (Types)", meaning: "", level: "A1-B2", category: "transportation", source: "[[transportation]]" }
+- { id: kr_transportation_002, display: "차종 (Car Types by Size)", input: "차종 (Car Types by Size)", meaning: "", level: "A1-B2", category: "transportation", source: "[[transportation]]" }
+- { id: kr_transportation_003, display: "차 부품 (Car Parts)", input: "차 부품 (Car Parts)", meaning: "", level: "A1-B2", category: "transportation", source: "[[transportation]]" }
+- { id: kr_transportation_004, display: "자동차 동사 (Car Verbs)", input: "자동차 동사 (Car Verbs)", meaning: "", level: "A1-B2", category: "transportation", source: "[[transportation]]" }
+- { id: kr_transportation_005, display: "노선 (Lines)", input: "노선 (Lines)", meaning: "", level: "A1-B2", category: "transportation", source: "[[transportation]]" }
+- { id: kr_transportation_006, display: "지하철 동사 (Subway Verbs)", input: "지하철 동사 (Subway Verbs)", meaning: "", level: "A1-B2", category: "transportation", source: "[[transportation]]" }
+- { id: kr_transportation_007, display: "지하철 표 (Subway Tickets)", input: "지하철 표 (Subway Tickets)", meaning: "", level: "A1-B2", category: "transportation", source: "[[transportation]]" }
+- { id: kr_transportation_008, display: "종류 (Bus Types)", input: "종류 (Bus Types)", meaning: "", level: "A1-B2", category: "transportation", source: "[[transportation]]" }
+- { id: kr_transportation_009, display: "버스 관련 (Bus Related)", input: "버스 관련 (Bus Related)", meaning: "", level: "A1-B2", category: "transportation", source: "[[transportation]]" }
+- { id: kr_transportation_010, display: "종류 (Train Types)", input: "종류 (Train Types)", meaning: "", level: "A1-B2", category: "transportation", source: "[[transportation]]" }
+- { id: kr_transportation_011, display: "기차역 (Train Station)", input: "기차역 (Train Station)", meaning: "", level: "A1-B2", category: "transportation", source: "[[transportation]]" }
+- { id: kr_transportation_012, display: "열차 동사 (Train Verbs)", input: "열차 동사 (Train Verbs)", meaning: "", level: "A1-B2", category: "transportation", source: "[[transportation]]" }
+- { id: kr_transportation_013, display: "공항 (Airport)", input: "공항 (Airport)", meaning: "", level: "A1-B2", category: "transportation", source: "[[transportation]]" }
+- { id: kr_transportation_014, display: "항공편 (Flights)", input: "항공편 (Flights)", meaning: "", level: "A1-B2", category: "transportation", source: "[[transportation]]" }
+- { id: kr_transportation_015, display: "여객기 클래스 (Cabin Classes)", input: "여객기 클래스 (Cabin Classes)", meaning: "", level: "A1-B2", category: "transportation", source: "[[transportation]]" }
+- { id: kr_transportation_016, display: "종류 (Taxi Types)", input: "종류 (Taxi Types)", meaning: "", level: "A1-B2", category: "transportation", source: "[[transportation]]" }
+- { id: kr_transportation_017, display: "택시 동사 (Taxi Verbs)", input: "택시 동사 (Taxi Verbs)", meaning: "", level: "A1-B2", category: "transportation", source: "[[transportation]]" }
+- { id: kr_transportation_018, display: "택시 어휘 (Taxi Vocabulary)", input: "택시 어휘 (Taxi Vocabulary)", meaning: "", level: "A1-B2", category: "transportation", source: "[[transportation]]" }
+- { id: kr_transportation_019, display: "자전거 동사 (Bicycle Verbs)", input: "자전거 동사 (Bicycle Verbs)", meaning: "", level: "A1-B2", category: "transportation", source: "[[transportation]]" }
+- { id: kr_transportation_020, display: "공항 절차 (Airport Procedures)", input: "공항 절차 (Airport Procedures)", meaning: "", level: "A1-B2", category: "transportation", source: "[[transportation]]" }
+- { id: kr_transportation_021, display: "긴급 상황 (Emergency)", input: "긴급 상황 (Emergency)", meaning: "", level: "A1-B2", category: "transportation", source: "[[transportation]]" }
 ```

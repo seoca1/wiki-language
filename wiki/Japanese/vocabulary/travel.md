@@ -1,5 +1,6 @@
 ---
 category: "travel"
+level: "A1-A2"
 ---
 
 # 旅行 (りょこう) - Travel
@@ -165,82 +166,9 @@ category: "travel"
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: 001, display: "パスポート", input: "pasupōto", meaning: "여권", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 002, display: "チケット", input: "chiketto", meaning: "티켓", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 003, display: "搭乗券", input: "とうじょうけん", meaning: "탑승권", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 004, display: "荷物", input: "にもつ", meaning: "짐, 수하물", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 005, display: "スーツケース", input: "sūtsukēsu", meaning: "여행가방", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 006, display: "搭乗口", input: "とうじょうぐち", meaning: "탑승구", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 007, display: "ターミナル", input: "tāminaru", meaning: "터미널", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 008, display: "チェックイン", input: "chekku-in", meaning: "체크인", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 009, display: "チェックインする", input: "チェックインする", meaning: "체크인하다", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 010, display: "搭乗する", input: "とうじょうする", meaning: "탑승하다", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 011, display: "到着する", input: "とうちゃくする", meaning: "도착하다", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 012, display: "出発する", input: "しゅっぱつする", meaning: "출발하다", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 013, display: "予約", input: "よやく", meaning: "예약", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 014, display: "フロント", input: "furonto", meaning: "프론트 데스크", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 015, display: "部屋", input: "へや", meaning: "방", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 016, display: "シングルルーム", input: "シングルルーム", meaning: "1인실", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 017, display: "ツインルーム", input: "ツインルーム", meaning: "트윈룸", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 018, display: "スイートルーム", input: "スイートルーム", meaning: "스위트룸", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 019, display: "カードキー", input: "kādo kī", meaning: "키 카드", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 020, display: "ロビー", input: "robī", meaning: "로비", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 021, display: "エレベーター", input: "erebētā", meaning: "엘리베이터", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 022, display: "予約する", input: "よやくする", meaning: "예약하다", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 023, display: "泊まる", input: "とまる", meaning: "묵다", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 024, display: "メニュー", input: "menyū", meaning: "메뉴", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 025, display: "注文", input: "ちゅうもん", meaning: "주문", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 026, display: "ウェイター", input: "ウェイター", meaning: "웨이터", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 027, display: "ウェイトレス", input: "ウェイトレス", meaning: "여종업원", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 028, display: "お会計", input: "おかいけい", meaning: "계산", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 029, display: "チップ", input: "chippu", meaning: "팁", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 030, display: "前菜", input: "ぜんさい", meaning: "전채", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 031, display: "メイン料理", input: "りょうり", meaning: "메인 요리", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 032, display: "デザート", input: "dezāto", meaning: "디저트", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 033, display: "飲み物", input: "のみもの", meaning: "음료", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 034, display: "注文する", input: "ちゅうもんする", meaning: "주문하다", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 035, display: "支払う", input: "しはらう", meaning: "지불하다", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 036, display: "電車", input: "でんしゃ", meaning: "전철", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 037, display: "地下鉄", input: "ちかてつ", meaning: "지하철", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 038, display: "バス", input: "basu", meaning: "버스", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 039, display: "タクシー", input: "takushī", meaning: "택시", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 040, display: "新幹線", input: "しんかんせん", meaning: "신칸센", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 041, display: "駅", input: "えき", meaning: "역", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 042, display: "停留所", input: "ていりゅうじょ", meaning: "정류장", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 043, display: "切符", input: "きっぷ", meaning: "표", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 044, display: "乗り場", input: "のりば", meaning: "승강장", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 045, display: "ホーム", input: "hōmu", meaning: "승강장", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 046, display: "乗る", input: "のる", meaning: "타다", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 047, display: "降りる", input: "おりる", meaning: "내리다", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 048, display: "歩く", input: "あるく", meaning: "걷다", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 049, display: "乗り換える", input: "のりかえる", meaning: "환승하다", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 050, display: "地図", input: "ちず", meaning: "지도", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 051, display: "ガイド", input: "gaido", meaning: "가이드", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 052, display: "ツアー", input: "tsuā", meaning: "투어", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 053, display: "博物館", input: "はくぶつかん", meaning: "박물관", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 054, display: "寺", input: "てら", meaning: "절", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 055, display: "神社", input: "じんじゃ", meaning: "신사", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 056, display: "城", input: "しろ", meaning: "성", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 057, display: "海", input: "うみ", meaning: "바다", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 058, display: "山", input: "やま", meaning: "산", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 059, display: "公園", input: "こうえん", meaning: "공원", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 060, display: "観光する", input: "かんこうする", meaning: "관광하다", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 061, display: "訪れる", input: "おとずれる", meaning: "방문하다", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 062, display: "見物する", input: "けんぶつする", meaning: "견학하다", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 063, display: "...はどこですか？", input: "...はどこですか？", meaning: "...는 어디에 있나요?", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 064, display: "...へはどう行けばいいですか？", input: "...へはどう行けばいいですか？", meaning: "...에 어떻게 가나요?", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 065, display: "まっすぐ", input: "まっすぐ", meaning: "직진", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 066, display: "左", input: "ひだり", meaning: "왼쪽", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 067, display: "右", input: "みぎ", meaning: "오른쪽", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 068, display: "交差点", input: "こうさてん", meaning: "교차로", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 069, display: "信号", input: "しんごう", meaning: "신호등", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 070, display: "近く", input: "ちかく", meaning: "가까이", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 071, display: "遠く", input: "とおく", meaning: "멀리", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 072, display: "すみません", input: "すみません", meaning: "실례합니다", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 073, display: "いくらですか？", input: "いくらですか？", meaning: "얼마예요?", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 074, display: "トイレはどこですか？", input: "トイレはどこですか？", meaning: "화장실 어디예요?", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 075, display: "わかりません", input: "わかりません", meaning: "모르겠습니다", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 076, display: "助けてください", input: "助けてください", meaning: "도와주세요", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 077, display: "ありがとうございます", input: "ありがとうございます", meaning: "감사합니다", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 078, display: "お願いします", input: "お願いします", meaning: "부탁합니다", level: "A1-A2", category: "travel", source: "[[travel]]" }
+- { id: jp_travel_001, display: "名詞 (めいし)", input: "名詞 (めいし)", meaning: "", level: "A1-A2", category: "travel", source: "[[travel]]" }
+- { id: jp_travel_002, display: "動詞 (どうし)", input: "動詞 (どうし)", meaning: "", level: "A1-A2", category: "travel", source: "[[travel]]" }
+- { id: jp_travel_003, display: "名詞", input: "名詞", meaning: "", level: "A1-A2", category: "travel", source: "[[travel]]" }
+- { id: jp_travel_004, display: "動詞", input: "動詞", meaning: "", level: "A1-A2", category: "travel", source: "[[travel]]" }
+- { id: jp_travel_005, display: "重要フレーズ", input: "重要フレーズ", meaning: "", level: "A1-A2", category: "travel", source: "[[travel]]" }
 ```

@@ -1252,52 +1252,51 @@ This page aggregates all food and restaurant vocabulary for the typing language 
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
-> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: jp_food_vocabulary_001, display: "肉", input: "肉", meaning: "meat", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_002, display: "鶏肉", input: "鶏肉", meaning: "chicken", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_003, display: "牛肉", input: "牛肉", meaning: "beef", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_004, display: "豚肉", input: "豚肉", meaning: "pork", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_005, display: "卵", input: "卵", meaning: "egg", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_006, display: "牛乳", input: "牛乳", meaning: "milk", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_007, display: "チーズ", input: "チーズ", meaning: "cheese", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_008, display: "塩", input: "塩", meaning: "salt", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_009, display: "砂糖", input: "砂糖", meaning: "sugar", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_010, display: "油", input: "油", meaning: "oil", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_011, display: "野菜", input: "野菜", meaning: "vegetable", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_012, display: "果物", input: "果物", meaning: "fruit", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_013, display: "ご飯", input: "ご飯", meaning: "rice", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_014, display: "麺", input: "麺", meaning: "noodle", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_015, display: "コーヒー", input: "コーヒー", meaning: "coffee", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_016, display: "お茶", input: "お茶", meaning: "tea", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_017, display: "ジュース", input: "ジュース", meaning: "juice", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_018, display: "ビール", input: "ビール", meaning: "beer", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_019, display: "ワイン", input: "ワイン", meaning: "wine", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_020, display: "水", input: "水", meaning: "water", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_021, display: "ラーメン", input: "ラーメン", meaning: "ramen", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_022, display: "寿司", input: "寿司", meaning: "sushi", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_023, display: "天ぷら", input: "天ぷら", meaning: "tempura", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_024, display: "とんかつ", input: "とんかつ", meaning: "tonkatsu", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_025, display: "そば", input: "そば", meaning: "soba", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_026, display: "うどん", input: "うどん", meaning: "udon", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_027, display: "カレー", input: "カレー", meaning: "curry", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_028, display: "美味しい", input: "美味しい", meaning: "delicious", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_029, display: "辛い", input: "辛い", meaning: "spicy", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_030, display: "甘い", input: "甘い", meaning: "sweet", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_031, display: "酸っぱい", input: "酸っぱい", meaning: "sour", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_032, display: "苦い", input: "苦い", meaning: "bitter", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_033, display: "メニュー", input: "メニュー", meaning: "menu", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_034, display: "注文", input: "注文", meaning: "order", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_035, display: "勘定", input: "勘定", meaning: "bill", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_036, display: "空腹", input: "空腹", meaning: "hungry", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_037, display: "満腹", input: "満腹", meaning: "full", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_038, display: "朝食", input: "朝食", meaning: "breakfast", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_039, display: "昼食", input: "昼食", meaning: "lunch", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_040, display: "夕食", input: "夕食", meaning: "dinner", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_041, display: "持帰り", input: "持帰り", meaning: "takeout", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: jp_food_vocabulary_042, display: "カフェ", input: "カフェ", meaning: "cafe", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: jp_food_001, display: "肉", input: "肉", meaning: "meat", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_002, display: "鶏肉", input: "鶏肉", meaning: "chicken", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_003, display: "牛肉", input: "牛肉", meaning: "beef", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_004, display: "豚肉", input: "豚肉", meaning: "pork", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_005, display: "卵", input: "卵", meaning: "egg", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_006, display: "牛乳", input: "牛乳", meaning: "milk", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_007, display: "チーズ", input: "チーズ", meaning: "cheese", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_008, display: "塩", input: "塩", meaning: "salt", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_009, display: "砂糖", input: "砂糖", meaning: "sugar", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_010, display: "油", input: "油", meaning: "oil", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_011, display: "野菜", input: "野菜", meaning: "vegetable", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_012, display: "果物", input: "果物", meaning: "fruit", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_013, display: "ご飯", input: "ご飯", meaning: "rice", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_014, display: "麺", input: "麺", meaning: "noodle", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_015, display: "コーヒー", input: "コーヒー", meaning: "coffee", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_016, display: "お茶", input: "お茶", meaning: "tea", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_017, display: "ジュース", input: "ジュース", meaning: "juice", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_018, display: "ビール", input: "ビール", meaning: "beer", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_019, display: "ワイン", input: "ワイン", meaning: "wine", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_020, display: "水", input: "水", meaning: "water", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_021, display: "ラーメン", input: "ラーメン", meaning: "ramen", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_022, display: "寿司", input: "寿司", meaning: "sushi", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_023, display: "天ぷら", input: "天ぷら", meaning: "tempura", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_024, display: "とんかつ", input: "とんかつ", meaning: "tonkatsu", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_025, display: "そば", input: "そば", meaning: "soba", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_026, display: "うどん", input: "うどん", meaning: "udon", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_027, display: "カレー", input: "カレー", meaning: "curry", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_028, display: "美味しい", input: "美味しい", meaning: "delicious", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_029, display: "辛い", input: "辛い", meaning: "spicy", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_030, display: "甘い", input: "甘い", meaning: "sweet", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_031, display: "酸っぱい", input: "酸っぱい", meaning: "sour", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_032, display: "苦い", input: "苦い", meaning: "bitter", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_033, display: "メニュー", input: "メニュー", meaning: "menu", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_034, display: "注文", input: "注文", meaning: "order", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_035, display: "勘定", input: "勘定", meaning: "bill", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_036, display: "空腹", input: "空腹", meaning: "hungry", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_037, display: "満腹", input: "満腹", meaning: "full", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_038, display: "朝食", input: "朝食", meaning: "breakfast", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_039, display: "昼食", input: "昼食", meaning: "lunch", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_040, display: "夕食", input: "夕食", meaning: "dinner", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_041, display: "持帰り", input: "持帰り", meaning: "takeout", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
+- { id: jp_food_042, display: "カフェ", input: "カフェ", meaning: "cafe", level: "N5", category: "food-vocabulary", source: "[[food-vocabulary-jp]]" }
 ```
-

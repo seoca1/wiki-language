@@ -292,7 +292,9 @@ Spanish colors 어휘는 일상 대화에서 자주 사용됨.
 
 ## Pipeline Form (machine-readable)
 
-> Machine-readable for cross-language indexers.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
 - { id: es_colors_001, display: "rojo", input: "rojo", meaning: "빨강", level: "A1", category: "colors", source: "[[colors-vocabulary]]" }
@@ -301,8 +303,4 @@ Spanish colors 어휘는 일상 대화에서 자주 사용됨.
 - { id: es_colors_004, display: "amarillo", input: "amarillo", meaning: "노랑", level: "A1", category: "colors", source: "[[colors-vocabulary]]" }
 - { id: es_colors_005, display: "negro", input: "negro", meaning: "검정", level: "A1", category: "colors", source: "[[colors-vocabulary]]" }
 - { id: es_colors_006, display: "blanco", input: "blanco", meaning: "하양", level: "A1", category: "colors", source: "[[colors-vocabulary]]" }
-- { id: es_colors_007, display: "rojo", input: "rojo", meaning: "빨강", level: "A1", category: "colors", source: "[[colors-vocabulary]]" }
-- { id: es_colors_008, display: "azul", input: "azul", meaning: "파랑", level: "A1", category: "colors", source: "[[colors-vocabulary]]" }
-- { id: es_colors_009, display: "verde", input: "verde", meaning: "초록", level: "A1", category: "colors", source: "[[colors-vocabulary]]" }
-- { id: es_colors_010, display: "amarillo", input: "amarillo", meaning: "노랑", level: "A1", category: "colors", source: "[[colors-vocabulary]]" }
 ```

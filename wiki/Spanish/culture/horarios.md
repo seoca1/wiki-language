@@ -38,6 +38,18 @@
 - [[tapeo]] — cultura España
 - [[menu-del-dia]] — almuerzo España
 
+## Ejemplos
+
+> Ejemplos representativos del tema. Adaptados al contexto hispanohablante.
+
+1. **Ejemplo cotidiano**: Situación típica donde se observa este aspecto cultural.
+2. **Ejemplo conversacional**: Frase o diálogo breve que ilustra la práctica cultural.
+3. **Ejemplo regional**: Variación entre España y Latinoamérica (si aplica).
+
+*Nota: Ejemplos generados automáticamente — revisar y refinar con casos reales.*
+
+---
+
 ## Sources
 
 - [[comida-y-restaurante]]

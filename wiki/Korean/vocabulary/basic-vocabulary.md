@@ -4,6 +4,7 @@ created: 2026-07-30
 phase: "KR corpus aggregator"
 description: "Common Korean vocabulary spanning greetings, numbers, colors, food, animals, basic expressions. Aggregates 697 KR corpus citations."
 language: ko
+level: "A1-B1"
 ---
 
 # 기초 어휘 — Korean
@@ -132,3 +133,18 @@ language: ko
 - `Language/wiki/Korean/vocabulary/greetings-vocabulary.md` (greetings cross-reference)
 - `Language/wiki/Korean/vocabulary/numbers-vocabulary.md` (numbers cross-reference)
 - `Language/wiki/Korean/vocabulary/colors-vocabulary.md` (colors cross-reference)
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: kr_basic_vocabulary_001, display: "인사 (Greetings) — 대표 50+", input: "인사 (Greetings) — 대표 50+", meaning: "", level: "A1", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
+- { id: kr_basic_vocabulary_002, display: "숫자 (Numbers) — 100+ entries", input: "숫자 (Numbers) — 100+ entries", meaning: "", level: "A1", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
+- { id: kr_basic_vocabulary_003, display: "색깔 (Colors) — 50+ entries", input: "색깔 (Colors) — 50+ entries", meaning: "", level: "A1", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
+- { id: kr_basic_vocabulary_004, display: "음식 (Food) — 80+ entries", input: "음식 (Food) — 80+ entries", meaning: "", level: "A1", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
+- { id: kr_basic_vocabulary_005, display: "동물 (Animals) — 50+ entries", input: "동물 (Animals) — 50+ entries", meaning: "", level: "A1", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
+- { id: kr_basic_vocabulary_006, display: "기본 응답 (Basic Responses)", input: "기본 응답 (Basic Responses)", meaning: "", level: "A1", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
+```

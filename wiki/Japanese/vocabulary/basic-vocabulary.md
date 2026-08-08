@@ -4,6 +4,7 @@ created: 2026-07-30
 phase: "JP corpus aggregator"
 description: "Common Japanese vocabulary spanning greetings, numbers, colors, food, animals, kanji_basic. Aggregates 548 JP corpus citations that previously had no resolvable theme-file target."
 language: ja
+level: "A1-B1"
 ---
 
 # Basic Vocabulary — Japanese (基本語彙)
@@ -98,3 +99,18 @@ JP 는 2026-07-10 테마 파일 컨벤션 (per-word .md 금지) 적용 시점에
 - `Language/wiki/Japanese/vocabulary/numbers-vocabulary.md` (cross-reference for detailed number forms)
 - `Language/wiki/Japanese/vocabulary/colors-vocabulary.md` (cross-reference for color vocabulary)
 - `Language/wiki/Japanese/kanji-n5.md` (cross-reference for kanji_n5 entries)
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: jp_basic_vocabulary_001, display: "인사 (Greetings) — 6 entries", input: "인사 (Greetings) — 6 entries", meaning: "", level: "A1", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
+- { id: jp_basic_vocabulary_002, display: "숫자 (Numbers) — 20 entries (jp_007~jp_026)", input: "숫자 (Numbers) — 20 entries (jp_007~jp_026)", meaning: "", level: "A1", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
+- { id: jp_basic_vocabulary_003, display: "색깔 (Colors) — 4 entries", input: "색깔 (Colors) — 4 entries", meaning: "", level: "A1", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
+- { id: jp_basic_vocabulary_004, display: "음식 (Food) — 15+ entries", input: "음식 (Food) — 15+ entries", meaning: "", level: "A1", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
+- { id: jp_basic_vocabulary_005, display: "동물 (Animals) — 8 entries", input: "동물 (Animals) — 8 entries", meaning: "", level: "A1", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
+- { id: jp_basic_vocabulary_006, display: "한자 기초 (Kanji Basic) — 70 entries (jp_030~jp_099)", input: "한자 기초 (Kanji Basic) — 70 entries (jp_030~jp_099)", meaning: "", level: "A1", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
+```

@@ -460,23 +460,25 @@ theme: "education"
 
 ## Pipeline Form (machine-readable)
 
-> Machine-readable for cross-language indexers / game corpus extraction.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: ch_education_001, display: "天气", input: "天气", meaning: "날씨", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_002, display: "晴", input: "晴", meaning: "맑음", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_003, display: "阴", input: "阴", meaning: "흐림", level: "HSK 2", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_004, display: "雨", input: "雨", meaning: "비", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_005, display: "雪", input: "雪", meaning: "눈", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_006, display: "风", input: "风", meaning: "바람", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_007, display: "云", input: "云", meaning: "구름", level: "HSK 2", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_008, display: "太阳", input: "太阳", meaning: "태양", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_009, display: "热", input: "热", meaning: "덥다/열", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_010, display: "冷", input: "冷", meaning: "춥다/차갑다", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_011, display: "暖", input: "暖", meaning: "따뜻하다", level: "HSK 2", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_012, display: "凉快", input: "凉快", meaning: "서늘하다", level: "HSK 3", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_013, display: "春天", input: "春天", meaning: "봄", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_014, display: "夏天", input: "夏天", meaning: "여름", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_015, display: "秋天", input: "秋天", meaning: "가을", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_016, display: "冬天", input: "冬天", meaning: "겨울", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
+- { id: zh_weather_001, display: "天气", input: "天气", meaning: "날씨", level: "HSK 1", category: "education", source: "[[weather]]" }
+- { id: zh_weather_002, display: "晴", input: "晴", meaning: "맑음", level: "HSK 1", category: "education", source: "[[weather]]" }
+- { id: zh_weather_003, display: "阴", input: "阴", meaning: "흐림", level: "HSK 2", category: "education", source: "[[weather]]" }
+- { id: zh_weather_004, display: "雨", input: "雨", meaning: "비", level: "HSK 1", category: "education", source: "[[weather]]" }
+- { id: zh_weather_005, display: "雪", input: "雪", meaning: "눈", level: "HSK 1", category: "education", source: "[[weather]]" }
+- { id: zh_weather_006, display: "风", input: "风", meaning: "바람", level: "HSK 1", category: "education", source: "[[weather]]" }
+- { id: zh_weather_007, display: "云", input: "云", meaning: "구름", level: "HSK 2", category: "education", source: "[[weather]]" }
+- { id: zh_weather_008, display: "太阳", input: "太阳", meaning: "태양", level: "HSK 1", category: "education", source: "[[weather]]" }
+- { id: zh_weather_009, display: "热", input: "热", meaning: "덥다/열", level: "HSK 1", category: "education", source: "[[weather]]" }
+- { id: zh_weather_010, display: "冷", input: "冷", meaning: "춥다/차갑다", level: "HSK 1", category: "education", source: "[[weather]]" }
+- { id: zh_weather_011, display: "暖", input: "暖", meaning: "따뜻하다", level: "HSK 2", category: "education", source: "[[weather]]" }
+- { id: zh_weather_012, display: "凉快", input: "凉快", meaning: "서늘하다", level: "HSK 3", category: "education", source: "[[weather]]" }
+- { id: zh_weather_013, display: "春天", input: "春天", meaning: "봄", level: "HSK 1", category: "education", source: "[[weather]]" }
+- { id: zh_weather_014, display: "夏天", input: "夏天", meaning: "여름", level: "HSK 1", category: "education", source: "[[weather]]" }
+- { id: zh_weather_015, display: "秋天", input: "秋天", meaning: "가을", level: "HSK 1", category: "education", source: "[[weather]]" }
+- { id: zh_weather_016, display: "冬天", input: "冬天", meaning: "겨울", level: "HSK 1", category: "education", source: "[[weather]]" }
 ```

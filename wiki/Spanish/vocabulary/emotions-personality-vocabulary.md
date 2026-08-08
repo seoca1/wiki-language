@@ -1921,23 +1921,33 @@ En *Como agua para chocolate*, la tradición no es pasiva: es un mandato activo 
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
-> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: es_emotions_personality_vocabulary_001, display: "amor", input: "amor", meaning: "Love (deep affection).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: es_emotions_personality_vocabulary_002, display: "gustar", input: "gustar", meaning: "To like / To please (verb, gustar-verb structure).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: es_emotions_personality_vocabulary_003, display: "querer", input: "querer", meaning: "To want / To love (verb).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: es_emotions_personality_vocabulary_004, display: "hermoso", input: "hermoso", meaning: "Beautiful (adjective, masculine).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: es_emotions_personality_vocabulary_005, display: "bonita", input: "bonita", meaning: "Pretty (adjective, feminine).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: es_emotions_personality_vocabulary_006, display: "precioso", input: "precioso", meaning: "Precious / Gorgeous (adjective).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: es_emotions_personality_vocabulary_007, display: "guapo", input: "guapo", meaning: "Handsome / Good-looking (Spain: masculine).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: es_emotions_personality_vocabulary_008, display: "frío", input: "frío", meaning: "Cold (emotion, also weather).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: es_emotions_personality_vocabulary_009, display: "bochorno", input: "bochorno", meaning: "Heat wave / Sultriness (summer weather).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: es_emotions_personality_vocabulary_010, display: "solanera", input: "solanera", meaning: "Sunny disposition (emotion, also weather).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: es_emotions_personality_vocabulary_011, display: "altivez", input: "altivez", meaning: "Haughtiness / Pride (arrogance).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: es_emotions_personality_vocabulary_012, display: "mola", input: "mola", meaning: "Cool / Awesome (colloquial, Spain).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: es_emotions_personality_vocabulary_013, display: "desafiar", input: "desafiar", meaning: "To challenge / To defy (verb).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: es_emotion_001, display: "amor", input: "amor", meaning: "Love (deep affection).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary-es]]" }
+- { id: es_emotion_002, display: "Examples", input: "Examples", meaning: "**Pronunciation / IPA:**", level: "A1-B1", category: "emotion", source: "[[emotions-personality-vocabulary-es]]" }
+- { id: es_emotion_003, display: "Related Terms", input: "Related Terms", meaning: "**Pronunciation / IPA:**", level: "A1-B1", category: "emotion", source: "[[emotions-personality-vocabulary-es]]" }
+- { id: es_emotion_004, display: "Cultural Notes", input: "Cultural Notes", meaning: "**Pronunciation / IPA:**", level: "A1-B1", category: "emotion", source: "[[emotions-personality-vocabulary-es]]" }
+- { id: es_emotion_005, display: "Sources", input: "Sources", meaning: "**Pronunciation / IPA:**", level: "A1-B1", category: "emotion", source: "[[emotions-personality-vocabulary-es]]" }
+- { id: es_emotion_006, display: "gustar", input: "gustar", meaning: "To like / To please (verb, gustar-verb structure).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary-es]]" }
+- { id: es_emotion_007, display: "querer", input: "querer", meaning: "To want / To love (verb).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary-es]]" }
+- { id: es_emotion_008, display: "hermoso", input: "hermoso", meaning: "Beautiful (adjective, masculine).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary-es]]" }
+- { id: es_emotion_009, display: "bonita", input: "bonita", meaning: "Pretty (adjective, feminine).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary-es]]" }
+- { id: es_emotion_010, display: "precioso", input: "precioso", meaning: "Precious / Gorgeous (adjective).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary-es]]" }
+- { id: es_emotion_011, display: "guapo", input: "guapo", meaning: "Handsome / Good-looking (Spain: masculine).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary-es]]" }
+- { id: es_emotion_012, display: "frío", input: "frío", meaning: "Cold (emotion, also weather).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary-es]]" }
+- { id: es_emotion_013, display: "bochorno", input: "bochorno", meaning: "Heat wave / Sultriness (summer weather).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary-es]]" }
+- { id: es_emotion_014, display: "solanera", input: "solanera", meaning: "Sunny disposition (emotion, also weather).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary-es]]" }
+- { id: es_emotion_015, display: "altivez", input: "altivez", meaning: "Haughtiness / Pride (arrogance).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary-es]]" }
+- { id: es_emotion_016, display: "mola", input: "mola", meaning: "Cool / Awesome (colloquial, Spain).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary-es]]" }
+- { id: es_emotion_017, display: "desafiar", input: "desafiar", meaning: "To challenge / To defy (verb).", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary-es]]" }
+- { id: es_emotion_018, display: "sollozar", input: "sollozar", meaning: "Sollozar / To sob, to weep convulsively. In *Como agua para chocolate*, Tita solloza en la cocina mientras pela cebollas.", level: "A1-B1", category: "emotion", source: "[[emotions-personality-vocabulary-es]]" }
+- { id: es_emotion_019, display: "anhelar", input: "anhelar", meaning: "Anhelar / To yearn, to long for intensely. Tita anhela estar con Pedro pero la tradición se lo impide.", level: "A1-B1", category: "emotion", source: "[[emotions-personality-vocabulary-es]]" }
+- { id: es_emotion_020, display: "someterse", input: "someterse", meaning: "Someterse / To submit, to yield to authority. Tita debe someterse al mandato de Mama Elena... hasta que deja de hacerlo.", level: "A1-B1", category: "emotion", source: "[[emotions-personality-vocabulary-es]]" }
+- { id: es_emotion_021, display: "heredar", input: "heredar", meaning: "Heredar / To inherit (property, traits, traditions). Pedro hereda una fortuna; Tita hereda la obligación de cuidar a su madre.", level: "A1-B1", category: "emotion", source: "[[emotions-personality-vocabulary-es]]" }
+- { id: es_emotion_022, display: "matriarca", input: "matriarca", meaning: "Matriarca / Matriarch (female head of family). Mama Elena es la matriarca que gobierna con mano de hierro.", level: "A1-B1", category: "emotion", source: "[[emotions-personality-vocabulary-es]]" }
+- { id: es_emotion_023, display: "mandato", input: "mandato", meaning: "Mandato / Mandate, order, decree. "¡Aquí no hay más ley que la mía!" — el mandato absoluto de Mama Elena.", level: "A1-B1", category: "emotion", source: "[[emotions-personality-vocabulary-es]]" }
+- { id: es_emotion_024, display: "tradicion", input: "tradicion", meaning: "Tradición / Tradition. La tradición familiar que encadena a Tita: "Tita es mi hija menor y tiene que quedarse conmigo hasta que yo me muera."", level: "A1-B1", category: "emotion", source: "[[emotions-personality-vocabulary-es]]" }
 ```
-

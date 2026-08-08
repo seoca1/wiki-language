@@ -205,16 +205,15 @@ Cultural context to be added
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
-> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: en_clothing_vocabulary_001, display: "shirt", input: "shirt", meaning: "셔츠", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: en_clothing_vocabulary_002, display: "pants", input: "pants", meaning: "바지", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: en_clothing_vocabulary_003, display: "shoes", input: "shoes", meaning: "구두", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: en_clothing_vocabulary_004, display: "hat", input: "hat", meaning: "모자", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: en_clothing_vocabulary_005, display: "coat", input: "coat", meaning: "코트", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: en_clothing_vocabulary_006, display: "dress", input: "dress", meaning: "드레스", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: en_clothing_001, display: "shirt", input: "shirt", meaning: "셔츠", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: en_clothing_002, display: "pants", input: "pants", meaning: "바지", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: en_clothing_003, display: "shoes", input: "shoes", meaning: "구두", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: en_clothing_004, display: "hat", input: "hat", meaning: "모자", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: en_clothing_005, display: "coat", input: "coat", meaning: "코트", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: en_clothing_006, display: "dress", input: "dress", meaning: "드레스", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
 ```
-

@@ -292,17 +292,19 @@ Japanese colors 어휘는 일상 대화에서 자주 사용됨.
 
 ## Pipeline Form (machine-readable)
 
-> Machine-readable for cross-language indexers.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: ja_colors_001, display: "赤 (あか)", input: "赤 (あか)", meaning: "빨강", level: "N5", category: "colors", source: "[[colors-vocabulary]]" }
-- { id: ja_colors_002, display: "青 (あお)", input: "青 (あお)", meaning: "파랑", level: "N5", category: "colors", source: "[[colors-vocabulary]]" }
-- { id: ja_colors_003, display: "緑 (みどり)", input: "緑 (みどり)", meaning: "초록", level: "N5", category: "colors", source: "[[colors-vocabulary]]" }
-- { id: ja_colors_004, display: "黄色 (きいろ)", input: "黄色 (きいろ)", meaning: "노랑", level: "N5", category: "colors", source: "[[colors-vocabulary]]" }
-- { id: ja_colors_005, display: "黒 (くろ)", input: "黒 (くろ)", meaning: "검정", level: "N5", category: "colors", source: "[[colors-vocabulary]]" }
-- { id: ja_colors_006, display: "白 (しろ)", input: "白 (しろ)", meaning: "하양", level: "N5", category: "colors", source: "[[colors-vocabulary]]" }
-- { id: ja_colors_007, display: "赤い (あかい)", input: "赤い (あかい)", meaning: "빨강", level: "N5", category: "colors", source: "[[colors-vocabulary]]" }
-- { id: ja_colors_008, display: "青い (あおい)", input: "青い (あおい)", meaning: "파랑", level: "N5", category: "colors", source: "[[colors-vocabulary]]" }
-- { id: ja_colors_009, display: "緑の (みどりの)", input: "緑の (みどりの)", meaning: "초록", level: "N5", category: "colors", source: "[[colors-vocabulary]]" }
-- { id: ja_colors_010, display: "黄色い (きいろい)", input: "黄色い (きいろい)", meaning: "노랑", level: "N5", category: "colors", source: "[[colors-vocabulary]]" }
+- { id: jp_colors_001, display: "赤 (あか)", input: "赤 (あか)", meaning: "빨강", level: "N5", category: "colors", source: "[[colors-vocabulary]]" }
+- { id: jp_colors_002, display: "青 (あお)", input: "青 (あお)", meaning: "파랑", level: "N5", category: "colors", source: "[[colors-vocabulary]]" }
+- { id: jp_colors_003, display: "緑 (みどり)", input: "緑 (みどり)", meaning: "초록", level: "N5", category: "colors", source: "[[colors-vocabulary]]" }
+- { id: jp_colors_004, display: "黄色 (きいろ)", input: "黄色 (きいろ)", meaning: "노랑", level: "N5", category: "colors", source: "[[colors-vocabulary]]" }
+- { id: jp_colors_005, display: "黒 (くろ)", input: "黒 (くろ)", meaning: "검정", level: "N5", category: "colors", source: "[[colors-vocabulary]]" }
+- { id: jp_colors_006, display: "白 (しろ)", input: "白 (しろ)", meaning: "하양", level: "N5", category: "colors", source: "[[colors-vocabulary]]" }
+- { id: jp_colors_007, display: "赤い (あかい)", input: "赤い (あかい)", meaning: "빨강", level: "N5", category: "colors", source: "[[colors-vocabulary]]" }
+- { id: jp_colors_008, display: "青い (あおい)", input: "青い (あおい)", meaning: "파랑", level: "N5", category: "colors", source: "[[colors-vocabulary]]" }
+- { id: jp_colors_009, display: "緑の (みどりの)", input: "緑の (みどりの)", meaning: "초록", level: "N5", category: "colors", source: "[[colors-vocabulary]]" }
+- { id: jp_colors_010, display: "黄色い (きいろい)", input: "黄色い (きいろい)", meaning: "노랑", level: "N5", category: "colors", source: "[[colors-vocabulary]]" }
 ```

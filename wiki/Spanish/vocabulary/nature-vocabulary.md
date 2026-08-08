@@ -1529,18 +1529,37 @@ En *Notes in Spanish Advanced*, "chaparrón" aparece en vocabulario estival: tor
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
-> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: es_nature_vocabulary_001, display: "montaña", input: "montaña", meaning: "Mountain (large natural elevation).", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: es_nature_vocabulary_002, display: "playa", input: "playa", meaning: "Beach (sandy shore).", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: es_nature_vocabulary_003, display: "parque", input: "parque", meaning: "Park (green area).", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: es_nature_vocabulary_004, display: "acantilado", input: "acantilado", meaning: "Cliff (steep rock face).", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: es_nature_vocabulary_005, display: "promontorio", input: "promontorio", meaning: "Promontory (high point of land).", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: es_nature_vocabulary_006, display: "frío", input: "frío", meaning: "Cold / Cold weather.", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: es_nature_vocabulary_007, display: "calor pegajoso", input: "calor pegajoso", meaning: "**Pronunciation / IPA:**", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: es_nature_vocabulary_008, display: "solanera", input: "solanera", meaning: "Sunny spot / Sunny weather (sustained).", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
+- { id: es_nature_001, display: "montaña", input: "montaña", meaning: "Mountain (large natural elevation).", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_002, display: "Examples", input: "Examples", meaning: "**Pronunciation / IPA:**", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_003, display: "Related Terms", input: "Related Terms", meaning: "**Pronunciation / IPA:**", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_004, display: "Cultural Notes", input: "Cultural Notes", meaning: "**Pronunciation / IPA:**", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_005, display: "Sources", input: "Sources", meaning: "**Pronunciation / IPA:**", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_006, display: "playa", input: "playa", meaning: "Beach (sandy shore).", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_007, display: "parque", input: "parque", meaning: "Park (green area).", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_008, display: "acantilado", input: "acantilado", meaning: "Cliff (steep rock face).", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_009, display: "promontorio", input: "promontorio", meaning: "Promontory (high point of land).", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_010, display: "frío", input: "frío", meaning: "Cold / Cold weather.", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_011, display: "calor pegajoso", input: "calor pegajoso", meaning: "**Pronunciation / IPA:**", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_012, display: "solanera", input: "solanera", meaning: "Sunny spot / Sunny weather (sustained).", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_013, display: "sargazo", input: "sargazo", meaning: "Sargazo / Sargassum (brown seaweed genus). Algas pardas que forman "islas" flotantes en el mar de los Sargazos.", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_014, display: "altivez", input: "altivez", meaning: "Altivez / Haughtiness, proud bearing. Dignidad orgullosa, porte elevado. El ahogado "sobrellevaba la muerte con **altivez**".", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_015, display: "desvalido", input: "desvalido", meaning: "Desvalido / Helpless, defenseless, destitute. Persona sin amparo, protección o recursos. "El semblante **desvalido** de los otros ahogados".", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_016, display: "angarilla", input: "angarilla", meaning: "Angarilla / Shears, improvised stretcher (nautical). Herramienta de carpintería de ribera; también camilla improvisada para transportar cargas pesadas.", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_017, display: "minucioso", input: "minucioso", meaning: "Minucioso / Meticulous, painstaking, detailed. Que cuida los mínimos detalles. Las mujeres limpian al ahogado con cuidado **minucioso**.", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_018, display: "bobo", input: "bobo", meaning: "Bobo / Fool, simpleton; también "tonto" cariñoso. "Ya se fue el **bobo** grande, qué bueno, ya se fue el tonto hermoso".", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_019, display: "bochorno", input: "bochorno", meaning: "Bochorno / Stifling heat, sultriness. Calor húmedo y sofocante que produce malestar físico. También: vergüenza, sonrojo (sentido figurado).", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_020, display: "chaparrón", input: "chaparrón", meaning: "Chaparrón / Sudden heavy rain shower. Lluvia fuerte, breve e inesperada. Típica de tormentas de verano.", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_021, display: "bosque", input: "bosque", meaning: "Bosque / Forest, woods. Área extensa cubierta de árboles. Típico para senderismo, camping, fauna.", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_022, display: "rio", input: "rio", meaning: "Río / River. Corriente natural de agua dulce que fluye hacia mar, lago u otro río.", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_023, display: "lago", input: "lago", meaning: "Lago / Lake. Masa de agua dulce (o salada) rodeada de tierra. Origen glaciar, volcánico, tectónico.", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_024, display: "tienda-de-campana", input: "tienda-de-campana", meaning: "Tienda de campaña / Tent. Refugio portátil de tela/lona con varillas, para dormir en exteriores (camping, senderismo, emergencia).", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_025, display: "brujula", input: "brujula", meaning: "Brújula / Compass. Instrumento de orientación con aguja magnética que apunta al norte magnético.", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_026, display: "mapa", input: "mapa", meaning: "Mapa / Map. Representación gráfica a escala de territorio. Topográfico (curvas nivel), vial (carreteras), temático.", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_027, display: "clima", input: "clima", meaning: "Clima / Weather (conditions), Climate (long-term pattern). Estado atmosférico: temperatura, humedad, viento, precipitación, presión.", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_028, display: "tormenta", input: "tormenta", meaning: "Tormenta / Thunderstorm. Fenómeno meteorológico severo: lluvia intensa, rayos, truenos, viento fuerte, granizo posible.", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
 ```
-

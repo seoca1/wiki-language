@@ -292,17 +292,19 @@ Spanish ordinal-numbers 어휘는 일상 대화에서 자주 사용됨.
 
 ## Pipeline Form (machine-readable)
 
-> Machine-readable for cross-language indexers.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: es_ordinal-numbers_001, display: "primero", input: "primero", meaning: "첫째", level: "A1", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
-- { id: es_ordinal-numbers_002, display: "segundo", input: "segundo", meaning: "둘째", level: "A1", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
-- { id: es_ordinal-numbers_003, display: "tercero", input: "tercero", meaning: "셋째", level: "A1", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
-- { id: es_ordinal-numbers_004, display: "cuarto", input: "cuarto", meaning: "넷째", level: "A2", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
-- { id: es_ordinal-numbers_005, display: "quinto", input: "quinto", meaning: "다섯째", level: "A2", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
-- { id: es_ordinal-numbers_006, display: "sexto", input: "sexto", meaning: "여섯째", level: "A2", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
-- { id: es_ordinal-numbers_007, display: "séptimo", input: "séptimo", meaning: "일곱째", level: "A2", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
-- { id: es_ordinal-numbers_008, display: "octavo", input: "octavo", meaning: "여덟째", level: "A2", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
-- { id: es_ordinal-numbers_009, display: "noveno", input: "noveno", meaning: "아홉째", level: "A2", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
-- { id: es_ordinal-numbers_010, display: "décimo", input: "décimo", meaning: "열째", level: "A2", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
+- { id: es_ordinal_numbers_001, display: "primero", input: "primero", meaning: "첫째", level: "A1", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
+- { id: es_ordinal_numbers_002, display: "segundo", input: "segundo", meaning: "둘째", level: "A1", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
+- { id: es_ordinal_numbers_003, display: "tercero", input: "tercero", meaning: "셋째", level: "A1", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
+- { id: es_ordinal_numbers_004, display: "cuarto", input: "cuarto", meaning: "넷째", level: "A2", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
+- { id: es_ordinal_numbers_005, display: "quinto", input: "quinto", meaning: "다섯째", level: "A2", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
+- { id: es_ordinal_numbers_006, display: "sexto", input: "sexto", meaning: "여섯째", level: "A2", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
+- { id: es_ordinal_numbers_007, display: "séptimo", input: "séptimo", meaning: "일곱째", level: "A2", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
+- { id: es_ordinal_numbers_008, display: "octavo", input: "octavo", meaning: "여덟째", level: "A2", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
+- { id: es_ordinal_numbers_009, display: "noveno", input: "noveno", meaning: "아홉째", level: "A2", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
+- { id: es_ordinal_numbers_010, display: "décimo", input: "décimo", meaning: "열째", level: "A2", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
 ```

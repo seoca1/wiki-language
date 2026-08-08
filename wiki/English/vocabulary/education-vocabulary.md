@@ -292,7 +292,9 @@ English 교육문화: 학교 시스템, 학습방식, 학업 표현 등.
 
 ## Pipeline Form (machine-readable)
 
-> Machine-readable for cross-language indexers / game corpus extraction.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
 - { id: en_education_001, display: "school", input: "school", meaning: "학교", level: "A1", category: "education", source: "[[education-vocabulary]]" }

@@ -292,17 +292,19 @@ Japanese ordinal-numbers 어휘는 일상 대화에서 자주 사용됨.
 
 ## Pipeline Form (machine-readable)
 
-> Machine-readable for cross-language indexers.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: ja_ordinal-numbers_001, display: "一番 (いちばん)", input: "一番 (いちばん)", meaning: "첫째", level: "N5", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
-- { id: ja_ordinal-numbers_002, display: "二番 (にばん)", input: "二番 (にばん)", meaning: "둘째", level: "N5", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
-- { id: ja_ordinal-numbers_003, display: "三番 (さんばん)", input: "三番 (さんばん)", meaning: "셋째", level: "N5", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
-- { id: ja_ordinal-numbers_004, display: "四番 (よばん)", input: "四番 (よばん)", meaning: "넷째", level: "N5", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
-- { id: ja_ordinal-numbers_005, display: "五番 (ごばん)", input: "五番 (ごばん)", meaning: "다섯째", level: "N5", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
-- { id: ja_ordinal-numbers_006, display: "六番 (ろくばん)", input: "六番 (ろくばん)", meaning: "여섯째", level: "N5", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
-- { id: ja_ordinal-numbers_007, display: "七番 (なばん)", input: "七番 (なばん)", meaning: "일곱째", level: "N5", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
-- { id: ja_ordinal-numbers_008, display: "八番 (はちばん)", input: "八番 (はちばん)", meaning: "여덟째", level: "N5", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
-- { id: ja_ordinal-numbers_009, display: "九番 (くばん)", input: "九番 (くばん)", meaning: "아홉째", level: "N5", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
-- { id: ja_ordinal-numbers_010, display: "十番 (じゅうばん)", input: "十番 (じゅうばん)", meaning: "열째", level: "N5", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
+- { id: jp_ordinal_numbers_001, display: "一番 (いちばん)", input: "一番 (いちばん)", meaning: "첫째", level: "N5", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
+- { id: jp_ordinal_numbers_002, display: "二番 (にばん)", input: "二番 (にばん)", meaning: "둘째", level: "N5", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
+- { id: jp_ordinal_numbers_003, display: "三番 (さんばん)", input: "三番 (さんばん)", meaning: "셋째", level: "N5", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
+- { id: jp_ordinal_numbers_004, display: "四番 (よばん)", input: "四番 (よばん)", meaning: "넷째", level: "N5", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
+- { id: jp_ordinal_numbers_005, display: "五番 (ごばん)", input: "五番 (ごばん)", meaning: "다섯째", level: "N5", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
+- { id: jp_ordinal_numbers_006, display: "六番 (ろくばん)", input: "六番 (ろくばん)", meaning: "여섯째", level: "N5", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
+- { id: jp_ordinal_numbers_007, display: "七番 (なばん)", input: "七番 (なばん)", meaning: "일곱째", level: "N5", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
+- { id: jp_ordinal_numbers_008, display: "八番 (はちばん)", input: "八番 (はちばん)", meaning: "여덟째", level: "N5", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
+- { id: jp_ordinal_numbers_009, display: "九番 (くばん)", input: "九番 (くばん)", meaning: "아홉째", level: "N5", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
+- { id: jp_ordinal_numbers_010, display: "十番 (じゅうばん)", input: "十番 (じゅうばん)", meaning: "열째", level: "N5", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
 ```

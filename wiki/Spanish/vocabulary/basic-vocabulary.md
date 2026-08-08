@@ -1,5 +1,6 @@
 ---
 category: "basic"
+level: "A1-A2"
 ---
 
 # Vocabulario Básico — Saludos, Números, Colores, Familia, Adjetivos
@@ -3277,32 +3278,41 @@ En España: se abre **delante** del que regala (educación). México: a veces se
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
-> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: es_basic_vocabulary_001, display: "hola", input: "hola", meaning: "Hello / Hi (informal greeting).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
-- { id: es_basic_vocabulary_002, display: "adiós", input: "adiós", meaning: "Goodbye (standard farewell).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
-- { id: es_basic_vocabulary_003, display: "gracias", input: "gracias", meaning: "Thank you / Thanks (expression of gratitude).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
-- { id: es_basic_vocabulary_004, display: "por_favor", input: "por_favor", meaning: "Please (polite request particle).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
-- { id: es_basic_vocabulary_005, display: "sí", input: "sí", meaning: "Yes (affirmative response).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
-- { id: es_basic_vocabulary_006, display: "no", input: "no", meaning: "No (negative response).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
-- { id: es_basic_vocabulary_007, display: "además", input: "además", meaning: "Besides / Moreover / Additionally (conjunction).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
-- { id: es_basic_vocabulary_008, display: "uno", input: "uno", meaning: "One (numeral, masculine).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
-- { id: es_basic_vocabulary_009, display: "dos", input: "dos", meaning: "Two (numeral).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
-- { id: es_basic_vocabulary_010, display: "tres", input: "tres", meaning: "Three (numeral).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
-- { id: es_basic_vocabulary_011, display: "cuatro", input: "cuatro", meaning: "Four (numeral).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
-- { id: es_basic_vocabulary_012, display: "cinco", input: "cinco", meaning: "Five (numeral).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
-- { id: es_basic_vocabulary_013, display: "rojo", input: "rojo", meaning: "Red (adjective, masculine).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
-- { id: es_basic_vocabulary_014, display: "azul", input: "azul", meaning: "Blue (adjective, both genders).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
-- { id: es_basic_vocabulary_015, display: "verde", input: "verde", meaning: "Green (adjective, both genders).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
-- { id: es_basic_vocabulary_016, display: "madre", input: "madre", meaning: "Mother (noun).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
-- { id: es_basic_vocabulary_017, display: "padre", input: "padre", meaning: "Father (noun).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
-- { id: es_basic_vocabulary_018, display: "niño", input: "niño", meaning: "Child (noun, masculine).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
-- { id: es_basic_vocabulary_019, display: "rápido", input: "rápido", meaning: "Fast / Quick (adjective, masculine).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
-- { id: es_basic_vocabulary_020, display: "fácil", input: "fácil", meaning: "Easy (adjective, both genders).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
-- { id: es_basic_vocabulary_021, display: "difícil", input: "difícil", meaning: "Difficult / Hard (adjective, both genders).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
-- { id: es_basic_vocabulary_022, display: "importante", input: "importante", meaning: "Important (adjective, both genders).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
+- { id: es_basic_001, display: "hola", input: "hola", meaning: "Hello / Hi (informal greeting).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
+- { id: es_basic_002, display: "adiós", input: "adiós", meaning: "Goodbye (standard farewell).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
+- { id: es_basic_003, display: "gracias", input: "gracias", meaning: "Thank you / Thanks (expression of gratitude).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
+- { id: es_basic_004, display: "por_favor", input: "por_favor", meaning: "Please (polite request particle).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
+- { id: es_basic_005, display: "sí", input: "sí", meaning: "Yes (affirmative response).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
+- { id: es_basic_006, display: "no", input: "no", meaning: "No (negative response).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
+- { id: es_basic_007, display: "además", input: "además", meaning: "Besides / Moreover / Additionally (conjunction).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
+- { id: es_basic_008, display: "uno", input: "uno", meaning: "One (numeral, masculine).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
+- { id: es_basic_009, display: "dos", input: "dos", meaning: "Two (numeral).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
+- { id: es_basic_010, display: "tres", input: "tres", meaning: "Three (numeral).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
+- { id: es_basic_011, display: "cuatro", input: "cuatro", meaning: "Four (numeral).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
+- { id: es_basic_012, display: "cinco", input: "cinco", meaning: "Five (numeral).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
+- { id: es_basic_013, display: "rojo", input: "rojo", meaning: "Red (adjective, masculine).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
+- { id: es_basic_014, display: "azul", input: "azul", meaning: "Blue (adjective, both genders).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
+- { id: es_basic_015, display: "verde", input: "verde", meaning: "Green (adjective, both genders).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
+- { id: es_basic_016, display: "madre", input: "madre", meaning: "Mother (noun).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
+- { id: es_basic_017, display: "padre", input: "padre", meaning: "Father (noun).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
+- { id: es_basic_018, display: "niño", input: "niño", meaning: "Child (noun, masculine).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
+- { id: es_basic_019, display: "rápido", input: "rápido", meaning: "Fast / Quick (adjective, masculine).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
+- { id: es_basic_020, display: "fácil", input: "fácil", meaning: "Easy (adjective, both genders).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
+- { id: es_basic_021, display: "difícil", input: "difícil", meaning: "Difficult / Hard (adjective, both genders).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
+- { id: es_basic_022, display: "importante", input: "importante", meaning: "Important (adjective, both genders).", level: "** A1-A2", category: "basic-vocabulary", source: "[[basic-vocabulary]]" }
+- { id: es_basic_023, display: "fiesta", input: "fiesta", meaning: "Fiesta / Party, celebration, festival. Evento social o religioso con comida, música, baile.", level: "A1-A2", category: "basic", source: "[[basic-vocabulary]]" }
+- { id: es_basic_024, display: "cumpleanos", input: "cumpleanos", meaning: "Cumpleaños / Birthday. Aniversario del nacimiento de una persona.", level: "A1-A2", category: "basic", source: "[[basic-vocabulary]]" }
+- { id: es_basic_025, display: "navidad", input: "navidad", meaning: "Navidad / Christmas. Celebración cristiana del nacimiento de Jesús (25 diciembre). En español: Nochebuena (24) + Navidad (25).", level: "A1-A2", category: "basic", source: "[[basic-vocabulary]]" }
+- { id: es_basic_026, display: "ano-nuevo", input: "ano-nuevo", meaning: "Año Nuevo / New Year. Celebración del cambio de año (31 diciembre - 1 enero).", level: "A1-A2", category: "basic", source: "[[basic-vocabulary]]" }
+- { id: es_basic_027, display: "boda", input: "boda", meaning: "Boda / Wedding. Ceremonia de matrimonio civil o religiosa.", level: "A1-A2", category: "basic", source: "[[basic-vocabulary]]" }
+- { id: es_basic_028, display: "regalo", input: "regalo", meaning: "Regalo / Gift, present. Objeto que se da voluntariamente sin esperar pago.", level: "A1-A2", category: "basic", source: "[[basic-vocabulary]]" }
+- { id: es_basic_029, display: "pastel", input: "pastel", meaning: "Pastel / Cake, pie. Postre horneado, típicamente dulce, para celebraciones.", level: "A1-A2", category: "basic", source: "[[basic-vocabulary]]" }
+- { id: es_basic_030, display: "quinceanera", input: "quinceanera", meaning: "Quinceañera / 15th birthday celebration (Mexico/LatAm). Celebración de los 15 años de una niña: paso a la mujer adulta.", level: "A1-A2", category: "basic", source: "[[basic-vocabulary]]" }
+- { id: es_basic_031, display: "carnaval", input: "carnaval", meaning: "Carnaval / Carnival. Fiesta popular pre-cuaresma (febrero) con disfraces, desfiles, música, baile.", level: "A1-A2", category: "basic", source: "[[basic-vocabulary]]" }
+- { id: es_basic_032, display: "semana-santa", input: "semana-santa", meaning: "Semana Santa / Holy Week. Semana previa a Pascua (marzo-abril), conmemoración de la Pasión de Cristo.", level: "A1-A2", category: "basic", source: "[[basic-vocabulary]]" }
 ```
-

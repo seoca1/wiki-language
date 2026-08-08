@@ -1,5 +1,6 @@
 ---
 category: "body-zh"
+level: "HSK 1-2"
 ---
 
 # Body — 신체 부위 (身体部位)
@@ -300,20 +301,20 @@ category: "body-zh"
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/zh_words.md`).
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: zh_body_001, display: "头", input: "tou2", meaning: "머리", level: "HSK 1", category: "body", source: "[[body-zh]]" }
-- { id: zh_body_002, display: "眼睛", input: "yan3 jing", meaning: "눈", level: "HSK 1", category: "body", source: "[[body-zh]]" }
-- { id: zh_body_003, display: "耳朵", input: "er3 duo", meaning: "귀", level: "HSK 1", category: "body", source: "[[body-zh]]" }
-- { id: zh_body_004, display: "鼻子", input: "bi2 zi", meaning: "코", level: "HSK 1", category: "body", source: "[[body-zh]]" }
-- { id: zh_body_005, display: "嘴", input: "zui3", meaning: "입", level: "HSK 1", category: "body", source: "[[body-zh]]" }
-- { id: zh_body_006, display: "手", input: "shou3", meaning: "손", level: "HSK 1", category: "body", source: "[[body-zh]]" }
-- { id: zh_body_007, display: "脚", input: "jiao3", meaning: "발", level: "HSK 1", category: "body", source: "[[body-zh]]" }
-- { id: zh_body_008, display: "头发", input: "tou2 fa", meaning: "머리카락", level: "HSK 1", category: "body", source: "[[body-zh]]" }
-- { id: zh_body_009, display: "肚子", input: "du4 zi", meaning: "배", level: "HSK 2", category: "body", source: "[[body-zh]]" }
-- { id: zh_body_010, display: "脸", input: "lian3", meaning: "얼굴", level: "HSK 1", category: "body", source: "[[body-zh]]" }
-- { id: zh_body_011, display: "牙齿", input: "ya2 chi3", meaning: "이/치아", level: "HSK 2", category: "body", source: "[[body-zh]]" }
+- { id: zh_body_zh_001, display: "头 (tóu)", input: "头 (tóu)", meaning: "머리, 두부", level: "HSK 1-2", category: "body-zh", source: "[[body]]" }
+- { id: zh_body_zh_002, display: "眼睛 (yǎnjing)", input: "眼睛 (yǎnjing)", meaning: "눈", level: "HSK 1-2", category: "body-zh", source: "[[body]]" }
+- { id: zh_body_zh_003, display: "耳朵 (ěrduo)", input: "耳朵 (ěrduo)", meaning: "귀", level: "HSK 1-2", category: "body-zh", source: "[[body]]" }
+- { id: zh_body_zh_004, display: "鼻子 (bízi)", input: "鼻子 (bízi)", meaning: "코", level: "HSK 1-2", category: "body-zh", source: "[[body]]" }
+- { id: zh_body_zh_005, display: "嘴 (zuǐ)", input: "嘴 (zuǐ)", meaning: "입", level: "HSK 1-2", category: "body-zh", source: "[[body]]" }
+- { id: zh_body_zh_006, display: "手 (shǒu)", input: "手 (shǒu)", meaning: "손", level: "HSK 1-2", category: "body-zh", source: "[[body]]" }
+- { id: zh_body_zh_007, display: "脚 (jiǎo)", input: "脚 (jiǎo)", meaning: "발", level: "HSK 1-2", category: "body-zh", source: "[[body]]" }
+- { id: zh_body_zh_008, display: "头发 (tóufa)", input: "头发 (tóufa)", meaning: "머리카락", level: "HSK 1-2", category: "body-zh", source: "[[body]]" }
+- { id: zh_body_zh_009, display: "肚子 (dùzi)", input: "肚子 (dùzi)", meaning: "배 (복부)", level: "HSK 1-2", category: "body-zh", source: "[[body]]" }
+- { id: zh_body_zh_010, display: "脸 (liǎn)", input: "脸 (liǎn)", meaning: "얼굴", level: "HSK 1-2", category: "body-zh", source: "[[body]]" }
+- { id: zh_body_zh_011, display: "嘴 (zuǐ) [bonus: 牙齿 yáchǐ]", input: "嘴 (zuǐ) [bonus: 牙齿 yáchǐ]", meaning: "이, 치아", level: "HSK 1-2", category: "body-zh", source: "[[body]]" }
 ```

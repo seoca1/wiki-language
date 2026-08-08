@@ -1029,39 +1029,39 @@ UK/US difference: *sweets* (UK) = *candy* (US). "Sweet" = term of endearment. "S
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
-> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: en_food_vocabulary_001, display: "meat", input: "meat", meaning: "고기", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: en_food_vocabulary_002, display: "chicken", input: "chicken", meaning: "닭고기", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: en_food_vocabulary_003, display: "beef", input: "beef", meaning: "소고기", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: en_food_vocabulary_004, display: "pork", input: "pork", meaning: "돼지고기", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: en_food_vocabulary_005, display: "egg", input: "egg", meaning: "달걀", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: en_food_vocabulary_006, display: "milk", input: "milk", meaning: "우유", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: en_food_vocabulary_007, display: "cheese", input: "cheese", meaning: "치즈", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: en_food_vocabulary_008, display: "butter", input: "butter", meaning: "버터", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: en_food_vocabulary_009, display: "salt", input: "salt", meaning: "소금", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: en_food_vocabulary_010, display: "sugar", input: "sugar", meaning: "설탕", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: en_food_vocabulary_011, display: "oil", input: "oil", meaning: "기름", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: en_food_vocabulary_012, display: "vegetable", input: "vegetable", meaning: "야채", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: en_food_vocabulary_013, display: "fruit", input: "fruit", meaning: "과일", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: en_food_vocabulary_014, display: "rice", input: "rice", meaning: "쌀", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: en_food_vocabulary_015, display: "noodle", input: "noodle", meaning: "면", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: en_food_vocabulary_016, display: "coffee", input: "coffee", meaning: "커피", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: en_food_vocabulary_017, display: "tea", input: "tea", meaning: "차", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: en_food_vocabulary_018, display: "juice", input: "juice", meaning: "주스", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: en_food_vocabulary_019, display: "beer", input: "beer", meaning: "맥주", level: "A2", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: en_food_vocabulary_020, display: "wine", input: "wine", meaning: "와인", level: "A2", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: en_food_vocabulary_021, display: "water", input: "water", meaning: "물", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: en_food_vocabulary_022, display: "menu", input: "menu", meaning: "메뉴", level: "A2", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: en_food_vocabulary_023, display: "order", input: "order", meaning: "주문", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: en_food_vocabulary_024, display: "bill", input: "bill", meaning: "계산서", level: "A2", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: en_food_vocabulary_025, display: "restaurant", input: "restaurant", meaning: "식당", level: "A2", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: en_food_vocabulary_026, display: "café", input: "café", meaning: "카페", level: "A2", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: en_food_vocabulary_027, display: "breakfast", input: "breakfast", meaning: "아침", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: en_food_vocabulary_028, display: "delicious", input: "delicious", meaning: "맛있는", level: "A2", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: en_food_vocabulary_029, display: "sweet", input: "sweet", meaning: "달콤한", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: en_food_vocabulary_030, display: "spicy", input: "spicy", meaning: "매운", level: "A2", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_001, display: "meat", input: "meat", meaning: "고기", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_002, display: "chicken", input: "chicken", meaning: "닭고기", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_003, display: "beef", input: "beef", meaning: "소고기", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_004, display: "pork", input: "pork", meaning: "돼지고기", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_005, display: "egg", input: "egg", meaning: "달걀", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_006, display: "milk", input: "milk", meaning: "우유", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_007, display: "cheese", input: "cheese", meaning: "치즈", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_008, display: "butter", input: "butter", meaning: "버터", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_009, display: "salt", input: "salt", meaning: "소금", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_010, display: "sugar", input: "sugar", meaning: "설탕", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_011, display: "oil", input: "oil", meaning: "기름", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_012, display: "vegetable", input: "vegetable", meaning: "야채", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_013, display: "fruit", input: "fruit", meaning: "과일", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_014, display: "rice", input: "rice", meaning: "쌀", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_015, display: "noodle", input: "noodle", meaning: "면", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_016, display: "coffee", input: "coffee", meaning: "커피", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_017, display: "tea", input: "tea", meaning: "차", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_018, display: "juice", input: "juice", meaning: "주스", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_019, display: "beer", input: "beer", meaning: "맥주", level: "A2", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_020, display: "wine", input: "wine", meaning: "와인", level: "A2", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_021, display: "water", input: "water", meaning: "물", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_022, display: "menu", input: "menu", meaning: "메뉴", level: "A2", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_023, display: "order", input: "order", meaning: "주문", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_024, display: "bill", input: "bill", meaning: "계산서", level: "A2", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_025, display: "restaurant", input: "restaurant", meaning: "식당", level: "A2", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_026, display: "café", input: "café", meaning: "카페", level: "A2", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_027, display: "breakfast", input: "breakfast", meaning: "아침", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_028, display: "delicious", input: "delicious", meaning: "맛있는", level: "A2", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_029, display: "sweet", input: "sweet", meaning: "달콤한", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: en_food_030, display: "spicy", input: "spicy", meaning: "매운", level: "A2", category: "food-vocabulary", source: "[[food-vocabulary]]" }
 ```

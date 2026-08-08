@@ -292,7 +292,9 @@ English time 어휘는 일상 대화에서 자주 사용됨.
 
 ## Pipeline Form (machine-readable)
 
-> Machine-readable for cross-language indexers / game corpus extraction.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
 - { id: en_time_001, display: "today", input: "today", meaning: "오늘", level: "A1", category: "time", source: "[[time-vocabulary]]" }
@@ -302,7 +304,6 @@ English time 어휘는 일상 대화에서 자주 사용됨.
 - { id: en_time_005, display: "afternoon", input: "afternoon", meaning: "오후", level: "A1", category: "time", source: "[[time-vocabulary]]" }
 - { id: en_time_006, display: "evening", input: "evening", meaning: "저녁", level: "A1", category: "time", source: "[[time-vocabulary]]" }
 - { id: en_time_007, display: "night", input: "night", meaning: "밤", level: "A1", category: "time", source: "[[time-vocabulary]]" }
-- { id: en_time_008, display: "today", input: "today", meaning: "오늘", level: "A1", category: "time", source: "[[time-vocabulary]]" }
-- { id: en_time_009, display: "weekend", input: "weekend", meaning: "주말", level: "A2", category: "time", source: "[[time-vocabulary]]" }
-- { id: en_time_010, display: "hour", input: "hour", meaning: "시간", level: "A1", category: "time", source: "[[time-vocabulary]]" }
+- { id: en_time_008, display: "weekend", input: "weekend", meaning: "주말", level: "A2", category: "time", source: "[[time-vocabulary]]" }
+- { id: en_time_009, display: "hour", input: "hour", meaning: "시간", level: "A1", category: "time", source: "[[time-vocabulary]]" }
 ```

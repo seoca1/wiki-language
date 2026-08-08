@@ -1,5 +1,6 @@
 ---
 category: "numbers-zh"
+level: "HSK 1"
 ---
 
 # Numbers — 숫자 (数字)
@@ -321,20 +322,21 @@ category: "numbers-zh"
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/zh_words.md`).
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: zh_numbers_001, display: "一", input: "yi1", meaning: "1", level: "HSK 1", category: "numbers", source: "[[numbers-zh]]" }
-- { id: zh_numbers_002, display: "二", input: "er4", meaning: "2 (셀 때)", level: "HSK 1", category: "numbers", source: "[[numbers-zh]]" }
-- { id: zh_numbers_003, display: "两", input: "liang3", meaning: "2 (양 표현)", level: "HSK 1", category: "numbers", source: "[[numbers-zh]]" }
-- { id: zh_numbers_004, display: "三", input: "san1", meaning: "3", level: "HSK 1", category: "numbers", source: "[[numbers-zh]]" }
-- { id: zh_numbers_005, display: "四", input: "si4", meaning: "4", level: "HSK 1", category: "numbers", source: "[[numbers-zh]]" }
-- { id: zh_numbers_006, display: "五", input: "wu3", meaning: "5", level: "HSK 1", category: "numbers", source: "[[numbers-zh]]" }
-- { id: zh_numbers_007, display: "十", input: "shi2", meaning: "10", level: "HSK 1", category: "numbers", source: "[[numbers-zh]]" }
-- { id: zh_numbers_008, display: "百", input: "bai3", meaning: "100", level: "HSK 1", category: "numbers", source: "[[numbers-zh]]" }
-- { id: zh_numbers_009, display: "千", input: "qian1", meaning: "1000", level: "HSK 2", category: "numbers", source: "[[numbers-zh]]" }
-- { id: zh_numbers_010, display: "万", input: "wan4", meaning: "10000", level: "HSK 2", category: "numbers", source: "[[numbers-zh]]" }
-- { id: zh_numbers_011, display: "零", input: "ling2", meaning: "0", level: "HSK 1", category: "numbers", source: "[[numbers-zh]]" }
-- { id: zh_numbers_012, display: "亿", input: "yi4", meaning: "100000000 (1억)", level: "HSK 2", category: "numbers", source: "[[numbers-zh]]" }
+- { id: zh_numbers_zh_001, display: "一 (yī)", input: "一 (yī)", meaning: "1", level: "HSK 1", category: "numbers-zh", source: "[[numbers]]" }
+- { id: zh_numbers_zh_002, display: "二 (èr)", input: "二 (èr)", meaning: "2 (셀 때/순서)", level: "HSK 1", category: "numbers-zh", source: "[[numbers]]" }
+- { id: zh_numbers_zh_003, display: "两 (liǎng)", input: "两 (liǎng)", meaning: "2 (양 표현)", level: "HSK 1", category: "numbers-zh", source: "[[numbers]]" }
+- { id: zh_numbers_zh_004, display: "三 (sān)", input: "三 (sān)", meaning: "3", level: "HSK 1", category: "numbers-zh", source: "[[numbers]]" }
+- { id: zh_numbers_zh_005, display: "四 (sì)", input: "四 (sì)", meaning: "4", level: "HSK 1", category: "numbers-zh", source: "[[numbers]]" }
+- { id: zh_numbers_zh_006, display: "五 (wǔ)", input: "五 (wǔ)", meaning: "5", level: "HSK 1", category: "numbers-zh", source: "[[numbers]]" }
+- { id: zh_numbers_zh_007, display: "十 (shí)", input: "十 (shí)", meaning: "10", level: "HSK 1", category: "numbers-zh", source: "[[numbers]]" }
+- { id: zh_numbers_zh_008, display: "百 (bǎi)", input: "百 (bǎi)", meaning: "100", level: "HSK 1", category: "numbers-zh", source: "[[numbers]]" }
+- { id: zh_numbers_zh_009, display: "千 (qiān)", input: "千 (qiān)", meaning: "1,000", level: "HSK 1", category: "numbers-zh", source: "[[numbers]]" }
+- { id: zh_numbers_zh_010, display: "万 (wàn)", input: "万 (wàn)", meaning: "10,000", level: "HSK 1", category: "numbers-zh", source: "[[numbers]]" }
+- { id: zh_numbers_zh_011, display: "零 (líng)", input: "零 (líng)", meaning: "0", level: "HSK 1", category: "numbers-zh", source: "[[numbers]]" }
+- { id: zh_numbers_zh_012, display: "亿 (yì)", input: "亿 (yì)", meaning: "100,000,000 (1억)", level: "HSK 1", category: "numbers-zh", source: "[[numbers]]" }
 ```

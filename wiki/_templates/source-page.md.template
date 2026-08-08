@@ -1,0 +1,40 @@
+# {Source Title}
+
+**Type:** {textbook / novel / article / blog / lesson / web-article}
+**Date Added:** {YYYY-MM-DD}
+**Language Level:** {beginner / intermediate / advanced / A1-A2 / JLPT N5 / TOPIK 1-2 / HSK 1-2}
+
+## Summary
+
+{3-5 sentence overview of the source material. What is it? Who wrote it? When was it published? What's the main content?}
+
+## Key Takeaways
+
+- {Learning point 1 — focus on cultural/linguistic insight}
+- {Learning point 2}
+- {Learning point 3}
+
+## Vocabulary Extracted
+
+- [[vocabulary-theme]] - brief context
+- [[word-1]] - extracted from page X
+- [[word-2]] - extracted from page Y
+
+## Expressions Extracted
+
+- [[expression-theme]]
+- [[expression-1]]
+
+## Cultural Insights
+
+- [[culture-topic-1]]
+- [[culture-topic-2]]
+
+## Notes
+
+{Any additional observations, copyright considerations, source URL, or links to raw/ location}
+
+## Sources
+
+- {raw source location: `Language/raw/{Language}/{filename}.md`}
+- {external URL if web article}

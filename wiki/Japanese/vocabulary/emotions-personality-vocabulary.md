@@ -998,42 +998,41 @@ This page aggregates all emotion and personality vocabulary for the typing langu
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
-> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: jp_emotions_personality_vocabulary_001, display: "嬉しい", input: "嬉しい", meaning: "happy", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: jp_emotions_personality_vocabulary_002, display: "悲しい", input: "悲しい", meaning: "sad", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: jp_emotions_personality_vocabulary_003, display: "寂しい", input: "寂しい", meaning: "lonely", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: jp_emotions_personality_vocabulary_004, display: "怒った", input: "怒った", meaning: "angry", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: jp_emotions_personality_vocabulary_005, display: "怖い", input: "怖い", meaning: "scary/fearful", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: jp_emotions_personality_vocabulary_006, display: "恥ずかしい", input: "恥ずかしい", meaning: "embarrassed", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: jp_emotions_personality_vocabulary_007, display: "嫉妬", input: "嫉妬", meaning: "jealousy", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: jp_emotions_personality_vocabulary_008, display: "不安", input: "不安", meaning: "anxious", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: jp_emotions_personality_vocabulary_009, display: "緊張する", input: "緊張する", meaning: "nervous", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: jp_emotions_personality_vocabulary_010, display: "感動", input: "感動", meaning: "deeply moved", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: jp_emotions_personality_vocabulary_011, display: "感謝する", input: "感謝する", meaning: "grateful", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: jp_emotions_personality_vocabulary_012, display: "親切", input: "親切", meaning: "kind", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: jp_emotions_personality_vocabulary_013, display: "後悔", input: "後悔", meaning: "regret", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: jp_emotions_personality_vocabulary_014, display: "ときめく", input: "ときめく", meaning: "heart races", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: jp_emotions_personality_vocabulary_015, display: "綺麗", input: "綺麗", meaning: "beautiful/clean", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: jp_emotions_personality_vocabulary_016, display: "可愛い", input: "可愛い", meaning: "cute", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: jp_emotions_personality_vocabulary_017, display: "かっこいい", input: "かっこいい", meaning: "cool", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: jp_emotions_personality_vocabulary_018, display: "悪い", input: "悪い", meaning: "bad", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: jp_emotions_personality_vocabulary_019, display: "良い", input: "良い", meaning: "good", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: jp_emotions_personality_vocabulary_020, display: "高い", input: "高い", meaning: "high/tall/expensive", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: jp_emotions_personality_vocabulary_021, display: "安い", input: "安い", meaning: "cheap/low", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: jp_emotions_personality_vocabulary_022, display: "機嫌が悪い", input: "機嫌が悪い", meaning: "in a bad mood", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: jp_emotions_personality_vocabulary_023, display: "明るい", input: "明るい", meaning: "bright/cheerful", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: jp_emotions_personality_vocabulary_024, display: "暗い", input: "暗い", meaning: "dark/dreary", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: jp_emotions_personality_vocabulary_025, display: "暑い", input: "暑い", meaning: "hot (weather)", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: jp_emotions_personality_vocabulary_026, display: "寒い", input: "寒い", meaning: "cold (weather)", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: jp_emotions_personality_vocabulary_027, display: "きつい", input: "きつい", meaning: "tight/strict", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: jp_emotions_personality_vocabulary_028, display: "緩い", input: "緩い", meaning: "loose/relaxed", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: jp_emotions_personality_vocabulary_029, display: "怠け者", input: "怠け者", meaning: "lazy person", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: jp_emotions_personality_vocabulary_030, display: "勤勉", input: "勤勉", meaning: "diligent", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: jp_emotions_personality_vocabulary_031, display: "沈着", input: "沈着", meaning: "calm/serene", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: jp_emotions_personality_vocabulary_032, display: "無礼", input: "無礼", meaning: "rude", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: jp_emotion_001, display: "嬉しい (ureshii)", input: "嬉しい (ureshii)", meaning: "happy, glad", level: "JLPT N4-N5", category: "emotion", source: "[[emotions-personality-vocabulary-jp]]" }
+- { id: jp_emotion_002, display: "悲しい (kanashii)", input: "悲しい (kanashii)", meaning: "sad, sorrowful", level: "JLPT N4-N5", category: "emotion", source: "[[emotions-personality-vocabulary-jp]]" }
+- { id: jp_emotion_003, display: "寂しい (sabishii / samishii)", input: "寂しい (sabishii / samishii)", meaning: "lonely, lonesome", level: "JLPT N4-N5", category: "emotion", source: "[[emotions-personality-vocabulary-jp]]" }
+- { id: jp_emotion_004, display: "怒った", input: "怒った", meaning: "angry", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary-jp]]" }
+- { id: jp_emotion_005, display: "怖い (kowai)", input: "怖い (kowai)", meaning: "scary, frightening / afraid, fearful", level: "JLPT N4-N5", category: "emotion", source: "[[emotions-personality-vocabulary-jp]]" }
+- { id: jp_emotion_006, display: "恥ずかしい (hazukashii)", input: "恥ずかしい (hazukashii)", meaning: "embarrassing, ashamed, shy", level: "JLPT N4-N5", category: "emotion", source: "[[emotions-personality-vocabulary-jp]]" }
+- { id: jp_emotion_007, display: "嫉妬 (shitto)", input: "嫉妬 (shitto)", meaning: "jealousy, envy", level: "JLPT N4-N5", category: "emotion", source: "[[emotions-personality-vocabulary-jp]]" }
+- { id: jp_emotion_008, display: "不安 (fuan)", input: "不安 (fuan)", meaning: "anxiety, uneasiness, worry", level: "JLPT N4-N5", category: "emotion", source: "[[emotions-personality-vocabulary-jp]]" }
+- { id: jp_emotion_009, display: "緊張する (kinchou suru)", input: "緊張する (kinchou suru)", meaning: "to be nervous, to feel tense", level: "JLPT N4-N5", category: "emotion", source: "[[emotions-personality-vocabulary-jp]]" }
+- { id: jp_emotion_010, display: "感動", input: "感動", meaning: "deeply moved", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary-jp]]" }
+- { id: jp_emotion_011, display: "感謝する (kansha suru)", input: "感謝する (kansha suru)", meaning: "to be grateful, to appreciate, to thank", level: "JLPT N4-N5", category: "emotion", source: "[[emotions-personality-vocabulary-jp]]" }
+- { id: jp_emotion_012, display: "親切", input: "親切", meaning: "kind", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary-jp]]" }
+- { id: jp_emotion_013, display: "後悔", input: "後悔", meaning: "regret", level: "N5", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary-jp]]" }
+- { id: jp_emotion_014, display: "ときめく (tokimeku)", input: "ときめく (tokimeku)", meaning: "heart races, to flutter, to be excited (romantically)", level: "JLPT N4-N5", category: "emotion", source: "[[emotions-personality-vocabulary-jp]]" }
+- { id: jp_emotion_015, display: "綺麗 (kirei)", input: "綺麗 (kirei)", meaning: "beautiful, pretty, clean", level: "JLPT N4-N5", category: "emotion", source: "[[emotions-personality-vocabulary-jp]]" }
+- { id: jp_emotion_016, display: "可愛い (kawaii)", input: "可愛い (kawaii)", meaning: "cute, lovely, adorable", level: "JLPT N4-N5", category: "emotion", source: "[[emotions-personality-vocabulary-jp]]" }
+- { id: jp_emotion_017, display: "かっこいい (kakkoii)", input: "かっこいい (kakkoii)", meaning: "cool, stylish, handsome, impressive", level: "JLPT N4-N5", category: "emotion", source: "[[emotions-personality-vocabulary-jp]]" }
+- { id: jp_emotion_018, display: "悪い (warui)", input: "悪い (warui)", meaning: "bad, poor, wrong / sorry (apology)", level: "JLPT N4-N5", category: "emotion", source: "[[emotions-personality-vocabulary-jp]]" }
+- { id: jp_emotion_019, display: "良い / いい (yoi / ii)", input: "良い / いい (yoi / ii)", meaning: "good, nice, okay", level: "JLPT N4-N5", category: "emotion", source: "[[emotions-personality-vocabulary-jp]]" }
+- { id: jp_emotion_020, display: "高い (takai)", input: "高い (takai)", meaning: "high, tall, expensive", level: "JLPT N4-N5", category: "emotion", source: "[[emotions-personality-vocabulary-jp]]" }
+- { id: jp_emotion_021, display: "安い (yasui)", input: "安い (yasui)", meaning: "cheap, inexpensive, low (price)", level: "JLPT N4-N5", category: "emotion", source: "[[emotions-personality-vocabulary-jp]]" }
+- { id: jp_emotion_022, display: "機嫌が悪い (kigen ga warui)", input: "機嫌が悪い (kigen ga warui)", meaning: "in a bad mood, grumpy, irritable", level: "JLPT N4-N5", category: "emotion", source: "[[emotions-personality-vocabulary-jp]]" }
+- { id: jp_emotion_023, display: "明るい (akarui)", input: "明るい (akarui)", meaning: "bright, cheerful, optimistic", level: "JLPT N4-N5", category: "emotion", source: "[[emotions-personality-vocabulary-jp]]" }
+- { id: jp_emotion_024, display: "暗い (kurai)", input: "暗い (kurai)", meaning: "dark, gloomy, pessimistic", level: "JLPT N4-N5", category: "emotion", source: "[[emotions-personality-vocabulary-jp]]" }
+- { id: jp_emotion_025, display: "暑い (atsui)", input: "暑い (atsui)", meaning: "hot (weather, temperature)", level: "JLPT N4-N5", category: "emotion", source: "[[emotions-personality-vocabulary-jp]]" }
+- { id: jp_emotion_026, display: "寒い (samui)", input: "寒い (samui)", meaning: "cold (weather, temperature)", level: "JLPT N4-N5", category: "emotion", source: "[[emotions-personality-vocabulary-jp]]" }
+- { id: jp_emotion_027, display: "きつい (kitsui)", input: "きつい (kitsui)", meaning: "tight, strict, severe, tough, intense", level: "JLPT N4-N5", category: "emotion", source: "[[emotions-personality-vocabulary-jp]]" }
+- { id: jp_emotion_028, display: "緩い (yurui)", input: "緩い (yurui)", meaning: "loose, relaxed, lenient, slack", level: "JLPT N4-N5", category: "emotion", source: "[[emotions-personality-vocabulary-jp]]" }
+- { id: jp_emotion_029, display: "怠け者 (namakemono)", input: "怠け者 (namakemono)", meaning: "lazy person, slacker, idler", level: "JLPT N4-N5", category: "emotion", source: "[[emotions-personality-vocabulary-jp]]" }
+- { id: jp_emotion_030, display: "勤勉 (kinben)", input: "勤勉 (kinben)", meaning: "diligent, hardworking, industrious", level: "JLPT N4-N5", category: "emotion", source: "[[emotions-personality-vocabulary-jp]]" }
+- { id: jp_emotion_031, display: "沈着 (chinchaku)", input: "沈着 (chinchaku)", meaning: "calm, composed, serene, cool-headed", level: "JLPT N4-N5", category: "emotion", source: "[[emotions-personality-vocabulary-jp]]" }
+- { id: jp_emotion_032, display: "無礼 (burei)", input: "無礼 (burei)", meaning: "rude, impolite, disrespectful", level: "JLPT N4-N5", category: "emotion", source: "[[emotions-personality-vocabulary-jp]]" }
 ```
-

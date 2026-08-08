@@ -1,0 +1,64 @@
+# {Grammar Topic} — {한 줄 설명 / short description}
+
+**Type:** grammar
+**Level:** {A1-A2 / JLPT N5 / TOPIK 1-2 / HSK 1-2 / CEFR}
+**Date Added:** {YYYY-MM-DD}
+
+> 🇰🇷 **한국어 요약 (Korean Summary)**
+> - **핵심:** {1-line 핵심 설명}
+> - **한국어 차이:** {한국어 학습자가 주의할 점}
+> - **구조:** {핵심 공식 / pattern}
+> - **한국어 학습자 팁:** {팁}
+
+---
+
+## {Brief explanation of the grammar concept}
+
+{2-3 sentence intro. What is this concept? When is it used?}
+
+### 핵심 패턴 / Core pattern
+
+```
+{Formal pattern notation, e.g., [Subject] + [Verb] + [Object] + [Particle]}
+```
+
+| 패턴 | 예시 | 한국어 |
+|:---|:---|:---|
+| {Pattern 1} | {Example} | {Korean translation} |
+| {Pattern 2} | {Example} | {Korean translation} |
+
+### {Example sentences / 회화 / Ejemplos}
+
+> **A:** {Dialogue example 1}
+> ({pinyin / hiragana / IPA})
+> ({Korean translation})
+>
+> **B:** {Dialogue example 2}
+> ({pronunciation})
+> ({Korean translation})
+
+---
+
+## {Korean Learner Pitfalls / 한국어 학습자 주의}
+
+1. {Pitfall 1 — common mistake + correction}
+2. {Pitfall 2 — common mistake + correction}
+3. {Pitfall 3 — common mistake + correction}
+
+---
+
+## Cross-language Connections
+
+- **한국어:** {Korean equivalent or contrast}
+- **English:** {English equivalent or contrast}
+- **Spanish:** {Spanish equivalent or contrast (if applicable)}
+
+---
+
+## Sources
+
+- [[{raw-source-slug}]] - raw source (full reference)
+- [[comparative/{topic}]] - cross-language comparison (if applicable)
+- [[vocabulary-theme]] - apply this concept with related vocabulary
+
+> **TODO**: After filling, validate with `python3 Language/tools/validate_schema.py --lang {lang} --page-type grammar`

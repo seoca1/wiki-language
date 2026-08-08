@@ -1,5 +1,6 @@
 ---
 category: "past-tense"
+level: "A1-B1"
 ---
 
 # past-tense-grammar — Card-extracted vocabulary (2026-06-22 ~ latest)
@@ -24,11 +25,10 @@ Vocabulary extracted from .openclaw card_news archive slot [2]. Each entry is ge
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
-> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: es_past_tense_grammar_001, display: "ayer, anoche, la semana pasada, en 1492", input: "ayer, anoche, la semana pasada, en 1492", level: "** A1-B1", category: "past-tense-grammar", source: "[[past-tense-grammar]]" }
+- { id: es_past_tense_001, display: "ayer, anoche, la semana pasada, en 1492", input: "ayer, anoche, la semana pasada, en 1492", meaning: "", level: "A1-B1", category: "past-tense", source: "[[past-tense-grammar]]" }
 ```
-

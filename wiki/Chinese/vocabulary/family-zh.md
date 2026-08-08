@@ -1,5 +1,6 @@
 ---
 category: "family-zh"
+level: "HSK 1-2"
 ---
 
 # Family — 가족 (家庭成员)
@@ -288,19 +289,20 @@ category: "family-zh"
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/zh_words.md`).
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: zh_family_001, display: "爸爸", input: "ba4 ba", meaning: "아빠", level: "HSK 1", category: "family", source: "[[family-zh]]" }
-- { id: zh_family_002, display: "妈妈", input: "ma1 ma", meaning: "엄마", level: "HSK 1", category: "family", source: "[[family-zh]]" }
-- { id: zh_family_003, display: "哥哥", input: "ge1 ge", meaning: "형/오빠", level: "HSK 1", category: "family", source: "[[family-zh]]" }
-- { id: zh_family_004, display: "姐姐", input: "jie3 jie", meaning: "누나/언니", level: "HSK 1", category: "family", source: "[[family-zh]]" }
-- { id: zh_family_005, display: "弟弟", input: "di4 di", meaning: "남동생", level: "HSK 1", category: "family", source: "[[family-zh]]" }
-- { id: zh_family_006, display: "妹妹", input: "mei4 mei", meaning: "여동생", level: "HSK 1", category: "family", source: "[[family-zh]]" }
-- { id: zh_family_007, display: "爷爷", input: "ye2 ye", meaning: "할아버지(친)", level: "HSK 1", category: "family", source: "[[family-zh]]" }
-- { id: zh_family_008, display: "奶奶", input: "nai3 nai", meaning: "할머니(친)", level: "HSK 1", category: "family", source: "[[family-zh]]" }
-- { id: zh_family_009, display: "儿子", input: "er2 zi", meaning: "아들", level: "HSK 1", category: "family", source: "[[family-zh]]" }
-- { id: zh_family_010, display: "女儿", input: "nü3 er2", meaning: "딸", level: "HSK 1", category: "family", source: "[[family-zh]]" }
-- { id: zh_family_011, display: "老公", input: "lao3 gong1", meaning: "남편(구어)", level: "HSK 2", category: "family", source: "[[family-zh]]" }
+- { id: zh_family_zh_001, display: "爸爸 (bàba)", input: "爸爸 (bàba)", meaning: "아빠", level: "HSK 1-2", category: "family-zh", source: "[[family]]" }
+- { id: zh_family_zh_002, display: "妈妈 (māma)", input: "妈妈 (māma)", meaning: "엄마", level: "HSK 1-2", category: "family-zh", source: "[[family]]" }
+- { id: zh_family_zh_003, display: "哥哥 (gēge)", input: "哥哥 (gēge)", meaning: "형/오빠", level: "HSK 1-2", category: "family-zh", source: "[[family]]" }
+- { id: zh_family_zh_004, display: "姐姐 (jiějie)", input: "姐姐 (jiějie)", meaning: "누나/언니", level: "HSK 1-2", category: "family-zh", source: "[[family]]" }
+- { id: zh_family_zh_005, display: "弟弟 (dìdi)", input: "弟弟 (dìdi)", meaning: "남동생", level: "HSK 1-2", category: "family-zh", source: "[[family]]" }
+- { id: zh_family_zh_006, display: "妹妹 (mèimei)", input: "妹妹 (mèimei)", meaning: "여동생", level: "HSK 1-2", category: "family-zh", source: "[[family]]" }
+- { id: zh_family_zh_007, display: "爷爷 (yéye)", input: "爷爷 (yéye)", meaning: "할아버지 (친 paternal)", level: "HSK 1-2", category: "family-zh", source: "[[family]]" }
+- { id: zh_family_zh_008, display: "奶奶 (nǎinai)", input: "奶奶 (nǎinai)", meaning: "할머니 (친 paternal)", level: "HSK 1-2", category: "family-zh", source: "[[family]]" }
+- { id: zh_family_zh_009, display: "儿子 (érzi)", input: "儿子 (érzi)", meaning: "아들", level: "HSK 1-2", category: "family-zh", source: "[[family]]" }
+- { id: zh_family_zh_010, display: "女儿 (nǚ'ér)", input: "女儿 (nǚ'ér)", meaning: "딸", level: "HSK 1-2", category: "family-zh", source: "[[family]]" }
+- { id: zh_family_zh_011, display: "老公 (lǎogōng)", input: "老公 (lǎogōng)", meaning: "남편 (구어)", level: "HSK 1-2", category: "family-zh", source: "[[family]]" }
 ```

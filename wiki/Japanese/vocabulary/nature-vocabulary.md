@@ -897,40 +897,39 @@ This page aggregates all nature and weather vocabulary for the typing language g
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
-> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: jp_nature_vocabulary_001, display: "天気", input: "天気", meaning: "weather", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: jp_nature_vocabulary_002, display: "雨", input: "雨", meaning: "rain", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: jp_nature_vocabulary_003, display: "雪", input: "雪", meaning: "snow", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: jp_nature_vocabulary_004, display: "風", input: "風", meaning: "wind", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: jp_nature_vocabulary_005, display: "雲", input: "雲", meaning: "cloud", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: jp_nature_vocabulary_006, display: "雷", input: "雷", meaning: "thunder/lightning", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: jp_nature_vocabulary_007, display: "嵐", input: "嵐", meaning: "storm", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: jp_nature_vocabulary_008, display: "太陽", input: "太陽", meaning: "sun", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: jp_nature_vocabulary_009, display: "星", input: "星", meaning: "star", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: jp_nature_vocabulary_010, display: "月", input: "月", meaning: "moon", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: jp_nature_vocabulary_011, display: "空", input: "空", meaning: "sky", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: jp_nature_vocabulary_012, display: "虹", input: "虹", meaning: "rainbow", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: jp_nature_vocabulary_013, display: "海", input: "海", meaning: "sea", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: jp_nature_vocabulary_014, display: "湖", input: "湖", meaning: "lake", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: jp_nature_vocabulary_015, display: "川", input: "川", meaning: "river", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: jp_nature_vocabulary_016, display: "山", input: "山", meaning: "mountain", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: jp_nature_vocabulary_017, display: "森", input: "森", meaning: "forest", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: jp_nature_vocabulary_018, display: "谷", input: "谷", meaning: "valley", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: jp_nature_vocabulary_019, display: "丘", input: "丘", meaning: "hill", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: jp_nature_vocabulary_020, display: "島", input: "島", meaning: "island", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: jp_nature_vocabulary_021, display: "砂漠", input: "砂漠", meaning: "desert", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: jp_nature_vocabulary_022, display: "草原", input: "草原", meaning: "grassland", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: jp_nature_vocabulary_023, display: "成長する", input: "成長する", meaning: "grow", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: jp_nature_vocabulary_024, display: "落ちる", input: "落ちる", meaning: "fall down", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: jp_nature_vocabulary_025, display: "溶ける", input: "溶ける", meaning: "melt", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: jp_nature_vocabulary_026, display: "凍る", input: "凍る", meaning: "freeze", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: jp_nature_vocabulary_027, display: "咲く", input: "咲く", meaning: "bloom", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: jp_nature_vocabulary_028, display: "狩る", input: "狩る", meaning: "hunt", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: jp_nature_vocabulary_029, display: "洗う", input: "洗う", meaning: "wash", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: jp_nature_vocabulary_030, display: "風邪", input: "風邪", meaning: "cold (illness)", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
+- { id: jp_nature_001, display: "天気", input: "天気", meaning: "weather", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
+- { id: jp_nature_002, display: "雨", input: "雨", meaning: "rain", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
+- { id: jp_nature_003, display: "雪", input: "雪", meaning: "snow", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
+- { id: jp_nature_004, display: "風", input: "風", meaning: "wind", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
+- { id: jp_nature_005, display: "雲", input: "雲", meaning: "cloud", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
+- { id: jp_nature_006, display: "雷", input: "雷", meaning: "thunder/lightning", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
+- { id: jp_nature_007, display: "嵐", input: "嵐", meaning: "storm", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
+- { id: jp_nature_008, display: "太陽", input: "太陽", meaning: "sun", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
+- { id: jp_nature_009, display: "星", input: "星", meaning: "star", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
+- { id: jp_nature_010, display: "月", input: "月", meaning: "moon", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
+- { id: jp_nature_011, display: "空", input: "空", meaning: "sky", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
+- { id: jp_nature_012, display: "虹", input: "虹", meaning: "rainbow", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
+- { id: jp_nature_013, display: "海", input: "海", meaning: "sea", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
+- { id: jp_nature_014, display: "湖", input: "湖", meaning: "lake", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
+- { id: jp_nature_015, display: "川", input: "川", meaning: "river", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
+- { id: jp_nature_016, display: "山", input: "山", meaning: "mountain", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
+- { id: jp_nature_017, display: "森", input: "森", meaning: "forest", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
+- { id: jp_nature_018, display: "谷", input: "谷", meaning: "valley", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
+- { id: jp_nature_019, display: "丘", input: "丘", meaning: "hill", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
+- { id: jp_nature_020, display: "島", input: "島", meaning: "island", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
+- { id: jp_nature_021, display: "砂漠", input: "砂漠", meaning: "desert", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
+- { id: jp_nature_022, display: "草原", input: "草原", meaning: "grassland", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
+- { id: jp_nature_023, display: "成長する", input: "成長する", meaning: "grow", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
+- { id: jp_nature_024, display: "落ちる", input: "落ちる", meaning: "fall down", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
+- { id: jp_nature_025, display: "溶ける", input: "溶ける", meaning: "melt", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
+- { id: jp_nature_026, display: "凍る", input: "凍る", meaning: "freeze", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
+- { id: jp_nature_027, display: "咲く", input: "咲く", meaning: "bloom", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
+- { id: jp_nature_028, display: "狩る", input: "狩る", meaning: "hunt", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
+- { id: jp_nature_029, display: "洗う", input: "洗う", meaning: "wash", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
+- { id: jp_nature_030, display: "風邪", input: "風邪", meaning: "cold (illness)", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
 ```
-

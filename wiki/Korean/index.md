@@ -1,6 +1,6 @@
 # Korean Learning Wiki - Index
 
-Last updated: 2026-07-29 (cross-cutting comparative/grammar pages added) (index sync: added greetings-vocabulary + numbers-vocabulary from topik1-starter)
+Last updated: 2026-08-08 (Track B: 2 grammar pages + speech-levels/particles raw sources added)
 
 ## Vocabulary
 
@@ -15,6 +15,10 @@ Last updated: 2026-07-29 (cross-cutting comparative/grammar pages added) (index 
 - [[business-vocabulary]] - 비즈니스 어휘 (Business) — 이메일, 회의, 직장, 계약 (TOPIK 2~3)
 - [[food-vocabulary]] - 음식 어휘 (Food & Restaurant) — 기본 식재료, 요리, 한국 음식, 식당 표현 (TOPIK 1~2)
 - [[emotions-personality-vocabulary]] - 감정·성격 어휘 (Emotions & Personality) — 기본/복합 감정, 성격 표현 (TOPIK 2~3)
+- [[sports-vocabulary]] - 스포츠 어휘 (Sports & Hobbies) — 축구/야구/농구/수영/등산/태권도/e스포츠 (2026-08-08 신규, 17 entries, sports-and-hobbies source)
+- [[shopping-vocabulary]] - 쇼핑 어휘 (Shopping & Money) — 편의점/현금/카드/할인/환불/입어보기 (2026-08-08 신규, 18 entries, shopping-and-money source)
+- [[holidays-vocabulary]] - 명절 어휘 (Holidays & Celebrations) — 설날/추석/크리스마스/발렌타인/세배/송편 (2026-08-08 신규, 18 entries, holidays-and-celebrations source)
+- [[literature-vocabulary]] - 문학 어휘 (Literature) — 소설/시/수필/희곡/주인공/주제/고전문학/현대문학 (2026-08-08 신규, 19 entries, literature-passages source)
 - [[transportation]] - 교통 어휘 (Transportation) — 자동차, 지하철, 기차, 버스, 택시, 비행기 (2026-07-19 신설, 통합 theme file)
 - [[weather-nature]] - 날씨·자연 어휘 (Weather & Nature) — 사계절, 날씨 현상, 자연 환경 (2026-07-19 신설, 통합 theme file)
 - [[body-family]] - 신체·가족 어휘 (Body & Family) — 신체 부위, 가족 관계, 외모, 성격 (2026-07-19 신설, 통합 theme file)
@@ -46,6 +50,13 @@ Last updated: 2026-07-29 (cross-cutting comparative/grammar pages added) (index 
 - [[korean-hallyu-wave]] - 한류 (Korean Wave) — K-pop, K-drama, K-beauty, K-food 산업 + 정/눈치/한 한류의 문화적 뿌리
 - [[korean-family-holidays]] - 한국 가족 명절 — 설날/추석/차례/세배/성묘 (2026-07-19 신규, 가족 중심 명절 문화)
 - [[korean-workplace-culture]] - 한국 직장 문화 — 눈치/선후배/회식/수직적 관계/996/워라밸 (2026-07-19 신규)
+
+## Grammar (2 entries)
+
+Dedicated grammar pages for Korean-specific patterns (added 2026-08-08):
+
+- [[speech-levels-ko]] - 경어법 (Speech Levels) — 4대 격식체 (합쇼체/해요체/해체/하소서체) + 시제 결합
+- [[particles-ko]] - 조사 (Particles) — 12대 핵심 조사 (이/가/은/는/을/를/의/에/에서/로/으로/와/과/만/도/처럼/(이)라) + 받침 有/無 변형
 
 ## Sources (12 processed)
 

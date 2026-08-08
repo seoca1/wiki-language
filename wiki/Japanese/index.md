@@ -1,6 +1,6 @@
 # Japanese Learning Wiki - Index
 
-Last updated: 2026-07-29 (cross-cutting comparative/grammar pages added) (index sync: added japanese-holiday-culture.md)
+Last updated: 2026-08-08 (Track B: 2 grammar pages + particles/verb-forms raw sources added)
 
 ## Vocabulary
 
@@ -15,6 +15,12 @@ Last updated: 2026-07-29 (cross-cutting comparative/grammar pages added) (index 
 - [[nature-vocabulary]] - 自然と天気 — 現象、地形、植物
 - [[animals-vocabulary]] - 動物 — ペット、野生動物、昆虫、海洋動物、伝説の動物
 - [[clothing-vocabulary]] - 衣服とファッション — 衣類、材料、色、動詞
+- [[sports-vocabulary]] - スポーツと趣味 — 野球、サッカー、テニス、武道、温泉、カラオケ (2026-08-08 신규, 16 entries, sports-and-hobbies source)
+- [[shopping-vocabulary]] - 買い物とお金 — コンビニ・現金・カード・割引・試着・サイズ (2026-08-08 신규, 18 entries, shopping-and-money source)
+- [[holidays-vocabulary]] - 祝日とお祝い — 正月、バレンタイン、クリスマス、結婚式、祭り、花火 (2026-08-08 신규, 18 entries, holidays-and-celebrations source)
+- [[literature-vocabulary]] - 文学と文体 — 小説、詩、俳句、主人公、テーマ、古典/現代文学 (2026-08-08 신규, 19 entries, literature-passages source)
+- [[adventure-vocabulary]] - 旅行と冒険 — アウトドア、キャンプ用品、天気、緊急、登山道 (2026-08-08 신규, 19 entries, travel-adventure source)
+- [[entertainment-vocabulary]] - エンタメ・アニメ/ドラマ — 仲間、夢、自由、心、正義 (2026-08-08 신규, 17 entries, anime-drama-quotes source)
 
 ### JLPT / Counters
 
@@ -39,6 +45,13 @@ Last updated: 2026-07-29 (cross-cutting comparative/grammar pages added) (index 
 - [[japanese-traditions]] - 日本の伝統文化 — お辞儀・お箸・お正月・お葬式・お寺・神社・冠婚葬祭 (2026-07-19 신규)
 - [[japanese-holiday-culture]] - 日本の祝日文化 — 正月・ゴールデンウィーク・お盆・文化の日・クリスマス (2026-07-19 신규)
 - [[japanese-food-culture]] - 日本の食文化 — 和食, 寿司/ラーメン, 旬, 8地方料理, テーブルマナー
+
+## Grammar (2 entries)
+
+Dedicated grammar pages for Japanese-specific patterns (added 2026-08-08):
+
+- [[particles-jp]] - 助詞 (조사) — 9대 핵심 조사 は/が/を/に/で/へ/から/まで/より
+- [[verb-forms-jp]] - 動詞の形式 (동사 형식) — 6가지 기본 형식 (辞書/ます/て/た/ない/意向) + 3 그룹 (五段/一段/不規則)
 
 ## Sources (15 processed)
 

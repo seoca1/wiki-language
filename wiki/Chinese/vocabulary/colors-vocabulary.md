@@ -292,7 +292,9 @@ Chinese colors 어휘는 일상 대화에서 자주 사용됨.
 
 ## Pipeline Form (machine-readable)
 
-> Machine-readable for cross-language indexers.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
 - { id: zh_colors_001, display: "红 (hóng, 紅)", input: "红 (hóng, 紅)", meaning: "red", level: "HSK 1", category: "colors", source: "[[colors-vocabulary]]" }
@@ -301,8 +303,4 @@ Chinese colors 어휘는 일상 대화에서 자주 사용됨.
 - { id: zh_colors_004, display: "黄 (huáng, 黃)", input: "黄 (huáng, 黃)", meaning: "yellow", level: "HSK 1", category: "colors", source: "[[colors-vocabulary]]" }
 - { id: zh_colors_005, display: "黑 (hēi, 黑)", input: "黑 (hēi, 黑)", meaning: "black", level: "HSK 1", category: "colors", source: "[[colors-vocabulary]]" }
 - { id: zh_colors_006, display: "白 (bái, 白)", input: "白 (bái, 白)", meaning: "white", level: "HSK 1", category: "colors", source: "[[colors-vocabulary]]" }
-- { id: zh_colors_007, display: "红 (hóng, 紅)", input: "红 (hóng, 紅)", meaning: "red", level: "HSK 1", category: "colors", source: "[[colors-vocabulary]]" }
-- { id: zh_colors_008, display: "蓝 (lán, 藍)", input: "蓝 (lán, 藍)", meaning: "blue", level: "HSK 1", category: "colors", source: "[[colors-vocabulary]]" }
-- { id: zh_colors_009, display: "绿 (lǜ, 綠)", input: "绿 (lǜ, 綠)", meaning: "green", level: "HSK 1", category: "colors", source: "[[colors-vocabulary]]" }
-- { id: zh_colors_010, display: "黄 (huáng, 黃)", input: "黄 (huáng, 黃)", meaning: "yellow", level: "HSK 1", category: "colors", source: "[[colors-vocabulary]]" }
 ```

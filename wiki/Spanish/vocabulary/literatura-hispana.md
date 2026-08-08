@@ -308,3 +308,20 @@ Vocabulario clave para leer literatura clásica y contemporánea en español: au
 - [[literatura-hispana]]
 ---
 
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: es_literature_001, display: "cervantes", input: "cervantes", meaning: "Miguel de Cervantes Saavedra (1547-1616), autor de *Don Quijote de la Mancha* (1605/1615), considerada la primera novela moderna.", level: "C1-C2", category: "literature", source: "[[literatura-hispana]]" }
+- { id: es_literature_002, display: "don-quijote", input: "don-quijote", meaning: "*Don Quijote de la Mancha* (1605/1615), novela de Cervantes. Protagonista: Alonso Quijano → Don Quijote (caballero andante), Sancho Panza (escudero).", level: "C1-C2", category: "literature", source: "[[literatura-hispana]]" }
+- { id: es_literature_003, display: "cien-anos-de-soledad", input: "cien-anos-de-soledad", meaning: "*Cien años de soledad* (1967), novela de Gabriel García Márquez. Macondo, familia Buendía, 100 años, realismo mágico.", level: "C1-C2", category: "literature", source: "[[literatura-hispana]]" }
+- { id: es_literature_004, display: "garcia-marquez", input: "garcia-marquez", meaning: "Gabriel García Márquez (1927-2014), Nobel Literatura 1982. Colombiano. *Cien años de soledad*, *El amor en los tiempos del cólera*, *Crónica de una muerte anunciada*, *El otoño del patriarca*.", level: "C1-C2", category: "literature", source: "[[literatura-hispana]]" }
+- { id: es_literature_005, display: "la-casa-de-los-espiritus", input: "la-casa-de-los-espiritus", meaning: "*La casa de los espíritus* (1982), novela de Isabel Allende. Chile, familia Trueba, saga familiar, realismo mágico, voz femenina.", level: "C1-C2", category: "literature", source: "[[literatura-hispana]]" }
+- { id: es_literature_006, display: "isabel-allende", input: "isabel-allende", meaning: "Isabel Allende Llona (1942-), escritora chilena. *La casa de los espíritus*, *De amor y de sombra*, *Eva Luna*, *Paula*, *El amante japonés*. Premio Nacional Literatura Chile 2010.", level: "C1-C2", category: "literature", source: "[[literatura-hispana]]" }
+- { id: es_literature_007, display: "el-amor-en-los-tiempos-del-colera", input: "el-amor-en-los-tiempos-del-colera", meaning: "*El amor en los tiempos del cólera* (1985), novela de García Márquez. Florentino Ariza + Fermina Daza, 50 años espera, amor vejez.", level: "C1-C2", category: "literature", source: "[[literatura-hispana]]" }
+- { id: es_literature_008, display: "rayuela", input: "rayuela", meaning: "*Rayuela* (1963), novela de Julio Cortázar. Estructura hopscotch (rayuela): 2 órdenes lectura (cap. 1-56 lineal / "tablero" saltando). París/Buenos Aires, La Maga, Oliveira.", level: "C1-C2", category: "literature", source: "[[literatura-hispana]]" }
+- { id: es_literature_009, display: "julio-cortazar", input: "julio-cortazar", meaning: "Julio Cortázar (1914-1984), escritor argentino. *Rayuela*, *Bestiario*, *Final del juego*, *Los premios*, *Historias de cronopios y de famas*. Exilio París 1951.", level: "C1-C2", category: "literature", source: "[[literatura-hispana]]" }
+```

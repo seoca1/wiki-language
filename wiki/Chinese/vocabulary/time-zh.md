@@ -432,22 +432,23 @@ theme: "education"
 
 ## Pipeline Form (machine-readable)
 
-> Machine-readable for cross-language indexers / game corpus extraction.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: ch_education_001, display: "现在", input: "现在", meaning: "지금 (현재)", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_002, display: "今天", input: "今天", meaning: "오늘", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_003, display: "明天", input: "明天", meaning: "내일", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_004, display: "昨天", input: "昨天", meaning: "어제", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_005, display: "早上", input: "早上", meaning: "아침", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_006, display: "晚上", input: "晚上", meaning: "저녁", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_007, display: "中午", input: "中午", meaning: "점심", level: "HSK 2", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_008, display: "上午", input: "上午", meaning: "오전", level: "HSK 2", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_009, display: "下午", input: "下午", meaning: "오후", level: "HSK 2", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_010, display: "小时", input: "小时", meaning: "시간 (단위)", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_011, display: "分钟", input: "分钟", meaning: "분 (단위)", level: "HSK 2", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_012, display: "秒钟", input: "秒钟", meaning: "초 (단위)", level: "HSK 3", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_013, display: "星期", input: "星期", meaning: "요일", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_014, display: "周末", input: "周末", meaning: "주말", level: "HSK 2", category: "education", source: "[[education-vocabulary]]" }
-- { id: ch_education_015, display: "现在", input: "现在", meaning: "현재", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
+- { id: zh_time_001, display: "现在", input: "现在", meaning: "현재", level: "HSK 1", category: "education", source: "[[time]]" }
+- { id: zh_time_002, display: "今天", input: "今天", meaning: "오늘", level: "HSK 1", category: "education", source: "[[time]]" }
+- { id: zh_time_003, display: "明天", input: "明天", meaning: "내일", level: "HSK 1", category: "education", source: "[[time]]" }
+- { id: zh_time_004, display: "昨天", input: "昨天", meaning: "어제", level: "HSK 1", category: "education", source: "[[time]]" }
+- { id: zh_time_005, display: "早上", input: "早上", meaning: "아침", level: "HSK 1", category: "education", source: "[[time]]" }
+- { id: zh_time_006, display: "晚上", input: "晚上", meaning: "저녁", level: "HSK 1", category: "education", source: "[[time]]" }
+- { id: zh_time_007, display: "中午", input: "中午", meaning: "점심", level: "HSK 2", category: "education", source: "[[time]]" }
+- { id: zh_time_008, display: "上午", input: "上午", meaning: "오전", level: "HSK 2", category: "education", source: "[[time]]" }
+- { id: zh_time_009, display: "下午", input: "下午", meaning: "오후", level: "HSK 2", category: "education", source: "[[time]]" }
+- { id: zh_time_010, display: "小时", input: "小时", meaning: "시간 (단위)", level: "HSK 1", category: "education", source: "[[time]]" }
+- { id: zh_time_011, display: "分钟", input: "分钟", meaning: "분 (단위)", level: "HSK 2", category: "education", source: "[[time]]" }
+- { id: zh_time_012, display: "秒钟", input: "秒钟", meaning: "초 (단위)", level: "HSK 3", category: "education", source: "[[time]]" }
+- { id: zh_time_013, display: "星期", input: "星期", meaning: "요일", level: "HSK 1", category: "education", source: "[[time]]" }
+- { id: zh_time_014, display: "周末", input: "周末", meaning: "주말", level: "HSK 2", category: "education", source: "[[time]]" }
 ```

@@ -292,17 +292,19 @@ Japanese health 어휘는 일상 대화에서 자주 사용됨.
 
 ## Pipeline Form (machine-readable)
 
-> Machine-readable for cross-language indexers.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: ja_health_001, display: "病院 (びょういん)", input: "病院 (びょういん)", meaning: "병원", level: "N5", category: "health", source: "[[health-vocabulary]]" }
-- { id: ja_health_002, display: "医者 (いしゃ)", input: "医者 (いしゃ)", meaning: "의사", level: "N5", category: "health", source: "[[health-vocabulary]]" }
-- { id: ja_health_003, display: "薬 (くすり)", input: "薬 (くすり)", meaning: "약", level: "N5", category: "health", source: "[[health-vocabulary]]" }
-- { id: ja_health_004, display: "頭痛 (ずつう)", input: "頭痛 (ずつう)", meaning: "두통", level: "N5", category: "health", source: "[[health-vocabulary]]" }
-- { id: ja_health_005, display: "熱 (ねつ)", input: "熱 (ねつ)", meaning: "열", level: "N5", category: "health", source: "[[health-vocabulary]]" }
-- { id: ja_health_006, display: "風邪 (かぜ)", input: "風邪 (かぜ)", meaning: "감기", level: "N5", category: "health", source: "[[health-vocabulary]]" }
-- { id: ja_health_007, display: "頭 (あたま)", input: "頭 (あたま)", meaning: "머리", level: "N5", category: "health", source: "[[health-vocabulary]]" }
-- { id: ja_health_008, display: "胃 (い)", input: "胃 (い)", meaning: "위", level: "N5", category: "health", source: "[[health-vocabulary]]" }
-- { id: ja_health_009, display: "薬局 (やっきょく)", input: "薬局 (やっきょく)", meaning: "약국", level: "N5", category: "health", source: "[[health-vocabulary]]" }
-- { id: ja_health_010, display: "予約 (よやく)", input: "予約 (よやく)", meaning: "예약", level: "N5", category: "health", source: "[[health-vocabulary]]" }
+- { id: jp_health_001, display: "病院 (びょういん)", input: "病院 (びょういん)", meaning: "병원", level: "N5", category: "health", source: "[[health-vocabulary]]" }
+- { id: jp_health_002, display: "医者 (いしゃ)", input: "医者 (いしゃ)", meaning: "의사", level: "N5", category: "health", source: "[[health-vocabulary]]" }
+- { id: jp_health_003, display: "薬 (くすり)", input: "薬 (くすり)", meaning: "약", level: "N5", category: "health", source: "[[health-vocabulary]]" }
+- { id: jp_health_004, display: "頭痛 (ずつう)", input: "頭痛 (ずつう)", meaning: "두통", level: "N5", category: "health", source: "[[health-vocabulary]]" }
+- { id: jp_health_005, display: "熱 (ねつ)", input: "熱 (ねつ)", meaning: "열", level: "N5", category: "health", source: "[[health-vocabulary]]" }
+- { id: jp_health_006, display: "風邪 (かぜ)", input: "風邪 (かぜ)", meaning: "감기", level: "N5", category: "health", source: "[[health-vocabulary]]" }
+- { id: jp_health_007, display: "頭 (あたま)", input: "頭 (あたま)", meaning: "머리", level: "N5", category: "health", source: "[[health-vocabulary]]" }
+- { id: jp_health_008, display: "胃 (い)", input: "胃 (い)", meaning: "위", level: "N5", category: "health", source: "[[health-vocabulary]]" }
+- { id: jp_health_009, display: "薬局 (やっきょく)", input: "薬局 (やっきょく)", meaning: "약국", level: "N5", category: "health", source: "[[health-vocabulary]]" }
+- { id: jp_health_010, display: "予約 (よやく)", input: "予約 (よやく)", meaning: "예약", level: "N5", category: "health", source: "[[health-vocabulary]]" }
 ```

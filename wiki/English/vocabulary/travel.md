@@ -1,5 +1,6 @@
 ---
 category: "travel"
+level: "A1-A2"
 ---
 
 # Travel Essentials
@@ -177,20 +178,7 @@ category: "travel"
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: 001, display: "Where is...?", input: "Where is...?", meaning: "...는 어디에 있나요?", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 002, display: "How do I get to...?", input: "How do I get to...?", meaning: "...에 어떻게 가나요?", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 003, display: "Go straight", input: "Go straight", meaning: "직진하세요", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 004, display: "Turn left / right", input: "Turn left / right", meaning: "좌회전/우회전하세요", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 005, display: "on the left / right", input: "on the left / right", meaning: "왼쪽/오른쪽에", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 006, display: "next to", input: "next to", meaning: "옆에", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 007, display: "across from", input: "across from", meaning: "건너편에", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 008, display: "between", input: "between", meaning: "사이에", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 009, display: "near", input: "near", meaning: "가까이에", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 010, display: "far", input: "far", meaning: "멀리", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 011, display: "Excuse me", input: "Excuse me", meaning: "실례합니다 (호출)", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 012, display: "How much?", input: "How much?", meaning: "얼마예요?", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 013, display: "Where is the bathroom?", input: "Where is the bathroom?", meaning: "화장실 어디예요?", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 014, display: "I don't understand", input: "I don't understand", meaning: "이해가 안 돼요", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 015, display: "Could you help me?", input: "Could you help me?", meaning: "도와주실 수 있나요?", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: 016, display: "Thank you", input: "Thank you", meaning: "감사합니다", level: "A1-A2", category: "travel", source: "[[travel]]" }
+- { id: en_travel_001, display: "Nouns", input: "Nouns", meaning: "", level: "A1-A2", category: "travel", source: "[[travel]]" }
+- { id: en_travel_002, display: "Verbs", input: "Verbs", meaning: "", level: "A1-A2", category: "travel", source: "[[travel]]" }
+- { id: en_travel_003, display: "Key Phrases", input: "Key Phrases", meaning: "", level: "A1-A2", category: "travel", source: "[[travel]]" }
 ```

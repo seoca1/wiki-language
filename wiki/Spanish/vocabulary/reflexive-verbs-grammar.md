@@ -1,5 +1,6 @@
 ---
 category: "reflexive-verbs"
+level: "A1-B1"
 ---
 
 # reflexive-verbs-grammar — Card-extracted vocabulary (2026-06-22 ~ latest)
@@ -64,15 +65,14 @@ Vocabulary extracted from .openclaw card_news archive slot [2]. Each entry is ge
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
-> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: es_reflexive_verbs_grammar_001, display: "me", input: "me", level: "** A1-B1", category: "reflexive-verbs-grammar", source: "[[reflexive-verbs-grammar]]" }
-- { id: es_reflexive_verbs_grammar_002, display: "te", input: "te", level: "** A1-B1", category: "reflexive-verbs-grammar", source: "[[reflexive-verbs-grammar]]" }
-- { id: es_reflexive_verbs_grammar_003, display: "se", input: "se", level: "** A1-B1", category: "reflexive-verbs-grammar", source: "[[reflexive-verbs-grammar]]" }
-- { id: es_reflexive_verbs_grammar_004, display: "nos", input: "nos", level: "** A1-B1", category: "reflexive-verbs-grammar", source: "[[reflexive-verbs-grammar]]" }
-- { id: es_reflexive_verbs_grammar_005, display: "os", input: "os", level: "** A1-B1", category: "reflexive-verbs-grammar", source: "[[reflexive-verbs-grammar]]" }
+- { id: es_reflexive_verbs_001, display: "me", input: "me", meaning: "", level: "A1-B1", category: "reflexive-verbs", source: "[[reflexive-verbs-grammar]]" }
+- { id: es_reflexive_verbs_002, display: "te", input: "te", meaning: "", level: "A1-B1", category: "reflexive-verbs", source: "[[reflexive-verbs-grammar]]" }
+- { id: es_reflexive_verbs_003, display: "se", input: "se", meaning: "", level: "A1-B1", category: "reflexive-verbs", source: "[[reflexive-verbs-grammar]]" }
+- { id: es_reflexive_verbs_004, display: "nos", input: "nos", meaning: "", level: "A1-B1", category: "reflexive-verbs", source: "[[reflexive-verbs-grammar]]" }
+- { id: es_reflexive_verbs_005, display: "os", input: "os", meaning: "", level: "A1-B1", category: "reflexive-verbs", source: "[[reflexive-verbs-grammar]]" }
 ```
-

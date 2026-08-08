@@ -1,5 +1,6 @@
 ---
 category: "weather"
+level: "A1-B1"
 ---
 
 # weather-vocabulary — Card-extracted vocabulary (2026-06-22 ~ latest)
@@ -234,18 +235,17 @@ Contexto cultural por añadir
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
-> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: es_weather_vocabulary_001, display: "hace calor", input: "hace calor", meaning: "**Pronunciation / IPA:**", level: "** A1-B1", category: "weather-vocabulary", source: "[[weather-vocabulary]]" }
-- { id: es_weather_vocabulary_002, display: "frío", input: "frío", meaning: "Cold / Cold weather.", level: "** A1-B1", category: "weather-vocabulary", source: "[[weather-vocabulary]]" }
-- { id: es_weather_vocabulary_003, display: "sol", input: "sol", meaning: "Sun (star; sunlight).", level: "** A1-B1", category: "weather-vocabulary", source: "[[weather-vocabulary]]" }
-- { id: es_weather_vocabulary_004, display: "viento", input: "viento", meaning: "Wind (moving air).", level: "** A1-B1", category: "weather-vocabulary", source: "[[weather-vocabulary]]" }
-- { id: es_weather_vocabulary_005, display: "está nublado", input: "está nublado", meaning: "**Pronunciation / IPA:**", level: "** A1-B1", category: "weather-vocabulary", source: "[[weather-vocabulary]]" }
-- { id: es_weather_vocabulary_006, display: "soleado", input: "soleado", meaning: "Sunny (clear weather).", level: "** A1-B1", category: "weather-vocabulary", source: "[[weather-vocabulary]]" }
-- { id: es_weather_vocabulary_007, display: "despejado", input: "despejado", meaning: "Clear (cloudless sky).", level: "** A1-B1", category: "weather-vocabulary", source: "[[weather-vocabulary]]" }
-- { id: es_weather_vocabulary_008, display: "llueve", input: "llueve", meaning: "It rains (verb form).", level: "** A1-B1", category: "weather-vocabulary", source: "[[weather-vocabulary]]" }
+- { id: es_weather_001, display: "hace calor", input: "hace calor", meaning: "**Pronunciation / IPA:**", level: "** A1-B1", category: "weather-vocabulary", source: "[[weather-vocabulary]]" }
+- { id: es_weather_002, display: "frío", input: "frío", meaning: "Cold / Cold weather.", level: "** A1-B1", category: "weather-vocabulary", source: "[[weather-vocabulary]]" }
+- { id: es_weather_003, display: "sol", input: "sol", meaning: "Sun (star; sunlight).", level: "** A1-B1", category: "weather-vocabulary", source: "[[weather-vocabulary]]" }
+- { id: es_weather_004, display: "viento", input: "viento", meaning: "Wind (moving air).", level: "** A1-B1", category: "weather-vocabulary", source: "[[weather-vocabulary]]" }
+- { id: es_weather_005, display: "está nublado", input: "está nublado", meaning: "**Pronunciation / IPA:**", level: "** A1-B1", category: "weather-vocabulary", source: "[[weather-vocabulary]]" }
+- { id: es_weather_006, display: "soleado", input: "soleado", meaning: "Sunny (clear weather).", level: "** A1-B1", category: "weather-vocabulary", source: "[[weather-vocabulary]]" }
+- { id: es_weather_007, display: "despejado", input: "despejado", meaning: "Clear (cloudless sky).", level: "** A1-B1", category: "weather-vocabulary", source: "[[weather-vocabulary]]" }
+- { id: es_weather_008, display: "llueve", input: "llueve", meaning: "It rains (verb form).", level: "** A1-B1", category: "weather-vocabulary", source: "[[weather-vocabulary]]" }
 ```
-

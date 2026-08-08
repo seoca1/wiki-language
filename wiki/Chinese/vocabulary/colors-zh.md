@@ -1,5 +1,6 @@
 ---
 category: "colors-zh"
+level: "HSK 1-2"
 ---
 
 # Colors — 색깔 (颜色)
@@ -289,19 +290,20 @@ category: "colors-zh"
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/zh_words.md`).
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: zh_colors_001, display: "红色", input: "hong2 se4", meaning: "빨강", level: "HSK 1", category: "colors", source: "[[colors-zh]]" }
-- { id: zh_colors_002, display: "蓝色", input: "lan2 se4", meaning: "파랑", level: "HSK 1", category: "colors", source: "[[colors-zh]]" }
-- { id: zh_colors_003, display: "黄色", input: "huang2 se4", meaning: "노랑", level: "HSK 1", category: "colors", source: "[[colors-zh]]" }
-- { id: zh_colors_004, display: "绿色", input: "lü4 se4", meaning: "초록", level: "HSK 1", category: "colors", source: "[[colors-zh]]" }
-- { id: zh_colors_005, display: "白色", input: "bai2 se4", meaning: "흰색", level: "HSK 1", category: "colors", source: "[[colors-zh]]" }
-- { id: zh_colors_006, display: "黑色", input: "hei1 se4", meaning: "검정", level: "HSK 1", category: "colors", source: "[[colors-zh]]" }
-- { id: zh_colors_007, display: "灰色", input: "hui1 se4", meaning: "회색", level: "HSK 2", category: "colors", source: "[[colors-zh]]" }
-- { id: zh_colors_008, display: "橙色", input: "cheng2 se4", meaning: "주황", level: "HSK 2", category: "colors", source: "[[colors-zh]]" }
-- { id: zh_colors_009, display: "紫色", input: "zi3 se4", meaning: "보라", level: "HSK 2", category: "colors", source: "[[colors-zh]]" }
-- { id: zh_colors_010, display: "棕色", input: "zong1 se4", meaning: "갈색", level: "HSK 2", category: "colors", source: "[[colors-zh]]" }
-- { id: zh_colors_011, display: "青色", input: "qing1 se4", meaning: "청록/하늘색", level: "HSK 2", category: "colors", source: "[[colors-zh]]" }
+- { id: zh_colors_zh_001, display: "红色 (hóngsè)", input: "红色 (hóngsè)", meaning: "빨강, 빨간색", level: "HSK 1-2", category: "colors-zh", source: "[[colors]]" }
+- { id: zh_colors_zh_002, display: "蓝色 (lánsè)", input: "蓝色 (lánsè)", meaning: "파랑, 파란색", level: "HSK 1-2", category: "colors-zh", source: "[[colors]]" }
+- { id: zh_colors_zh_003, display: "黄色 (huángsè)", input: "黄色 (huángsè)", meaning: "노랑, 노란색", level: "HSK 1-2", category: "colors-zh", source: "[[colors]]" }
+- { id: zh_colors_zh_004, display: "绿色 (lǜsè)", input: "绿色 (lǜsè)", meaning: "초록, 초록색", level: "HSK 1-2", category: "colors-zh", source: "[[colors]]" }
+- { id: zh_colors_zh_005, display: "白色 (báisè)", input: "白色 (báisè)", meaning: "흰색", level: "HSK 1-2", category: "colors-zh", source: "[[colors]]" }
+- { id: zh_colors_zh_006, display: "黑色 (hēisè)", input: "黑色 (hēisè)", meaning: "검정, 검은색", level: "HSK 1-2", category: "colors-zh", source: "[[colors]]" }
+- { id: zh_colors_zh_007, display: "灰色 (huīsè)", input: "灰色 (huīsè)", meaning: "회색", level: "HSK 1-2", category: "colors-zh", source: "[[colors]]" }
+- { id: zh_colors_zh_008, display: "橙色 (chéngsè)", input: "橙色 (chéngsè)", meaning: "주황색", level: "HSK 1-2", category: "colors-zh", source: "[[colors]]" }
+- { id: zh_colors_zh_009, display: "紫色 (zǐsè)", input: "紫色 (zǐsè)", meaning: "보라색", level: "HSK 1-2", category: "colors-zh", source: "[[colors]]" }
+- { id: zh_colors_zh_010, display: "棕色 (zōngsè)", input: "棕色 (zōngsè)", meaning: "갈색", level: "HSK 1-2", category: "colors-zh", source: "[[colors]]" }
+- { id: zh_colors_zh_011, display: "青色 (qīngsè)", input: "青色 (qīngsè)", meaning: "청록, 하늘색", level: "HSK 1-2", category: "colors-zh", source: "[[colors]]" }
 ```

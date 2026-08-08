@@ -292,17 +292,19 @@ Japanese directions 어휘는 일상 대화에서 자주 사용됨.
 
 ## Pipeline Form (machine-readable)
 
-> Machine-readable for cross-language indexers.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: ja_directions_001, display: "左 (ひだり)", input: "左 (ひだり)", meaning: "왼쪽", level: "N5", category: "directions", source: "[[directions-vocabulary]]" }
-- { id: ja_directions_002, display: "右 (みぎ)", input: "右 (みぎ)", meaning: "오른쪽", level: "N5", category: "directions", source: "[[directions-vocabulary]]" }
-- { id: ja_directions_003, display: "まっすぐ", input: "まっすぐ", meaning: "직진", level: "N5", category: "directions", source: "[[directions-vocabulary]]" }
-- { id: ja_directions_004, display: "上 (うえ)", input: "上 (うえ)", meaning: "위", level: "N5", category: "directions", source: "[[directions-vocabulary]]" }
-- { id: ja_directions_005, display: "下 (した)", input: "下 (した)", meaning: "아래", level: "N5", category: "directions", source: "[[directions-vocabulary]]" }
-- { id: ja_directions_006, display: "ここ", input: "ここ", meaning: "여기", level: "N5", category: "directions", source: "[[directions-vocabulary]]" }
-- { id: ja_directions_007, display: "そこ", input: "そこ", meaning: "저기", level: "N5", category: "directions", source: "[[directions-vocabulary]]" }
-- { id: ja_directions_008, display: "近く (ちかく)", input: "近く (ちかく)", meaning: "가까이", level: "N5", category: "directions", source: "[[directions-vocabulary]]" }
-- { id: ja_directions_009, display: "遠く (とおく)", input: "遠く (とおく)", meaning: "멀리", level: "N5", category: "directions", source: "[[directions-vocabulary]]" }
-- { id: ja_directions_010, display: "間 (あいだ)", input: "間 (あいだ)", meaning: "사이에", level: "N5", category: "directions", source: "[[directions-vocabulary]]" }
+- { id: jp_directions_001, display: "左 (ひだり)", input: "左 (ひだり)", meaning: "왼쪽", level: "N5", category: "directions", source: "[[directions-vocabulary]]" }
+- { id: jp_directions_002, display: "右 (みぎ)", input: "右 (みぎ)", meaning: "오른쪽", level: "N5", category: "directions", source: "[[directions-vocabulary]]" }
+- { id: jp_directions_003, display: "まっすぐ", input: "まっすぐ", meaning: "직진", level: "N5", category: "directions", source: "[[directions-vocabulary]]" }
+- { id: jp_directions_004, display: "上 (うえ)", input: "上 (うえ)", meaning: "위", level: "N5", category: "directions", source: "[[directions-vocabulary]]" }
+- { id: jp_directions_005, display: "下 (した)", input: "下 (した)", meaning: "아래", level: "N5", category: "directions", source: "[[directions-vocabulary]]" }
+- { id: jp_directions_006, display: "ここ", input: "ここ", meaning: "여기", level: "N5", category: "directions", source: "[[directions-vocabulary]]" }
+- { id: jp_directions_007, display: "そこ", input: "そこ", meaning: "저기", level: "N5", category: "directions", source: "[[directions-vocabulary]]" }
+- { id: jp_directions_008, display: "近く (ちかく)", input: "近く (ちかく)", meaning: "가까이", level: "N5", category: "directions", source: "[[directions-vocabulary]]" }
+- { id: jp_directions_009, display: "遠く (とおく)", input: "遠く (とおく)", meaning: "멀리", level: "N5", category: "directions", source: "[[directions-vocabulary]]" }
+- { id: jp_directions_010, display: "間 (あいだ)", input: "間 (あいだ)", meaning: "사이에", level: "N5", category: "directions", source: "[[directions-vocabulary]]" }
 ```

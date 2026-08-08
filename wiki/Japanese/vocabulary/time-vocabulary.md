@@ -292,17 +292,19 @@ Japanese time 어휘는 일상 대화에서 자주 사용됨.
 
 ## Pipeline Form (machine-readable)
 
-> Machine-readable for cross-language indexers / game corpus extraction.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: ja_time_001, display: "今日 (きょう / こんにちは)", input: "今日 (きょう / こんにちは)", meaning: "오늘", level: "N5", category: "time", source: "[[time-vocabulary]]" }
-- { id: ja_time_002, display: "明日 (あした / あす)", input: "明日 (あした / あす)", meaning: "내일", level: "N5", category: "time", source: "[[time-vocabulary]]" }
-- { id: ja_time_003, display: "昨日 (きのう)", input: "昨日 (きのう)", meaning: "어제", level: "N5", category: "time", source: "[[time-vocabulary]]" }
-- { id: ja_time_004, display: "朝 (あさ)", input: "朝 (あさ)", meaning: "아침", level: "N5", category: "time", source: "[[time-vocabulary]]" }
-- { id: ja_time_005, display: "午後 (ごご)", input: "午後 (ごご)", meaning: "오후", level: "N5", category: "time", source: "[[time-vocabulary]]" }
-- { id: ja_time_006, display: "夜 (よる)", input: "夜 (よる)", meaning: "밤", level: "N5", category: "time", source: "[[time-vocabulary]]" }
-- { id: ja_time_007, display: "昼 (ひる)", input: "昼 (ひる)", meaning: "낮/점심", level: "N5", category: "time", source: "[[time-vocabulary]]" }
-- { id: ja_time_008, display: "朝晩 (あさばん)", input: "朝晩 (あさばん)", meaning: "아침저녁", level: "N4", category: "time", source: "[[time-vocabulary]]" }
-- { id: ja_time_009, display: "週末 (しゅうまつ)", input: "週末 (しゅうまつ)", meaning: "주말", level: "N4", category: "time", source: "[[time-vocabulary]]" }
-- { id: ja_time_010, display: "時 (じ)", input: "時 (じ)", meaning: "시간", level: "N5", category: "time", source: "[[time-vocabulary]]" }
+- { id: jp_time_001, display: "今日 (きょう / こんにちは)", input: "今日 (きょう / こんにちは)", meaning: "오늘", level: "N5", category: "time", source: "[[time-vocabulary]]" }
+- { id: jp_time_002, display: "明日 (あした / あす)", input: "明日 (あした / あす)", meaning: "내일", level: "N5", category: "time", source: "[[time-vocabulary]]" }
+- { id: jp_time_003, display: "昨日 (きのう)", input: "昨日 (きのう)", meaning: "어제", level: "N5", category: "time", source: "[[time-vocabulary]]" }
+- { id: jp_time_004, display: "朝 (あさ)", input: "朝 (あさ)", meaning: "아침", level: "N5", category: "time", source: "[[time-vocabulary]]" }
+- { id: jp_time_005, display: "午後 (ごご)", input: "午後 (ごご)", meaning: "오후", level: "N5", category: "time", source: "[[time-vocabulary]]" }
+- { id: jp_time_006, display: "夜 (よる)", input: "夜 (よる)", meaning: "밤", level: "N5", category: "time", source: "[[time-vocabulary]]" }
+- { id: jp_time_007, display: "昼 (ひる)", input: "昼 (ひる)", meaning: "낮/점심", level: "N5", category: "time", source: "[[time-vocabulary]]" }
+- { id: jp_time_008, display: "朝晩 (あさばん)", input: "朝晩 (あさばん)", meaning: "아침저녁", level: "N4", category: "time", source: "[[time-vocabulary]]" }
+- { id: jp_time_009, display: "週末 (しゅうまつ)", input: "週末 (しゅうまつ)", meaning: "주말", level: "N4", category: "time", source: "[[time-vocabulary]]" }
+- { id: jp_time_010, display: "時 (じ)", input: "時 (じ)", meaning: "시간", level: "N5", category: "time", source: "[[time-vocabulary]]" }
 ```

@@ -1,5 +1,6 @@
 ---
 category: "kanji-n5"
+level: "JLPT N5"
 ---
 
 # JLPT N5 핵심 한자: 읽기와 뜻 70자
@@ -53,11 +54,10 @@ OpenClaw의 N5 한자 목록에서 숫자, 시간, 위치, 신체, 가족, 자�
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
-> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
 - { id: jp_kanji_n5_001, display: "一", input: "一", meaning: "하나", level: "** JLPT N5", category: "kanji-n5", source: "[[kanji-n5]]" }
 ```
-

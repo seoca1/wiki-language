@@ -292,7 +292,9 @@ English colors 어휘는 일상 대화에서 자주 사용됨.
 
 ## Pipeline Form (machine-readable)
 
-> Machine-readable for cross-language indexers.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
 - { id: en_colors_001, display: "red", input: "red", meaning: "빨강", level: "A1", category: "colors", source: "[[colors-vocabulary]]" }
@@ -301,8 +303,4 @@ English colors 어휘는 일상 대화에서 자주 사용됨.
 - { id: en_colors_004, display: "yellow", input: "yellow", meaning: "노랑", level: "A1", category: "colors", source: "[[colors-vocabulary]]" }
 - { id: en_colors_005, display: "black", input: "black", meaning: "검정", level: "A1", category: "colors", source: "[[colors-vocabulary]]" }
 - { id: en_colors_006, display: "white", input: "white", meaning: "하양", level: "A1", category: "colors", source: "[[colors-vocabulary]]" }
-- { id: en_colors_007, display: "red", input: "red", meaning: "빨강", level: "A1", category: "colors", source: "[[colors-vocabulary]]" }
-- { id: en_colors_008, display: "blue", input: "blue", meaning: "파랑", level: "A1", category: "colors", source: "[[colors-vocabulary]]" }
-- { id: en_colors_009, display: "green", input: "green", meaning: "초록", level: "A1", category: "colors", source: "[[colors-vocabulary]]" }
-- { id: en_colors_010, display: "yellow", input: "yellow", meaning: "노랑", level: "A1", category: "colors", source: "[[colors-vocabulary]]" }
 ```

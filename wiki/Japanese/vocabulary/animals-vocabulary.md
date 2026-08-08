@@ -721,33 +721,32 @@ This page aggregates all animal vocabulary for the typing language game corpus.
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
-> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: jp_animals_vocabulary_001, display: "犬", input: "犬", meaning: "dog", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: jp_animals_vocabulary_002, display: "猫", input: "猫", meaning: "cat", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: jp_animals_vocabulary_003, display: "馬", input: "馬", meaning: "horse", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: jp_animals_vocabulary_004, display: "牛", input: "牛", meaning: "cow", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: jp_animals_vocabulary_005, display: "豚", input: "豚", meaning: "pig", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: jp_animals_vocabulary_006, display: "鶏", input: "鶏", meaning: "chicken", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: jp_animals_vocabulary_007, display: "羊", input: "羊", meaning: "sheep", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: jp_animals_vocabulary_008, display: "鳥", input: "鳥", meaning: "bird", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: jp_animals_vocabulary_009, display: "魚", input: "魚", meaning: "fish", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: jp_animals_vocabulary_010, display: "蛇", input: "蛇", meaning: "snake", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: jp_animals_vocabulary_011, display: "熊", input: "熊", meaning: "bear", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: jp_animals_vocabulary_012, display: "鹿", input: "鹿", meaning: "deer", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: jp_animals_vocabulary_013, display: "猿", input: "猿", meaning: "monkey", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: jp_animals_vocabulary_014, display: "亀", input: "亀", meaning: "turtle", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: jp_animals_vocabulary_015, display: "鯨", input: "鯨", meaning: "whale", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: jp_animals_vocabulary_016, display: "鮫", input: "鮫", meaning: "shark", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: jp_animals_vocabulary_017, display: "イルカ", input: "イルカ", meaning: "dolphin", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: jp_animals_vocabulary_018, display: "蝶", input: "蝶", meaning: "butterfly", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: jp_animals_vocabulary_019, display: "アリ", input: "アリ", meaning: "ant", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: jp_animals_vocabulary_020, display: "カエル", input: "カエル", meaning: "frog", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: jp_animals_vocabulary_021, display: "龍/竜 (tatsu/ryū)", input: "龍/竜 (tatsu/ryū)", meaning: "dragon", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: jp_animals_vocabulary_022, display: "狼", input: "狼", meaning: "wolf", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: jp_animals_vocabulary_023, display: "狐", input: "狐", meaning: "fox", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
+- { id: jp_animals_001, display: "犬", input: "犬", meaning: "dog", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_002, display: "猫", input: "猫", meaning: "cat", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_003, display: "馬", input: "馬", meaning: "horse", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_004, display: "牛", input: "牛", meaning: "cow", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_005, display: "豚", input: "豚", meaning: "pig", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_006, display: "鶏", input: "鶏", meaning: "chicken", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_007, display: "羊", input: "羊", meaning: "sheep", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_008, display: "鳥", input: "鳥", meaning: "bird", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_009, display: "魚", input: "魚", meaning: "fish", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_010, display: "蛇", input: "蛇", meaning: "snake", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_011, display: "熊", input: "熊", meaning: "bear", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_012, display: "鹿", input: "鹿", meaning: "deer", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_013, display: "猿", input: "猿", meaning: "monkey", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_014, display: "亀", input: "亀", meaning: "turtle", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_015, display: "鯨", input: "鯨", meaning: "whale", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_016, display: "鮫", input: "鮫", meaning: "shark", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_017, display: "イルカ", input: "イルカ", meaning: "dolphin", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_018, display: "蝶", input: "蝶", meaning: "butterfly", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_019, display: "アリ", input: "アリ", meaning: "ant", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_020, display: "カエル", input: "カエル", meaning: "frog", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_021, display: "龍/竜 (tatsu/ryū)", input: "龍/竜 (tatsu/ryū)", meaning: "dragon", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_022, display: "狼", input: "狼", meaning: "wolf", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_023, display: "狐", input: "狐", meaning: "fox", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
 ```
-

@@ -1271,19 +1271,22 @@ Contexto cultural por añadir
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
-> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: es_animals_vocabulary_001, display: "perro", input: "perro", meaning: "Dog (domesticated canine).", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: es_animals_vocabulary_002, display: "gato", input: "gato", meaning: "Cat (domesticated feline).", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: es_animals_vocabulary_003, display: "pájaro", input: "pájaro", meaning: "Bird (flying animal).", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: es_animals_vocabulary_004, display: "pez", input: "pez", meaning: "Fish (aquatic vertebrate, singular).", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: es_animals_vocabulary_005, display: "caballo", input: "caballo", meaning: "Horse (equine).", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: es_animals_vocabulary_006, display: "vaca", input: "vaca", meaning: "Cow (bovine female).", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: es_animals_vocabulary_007, display: "cerdo", input: "cerdo", meaning: "Pig (swine).", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: es_animals_vocabulary_008, display: "oveja", input: "oveja", meaning: "Sheep (ovine).", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: es_animals_vocabulary_009, display: "pollo", input: "pollo", meaning: "Chicken (poultry).", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
+- { id: es_animals_001, display: "perro", input: "perro", meaning: "Dog (domesticated canine).", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary-es]]" }
+- { id: es_animals_002, display: "Examples", input: "Examples", meaning: "**Pronunciation / IPA:**", level: "A1-B1", category: "animals", source: "[[animals-vocabulary-es]]" }
+- { id: es_animals_003, display: "Related Terms", input: "Related Terms", meaning: "**Pronunciation / IPA:**", level: "A1-B1", category: "animals", source: "[[animals-vocabulary-es]]" }
+- { id: es_animals_004, display: "Cultural Notes", input: "Cultural Notes", meaning: "**Pronunciation / IPA:**", level: "A1-B1", category: "animals", source: "[[animals-vocabulary-es]]" }
+- { id: es_animals_005, display: "Sources", input: "Sources", meaning: "**Pronunciation / IPA:**", level: "A1-B1", category: "animals", source: "[[animals-vocabulary-es]]" }
+- { id: es_animals_006, display: "gato", input: "gato", meaning: "Cat (domesticated feline).", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary-es]]" }
+- { id: es_animals_007, display: "pájaro", input: "pájaro", meaning: "Bird (flying animal).", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary-es]]" }
+- { id: es_animals_008, display: "pez", input: "pez", meaning: "Fish (aquatic vertebrate, singular).", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary-es]]" }
+- { id: es_animals_009, display: "caballo", input: "caballo", meaning: "Horse (equine).", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary-es]]" }
+- { id: es_animals_010, display: "vaca", input: "vaca", meaning: "Cow (bovine female).", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary-es]]" }
+- { id: es_animals_011, display: "cerdo", input: "cerdo", meaning: "Pig (swine).", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary-es]]" }
+- { id: es_animals_012, display: "oveja", input: "oveja", meaning: "Sheep (ovine).", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary-es]]" }
+- { id: es_animals_013, display: "pollo", input: "pollo", meaning: "Chicken (poultry).", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary-es]]" }
 ```
-

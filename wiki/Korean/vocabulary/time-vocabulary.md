@@ -292,7 +292,9 @@ Korean time 어휘는 일상 대화에서 자주 사용됨.
 
 ## Pipeline Form (machine-readable)
 
-> Machine-readable for cross-language indexers / game corpus extraction.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
 - { id: kr_time_001, display: "오늘 (오늘, oneul)", input: "오늘 (오늘, oneul)", meaning: "today", level: "TOPIK 1", category: "time", source: "[[time-vocabulary]]" }

@@ -12,15 +12,30 @@
 - **Épocas**: Primavera (floración, T° suave), Otoño (colores, setas), Verano (madrugada/altura), Invierno (sierra Nevada, raquetas).
 - **Apps/oficiales**: IGN (mapas topográficos), Wikiloc, AllTrails, FEDME (federación), clubes locales.
 
-## Language Connections
+## Variantes regionales
 
-- *senderismo* — actividad
-- *gr-pr-sl* — clasificación senderos
-- [[parques-nacionales]] — protección máxima
-- *brujula-mapa* — navegación clásica
-- *clima-montana* — factor crítico
+- **Pirineos (GR 11)**: Travesía transpirenaica 840 km (Cabo Higuer → Roses). Travesías de 3-7 días. Refugios de montaña (CAF, FEDME). Hielo + nieve hasta junio. Stages 20-25 km/día.
+- **Picos de Europa**: Macizo calizo. 670 km². Lagos Covadonga. Bulnes (pueblo aislado). Oso pardo reintroducido. Travesías circulares (1-3 días).
+- **Canarias — GR 131 (Tenerife)**: Volcánica. Subida Teide (3.718m). Telesférico. Norte = húmedo (laurisilva Garajonay), Sur = árido (Timanfaya fuego dormido).
+- **Andalucía — GR 7 (Andalucía-Galicia)**: 1700 km. Sierra Nevada, Grazalema, Cazorla, Aracena. Senderos más meridionales Europa. Primavera ideal.
+- **Sistema Central**: Sierra de Gredos, Guadarrama. Cerca Madrid. Popular fin de semana.
+
+## Cross-language Connections
+
+- **Korean**: 한국 등산 — 북한산, 설악산, 지리산, 한라산. 100大名山 (백두산 포함). 등산 인구 약 1000만명. 등산 문화 깊음 (산악회, 등산 학교). 장비 시장 1조+.
+- **Japanese**: 일본 등산 — 富士山 (3776m, 1위), 白山, 槍ヶ岳, 立山. 縦走 (long-distance trekking) 인기. 일본 알프스 후지산+8峰 (오름). 야키마 (mountain hut) 문화.
+- **English**: US/UK hiking — National Trails (US), Hadrian's Wall Path (UK), West Highland Way (Scotland). Long-distance trails culture. Appalachian Trail (3500 km, 6 meses).
+
+## Ejemplos
+
+1. **GR 11 — Pirineos etapa típica**: Refugio de Góriz (2.200m) → Refugio de Pineta (1.240m). 25 km, 1.400m desnivel. 8-10h. Comida refugio. Atardecer Ordesa.
+2. **Picos de Europa — Covadonga**: Lagos Enol + Ercina. 12 km circular. 4-5h. Desnivel 400m. Mirador Rey. Otoño = colores.
+3. **GR 131 — Tenerife sur**: Vilaflor (1.500m) → Teide (3.715m). 18 km, 2.215m desnivel. 8-10h. Telesférico opcional bajada. Atardecer cima (vista 3 islas).
 
 ## Sources
 
 - [[viaje-aventura]]
 - [[nature-vocabulary]]
+- [[parques-nacionales]] — protección
+- [[camping-cultura]] — vivac
+- [[emergencia-vs-urgencia]] — seguridad montaña

@@ -292,17 +292,19 @@ Japanese 교육문화: 학교 시스템, 학습방식, 학업 표현 등.
 
 ## Pipeline Form (machine-readable)
 
-> Machine-readable for cross-language indexers / game corpus extraction.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: ja_education_001, display: "学校 (がっこう)", input: "学校 (がっこう)", meaning: "학교", level: "N5", category: "education", source: "[[education-vocabulary]]" }
-- { id: ja_education_002, display: "学生 (がくせい)", input: "学生 (がくせい)", meaning: "학생", level: "N5", category: "education", source: "[[education-vocabulary]]" }
-- { id: ja_education_003, display: "先生 (せんせい)", input: "先生 (せんせい)", meaning: "선생", level: "N5", category: "education", source: "[[education-vocabulary]]" }
-- { id: ja_education_004, display: "本 (ほん)", input: "本 (ほん)", meaning: "책", level: "N5", category: "education", source: "[[education-vocabulary]]" }
-- { id: ja_education_005, display: "ペン", input: "ペン", meaning: "펜", level: "N5", category: "education", source: "[[education-vocabulary]]" }
-- { id: ja_education_006, display: "鉛筆 (えんぴつ)", input: "鉛筆 (えんぴつ)", meaning: "연필", level: "N5", category: "education", source: "[[education-vocabulary]]" }
-- { id: ja_education_007, display: "宿題 (しゅくだい)", input: "宿題 (しゅくだい)", meaning: "숙제", level: "N5", category: "education", source: "[[education-vocabulary]]" }
-- { id: ja_education_008, display: "テスト / 試験 (しけん)", input: "テスト / 試験 (しけん)", meaning: "시험", level: "N5", category: "education", source: "[[education-vocabulary]]" }
-- { id: ja_education_009, display: "図書館 (としょかん)", input: "図書館 (としょかん)", meaning: "도서관", level: "N5", category: "education", source: "[[education-vocabulary]]" }
-- { id: ja_education_010, display: "大学 (だいがく)", input: "大学 (だいがく)", meaning: "대학교", level: "N5", category: "education", source: "[[education-vocabulary]]" }
+- { id: jp_education_001, display: "学校 (がっこう)", input: "学校 (がっこう)", meaning: "학교", level: "N5", category: "education", source: "[[education-vocabulary]]" }
+- { id: jp_education_002, display: "学生 (がくせい)", input: "学生 (がくせい)", meaning: "학생", level: "N5", category: "education", source: "[[education-vocabulary]]" }
+- { id: jp_education_003, display: "先生 (せんせい)", input: "先生 (せんせい)", meaning: "선생", level: "N5", category: "education", source: "[[education-vocabulary]]" }
+- { id: jp_education_004, display: "本 (ほん)", input: "本 (ほん)", meaning: "책", level: "N5", category: "education", source: "[[education-vocabulary]]" }
+- { id: jp_education_005, display: "ペン", input: "ペン", meaning: "펜", level: "N5", category: "education", source: "[[education-vocabulary]]" }
+- { id: jp_education_006, display: "鉛筆 (えんぴつ)", input: "鉛筆 (えんぴつ)", meaning: "연필", level: "N5", category: "education", source: "[[education-vocabulary]]" }
+- { id: jp_education_007, display: "宿題 (しゅくだい)", input: "宿題 (しゅくだい)", meaning: "숙제", level: "N5", category: "education", source: "[[education-vocabulary]]" }
+- { id: jp_education_008, display: "テスト / 試験 (しけん)", input: "テスト / 試験 (しけん)", meaning: "시험", level: "N5", category: "education", source: "[[education-vocabulary]]" }
+- { id: jp_education_009, display: "図書館 (としょかん)", input: "図書館 (としょかん)", meaning: "도서관", level: "N5", category: "education", source: "[[education-vocabulary]]" }
+- { id: jp_education_010, display: "大学 (だいがく)", input: "大学 (だいがく)", meaning: "대학교", level: "N5", category: "education", source: "[[education-vocabulary]]" }
 ```

@@ -1160,49 +1160,48 @@ This page aggregates all business vocabulary for the typing language game corpus
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
-> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: jp_business_vocabulary_001, display: "メール", input: "メール", meaning: "email", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: jp_business_vocabulary_002, display: "住所", input: "住所", meaning: "address", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: jp_business_vocabulary_003, display: "送信者", input: "送信者", meaning: "sender", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: jp_business_vocabulary_004, display: "受信者", input: "受信者", meaning: "recipient", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: jp_business_vocabulary_005, display: "件名", input: "件名", meaning: "subject", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: jp_business_vocabulary_006, display: "添付", input: "添付", meaning: "attachment", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: jp_business_vocabulary_007, display: "送る", input: "送る", meaning: "send", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: jp_business_vocabulary_008, display: "受け取る", input: "受け取る", meaning: "receive", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: jp_business_vocabulary_009, display: "返信", input: "返信", meaning: "reply", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: jp_business_vocabulary_010, display: "保存", input: "保存", meaning: "save", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: jp_business_vocabulary_011, display: "削除", input: "削除", meaning: "delete", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: jp_business_vocabulary_012, display: "会議", input: "会議", meaning: "meeting", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: jp_business_vocabulary_013, display: "スケジュール", input: "スケジュール", meaning: "schedule", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: jp_business_vocabulary_014, display: "議題", input: "議題", meaning: "agenda", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: jp_business_vocabulary_015, display: "発表", input: "発表", meaning: "presentation", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: jp_business_vocabulary_016, display: "意見", input: "意見", meaning: "opinion", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: jp_business_vocabulary_017, display: "決定", input: "決定", meaning: "decision", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: jp_business_vocabulary_018, display: "合意", input: "合意", meaning: "agreement", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: jp_business_vocabulary_019, display: "記録", input: "記録", meaning: "record", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: jp_business_vocabulary_020, display: "場所", input: "場所", meaning: "location", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: jp_business_vocabulary_021, display: "延期", input: "延期", meaning: "postpone", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: jp_business_vocabulary_022, display: "会社", input: "会社", meaning: "company", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: jp_business_vocabulary_023, display: "事務所", input: "事務所", meaning: "office", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: jp_business_vocabulary_024, display: "同僚", input: "同僚", meaning: "colleague", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: jp_business_vocabulary_025, display: "上司", input: "上司", meaning: "boss", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: jp_business_vocabulary_026, display: "部下", input: "部下", meaning: "subordinate", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: jp_business_vocabulary_027, display: "社員", input: "社員", meaning: "employee", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: jp_business_vocabulary_028, display: "代表", input: "代表", meaning: "representative", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: jp_business_vocabulary_029, display: "チームリーダー", input: "チームリーダー", meaning: "team leader", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: jp_business_vocabulary_030, display: "プロジェクト", input: "プロジェクト", meaning: "project", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: jp_business_vocabulary_031, display: "仕事", input: "仕事", meaning: "work", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: jp_business_vocabulary_032, display: "契約", input: "契約", meaning: "contract", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: jp_business_vocabulary_033, display: "報告", input: "報告", meaning: "report", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: jp_business_vocabulary_034, display: "提出", input: "提出", meaning: "submit", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: jp_business_vocabulary_035, display: "確認", input: "確認", meaning: "confirm", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: jp_business_vocabulary_036, display: "承認", input: "承認", meaning: "approve", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: jp_business_vocabulary_037, display: "電話", input: "電話", meaning: "phone", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: jp_business_vocabulary_038, display: "電話番号", input: "電話番号", meaning: "phone number", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: jp_business_vocabulary_039, display: "接続", input: "接続", meaning: "connection", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: jp_business_001, display: "メール", input: "メール", meaning: "email", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_002, display: "住所", input: "住所", meaning: "address", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_003, display: "送信者", input: "送信者", meaning: "sender", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_004, display: "受信者", input: "受信者", meaning: "recipient", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_005, display: "件名", input: "件名", meaning: "subject", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_006, display: "添付", input: "添付", meaning: "attachment", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_007, display: "送る", input: "送る", meaning: "send", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_008, display: "受け取る", input: "受け取る", meaning: "receive", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_009, display: "返信", input: "返信", meaning: "reply", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_010, display: "保存", input: "保存", meaning: "save", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_011, display: "削除", input: "削除", meaning: "delete", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_012, display: "会議", input: "会議", meaning: "meeting", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_013, display: "スケジュール", input: "スケジュール", meaning: "schedule", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_014, display: "議題", input: "議題", meaning: "agenda", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_015, display: "発表", input: "発表", meaning: "presentation", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_016, display: "意見", input: "意見", meaning: "opinion", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_017, display: "決定", input: "決定", meaning: "decision", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_018, display: "合意", input: "合意", meaning: "agreement", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_019, display: "記録", input: "記録", meaning: "record", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_020, display: "場所", input: "場所", meaning: "location", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_021, display: "延期", input: "延期", meaning: "postpone", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_022, display: "会社", input: "会社", meaning: "company", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_023, display: "事務所", input: "事務所", meaning: "office", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_024, display: "同僚", input: "同僚", meaning: "colleague", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_025, display: "上司", input: "上司", meaning: "boss", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_026, display: "部下", input: "部下", meaning: "subordinate", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_027, display: "社員", input: "社員", meaning: "employee", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_028, display: "代表", input: "代表", meaning: "representative", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_029, display: "チームリーダー", input: "チームリーダー", meaning: "team leader", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_030, display: "プロジェクト", input: "プロジェクト", meaning: "project", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_031, display: "仕事", input: "仕事", meaning: "work", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_032, display: "契約", input: "契約", meaning: "contract", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_033, display: "報告", input: "報告", meaning: "report", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_034, display: "提出", input: "提出", meaning: "submit", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_035, display: "確認", input: "確認", meaning: "confirm", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_036, display: "承認", input: "承認", meaning: "approve", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_037, display: "電話", input: "電話", meaning: "phone", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_038, display: "電話番号", input: "電話番号", meaning: "phone number", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_039, display: "接続", input: "接続", meaning: "connection", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
 ```
-

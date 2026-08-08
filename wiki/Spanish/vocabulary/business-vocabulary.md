@@ -1501,20 +1501,26 @@ En **España**: "plazo" uso estándar. En **México**: "fecha límite" más com�
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
-> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: es_business_vocabulary_001, display: "trabajo", input: "trabajo", meaning: "Work / Job (employment).", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: es_business_vocabulary_002, display: "oficina", input: "oficina", meaning: "Office (workplace).", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: es_business_vocabulary_003, display: "empleado", input: "empleado", meaning: "Employee (worker).", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: es_business_vocabulary_004, display: "jefe", input: "jefe", meaning: "Boss / Chief (supervisor).", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: es_business_vocabulary_005, display: "reunión", input: "reunión", meaning: "Meeting (gathering).", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: es_business_vocabulary_006, display: "proyecto", input: "proyecto", meaning: "Project (planned work).", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: es_business_vocabulary_007, display: "salario", input: "salario", meaning: "Salary (wages).", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: es_business_vocabulary_008, display: "correo electrónico", input: "correo electrónico", meaning: "**Pronunciation / IPA:**", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: es_business_vocabulary_009, display: "reserva", input: "reserva", meaning: "Reservation (booking or backup).", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: es_business_vocabulary_010, display: "cuenta", input: "cuenta", meaning: "Account / Bill (financial).", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: es_business_001, display: "trabajo", input: "trabajo", meaning: "Work / Job (employment).", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
+- { id: es_business_002, display: "Examples", input: "Examples", meaning: "**Pronunciation / IPA:**", level: "DELE/Negocios", category: "business", source: "[[business-vocabulary-es]]" }
+- { id: es_business_003, display: "Related Terms", input: "Related Terms", meaning: "**Pronunciation / IPA:**", level: "DELE/Negocios", category: "business", source: "[[business-vocabulary-es]]" }
+- { id: es_business_004, display: "Cultural Notes", input: "Cultural Notes", meaning: "**Pronunciation / IPA:**", level: "DELE/Negocios", category: "business", source: "[[business-vocabulary-es]]" }
+- { id: es_business_005, display: "Sources", input: "Sources", meaning: "**Pronunciation / IPA:**", level: "DELE/Negocios", category: "business", source: "[[business-vocabulary-es]]" }
+- { id: es_business_006, display: "oficina", input: "oficina", meaning: "Office (workplace).", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
+- { id: es_business_007, display: "empleado", input: "empleado", meaning: "Employee (worker).", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
+- { id: es_business_008, display: "jefe", input: "jefe", meaning: "Boss / Chief (supervisor).", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
+- { id: es_business_009, display: "reunión", input: "reunión", meaning: "Meeting (gathering).", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
+- { id: es_business_010, display: "proyecto", input: "proyecto", meaning: "Project (planned work).", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
+- { id: es_business_011, display: "salario", input: "salario", meaning: "Salary (wages).", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
+- { id: es_business_012, display: "correo electrónico", input: "correo electrónico", meaning: "**Pronunciation / IPA:**", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
+- { id: es_business_013, display: "reserva", input: "reserva", meaning: "Reservation (booking or backup).", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
+- { id: es_business_014, display: "cuenta", input: "cuenta", meaning: "Account / Bill (financial).", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
+- { id: es_business_015, display: "plazo", input: "plazo", meaning: "Plazo / Deadline, time limit. Fecha límite para entregar un trabajo, pagar una factura, presentar un documento.", level: "DELE/Negocios", category: "business", source: "[[business-vocabulary-es]]" }
+- { id: es_business_016, display: "colega", input: "colega", meaning: "Colega / Colleague, coworker. Compañero de trabajo o profesión. Registro neutro/profesional.", level: "DELE/Negocios", category: "business", source: "[[business-vocabulary-es]]" }
+- { id: es_business_017, display: "correo-electronico", input: "correo-electronico", meaning: "Correo electrónico / Email. Mensaje digital enviado vía internet. Abreviado: **email**, **e-mail**, **mail**.", level: "DELE/Negocios", category: "business", source: "[[business-vocabulary-es]]" }
 ```
-

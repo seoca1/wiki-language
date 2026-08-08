@@ -1,5 +1,6 @@
 ---
 category: "restaurant"
+level: "A1-B1"
 ---
 
 # restaurant-vocabulary — Card-extracted vocabulary (2026-06-22 ~ latest)
@@ -261,19 +262,18 @@ Contexto cultural por añadir
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
-> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: es_restaurant_vocabulary_001, display: "mesa", input: "mesa", meaning: "Table (dining surface).", level: "** A1-B1", category: "restaurant-vocabulary", source: "[[restaurant-vocabulary]]" }
-- { id: es_restaurant_vocabulary_002, display: "carta", input: "carta", meaning: "Menu (also letter).", level: "** A1-B1", category: "restaurant-vocabulary", source: "[[restaurant-vocabulary]]" }
-- { id: es_restaurant_vocabulary_003, display: "camarero", input: "camarero", meaning: "Waiter (male server).", level: "** A1-B1", category: "restaurant-vocabulary", source: "[[restaurant-vocabulary]]" }
-- { id: es_restaurant_vocabulary_004, display: "plato", input: "plato", meaning: "Plate / Dish (food serving).", level: "** A1-B1", category: "restaurant-vocabulary", source: "[[restaurant-vocabulary]]" }
-- { id: es_restaurant_vocabulary_005, display: "bebida", input: "bebida", meaning: "Drink (beverage).", level: "** A1-B1", category: "restaurant-vocabulary", source: "[[restaurant-vocabulary]]" }
-- { id: es_restaurant_vocabulary_006, display: "cuenta", input: "cuenta", meaning: "Bill / Check (restaurant total).", level: "** A1-B1", category: "restaurant-vocabulary", source: "[[restaurant-vocabulary]]" }
-- { id: es_restaurant_vocabulary_007, display: "propina", input: "propina", meaning: "Tip (gratuity).", level: "** A1-B1", category: "restaurant-vocabulary", source: "[[restaurant-vocabulary]]" }
-- { id: es_restaurant_vocabulary_008, display: "cubiertos", input: "cubiertos", meaning: "Cutlery / Silverware (forks, knives, spoons).", level: "** A1-B1", category: "restaurant-vocabulary", source: "[[restaurant-vocabulary]]" }
-- { id: es_restaurant_vocabulary_009, display: "mesa para dos", input: "mesa para dos", meaning: "**Pronunciation / IPA:**", level: "** A1-B1", category: "restaurant-vocabulary", source: "[[restaurant-vocabulary]]" }
+- { id: es_restaurant_001, display: "mesa", input: "mesa", meaning: "Table (dining surface).", level: "** A1-B1", category: "restaurant-vocabulary", source: "[[restaurant-vocabulary]]" }
+- { id: es_restaurant_002, display: "carta", input: "carta", meaning: "Menu (also letter).", level: "** A1-B1", category: "restaurant-vocabulary", source: "[[restaurant-vocabulary]]" }
+- { id: es_restaurant_003, display: "camarero", input: "camarero", meaning: "Waiter (male server).", level: "** A1-B1", category: "restaurant-vocabulary", source: "[[restaurant-vocabulary]]" }
+- { id: es_restaurant_004, display: "plato", input: "plato", meaning: "Plate / Dish (food serving).", level: "** A1-B1", category: "restaurant-vocabulary", source: "[[restaurant-vocabulary]]" }
+- { id: es_restaurant_005, display: "bebida", input: "bebida", meaning: "Drink (beverage).", level: "** A1-B1", category: "restaurant-vocabulary", source: "[[restaurant-vocabulary]]" }
+- { id: es_restaurant_006, display: "cuenta", input: "cuenta", meaning: "Bill / Check (restaurant total).", level: "** A1-B1", category: "restaurant-vocabulary", source: "[[restaurant-vocabulary]]" }
+- { id: es_restaurant_007, display: "propina", input: "propina", meaning: "Tip (gratuity).", level: "** A1-B1", category: "restaurant-vocabulary", source: "[[restaurant-vocabulary]]" }
+- { id: es_restaurant_008, display: "cubiertos", input: "cubiertos", meaning: "Cutlery / Silverware (forks, knives, spoons).", level: "** A1-B1", category: "restaurant-vocabulary", source: "[[restaurant-vocabulary]]" }
+- { id: es_restaurant_009, display: "mesa para dos", input: "mesa para dos", meaning: "**Pronunciation / IPA:**", level: "** A1-B1", category: "restaurant-vocabulary", source: "[[restaurant-vocabulary]]" }
 ```
-

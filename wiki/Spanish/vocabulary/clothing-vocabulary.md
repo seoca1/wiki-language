@@ -854,16 +854,19 @@ Contexto cultural por añadir
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
-> Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: es_clothing_vocabulary_001, display: "camisa", input: "camisa", meaning: "Shirt (upper garment).", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: es_clothing_vocabulary_002, display: "pantalón", input: "pantalón", meaning: "Pants / Trousers (lower garment).", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: es_clothing_vocabulary_003, display: "zapato", input: "zapato", meaning: "Shoe (single footwear).", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: es_clothing_vocabulary_004, display: "sombrero", input: "sombrero", meaning: "Hat (headwear with brim).", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: es_clothing_vocabulary_005, display: "abrigo", input: "abrigo", meaning: "Coat / Overcoat (heavy outer garment).", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: es_clothing_vocabulary_006, display: "vestido", input: "vestido", meaning: "Dress (one-piece garment).", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: es_clothing_001, display: "camisa", input: "camisa", meaning: "Shirt (upper garment).", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary-es]]" }
+- { id: es_clothing_002, display: "Examples", input: "Examples", meaning: "**Pronunciation / IPA:**", level: "A1-B1", category: "clothing", source: "[[clothing-vocabulary-es]]" }
+- { id: es_clothing_003, display: "Related Terms", input: "Related Terms", meaning: "**Pronunciation / IPA:**", level: "A1-B1", category: "clothing", source: "[[clothing-vocabulary-es]]" }
+- { id: es_clothing_004, display: "Cultural Notes", input: "Cultural Notes", meaning: "**Pronunciation / IPA:**", level: "A1-B1", category: "clothing", source: "[[clothing-vocabulary-es]]" }
+- { id: es_clothing_005, display: "Sources", input: "Sources", meaning: "**Pronunciation / IPA:**", level: "A1-B1", category: "clothing", source: "[[clothing-vocabulary-es]]" }
+- { id: es_clothing_006, display: "pantalón", input: "pantalón", meaning: "Pants / Trousers (lower garment).", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary-es]]" }
+- { id: es_clothing_007, display: "zapato", input: "zapato", meaning: "Shoe (single footwear).", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary-es]]" }
+- { id: es_clothing_008, display: "sombrero", input: "sombrero", meaning: "Hat (headwear with brim).", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary-es]]" }
+- { id: es_clothing_009, display: "abrigo", input: "abrigo", meaning: "Coat / Overcoat (heavy outer garment).", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary-es]]" }
+- { id: es_clothing_010, display: "vestido", input: "vestido", meaning: "Dress (one-piece garment).", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary-es]]" }
 ```
-

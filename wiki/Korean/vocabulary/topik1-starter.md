@@ -1053,41 +1053,44 @@ TOPIK 1급 필수 어휘 32개 + 짧은 문장 3개. 국립국어원 표준국�
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/kr_words.md`).
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: 001, display: "안녕하세요", input: "안녕하세요", meaning: "hello", level: "TOPIK 1", category: "greetings", source: "[[topik1-starter]]" }
-- { id: 002, display: "감사합니다", input: "감사합니다", meaning: "thank you", level: "TOPIK 1", category: "greetings", source: "[[topik1-starter]]" }
-- { id: 003, display: "죄송합니다", input: "죄송합니다", meaning: "I'm sorry", level: "TOPIK 1", category: "greetings", source: "[[topik1-starter]]" }
-- { id: 004, display: "네", input: "네", meaning: "yes", level: "TOPIK 1", category: "greetings", source: "[[topik1-starter]]" }
-- { id: 005, display: "아니요", input: "아니요", meaning: "no", level: "TOPIK 1", category: "greetings", source: "[[topik1-starter]]" }
-- { id: 006, display: "하나", input: "하나", meaning: "one", level: "TOPIK 1", category: "numbers", source: "[[topik1-starter]]" }
-- { id: 007, display: "둘", input: "둘", meaning: "two", level: "TOPIK 1", category: "numbers", source: "[[topik1-starter]]" }
-- { id: 008, display: "셋", input: "셋", meaning: "three", level: "TOPIK 1", category: "numbers", source: "[[topik1-starter]]" }
-- { id: 009, display: "넷", input: "넷", meaning: "four", level: "TOPIK 1", category: "numbers", source: "[[topik1-starter]]" }
-- { id: 010, display: "다섯", input: "다섯", meaning: "five", level: "TOPIK 1", category: "numbers", source: "[[topik1-starter]]" }
-- { id: 011, display: "여섯", input: "여섯", meaning: "six", level: "TOPIK 1", category: "numbers", source: "[[topik1-starter]]" }
-- { id: 012, display: "일곱", input: "일곱", meaning: "seven", level: "TOPIK 1", category: "numbers", source: "[[topik1-starter]]" }
-- { id: 013, display: "여덟", input: "여덟", meaning: "eight", level: "TOPIK 1", category: "numbers", source: "[[topik1-starter]]" }
-- { id: 014, display: "아홉", input: "아홉", meaning: "nine", level: "TOPIK 1", category: "numbers", source: "[[topik1-starter]]" }
-- { id: 015, display: "열", input: "열", meaning: "ten", level: "TOPIK 1", category: "numbers", source: "[[topik1-starter]]" }
-- { id: 016, display: "사람", input: "사람", meaning: "person", level: "TOPIK 1", category: "people", source: "[[topik1-starter]]" }
-- { id: 017, display: "친구", input: "친구", meaning: "friend", level: "TOPIK 1", category: "people", source: "[[topik1-starter]]" }
-- { id: 018, display: "가족", input: "가족", meaning: "family", level: "TOPIK 1", category: "people", source: "[[topik1-starter]]" }
-- { id: 019, display: "선생님", input: "선생님", meaning: "teacher", level: "TOPIK 1", category: "people", source: "[[topik1-starter]]" }
-- { id: 020, display: "학생", input: "학생", meaning: "student", level: "TOPIK 1", category: "people", source: "[[topik1-starter]]" }
-- { id: 021, display: "물", input: "물", meaning: "water", level: "TOPIK 1", category: "objects", source: "[[topik1-starter]]" }
-- { id: 022, display: "밥", input: "밥", meaning: "rice/meal", level: "TOPIK 1", category: "objects", source: "[[topik1-starter]]" }
-- { id: 023, display: "책", input: "책", meaning: "book", level: "TOPIK 1", category: "objects", source: "[[topik1-starter]]" }
-- { id: 024, display: "시간", input: "시간", meaning: "time", level: "TOPIK 1", category: "objects", source: "[[topik1-starter]]" }
-- { id: 025, display: "나라", input: "나라", meaning: "country", level: "TOPIK 1", category: "objects", source: "[[topik1-starter]]" }
-- { id: 026, display: "오늘", input: "오늘", meaning: "today", level: "TOPIK 1", category: "time", source: "[[topik1-starter]]" }
-- { id: 027, display: "내일", input: "내일", meaning: "tomorrow", level: "TOPIK 1", category: "time", source: "[[topik1-starter]]" }
-- { id: 028, display: "아침", input: "아침", meaning: "morning", level: "TOPIK 1", category: "time", source: "[[topik1-starter]]" }
-- { id: 029, display: "저녁", input: "저녁", meaning: "evening", level: "TOPIK 1", category: "time", source: "[[topik1-starter]]" }
-- { id: 030, display: "한국", input: "한국", meaning: "Korea", level: "TOPIK 1", category: "school", source: "[[topik1-starter]]" }
-- { id: 031, display: "학교", input: "학교", meaning: "school", level: "TOPIK 1", category: "school", source: "[[topik1-starter]]" }
-- { id: 032, display: "공부", input: "공부", meaning: "study", level: "TOPIK 1", category: "school", source: "[[topik1-starter]]" }
+- { id: kr_topik1_001, display: "안녕하세요", input: "안녕하세요", meaning: "hello", level: "TOPIK 1", category: "greetings", source: "[[topik1-starter]]" }
+- { id: kr_topik1_002, display: "감사합니다", input: "감사합니다", meaning: "thank you", level: "TOPIK 1", category: "greetings", source: "[[topik1-starter]]" }
+- { id: kr_topik1_003, display: "죄송합니다", input: "죄송합니다", meaning: "I'm sorry", level: "TOPIK 1", category: "greetings", source: "[[topik1-starter]]" }
+- { id: kr_topik1_004, display: "네", input: "네", meaning: "yes", level: "TOPIK 1", category: "greetings", source: "[[topik1-starter]]" }
+- { id: kr_topik1_005, display: "아니요", input: "아니요", meaning: "no", level: "TOPIK 1", category: "greetings", source: "[[topik1-starter]]" }
+- { id: kr_topik1_006, display: "하나", input: "하나", meaning: "one", level: "TOPIK 1", category: "numbers", source: "[[topik1-starter]]" }
+- { id: kr_topik1_007, display: "둘", input: "둘", meaning: "two", level: "TOPIK 1", category: "numbers", source: "[[topik1-starter]]" }
+- { id: kr_topik1_008, display: "셋", input: "셋", meaning: "three", level: "TOPIK 1", category: "numbers", source: "[[topik1-starter]]" }
+- { id: kr_topik1_009, display: "넷", input: "넷", meaning: "four", level: "TOPIK 1", category: "numbers", source: "[[topik1-starter]]" }
+- { id: kr_topik1_010, display: "다섯", input: "다섯", meaning: "five", level: "TOPIK 1", category: "numbers", source: "[[topik1-starter]]" }
+- { id: kr_topik1_011, display: "여섯", input: "여섯", meaning: "six", level: "TOPIK 1", category: "numbers", source: "[[topik1-starter]]" }
+- { id: kr_topik1_012, display: "일곱", input: "일곱", meaning: "seven", level: "TOPIK 1", category: "numbers", source: "[[topik1-starter]]" }
+- { id: kr_topik1_013, display: "여덟", input: "여덟", meaning: "eight", level: "TOPIK 1", category: "numbers", source: "[[topik1-starter]]" }
+- { id: kr_topik1_014, display: "아홉", input: "아홉", meaning: "nine", level: "TOPIK 1", category: "numbers", source: "[[topik1-starter]]" }
+- { id: kr_topik1_015, display: "열", input: "열", meaning: "ten", level: "TOPIK 1", category: "numbers", source: "[[topik1-starter]]" }
+- { id: kr_topik1_016, display: "사람", input: "사람", meaning: "person", level: "TOPIK 1", category: "people", source: "[[topik1-starter]]" }
+- { id: kr_topik1_017, display: "친구", input: "친구", meaning: "friend", level: "TOPIK 1", category: "people", source: "[[topik1-starter]]" }
+- { id: kr_topik1_018, display: "가족", input: "가족", meaning: "family", level: "TOPIK 1", category: "people", source: "[[topik1-starter]]" }
+- { id: kr_topik1_019, display: "선생님", input: "선생님", meaning: "teacher", level: "TOPIK 1", category: "people", source: "[[topik1-starter]]" }
+- { id: kr_topik1_020, display: "학생", input: "학생", meaning: "student", level: "TOPIK 1", category: "people", source: "[[topik1-starter]]" }
+- { id: kr_topik1_021, display: "물", input: "물", meaning: "water", level: "TOPIK 1", category: "objects", source: "[[topik1-starter]]" }
+- { id: kr_topik1_022, display: "밥", input: "밥", meaning: "rice/meal", level: "TOPIK 1", category: "objects", source: "[[topik1-starter]]" }
+- { id: kr_topik1_023, display: "책", input: "책", meaning: "book", level: "TOPIK 1", category: "objects", source: "[[topik1-starter]]" }
+- { id: kr_topik1_024, display: "시간", input: "시간", meaning: "time", level: "TOPIK 1", category: "objects", source: "[[topik1-starter]]" }
+- { id: kr_topik1_025, display: "나라", input: "나라", meaning: "country", level: "TOPIK 1", category: "objects", source: "[[topik1-starter]]" }
+- { id: kr_topik1_026, display: "오늘", input: "오늘", meaning: "today", level: "TOPIK 1", category: "time", source: "[[topik1-starter]]" }
+- { id: kr_topik1_027, display: "내일", input: "내일", meaning: "tomorrow", level: "TOPIK 1", category: "time", source: "[[topik1-starter]]" }
+- { id: kr_topik1_028, display: "아침", input: "아침", meaning: "morning", level: "TOPIK 1", category: "time", source: "[[topik1-starter]]" }
+- { id: kr_topik1_029, display: "저녁", input: "저녁", meaning: "evening", level: "TOPIK 1", category: "time", source: "[[topik1-starter]]" }
+- { id: kr_topik1_030, display: "한국", input: "한국", meaning: "Korea", level: "TOPIK 1", category: "school", source: "[[topik1-starter]]" }
+- { id: kr_topik1_031, display: "학교", input: "학교", meaning: "school", level: "TOPIK 1", category: "school", source: "[[topik1-starter]]" }
+- { id: kr_topik1_032, display: "공부", input: "공부", meaning: "study", level: "TOPIK 1", category: "school", source: "[[topik1-starter]]" }
+- { id: kr_topik1_033, display: "안녕하세요, 만나서 반갑습니다.", input: "안녕하세요, 만나서 반갑습니다.", meaning: "", level: "TOPIK 1", category: "topik1", source: "[[topik1-starter]]" }
+- { id: kr_topik1_034, display: "저는 한국 사람입니다.", input: "저는 한국 사람입니다.", meaning: "", level: "TOPIK 1", category: "topik1", source: "[[topik1-starter]]" }
+- { id: kr_topik1_035, display: "오늘 날씨가 좋아요.", input: "오늘 날씨가 좋아요.", meaning: "", level: "TOPIK 1", category: "topik1", source: "[[topik1-starter]]" }
 ```

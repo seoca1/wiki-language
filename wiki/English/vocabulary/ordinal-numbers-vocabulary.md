@@ -292,17 +292,19 @@ English ordinal-numbers 어휘는 일상 대화에서 자주 사용됨.
 
 ## Pipeline Form (machine-readable)
 
-> Machine-readable for cross-language indexers.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: en_ordinal-numbers_001, display: "first", input: "first", meaning: "첫째", level: "A1", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
-- { id: en_ordinal-numbers_002, display: "second", input: "second", meaning: "둘째", level: "A1", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
-- { id: en_ordinal-numbers_003, display: "third", input: "third", meaning: "셋째", level: "A1", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
-- { id: en_ordinal-numbers_004, display: "fourth", input: "fourth", meaning: "넷째", level: "A2", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
-- { id: en_ordinal-numbers_005, display: "fifth", input: "fifth", meaning: "다섯째", level: "A2", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
-- { id: en_ordinal-numbers_006, display: "sixth", input: "sixth", meaning: "여섯째", level: "A2", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
-- { id: en_ordinal-numbers_007, display: "seventh", input: "seventh", meaning: "일곱째", level: "A2", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
-- { id: en_ordinal-numbers_008, display: "eighth", input: "eighth", meaning: "여덟째", level: "A2", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
-- { id: en_ordinal-numbers_009, display: "ninth", input: "ninth", meaning: "아홉째", level: "A2", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
-- { id: en_ordinal-numbers_010, display: "tenth", input: "tenth", meaning: "열째", level: "A2", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
+- { id: en_ordinal_numbers_001, display: "first", input: "first", meaning: "첫째", level: "A1", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
+- { id: en_ordinal_numbers_002, display: "second", input: "second", meaning: "둘째", level: "A1", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
+- { id: en_ordinal_numbers_003, display: "third", input: "third", meaning: "셋째", level: "A1", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
+- { id: en_ordinal_numbers_004, display: "fourth", input: "fourth", meaning: "넷째", level: "A2", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
+- { id: en_ordinal_numbers_005, display: "fifth", input: "fifth", meaning: "다섯째", level: "A2", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
+- { id: en_ordinal_numbers_006, display: "sixth", input: "sixth", meaning: "여섯째", level: "A2", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
+- { id: en_ordinal_numbers_007, display: "seventh", input: "seventh", meaning: "일곱째", level: "A2", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
+- { id: en_ordinal_numbers_008, display: "eighth", input: "eighth", meaning: "여덟째", level: "A2", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
+- { id: en_ordinal_numbers_009, display: "ninth", input: "ninth", meaning: "아홉째", level: "A2", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
+- { id: en_ordinal_numbers_010, display: "tenth", input: "tenth", meaning: "열째", level: "A2", category: "ordinal-numbers", source: "[[ordinal-numbers-vocabulary]]" }
 ```
