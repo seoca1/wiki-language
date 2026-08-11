@@ -1,6 +1,6 @@
 # Cross-Language Comparative Wiki — Index
 
-Last updated: 2026-07-29 (6 new cross-cutting pages: mood-systems, tense-aspect-systems, lengua-espanola-hispanohablantes, tradiciones-veraniegas, lunch-and-rest-patterns, diatopic-variation-patterns)
+**Last updated**: 2026-08-10 (11 new pages: sports-comparison, career-workplace-comparison, quotes-famous-lines-comparison, entertainment-pop-culture-comparison, adventure-outdoor-comparison, literature-genres-comparison, clothing-fashion-comparison, colors-comparison, animals-comparison, family-roles-comparison, directions-navigation-comparison)
 
 > **Scope**: Systematic side-by-side comparisons across **English, Spanish, Japanese, Korean, Chinese** — the five languages in this vault.
 > **Convention**: Each page follows a structured table format with per-language columns + synthesis notes. Sources cited via [[wiki/{Language}/...]] wikilinks.
@@ -36,6 +36,11 @@ Last updated: 2026-07-29 (6 new cross-cutting pages: mood-systems, tense-aspect-
 | [[time-calendar]] | EN / ES / JP / KR / CH | Clock time, dates, holidays, relative time expressions |
 | [[transportation]] | EN / ES / JP / KR / CH | Metro/train/bus systems, driving, ride-share apps |
 | [[holidays-celebrations]] | EN / ES / JP / KR / CH | Major holidays, greetings, food, gift-giving customs |
+| [[sports-comparison]] | EN / ES / JP / KR / CH | Sports vocabulary, martial arts, athletes, gear |
+| [[career-workplace-comparison]] | EN / ES / JP / KR / CH | Job titles, hierarchy, formality, after-work culture |
+| [[clothing-fashion-comparison]] | EN / ES / JP / KR / CH | Garments, traditional dress, materials, fashion vocabulary |
+| [[adventure-outdoor-comparison]] | EN / ES / JP / KR / CH | Hiking, camping, gear, safety, wilderness |
+| [[directions-navigation-comparison]] | EN / ES / JP / KR / CH | Cardinal directions, location phrases, navigation |
 | [[tradiciones-veraniegas]] | ES ↔ JP ↔ KR ↔ EN ↔ CH | Summer siesta traditions — siesta vs. 昼寝 (hirune) vs. 낮잠 (natjam) vs. power nap |
 
 ---
@@ -51,7 +56,10 @@ Last updated: 2026-07-29 (6 new cross-cutting pages: mood-systems, tense-aspect-
 | [[slang-colloquial]] | EN / ES / JP / KR / CH | Informal register, texting, regional dialect, Gen Z |
 | [[confusion-hotspots]] | EN / ES / JP / KR / CH | False friends, common errors, easy mistakes |
 | [[family-kinship]] | EN / ES / JP / KR / CH | Kinship systems, hierarchy, in-law terms |
+| [[family-roles-comparison]] | EN / ES / JP / KR / CH | Immediate family, grandparents, in-laws, spouse, cultural kinship complexity |
 | [[lunch-and-rest-patterns]] | EN ↔ ES ↔ JP ↔ KR ↔ CH | Midday meal + rest traditions — lunch timing, post-meal rest, workplace nap culture |
+| [[colors-comparison]] | EN / ES / JP / KR / CH | Basic + extended colors, cultural symbolism, gender agreement |
+| [[animals-comparison]] | EN / ES / JP / KR / CH | Domestic, wild, marine, birds, insects, mythological animals |
 | [[lengua-espanola-hispanohablantes]] | ES regional | Spanish dialectal variation — castellano, mexicano, rioplatense, andino, caribeño |
 
 ---
@@ -75,6 +83,9 @@ Last updated: 2026-07-29 (6 new cross-cutting pages: mood-systems, tense-aspect-
 |------|-----------|-------|
 | [[tech-internet]] | EN / ES / JP / KR / CH | Mobile pay, social media, streaming, internet slang |
 | [[literature-media]] | EN / ES / JP / KR / CH | Canonical authors, genres, K-pop/anime/cultural waves |
+| [[literature-genres-comparison]] | EN / ES / JP / KR / CH | Literary forms, genres, cultural-specific (wuxia, light novel, webtoon) |
+| [[entertainment-pop-culture-comparison]] | EN / ES / JP / KR / CH | Film, TV, animation, music, fandom culture |
+| [[quotes-famous-lines-comparison]] | EN / ES / JP / KR / CH | Iconic movie/literary quotes, proverb patterns, translation strategies |
 | [[learning-resources]] | EN / ES / JP / KR / CH | Apps, podcasts, textbooks, YouTube, immersion |
 
 ---

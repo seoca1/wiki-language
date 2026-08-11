@@ -1,4 +1,5 @@
 # Lunch and rest patterns across cultures (cross-linguistic comparison)
+**Last updated**: 2026-08-10
 
 **Scope:** Midday meal + rest practices across 5 cultures.
 **Languages compared:** Spanish, English, Japanese, Korean, Chinese.

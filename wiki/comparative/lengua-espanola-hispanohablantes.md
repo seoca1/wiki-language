@@ -1,4 +1,5 @@
 # Variación diatópica del español (cross-linguistic comparison)
+**Last updated**: 2026-08-10
 
 **Scope:** Comparison of Spanish dialectal variation across Spain + Latin America.
 **Languages compared:** Español castellano, español mexicano, español rioplatense, español andino, español caribeño.

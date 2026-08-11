@@ -1,4 +1,5 @@
 # Family and Kinship (Comparative)
+**Last updated**: 2026-08-10
 
 **Category:** cross-cultural-vocabulary
 

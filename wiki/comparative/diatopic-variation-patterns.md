@@ -1,4 +1,5 @@
 # Diatopic variation patterns across languages (cross-linguistic comparison)
+**Last updated**: 2026-08-10
 
 **Scope:** Regional dialectal variation across 5 languages.
 **Languages compared:** Spanish, English, Japanese, Korean, Chinese.

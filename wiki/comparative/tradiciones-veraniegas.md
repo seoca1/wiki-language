@@ -1,4 +1,5 @@
 # Tradiciones veraniegas (cross-cultural comparison)
+**Last updated**: 2026-08-10
 
 **Scope:** Comparison of summer/siesta traditions across 5+ languages.
 **Period:** Summer months (June–August, Northern Hemisphere).
