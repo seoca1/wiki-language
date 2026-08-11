@@ -1,1530 +1,1267 @@
 ---
 source: "nature-vocabulary-es"
 category: "nature"
-level: "A1-B1"
+level: "A2-B1"
 theme: "nature"
 ---
 
-# Vocabulario de Naturaleza (Spanish Nature Vocabulary)
+# Vocabulario de Naturaleza y Clima (Spanish)
 
+**Source:** [[nature-vocabulary-es]]
+**Theme:** Naturaleza y Clima
+**Level:** A2-B1
 
-Esta página agrega todo el vocabulario de naturaleza para el corpus del juego de mecanografía.
+Vocabulario español de naturaleza y clima cubriendo fenómenos naturales básicos, formaciones terrestres, plantas y verbos/adjetivos relacionados. Fuente: Vocabulario DELE de Naturaleza y Geografía.
 
 ---
 
-## Paisajes
+## Fenómenos Naturales Básicos
 
+### sol
 
+**Part of Speech:** sustantivo masculino
 
-General
+**Definition:** La estrella en el centro de nuestro sistema solar; fuente de luz y calor para la Tierra.
+
+**Pronunciation / IPA:** /sol/
+
+**Etymology:** Del latín *sol, solis*. Relacionado con *solar*.
+
+#### Examples
+
+- El **sol** sale por el este. — Hecho
+- Disfruta el **sol**. — Ocio
+
+#### Related Terms
+
+- ''amanecer'' / ''atardecer'' — Eventos diarios
+- ''luz del sol'' — Luz solar
+- ''solar'' — Adjetivo
+
+#### Cultural Notes
+
+"Sol" = fuente de vida en muchas culturas. "Hacer sol" = día soleado. "Tomar el sol" = broncearse.
+
+#### Sources
+
+- [[nature-vocabulary-es]]
+
+---
+
+### luna
+
+**Part of Speech:** sustantivo femenino
+
+**Definition:** Satélite natural de la Tierra; visible de noche por luz solar reflejada.
+
+**Pronunciation / IPA:** /ˈlu.na/
+
+**Etymology:** Del latín *luna*. Relacionado con *mes* (luna mide meses).
+
+#### Examples
+
+- La **luna** está llena esta noche. — Fase
+- Caminar bajo la **luna**. — Noche
+
+#### Related Terms
+
+- ''luna llena'' / ''luna nueva'' — Fases
+- ''lunar'' — Adjetivo
+- ''luz de luna'' — Luz reflejada
+
+#### Cultural Notes
+
+Luna = medidora de tiempo (meses). "Estar en la luna" = distraído. "Alunizar" = aterrizar en la luna.
+
+#### Sources
+
+- [[nature-vocabulary-es]]
+
+---
+
+### estrella
+
+**Part of Speech:** sustantivo femenino
+
+**Definition:** Punto luminoso en el cielo nocturno; sol distante.
+
+**Pronunciation / IPA:** /esˈtɾe.ʎa/ (peninsular) /esˈtɾe.ʒa/ (latinoamericano)
+
+**Etymology:** Del latín *stella*. Relacionado con *estelar*.
+
+#### Examples
+
+- Contar **estrellas**. — Actividad nocturna
+- Una **estrella** fugaz. — Fenómeno
+- **Estrella** de cine. — Metáfora: celebridad
+
+#### Related Terms
+
+- ''constelación'' — Patrón de estrellas
+- ''galaxia'' — Sistema de estrellas
+- ''estelar'' — Adjetivo
+
+#### Cultural Notes
+
+"Estrella" = celebridad (Paseo de la Fama). "Alcanzar las estrellas" = aspirar alto. "Estrella de mar" = animal marino.
+
+#### Sources
+
+- [[nature-vocabulary-es]]
+
+---
+
+### cielo
+
+**Part of Speech:** sustantivo masculino
+
+**Definition:** La atmósfera y el espacio visto desde la Tierra.
+
+**Pronunciation / IPA:** /ˈθje.lo/ (peninsular) /ˈsje.lo/ (latinoamericano)
+
+**Etymology:** Del latín *caelum* "cielo, bóveda celeste".
+
+#### Examples
+
+- El **cielo** es azul. — Día
+- **Paracaidismo** = *salto en paracaídas*. — Deporte
+- **Cielo** raso. — Nubes bajas
+
+#### Related Terms
+
+- ''firmamento'' — Poético
+- ''celeste'' — Adjetivo / color
+- ''infierno'' — Opuesto (religioso)
+
+#### Cultural Notes
+
+"Cielo" = cielo, paraíso (religioso). "Caer del cielo" = inesperado. "Séptimo cielo" = felicidad extrema.
+
+#### Sources
+
+- [[nature-vocabulary-es]]
+
+---
+
+### nube
+
+**Part of Speech:** sustantivo femenino
+
+**Definition:** Masa visible de gotitas de agua o cristales de hielo en la atmósfera.
+
+**Pronunciation / IPA:** /ˈnu.βe/
+
+**Etymology:** Del latín *nubes* "nube". Relacionado con *nebuloso*.
+
+#### Examples
+
+- **Nubes** blancas pasan. — Observación
+- **Nube** de polvo. — Metáfora
+- **Computación en la nube**. — Tecnología
+
+#### Related Terms
+
+- ''nublado'' — Adjetivo
+- ''niebla'' / ''neblina'' — Nubes a ras de suelo
+- [[tormenta]] — Nube de tormenta
+
+#### Cultural Notes
+
+"Nube" = metáfora tecnológica (cloud computing). "Cada nube tiene su lado plateado" = optimismo. "Estar en las nubes" = soñar despierto.
+
+#### Sources
+
+- [[nature-vocabulary-es]]
+
+---
+
+### lluvia
+
+**Part of Speech:** sustantivo femenino
+
+**Definition:** Agua cayendo de las nubes en gotas.
+
+**Pronunciation / IPA:** /ˈʎu.βja/ (peninsular) /ˈʒu.βja/ (latinoamericano)
+
+**Etymology:** Del latín *pluvia*. Relacionado con *pluvial*.
+
+#### Examples
+
+- **Lluvia** pronosticada. — Sustantivo
+- **Llueve** mucho aquí. — Verbo (*llover*)
+- **Llueva** o haga sol. — Modismo: sin importar
+
+#### Related Terms
+
+- ''lluvioso'' — Adjetivo
+- ''llovizna'' — Lluvia ligera
+- ''chaparrón'' — Lluvia fuerte repentina
+- ''precipitaciones'' — Medida
+
+#### Cultural Notes
+
+"Lluvia" = bendición (agricultura) o melancolía (ánimo). "Quedarse bajo la lluvia" = sin protección. "Llover sobre mojado" = problemas acumulados.
+
+#### Sources
+
+- [[nature-vocabulary-es]]
+
+---
+
+### nieve
+
+**Part of Speech:** sustantivo femenino
+
+**Definition:** Agua congelada cristalina cayendo en copos.
+
+**Pronunciation / IPA:** /ˈnje.βe/
+
+**Etymology:** Del latín *nix, nivis*. Relacionado con *nival*.
+
+#### Examples
+
+- La **nieve** cubre el suelo. — Sustantivo
+- **Nieva** en invierno. — Verbo (*nevar*)
+- Blanco **nieve**. — Comparación de color
+
+#### Related Terms
+
+- ''nevado'' — Adjetivo
+- ''ventisca'' — Tormenta de nieve fuerte
+- ''copo de nieve'' — Cristal individual
+- ''muñeco de nieve'' — Figura invernal
+
+#### Cultural Notes
+
+"Nieve" = alegría invernal (trineo) o carga (pala). "Bola de nieve" = efecto creciente. "Copito de nieve" = único (o despectivo: frágil).
+
+#### Sources
+
+- [[nature-vocabulary-es]]
+
+---
+
+### viento
+
+**Part of Speech:** sustantivo masculino
+
+**Definition:** Aire en movimiento; flujo natural horizontal de aire.
+
+**Pronunciation / IPA:** /ˈbjen.to/
+
+**Etymology:** Del latín *ventus*. Relacionado con *ventilación*.
+
+#### Examples
+
+- El **viento** sopla fuerte. — Observación
+- Energía **eólica** = del viento. — Renovable
+- **Dar cuerda** al reloj. — Verbo distinto (*dar vueltas*)
+
+#### Related Terms
+
+- ''ventoso'' — Adjetivo
+- ''brisa'' — Viento suave
+- ''vendaval'' — Viento fuerte
+- ''huracán'' / ''tifón'' — Ciclón tropical
+
+#### Cultural Notes
+
+"Viento" = cambio ("vientos de cambio"). "Oler el viento" = enterarse de rumores. "Segunda respiración" = energía renovada.
+
+#### Sources
+
+- [[nature-vocabulary-es]]
+
+---
+
+### tormenta
+
+**Part of Speech:** sustantivo femenino
+
+**Definition:** Perturbación violenta de la atmósfera con viento, lluvia, truenos, relámpagos o nieve.
+
+**Pronunciation / IPA:** /torˈmen.ta/
+
+**Etymology:** Del latín *tempestas* "tormenta, tiempo malo".
+
+#### Examples
+
+- Viene una **tormenta**. — Aviso
+- **Tormenta** de ideas = *brainstorming*. — Generación ideas
+- **Tormenta** de arena. — Tipo
+
+#### Related Terms
+
+- ''tormentoso'' — Adjetivo
+- ''tormenta eléctrica'' — Con relámpagos
+- ''tormenta de nieve'' — Nieve
+- ''tempestad'' — Literario: tormenta violenta
+
+#### Cultural Notes
+
+"Tormenta" = agitación metaforica. "Tormenta en un vaso de agua" = alboroto por nimiedad. " capear la tormenta" = sobrevivir dificultad.
+
+#### Sources
+
+- [[nature-vocabulary-es]]
+
+---
+
+### trueno
+
+**Part of Speech:** sustantivo masculino
+
+**Definition:** Sonido fuerte y retumbante que sigue al relámpago.
+
+**Pronunciation / IPA:** /ˈtɾwe.no/
+
+**Etymology:** Del latín *tonitru* "trueno". Thor = dios del trueno (nórdico).
+
+#### Examples
+
+- El **trueno** sigue al relámpago. — Física
+- **Truena**. — Verbo (*tronar*)
+- **Trueno** como metáfora. — Impacto
+
+#### Related Terms
+
+- ''relámpago'' — Destello
+- ''tormenta eléctrica'' — Combinada
+- ''trueno seco'' — Trueno sin lluvia
+- ''rayo'' — Relámpago que toca tierra
+
+#### Cultural Notes
+
+Thor (nórdico) / Zeus (griego) = dioses del trueno. "Robar el trueno" = quitar mérito. "Trueno" = impacto repentino.
+
+#### Sources
+
+- [[nature-vocabulary-es]]
+
+---
+
+### arcoíris
+
+**Part of Speech:** sustantivo masculino (invariable)
+
+**Definition:** Arco de colores en el cielo por refracción de luz solar en gotas de lluvia.
+
+**Pronunciation / IPA:** /aɾ.koˈi.ɾis/
+
+**Etymology:** *Arco* + *íris* (diosa griega del arcoíris). *Arcoíris* = arco de Iris.
+
+#### Examples
+
+- Un **arcoíris** tras la lluvia. — Naturaleza
+- Bandera **arcoíris**. — Símbolo LGBTQ+
+- Colores: ROYGBIV. — Nemotécnico
+
+#### Related Terms
+
+- ''prisma'' — Herramienta física
+- ''espectro'' — Rango de colores
+- ''iridiscente'' — Adjetivo
+
+#### Cultural Notes
+
+Arcoíris = esperanza, promesa (arca de Noé). Bandera arcoíris = orgullo LGBTQ+ (Gilbert Baker, 1978). "Perseguir arcoíris" = buscar lo imposible. "Olla de oro al final del arcoíris" = folclore irlandés.
+
+#### Sources
+
+- [[nature-vocabulary-es]]
+
+---
+
+## Formaciones Terrestres
 
 ### montaña
 
-**Part of Speech:** sustantivo
+**Part of Speech:** sustantivo femenino
 
-**Definition:** Mountain (large natural elevation).
+**Definition:** Gran elevación natural de la superficie terrestre, más empinada que una colina.
 
 **Pronunciation / IPA:** /monˈta.ɲa/
 
-**Etymology:** From Latin "montānea". Universal. "Montaña rusa" = "roller coaster".
+**Etymology:** Del latín *montanea* → *montanus* "de montaña" → *mons* "montaña".
 
 #### Examples
 
-- Necesito un montaña. — Expresando necesidad
-- El montaña está aquí. — Ubicación/presencia
+- Subir la **montaña**. — Actividad
+- **Cordillera** = cadena de montañas. — Serie
+- **Bicicleta de montaña** = *mountain bike*. — Deporte
 
 #### Related Terms
 
-- montaña — Autoreferencia
+- [[colina]] — Menor
+- ''cumbre'' / ''cima'' — Pico
+- ''montañismo'' — Deporte
 
 #### Cultural Notes
 
-Contexto cultural por añadir
+"Montaña" = obstáculo ("montaña que escalar"). "Hacer una montaña de un grano de arena" = exagerar. "Hombre de montaña" = aventurero.
 
 #### Sources
 
-- [[nature-vocabulary]]
+- [[nature-vocabulary-es]]
 
 ---
 
-### Examples
+### río
 
-**Part of Speech:** 
+**Part of Speech:** sustantivo masculino
 
-**Definition:** 
+**Definition:** Corriente natural grande de agua que fluye hacia mar, lago u otro río.
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈri.o/
 
-**Etymology:** 
+**Etymology:** Del latín *rivus* "arroyo, corriente".
 
 #### Examples
 
-- Examples — Oración de ejemplo necesaria
+- El **río** fluye al sur. — Dirección
+- Cruzar el **río**. — Acción
+- **Orilla** / **ribera** = orilla. — Tierra junto al río
 
 #### Related Terms
 
+- ''arroyo'' — Menor
+- ''caudal'' — Volumen de agua
+- ''desembocadura'' — Foce
+- ''delta'' — Delta
 
 #### Cultural Notes
 
-Contexto cultural por añadir
+"Río" = vida, tiempo ("río del tiempo"). "Llorar río" = exagerar. "Río revuelto, ganancia de pescadores" = caos beneficia a algunos. "Vender el río" = traicionar.
 
 #### Sources
 
-- [[nature-vocabulary]]
+- [[nature-vocabulary-es]]
 
 ---
 
-### Related Terms
+### mar
 
-**Part of Speech:** 
+**Part of Speech:** sustantivo masculino
 
-**Definition:** 
+**Definition:** Gran masa de agua salada, menor que océano, parcialmente rodeada de tierra.
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /mar/
 
-**Etymology:** 
+**Etymology:** Del latín *mare*.
 
 #### Examples
 
-- Related Terms — Oración de ejemplo necesaria
+- El **mar** está tranquilo. — Estado
+- **Nivel del mar**. — Línea base
+- **Marisco** = comida de mar. — Cocina
 
 #### Related Terms
 
+- [[océano]] — Mayor
+- ''costa'' / [[playa]] — Orilla
+- ''agua de mar'' — Agua salada
+- ''mareo'' — Mareo por movimiento
 
 #### Cultural Notes
 
-Contexto cultural por añadir
+"Mar" = vastedad, peligro, oportunidad. "Estar en el mar" = confundido. "Cambio de mar" = transformación (Shakespeare *La tempestad*). "Entre la espada y la pared" = dilema.
 
 #### Sources
 
-- [[nature-vocabulary]]
+- [[nature-vocabulary-es]]
 
 ---
 
-### Cultural Notes
+### lago
 
-**Part of Speech:** 
+**Part of Speech:** sustantivo masculino
 
-**Definition:** 
+**Definition:** Masa de agua dulce rodeada de tierra.
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈla.ɣo/
 
-**Etymology:** 
+**Etymology:** Del latín *lacus* "laguna, estanque".
 
 #### Examples
 
-- Cultural Notes — Oración de ejemplo necesaria
+- Nadar en el **lago**. — Recreo
+- **Casa del lago**. — Casa de vacaciones
+- **Distrito de los lagos**. — Región
 
 #### Related Terms
 
+- ''laguna'' — Menor
+- ''embalse'' — Artificial
+- ''orilla'' — Costa
 
 #### Cultural Notes
 
-Contexto cultural por añadir
+"Lago" = recreo, tranquilidad. "Efecto lago" = fenómeno meteorológico. "Grandes Lagos" = Norteamérica.
 
 #### Sources
 
-- [[nature-vocabulary]]
+- [[nature-vocabulary-es]]
 
 ---
 
-### Sources
+### bosque
 
-**Part of Speech:** 
+**Part of Speech:** sustantivo masculino
 
-**Definition:** 
+**Definition:** Gran área cubierta principalmente de árboles y vegetación baja.
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈbos.ke/
 
-**Etymology:** 
+**Etymology:** Del latín *boscus* "bosque, maleza" → germánico *busk* "arbusto".
 
 #### Examples
 
-- Sources — Oración de ejemplo necesaria
+- Caminar por el **bosque**. — Recreo
+- **Incendio forestal** = *incendio de bosque*. — Desastre
+- **Selva tropical** = *rainforest*. — Tropical
 
 #### Related Terms
 
+- ''bosquecillo'' — Menor, menos denso
+- ''selva'' — Tropical denso
+- ''madera'' — Comercial
+- ''deforestación'' — Tala
 
 #### Cultural Notes
 
-Contexto cultural por añadir
+"Bosque" = misterio, peligro, refugio. "No ver el bosque por los árboles" = perder vista general. "Baño de bosque" (*shinrin-yoku*) = bienestar japonés.
 
 #### Sources
 
-- [[nature-vocabulary]]
+- [[nature-vocabulary-es]]
+
+---
+
+### desierto
+
+**Part of Speech:** sustantivo masculino
+
+**Definition:** Área árida con poca precipitación; tierra desierta.
+
+**Pronunciation / IPA:** /deˈsjɛɾ.to/
+
+**Etymology:** Del latín *desertum* "abandonado" → *deserere* "abandonar".
+
+#### Examples
+
+- El **desierto** es caliente. — Clima
+- **Isla desierta**. — Aislada
+- **Merecido** = *just deserts*. — Castigo (suena como *postres*)
+
+#### Related Terms
+
+- ''árido'' — Adjetivo
+- ''oasis'' — Punto de agua
+- ''duna de arena'' — Formación
+- ''cactus'' — Planta
+
+#### Cultural Notes
+
+"Desierto" (sustantivo) vs "postre" (dulce) — trampa ortográfica. "Desierto" (verbo) = abandonar. "Tormenta del desierto" = operación militar.
+
+#### Sources
+
+- [[nature-vocabulary-es]]
+
+---
+
+### isla
+
+**Part of Speech:** sustantivo femenino
+
+**Definition:** Tierra completamente rodeada de agua.
+
+**Pronunciation / IPA:** /ˈis.la/
+
+**Etymology:** Del latín *insula* → *insulam*. *Isla* = forma popular de *insula*.
+
+#### Examples
+
+- **Isla** tropical. — Paraíso
+- **Nación insular**. — País
+- **Salto de isla** = *island hopping*. — Viaje
+
+#### Related Terms
+
+- ''islote'' — Pequeña / poética
+- ''archipiélago'' — Cadena de islas
+- ''península'' — Casi isla
+- ''atolón'' — Arrecife anular
+
+#### Cultural Notes
+
+"Isla" = aislamiento, paraíso, vulnerabilidad. "Nadie es una isla" = interconexión (Donne). "Mentalidad insular" = pensamiento cerrado.
+
+#### Sources
+
+- [[nature-vocabulary-es]]
 
 ---
 
 ### playa
 
-**Part of Speech:** sustantivo
+**Part of Speech:** sustantivo femenino
 
-**Definition:** Beach (sandy shore).
+**Definition:** Orilla arenosa o pedregosa junto al agua.
 
 **Pronunciation / IPA:** /ˈpla.ʝa/
 
-**Etymology:** From Late Latin " plagiam" (sandy area). Universal. "Playa pública" = "public beach".
+**Etymology:** Del latín *plagia* "costa, playa" → *plagia* "área arenosa".
 
 #### Examples
 
-- Necesito un playa. — Expresando necesidad
-- El playa está aquí. — Ubicación/presencia
+- Relajarse en la **playa**. — Ocio
+- **Voleibol de playa**. — Deporte
+- **Casa de playa**. — Casa de vacaciones
 
 #### Related Terms
 
-- playa — Autoreferencia
+- ''orilla'' — General
+- ''costa'' — Límite tierra-mar
+- ''costa'' — Zona
+- ''castillo de arena'' — Actividad
 
 #### Cultural Notes
 
-Contexto cultural por añadir
+"Playa" = ocio, vacaciones, libertad. "Playero" = holgazán. "La vida es una playa" = juego de palabras. "Lectura de playa" = novela ligera.
 
 #### Sources
 
-- [[nature-vocabulary]]
+- [[nature-vocabulary-es]]
 
 ---
 
-### Examples
+### colina
 
-**Part of Speech:** 
+**Part of Speech:** sustantivo femenino
 
-**Definition:** 
+**Definition:** Elevación natural de terreno, menor que una montaña.
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /koˈli.na/
 
-**Etymology:** 
+**Etymology:** Del latín *collina* "colina", de *collis* "colina".
 
 #### Examples
 
-- Examples — Oración de ejemplo necesaria
+- Subir la **colina**. — Esfuerzo
+- **Estación de montaña** = *hill station*. — Refugio colonial
+- **Subida** / **bajada**. — Dirección
 
 #### Related Terms
 
+- [[montaña]] — Mayor
+- ''ladera'' — Lado
+- ''cuesta arriba'' / ''cuesta abajo'' — Dirección
+- ''Capitol Hill'' — Gobierno (EE.UU.)
 
 #### Cultural Notes
 
-Contexto cultural por añadir
+"Colina" = reto moderado. "Pasar la colina" = pasado el prime (edad). "Rey de la colina" = juego competitivo. "Dirigirse a las colinas" = huir.
 
 #### Sources
 
-- [[nature-vocabulary]]
+- [[nature-vocabulary-es]]
 
 ---
 
-### Related Terms
+### valle
 
-**Part of Speech:** 
+**Part of Speech:** sustantivo masculino
 
-**Definition:** 
+**Definition:** Área baja entre colinas/montañas, a menudo con un río.
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈba.ʎe/ (peninsular) /ˈba.ʝe/ (latinoamericano)
 
-**Etymology:** 
+**Etymology:** Del latín *vallis* "valle".
 
 #### Examples
 
-- Related Terms — Oración de ejemplo necesaria
+- El **valle** es verde. — Descripción
+- **Valle del Silicio** = *Silicon Valley*. — Región tecnológica
+- **Valle de la muerte**. — Metáfora
 
 #### Related Terms
 
+- ''cañón'' — Profundo, empinado
+- ''garganta'' — Cañón estrecho
+- ''vega'' — Poético (valle fértil)
+- ''llano'' — Plano (opuesto)
 
 #### Cultural Notes
 
-Contexto cultural por añadir
+"Valle" = protegido, fértil. "Valle de la Muerte" = calor extremo. "Chica del valle" = estereotipo 80s. "Valle inquietante" = rechazo robótica.
 
 #### Sources
 
-- [[nature-vocabulary]]
+- [[nature-vocabulary-es]]
 
 ---
 
-### Cultural Notes
+### océano
 
-**Part of Speech:** 
+**Part of Speech:** sustantivo masculino
 
-**Definition:** 
+**Definition:** Vasta masa de agua salada que cubre ~71% de la superficie terrestre.
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /oˈθe.a.no/ (peninsular) /oˈse.a.no/ (latinoamericano)
 
-**Etymology:** 
+**Etymology:** Del griego *Ōkeanós* (río mítico que rodea el mundo).
 
 #### Examples
 
-- Cultural Notes — Oración de ejemplo necesaria
+- El **océano** es vasto. — Escala
+- **Corrientes oceánicas**. — Circulación
+- **Transatlántico** = *ocean liner*. — Barco
 
 #### Related Terms
 
+- [[mar]] — Menor
+- ''Pacífico'' / ''Atlántico'' — Océanos nombrados
+- ''marino'' — Adjetivo
+- ''mar profundo'' — Abisal
 
 #### Cultural Notes
 
-Contexto cultural por añadir
+"Océano" = vastedad última, misterio. "Gota en el océano" = insignificante. "Ocean's Eleven" = franquicia ladrones. "Estrategia océano azul" = mercado sin competencia.
 
 #### Sources
 
-- [[nature-vocabulary]]
+- [[nature-vocabulary-es]]
 
 ---
 
-### Sources
+## Plantas
 
-**Part of Speech:** 
+### flor
 
-**Definition:** 
+**Part of Speech:** sustantivo femenino
 
-**Pronunciation / IPA:** 
+**Definition:** Estructura reproductiva de plantas con flores; floración.
 
-**Etymology:** 
+**Pronunciation / IPA:** /floɾ/
+
+**Etymology:** Del latín *flos, floris* → *florem*. PIE *bʰleh₃-* "florecer".
 
 #### Examples
 
-- Sources — Oración de ejemplo necesaria
+- La **flor** florece en primavera. — Temporada
+- **Arreglo floral** = *flower arrangement*. — Arte
+- **Flor silvestre** = *wildflower*. — No cultivada
 
 #### Related Terms
 
+- [[florecer]] — Verbo/sustantivo
+- ''floración'' — Floración de árboles
+- ''ramo'' — Arreglado
+- ''floristería'' / ''florista'' — Vendedor
 
 #### Cultural Notes
 
-Contexto cultural por añadir
+"Flor" = belleza, transitoriedad. "Poder floral" = movimiento paz 60s. "Hijo de las flores" = hippie. "Parar a oler las flores" = apreciar la vida.
 
 #### Sources
 
-- [[nature-vocabulary]]
+- [[nature-vocabulary-es]]
 
 ---
 
-### parque
+### árbol
 
-**Part of Speech:** sustantivo
+**Part of Speech:** sustantivo masculino
 
-**Definition:** Park (green area).
+**Definition:** Planta leñosa perenne con tronco y ramas.
 
-**Pronunciation / IPA:** /ˈpaɾ.ke/
+**Pronunciation / IPA:** /ˈaɾ.βol/
 
-**Etymology:** From Old French "parc". Universal. "Parque nacional" = "national park".
+**Etymology:** Del latín *arbor, arboris* "árbol".
 
 #### Examples
 
-- Necesito un parque. — Expresando necesidad
-- El parque está aquí. — Ubicación/presencia
+- El **árbol** da sombra. — Función
+- **Árbol genealógico** = *family tree*. — Genealogía
+- **Árbol de decisión** = *decision tree*. — Diagrama CS
 
 #### Related Terms
 
-- parque — Autoreferencia
+- [[bosque]] — Muchos árboles
+- ''brote'' — Árbol joven
+- ''tronco'' / ''rama'' — Partes
+- ''caducifolio'' / ''perenne'' — Tipos
 
 #### Cultural Notes
 
-Contexto cultural por añadir
+"Árbol" = vida, conocimiento (Árbol del Conocimiento), familia. "El dinero no crece en los árboles" = escasez. "No ver el bosque por los árboles" = obsesión por detalles.
 
 #### Sources
 
-- [[nature-vocabulary]]
+- [[nature-vocabulary-es]]
 
 ---
 
-### Examples
+### hierba
 
-**Part of Speech:** 
+**Part of Speech:** sustantivo femenino
 
-**Definition:** 
+**Definition:** Plantas verdes cortas cubriendo suelo; plantas herbáceas.
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈʝeɾ.βa/ (peninsular) /ˈʝeɾ.βa/ (latinoamericano)
 
-**Etymology:** 
+**Etymology:** Del latín *herba* "hierba, planta" → PIE *gʰreh₁-* "crecer, verde".
 
 #### Examples
 
-- Examples — Oración de ejemplo necesaria
+- Cortar la **hierba**. — Cuidado césped
+- La **hierba** es verde. — Color
+- **Hierba** = marihuana (jerga). — Jerga
 
 #### Related Terms
 
+- ''césped'' — Hierba cuidada
+- ''prado'' — Campo hierba silvestre
+- ''pasto'' — Tierra de pastoreo
+- ''césped'' — Tepe
 
 #### Cultural Notes
 
-Contexto cultural por añadir
+"Hierba" = cultura césped (suburbios). "Hierba" = marihuana (jerga). "Serpiente en la hierba" = traidor oculto. "Raíces de hierba" = fundamental/original.
 
 #### Sources
 
-- [[nature-vocabulary]]
+- [[nature-vocabulary-es]]
 
 ---
 
-### Related Terms
+### hoja
 
-**Part of Speech:** 
+**Part of Speech:** sustantivo femenino
 
-**Definition:** 
+**Definition:** Estructura verde aplanada de la planta para fotosíntesis.
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈo.xa/
 
-**Etymology:** 
+**Etymology:** Del latín *folia* (plural de *folium*) → *folium* "hoja".
 
 #### Examples
 
-- Related Terms — Oración de ejemplo necesaria
+- La **hoja** cae en otoño. — Temporada
+- **Hojear** un libro = *leaf through*. — Verbo: pasar páginas
+- **Hoja de arce** = símbolo (Canadá).
 
 #### Related Terms
 
+- ''hojas'' — Plural (irregular de *hoja*)
+- ''follaje'' — Colectivo
+- ''folleto'' — Hoja pequeña / panfleto
+- ''perenne'' — Mantiene hojas
 
 #### Cultural Notes
 
-Contexto cultural por añadir
+"Hoja" = página (libro), extensión mesa. "Dar una vuelta a la hoja" = nuevo comienzo. "Temblar como una hoja" = temblar. "Turismo de follaje" = otoño.
 
 #### Sources
 
-- [[nature-vocabulary]]
+- [[nature-vocabulary-es]]
 
 ---
 
-### Cultural Notes
+### rosa
 
-**Part of Speech:** 
+**Part of Speech:** sustantivo femenino
 
-**Definition:** 
+**Definition:** Arbusto espinoso con flores; la flor misma; color rosa-rojo.
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈro.sa/
 
-**Etymology:** 
+**Etymology:** Del latín *rosa* → griego *rhodon* → persa *wurdi* → avéstico *varəda*.
 
 #### Examples
 
-- Cultural Notes — Oración de ejemplo necesaria
+- **Rosaleda** = *rose garden*. — Cultivo
+- Color **rosa**. — Rosa-rojo
+- **Gafas de color rosa** = optimismo.
 
 #### Related Terms
 
+- ''espina'' — Espina
+- ''rosal'' — Planta
+- ''rosado'' — Adjetivo
+- ''rosario'' — Cuentas oración
 
 #### Cultural Notes
 
-Contexto cultural por añadir
+"Rosa" = amor, belleza, Inglaterra (Guerra de las Rosas). "Toda rosa tiene su espina" = defecto en belleza. "Gafas de color rosa" = optimismo. "Sub rosa" = secreto (latín).
 
 #### Sources
 
-- [[nature-vocabulary]]
+- [[nature-vocabulary-es]]
 
 ---
 
-### Sources
+### jardín
 
-**Part of Speech:** 
+**Part of Speech:** sustantivo masculino
 
-**Definition:** 
+**Definition:** Espacio exterior planificado para cultivo de plantas.
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈxaɾ.ðin/
 
-**Etymology:** 
+**Etymology:** Del francés *jardin* → franco *gardo* "recinto" → germánico *gardaz* "recinto, patio".
 
 #### Examples
 
-- Sources — Oración de ejemplo necesaria
+- Trabajar en el **jardín**. — Afición
+- **Fiesta en el jardín**. — Social
+- **Kindergarten** = jardín de niños (alemán).
 
 #### Related Terms
 
+- ''jardinería'' — Actividad
+- ''jardinero'' — Persona
+- ''jardín botánico'' — Científico
+- ''patio'' — EE.UU.: zona césped
 
 #### Cultural Notes
 
-Contexto cultural por añadir
+"Jardín" = cultivo, paraíso (Jardín del Edén). "Variedad de jardín" = ordinario. "Llevar por el jardín" = engañar. "Fiesta en el jardín" = evento formal exterior.
 
 #### Sources
 
-- [[nature-vocabulary]]
+- [[nature-vocabulary-es]]
 
 ---
 
-### acantilado
+## Verbos y Adjetivos de Naturaleza
 
-**Part of Speech:** sustantivo
+### florecer
 
-**Definition:** Cliff (steep rock face).
+**Part of Speech:** verbo
 
-**Pronunciation / IPA:** /a.kantiˈla.ðo/
+**Definition:** (de flor/planta) producir flores; florecer, prosperar.
 
-**Etymology:** From "cantil" (steep slope). "Acantilado rocoso" = "rocky cliff".
+**Pronunciation / IPA:** /flo.ɾeˈθeɾ/ (peninsular) /flo.ɾeˈseɾ/ (latinoamericano)
+
+**Etymology:** Del latín *florēre* "florecer", de *flos* "flor". Relacionado con *flor*.
 
 #### Examples
 
-- Necesito un acantilado. — Expresando necesidad
-- El acantilado está aquí. — Ubicación/presencia
+- Las rosas **florecen** en junio. — Estacional
+- El jardín **florece**. — Prospera
+- **Floreciente** genio = eufemismo británico (intensificador).
 
 #### Related Terms
 
-- acantilado — Autoreferencia
-
-#### Cultural Notes
-
-Contexto cultural por añadir
+- [[flor]] — Sustantivo
+- ''floración'' — Floración de árboles
+- [[florecer]] — Sustantivo/verbo
 
 #### Sources
 
-- [[nature-vocabulary]]
+- [[nature-vocabulary-es]]
 
 ---
 
-### Examples
+### caer
 
-**Part of Speech:** 
+**Part of Speech:** verbo
 
-**Definition:** 
+**Definition:** Moverse hacia abajo por gravedad; (hojas) caer; (lluvia/nieve) precipitar.
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /kaˈeɾ/
 
-**Etymology:** 
+**Etymology:** Del latín *cadere* → *cadere* "caer". PIE *kad-* "caer".
 
 #### Examples
 
-- Examples — Oración de ejemplo necesaria
+- Las hojas **caen** en otoño. — Temporada
+- La lluvia **cae**. — Precipitación
+- **Caer** enamorado. — Metáfora
 
 #### Related Terms
 
-
-#### Cultural Notes
-
-Contexto cultural por añadir
+- ''otoño'' = *fall* (EE.UU.) / *autumn* (UK)
+- [[caer]] — Sinónimo
+- ''derrumbarse'' — Colapsar
 
 #### Sources
 
-- [[nature-vocabulary]]
+- [[nature-vocabulary-es]]
 
 ---
 
-### Related Terms
+### crecer
 
-**Part of Speech:** 
+**Part of Speech:** verbo
 
-**Definition:** 
+**Definition:** Aumentar de tamaño; desarrollarse; cultivar.
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /ˈkɾe.θeɾ/ (peninsular) /ˈkɾe.seɾ/ (latinoamericano)
 
-**Etymology:** 
+**Etymology:** Del latín *crescere* "crecer". PIE *ḱer-* "crecer".
 
 #### Examples
 
-- Related Terms — Oración de ejemplo necesaria
+- Las plantas **crecen** hacia la luz. — Biología
+- **Cultivar** verduras. — Cultivar
+- **Crecer** = madurar.
 
 #### Related Terms
 
-
-#### Cultural Notes
-
-Contexto cultural por añadir
+- ''crecimiento'' — Sustantivo
+- ''criar'' — Criar (animales/niños)
+- ''crecido'' — Adulto
 
 #### Sources
 
-- [[nature-vocabulary]]
+- [[nature-vocabulary-es]]
 
 ---
 
-### Cultural Notes
+### congelar
 
-**Part of Speech:** 
+**Part of Speech:** verbo
 
-**Definition:** 
+**Definition:** Convertir líquido en sólido por frío; enfriar mucho.
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /kon.xeˈlaɾ/
 
-**Etymology:** 
+**Etymology:** Del latín *congelare* "congelar", de *con-* + *gelare* "helar" (*gelu* "hielo").
 
 #### Examples
 
-- Cultural Notes — Oración de ejemplo necesaria
+- El agua **se congela** a 0°C. — Física
+- Me **congela** el viento. — Muy frío
+- **Congelar** imagen = *freeze frame*. — Video
 
 #### Related Terms
 
-
-#### Cultural Notes
-
-Contexto cultural por añadir
+- ''congelado'' — Adjetivo
+- ''hielo'' — Sustantivo
+- ''descongelar'' — Opuesto
+- ''congelación'' — Sustantivo (paro ordenador)
 
 #### Sources
 
-- [[nature-vocabulary]]
+- [[nature-vocabulary-es]]
 
 ---
 
-### Sources
+### derretir
 
-**Part of Speech:** 
+**Part of Speech:** verbo
 
-**Definition:** 
+**Definition:** Convertir sólido en líquido por calor.
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /de.ɾeˈtiɾ/
 
-**Etymology:** 
+**Etymology:** Del latín *deretire* → *de-* + *retire*? En realidad del latín vulgar *deretire* "deshacer", de *re-* + *tirar*? Etimología incierta; cf. *derretir* en portugués.
 
 #### Examples
 
-- Sources — Oración de ejemplo necesaria
+- El hielo **se derrite** al sol. — Física
+- **Derretir** mantequilla. — Cocina
+- **Crisol** = *melting pot*. — Metáfora
 
 #### Related Terms
 
-
-#### Cultural Notes
-
-Contexto cultural por añadir
+- ''derretido'' — Adjetivo / sándwich
+- ''descongelar'' — Derretimiento gradual
+- [[congelar]] — Opuesto
 
 #### Sources
 
-- [[nature-vocabulary]]
+- [[nature-vocabulary-es]]
 
 ---
 
-### promontorio
+### brillar
 
-**Part of Speech:** sustantivo
+**Part of Speech:** verbo
 
-**Definition:** Promontory (high point of land).
+**Definition:** Emitir o reflejar luz; ser brillante.
 
-**Pronunciation / IPA:** /pɾo.monˈto.ɾjo/
+**Pronunciation / IPA:** /bɾiˈʎaɾ/ (peninsular) /bɾiˈʒaɾ/ (latinoamericano)
 
-**Etymology:** From Latin "promontorium". "Promontorio rocoso" = "rocky promontory".
+**Etymology:** Del latín *beryllare*? En realidad del latín *bryllare*? Etimología debatida; cf. italiano *brillare*, francés *briller*. Probablemente germánico *berl-* "brillar".
 
 #### Examples
 
-- Necesito un promontorio. — Expresando necesidad
-- El promontorio está aquí. — Ubicación/presencia
+- El sol **brilla**. — Luz
+- **Brillar** los zapatos. — Limpiar
+- Ejemplo **brillante**. — Metáfora
 
 #### Related Terms
 
-- promontorio — Autoreferencia
-
-#### Cultural Notes
-
-Contexto cultural por añadir
+- [[brillante]] — Adjetivo
+- ''brillo'' — Sustantivo (limpieza)
+- ''resplandor'' — Luz solar
+- ''eclipsar'' — Superar
 
 #### Sources
 
-- [[nature-vocabulary]]
+- [[nature-vocabulary-es]]
 
 ---
 
-### Examples
+### brillante
 
-**Part of Speech:** 
+**Part of Speech:** adjetivo
 
-**Definition:** 
+**Definition:** Lleno de luz; color vivo; inteligente.
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /bɾiˈʎan.te/ (peninsular) /bɾiˈʒan.te/ (latinoamericano)
 
-**Etymology:** 
+**Etymology:** Participio de *brillar* usado como adjetivo.
 
 #### Examples
 
-- Examples — Oración de ejemplo necesaria
+- **Brillante** luz solar. — Luz
+- Colores **brillantes**. — Vivos
+- Estudiante **brillante**. — Inteligente
 
 #### Related Terms
 
-
-#### Cultural Notes
-
-Contexto cultural por añadir
+- [[brillar]] — Verbo
+- ''resplandeciente'' — Muy brillante
+- ''opaco'' — Opuesto
+- ''brillantina'' — Cosmético
 
 #### Sources
 
-- [[nature-vocabulary]]
+- [[nature-vocabulary-es]]
 
 ---
 
-### Related Terms
+### oscuro
 
-**Part of Speech:** 
+**Part of Speech:** adjetivo
 
-**Definition:** 
+**Definition:** Sin luz; negro/noche; misterioso; triste.
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /osˈku.ɾo/
 
-**Etymology:** 
+**Etymology:** Del latín *obscurus* "oscuro, oculto" → *ob-* + *scurus* "cubierto".
 
 #### Examples
 
-- Related Terms — Oración de ejemplo necesaria
+- Noche **oscura**. — Sin luz
+- Colores **oscuros**. — Tonos profundos
+- Secreto **oscuro**. — Oculto
+- Humor **oscuro**. — Triste
 
 #### Related Terms
 
-
-#### Cultural Notes
-
-Contexto cultural por añadir
+- ''oscuridad'' — Sustantivo
+- ''penumbra'' — Semi-oscuro
+- ''negro azabache'' — Completamente oscuro
+- ''claro'' — Opuesto
 
 #### Sources
 
-- [[nature-vocabulary]]
+- [[nature-vocabulary-es]]
 
 ---
 
-### Cultural Notes
+### caliente
 
-**Part of Speech:** 
+**Part of Speech:** adjetivo
 
-**Definition:** 
+**Definition:** Alta temperatura; picante; popular; intenso.
 
-**Pronunciation / IPA:** 
+**Pronunciation / IPA:** /kaˈljen.te/
 
-**Etymology:** 
-
-#### Examples
-
-- Cultural Notes — Oración de ejemplo necesaria
-
-#### Related Terms
-
-
-#### Cultural Notes
-
-Contexto cultural por añadir
-
-#### Sources
-
-- [[nature-vocabulary]]
-
----
-
-### Sources
-
-**Part of Speech:** 
-
-**Definition:** 
-
-**Pronunciation / IPA:** 
-
-**Etymology:** 
+**Etymology:** Del latín *calens* "caliente" → *calere* "estar caliente". PIE *kel-* "calor".
 
 #### Examples
 
-- Sources — Oración de ejemplo necesaria
+- Tiempo **caliente**. — Temperatura
+- Chile **caliente**. — Picante
+- Tema **caliente**. — Popular
+- Temperamento **caliente**. — Irascible
 
 #### Related Terms
 
-
-#### Cultural Notes
-
-Contexto cultural por añadir
+- ''calor'' — Sustantivo
+- ''ardiente'' — Muy caliente
+- ''tibio'' — Moderado
+- [[frío]] — Opuesto
 
 #### Sources
 
-- [[nature-vocabulary]]
+- [[nature-vocabulary-es]]
 
 ---
 
 ### frío
 
-**Part of Speech:** sustantivo
+**Part of Speech:** adjetivo
 
-**Definition:** Cold / Cold weather.
+**Definition:** Baja temperatura; antipático; sin respuesta.
 
 **Pronunciation / IPA:** /ˈfɾi.o/
 
-**Etymology:** From Latin "frīgĭdum". Antonym: "calor". "Hace frío" = "It's cold".
+**Etymology:** Del latín *frigidus* "frío" → *frigere* "helar". PIE *srig-* "frío, helar".
 
 #### Examples
 
-- Necesito un frío. — Expresando necesidad
-- El frío está aquí. — Ubicación/presencia
+- Tiempo **frío**. — Temperatura
+- Persona **fría**. — Antipática
+- **Llamada en frío** = *cold call*. — No solicitada
+- **Guerra fría**. — Tensión
 
 #### Related Terms
 
-- frío — Autoreferencia
-
-#### Cultural Notes
-
-Contexto cultural por añadir
-
-#### Sources
-
-- [[nature-vocabulary]]
-
----
-
-### Examples
-
-**Part of Speech:** 
-
-**Definition:** 
-
-**Pronunciation / IPA:** 
-
-**Etymology:** 
-
-#### Examples
-
-- Examples — Oración de ejemplo necesaria
-
-#### Related Terms
-
-
-#### Cultural Notes
-
-Contexto cultural por añadir
+- ''fresco'' — Moderadamente frío
+- ''helado'' — Muy frío
+- ''fresquito'' — Desagradablemente frío
+- ''cálido'' — Opuesto
 
 #### Sources
 
-- [[nature-vocabulary]]
+- [[nature-vocabulary-es]]
 
 ---
 
-### Related Terms
-
-**Part of Speech:** 
-
-**Definition:** 
-
-**Pronunciation / IPA:** 
-
-**Etymology:** 
-
-#### Examples
-
-- Related Terms — Oración de ejemplo necesaria
-
-#### Related Terms
-
-
-#### Cultural Notes
-
-Contexto cultural por añadir
-
-#### Sources
-
-- [[nature-vocabulary]]
-
----
-
-### Cultural Notes
-
-**Part of Speech:** 
-
-**Definition:** 
-
-**Pronunciation / IPA:** 
-
-**Etymology:** 
-
-#### Examples
-
-- Cultural Notes — Oración de ejemplo necesaria
-
-#### Related Terms
-
-
-#### Cultural Notes
-
-Contexto cultural por añadir
-
-#### Sources
-
-- [[nature-vocabulary]]
-
----
-
-### Sources
-
-**Part of Speech:** 
-
-**Definition:** 
-
-**Pronunciation / IPA:** 
-
-**Etymology:** 
-
-#### Examples
-
-- Sources — Oración de ejemplo necesaria
-
-#### Related Terms
-
-
-#### Cultural Notes
-
-Contexto cultural por añadir
-
-#### Sources
-
-- [[nature-vocabulary]]
-
----
-
-### calor pegajoso
-
-**Part of Speech:** sustantivo
-
-**Definition:** 
-
-**Pronunciation / IPA:** 
-
-**Etymology:** 
-
-#### Examples
-
-- Necesito un calor pegajoso. — Expresando necesidad
-- El calor pegajoso está aquí. — Ubicación/presencia
-
-#### Related Terms
-
-- calor pegajoso — Autoreferencia
-
-#### Cultural Notes
-
-Contexto cultural por añadir
-
-#### Sources
-
-- [[nature-vocabulary]]
-
----
-
-### Examples
-
-**Part of Speech:** 
-
-**Definition:** 
-
-**Pronunciation / IPA:** 
-
-**Etymology:** 
-
-#### Examples
-
-- Examples — Oración de ejemplo necesaria
-
-#### Related Terms
-
-
-#### Cultural Notes
-
-Contexto cultural por añadir
-
-#### Sources
-
-- [[nature-vocabulary]]
-
----
-
-### Related Terms
-
-**Part of Speech:** 
-
-**Definition:** 
-
-**Pronunciation / IPA:** 
-
-**Etymology:** 
-
-#### Examples
-
-- Related Terms — Oración de ejemplo necesaria
-
-#### Related Terms
-
-
-#### Cultural Notes
-
-Contexto cultural por añadir
-
-#### Sources
-
-- [[nature-vocabulary]]
-
----
-
-### Cultural Notes
-
-**Part of Speech:** 
-
-**Definition:** 
-
-**Pronunciation / IPA:** 
-
-**Etymology:** 
-
-#### Examples
-
-- Cultural Notes — Oración de ejemplo necesaria
-
-#### Related Terms
-
-
-#### Cultural Notes
-
-Contexto cultural por añadir
-
-#### Sources
-
-- [[nature-vocabulary]]
-
----
-
-### Sources
-
-**Part of Speech:** 
-
-**Definition:** 
-
-**Pronunciation / IPA:** 
-
-**Etymology:** 
-
-#### Examples
-
-- Sources — Oración de ejemplo necesaria
-
-#### Related Terms
-
-
-#### Cultural Notes
-
-Contexto cultural por añadir
-
-#### Sources
-
-- [[nature-vocabulary]]
-
----
-
-### solanera
-
-**Part of Speech:** sustantivo (femenino)
-
-**Definition:** Solanera / Sunny spot, sustained sunny weather. Lugar donde el sol incide directamente por largo tiempo.
-
-**Pronunciation / IPA:** /so.laˈne.ɾa/
-
-**Etymology:** From "sol" (sol) + "-anera" (lugar/cualidad). "Buena solanera" = buen tiempo soleado sostenido.
-
-#### Examples
-
-- *Disfrutamos de una **solanera** perfecta en la playa.* — Uso general
-- *La casa tiene buena **solanera** por la mañana.* — Descripción
-- *Tras días de lluvia, salió la **solanera**.* — Cambio climático
-
-#### Related Terms
-
-- *bochorno* — calor húmedo opuesto
-- *promontorio* — geografía costera
-- *playa* — contexto típico
-
-#### Cultural Notes
-
-En zonas costeras y mediterráneas, la "solanera" define el ritmo de vida: actividades al aire libre, secado de ropa, siestas. En *El ahogado más hermoso del mundo*, el contraste entre la solanera del pueblo árido y la humedad del mar marca la atmósfera. "Buena solanera" es un cumplido al clima; "mala solanera" implica días nublados/tristes.
-
-#### Sources
-
-- [[el-ahogado-mas-hermoso-del-mundo]]
-- [[nature-vocabulary]]
----
-
-### sargazo
-
-**Part of Speech:** sustantivo (masculino)
-
-**Definition:** Sargazo / Sargassum (brown seaweed genus). Algas pardas que forman "islas" flotantes en el mar de los Sargazos.
-
-**Pronunciation / IPA:** /saɾˈɣa.θo/ (Spain) or /saɾˈɣa.so/ (Latin America)
-
-**Etymology:** From Portuguese "sargaço". El "Mar de los Sargazos" (Sargasso Sea) toma su nombre de estas algas.
-
-#### Examples
-
-- *Le quitaron los **matorrales de sargazos** al ahogado.* — El ahogado más hermoso
-- *El **sargazo** llega a las playas del Caribe en temporada.* — Ecología
-- *Flotan **sargazos** a la deriva.* — Marino
-
-#### Related Terms
-
-- *mar-de-los-sargazos* — región oceánica
-- *alga* — categoría general
-- *promontorio* — donde llega el sargazo
-
-#### Cultural Notes
-
-En *El ahogado más hermoso del mundo*, los sargazos cubren el cuerpo del ahogado, indicando que viene de "océanos remotos y aguas profundas". El sargazo es bioindicador: su llegada masiva a playas caribeñas (desde 2011) afecta turismo y ecosistemas. En náutica, "sargazo" evoca el Mar de los Sargazos, zona de calma y algas que atrapaba veleros antiguos.
-
-#### Sources
-
-- [[el-ahogado-mas-hermoso-del-mundo]]
-- [[nature-vocabulary]]
----
-
-### altivez
-
-**Part of Speech:** sustantivo (femenino)
-
-**Definition:** Altivez / Haughtiness, proud bearing. Dignidad orgullosa, porte elevado. El ahogado "sobrellevaba la muerte con **altivez**".
-
-**Pronunciation / IPA:** /al.tiˈβes/ (Spain) or /al.tiˈves/ (Latin America)
-
-**Etymology:** From "altivo" (altivo, orgulloso) + "-ez" (cualidad). De Latin "altus" (alto).
-
-#### Examples
-
-- *El ahogado sobrellevaba la muerte con **altivez**.* — El ahogado más hermoso
-- *Caminaba con **altivez** real.* — Actitud
-- *Su **altivez** ofendía a los humildes.* — Juicio
-
-#### Related Terms
-
-- *orgullo* — sinónimo cercano
-- *soberbia* — exceso de altivez
-- *humildad* — opuesto
-
-#### Cultural Notes
-
-En el cuento, la "altivez" del ahogado muerto contrasta con la "catadura sórdida y menesterosa de los ahogados fluviales". García Márquez usa la altivez para ennoblecer al cadáver: no es un cuerpo abandonado, es un señor que muere con dignidad. En español, "altivez" tiene matiz aristocrático — "porte altivo" = postura de quien sabe su valía.
-
-#### Sources
-
-- [[el-ahogado-mas-hermoso-del-mundo]]
-- [[nature-vocabulary]]
----
-
-### desvalido
-
-**Part of Speech:** adjetivo / sustantivo
-
-**Definition:** Desvalido / Helpless, defenseless, destitute. Persona sin amparo, protección o recursos. "El semblante **desvalido** de los otros ahogados".
-
-**Pronunciation / IPA:** /des.baˈli.ðo/
-
-**Etymology:** From "des-" (privativo) + "valido" (valido, amparado, del Latin "validus" fuerte). Literalmente "sin valido/protector".
-
-#### Examples
-
-- *El ahogado no tenía el semblante **desvalido** de los otros.* — El ahogado más hermoso
-- *Los niños **desvalidos** necesitan protección.* — Social
-- *Se sintió **desvalido** ante la burocracia.* — Emocional
-
-#### Related Terms
-
-- *indefenso* — sinónimo
-- *desamparado* — sinónimo
-- *amparo* — lo que falta
-
-#### Cultural Notes
-
-"Desvalido" lleva carga jurídica y moral: el "desvalido" es sujeto de derecho a protección. En la literatura del realismo mágico, los desvalidos suelen ser los que reciben la gracia milagrosa. El contraste en el cuento: el ahogado NO parece desvalido (tiene altivez), lo que transforma a las mujeres de cuidadoras a devotas.
-
-#### Sources
-
-- [[el-ahogado-mas-hermoso-del-mundo]]
-- [[nature-vocabulary]]
----
-
-### angarilla
-
-**Part of Speech:** sustantivo (femenino)
-
-**Definition:** Angarilla / Shears, improvised stretcher (nautical). Herramienta de carpintería de ribera; también camilla improvisada para transportar cargas pesadas.
-
-**Pronunciation / IPA:** /aŋ.ɡaˈɾi.ʎa/ (Spain) or /aŋ.ɡaˈɾi.ʝa/ (Latin America)
-
-**Etymology:** Del gallego/portugués "angarilla" (tijeras de carpintero). Herramienta de dos brazos para alzar troncos.
-
-#### Examples
-
-- *Improvisaron unas **angarillas** con restos de trinquetes.* — El ahogado más hermoso
-- *Las **angarillas** sirven para mover el cadáver.* — Funerario marítimo
-- *Carpintero de ribera usa **angarillas**.* — Oficio tradicional
-
-#### Related Terms
-
-- *camilla* — equivalente moderno
-- *trinquete* — pieza de aparejo reutilizada
-- *funeral-maritimo* — contexto
-
-#### Cultural Notes
-
-En el cuento, las "angarillas" son camillas improvisadas con "restos de trinquetes y botavaras" — lenguaje náutico preciso que ancla el realismo. "Angarilla" es voz gallega/portuguesa del oficio de ribera (carpintería naval), reflejando el mundo pesquero del pueblo. La improvisación ritualiza el duelo: los hombres usan sus herramientas de trabajo para honrar al muerto.
-
-#### Sources
-
-- [[el-ahogado-mas-hermoso-del-mundo]]
-- [[nature-vocabulary]]
----
-
-### minucioso
+### cálido / templado
 
 **Part of Speech:** adjetivo
 
-**Definition:** Minucioso / Meticulous, painstaking, detailed. Que cuida los mínimos detalles. Las mujeres limpian al ahogado con cuidado **minucioso**.
+**Definition:** Moderadamente caliente; acogedor; reconfortante.
 
-**Pronunciation / IPA:** /mi.nuˈθjo.so/ (Spain) or /mi.nuˈsjo.so/ (Latin America)
+**Pronunciation / IPA:** /ˈka.li.ðo/ /temˈpla.ðo/
 
-**Etymology:** From Latin "minutiōsus" (minuto, pequeño). De "minutus" (pequeño).
+**Etymology:** *Cálido* del latín *calidus* "caliente" → *calere*. *Templado* de *templar* "templar, moderar".
 
 #### Examples
 
-- *Las mujeres lo limpiaron con cuidado **minucioso**.* — El ahogado más hermoso
-- *Un trabajo **minucioso** requiere paciencia.* — Laboral
-- *Inspección **minuciosa** del documento.* — Formal
+- Día **cálido**. — Temperatura
+- **Cálida** bienvenida. — Acogedora
+- Colores **cálidos** = rojo/naranja/amarillo.
+- **Calentar** motores = *warm up*. — Preparar
 
 #### Related Terms
 
-- *detallado* — sinónimo
-- *cuidadoso* — relacionado
-- *exhaustivo* — sinónimo técnico
-
-#### Cultural Notes
-
-"Minucioso" en el cuento eleva el acto de limpiar un cadáver a ritual sagrado. Cada "tapón de esparto", cada "fierro de desescamar" se aplica con minuciosidad que borra la frontera entre aseo y veneración. En español académico, "análisis minucioso" es estándar; en literario, sugiere devoción obsesiva.
+- ''calidez'' — Sustantivo
+- [[caliente]] — Más caliente
+- ''fresco'' — Más frío
+- ''tibio'' — Tepido
 
 #### Sources
 
-- [[el-ahogado-mas-hermoso-del-mundo]]
-- [[nature-vocabulary]]
+- [[nature-vocabulary-es]]
+
 ---
 
-### bobo
+## Fuentes
 
-**Part of Speech:** adjetivo / sustantivo
+- Vocabulario DELE de Naturaleza
+- Geografía
+- [[first-travel-spain]] — palabras de naturaleza de viaje
 
-**Definition:** Bobo / Fool, simpleton; también "tonto" cariñoso. "Ya se fue el **bobo** grande, qué bueno, ya se fue el tonto hermoso".
-
-**Pronunciation / IPA:** /ˈbo.βo/
-
-**Etymology:** From Latin "balbus" (tartamudo, que habla mal). Evolución: balbucear > bobo (el que no habla bien > el tonto).
-
-#### Examples
-
-- *Ya se fue el **bobo** grande, qué bueno.* — El ahogado más hermoso
-- *No seas **bobo**, entiende la indirecta.* — Coloquial
-- *Un **bobo** de libro.* — Literario
-
-#### Related Terms
-
-- *tonto* — sinónimo estándar
-- *simple* — sinónimo suave
-- *necio* — más fuerte, terco
-
-#### Cultural Notes
-
-En el cuento, "bobo" funciona como epíteto paradójico: el ahogado es "el bobo grande" (despectivo) y a la vez "el tonto hermoso" (admirado). La comunidad lo rechaza y lo ama simultáneamente. En España, "bobo" es más coloquial/infantil que "tonto"; en México, "bobo" suena arcaico o literario ("bobada" = tontería). "Hacer el bobo" = actuar tonto a propósito.
-
-#### Sources
-
-- [[el-ahogado-mas-hermoso-del-mundo]]
-- [[nature-vocabulary]]
----
-
-### bochorno
-
-**Part of Speech:** sustantivo (masculino)
-
-**Definition:** Bochorno / Stifling heat, sultriness. Calor húmedo y sofocante que produce malestar físico. También: vergüenza, sonrojo (sentido figurado).
-
-**Pronunciation / IPA:** /boˈtʃoɾ.no/
-
-**Etymology:** From Late Latin "vulturnus" (viento del sur) via Vulgar Latin *bulturnus. Originalmente "viento cálido del sur"; evolución semántica: viento sur → calor sofocante → vergüenza (calor en la cara).
-
-#### Examples
-
-- *¡Qué **bochorno** hace hoy! No se puede ni respirar.* — Calor húmedo
-- *El **bochorno** de agosto en Sevilla es insoportable.* — Clima estival
-- *Me dio mucho **bochorno** mi error en público.* — Vergüenza (figurado)
-
-#### Related Terms
-
-- *calor-pegajoso* — sinónimo descriptivo
-- *solanera* — opuesto (sol agradable)
-- *altivez* — aparece en mismo cuento (García Márquez)
-
-#### Cultural Notes
-
-**Bochorno** es la palabra clave del verano mediterráneo/andaluz: no es solo temperatura, es humedad que impide la evaporación del sudor. En *Notes in Spanish*, "¡qué bochorno!" es exclamación diaria julio-agosto. En literatura (García Márquez, *El ahogado más hermoso*), el bochorno atmosférico paralela el bochorno emocional/social. Doble sentido: el pueblo siente bochorno (calor) y luego bochorno (vergüenza/piedad) ante el ahogado. En España, "pasar bochorno" = pasar vergüenza ajena.
-
-#### Sources
-
-- [[notes-in-spanish-listening-log]]
-- [[el-ahogado-mas-hermoso-del-mundo]]
-- [[nature-vocabulary]]
----
-
-### chaparrón
-
-**Part of Speech:** sustantivo (masculino)
-
-**Definition:** Chaparrón / Sudden heavy rain shower. Lluvia fuerte, breve e inesperada. Típica de tormentas de verano.
-
-**Pronunciation / IPA:** /tʃa.paˈron/
-
-**Etymology:** Diminutivo de "chapar" (llover fuerte). Onomatopéyico: evoca sonido de gotas grandes.
-
-#### Examples
-
-- *Viene un **chaparrón**, mejor esperar bajo el portal.* — Notes in Spanish
-- *Nos sorprendió un **chaparrón** en la montaña.* — Senderismo
-- *El **chaparrón** duró diez minutos y paró.* — Brevedad típica
-
-#### Related Terms
-
-- *tormenta* — tormenta eléctrica (mayor escala)
-- *lluvia* — término general
-- *granizo* — lluvia de hielo (puede acompañar)
-
-#### Cultural Notes
-
-En *Notes in Spanish Advanced*, "chaparrón" aparece en vocabulario estival: tormentas de tarde de verano, típicas en interior peninsular (Madrid, Castilla). El chaparrón es **breve pero intenso**: moja completamente en minutos. Diferencia con "llovizna" (lluvia fina, prolongada) y "tormenta" (con rayos/truenos, más larga). Expresión: "caer un chaparrón" = empezar a llover fuerte de golpe. En México: "chubasco" (más técnico); en Argentina: "chaparrón" también se usa.
-
-#### Sources
-
-- [[notes-in-spanish-planes-de-verano]]
-- [[nature-vocabulary]]
----
-
-### bosque
-
-**Part of Speech:** sustantivo (masculino)
-
-**Definition:** Bosque / Forest, woods. Área extensa cubierta de árboles. Típico para senderismo, camping, fauna.
-
-**Pronunciation / IPA:** /ˈbos.ke/
-
-**Etymology:** From Latin "boscus" (bosque, maleza). Germánico *busk* (arbusto).
-
-#### Examples
-
-- *Caminamos por el **bosque** tres horas.* — Senderismo
-- *El **bosque** de hayas en otoño.* — Descripción
-- *Perdidos en el **bosque**.* — Emergencia
-
-#### Related Terms
-
-- *arbol* — componente
-- *sendero* — camino en bosque
-- *fauna* — animales
-
-#### Cultural Notes
-
-**España**: Bosques atlánticos (norte: hayas, robles), mediterráneos (encinas, alcornoques, pinos). **Parques Nacionales**: Ordesa (bosque mixto), Doñana (marismas + pinares), Garajonay (laurisilva). **LatAm**: Selva amazónica (bosque tropical), bosque nublado (Andes), bosque patagónico (lengas, ñires). En *viaje-aventura*, "bosque" = entorno principal senderismo/camping.
-
-#### Sources
-
-- [[viaje-aventura]]
-- [[nature-vocabulary]]
----
-
-### rio
-
-**Part of Speech:** sustantivo (masculino)
-
-**Definition:** Río / River. Corriente natural de agua dulce que fluye hacia mar, lago u otro río.
-
-**Pronunciation / IPA:** /ˈri.o/
-
-**Etymology:** From Latin "rīvus" (arroyo, corriente).
-
-#### Examples
-
-- *El **río** Ebro nace en Cantabria.* — Geografía
-- *Cruzamos el **río** en balsa.* — Actividad
-- *Río **caudaloso** / **seco**.* — Estado
-
-#### Related Terms
-
-- *caudal* — volumen agua
-- *orilla* — ribera
-- *puente* — cruce
-
-#### Cultural Notes
-
-**España**: Ebro (más caudaloso), Tajo (más largo), Duero, Guadalquivir. **Deportes**: Rafting (Noguera Pallaresa, Ara), piragüismo, pesca. **LatAm**: Amazonas (mundo), Orinoco, Paraná, Magdalena. **Río seco** = rambla/arroyo (clima árido). En *viaje-aventura*, "río" = recurso agua, obstáculo, actividad (rafting, pesca).
-
-#### Sources
-
-- [[viaje-aventura]]
-- [[nature-vocabulary]]
----
-
-### lago
-
-**Part of Speech:** sustantivo (masculino)
-
-**Definition:** Lago / Lake. Masa de agua dulce (o salada) rodeada de tierra. Origen glaciar, volcánico, tectónico.
-
-**Pronunciation / IPA:** /ˈla.ɣo/
-
-**Etymology:** From Latin "lacus" (laguna, estanque).
-
-#### Examples
-
-- *El **lago** de Sanabria es el mayor glacial ibérico.* — Geografía
-- *Nadar en el **lago** en verano.* — Recreo
-- *Reflejo de montañas en el **lago**.* — Paisaje
-
-#### Related Terms
-
-- *laguna* — menor, somera
-- *embalse* — artificial (presa)
-- *orilla* — costa
-
-#### Cultural Notes
-
-**España**: Sanabria (Zamora, glacial), Banyoles (Girona, kárstico), Embalses (Buendía, Entrepeñas). **LatAm**: Titicaca (Perú/Bolivia, navegable más alto), Nahuel Huapi (Argentina, glacial), Atitlán (Guatemala, volcánico). **Actividades**: Kayak, vela, pesca, senderismo perimetral. En *viaje-aventura*, "lago" = base camping, agua, navegación.
-
-#### Sources
-
-- [[viaje-aventura]]
-- [[nature-vocabulary]]
----
-
-### tienda-de-campana
-
-**Part of Speech:** sustantivo (femenino)
-
-**Definition:** Tienda de campaña / Tent. Refugio portátil de tela/lona con varillas, para dormir en exteriores (camping, senderismo, emergencia).
-
-**Pronunciation / IPA:** /ˈtjen.da ðe kamˈpa.ɲa/
-
-**Etymology:** "Tienda" (taller/puesto, del latín "tenda") + "campaña" (campo militar, del latín "campania").
-
-#### Examples
-
-- *Montamos la **tienda de campaña** al atardecer.* — Camping
-- *Tienda **igloo** (autoportante) vs **canadiense** (varillas).* — Tipos
-- *Saco de dormir + **tienda** = kit básico.* — Equipo
-
-#### Related Terms
-
-- *saco-dormir* — sleeping bag
-- *esterilla* — sleeping pad
-- *camping* — actividad
-- *vivac* — dormir sin tienda (emergencia)
-
-#### Cultural Notes
-
-**Tipos**: Igloo (fácil montaje, viento), Canadiense (espaciosa, clásica), Túnel (grupos), Ultraligera (senderismo largo). **España**: Camping regulado (áreas habilitadas, "acampada libre" prohibida en parques). **LatAm**: "Carpa" (Argentina, Chile, Uruguay, Paraguay), "tienda de campaña" (México, Colombia, España). **Vivac** = dormir a la intemperie (bivy sack), solo experimentados. En *viaje-aventura*, "tienda de campaña" = equipo esencial camping.
-
-#### Sources
-
-- [[viaje-aventura]]
-- [[nature-vocabulary]]
----
-
-### brujula
-
-**Part of Speech:** sustantivo (femenino)
-
-**Definition:** Brújula / Compass. Instrumento de orientación con aguja magnética que apunta al norte magnético.
-
-**Pronunciation / IPA:** /ˈbɾu.xu.la/
-
-**Etymology:** From Italian "bussola" (caja de la brújula), del latín "buxis" (caja de buis/boj).
-
-#### Examples
-
-- *La **brújula** marca el norte.* — Orientación
-- *Usar **brújula** + mapa = navegación.* — Técnica
-- *Brújula **de baseplato** (senderismo).* — Tipo
-
-#### Related Terms
-
-- *mapa* — complemento indispensable
-- *norte* — referencia
-- *azimut* — ángulo navegación
-- *gps* — alternativa electrónica
-
-#### Cultural Notes
-
-**Partes**: Aguja (roja=norte), limbo (grados 0-360), flecha dirección, líneas orientación. **Uso**: Alinear mapa con norte real → tomar azimut → caminar. **Declinación magnética** = diferencia norte magnético vs geográfico (corregir en mapas topográficos). **España**: Norte magnético ~2-3° Oeste. **GPS** complementa, no sustituye (batería, señal). En *viaje-aventura*, "brújula" = navegación básica, "mapa + brújula" = kit clásico.
-
-#### Sources
-
-- [[viaje-aventura]]
-- [[nature-vocabulary]]
----
-
-### mapa
-
-**Part of Speech:** sustantivo (masculino)
-
-**Definition:** Mapa / Map. Representación gráfica a escala de territorio. Topográfico (curvas nivel), vial (carreteras), temático.
-
-**Pronunciation / IPA:** /ˈma.pa/
-
-**Etymology:** From Latin "mappa" (paño, servilleta) → "mappa mundi" (paño del mundo).
-
-#### Examples
-
-- *El **mapa** topográfico 1:25.000 es estándar.* — Senderismo
-- *¿Me prestas el **mapa** de la zona?* — Petición
-- *GPS + **mapa** papel = redundancia.* — Seguridad
-
-#### Related Terms
-
-- *brujula* — compañero inseparable
-- *curvas-nivel* — relieve
-- *escala* — proporción
-- *gps* — digital
-
-#### Cultural Notes
-
-**Tipos**: Topográfico (IGN/CNIG España, 1:25.000/1:50.000), Vial (carreteras), Turístico (senderos, refugios). **España**: IGN (Instituto Geográfico Nacional) = oficial. **Apps**: Wikiloc, AllTrails, Mapas de España (IGN), OpenStreetMap. **Offline**: descargar antes (sin cobertura montaña). **LatAm**: IGN nacionales, mapas militares, OpenStreetMap. En *viaje-aventura*, "mapa" + "brújula" = navegación clásica inseparable.
-
-#### Sources
-
-- [[viaje-aventura]]
-- [[nature-vocabulary]]
----
-
-### clima
-
-**Part of Speech:** sustantivo (masculino)
-
-**Definition:** Clima / Weather (conditions), Climate (long-term pattern). Estado atmosférico: temperatura, humedad, viento, precipitación, presión.
-
-**Pronunciation / IPA:** /ˈkli.ma/
-
-**Etymology:** From Greek "klima" (inclinación, latitud) → latín "clima".
-
-#### Examples
-
-- *El **clima** de montaña cambia rápido.* — Variabilidad
-- *Revisa el **clima** antes de salir.* — Previsión
-- *Clima **mediterráneo** / **alpino** / **desértico**.* — Tipos
-
-#### Related Terms
-
-- *tiempo* — estado actual (sinónimo coloquial)
-- *prevision* — forecast
-- *tormenta* — fenómeno severo
-- *microclima* — zona concreta
-
-#### Cultural Notes
-
-**España**: Mediterráneo (costa), Continental (meseta), Oceánico (norte), Alpino (Pirineos/Sierra Nevada), Semidesértico (Almería). **Montaña**: "Clima de montaña" = cambiante, tormentas tarde, T° baja noche. **Apps**: AEMET (oficial España), Meteoblue, Windy, Mountain-Forecast.com. **Señales**: Nubes lenticulares (viento cima), cumulonimbus (tormenta), niebla valle (inversión térmica). En *viaje-aventura*, "clima" = factor crítico seguridad, "revisar clima" = hábito obligatorio.
-
-#### Sources
-
-- [[viaje-aventura]]
-- [[nature-vocabulary]]
----
-
-### tormenta
-
-**Part of Speech:** sustantivo (femenino)
-
-**Definition:** Tormenta / Thunderstorm. Fenómeno meteorológico severo: lluvia intensa, rayos, truenos, viento fuerte, granizo posible.
-
-**Pronunciation / IPA:** /torˈmen.ta/
-
-**Etymology:** From Latin "turmenta" (máquinas de guerra) → "tormenta" (perturbación atmosférica).
-
-#### Examples
-
-- *Nos pilló una **tormenta** en la cumbre.* — Peligro
-- *Tormenta **de tarde** típica de verano.* — Patrón
-- *Buscar refugio ante **tormenta**.* — Seguridad
-
-#### Related Terms
-
-- *rayo* — lightning
-- *trueno* — thunder
-- *granizo* — hail
-- *refugio* — shelter
-
-#### Cultural Notes
-
-**Peligros**: Rayo (cima, cresta, árbol aislado, objeto metálico), hipotermia (lluvia + viento + frío), crecida río/barranco (flash flood). **Regla 30-30**: si trueno <30s tras rayo → refugio; esperar 30 min tras último trueno. **Montaña**: tormentas tarde (calentamiento diurno → convección). **España**: AEMET avisos (amarillo/naranja/rojo). En *viaje-aventura*, "tormenta" = principal riesgo meteorológico, "buscar refugio" = prioridad.
-
-#### Sources
-
-- [[viaje-aventura]]
-- [[nature-vocabulary]]
 ---
 
 ## Pipeline Form (machine-readable)
@@ -1534,32 +1271,43 @@ En *Notes in Spanish Advanced*, "chaparrón" aparece en vocabulario estival: tor
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: es_nature_001, display: "montaña", input: "montaña", meaning: "Mountain (large natural elevation).", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
-- { id: es_nature_002, display: "Examples", input: "Examples", meaning: "**Pronunciation / IPA:**", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
-- { id: es_nature_003, display: "Related Terms", input: "Related Terms", meaning: "**Pronunciation / IPA:**", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
-- { id: es_nature_004, display: "Cultural Notes", input: "Cultural Notes", meaning: "**Pronunciation / IPA:**", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
-- { id: es_nature_005, display: "Sources", input: "Sources", meaning: "**Pronunciation / IPA:**", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
-- { id: es_nature_006, display: "playa", input: "playa", meaning: "Beach (sandy shore).", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
-- { id: es_nature_007, display: "parque", input: "parque", meaning: "Park (green area).", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
-- { id: es_nature_008, display: "acantilado", input: "acantilado", meaning: "Cliff (steep rock face).", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
-- { id: es_nature_009, display: "promontorio", input: "promontorio", meaning: "Promontory (high point of land).", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
-- { id: es_nature_010, display: "frío", input: "frío", meaning: "Cold / Cold weather.", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
-- { id: es_nature_011, display: "calor pegajoso", input: "calor pegajoso", meaning: "**Pronunciation / IPA:**", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
-- { id: es_nature_012, display: "solanera", input: "solanera", meaning: "Sunny spot / Sunny weather (sustained).", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
-- { id: es_nature_013, display: "sargazo", input: "sargazo", meaning: "Sargazo / Sargassum (brown seaweed genus). Algas pardas que forman "islas" flotantes en el mar de los Sargazos.", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
-- { id: es_nature_014, display: "altivez", input: "altivez", meaning: "Altivez / Haughtiness, proud bearing. Dignidad orgullosa, porte elevado. El ahogado "sobrellevaba la muerte con **altivez**".", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
-- { id: es_nature_015, display: "desvalido", input: "desvalido", meaning: "Desvalido / Helpless, defenseless, destitute. Persona sin amparo, protección o recursos. "El semblante **desvalido** de los otros ahogados".", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
-- { id: es_nature_016, display: "angarilla", input: "angarilla", meaning: "Angarilla / Shears, improvised stretcher (nautical). Herramienta de carpintería de ribera; también camilla improvisada para transportar cargas pesadas.", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
-- { id: es_nature_017, display: "minucioso", input: "minucioso", meaning: "Minucioso / Meticulous, painstaking, detailed. Que cuida los mínimos detalles. Las mujeres limpian al ahogado con cuidado **minucioso**.", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
-- { id: es_nature_018, display: "bobo", input: "bobo", meaning: "Bobo / Fool, simpleton; también "tonto" cariñoso. "Ya se fue el **bobo** grande, qué bueno, ya se fue el tonto hermoso".", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
-- { id: es_nature_019, display: "bochorno", input: "bochorno", meaning: "Bochorno / Stifling heat, sultriness. Calor húmedo y sofocante que produce malestar físico. También: vergüenza, sonrojo (sentido figurado).", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
-- { id: es_nature_020, display: "chaparrón", input: "chaparrón", meaning: "Chaparrón / Sudden heavy rain shower. Lluvia fuerte, breve e inesperada. Típica de tormentas de verano.", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
-- { id: es_nature_021, display: "bosque", input: "bosque", meaning: "Bosque / Forest, woods. Área extensa cubierta de árboles. Típico para senderismo, camping, fauna.", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
-- { id: es_nature_022, display: "rio", input: "rio", meaning: "Río / River. Corriente natural de agua dulce que fluye hacia mar, lago u otro río.", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
-- { id: es_nature_023, display: "lago", input: "lago", meaning: "Lago / Lake. Masa de agua dulce (o salada) rodeada de tierra. Origen glaciar, volcánico, tectónico.", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
-- { id: es_nature_024, display: "tienda-de-campana", input: "tienda-de-campana", meaning: "Tienda de campaña / Tent. Refugio portátil de tela/lona con varillas, para dormir en exteriores (camping, senderismo, emergencia).", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
-- { id: es_nature_025, display: "brujula", input: "brujula", meaning: "Brújula / Compass. Instrumento de orientación con aguja magnética que apunta al norte magnético.", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
-- { id: es_nature_026, display: "mapa", input: "mapa", meaning: "Mapa / Map. Representación gráfica a escala de territorio. Topográfico (curvas nivel), vial (carreteras), temático.", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
-- { id: es_nature_027, display: "clima", input: "clima", meaning: "Clima / Weather (conditions), Climate (long-term pattern). Estado atmosférico: temperatura, humedad, viento, precipitación, presión.", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
-- { id: es_nature_028, display: "tormenta", input: "tormenta", meaning: "Tormenta / Thunderstorm. Fenómeno meteorológico severo: lluvia intensa, rayos, truenos, viento fuerte, granizo posible.", level: "A1-B1", category: "nature", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_001, display: "sol", input: "sol", meaning: "태양", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_002, display: "luna", input: "luna", meaning: "달", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_003, display: "estrella", input: "estrella", meaning: "별", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_004, display: "cielo", input: "cielo", meaning: "하늘", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_005, display: "nube", input: "nube", meaning: "구름", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_006, display: "lluvia", input: "lluvia", meaning: "비", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_007, display: "nieve", input: "nieve", meaning: "눈", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_008, display: "viento", input: "viento", meaning: "바람", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_009, display: "tormenta", input: "tormenta", meaning: "폭풍", level: "A2", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_010, display: "trueno", input: "trueno", meaning: "천둥", level: "A2", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_011, display: "arcoíris", input: "arcoíris", meaning: "무지개", level: "A2", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_012, display: "montaña", input: "montaña", meaning: "산", level: "A2", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_013, display: "río", input: "río", meaning: "강", level: "A2", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_014, display: "mar", input: "mar", meaning: "바다", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_015, display: "lago", input: "lago", meaning: "호수", level: "A2", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_016, display: "bosque", input: "bosque", meaning: "숲", level: "A2", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_017, display: "desierto", input: "desierto", meaning: "사막", level: "A2", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_018, display: "isla", input: "isla", meaning: "섬", level: "A2", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_019, display: "playa", input: "playa", meaning: "해변", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_020, display: "colina", input: "colina", meaning: "언덕", level: "A2", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_021, display: "valle", input: "valle", meaning: "계곡", level: "A2", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_022, display: "océano", input: "océano", meaning: "바다", level: "A2", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_023, display: "flor", input: "flor", meaning: "꽃", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_024, display: "árbol", input: "árbol", meaning: "나무", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_025, display: "hierba", input: "hierba", meaning: "풀", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_026, display: "hoja", input: "hoja", meaning: "잎", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_027, display: "rosa", input: "rosa", meaning: "장미", level: "A2", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_028, display: "jardín", input: "jardín", meaning: "정원", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_029, display: "florecer", input: "florecer", meaning: "피다", level: "A2", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_030, display: "caer", input: "caer", meaning: "떨어지다", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_031, display: "crecer", input: "crecer", meaning: "성장하다", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_032, display: "congelar", input: "congelar", meaning: "얼다", level: "A2", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_033, display: "derretir", input: "derretir", meaning: "녹다", level: "A2", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_034, display: "brillar", input: "brillar", meaning: "빛나다", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_035, display: "brillante", input: "brillante", meaning: "밝은", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_036, display: "oscuro", input: "oscuro", meaning: "어두운", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_037, display: "caliente", input: "caliente", meaning: "더운", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_038, display: "frío", input: "frío", meaning: "추운", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
+- { id: es_nature_039, display: "cálido", input: "cálido", meaning: "따뜻한", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary-es]]" }
 ```
