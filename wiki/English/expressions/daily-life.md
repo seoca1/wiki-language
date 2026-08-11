@@ -394,15 +394,15 @@ Universal — 모든 시간, 모든 상황.
 - `[[Language/wiki/comparative/food-dining]]` — Restaurant phrases
 - `[[Language/wiki/comparative/travel-essentials]]` — Travel phrases
 - `[[Language/wiki/comparative/politeness-honorifics]]` — Politeness systems
-- `[[wiki/English/index]]` — English wiki main
-- `[[wiki/English/culture/english-dating-culture]]` — English dating culture
-- `[[wiki/English/culture/english-workplace-culture]]` — English workplace culture
+- `[[index]]` — English wiki main
+- `[English/culture/english-dating-culture]` — English dating culture
+- `[English/culture/english-workplace-culture]` — English workplace culture
 
 ---
 
 ## Sources
 
-- `[[wiki/English/vocabulary/basic-vocabulary]]`
+- `[English/vocabulary/basic-vocabulary]`
 - `[[Language/wiki/comparative/greetings]]`
 - `[[Language/wiki/comparative/politeness-honorifics]]`
 - `[[Language/wiki/comparative/cultural-values]]`

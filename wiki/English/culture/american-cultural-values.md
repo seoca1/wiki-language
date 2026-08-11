@@ -466,7 +466,7 @@ Frontier Myth — Frederick Jackson Turner (1893) thesis that American democracy
 - World Values Survey
 - Pew Research: Religion & Public Life
 - Hofstede, Hofstede & Minkov — *Cultures and Organizations* (2010)
-- `[[wiki/English/vocabulary/basic-vocabulary]]`
-- `[[wiki/English/culture/english-dating-culture]]`
-- `[[wiki/English/culture/english-workplace-culture]]`
+- `[English/vocabulary/basic-vocabulary]`
+- `[English/culture/english-dating-culture]`
+- `[English/culture/english-workplace-culture]`
 - `[[Language/wiki/comparative/untranslatable-concepts]]`

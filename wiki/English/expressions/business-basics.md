@@ -417,17 +417,17 @@ Email: john.smith@company.com
 - `[[Language/wiki/comparative/business-email]]` — 5-language business email comparison
 - `[[Language/wiki/comparative/politeness-honorifics]]` — Politeness systems
 - `[[daily-life]]` — Everyday expressions
-- `[[wiki/English/expressions/daily-basics]]` — English daily basics
-- `[[wiki/English/expressions/daily-life]]` — English daily life
-- `[[wiki/English/expressions/dating-romance]]` — English dating
-- `[[wiki/English/index]]` — English wiki main
-- `[[wiki/English/culture/english-workplace-culture]]` — English workplace culture
-- `[[wiki/English/culture/english-dating-culture]]` — English dating culture
+- `[English/expressions/daily-basics]` — English daily basics
+- `[English/expressions/daily-life]` — English daily life
+- `[English/expressions/dating-romance]` — English dating
+- `[[index]]` — English wiki main
+- `[English/culture/english-workplace-culture]` — English workplace culture
+- `[English/culture/english-dating-culture]` — English dating culture
 
 ---
 
 ## Sources
 
-- `[[wiki/English/vocabulary/business-vocabulary]]`
+- `[English/vocabulary/business-vocabulary]`
 - `[[Language/wiki/comparative/business-email]]`
 - `[[Language/wiki/comparative/politeness-honorifics]]`

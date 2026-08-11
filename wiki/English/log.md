@@ -5,7 +5,7 @@
 - Updated `wiki/English/vocabulary/nature-vocabulary.md` with 39 entries (was 2 stub entries)
 - Categories: Natural Phenomena (11), Landforms (10), Plants (6), Verbs/Adjectives (12)
 - Added IPA pronunciation, etymology, examples, cultural notes, related terms for each entry
-- Created source summary: [[sources/nature-vocabulary]]
+- Created source summary: [[nature-vocabulary]]
 - Updated index.md (Sources: 19 → 20)
 - Pipeline Form YAML appendix includes all 39 entries for game corpus
 
@@ -14,7 +14,7 @@
 - Updated `wiki/English/vocabulary/emotions-personality-vocabulary.md` with 41 entries (merged with existing detailed 25 entries)
 - Categories: Basic Emotions (11), Positive Personality Traits (13), Negative Personality Traits (6), Emotion Verbs (11)
 - Added IPA pronunciation, etymology, examples, cultural notes, related terms for each entry
-- Created source summary: [[sources/emotions-personality-vocabulary]]
+- Created source summary: [[emotions-personality-vocabulary]]
 - Updated index.md (Sources: 18 → 19)
 - Pipeline Form YAML appendix includes all 41 entries for game corpus
 
@@ -23,7 +23,7 @@
 - Updated `wiki/English/vocabulary/clothing-vocabulary.md` with 30 entries (was 6 stub entries)
 - Categories: Basic Clothing (10), Colors & Materials (4), Fabric Materials (4), Verbs/Adjectives (12)
 - Added IPA pronunciation, etymology, examples, cultural notes, related terms for each entry
-- Created source summary: [[sources/clothing-vocabulary]]
+- Created source summary: [[clothing-vocabulary]]
 - Updated index.md (Sources: 17 → 18)
 - Pipeline Form YAML appendix includes all 30 entries for game corpus
 
@@ -32,7 +32,7 @@
 - Updated `wiki/English/vocabulary/business-vocabulary.md` with 52 entries (was 9 tech-only stub entries)
 - Categories: Email/Correspondence (11), Meetings & Work (10), Corporate Structure (11), Phone/Communication (4), Business Expressions (4), Communication & Technology (8 merged from existing)
 - Added IPA pronunciation, etymology, examples, cultural notes, related terms for each entry
-- Created source summary: [[sources/business-vocabulary]]
+- Created source summary: [[business-vocabulary]]
 - Updated index.md (Sources: 16 → 17)
 - Pipeline Form YAML appendix includes all 52 entries for game corpus
 
@@ -41,7 +41,7 @@
 - Updated `wiki/English/vocabulary/animals-vocabulary.md` with 37 entries (was 6 stub entries)
 - Categories: Pets & Farm (10), Wild Animals (11), Insects & Marine (6), Verbs/Adjectives (10)
 - Added IPA pronunciation, etymology, examples, cultural notes, related terms for each entry
-- Created source summary: [[sources/animals-vocabulary]]
+- Created source summary: [[animals-vocabulary]]
 - Updated index.md (Sources: 15 → 16)
 - Pipeline Form YAML appendix includes all 37 entries for game corpus
 
@@ -141,7 +141,7 @@ Index.md updated (Expressions: 3 → 5 theme files, 22 → 42 entries)
 
 Two new comprehensive English culture pages added, bringing English to 5 culture pages (matching ES/KR/CN/JP range):
 
-- [[culture/english-school-life]] - English-Speaking School Culture — US/UK/CA/AU K-12 + college, SAT/A-Levels, prom, dorm life, Ivy League vs Oxbridge (2026-07-19 신규)
-- [[culture/english-holidays]] - English-Speaking Holidays — Thanksgiving, Christmas, Halloween, July 4, ANZAC, Remembrance, Black Friday, religious observances (2026-07-19 신규)
+- [[english-school-life]] - English-Speaking School Culture — US/UK/CA/AU K-12 + college, SAT/A-Levels, prom, dorm life, Ivy League vs Oxbridge (2026-07-19 신규)
+- [[english-holidays]] - English-Speaking Holidays — Thanksgiving, Christmas, Halloween, July 4, ANZAC, Remembrance, Black Friday, religious observances (2026-07-19 신규)
 
 Index.md updated (Culture: 2 → 5 entries)

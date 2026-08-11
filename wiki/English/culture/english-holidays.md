@@ -601,9 +601,9 @@ Martin Luther King Jr. Day (3rd Monday of January) — federal holiday since 198
 - History.com — Holiday origins
 - Britannica — Holiday encyclopedias
 - Bankrate, NRF — Black Friday/Cyber Monday stats
-- `[[wiki/English/vocabulary/basic-vocabulary]]`
-- `[[wiki/English/culture/english-dating-culture]]`
-- `[[wiki/English/culture/english-workplace-culture]]`
-- `[[wiki/English/culture/american-cultural-values]]`
-- `[[wiki/English/culture/english-school-life]]`
+- `[English/vocabulary/basic-vocabulary]`
+- `[English/culture/english-dating-culture]`
+- `[English/culture/english-workplace-culture]`
+- `[English/culture/american-cultural-values]`
+- `[English/culture/english-school-life]`
 - `[[Language/wiki/comparative/holidays-celebrations]]`

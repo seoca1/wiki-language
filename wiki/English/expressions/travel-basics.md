@@ -371,17 +371,17 @@ English travel phrases — airport, hotel, transport, directions, sightseeing, e
 - `[[Language/wiki/comparative/travel-essentials]]` — 5-language travel comparison
 - `[[Language/wiki/comparative/food-dining]]` — Restaurant expressions
 - `[[Language/wiki/comparative/pronunciation-challenges]]` — Pronunciation
-- `[[wiki/English/expressions/daily-basics]]` — English daily basics
-- `[[wiki/English/expressions/daily-life]]` — English daily life
-- `[[wiki/English/expressions/business-basics]]` — English business
-- `[[wiki/English/expressions/dating-romance]]` — English dating
-- `[[wiki/English/index]]` — English wiki main
-- `[[wiki/English/culture/english-workplace-culture]]` — English workplace
-- `[[wiki/English/culture/english-dating-culture]]` — English dating
+- `[English/expressions/daily-basics]` — English daily basics
+- `[English/expressions/daily-life]` — English daily life
+- `[English/expressions/business-basics]` — English business
+- `[English/expressions/dating-romance]` — English dating
+- `[[index]]` — English wiki main
+- `[English/culture/english-workplace-culture]` — English workplace
+- `[English/culture/english-dating-culture]` — English dating
 
 ---
 
 ## Sources
 
-- `[[wiki/English/vocabulary/travel]]`
+- `[English/vocabulary/travel]`
 - `[[Language/wiki/comparative/travel-essentials]]`

@@ -385,9 +385,9 @@ Spring Break — week-long recess in March/April, popular Florida/Mexico destina
 - The Chronicle of Higher Education
 - British Council — Education UK
 - Yale, Stanford, MIT admissions statistics (public)
-- `[[wiki/English/vocabulary/basic-vocabulary]]`
-- `[[wiki/English/culture/english-dating-culture]]`
-- `[[wiki/English/culture/english-workplace-culture]]`
-- `[[wiki/English/culture/american-cultural-values]]`
+- `[English/vocabulary/basic-vocabulary]`
+- `[English/culture/english-dating-culture]`
+- `[English/culture/english-workplace-culture]`
+- `[English/culture/american-cultural-values]`
 - `[[Language/wiki/comparative/education-student-life]]`
 - `[[Language/wiki/comparative/untranslatable-concepts]]`

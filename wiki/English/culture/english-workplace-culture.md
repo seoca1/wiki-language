@@ -299,5 +299,5 @@ English-speaking workplace culture (especially US, with variations) emphasizes *
 - 2024 LinkedIn Workplace Reports
 - 2024 Glassdoor Best Places to Work
 - 2024 Gallup State of the Workplace
-- `[[wiki/English/vocabulary/basic-vocabulary]]`
+- `[English/vocabulary/basic-vocabulary]`
 - `[[Language/wiki/comparative/business-email]]` — 5-language comparison
