@@ -536,10 +536,10 @@ Korean workplace culture blends Confucian hierarchy with modern corporate pressu
 - `[[Language/wiki/comparative/holidays-celebrations]]` — Holiday customs
 - `[[Language/wiki/comparative/transportation]]` — Transportation
 - `[[Language/wiki/comparative/food-dining]]` — Food culture
-- `[[expressions/business-basics]]` — Korean business expressions
-- `[[expressions/daily-life]]` — Daily life expressions
-- `[[expressions/travel-basics]]` — Travel expressions
-- `[[wiki/Korean/index]]` — Korean wiki main
+- `[[business-basics]]` — Korean business expressions
+- `[[daily-life]]` — Daily life expressions
+- `[[travel-basics]]` — Travel expressions
+- `[[index]]` — Korean wiki main
 
 ---
 
@@ -564,11 +564,11 @@ Korean workplace culture blends Confucian hierarchy with modern corporate pressu
 - Hofstede Insights — Korea cultural dimensions
 - 戴维·路德洛 (David Ludlow) — "Doing Business in Korea"
 - 山本七平 (Nanpin Yamamoto) — "The Japanese / Korean Mind"
-- `[[wiki/Korean/vocabulary/topik1-starter]]`
-- `[[wiki/Korean/vocabulary/business-vocabulary]]`
-- `[[wiki/Korean/culture/korean-dating-culture]]`
-- `[[wiki/Korean/culture/korean-hallyu-wave]]`
-- `[[wiki/Korean/culture/korean-family-holidays]]`
-- `[[wiki/Korean/expressions/business-basics]]`
+- `[Korean/vocabulary/topik1-starter]`
+- `[Korean/vocabulary/business-vocabulary]`
+- `[Korean/culture/korean-dating-culture]`
+- `[Korean/culture/korean-hallyu-wave]`
+- `[Korean/culture/korean-family-holidays]`
+- `[Korean/expressions/business-basics]`
 - `[[Language/wiki/comparative/cultural-values]]`
 - `[[Language/wiki/comparative/untranslatable-concepts]]`

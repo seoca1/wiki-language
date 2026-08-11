@@ -556,7 +556,7 @@ K-뷰티: 2010년대 이후 K-뷰티 트렌드 — " glass skin" 유리 피부 +
 - RIAA (Recording Industry Association of America) data
 - 한국콘텐츠진흥원 (KOCCA) annual stats
 - 2024 Gallup Korea 사회조사
-- `[[wiki/Korean/vocabulary/topik1-starter]]`
+- `[Korean/vocabulary/topik1-starter]`
 - `[[../../comparative/cultural-values]]`
 - `[[../../comparative/literature-media]]`
 - `[[../../comparative/untranslatable-concepts]]`

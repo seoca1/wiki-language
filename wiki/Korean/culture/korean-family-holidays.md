@@ -562,7 +562,7 @@ Sometimes used interchangeably with Gaecheonjeol.
 - 기상청 (Korea Meteorological Administration)
 - 설/추석 연구 (Seollal/Chuseok Studies)
 - 가족 사회학 (Family Sociology) — 한국가족학회
-- `[[wiki/Korean/vocabulary/basic-vocabulary]]`
-- `[[wiki/Korean/culture/korean-dating-culture]]`
-- `[[wiki/Korean/culture/korean-hallyu-wave]]`
-- `[[wiki/Korean/vocabulary/food-vocabulary]]`
+- `[Korean/vocabulary/basic-vocabulary]`
+- `[Korean/culture/korean-dating-culture]`
+- `[Korean/culture/korean-hallyu-wave]`
+- `[Korean/vocabulary/food-vocabulary]`
