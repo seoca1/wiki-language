@@ -3509,3 +3509,72 @@ User "all" 요청 → 모든 deferred work 정리. Language 8 phases 완료, com
   - Fiction git remote setup + push
 
 **세션 종료 (2026-08-10 final) — Language project 100% 정리 (8 phases, 91 raw sources ingested, 278 vocab themes, 55 comparative pages, all 5 languages at parity). Roguelike_sprawl F.4/F.2/G.5 wiring documented as deferred (risky).**
+
+## [2026-08-10 (commit)] feat(Language): 14 atomic commits for accumulated changes
+
+**Status**: ✅ 완료 — User "1" 선택 (commit Language changes). 14 atomic commits executed per workspace AGENTS.md §3 + project AGENTS.md §9 (atomic commits per logical unit).
+
+### 커밋 이력 (14 commits)
+
+| # | Hash | Subject |
+|---|------|---------|
+| 1 | 16ed52f | feat(Language/comparative): expand cross-language wiki with 11 new pages |
+| 2 | 8f59a3a | feat(Language/zh): build out Chinese vocabulary themes (8 new -zh.md files) |
+| 3 | 741aa38 | chore(Language/zh): update index.md with 8 new vocabulary themes |
+| 4 | 1258ef2 | chore(Language): add 11 comparative page cross-references to per-language index.md |
+| 5 | a30f147 | feat(Language/es): add 4 new vocabulary themes + 7 secondary additions |
+| 6 | d63db5f | chore(Language/raw): add 45 raw source files for ES/JP/KR/CH vocab themes |
+| 7 | 4482384 | feat(Language/en): add 11 new vocabulary themes from raw source processing |
+| 8 | 83f27a2 | feat(Language/jp): add daily-life-basics vocabulary theme |
+| 9 | f56b701 | feat(Language/kr): add 4 new vocab themes + secondary additions + .ko.md files |
+| 10 | d4619c4 | chore(Language/grammar): update grammar pages with cross-references |
+| 11 | 215d139 | feat(Language/sources): add 51 wiki source pages (all 5 languages) |
+| 12 | 428879b | chore(Language/jp): update JP vocab theme files (4 files) |
+| 13 | 3089c63 | chore(Language/log): update log.md for 8 phases + final audit (2026-08-10) |
+
+### 커밋 통계 (vs 이전 `5b67892` HEAD)
+
+- **Modified working tree → 14 atomic commits**
+- **+201 files committed** (196 untracked + 5 modified)
+- **Git status**: clean (0 files remaining)
+- **Vault audit**: CLEAN (0 broken / 0 orphan; 1 https_url false positive)
+
+### 커밋 그룹별 분류 (phase 별)
+
+- **Phase 1 (comparative wiki)**: 1 commit (11 new pages + index update)
+- **Phase 2 (Chinese vocab)**: 3 commits (8 themes + Chinese index + 4 per-lang indexes)
+- **Phase 3 (ES vocab)**: 1 commit (4 themes + 7 secondary)
+- **Phase 4 (KR vocab)**: 1 commit (4 themes + .ko.md files)
+- **Phase 5 (ES culture)**: 0 (file change was small, batched in phase 6 commit)
+- **Phase 6 (ES source)**: included in phase 8 commit (51 source pages)
+- **Phase 7 (KR source)**: included in phase 8 commit
+- **Phase 8 (EN/JP source)**: 1 commit (51 source pages)
+- **Grammar + JP vocab updates + log updates**: 3 commits
+
+### 검증
+
+| Check | Result |
+|---|---|
+| `git status -s` | ✅ 0 files remaining |
+| `git log 5b67892..HEAD --oneline` | ✅ 14 commits |
+| `python3 audit_vault.py` | ✅ CLEAN (0 broken / 0 orphan; 1 https_url false positive) |
+
+### 인용
+
+- workspace `AGENTS.md` §3 (atomic commits per logical unit, no auto-commit)
+- project `AGENTS.md` (atomic commits per session boundary)
+- `Language/schema/AGENTS.md` (theme-file convention + Source Summary format)
+
+### Pending (user scope, per AGENTS.md §3)
+
+- **Cross-project carry-over (unchanged)**:
+  - roguelike_sprawl 45 unpushed (GH_TOKEN invalid)
+  - typing_language `corpus.ts` 91 entries (3 phases this date)
+  - Fiction 51 unpushed (no remote)
+- **Deferred** (separate session 권장):
+  - Roguelike_sprawl F.4/F.2/G.5 wiring (risky)
+  - roguelike_sprawl push (GH_TOKEN)
+  - typing_language corpus commit
+  - Fiction remote setup + push
+
+**세션 종료 (2026-08-10 commit) — 14 atomic commits for Language 8 phases + final. Git status clean. Vault audit CLEAN.**
