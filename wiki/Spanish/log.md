@@ -5,7 +5,7 @@
 - Updated `wiki/Spanish/vocabulary/nature-vocabulary.md` with 39 entries (was 28 stub entries with formatting issues)
 - Categories: Fenómenos Naturales (11), Formaciones Terrestres (10), Plantas (6), Verbos/Adjetivos (12)
 - Added IPA pronunciation (peninsular/latinoamericano variants), etymology, examples, cultural notes, related terms
-- Created source summary: [[sources/nature-vocabulary-es]]
+- Created source summary: [[nature-vocabulary-es]]
 - Updated index.md (Sources: 24 → 25)
 - Pipeline Form YAML appendix includes all 39 entries for game corpus
 
@@ -14,7 +14,7 @@
 - Updated `wiki/Spanish/vocabulary/clothing-vocabulary.md` with 30 entries (was 10 stub entries with formatting issues)
 - Categories: Ropa Básica (10), Colores/Materiales (4), Materiales (4), Verbos/Adjetivos (12)
 - Added IPA pronunciation (peninsular/latinoamericano variants), etymology, examples, cultural notes, related terms
-- Created source summary: [[sources/clothing-vocabulary-es]]
+- Created source summary: [[clothing-vocabulary-es]]
 - Updated index.md (Sources: 23 → 24)
 - Pipeline Form YAML appendix includes all 30 entries for game corpus
 
@@ -23,7 +23,7 @@
 - Updated `wiki/Spanish/vocabulary/animals-vocabulary.md` with 37 entries (was 13 stub entries with formatting issues)
 - Categories: Mascotas/Granja (10), Salvajes (11), Insectos/Marinos (6), Verbos/Adjetivos (10)
 - Added IPA pronunciation (peninsular/latinoamericano variants), etymology, examples, cultural notes, related terms
-- Created source summary: [[sources/animals-vocabulary-es]]
+- Created source summary: [[animals-vocabulary-es]]
 - Updated index.md (Sources: 22 → 23)
 - Pipeline Form YAML appendix includes all 37 entries for game corpus
 
