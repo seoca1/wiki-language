@@ -355,14 +355,14 @@ Universal expressions for everyday situations — greetings, dining, transit, sh
 - `[[Language/wiki/comparative/food-dining]]` — 식당 표현
 - `[[Language/wiki/comparative/travel-essentials]]` — 여행 표현
 - `[[Language/wiki/comparative/politeness-honorifics]]` — 격식 시스템
-- `[[wiki/Japanese/index]]` — 일본어 위키 메인
-- `[[wiki/Japanese/culture/japanese-food-culture]]` — 일본 음식 문화
+- `[[index]]` — 일본어 위키 메인
+- `[Japanese/culture/japanese-food-culture]` — 일본 음식 문화
 
 ---
 
 ## Sources
 
-- `[[wiki/Japanese/index]]`
+- `[[index]]`
 - `[[Language/wiki/comparative/greetings]]`
 - `[[Language/wiki/comparative/politeness-honorifics]]`
 - `[[Language/wiki/comparative/cultural-values]]`

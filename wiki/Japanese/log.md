@@ -99,7 +99,7 @@ Index.md updated (Expressions: 2 → 5 theme files, 17 → 47 entries)
 
 Two new comprehensive Japanese culture pages added, bringing Japanese to 4 culture pages (matching EN/KR/CN):
 
-- [[culture/japanese-school-life]] - 日本の学校文化 — 制服・給食・部活・受験・七五三・修学旅行・センター試験 (2026-07-19 신규)
-- [[culture/japanese-traditions]] - 日本の伝統文化 — お辞儀・お箸・お正月・お葬式・お寺・神社・冠婚葬祭 (2026-07-19 신규)
+- [[japanese-school-life]] - 日本の学校文化 — 制服・給食・部活・受験・七五三・修学旅行・センター試験 (2026-07-19 신규)
+- [[japanese-traditions]] - 日本の伝統文化 — お辞儀・お箸・お正月・お葬式・お寺・神社・冠婚葬祭 (2026-07-19 신규)
 
 Index.md updated (Culture: 2 → 4 entries)

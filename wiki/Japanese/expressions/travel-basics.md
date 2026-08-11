@@ -368,14 +368,14 @@ Japanese travel phrases — airport, hotel, transport, directions, sightseeing, 
 - `[[Language/wiki/comparative/travel-essentials]]` — 5-language travel comparison
 - `[[Language/wiki/comparative/food-dining]]` — 식당 표현
 - `[[pronunciation-challenges]]` — 발음 도전
-- `[[wiki/Japanese/expressions/daily-life]]` — 일상 표현
-- `[[wiki/Japanese/expressions/business-basics]]` — 비즈니스
-- `[[wiki/Japanese/index]]` — 일본어 위키 메인
-- `[[wiki/Japanese/culture/japanese-food-culture]]` — 일본 음식 문화
+- `[Japanese/expressions/daily-life]` — 일상 표현
+- `[Japanese/expressions/business-basics]` — 비즈니스
+- `[[index]]` — 일본어 위키 메인
+- `[Japanese/culture/japanese-food-culture]` — 일본 음식 문화
 
 ---
 
 ## Sources
 
-- `[[wiki/Japanese/index]]`
+- `[[index]]`
 - `[[Language/wiki/comparative/travel-essentials]]`

@@ -577,7 +577,7 @@ Japanese school culture is characterized by uniforms, strict discipline, club ac
 - `[[Language/wiki/comparative/cultural-values]]` — Group harmony (wa) culture
 - `[[Language/wiki/comparative/family-kinship]]` — Family role in education
 - `[[Language/wiki/comparative/politeness-honorifics]]` — Japanese keigo system
-- `[[wiki/Japanese/index]]` — Japanese wiki main
+- `[[index]]` — Japanese wiki main
 
 ---
 
@@ -599,9 +599,9 @@ Japanese school culture is characterized by uniforms, strict discipline, club ac
 - 毎日新聞 (Mainichi Shimbun) - Education coverage
 - 日本学生支援機構 (JASSO - Japan Student Services Organization)
 - 中央教育審議会 (Central Council for Education)
-- `[[wiki/Japanese/vocabulary/basic-vocabulary]]`
-- `[[wiki/Japanese/culture/japanese-dating-culture]]`
-- `[[wiki/Japanese/culture/japanese-food-culture]]`
-- `[[wiki/Japanese/culture/japanese-holiday-culture]]`
+- `[Japanese/vocabulary/basic-vocabulary]`
+- `[Japanese/culture/japanese-dating-culture]`
+- `[Japanese/culture/japanese-food-culture]`
+- `[Japanese/culture/japanese-holiday-culture]`
 - `[[Language/wiki/comparative/education-student-life]]`
 - `[[Language/wiki/comparative/untranslatable-concepts]]`

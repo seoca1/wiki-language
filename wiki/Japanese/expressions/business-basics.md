@@ -365,14 +365,14 @@ Japanese business communication — greetings, email/meeting phrases, negotiatio
 - `[[Language/wiki/comparative/politeness-honorifics]]` — Keigo 시스템
 - `[[daily-life]]` — 일상 표현
 - `[[Language/wiki/comparative/greetings]]` — 인사 표현
-- `[[wiki/Japanese/expressions/daily-life]]` — 일상 표현
-- `[[wiki/Japanese/expressions/dating-romance]]` — 연애 표현
-- `[[wiki/Japanese/index]]` — 일본어 위키 메인
+- `[Japanese/expressions/daily-life]` — 일상 표현
+- `[Japanese/expressions/dating-romance]` — 연애 표현
+- `[[index]]` — 일본어 위키 메인
 
 ---
 
 ## Sources
 
-- `[[wiki/Japanese/index]]`
+- `[[index]]`
 - `[[Language/wiki/comparative/business-email]]`
 - `[[Language/wiki/comparative/politeness-honorifics]]`

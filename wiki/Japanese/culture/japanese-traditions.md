@@ -529,7 +529,7 @@ The most fundamental Japanese gesture — universal across situations.
 - `[[Language/wiki/comparative/family-kinship]]` — Family relationships
 - `[[Language/wiki/comparative/untranslatable-concepts]]` — Cultural concepts
 - `[[Language/wiki/comparative/greetings]]` — Greeting rituals
-- `[[wiki/Japanese/index]]` — Japanese wiki main
+- `[[index]]` — Japanese wiki main
 
 ---
 
@@ -555,10 +555,10 @@ The most fundamental Japanese gesture — universal across situations.
 - 『菊と刀』 (The Chrysanthemum and the Sword - Ruth Benedict)
 - 『菊と刀』 (The Chrysanthemum and the Sword) - Ruth Benedict
 - Hofstede Insights — Japan cultural dimensions
-- `[[wiki/Japanese/vocabulary/basic-vocabulary]]`
-- `[[wiki/Japanese/culture/japanese-dating-culture]]`
-- `[[wiki/Japanese/culture/japanese-food-culture]]`
-- `[[wiki/Japanese/culture/japanese-school-life]]`
-- `[[wiki/Japanese/culture/japanese-holiday-culture]]`
+- `[Japanese/vocabulary/basic-vocabulary]`
+- `[Japanese/culture/japanese-dating-culture]`
+- `[Japanese/culture/japanese-food-culture]`
+- `[Japanese/culture/japanese-school-life]`
+- `[Japanese/culture/japanese-holiday-culture]`
 - `[[Language/wiki/comparative/cultural-values]]`
 - `[[Language/wiki/comparative/untranslatable-concepts]]`

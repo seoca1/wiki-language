@@ -626,7 +626,7 @@ Japan's holiday culture reflects Shinto-Buddhist syncretism, Confucian family va
 - 神社本庁 (Association of Shinto Shrines)
 - 日本仏教協会 (Japan Buddhist Association)
 - 民俗学 (Folklore studies)
-- `[[wiki/Japanese/vocabulary/basic-vocabulary]]`
-- `[[wiki/Japanese/culture/japanese-dating-culture]]`
-- `[[wiki/Japanese/culture/japanese-food-culture]]`
-- `[[wiki/Japanese/vocabulary/food-vocabulary]]`
+- `[Japanese/vocabulary/basic-vocabulary]`
+- `[Japanese/culture/japanese-dating-culture]`
+- `[Japanese/culture/japanese-food-culture]`
+- `[Japanese/vocabulary/food-vocabulary]`

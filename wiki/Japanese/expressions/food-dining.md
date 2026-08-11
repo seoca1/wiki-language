@@ -337,16 +337,16 @@ Japanese food culture expressions — restaurant flow, ordering, payment, dietar
 - `[[Language/wiki/comparative/cultural-values]]` — 일본 식사 문화
 - `[[Language/wiki/comparative/business-email]]` — 비즈니스 이메일
 - `[[Language/wiki/comparative/travel-essentials]]` — 여행 표현
-- `[[wiki/Japanese/expressions/daily-life]]` — 일상 표현
-- `[[wiki/Japanese/expressions/business-basics]]` — 비즈니스
-- `[[wiki/Japanese/expressions/travel-basics]]` — 여행
-- `[[wiki/Japanese/index]]` — 일본어 위키 메인
-- `[[wiki/Japanese/culture/japanese-food-culture]]` — 일본 음식 문화
+- `[Japanese/expressions/daily-life]` — 일상 표현
+- `[Japanese/expressions/business-basics]` — 비즈니스
+- `[Japanese/expressions/travel-basics]` — 여행
+- `[[index]]` — 일본어 위키 메인
+- `[Japanese/culture/japanese-food-culture]` — 일본 음식 문화
 
 ---
 
 ## Sources
 
-- `[[wiki/Japanese/vocabulary/food-vocabulary]]`
+- `[Japanese/vocabulary/food-vocabulary]`
 - `[[Language/wiki/comparative/food-dining]]`
 - `[[Language/wiki/comparative/numbers-counters]]`

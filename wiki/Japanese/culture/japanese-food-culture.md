@@ -457,5 +457,5 @@ The most fundamental concept. Ingredients are at peak quality and flavor during 
 - 2024 Japan Tourism Agency 食文化調査
 - 「味の道」(Michi no Aji) documentary
 - 「孤独のグルメ」(Kodoku no Gourmet) — drama
-- `[[wiki/Japanese/vocabulary/food-vocabulary]]`
+- `[Japanese/vocabulary/food-vocabulary]`
 - `[[Language/wiki/comparative/food-dining]]`
