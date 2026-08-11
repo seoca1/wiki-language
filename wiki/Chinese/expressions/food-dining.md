@@ -383,7 +383,7 @@ B: 好的 (Hǎo de) — "OK"
 - `[[Language/wiki/comparative/shopping-money]]` — 결제 방법
 - `[[Language/wiki/comparative/health-body]]` — 알레르기/식이 제한
 - `[[Language/wiki/comparative/cultural-values]]` — 중국 식사 예절
-- `[[wiki/Chinese/index]]` — 중국어 위키 메인
+- `[[index]]` — 중국어 위키 메인
 
 ---
 
@@ -391,5 +391,5 @@ B: 好的 (Hǎo de) — "OK"
 
 - `[[Language/wiki/comparative/food-dining]]`
 - [[greetings-zh]]
-- `[[wiki/Chinese/sources/pinyin-basics-zh]]`
-- `[[wiki/Chinese/vocabulary/measure-words-zh]]`
+- `[Chinese/sources/pinyin-basics-zh]`
+- `[Chinese/vocabulary/measure-words-zh]`

@@ -532,7 +532,7 @@ B: 没关系 (No problem)
 - `[[Language/wiki/comparative/travel-essentials]]` — 여행 표현
 - `[[Language/wiki/comparative/tech-internet]]` — 모바일 결제, 디지털 표현
 - `[[Language/wiki/comparative/pronunciation-challenges.md]]` — 성조, 병음 발음
-- `[[wiki/Chinese/index]]` — 중국어 위키 메인
+- `[[index]]` — 중국어 위키 메인
 
 ---
 
@@ -540,6 +540,6 @@ B: 没关系 (No problem)
 
 - [[greetings-zh]] — 기본 인사 출처
 - [[daily-routine-zh]] — 일상 어휘
-- `[[wiki/Chinese/sources/pinyin-basics-zh]]`
-- `[[wiki/Chinese/vocabulary/measure-words-zh]]`
-- `[[wiki/Chinese/vocabulary/numbers-zh]]`
+- `[Chinese/sources/pinyin-basics-zh]`
+- `[Chinese/vocabulary/measure-words-zh]`
+- `[Chinese/vocabulary/numbers-zh]`

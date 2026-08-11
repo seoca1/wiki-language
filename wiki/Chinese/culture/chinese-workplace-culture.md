@@ -606,8 +606,8 @@ The two concepts together create a workplace where:
 - Hofstede Insights — China cultural dimensions
 - 中欧国际工商学院 (CEIBS) — China business case studies
 - 阳狮 (Publicis) — China marketing reports
-- `[[wiki/Chinese/vocabulary/basic-vocabulary]]`
+- `[Chinese/vocabulary/basic-vocabulary]`
 - `[[Language/wiki/Chinese/culture/chinese-dating-culture]]`
 - `[[Language/wiki/Chinese/culture/chinese-cuisine-culture]]`
 - `[[Language/wiki/Chinese/culture/family-and-filial-piety]]`
-- `[[wiki/Chinese/sources/pinyin-basics-zh]]`
+- `[Chinese/sources/pinyin-basics-zh]`

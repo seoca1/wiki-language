@@ -511,7 +511,7 @@ Famous tension in Chinese families:
 - [expressions/dating-romance](../expressions/dating-romance.md) — Romance expressions
 - `[[../../comparative/family-kinship]]` — 5-language kinship comparison
 - `[[../../comparative/cultural-values]]` — Chinese family values
-- `[[wiki/Chinese/vocabulary/family-zh]]` — Chinese family terms
+- `[Chinese/vocabulary/family-zh]` — Chinese family terms
 
 ## 示例
 

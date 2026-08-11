@@ -446,13 +446,13 @@ Chinese dating culture expressions — confessions, terms of endearment, relatio
 - `[[../../comparative/family-kinship]]` — 가족 관련 호칭
 - `[[../../comparative/untranslatable-concepts]]` — 缘分, 关系, 面子 등
 - `[[../../comparative/cultural-values]]` — 중국 가치관
-- `[[wiki/Chinese/index]]` — 중국어 위키 메인
+- `[[index]]` — 중국어 위키 메인
 
 ---
 
 ## Sources
 
 - [[greetings-zh]] — 기본 표현
-- `[[wiki/Chinese/sources/pinyin-basics-zh]]`
-- `[[wiki/Chinese/vocabulary/family-zh]]`
+- `[Chinese/sources/pinyin-basics-zh]`
+- `[Chinese/vocabulary/family-zh]`
 - `[[../../comparative/dating-romance]]`

@@ -368,12 +368,12 @@ B: 长城, 故宫, 都很经典 (Great Wall, Forbidden City, all classic)
 - `[[Language/wiki/comparative/food-dining]]` — 식당 표현
 - `[[Language/wiki/comparative/shopping-money]]` — 쇼핑/결제
 - `[[Language/wiki/comparative/health-body]]` — 의료/응급
-- `[[wiki/Chinese/index]]` — 중국어 위키 메인
+- `[[index]]` — 중국어 위키 메인
 
 ---
 
 ## Sources
 
 - `[[Language/wiki/comparative/travel-essentials]]`
-- `[[wiki/Chinese/sources/pinyin-basics-zh]]`
+- `[Chinese/sources/pinyin-basics-zh]`
 - [[greetings-zh]]

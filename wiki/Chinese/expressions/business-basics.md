@@ -427,13 +427,13 @@ B: 没问题 (No problem)
 - `[[Language/wiki/comparative/family-kinship]]` — 회사 내 호칭
 - `[[Language/wiki/comparative/cultural-values]]` — 중국 비즈니스 문화 (关系, 面子)
 - `[[Language/wiki/comparative/untranslatable-concepts]]` — 关系, 面子, 缘分
-- `[[wiki/Chinese/index]]` — 중국어 위키 메인
+- `[[index]]` — 중국어 위키 메인
 
 ---
 
 ## Sources
 
 - [[greetings-zh]]
-- `[[wiki/Chinese/sources/pinyin-basics-zh]]`
+- `[Chinese/sources/pinyin-basics-zh]`
 - `[[Language/wiki/comparative/business-email]]`
 - `[[Language/wiki/comparative/shopping-money]]`

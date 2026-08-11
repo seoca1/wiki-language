@@ -606,7 +606,7 @@ China has multiple regional hot pot styles:
 
 - [expressions/food-dining](../expressions/food-dining.md) — Restaurant expressions
 - `[[../../comparative/food-dining]]` — 5-language food comparison
-- `[[wiki/Chinese/vocabulary/measure-words-zh]]` — Chinese measure words
+- `[Chinese/vocabulary/measure-words-zh]` — Chinese measure words
 - [sources/pinyin-basics-zh](../sources/pinyin-basics-zh.md) — Pinyin romanization
 
 ## 示例
@@ -625,5 +625,5 @@ China has multiple regional hot pot styles:
 - 蔡澜 (Cai Lan) 음식 저서
 - [[greetings-zh]] — 기본 표현
 - `[[../sources/pinyin-basics-zh]]`
-- `[[wiki/Chinese/vocabulary/measure-words-zh]]`
-- `[[wiki/Chinese/sources/daily-routine-zh]]`
+- `[Chinese/vocabulary/measure-words-zh]`
+- `[Chinese/sources/daily-routine-zh]`
