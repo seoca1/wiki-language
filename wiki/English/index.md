@@ -1,6 +1,6 @@
 # English Learning Wiki - Index
 
-Last updated: 2026-08-10 (index sync: +11 new comparative page cross-references; Language comparative wiki expansion tracked; 5 culture pages added: american-communication-style/food-culture/modern-life/new-year-traditions/workplace-culture)
+Last updated: 2026-08-11 (index sync: +23 American culture pages + 4 new expression themes [requests/complaints/emotions-reactions/small-talk] — bringing culture count to 43 [Spanish parity ✓] and expression count to 13 [5-lang parity ✓])
 
 ## Vocabulary
 
@@ -8,7 +8,7 @@ Last updated: 2026-08-10 (index sync: +11 new comparative page cross-references;
 
 ### Core Theme Files
 
-- [[vocabulary/travel]] - Travel Essentials — airport, hotel, restaurant, transportation, directions
+- [[travel]] - Travel Essentials — airport, hotel, restaurant, transportation, directions
 - [[food-vocabulary]] - Food & Restaurant — ingredients, dishes, beverages, dining
 - [[business-vocabulary]] - Business — email, meetings, corporate vocabulary
 - [[emotions-personality-vocabulary]] - Emotions & Personality — feelings, traits, verbs
@@ -52,8 +52,12 @@ Last updated: 2026-08-10 (index sync: +11 new comparative page cross-references;
 - [[daily-life]] - Daily life expressions — Thank you, Excuse me, Hello, How much, Bathroom, Help, etc. (10 entries)
 - [[business-basics]] - Business expressions — Thank you for your email, Best regards, I would appreciate, etc. (10 entries)
 - [[travel-basics]] - Travel expressions — Where is the airport, hotel, train station, How much is a taxi, Call 911, etc. (10 entries)
+- [[requests]] - Request expressions — Can you, Would you mind, Could you, Please, Do you have (8 entries)
+- [[complaints]] - Complaint expressions — I'd like to speak with the manager, This isn't what I ordered, Could you fix this (8 entries)
+- [[emotions-reactions]] - Emotional reactions — Wow, Oh my God, That's amazing, How awful, I can't believe it, Are you serious (8 entries)
+- [[small-talk]] - Small talk topics — Nice weather, What do you do for work, Where are you from, Have you seen any good movies (8 entries)
 
-## Culture (10 entries; 5 added 2026-08-10)
+## Culture (43 entries; 23 added 2026-08-11)
 
 - [[english-dating-culture]] - English Dating Culture — dating norms, expectations, regional differences
 - [[english-workplace-culture]] - English-Speaking Workplace Culture — US/UK/CA/AU business norms, email, meetings, idioms
@@ -65,37 +69,74 @@ Last updated: 2026-08-10 (index sync: +11 new comparative page cross-references;
 - [[american-modern-life]] - American Modern Life — streaming, social media, DoorDash, tipping (2026-08-10 추가)
 - [[american-new-year-traditions]] - American New Year Traditions — Times Square, Black-Eyed Peas, resolutions (2026-08-10 추가)
 - [[american-workplace-culture]] - American Workplace Culture — open door, first names, PIP, at-will (2026-08-10 추가)
+- [[american-family-structure]] - American Family Structure — nuclear family, single-parent, multigenerational, immediate vs extended family (2026-08-11 추가)
+- [[american-education-system]] - American Education System — K-12, public/private/homeschool, college, SAT, GPA (2026-08-11 추가)
+- [[american-sports-culture]] - American Sports Culture — baseball national pastime, NFL, NBA, NASCAR, sports as identity (2026-08-11 추가)
+- [[american-religious-holidays]] - American Religious & Federal Holidays — Thanksgiving, Christmas, Easter, Halloween, Memorial Day, MLK Day, July 4 (2026-08-11 추가)
+- [[american-regional-variations]] - American Regional Variations — North/South/Midwest/West/Texas stereotypes, accents, BBQ styles (2026-08-11 추가)
+- [[american-food-history]] - American Food History — Thanksgiving origins, Tex-Mex, Cajun, New England, immigrant cuisines (2026-08-11 추가)
+- [[american-pop-culture]] - American Pop Culture — Hollywood, TV eras, music genres, internet culture, social media (2026-08-11 추가)
+- [[american-history-trivia]] - American History & Identity — founding myths, immigration waves, civil rights, melting pot (2026-08-11 추가)
+- [[american-arts-traditions]] - American Arts Traditions — Jazz, Blues, Rock, Hip-hop, Broadway, museums, regional movements (2026-08-11 추가)
+- [[american-tech-workplace]] - American Tech & Workplace Culture — Silicon Valley, 996 US-style, open-plan, hustle, remote work (2026-08-11 추가)
+- [[american-thanksgiving-traditions]] - American Thanksgiving Traditions — Lincoln 1863, Macy's parade, turkey/stuffing, NFL football (2026-08-11 추가)
+- [[american-christmas-traditions]] - American Christmas Traditions — secular vs religious, Santa Claus origin, gift-giving, Christmas movies (2026-08-11 추가)
+- [[american-halloween-history]] - American Halloween History — Celtic Samhain, Irish immigration, trick-or-treat evolution (2026-08-11 추가)
+- [[american-easter-traditions]] - American Easter Traditions — pagan eggs, German Easter bunny, religious vs secular (2026-08-11 추가)
+- [[american-memorial-day]] - American Memorial Day — 1868 origin, Decoration Day, BBQ summer kickoff (2026-08-11 추가)
+- [[american-fourth-of-july]] - American Fourth of July — 1776 independence, fireworks, BBQ, patriotic symbols (2026-08-11 추가)
+- [[american-mlk-day]] - American Martin Luther King Jr. Day — 1983 federal holiday, "day of service" not "day off" (2026-08-11 추가)
+- [[american-labor-day]] - American Labor Day — 1894 federal holiday, end of summer, workers' rights (2026-08-11 추가)
+- [[american-valentines-day]] - American Valentine's Day — 1800s commercial rise, cards, chocolate, classroom parties (2026-08-11 추가)
+- [[american-mothers-fathers-day]] - American Mother's & Father's Day — 1914 official, Anna Jarvis, Sonora Dodd (2026-08-11 추가)
+- [[american-cowboy-culture]] - American Cowboy Culture — post-Civil War Texas, ranching, rodeo, vaquero roots (2026-08-11 추가)
+- [[american-frontier-history]] - American Frontier History — Manifest Destiny, westward expansion, Turner thesis (2026-08-11 추가)
+- [[american-civil-war-legacy]] - American Civil War Legacy — 1861-65, Lost Cause mythology, Confederate flag debates (2026-08-11 추가)
+- [[american-civil-rights-movement]] - American Civil Rights Movement — 1950s-60s, Montgomery bus, March on Washington 1963 (2026-08-11 추가)
+- [[american-1960s-counterculture]] - American 1960s Counterculture — Vietnam protests, hippie movement, Summer of Love 1967 (2026-08-11 추가)
+- [[american-grunge-1990s]] - American Grunge 1990s — Seattle scene, Nirvana, Pearl Jam, flannel (2026-08-11 추가)
+- [[american-dotcom-bubble]] - American Dot-Com Bubble — 1995-2000, pets.com, NASDAQ peak 2000, dot-com bust (2026-08-11 추가)
+- [[american-startup-culture]] - American Startup Culture — Silicon Valley, "move fast and break things", unicorn culture (2026-08-11 추가)
+- [[american-pickup-truck]] - American Pickup Truck Culture — F-150, rural identity, "magnet for country boys" (2026-08-11 추가)
+- [[american-suburban-life]] - American Suburban Life — post-WWII Levittown, white flight, car dependency, lawn culture (2026-08-11 추가)
+- [[american-urban-renewal]] - American Urban Renewal — Robert Moses NYC, Detroit decline, gentrification (2026-08-11 추가)
+- [[american-standup-comedy]] - American Stand-Up Comedy — NYC/LA clubs, open mic culture, podcast era (2026-08-11 추가)
+- [[american-musical-traditions]] - American Musical Traditions — Broadway, Tin Pan Alley, Motown Detroit, jazz New Orleans, hip-hop NYC (2026-08-11 추가)
 
-## Grammar (2 entries)
+## Grammar (6 entries)
 
-Dedicated grammar pages for English-specific patterns (added 2026-08-08):
+Dedicated grammar pages for English-specific patterns (added 2026-08-08: 2; 2026-08-11: +4):
 
 - [[tense-aspect-en]] - Tense & Aspect — 12 tense-aspect forms (시제와 상), Present/Past/Future + Simple/Progressive/Perfect
 - [[articles-en]] - Articles — a/an/the/zero (관사), 불특정 vs 특정 vs 무관사
+- [[english-modal-verbs]] - Modal Verbs — can/could/may/might/will/would/shall/should/must, ability/permission/obligation/advice (2026-08-11 추가)
+- [[english-conditionals]] - Conditionals — Type 0/1/2/3 + mixed + unless/provided that, if-tense × result-tense 매트릭스 (2026-08-11 추가)
+- [[english-passive-voice]] - Passive Voice — be + past participle, by-agent, formal/scientific/news register (2026-08-11 추가)
+- [[english-prepositions]] - Prepositions — at/in/on 시간/장소, by/for/with 도구/원인/방식 (2026-08-11 추가)
 
 ## Sources (32 processed; 1 added 2026-08-10)
 
-- [[sources/animals-vocabulary]] - English Animals Vocabulary (37 entries: pets, wild, insects, marine, verbs/adjectives)
-- [[sources/business-vocabulary]] - Business Vocabulary (52 entries: email, meetings, corporate, phone, expressions, tech)
-- [[sources/clothing-vocabulary]] - Clothing Vocabulary (30 entries: garments, colors, materials, verbs/adjectives)
-- [[sources/emotions-personality-vocabulary]] - Emotions & Personality Vocabulary (41 entries: emotions, traits, verbs)
-- [[sources/nature-vocabulary]] - Nature Vocabulary (39 entries: phenomena, landforms, plants, verbs/adjectives)
-- [[sources/daily-life-basics]] - Daily Life Basics
-- [[sources/dating-romance]] - dating-romance
-- [[sources/first-travel-japan]] - first-travel-japan (Day 1-3 Japan travel scenario: airport/hotel/restaurant/directions/sightseeing)
-- [[sources/food-and-dining]] - Food and Dining
-- [[sources/health-and-body]] - Health and Body
-- [[sources/holidays-and-celebrations]] - Holidays and Celebrations
-- [[sources/literature-passages]] - literature-passages
-- [[sources/movie-quotes]] - movie-quotes
-- [[sources/shopping-and-money]] - Shopping and Money
-- [[sources/sports-and-hobbies]] - Sports and Hobbies
-- [[sources/technology-and-internet]] - Technology and Internet
-- [[sources/travel-adventure]] - Travel Adventure
-- [[sources/travel-basics]] - Travel Basics
-- [[sources/travel]] - travel
-- [[sources/work-and-career]] - Work and Career
-- [[sources/food-vocabulary]] - Food Vocabulary (2026-08-10 신규, ingredients/beverages/dishes/cooking verbs)
+- [[animals-vocabulary]] - English Animals Vocabulary (37 entries: pets, wild, insects, marine, verbs/adjectives)
+- [[business-vocabulary]] - Business Vocabulary (52 entries: email, meetings, corporate, phone, expressions, tech)
+- [[clothing-vocabulary]] - Clothing Vocabulary (30 entries: garments, colors, materials, verbs/adjectives)
+- [[emotions-personality-vocabulary]] - Emotions & Personality Vocabulary (41 entries: emotions, traits, verbs)
+- [[nature-vocabulary]] - Nature Vocabulary (39 entries: phenomena, landforms, plants, verbs/adjectives)
+- [[daily-life-basics]] - Daily Life Basics
+- [[dating-romance]] - dating-romance
+- [[first-travel-japan]] - first-travel-japan (Day 1-3 Japan travel scenario: airport/hotel/restaurant/directions/sightseeing)
+- [[food-and-dining]] - Food and Dining
+- [[health-and-body]] - Health and Body
+- [[holidays-and-celebrations]] - Holidays and Celebrations
+- [[literature-passages]] - literature-passages
+- [[movie-quotes]] - movie-quotes
+- [[shopping-and-money]] - Shopping and Money
+- [[sports-and-hobbies]] - Sports and Hobbies
+- [[technology-and-internet]] - Technology and Internet
+- [[travel-adventure]] - Travel Adventure
+- [[travel-basics]] - Travel Basics
+- [[travel]] - travel
+- [[work-and-career]] - Work and Career
+- [[food-vocabulary]] - Food Vocabulary (2026-08-10 신규, ingredients/beverages/dishes/cooking verbs)
 
 ## Pipeline Notes
 
@@ -109,22 +150,22 @@ Dedicated grammar pages for English-specific patterns (added 2026-08-08):
 > Orphan pages reconciled from filesystem. Descriptions from each file's Overview section.
 
 ### Expressions (added 2)
-- [[expressions/apologies]] — English apology expressions — Sorry, Excuse me, Pardon me, My apologies, I apologize (5+ entries)
-- [[expressions/agreement]] — English agreement expressions — Yes, OK, Sure, I agree, Sounds good, Absolutely (5+ entries)
+- [[apologies]] — English apology expressions — Sorry, Excuse me, Pardon me, My apologies, I apologize (5+ entries)
+- [[agreement]] — English agreement expressions — Yes, OK, Sure, I agree, Sounds good, Absolutely (5+ entries)
 
 ### Vocabulary (added 12)
-- [[vocabulary/family-vocabulary]] — English family vocabulary — father/mother/siblings/relatives (5+ entries)
-- [[vocabulary/education-vocabulary]] — English school/learning vocabulary — academic, study, education system (5+ entries)
-- [[vocabulary/colors-vocabulary]] — English colors vocabulary — basic color expressions (5+ entries)
-- [[vocabulary/months-vocabulary]] — English months vocabulary — January-December + seasons (5+ entries)
-- [[vocabulary/technology-vocabulary]] — English technology vocabulary — computer/internet/digital (5+ entries)
-- [[vocabulary/ordinal-numbers-vocabulary]] — English ordinal numbers — first, second, third... (5+ entries)
-- [[vocabulary/weekdays-vocabulary]] — English weekdays — Monday-Sunday (5+ entries)
-- [[vocabulary/weather-vocabulary]] — English weather vocabulary — sunny/rainy/snowy/cloudy (5+ entries)
-- [[vocabulary/transportation-vocabulary]] — English transportation vocabulary — car/subway/bus/taxi (5+ entries)
-- [[vocabulary/directions-vocabulary]] — English directions vocabulary — N/S/E/W + position expressions (5+ entries)
-- [[vocabulary/health-vocabulary]] — English health vocabulary — hospital/symptoms/body (5+ entries)
-- [[vocabulary/numbers-vocabulary]] — English numbers vocabulary — one-ten + basic numerals (5+ entries)
+- [[family-vocabulary]] — English family vocabulary — father/mother/siblings/relatives (5+ entries)
+- [[education-vocabulary]] — English school/learning vocabulary — academic, study, education system (5+ entries)
+- [[colors-vocabulary]] — English colors vocabulary — basic color expressions (5+ entries)
+- [[months-vocabulary]] — English months vocabulary — January-December + seasons (5+ entries)
+- [[technology-vocabulary]] — English technology vocabulary — computer/internet/digital (5+ entries)
+- [[ordinal-numbers-vocabulary]] — English ordinal numbers — first, second, third... (5+ entries)
+- [[weekdays-vocabulary]] — English weekdays — Monday-Sunday (5+ entries)
+- [[weather-vocabulary]] — English weather vocabulary — sunny/rainy/snowy/cloudy (5+ entries)
+- [[transportation-vocabulary]] — English transportation vocabulary — car/subway/bus/taxi (5+ entries)
+- [[directions-vocabulary]] — English directions vocabulary — N/S/E/W + position expressions (5+ entries)
+- [[health-vocabulary]] — English health vocabulary — hospital/symptoms/body (5+ entries)
+- [[numbers-vocabulary]] — English numbers vocabulary — one-ten + basic numerals (5+ entries)
 
 ### Study Plan (added 1)
 - [[study-plan/README]] — English study-plan placeholder — meets AGENTS.md 7-subdirectory requirement

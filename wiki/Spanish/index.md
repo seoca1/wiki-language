@@ -1,6 +1,6 @@
 # Spanish Learning Wiki - Index
 
-Last updated: 2026-08-10 (4 new vocabulary themes: career, adventure, quotes, entertainment; added 11 comparative page cross-references; ES-specific vocabulary gaps closed)
+Last updated: 2026-08-11 (4 new expression themes: requests, complaints, business-basics, food-dining; ES-specific situational expression gaps closed)
 
 ## Vocabulary
 
@@ -158,43 +158,49 @@ Comprehensive cultural analysis pages organized into 7 thematic categories:
 - [[emotions-reactions]] - Emociones y reacciones — coloridas expresiones para sentimientos fuertes (10 entries)
 - [[subjunctive-patterns]] - Patrones de subjuntivo — cuando/antes de que/para que/ojalá + subjuntivo (4 entries)
 - [[cultural-idioms]] - Expresiones culturales — idiomático, literario, regional (8 entries, incl. devolverlo-huerfano-a-las-aguas, quedar-varado, dar-la-voz-de-alarma, subirse-al-higado, tener-cara-de-llamarse)
+- [[requests]] - Expresiones de petición — fórmulas corteses con distinción tú/usted y vosotros/vos (10 entries, incl. ¿podrias, te-importa-si, quisiera, me-permite, le-importa, seria-tan-amable, si-no-te-importa, podria)
+- [[complaints]] - Expresiones de queja — reclamaciones, devoluciones, problemas de servicio (10 entries, incl. quiero-reclamar, esto-no-es-lo-que-pedi, no-estoy-satisfecho, puede-arreglar-esto, hay-un-problema-con, quiero-hablar-con-el-encargado, quiero-devolver, no-me-parece-justo, quiero-un-reembolso)
+- [[business-basics]] - Expresiones profesionales — saludos, aperturas y cierres de correo formal (10 entries, incl. estimado, atentamente, adjunto, por-favor-confirme, quedo-a-la-espera, le-saluda-atentamente, a-quien-corresponda, por-medio-de-la-presente, sin-otro-particular, quedando-a-su-disposicion)
+- [[food-dining]] - Expresiones de restaurante — pedir, recomendar, restricciones alimentarias (10 entries, incl. que-recomienda, la-cuenta-por-favor, para-mi, sin-picante, soy-alergico-a, tienen-menu-del-dia, para-llevar, que-tiene-de-beber, estaba-delicioso, carta-de-vinos)
 
 ## Sources (36 processed; 11 added 2026-08-10)
 
-- [[sources/animals-vocabulary-es]] - Animales Vocabulary (37 entries: mascotas, salvajes, insectos, marinos, verbos/adjetivos)
-- [[sources/business-vocabulary-es]] - Business Vocabulary (52 entries: email, reuniones, corporativo, teléfono, expresiones, tech)
-- [[sources/clothing-vocabulary-es]] - Ropa Vocabulary (30 entries: prendas, colores, materiales, verbos/adjetivos)
-- [[sources/nature-vocabulary-es]] - Naturaleza Vocabulary (39 entries: fenómenos, formations, plantas, verbos/adjetivos)
-- [[sources/comida-y-restaurante]] - Comida y Restaurante (Food and Restaurant)
-- [[sources/como-agua-para-chocolate-cap1]] - Como agua para chocolate - Capítulo 1 (Enero)
-- [[sources/dating-romance-es]] - dating-romance-es
-- [[sources/el-ahogado-mas-hermoso-del-mundo]] - El ahogado más hermoso del mundo
-- [[sources/fiestas-y-celebraciones]] - Fiestas y Celebraciones (Holidays)
-- [[sources/first-travel-spain]] - first-travel-spain
-- [[sources/literature-passages]] - literature-passages
-- [[sources/notes-in-spanish-listening-log]] - Notes in Spanish - Listening Log
-- [[sources/notes-in-spanish-planes-de-verano]] - Notes in Spanish Advanced - Planes de verano
-- [[sources/trabajo-y-carrera]] - Trabajo y Carrera (Work and Career)
-- [[sources/viaje-aventura]] - Viaje de Aventura (Travel Adventure)
-- [[sources/daily-life-basics]] - Daily Life Basics (2026-08-10 신규, saludos/familia/verbos/numeros)
-- [[sources/food-and-dining]] - Food and Dining (2026-08-10 신규, ingredientes/platos/restaurante)
-- [[sources/food-vocabulary-es]] - Food Vocabulary ES (2026-08-10 신규, ingredientes/comidas/regiones)
-- [[sources/health-and-body]] - Health and Body (2026-08-10 신규, partes/síntomas/médico)
-- [[sources/holidays-and-celebrations]] - Holidays and Celebrations (2026-08-10 신규, Navidad/Año Nuevo/Easter/festivales)
-- [[sources/movie-quotes]] - Movie Quotes (2026-08-10 신규, frases icónicas cine/literatura)
-- [[sources/shopping-and-money]] - Shopping and Money (2026-08-10 신규, tiendas/precios/pago/regateo)
-- [[sources/sports-and-hobbies]] - Sports and Hobbies (2026-08-10 신규, deportes/fitness/outdoor)
-- [[sources/technology-and-internet]] - Technology and Internet (2026-08-10 신규, dispositivos/software/redes)
-- [[sources/travel-adventure]] - Travel Adventure (2026-08-10 신규, documentos/transporte/alojamiento)
-- [[sources/work-and-career]] - Work and Career (2026-08-10 신규, profesiones/oficina/reuniones)
+- [[animals-vocabulary-es]] - Animales Vocabulary (37 entries: mascotas, salvajes, insectos, marinos, verbos/adjetivos)
+- [[business-vocabulary-es]] - Business Vocabulary (52 entries: email, reuniones, corporativo, teléfono, expresiones, tech)
+- [[clothing-vocabulary-es]] - Ropa Vocabulary (30 entries: prendas, colores, materiales, verbos/adjetivos)
+- [[nature-vocabulary-es]] - Naturaleza Vocabulary (39 entries: fenómenos, formations, plantas, verbos/adjetivos)
+- [[comida-y-restaurante]] - Comida y Restaurante (Food and Restaurant)
+- [[como-agua-para-chocolate-cap1]] - Como agua para chocolate - Capítulo 1 (Enero)
+- [[dating-romance-es]] - dating-romance-es
+- [[el-ahogado-mas-hermoso-del-mundo]] - El ahogado más hermoso del mundo
+- [[fiestas-y-celebraciones]] - Fiestas y Celebraciones (Holidays)
+- [[first-travel-spain]] - first-travel-spain
+- [[literature-passages]] - literature-passages
+- [[notes-in-spanish-listening-log]] - Notes in Spanish - Listening Log
+- [[notes-in-spanish-planes-de-verano]] - Notes in Spanish Advanced - Planes de verano
+- [[trabajo-y-carrera]] - Trabajo y Carrera (Work and Career)
+- [[viaje-aventura]] - Viaje de Aventura (Travel Adventure)
+- [[daily-life-basics]] - Daily Life Basics (2026-08-10 신규, saludos/familia/verbos/numeros)
+- [[food-and-dining]] - Food and Dining (2026-08-10 신규, ingredientes/platos/restaurante)
+- [[food-vocabulary-es]] - Food Vocabulary ES (2026-08-10 신규, ingredientes/comidas/regiones)
+- [[health-and-body]] - Health and Body (2026-08-10 신규, partes/síntomas/médico)
+- [[holidays-and-celebrations]] - Holidays and Celebrations (2026-08-10 신규, Navidad/Año Nuevo/Easter/festivales)
+- [[movie-quotes]] - Movie Quotes (2026-08-10 신규, frases icónicas cine/literatura)
+- [[shopping-and-money]] - Shopping and Money (2026-08-10 신규, tiendas/precios/pago/regateo)
+- [[sports-and-hobbies]] - Sports and Hobbies (2026-08-10 신규, deportes/fitness/outdoor)
+- [[technology-and-internet]] - Technology and Internet (2026-08-10 신규, dispositivos/software/redes)
+- [[travel-adventure]] - Travel Adventure (2026-08-10 신규, documentos/transporte/alojamiento)
+- [[work-and-career]] - Work and Career (2026-08-10 신규, profesiones/oficina/reuniones)
+- [[emotions-personality-vocabulary-es]] - Emociones y Personalidad Vocabulario (37 entries: emociones básicas/complejas/verbos/adjetivos)
+- [[entertainment-es]] - Entretenimiento ES (2026-08-10 신규, cine/música/tv/videojuegos)
 
 ### Source Pages with Dates
 
-- [[sources/2026-05-17_Daily_Routine]] - Daily Routine (5/17 ingest)
-- [[sources/2026-05-17_Travel_Directions]] - Travel Directions (5/17 ingest)
-- [[sources/2026-06-13_Weather_and_Seasons]] - Weather and Seasons (6/13 ingest)
-- [[sources/2026-06-16_Restaurant_Ordering]] - Restaurant Ordering (6/16 ingest)
-- [[sources/mexico-comida-callejera]] - Comida callejera mexicana (culture/sources overlap)
+- [[2026-05-17_Daily_Routine]] - Daily Routine (5/17 ingest)
+- [[2026-05-17_Travel_Directions]] - Travel Directions (5/17 ingest)
+- [[2026-06-13_Weather_and_Seasons]] - Weather and Seasons (6/13 ingest)
+- [[2026-06-16_Restaurant_Ordering]] - Restaurant Ordering (6/16 ingest)
+- [[mexico-comida-callejera]] - Comida callejera mexicana (culture/sources overlap)
 
 ## Study Plan (4 entries)
 
@@ -210,19 +216,19 @@ Personal study workflows and resource planning:
 > Orphan pages reconciled from filesystem. Descriptions from each file's Overview section.
 
 ### Expressions (added 2)
-- [[expressions/apologies]] — Spanish disculpas — Lo siento, Perdón, Disculpa, Disculpe, Lo lamento (5+ entries)
-- [[expressions/agreement]] — Spanish agreement expressions — Sí, Vale, De acuerdo, OK, Estoy de acuerdo (5+ entries)
+- [[apologies]] — Spanish disculpas — Lo siento, Perdón, Disculpa, Disculpe, Lo lamento (5+ entries)
+- [[agreement]] — Spanish agreement expressions — Sí, Vale, De acuerdo, OK, Estoy de acuerdo (5+ entries)
 
 ### Vocabulary (added 9)
-- [[vocabulary/education-vocabulary]] — Spanish escuela/aprendizaje vocabulario — académico, estudio, sistema educativo (5+ entries)
-- [[vocabulary/colors-vocabulary]] — Spanish colores vocabulario — expresiones de color básicas (5+ entries)
-- [[vocabulary/months-vocabulary]] — Spanish meses vocabulario — enero-diciembre + estaciones (5+ entries)
-- [[vocabulary/technology-vocabulary]] — Spanish tecnología vocabulario — computadora/internet/digital (5+ entries)
-- [[vocabulary/ordinal-numbers-vocabulary]] — Spanish ordinales — primero, segundo, tercero... (5+ entries)
-- [[vocabulary/weekdays-vocabulary]] — Spanish días de la semana — lunes-domingo (5+ entries)
-- [[vocabulary/directions-vocabulary]] — Spanish direcciones vocabulario — N/S/E/O + expresiones de ubicación (5+ entries)
-- [[vocabulary/health-vocabulary]] — Spanish salud vocabulario — hospital/síntomas/cuerpo (5+ entries)
-- [[vocabulary/numbers-vocabulary]] — Spanish números vocabulario — uno-diez + numerales básicos (5+ entries)
+- [[education-vocabulary]] — Spanish escuela/aprendizaje vocabulario — académico, estudio, sistema educativo (5+ entries)
+- [[colors-vocabulary]] — Spanish colores vocabulario — expresiones de color básicas (5+ entries)
+- [[months-vocabulary]] — Spanish meses vocabulario — enero-diciembre + estaciones (5+ entries)
+- [[technology-vocabulary]] — Spanish tecnología vocabulario — computadora/internet/digital (5+ entries)
+- [[ordinal-numbers-vocabulary]] — Spanish ordinales — primero, segundo, tercero... (5+ entries)
+- [[weekdays-vocabulary]] — Spanish días de la semana — lunes-domingo (5+ entries)
+- [[directions-vocabulary]] — Spanish direcciones vocabulario — N/S/E/O + expresiones de ubicación (5+ entries)
+- [[health-vocabulary]] — Spanish salud vocabulario — hospital/síntomas/cuerpo (5+ entries)
+- [[numbers-vocabulary]] — Spanish números vocabulario — uno-diez + numerales básicos (5+ entries)
 
 ## Cross-Language Comparisons
 
