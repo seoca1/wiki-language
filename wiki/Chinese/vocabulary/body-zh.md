@@ -1,301 +1,611 @@
 ---
-category: "body-zh"
+source: "body-zh"
+category: "body"
 level: "HSK 1-2"
+theme: "body"
 ---
 
-# Body — 신체 부위 (身体部位)
+# 신체 부위 (Chinese Body Parts)
 
-**Source:** body-zh-original
-**Theme:** Health & Body
+**Source:** [[body-zh]]
+**Theme:** 身体部位
 **Level:** HSK 1-2
 
-신체 부위 어휘. 한국 한자어와 매우 비슷해서 뜻은 거의 동일하지만 발음이 다름. 양사(measure words)와 함께 사용 패턴 학습 필수.
+한국어 신체 부위 어휘. 한국어와 매우 비슷하지만 일부 용어 구분 차이 있음. HSK 1-2 수준.
 
 ---
+
+## 머리/얼굴 (Head/Face)
 
 ### 头 (tóu)
 
-**Part of Speech:** 명사 (noun)
+**品词:** 명사 (noun)
 
-**Definition:** 머리, 두부
+**定义:** 머리
 
-**Pinyin:** tóu (2성)
+**병음:** tóu (2성)
 
-**Etymology:** 한국 한자음 "두" 와 달리 중국어 "tóu" 로 발음. SVO 언어에서 "머리" 위치 학습 필수.
+**한자:** 头
 
-#### Examples
+#### 예문
 
-- 我的头很痛 (wǒ de tóu hěn tòng) — 내 머리가 아프다 (context: medical)
-- 一个头 (yī gè tóu) — 머리 하나 (context: measure word + body part)
+- 我头疼 (wǒ tóu téng) — 머리가 아파요
+- 点头 (diǎn tóu) — 끄덕이다
 
-#### Related Terms
+#### 관련어
 
-- [[body-zh#头发|头发 (tóufa, 머리카락)]]
-- [[body-zh#额头|额头 (étóu, 이마)]]
+- [[body-zh#头发|头发 (tóu fa, 머리카락)]]
 
-#### Sources
+#### 출처
 
-- body-zh-original — Body_Chinese.md (OpenClaw raw)
-
----
-
-### 眼睛 (yǎnjing)
-
-**Part of Speech:** 명사 (noun)
-
-**Definition:** 눈
-
-**Pinyin:** yǎn jing (3성 + 경성)
-
-**Etymology:** 眼 (yǎn) 단독 사용 드물 — 대부분 眼睛 2자 복합 명사. 睛 (jīng) 자체로 "눈동자".
-
-#### Examples
-
-- 一只眼睛 (yī zhī yǎn jing) — 눈 하나 (context: 양사 只)
-- 她的眼睛很漂亮 (tā de yǎn jing hěn piào liang) — 그녀의 눈은 매우 예쁘다
-
-#### Related Terms
-
-- [[body-zh#眉毛|眉毛 (méimao, 눈썹)]]
-- [[body-zh#睫毛|睫毛 (jiémáo, 속눈썹)]]
-
-#### Sources
-
-- body-zh-original — Body_Chinese.md
+- [[body-zh]]
 
 ---
 
-### 耳朵 (ěrduo)
+### 头发 (tóu fa)
 
-**Part of Speech:** 명사 (noun)
+**品词:** 명사 (noun)
 
-**Definition:** 귀
+**定义:** 머리카락
 
-**Pinyin:** ěr duo (3성 + 경성)
+**로마자 (국립국어원):** tóu fa
 
-**Etymology:** 耳 (ěr) 단독으로도 사용 가능하나 일상 회화에서는 耳朵 형태 일반적.
+**한자:** 头发
 
-#### Examples
+#### 예문
 
-- 一只耳朵 (yī zhī ěr duo) — 귀 하나
-- 我耳朵疼 (wǒ ěr duo téng) — 내 귀가 아프다
+- 我剪了头发 (wǒ jiǎn le tóu fa) — 머리 잘랐어요
 
-#### Related Terms
+#### 관련어
 
-- [[body-zh#鼻子|鼻子 (bízi, 코)]]
-- [[body-zh#嘴|嘴 (zuǐ, 입)]]
+- [[body-zh#头|头 (tóu, 머리)]]
 
-#### Sources
+#### 출처
 
-- body-zh-original
-
----
-
-### 鼻子 (bízi)
-
-**Part of Speech:** 명사 (noun)
-
-**Definition:** 코
-
-**Pinyin:** bí zi (2성 + 경성)
-
-**Etymology:** 鼻 (bí) 단독 발음 가능. 한국 한자음 "비" 와 중국 "bí" 발음 차이 주의.
-
-#### Examples
-
-- 一个鼻子 (yī gè bí zi) — 코 하나
-- 我的鼻子很灵 (wǒ de bí zi hěn líng) — 내 코가 매우 예민하다
-
-#### Related Terms
-
-- [[body-zh#眼睛|眼睛 (yǎnjing)]]
-- [[body-zh#嘴|嘴 (zuǐ)]]
-
-#### Sources
-
-- body-zh-original
-
----
-
-### 嘴 (zuǐ)
-
-**Part of Speech:** 명사 (noun)
-
-**Definition:** 입
-
-**Pinyin:** zuǐ (3성)
-
-**Etymology:** 嘴는 단독으로 "입" + "주둥이" 의미. 양사 张 (zhāng) 사용 — "一张嘴".
-
-#### Examples
-
-- 一张嘴 (yī zhāng zuǐ) — 입 하나
-- 闭嘴 (bì zuǐ) — 입 닥쳐 (context: casual/imperative)
-
-#### Related Terms
-
-- [[body-zh#嘴唇|嘴唇 (zuǐchún, 입술)]]
-- [[body-zh#舌头|舌头 (shétou, 혀)]]
-
-#### Sources
-
-- body-zh-original
-
----
-
-### 手 (shǒu)
-
-**Part of Speech:** 명사 (noun)
-
-**Definition:** 손
-
-**Pinyin:** shǒu (3성)
-
-**Etymology:** 양사 只 (zhī) 사용 — "一只手". 한국어 "한 손" 과 동일 패턴.
-
-#### Examples
-
-- 一只手 (yī zhī shǒu) — 손 하나
-- 两只手 (liǎng zhī shǒu) — 두 손 (context: 양 표현 시 两 사용)
-
-#### Related Terms
-
-- [[body-zh#手指|手指 (shǒuzhǐ, 손가락)]]
-- [[body-zh#手臂|手臂 (shǒubì, 팔)]]
-
-#### Sources
-
-- body-zh-original
-
----
-
-### 脚 (jiǎo)
-
-**Part of Speech:** 명사 (noun)
-
-**Definition:** 발
-
-**Pinyin:** jiǎo (3성)
-
-**Etymology:** 한국 한자음 "각" ≠ 중국 "jiǎo". 양사 只 (zhī) 사용.
-
-#### Examples
-
-- 一只脚 (yī zhī jiǎo) — 발 하나
-- 我的脚疼 (wǒ de jiǎo téng) — 내 발이 아프다
-
-#### Related Terms
-
-- [[body-zh#腿|腿 (tuǐ, 다리)]]
-- [[body-zh#脚趾|脚趾 (jiǎozhǐ, 발가락)]]
-
-#### Sources
-
-- body-zh-original
-
----
-
-### 头发 (tóufa)
-
-**Part of Speech:** 명사 (noun)
-
-**Definition:** 머리카락
-
-**Pinyin:** tóu fa (2성 + 경성)
-
-**Etymology:** 头 (tóu, 머리) + 发 (fa, 내다/발달). 양사 根 (gēn) 사용 — 가늘고 긴 것.
-
-#### Examples
-
-- 一根头发 (yī gēn tóu fa) — 머리카락 한 가닥
-- 黑色头发 (hēi sè tóu fa) — 검은 머리카락 (context: 색깔 + 명사)
-
-#### Related Terms
-
-- [[colors-zh#黑色|黑色 (hēisè)]]
-- [[body-zh#头|头 (tóu)]]
-
-#### Sources
-
-- body-zh-original
-
----
-
-### 肚子 (dùzi)
-
-**Part of Speech:** 명사 (noun)
-
-**Definition:** 배 (복부)
-
-**Pinyin:** dù zi (4성 + 경성)
-
-**Etymology:** 肚 (dù) 단독보다 肚子 형태 일반적. 肚子痛 = 배 아프다.
-
-#### Examples
-
-- 肚子痛 (dù zi tòng) — 배가 아프다
-- 一个肚子 (yī gè dù zi) — 배 하나
-
-#### Related Terms
-
-- [[body-zh#腰|腰 (yāo, 허리)]]
-- [[body-zh#胃|胃 (wèi, 위)]]
-
-#### Sources
-
-- body-zh-original
+- [[body-zh]]
 
 ---
 
 ### 脸 (liǎn)
 
-**Part of Speech:** 명사 (noun)
+**品词:** 명사 (noun)
 
-**Definition:** 얼굴
+**定义:** 얼굴
 
-**Pinyin:** liǎn (3성)
+**로마자 (국립국어원):** liǎn
 
-**Etymology:** 脸은 단독 사용 가능. "의 (de) + 명사" 패턴으로 소유 표현.
+**한자:** 脸
 
-#### Examples
+#### 예문
 
-- 我的脸 (wǒ de liǎn) — 나의 얼굴
-- 脸红 (liǎn hóng) — 얼굴이 빨개지다 (context: 红色 = 빨강)
+- 你的脸红了 (nǐ de liǎn hóng le) — 네 얼굴이 빨개졌어
 
-#### Related Terms
+#### 관련어
 
-- [[body-zh#脸颊|脸颊 (liǎnjiá, 볼)]]
-- [[colors-zh#红色|红色 (hóngsè)]]
+- [[body-zh#脸色|脸色 (liǎn sè, 안색)]]
 
-#### Sources
+#### 출처
 
-- body-zh-original
+- [[body-zh]]
 
 ---
 
-### 嘴 (zuǐ) [bonus: 牙齿 yáchǐ]
+### 眼睛 (yǎn jing)
 
-**Part of Speech:** 명사 (noun)
+**品词:** 명사 (noun)
 
-**Definition:** 이, 치아
+**定义:** 눈
 
-**Pinyin:** yá chǐ (2성 + 3성)
+**로마자 (국립국어원):** yǎn jing
 
-**Etymology:** 牙 (yá) 단독 "상아/뼈" 의미도 있으나 牙齿 (yáchǐ) 가 "이/치아" 전용. 양사 颗 (kē) 사용.
+**한자:** 眼睛
 
-#### Examples
+#### 예문
 
-- 一颗牙 (yī kē yá) — 이 하나
-- 我牙疼 (wǒ yá téng) — 내 이가 아프다
+- 你的眼睛很大 (nǐ de yǎn jing hěn dà) — 네 눈이 커요
 
-#### Related Terms
+#### 관련어
 
-- [[body-zh#嘴|嘴 (zuǐ)]]
-- [[body-zh#舌头|舌头 (shétou)]]
+- [[body-zh#眼镜|眼镜 (yǎn jìng, 안경)]]
+- [[body-zh#眉毛|眉毛 (méi mao, 눈썹)]]
+- [[body-zh#睫毛|睫毛 (jié mao, 속눈썹)]]
 
-#### Sources
+#### 출처
 
-- body-zh-original
+- [[body-zh]]
+
+---
+
+### 耳朵 (ěr duo)
+
+**品词:** 명사 (noun)
+
+**定义:** 귀
+
+**로마자 (국립국어원):** ěr duo
+
+**한자:** 耳朵
+
+#### 예문
+
+- 我的耳朵疼 (wǒ de ěr duo téng) — 귀가 아파요
+
+#### 관련어
+
+- [[body-zh#耳机|耳机 (ěr jī, 이어폰)]]
+
+#### 출처
+
+- [[body-zh]]
+
+---
+
+### 鼻子 (bí zi)
+
+**品词:** 명사 (noun)
+
+**定义:** 코
+
+**로마자 (국립국어원):** bí zi
+
+**한자:** 鼻子
+
+#### 예문
+
+- 我鼻子堵了 (wǒ bí zi dǔ le) — 코가 막혔어요
+
+#### 관련어
+
+- [[body-zh#鼻涕|鼻涕 (bí tì, 콧물)]]
+
+#### 출처
+
+- [[body-zh]]
+
+---
+
+### 嘴巴 (zuǐ ba)
+
+**品词:** 명사 (noun)
+
+**定义:** 입
+
+**로마자 (국립국어원):** zuǐ ba
+
+**한자:** 嘴巴
+
+#### 예문
+
+- 请张嘴巴 (qǐng zhāng zuǐ ba) — 입 좀 벌려주세요
+
+#### 관련어
+
+- [[body-zh#嘴唇|嘴唇 (zuǐ chún, 입술)]]
+
+#### 출처
+
+- [[body-zh]]
+
+---
+
+### 鼻子 (bí zi) - 중복 제거됨
+
+### 牙齿 (yá chǐ)
+
+**品词:** 명사 (noun)
+
+**定义:** 이/치아
+
+**로마자 (국립국어원):** yá chǐ
+
+**한자:** 牙齿
+
+#### 예문
+
+- 我牙疼 (wǒ yá téng) — 이가 아파요
+
+#### 관련어
+
+- [[body-zh#牙医|牙医 (yá yī, 치과의사)]]
+
+#### 출처
+
+- [[body-zh]]
+
+---
+
+## 상체 (Upper Body)
+
+### 脖子 (bó zi)
+
+**品词:** 명사 (noun)
+
+**定义:** 목
+
+**로마자 (국립국어원):** bó zi
+
+**한자:** 脖子
+
+#### 예문
+
+- 我脖子疼 (wǒ bó zi téng) — 목이 아파요
+
+#### 관련어
+
+- [[body-zh#肩膀|肩膀 (jiān bǎng, 어깨)]]
+
+#### 출처
+
+- [[body-zh]]
+
+---
+
+### 肩膀 (jiān bǎng)
+
+**品词:** 명사 (noun)
+
+**定义:** 어깨
+
+**로마자 (국립국어원):** jiān bǎng
+
+**한자:** 肩膀
+
+#### 예문
+
+- 我肩膀酸 (wǒ jiān bǎng suān) — 어깨가 뻐근해요
+
+#### 관련어
+
+- [[body-zh#脖子|脖子 (bó zi, 목)]]
+
+#### 출처
+
+- [[body-zh]]
+
+---
+
+### 手臂 (shǒu bì)
+
+**品词:** 명사 (noun)
+
+**定义:** 팔 (어깨~손목)
+
+**로마자 (국립국어원):** shǒu bì
+
+**한자:** 手臂
+
+#### 예문
+
+- 我手臂受伤了 (wǒ shǒu bì shòu shāng le) — 팔이 다쳤어요
+
+#### 관련어
+
+- [[body-zh#手|手 (shǒu, 손)]]
+- [[body-zh#胳膊肘|胳膊肘 (gē bo zhǒu, 팔꿈치)]]
+
+#### 출처
+
+- [[body-zh]]
+
+---
+
+### 胳膊肘 (gē bo zhǒu)
+
+**品词:** 명사 (noun)
+
+**定义:** 팔꿈치
+
+**로마자 (국립국어원):** gē bo zhǒu
+
+**한자:** 胳膊肘
+
+#### 예문
+
+- 我胳膊肘撞到了 (wǒ gē bo zhǒu zhuàng dào le) — 팔꿈치를 부딪혔어요
+
+#### 관련어
+
+- [[body-zh#手臂|手臂 (shǒu bì, 팔)]]
+
+#### 출처
+
+- [[body-zh]]
+
+---
+
+### 手腕 (shǒu wàn)
+
+**品词:** 명사 (noun)
+
+**定义:** 손목
+
+**로마자 (국립국어원):** shǒu wàn
+
+**한자:** 手腕
+
+#### 예문
+
+- 我手腕疼 (wǒ shǒu wàn téng) — 손목이 아파요
+
+#### 관련어
+
+- [[body-zh#手|手 (shǒu, 손)]]
+
+#### 출처
+
+- [[body-zh]]
+
+---
+
+### 手 (shǒu)
+
+**品词:** 명사 (noun)
+
+**定义:** 손
+
+**로마자 (국립국어원):** shǒu
+
+**한자:** 手
+
+#### 예문
+
+- 洗手 (xǐ shǒu) — 손 씻다
+
+#### 관련어
+
+- [[body-zh#手掌|手掌 (shǒu zhǎng, 손바닥)]]
+- [[body-zh#手背|手背 (shǒu bèi, 손등)]]
+- [[body-zh#手指|手指 (shǒu zhǐ, 손가락)]]
+
+#### 출처
+
+- [[body-zh]]
+
+---
+
+### 手掌 (shǒu zhǎng)
+
+**品词:** 명사 (noun)
+
+**定义:** 손바닥
+
+**로마자 (국립국어원):** shǒu zhǎng
+
+**한자:** 手掌
+
+#### 예문
+
+- 手掌心痒 (shǒu zhǎng xīn yǎng) — 손바닥이 간지러워요
+
+#### 관련어
+
+- [[body-zh#手|手 (shǒu, 손)]]
+
+#### 출처
+
+- [[body-zh]]
+
+---
+
+### 手背 (shǒu bèi)
+
+**品词:** 명사 (noun)
+
+**定义:** 손등
+
+**로마자 (국립국어원):** shǒu bèi
+
+**한자:** 手背
+
+#### 예문
+
+- 手背上有青筋 (shǒu bèi shàng yǒu qīng jīn) — 손등에 핏줄이 보여요
+
+#### 관련어
+
+- [[body-zh#手|手 (shǒu, 손)]]
+
+#### 출처
+
+- [[body-zh]]
+
+---
+
+### 手指 (shǒu zhǐ)
+
+**品词:** 명사 (noun)
+
+**定义:** 손가락
+
+**로마자 (국립국어원):** shǒu zhǐ
+
+**한자:** 手指
+
+#### 예문
+
+- 我手指被门夹了 (wǒ shǒu zhǐ bèi mén jiā le) — 손가락이 문에 끼었어요
+
+#### 관련어
+
+- [[body-zh#大拇指|大拇指 (dà mǔ zhǐ, 엄지손가락)]]
+- [[body-zh#食指|食指 (shí zhǐ, 검지손가락)]]
+- [[body-zh#中指|中指 (zhōng zhǐ, 중지손가락)]]
+- [[body-zh#无名指|无名指 (wú míng zhǐ, 약손가락)]]
+- [[body-zh#小指|小指 (xiǎo zhǐ, 새끼손가락)]]
+
+#### 출처
+
+- [[body-zh]]
+
+---
+
+## 하체 (Lower Body)
+
+### 腿 (tuǐ)
+
+**品词:** 명사 (noun)
+
+**定义:** 다리
+
+**로마자 (국립국어원):** tuǐ
+
+**한자:** 腿
+
+#### 예문
+
+- 我腿疼 (wǒ tuǐ téng) — 다리가 아파요
+
+#### 관련어
+
+- [[body-zh#膝盖|膝盖 (xī gài, 무릎)]]
+- [[body-zh#脚|脚 (jiǎo, 발)]]
+
+#### 출처
+
+- [[body-zh]]
+
+---
+
+### 膝盖 (xī gài)
+
+**品词:** 명사 (noun)
+
+**定义:** 무릎
+
+**로마자 (국립국어원):** xī gài
+
+**한자:** 膝盖
+
+#### 예문
+
+- 我膝盖疼 (wǒ xī gài téng) — 무릎이 아파요
+
+#### 관련어
+
+- [[body-zh#腿|腿 (tuǐ, 다리)]]
+
+#### 출처
+
+- [[body-zh]]
+
+---
+
+### 脚 (jiǎo)
+
+**品词:** 명사 (noun)
+
+**定义:** 발
+
+**로마자 (국립국어원):** jiǎo
+
+**한자:** 脚
+
+#### 예문
+
+- 我脚疼 (wǒ jiǎo téng) — 발이 아파요
+
+#### 관련어
+
+- [[body-zh#脚踝|脚踝 (jiǎo huái, 발목)]]
+- [[body-zh#脚趾|脚趾 (jiǎo zhǐ, 발가락)]]
+
+#### 출처
+
+- [[body-zh]]
+
+---
+
+### 脚踝 (jiǎo huái)
+
+**品词:** 명사 (noun)
+
+**定义:** 발목
+
+**로마자 (국립국어원):** jiǎo huái
+
+**한자:** 脚踝
+
+#### 예문
+
+- 我脚踝扭了 (wǒ jiǎo huái niǔ le) — 발목을 삐었어요
+
+#### 관련어
+
+- [[body-zh#脚|脚 (jiǎo, 발)]]
+
+#### 출처
+
+- [[body-zh]]
+
+---
+
+### 脚趾 (jiǎo zhǐ)
+
+**品词:** 명사 (noun)
+
+**定义:** 발가락
+
+**로마자 (국립국어원):** jiǎo zhǐ
+
+**한자:** 脚趾
+
+#### 예문
+
+- 我脚趾撞到了 (wǒ jiǎo zhǐ zhuàng dào le) — 발가락을 부딪혔어요
+
+#### 관련어
+
+- [[body-zh#脚|脚 (jiǎo, 발)]]
+
+#### 출처
+
+- [[body-zh]]
+
+---
+
+## 한국어와 차이점 (Key Differences for Korean Learners)
+
+### 1. 手 (shǒu) vs 手臂 (shǒu bì) — 손 vs 팔
+| 한국어 | 중국어 | 비고 |
+|--------|--------|------|
+| 손 | 手 (shǒu) | 손만 |
+| 팔 | 手臂 (shǒu bì) | 어깨~손목 전체 |
+| 손목 | 手腕 (shǒu wàn) | 손목만 |
+
+> **핵심**: 한국어 "손/팔" 두 단어 = 중국어 手 (손) vs 手臂 (팔) — 한국어 "팔"은 손목부터 어깨까지 포함
+
+### 2. 脚 (jiǎo) vs 腿 (tuǐ) — 발 vs 다리
+| 한국어 | 중국어 | 비고 |
+|--------|--------|------|
+| 다리 | 腿 (tuǐ) | 허벅지~발목 전체 |
+| 발 | 脚 (jiǎo) | 발만 |
+| 무릎 | 膝盖 (xī gài) | 무릎만 |
+
+### 3. 머리카락 vs 머리
+| 한국어 | 중국어 | 비고 |
+|--------|--------|------|
+| 머리 | 头 (tóu) | 머리 전체 |
+| 머리카락 | 头发 (tóu fa) | 머리카락만 |
+
+### 4. 얼굴 vs 눈
+| 한국어 | 중국어 | 비고 |
+|--------|--------|------|
+| 얼굴 | 脸 (liǎn) | 얼굴 전체 |
+| 눈 | 眼睛 (yǎn jing) | 눈만 (복수형 표기) |
+
+### 5. 배 vs 위
+| 한국어 | 중국어 | 비고 |
+|--------|--------|------|
+| 배 (복부) | 肚子 (dù zi) | 배 전체/복부 |
+| 위 (장기) | 胃 (wèi) | 위장 장기 |
+
+---
+
+## Sources
+
+- HSK 1-2 Vocabulary List
+- Chinese Body Parts Guide
+- [[first-travel-japan]] — 한국 여행 중 중국어 신체 부위
 
 ---
 
@@ -306,15 +616,36 @@ level: "HSK 1-2"
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: zh_body_zh_001, display: "头 (tóu)", input: "头 (tóu)", meaning: "머리, 두부", level: "HSK 1-2", category: "body-zh", source: "[[body]]" }
-- { id: zh_body_zh_002, display: "眼睛 (yǎnjing)", input: "眼睛 (yǎnjing)", meaning: "눈", level: "HSK 1-2", category: "body-zh", source: "[[body]]" }
-- { id: zh_body_zh_003, display: "耳朵 (ěrduo)", input: "耳朵 (ěrduo)", meaning: "귀", level: "HSK 1-2", category: "body-zh", source: "[[body]]" }
-- { id: zh_body_zh_004, display: "鼻子 (bízi)", input: "鼻子 (bízi)", meaning: "코", level: "HSK 1-2", category: "body-zh", source: "[[body]]" }
-- { id: zh_body_zh_005, display: "嘴 (zuǐ)", input: "嘴 (zuǐ)", meaning: "입", level: "HSK 1-2", category: "body-zh", source: "[[body]]" }
-- { id: zh_body_zh_006, display: "手 (shǒu)", input: "手 (shǒu)", meaning: "손", level: "HSK 1-2", category: "body-zh", source: "[[body]]" }
-- { id: zh_body_zh_007, display: "脚 (jiǎo)", input: "脚 (jiǎo)", meaning: "발", level: "HSK 1-2", category: "body-zh", source: "[[body]]" }
-- { id: zh_body_zh_008, display: "头发 (tóufa)", input: "头发 (tóufa)", meaning: "머리카락", level: "HSK 1-2", category: "body-zh", source: "[[body]]" }
-- { id: zh_body_zh_009, display: "肚子 (dùzi)", input: "肚子 (dùzi)", meaning: "배 (복부)", level: "HSK 1-2", category: "body-zh", source: "[[body]]" }
-- { id: zh_body_zh_010, display: "脸 (liǎn)", input: "脸 (liǎn)", meaning: "얼굴", level: "HSK 1-2", category: "body-zh", source: "[[body]]" }
-- { id: zh_body_zh_011, display: "嘴 (zuǐ) [bonus: 牙齿 yáchǐ]", input: "嘴 (zuǐ) [bonus: 牙齿 yáchǐ]", meaning: "이, 치아", level: "HSK 1-2", category: "body-zh", source: "[[body]]" }
+- { id: zh_body_001, display: "头", input: "头", meaning: "머리", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
+- { id: zh_body_002, display: "头发", input: "头发", meaning: "머리카락", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
+- { id: zh_body_003, display: "脸", input: "脸", meaning: "얼굴", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
+- { id: zh_body_004, display: "眼睛", input: "眼睛", meaning: "눈", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
+- { id: zh_body_005, display: "耳朵", input: "耳朵", meaning: "귀", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
+- { id: zh_body_006, display: "鼻子", input: "鼻子", meaning: "코", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
+- { id: zh_body_007, display: "嘴巴", input: "嘴巴", meaning: "입", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
+- { id: zh_body_008, display: "牙齿", input: "牙齿", meaning: "이/치아", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
+- { id: zh_body_009, display: "脖子", input: "脖子", meaning: "목", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
+- { id: zh_body_010, display: "肩膀", input: "肩膀", meaning: "어깨", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
+- { id: zh_body_011, display: "手臂", input: "手臂", meaning: "팔", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
+- { id: zh_body_012, display: "胳膊肘", input: "胳膊肘", meaning: "팔꿈치", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
+- { id: zh_body_013, display: "手腕", input: "手腕", meaning: "손목", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
+- { id: zh_body_014, display: "手", input: "手", meaning: "손", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
+- { id: zh_body_015, display: "手掌", input: "手掌", meaning: "손바닥", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
+- { id: zh_body_016, display: "手背", input: "手背", meaning: "손등", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
+- { id: zh_body_017, display: "手指", input: "手指", meaning: "손가락", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
+- { id: zh_body_018, display: "大拇指", input: "大拇指", meaning: "엄지손가락", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
+- { id: zh_body_019, display: "食指", input: "食指", meaning: "검지손가락", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
+- { id: zh_body_020, display: "中指", input: "中指", meaning: "중지손가락", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
+- { id: zh_body_021, display: "无名指", input: "无名指", meaning: "약손가락", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
+- { id: zh_body_022, display: "小指", input: "小指", meaning: "새끼손가락", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
+- { id: zh_body_023, display: "胸", input: "胸", meaning: "가슴", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
+- { id: zh_body_024, display: "背", input: "背", meaning: "등", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
+- { id: zh_body_025, display: "肚子", input: "肚子", meaning: "배/복부", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
+- { id: zh_body_026, display: "腰", input: "腰", meaning: "허리", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
+- { id: zh_body_027, display: "屁股", input: "屁股", meaning: "엉덩이", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
+- { id: zh_body_028, display: "腿", input: "腿", meaning: "다리", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
+- { id: zh_body_029, display: "膝盖", input: "膝盖", meaning: "무릎", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
+- { id: zh_body_029, display: "脚", input: "脚", meaning: "발", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
+- { id: zh_body_030, display: "脚踝", input: "脚踝", meaning: "발목", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
+- { id: zh_body_031, display: "脚趾", input: "脚趾", meaning: "발가락", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
 ```

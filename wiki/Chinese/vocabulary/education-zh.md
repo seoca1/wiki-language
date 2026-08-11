@@ -1,539 +1,267 @@
 ---
-title: "教育 (Education) — Chinese vocabulary"
-language: "Chinese"
+source: "education-zh"
 category: "education"
 level: "HSK 2-3"
 theme: "education"
 ---
 
-# 教育 (Education) — Chinese vocabulary
+# 教育 (Chinese Education)
 
-**Overview:** 교육 관련 어휘. 학교 + 학업 + 지식 추구.
+**Source:** [[education-zh]]
+**Theme:** 教育
+**Level:** HSK 2-3
 
-### 学校
-
-**Part of Speech:** noun
-
-**Definition:** 학교
-
-**Pronunciation / IPA:** xuéxiào
-
-**Etymology:** Standard educational vocabulary.
-
-#### Examples
-
-- 我去学校 = 나는 학교에 간다
-
-#### Related Terms
-
-- Related: [[education-vocabulary]]
-
-#### Cultural Notes
-
-중국 교육 시스템: 6-3-3-4 制 (소학 6년 + 중학 3년 + 고교 3년 + 대학 4년). 高考 (가오카오, 대학 입학 시험) 가 인생 좌우. 科举 (과거) 제도 유산.
-
-#### Sources
-
-- [[chinese-family-zh]] · [[chinese-workplace-culture]]
+한국어 교육 어휘: 학교/교육기관, 학년/학기, 수업/과목, 교실/시설, 인물, 학습 동사/표현, 성적/평가, 학교 생활 표현. 출처: HSK 2-3 교재, Chinese Education Guide.
 
 ---
 
-### 学生
-
-**Part of Speech:** noun
-
-**Definition:** 학생
-
-**Pronunciation / IPA:** xuéshēng
-
-**Etymology:** Standard educational vocabulary.
-
-#### Examples
-
-- 我是学生 = 나는 학생이다
-
-#### Related Terms
-
-- Related: [[education-vocabulary]]
-
-#### Cultural Notes
-
-중국 교육 시스템: 6-3-3-4 制 (소학 6년 + 중학 3년 + 고교 3년 + 대학 4년). 高考 (가오카오, 대학 입학 시험) 가 인생 좌우. 科举 (과거) 제도 유산.
-
-#### Sources
-
-- [[chinese-family-zh]] · [[chinese-workplace-culture]]
-
----
-
-### 老师
-
-**Part of Speech:** noun
-
-**Definition:** 선생
-
-**Pronunciation / IPA:** lǎoshī
-
-**Etymology:** Standard educational vocabulary.
-
-#### Examples
-
-- 老师好 = 선생님 안녕하세요
-
-#### Related Terms
-
-- Related: [[education-vocabulary]]
-
-#### Cultural Notes
-
-중국 교육 시스템: 6-3-3-4 制 (소학 6년 + 중학 3년 + 고교 3년 + 대학 4년). 高考 (가오카오, 대학 입학 시험) 가 인생 좌우. 科举 (과거) 제도 유산.
-
-#### Sources
-
-- [[chinese-family-zh]] · [[chinese-workplace-culture]]
-
----
-
-### 同学
-
-**Part of Speech:** noun
-
-**Definition:** 동급생
-
-**Pronunciation / IPA:** tóngxué
-
-**Etymology:** Standard educational vocabulary.
-
-#### Examples
-
-- 我的同学 = 나의 동급생
-
-#### Related Terms
-
-- Related: [[education-vocabulary]]
-
-#### Cultural Notes
-
-중국 교육 시스템: 6-3-3-4 制 (소학 6년 + 중학 3년 + 고교 3년 + 대학 4년). 高考 (가오카오, 대학 입학 시험) 가 인생 좌우. 科举 (과거) 제도 유산.
-
-#### Sources
-
-- [[chinese-family-zh]] · [[chinese-workplace-culture]]
-
----
-
-### 书
-
-**Part of Speech:** noun
-
-**Definition:** 책
-
-**Pronunciation / IPA:** shū
-
-**Etymology:** Standard educational vocabulary.
-
-#### Examples
-
-- 看书 = 책을 보다
-
-#### Related Terms
-
-- Related: [[education-vocabulary]]
-
-#### Cultural Notes
-
-중국 교육 시스템: 6-3-3-4 制 (소학 6년 + 중학 3년 + 고교 3년 + 대학 4년). 高考 (가오카오, 대학 입학 시험) 가 인생 좌우. 科举 (과거) 제도 유산.
-
-#### Sources
-
-- [[chinese-family-zh]] · [[chinese-workplace-culture]]
-
----
-
-### 本子
-
-**Part of Speech:** noun
-
-**Definition:** 공책/노트
-
-**Pronunciation / IPA:** běnzi
-
-**Etymology:** Standard educational vocabulary.
-
-#### Examples
-
-- 记在本子上 = 공책에 적다
-
-#### Related Terms
-
-- Related: [[education-vocabulary]]
-
-#### Cultural Notes
-
-중국 교육 시스템: 6-3-3-4 制 (소학 6년 + 중학 3년 + 고교 3년 + 대학 4년). 高考 (가오카오, 대학 입학 시험) 가 인생 좌우. 科举 (과거) 제도 유산.
-
-#### Sources
-
-- [[chinese-family-zh]] · [[chinese-workplace-culture]]
-
----
-
-### 笔
-
-**Part of Speech:** noun
-
-**Definition:** 펜
-
-**Pronunciation / IPA:** bǐ
-
-**Etymology:** Standard educational vocabulary.
-
-#### Examples
-
-- 一支笔 = 펜 한 자루
-
-#### Related Terms
-
-- Related: [[education-vocabulary]]
-
-#### Cultural Notes
-
-중국 교육 시스템: 6-3-3-4 制 (소학 6년 + 중학 3년 + 고교 3년 + 대학 4년). 高考 (가오카오, 대학 입학 시험) 가 인생 좌우. 科举 (과거) 제도 유산.
-
-#### Sources
-
-- [[chinese-family-zh]] · [[chinese-workplace-culture]]
-
----
-
-### 铅笔
-
-**Part of Speech:** noun
-
-**Definition:** 연필
-
-**Pronunciation / IPA:** qiānbǐ
-
-**Etymology:** Standard educational vocabulary.
-
-#### Examples
-
-- 一支铅笔 = 연필 한 자루
-
-#### Related Terms
-
-- Related: [[education-vocabulary]]
-
-#### Cultural Notes
-
-중국 교육 시스템: 6-3-3-4 制 (소학 6년 + 중학 3년 + 고교 3년 + 대학 4년). 高考 (가오카오, 대학 입학 시험) 가 인생 좌우. 科举 (과거) 제도 유산.
-
-#### Sources
-
-- [[chinese-family-zh]] · [[chinese-workplace-culture]]
-
----
-
-### 字典
-
-**Part of Speech:** noun
-
-**Definition:** 사전
-
-**Pronunciation / IPA:** zìdiǎn
-
-**Etymology:** Standard educational vocabulary.
-
-#### Examples
-
-- 查字典 = 사전을 찾다
-
-#### Related Terms
-
-- Related: [[education-vocabulary]]
-
-#### Cultural Notes
-
-중국 교육 시스템: 6-3-3-4 制 (소학 6년 + 중학 3년 + 고교 3년 + 대학 4년). 高考 (가오카오, 대학 입학 시험) 가 인생 좌우. 科举 (과거) 제도 유산.
-
-#### Sources
-
-- [[chinese-family-zh]] · [[chinese-workplace-culture]]
-
----
-
-### 图书馆
-
-**Part of Speech:** noun
-
-**Definition:** 도서관
-
-**Pronunciation / IPA:** túshūguǎn
-
-**Etymology:** Standard educational vocabulary.
-
-#### Examples
-
-- 在图书馆 = 도서관에서
-
-#### Related Terms
-
-- Related: [[education-vocabulary]]
-
-#### Cultural Notes
-
-중국 교육 시스템: 6-3-3-4 制 (소학 6년 + 중학 3년 + 고교 3년 + 대학 4년). 高考 (가오카오, 대학 입학 시험) 가 인생 좌우. 科举 (과거) 제도 유산.
-
-#### Sources
-
-- [[chinese-family-zh]] · [[chinese-workplace-culture]]
-
----
-
-### 教室
-
-**Part of Speech:** noun
-
-**Definition:** 교실
-
-**Pronunciation / IPA:** jiàoshì
-
-**Etymology:** Standard educational vocabulary.
-
-#### Examples
-
-- 在教室里 = 교실에서
-
-#### Related Terms
-
-- Related: [[education-vocabulary]]
-
-#### Cultural Notes
-
-중국 교육 시스템: 6-3-3-4 制 (소학 6년 + 중학 3년 + 고교 3년 + 대학 4년). 高考 (가오카오, 대학 입학 시험) 가 인생 좌우. 科举 (과거) 제도 유산.
-
-#### Sources
-
-- [[chinese-family-zh]] · [[chinese-workplace-culture]]
-
----
-
-### 课
-
-**Part of Speech:** noun
-
-**Definition:** 수업/lesson
-
-**Pronunciation / IPA:** kè
-
-**Etymology:** Standard educational vocabulary.
-
-#### Examples
-
-- 上课 = 수업하다
-
-#### Related Terms
-
-- Related: [[education-vocabulary]]
-
-#### Cultural Notes
-
-중국 교육 시스템: 6-3-3-4 制 (소학 6년 + 중학 3년 + 고교 3년 + 대학 4년). 高考 (가오카오, 대학 입학 시험) 가 인생 좌우. 科举 (과거) 제도 유산.
-
-#### Sources
-
-- [[chinese-family-zh]] · [[chinese-workplace-culture]]
-
----
-
-### 考试
-
-**Part of Speech:** noun
-
-**Definition:** 시험
-
-**Pronunciation / IPA:** kǎoshì
-
-**Etymology:** Standard educational vocabulary.
-
-#### Examples
-
-- 明天考试 = 내일 시험
-
-#### Related Terms
-
-- Related: [[education-vocabulary]]
-
-#### Cultural Notes
-
-중국 교육 시스템: 6-3-3-4 制 (소학 6년 + 중학 3년 + 고교 3년 + 대학 4년). 高考 (가오카오, 대학 입학 시험) 가 인생 좌우. 科举 (과거) 제도 유산.
-
-#### Sources
-
-- [[chinese-family-zh]] · [[chinese-workplace-culture]]
-
----
-
-### 作业
-
-**Part of Speech:** noun
-
-**Definition:** 숙제
-
-**Pronunciation / IPA:** zuòyè
-
-**Etymology:** Standard educational vocabulary.
-
-#### Examples
-
-- 写作业 = 숙제하다
-
-#### Related Terms
-
-- Related: [[education-vocabulary]]
-
-#### Cultural Notes
-
-중국 교육 시스템: 6-3-3-4 制 (소학 6년 + 중학 3년 + 고교 3년 + 대학 4년). 高考 (가오카오, 대학 입학 시험) 가 인생 좌우. 科举 (과거) 제도 유산.
-
-#### Sources
-
-- [[chinese-family-zh]] · [[chinese-workplace-culture]]
-
----
-
-### 考试
-
-**Part of Speech:** noun
-
-**Definition:** 시험
-
-**Pronunciation / IPA:** kǎoshì
-
-**Etymology:** Standard educational vocabulary.
-
-#### Examples
-
-- 考试很难 = 시험이 어렵다
-
-#### Related Terms
-
-- Related: [[education-vocabulary]]
-
-#### Cultural Notes
-
-중국 교육 시스템: 6-3-3-4 制 (소학 6년 + 중학 3년 + 고교 3년 + 대학 4년). 高考 (가오카오, 대학 입학 시험) 가 인생 좌우. 科举 (과거) 제도 유산.
-
-#### Sources
-
-- [[chinese-family-zh]] · [[chinese-workplace-culture]]
-
----
-
-### 学习
-
-**Part of Speech:** noun
-
-**Definition:** 학습하다
-
-**Pronunciation / IPA:** xuéxí
-
-**Etymology:** Standard educational vocabulary.
-
-#### Examples
-
-- 学习中文 = 중국어를 학습하다
-
-#### Related Terms
-
-- Related: [[education-vocabulary]]
-
-#### Cultural Notes
-
-중국 교육 시스템: 6-3-3-4 制 (소학 6년 + 중학 3년 + 고교 3년 + 대학 4년). 高考 (가오카오, 대학 입학 시험) 가 인생 좌우. 科举 (과거) 제도 유산.
-
-#### Sources
-
-- [[chinese-family-zh]] · [[chinese-workplace-culture]]
-
----
-
-### 老师
-
-**Part of Speech:** noun
-
-**Definition:** 선생님
-
-**Pronunciation / IPA:** lǎoshī
-
-**Etymology:** Standard educational vocabulary.
-
-#### Examples
-
-- 老师好 = 선생님 안녕하세요
-
-#### Related Terms
-
-- Related: [[education-vocabulary]]
-
-#### Cultural Notes
-
-중국 교육 시스템: 6-3-3-4 制 (소학 6년 + 중학 3년 + 고교 3년 + 대학 4년). 高考 (가오카오, 대학 입학 시험) 가 인생 좌우. 科举 (과거) 제도 유산.
-
-#### Sources
-
-- [[chinese-family-zh]] · [[chinese-workplace-culture]]
-
----
-
-### 学生
-
-**Part of Speech:** noun
-
-**Definition:** 학생
-
-**Pronunciation / IPA:** xuéshēng
-
-**Etymology:** Standard educational vocabulary.
-
-#### Examples
-
-- 我是学生 = 나는 학생이다
-
-#### Related Terms
-
-- Related: [[education-vocabulary]]
-
-#### Cultural Notes
-
-중국 교육 시스템: 6-3-3-4 制 (소학 6년 + 중학 3년 + 고교 3년 + 대학 4년). 高考 (가오카오, 대학 입학 시험) 가 인생 좌우. 科举 (과거) 제도 유산.
-
-#### Sources
-
-- [[chinese-family-zh]] · [[chinese-workplace-culture]]
-
----
-
-## Pipeline Form (machine-readable)
-
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
-> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
-> The body above remains the human-readable form and is the source of truth.
-
-```yaml
-- { id: zh_education_001, display: "学校", input: "学校", meaning: "학교", level: "HSK 1", category: "education", source: "[[education]]" }
-- { id: zh_education_002, display: "学生", input: "学生", meaning: "학생", level: "HSK 1", category: "education", source: "[[education]]" }
-- { id: zh_education_003, display: "老师", input: "老师", meaning: "선생님", level: "HSK 1", category: "education", source: "[[education]]" }
-- { id: zh_education_004, display: "同学", input: "同学", meaning: "동급생", level: "HSK 2", category: "education", source: "[[education]]" }
-- { id: zh_education_005, display: "书", input: "书", meaning: "책", level: "HSK 1", category: "education", source: "[[education]]" }
-- { id: zh_education_006, display: "本子", input: "本子", meaning: "공책/노트", level: "HSK 2", category: "education", source: "[[education]]" }
-- { id: zh_education_007, display: "笔", input: "笔", meaning: "펜", level: "HSK 1", category: "education", source: "[[education]]" }
-- { id: zh_education_008, display: "铅笔", input: "铅笔", meaning: "연필", level: "HSK 1", category: "education", source: "[[education]]" }
-- { id: zh_education_009, display: "字典", input: "字典", meaning: "사전", level: "HSK 2", category: "education", source: "[[education]]" }
-- { id: zh_education_010, display: "图书馆", input: "图书馆", meaning: "도서관", level: "HSK 2", category: "education", source: "[[education]]" }
-- { id: zh_education_011, display: "教室", input: "教室", meaning: "교실", level: "HSK 2", category: "education", source: "[[education]]" }
-- { id: zh_education_012, display: "课", input: "课", meaning: "수업/lesson", level: "HSK 1", category: "education", source: "[[education]]" }
-- { id: zh_education_013, display: "考试", input: "考试", meaning: "시험", level: "HSK 1", category: "education", source: "[[education]]" }
-- { id: zh_education_014, display: "作业", input: "作业", meaning: "숙제", level: "HSK 1", category: "education", source: "[[education]]" }
-- { id: zh_education_015, display: "学习", input: "学习", meaning: "학습하다", level: "HSK 1", category: "education", source: "[[education]]" }
-```
+## 1. 학교/교육기관 (Schools/Educational Institutions)
+
+| 한글 | 한자 | 병음 | 의미 | 비고 |
+|------|------|------|------|------|
+| 학교 | 学校 | xué xiào | 학교 | 学 (배우다) + 校 (학교) |
+| 유치원 | 幼儿园 | yòu ér yuán | 유치원 | 幼儿 (유아) + 园 (원) |
+| 초등학교 | 小学 | xiǎo xué | 초등학교 | 小 (작다) + 学 (배우다) |
+| 중학교 | 中学 | zhōng xué | 중학교 | 中 (가운데) + 学 |
+| 고등학교 | 高中 | gāo zhōng | 고등학교 | 高 (높다) + 中 (중학교) |
+| 대학교 | 大学 | dà xué | 대학교 | 大 (크다) + 学 |
+| 대학원 | 研究生院 | yán jiū shēng yuàn | 대학원 | 研究 (연구) + 生 (학생) + 院 (원) |
+| 어학원 | 语言学校 | yǔ yán xué xiào | 어학원 | 语言 (언어) + 学校 |
+| 직업학교 | 职业学校 | zhí yè xué xiào | 직업학교 | 职业 (직업) + 学校 |
+
+## 2. 학년/학기 (Grades/Semesters)
+
+| 한글 | 한자 | 병음 | 의미 |
+|------|------|------|------|
+| 학년 | 年级 | nián jí | 학년 |
+| 1학년 | 一年级 | yī nián jí | 1학년 |
+| 2학년 | 二年级 | èr nián jí | 2학년 |
+| 3학년 | 三年级 | sān nián jí | 3학년 |
+| 학기 | 学期 | xué qí | 학기 |
+| 1학기 | 第一学期 | dì yī xué qí | 1학기 |
+| 2학기 | 第二学期 | dì èr xué qí | 2학기 |
+| 방학 | 放假 | fàng jià | 방학 |
+| 여름방학 | 暑假 | shǔ jià | 여름방학 |
+| 겨울방학 | 寒假 | hán jià | 겨울방학 |
+
+## 3. 수업/과목 (Classes/Subjects)
+
+| 한글 | 한자 | 병음 | 의미 |
+|------|------|------|------|
+| 수업 | 课 | kè | 수업, 과목 |
+| 수업하다 | 上课 | shàng kè | 수업하다 (수업을 듣다) |
+| 수업 끝내다 | 下课 | xià kè | 수업 끝나다 |
+| 중국어 | 中文 / 汉语 | zhōng wén / hàn yǔ | 중국어 |
+| 영어 | 英语 | yīng yǔ | 영어 |
+| 한국어 | 韩语 | hán yǔ | 한국어 |
+| 일본어 | 日语 | rì yǔ | 일본어 |
+| 수학 | 数学 | shù xué | 수학 |
+| 과학 | 科学 | kē xué | 과학 |
+| 역사 | 历史 | lì shǐ | 역사 |
+| 지리 | 地理 | dì lǐ | 지리 |
+| 음악 | 音乐 | yīn yuè | 음악 |
+| 미술 | 美术 | měi shù | 미술 |
+| 체육 | 体育 | tǐ yù | 체육 |
+| 컴퓨터 | 计算机课 | jì suàn jī kè | 컴퓨터/정보 |
+
+## 4. 교실/시설 (Classroom/Facilities)
+
+| 한글 | 한자 | 병음 | 의미 |
+|------|------|------|------|
+| 교실 | 教室 | jiào shì | 교실 |
+| 강의실 | 教室 / 讲堂 | jiào shì / jiǎng táng | 강의실 |
+| 도서관 | 图书馆 | tú shū guǎn | 도서관 |
+| 실험실 | 实验室 | shí yàn shì | 실험실 |
+| 컴퓨터실 | 机房 | jī fáng | 컴퓨터실 |
+| 체육관 | 体育馆 | tǐ yù guǎn | 체육관 |
+| 운동장 | 操场 | cāo chǎng | 운동장 |
+| 식당 | 食堂 | shí táng | 식당/급식실 |
+| 기숙사 | 宿舍 | sù shè | 기숙사 |
+| 교무실 | 办公室 | bàn gōng shì | 교무실/사무실 |
+| 교장실 | 校长室 | xiào zhǎng shì | 교장실 |
+
+## 5. 인물 (People in Education)
+
+| 한글 | 한자 | 병음 | 의미 | 비고 |
+|------|------|------|------|------|
+| 선생님 | 老师 | lǎo shī | 선생님 | 존칭, 모든 교사 |
+| 교수님 | 教授 | jiào shòu | 교수 | 대학 교수 |
+| 학생 | 学生 | xué shēng | 학생 | 学 (배우다) + 生 (사람) |
+| 대학생 | 大学生 | dà xué shēng | 대학생 | |
+| 초등학생 | 小学生 | xiǎo xué shēng | 초등학생 | |
+| 중학생 | 中学生 | zhōng xué shēng | 중학생 | |
+| 고등학생 | 高中生 | gāo zhōng shēng | 고등학생 | |
+| 동급생/급우 | 同学 | tóng xué | 동급생/친구 | 同 (같다) + 学 (배우다) |
+| 선배 | 学长 / 学姐 | xué zhǎng / xué jiě | 선배 (남/여) | 学长=남자 선배, 学姐=여자 선배 |
+| 후배 | 学弟 / 学妹 | xué dì / xué mèi | 후배 (남/여) | |
+| 반장 | 班长 | bān zhǎng | 반장 | 班 (반) + 长 (우두머리) |
+| 부반장 | 副班长 | fù bān zhǎng | 부반장 | |
+
+## 6. 학습 동사/표현 (Study Verbs/Expressions)
+
+| 한글 | 한자 | 병음 | 의미 | 비고 |
+|------|------|------|------|------|
+| 공부하다 | 学习 | xué xí | 공부하다 | 学 (배우다) + 习 (익히다) |
+| 배우다 | 学 | xué | 배우다 | 단독 사용 시 "배우다" |
+| 가르치다 | 教 | jiāo | 가르치다 | |
+| 읽다 | 读 | dú | 읽다 | 读书 (dú shū) = 책 읽다/공부하다 |
+| 쓰다 | 写 | xiě | 쓰다 | 写字 (xiě zì) = 글씨 쓰다 |
+| 듣다 | 听 | tīng | 듣다 | 听课 (tīng kè) = 강의 듣다 |
+| 말하다 | 说 | shuō | 말하다 | 说中文 (shuō zhōng wén) = 중국어 말하다 |
+| 이해하다 | 理解 | lǐ jiě | 이해하다 | 理 (이치) + 解 (풀다) |
+| 모르다 | 不懂 | bù dǒng | 모르다 | 懂 (dǒng) = 알다/이해하다 |
+| 알다 | 懂 / 知道 | dǒng / zhī dào | 알다 | 知道 (zhī dào) = 사실 알다, 懂 = 이해하다 |
+| 질문하다 | 问 | wèn | 질문하다 | 问题 (wèn tí) = 질문/문제 |
+| 대답하다 | 回答 | huí dá | 대답하다 | 回 (돌아오다) + 答 (대답) |
+| 숙제하다 | 做作业 | zuò zuò yè | 숙제하다 | 作业 (zuò yè) = 숙제/과제 |
+| 복습하다 | 复习 | fù xí | 복습하다 | 复 (다시) + 习 (익히다) |
+| 예습하다 | 预习 | yù xí | 예습하다 | 预 (미리) + 习 |
+| 시험 보다 | 考试 | kǎo shì | 시험 보다 | 考 (시험보다) + 试 (시험) |
+| 합격하다 | 通过 / 及格 | tōng guò / jí gé | 합격하다 | 及格 (jí gé) = 합격선 넘다 |
+| 불합격하다 | 不及格 | bù jí gé | 불합격하다 | |
+| 졸업하다 | 毕业 | bì yè | 졸업하다 | 毕 (마치다) + 业 (학업) |
+| 입학하다 | 入学 | rù xué | 입학하다 | 入 (들다) + 学 (배우다) |
+| 전학하다 | 转学 | zhuǎn xué | 전학하다 | 转 (옮기다) + 学 |
+
+## 7. 성적/평가 (Grades/Evaluation)
+
+| 한글 | 한자 | 병음 | 의미 |
+|------|------|------|------|
+| 성적 | 成绩 | chéng jì | 성적 |
+| 점수 | 分数 | fēn shù | 점수 |
+| 만점 | 满分 | mǎn fēn | 만점 |
+| 통과/합격 | 通过 / 及格 | tōng guò / jí gé | 통과/합격 |
+| 불합격 | 不及格 | bù jí gé | 불합격 |
+| 우수 | 优秀 | yōu xiù | 우수/탁월 |
+| 양호 | 良好 | liáng hǎo | 양호 |
+| 보통 | 一般 | yī bān | 보통 |
+| 불량 | 不合格 | bù hé gé | 불량 |
+| 순위 | 排名 | pái míng | 순위/등수 |
+| 1등 | 第一名 | dì yī míng | 1등 |
+| 장학금 | 奖学金 | jiǎng xué jīn | 장학금 |
+
+## 8. 학교 생활 표현 (School Life Expressions)
+
+### 등하교/출석
+- 上学 (shàng xué) — 등교하다 / 학교 가다
+- 放学 (fàng xué) — 하교하다 / 학교 끝나다
+- 迟到 (chí dào) — 지각하다
+- 早退 (zǎo tuì) — 조퇴하다
+- 请假 (qǐng jià) — 결석/휴가 신청하다
+- 旷课 (kuàng kè) — 무단결석하다
+- 点名 (diǎn míng) — 출석 부르다
+- 出勤 (chū qín) — 출석하다 / 출근하다
+
+### 수업 관련
+- 听课 (tīng kè) — 수업 듣다 / 강의 듣다
+- 做笔记 (zuò bǐ jì) — 필기하다
+- 举手 (jǔ shǒu) — 손 들다
+- 回答问题 (huí dá wèn tí) — 질문 대답하다
+- 讨论 (tǎo lùn) — 토의하다/토론하다
+- 小组活动 (xiǎo zǔ huó dòng) — 조별 활동
+
+### 시험/성적
+- 复习 (fù xí) — 복습하다
+- 备考 (bèi kǎo) — 시험 준비하다
+- 考试 (kǎo shì) — 시험 보다
+- 及格 (jí gé) — 합격하다
+- 不及格 (bù jí gé) — 불합격
+- 得分 (dé fēn) — 점수 받다/얻다
+- 满分 (mǎn fēn) — 만점
+
+## 9. 한국어와 차이점 (Key Differences for Korean Learners)
+
+### 1. "공부하다" = 学习 (xué xí) vs 学 (xué)
+- 学习 (xué xí) = 공부하다 (일반적, 과정 강조)
+- 学 (xué) = 배우다 (단순, 특정 기술/언어)
+- 读书 (dú shū) = 책 읽다 / 공부하다 (학생의 본분)
+
+### 2. "숙제" = 作业 (zuò yè)
+- 做作业 (zuò zuò yè) = 숙제하다 (做 + 作业)
+- 交作业 (jiāo zuò yè) = 숙제 제출하다
+- 抄作业 (chāo zuò yè) = 숙제 베끼다
+
+### 3. "시험 보다" = 考试 (kǎo shì)
+- 考 (kǎo) = 시험보다, 테스트하다
+- 试 (shì) = 시험, 시도
+- 考试 (kǎo shì) = 시험 (명사/동사 겸용)
+
+### 4. "선생님" = 老师 (lǎo shī) — 만능 호칭
+- 초중고 교사 = 老师
+- 대학교수 = 教授 (jiào shòu) 또는 老师
+- 사설 학원 강사 = 老师
+- 멘토/코치 = 老师
+
+### 5. "친구/동급생" = 同学 (tóng xué)
+- 同 (같다) + 学 (배우다) = 함께 배우는 사람
+- 同学 (tóng xué) = 동급생, 친구, 급우
+- 同班同学 (tóng bān tóng xué) = 같은 반 친구
+
+### 6. 학년/학년 표현
+- 一年级 (yī nián jí) = 1학년
+- 二年级 (èr nián jí) = 2학년
+- 高三 (gāo sān) = 고3 (고등학교 3학년 줄임말)
+- 初三 (chū sān) = 중3 (중학교 3학년 줄임말)
+
+### 7. 방학 용어
+- 放假 (fàng jià) = 방학하다/휴가 가다 (일반적)
+- 暑假 (shǔ jià) = 여름방학 (暑 = 더위)
+- 寒假 (hán jià) = 겨울방학 (寒 = 추위)
+
+## 10. 한국어 학습자 필수 팁 (Key Tips for Korean Learners)
+
+### 1. "공부하다" 기본 = 学习 (xué xí)
+- 我正在学习 (wǒ zhèng zài xué xí) — 저는 지금 공부하고 있어요
+- 好好学习 (hǎo hǎo xué xí) — 열심히 공부해라 (마오쩌둥 어록)
+
+### 2. "모르다" = 不懂 (bù dǒng) / 不知道 (bù zhī dào)
+- 不懂 (bù dǒng) = 이해 못 하다 / 하는 법 모름
+- 不知道 (bù zhī dào) = 사실/정보 모름
+- 我听不懂 (wǒ tīng bù dǒng) — 들어도 이해 못 함
+
+### 3. "질문/문제" = 问题 (wèn tí)
+- 有问题 (yǒu wèn tí) — 질문 있어요 / 문제 있어요
+- 问问题 (wèn wèn tí) — 질문하다
+- 没问题 (méi wèn tí) — 문제없어요 / 괜찮아요
+
+### 4. "숙제" = 作业 (zuò yè)
+- 做作业 (zuò zuò yè) — 숙제하다
+- 写作业 (xiě zuò yè) — 숙제 쓰다 (쓰기 숙제)
+- 抄作业 (chāo zuò yè) — 숙제 베끼다
+
+### 5. "시험" = 考试 (kǎo shì) / 试 (shì)
+- 考试 (kǎo shì) = 정식 시험
+- 小测验 (xiǎo cè yàn) = 쪽지시험/퀴즈
+- 模拟考 (mó nǐ kǎo) = 모의고사
+
+## 11. 한국어 학습자 주의 (Pitfalls)
+
+| 실수 | 올바른 표현 | 설명 |
+|------|-------------|------|
+| 공부해요 | 学习 (O) / 学 (△) | 공부하다 = 学习 표준 |
+| 숙제해요 | 做作业 (O) / 写作业 (△) | 쓰기 숙제만 쓸 때 写 |
+| 시험 봐요 | 考试 (O) / 看试 (X) | 시험 = 考试 |
+| 선생님 | 老师 (O) / 教师 (△) | 教师 = 직함, 老师 = 호칭/호출 |
+| 친구 | 同学 (O) / 朋友 (△) | 同学 = 동급생/급우, 朋友 = 친한 친구 |
+| 1학년 | 一年级 (O) / 1年级 (△) | 한자 숫자 표준 |
+
+## Sources
+
+- HSK 2-3 Vocabulary List
+- Chinese Education Guide
+- [[first-travel-japan]] — 한국 여행 중 중국어 교육 용어
+
+## 발음 변동 노트 (Pronunciation Notes)
+
+| 패턴 | 예시 | 규칙 |
+|------|------|------|
+| 学习 (xué xí) | 2성 + 2성 | 学 (xué) 2성, 习 (xí) 2성 |
+| 老师 (lǎo shī) | 3성 + 1성 | 老 (lǎo) 3성, 师 (shī) 1성 |
+| 学生 (xué shēng) | 2성 + 1성 | 学 (xué) 2성, 生 (shēng) 1성 |
+| 作业 (zuò yè) | 4성 + 4성 | 作 (zuò) 4성, 业 (yè) 4성 |
+| 考试 (kǎo shì) | 3성 + 4성 | 考 (kǎo) 3성, 试 (shì) 4성 |
+| 及格 (jí gé) | 2성 + 2성 | 及 (jí) 2성, 格 (gé) 2성 |
+| 复习 (fù xí) | 4성 + 2성 | 复 (fù) 4성, 习 (xí) 2성 |
+| 预习 (yù xí) | 4성 + 2성 | 预 (yù) 4성, 习 (xí) 2성 |
+| 毕业 (bì yè) | 4성 + 4성 | 毕 (bì) 4성, 业 (yè) 4성 |
+| 入学 (rù xué) | 4성 + 2성 | 入 (rù) 4성, 学 (xué) 2성 |
