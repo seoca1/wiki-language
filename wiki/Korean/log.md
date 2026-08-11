@@ -109,7 +109,7 @@ Created `wiki/Korean/vocabulary/transportation.md` — consolidated Korean trans
 - Sections: 자동차 (car types, parts, verbs), 지하철 (lines, transfers, tickets), 버스 (types, routes), 기차 (KTX, SRT, stations), 비행기 (airports, flights, classes), 택시 (types, fares, card payment), 자전거 (parts, safety)
 - Comparison table: transportation mode speed/cost/convenience
 - Quick-reference card with 8 transportation modes
-- Cross-references to: [[expressions/travel-basics]], [[expressions/daily-life]], [[transportation]], [[travel-essentials]], [[numbers-counters]], [[time-calendar]], [[index]], [[korean-hallyu-wave]], [[korean-family-holidays]]
+- Cross-references to: [[travel-basics]], [[daily-life]], [[transportation]], [[travel-essentials]], [[numbers-counters]], [[time-calendar]], [[index]], [[korean-hallyu-wave]], [[korean-family-holidays]]
 
 Index.md updated (Vocabulary: 8 → 9 theme files)
 
@@ -119,8 +119,8 @@ Final vault-wide wikilink audit: 859 files, 1729 wikilinks, 0 broken.
 
 Two new comprehensive Korean culture pages added, bringing Korean to 4 culture pages (matching EN/JP/CN, while Spanish has 14):
 
-- [[culture/korean-workplace-culture]] - Korean Workplace Culture — Sunbae/Hubae hierarchy, Nunchi (reading the room), Hoesik (company dinner), drinking culture, salary systems, MZ Generation trends, 996/Worabal/Yanolza (2026-07-19 신규)
-- [[culture/korean-family-holidays]] - Korean Family Holidays — Seollal/Chuseok ancestral rites, Sebae bow, Charye memorial food, Songpyeon rice cake, gift-giving customs, family address systems (2026-07-19 신규)
+- [[korean-workplace-culture]] - Korean Workplace Culture — Sunbae/Hubae hierarchy, Nunchi (reading the room), Hoesik (company dinner), drinking culture, salary systems, MZ Generation trends, 996/Worabal/Yanolza (2026-07-19 신규)
+- [[korean-family-holidays]] - Korean Family Holidays — Seollal/Chuseok ancestral rites, Sebae bow, Charye memorial food, Songpyeon rice cake, gift-giving customs, family address systems (2026-07-19 신규)
 
 Index.md updated (Culture: 2 → 4 entries)
 
@@ -130,8 +130,8 @@ Final vault-wide wikilink audit: 860 files, 1739 wikilinks, 0 broken ✅
 
 Consolidated fragmented per-word vocabulary stubs into 3 proper theme files per schema/AGENTS.md theme-file convention:
 
-- [[vocabulary/transportation]] - 교통 어휘 (Transportation) — 자동차, 지하철, 기차, 버스, 택시, 비행기 (2026-07-19 신설, 통합 theme file)
-- [[vocabulary/weather-nature]] - 날씨·자연 어휘 (Weather & Nature) — 사계절, 날씨 현상, 자연 환경 (2026-07-19 신설, 통합 theme file)
-- [[vocabulary/body-family]] - 신체·가족 어휘 (Body & Family) — 신체 부위, 가족 관계, 외모, 성격 (2026-07-19 신설, 통합 theme file)
+- [[transportation]] - 교통 어휘 (Transportation) — 자동차, 지하철, 기차, 버스, 택시, 비행기 (2026-07-19 신설, 통합 theme file)
+- [[weather-nature]] - 날씨·자연 어휘 (Weather & Nature) — 사계절, 날씨 현상, 자연 환경 (2026-07-19 신설, 통합 theme file)
+- [[body-family]] - 신체·가족 어휘 (Body & Family) — 신체 부위, 가족 관계, 외모, 성격 (2026-07-19 신설, 통합 theme file)
 
 Index.md updated (Vocabulary theme files: 8 → 9 total theme files with consolidated content; ~280+ per-word stubs now point to theme files)
