@@ -5,717 +5,1128 @@ level: "JLPT N4-N5"
 theme: "animals"
 ---
 
-# Animals (動物語彙)
+# 動物語彙 (Japanese Animals)
 
+**Source:** [[animals-vocabulary-jp]]
+**Theme:** 動物
+**Level:** JLPT N4-N5 / A2-B1
 
-This page aggregates all animal vocabulary for the typing language game corpus.
-
----
-
-## Domestic Animals (ペット/家畜)
-
-
-### 犬
-
-**Part of Speech:** 名詞
-
-**Definition:** dog
-
-**Reading / Hiragana / Romaji:** いぬ (inu)
-
-**Etymology:** 漢字: 犬 (音読み/訓読みによる語源)
-
-#### Examples
-
-- 犬が必要です。 — 必要表現
-- 犬はここにあります。 — 位置/存在
-
-#### Related Terms
-
-- 犬 — 自動参照
-- [[animals-vocabulary]] — 動物語彙
-
-#### Cultural Notes
-
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[animals-vocabulary]]
+日本語動物語彙：ペット、家畜、野生動物、昆虫、海洋生物、関連動詞/形容詞をカバー。出典：JLPT N4-N5語彙リスト、日本語教科書。
 
 ---
 
-### 猫
+## ペットと家畜
 
-**Part of Speech:** 名詞
+### 犬 (いぬ)
 
-**Definition:** cat
+**品詞:** 名詞
 
-**Reading / Hiragana / Romaji:** ねこ (neko)
+**定義:** イヌ科の哺乳類。ペットや作業用として飼われる。
 
-**Etymology:** 漢字: 猫 (音読み/訓読みによる語源)
+**読み / ひらがな / ローマ字:** いぬ (inu)
 
-#### Examples
+**語源:** 古くは「いぬ」のみ。「犬」漢字は中国から。
 
-- 猫が必要です。 — 必要表現
-- 猫はここにあります。 — 位置/存在
+#### 例文
 
-#### Related Terms
+- **犬**を飼っています。 — ペット飼育
+- **犬**が吠えています。 — 行動描写
 
-- 猫 — 自動参照
-- [[animals-vocabulary]] — 動物語彙
+#### 関連語
 
-#### Cultural Notes
+- ''子犬'' — 子供の犬
+- ''猫'' — 一般的なペット
 
-文化的背景情報を追加予定
+#### 文化的背景
 
-#### Sources
+日本でも犬は人気のペット。「犬も歩けば棒に当たる」= 出かければ何らかの出来事に遭う。忠犬ハチ公 = 忠誠の象徴。
 
-- [[animals-vocabulary]]
+#### 出典
 
----
-
-### 馬
-
-**Part of Speech:** 名詞
-
-**Definition:** horse
-
-**Reading / Hiragana / Romaji:** うま (uma)
-
-**Etymology:** 漢字: 馬 (音読み/訓読みによる語源)
-
-#### Examples
-
-- 馬が必要です。 — 必要表現
-- 馬はここにあります。 — 位置/存在
-
-#### Related Terms
-
-- 馬 — 自動参照
-- [[animals-vocabulary]] — 動物語彙
-
-#### Cultural Notes
-
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[animals-vocabulary]]
+- [[animals-vocabulary-jp]]
 
 ---
 
-### 牛
+### 猫 (ねこ)
 
-**Part of Speech:** 名詞
+**品詞:** 名詞
 
-**Definition:** cow
+**定義:** ネコ科の小型食肉獣。ペットとして飼われる。
 
-**Reading / Hiragana / Romaji:** うし (ushi)
+**読み / ひらがな / ローマ字:** ねこ (neko)
 
-**Etymology:** 漢字: 牛 (音読み/訓読みによる語源)
+**語源:** 鳴き声「ねこねこ」から。漢字「猫」= 苗字「苗」+「田」。
 
-#### Examples
+#### 例文
 
-- 牛が必要です。 — 必要表現
-- 牛はここにあります。 — 位置/存在
+- **猫**がソファで寝ています。 — 位置/行動
+- 野良**猫**を保護しました。 — 保護
 
-#### Related Terms
+#### 関連語
 
-- 牛 — 自動参照
-- [[animals-vocabulary]] — 動物語彙
+- ''子猫'' — 子供の猫
+- ''犬'' — 一般的なペット
 
-#### Cultural Notes
+#### 文化的背景
 
-文化的背景情報を追加予定
+招き猫 = 商売繁盛の縁起物。猫カフェ = 日本発祥の文化。「猫舌」= 熱いものが苦手。
 
-#### Sources
+#### 出典
 
-- [[animals-vocabulary]]
-
----
-
-### 豚
-
-**Part of Speech:** 名詞
-
-**Definition:** pig
-
-**Reading / Hiragana / Romaji:** ぶた (buta)
-
-**Etymology:** 漢字: 豚 (音読み/訓読みによる語源)
-
-#### Examples
-
-- 豚が必要です。 — 必要表現
-- 豚はここにあります。 — 位置/存在
-
-#### Related Terms
-
-- 豚 — 自動参照
-- [[animals-vocabulary]] — 動物語彙
-
-#### Cultural Notes
-
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[animals-vocabulary]]
+- [[animals-vocabulary-jp]]
 
 ---
 
-### 鶏
+### 鳥 (とり)
 
-**Part of Speech:** 名詞
+**品詞:** 名詞
 
-**Definition:** chicken
+**定義:** 羽毛と翼と嘴を持つ恒温卵生脊椎動物。
 
-**Reading / Hiragana / Romaji:** とり (tori)
+**読み / ひらがな / ローマ字:** とり (tori)
 
-**Etymology:** 漢字: 鶏 (音読み/訓読みによる語源)
+**語源:** 「飛ぶもの」から。漢字「鳥」は象形。
 
-#### Examples
+#### 例文
 
-- 鶏が必要です。 — 必要表現
-- 鶏はここにあります。 — 位置/存在
+- **鳥**が木で鳴いています。 — 自然観察
+- **鳥**は冬に南へ渡ります。 — 季節行動
 
-#### Related Terms
+#### 関連語
 
-- 鶏 — 自動参照
-- [[animals-vocabulary]] — 動物語彙
+- ''鷲'' — 猛禽類
+- ''雀'' — 一般的な小鳥
 
-#### Cultural Notes
+#### 文化的背景
 
-文化的背景情報を追加予定
+鳥見 = 人気の趣味。鶴 = 長寿・幸運の象徴（折り鶴）。
 
-#### Sources
+#### 出典
 
-- [[animals-vocabulary]]
-
----
-
-### 羊
-
-**Part of Speech:** 名詞
-
-**Definition:** sheep
-
-**Reading / Hiragana / Romaji:** ひつじ (hitsuji)
-
-**Etymology:** 漢字: 羊 (音読み/訓読みによる語源)
-
-#### Examples
-
-- 羊が必要です。 — 必要表現
-- 羊はここにあります。 — 位置/存在
-
-#### Related Terms
-
-- 羊 — 自動参照
-- [[animals-vocabulary]] — 動物語彙
-
-#### Cultural Notes
-
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[animals-vocabulary]]
+- [[animals-vocabulary-jp]]
 
 ---
 
-## Wild Animals (野生動物)
+### 魚 (さかな)
 
-### 鳥
+**品詞:** 名詞
 
-**Part of Speech:** 名詞
+**定義:** 鰓と鰭を持ち、水中で生活する変温脊椎動物。
 
-**Definition:** bird
+**読み / ひらがな / ローマ字:** さかな (sakana)
 
-**Reading / Hiragana / Romaji:** とり (tori)
+**語源:** 「酒菜」= 酒の席のおかず → 魚介類一般。漢字「魚」は象形。
 
-**Etymology:** 漢字: 鳥 (音読み/訓読みによる語源)
+#### 例文
 
-#### Examples
+- 大きな**魚**を釣りました。 — 釣り
+- **魚**は海に住みます。 — 生息地
 
-- 鳥が必要です。 — 必要表現
-- 鳥はここにあります。 — 位置/存在
+#### 関連語
 
-#### Related Terms
+- ''鮫'' — 大型捕食魚
+- ''金魚'' — 一般的な観賞魚
 
-- 鳥 — 自動参照
-- [[animals-vocabulary]] — 動物語彙
+#### 文化的背景
 
-#### Cultural Notes
+魚食文化 = 日本の基盤。寿司・刺身 = 世界的。「魚心あれば水心」= 相手が好意ならこちらも好意で応じる。
 
-文化的背景情報を追加予定
+#### 出典
 
-#### Sources
-
-- [[animals-vocabulary]]
+- [[animals-vocabulary-jp]]
 
 ---
 
-### 魚
+### 兎 (うさぎ)
 
-**Part of Speech:** 名詞
+**品詞:** 名詞
 
-**Definition:** fish
+**定義:** 長い耳と短い尾を持つ小型掘穴性哺乳類。
 
-**Reading / Hiragana / Romaji:** さかな (sakana)
+**読み / ひらがな / ローマ字:** うさぎ (usagi)
 
-**Etymology:** 漢字: 魚 (音読み/訓読みによる語源)
+**語源:** 「うさ」= 兎の古名 + 「ぎ」= 接尾辞。漢字「兎」= 象形（尻尾が短い）。
 
-#### Examples
+#### 例文
 
-- 魚が必要です。 — 必要表現
-- 魚はここにあります。 — 位置/存在
+- **兎**が庭で跳ねています。 — 動き
+- **兎**は人参を食べます。 — 食性（ステレオタイプ）
 
-#### Related Terms
+#### 関連語
 
-- 魚 — 自動参照
-- [[animals-vocabulary]] — 動物語彙
-- [[food-vocabulary]] — 食べ物語彙
+- ''野兎'' — 野生の兎
+- ''うさぎ年'' — 干支（卯年）
 
-#### Cultural Notes
+#### 文化的背景
 
-文化的背景情報を追加予定
+月見団子の兎 = 月で餅つきする伝説。兎年 = 干支の4番目。「兎の登り坂」= 急な上り坂。
 
-#### Sources
+#### 出典
 
-- [[animals-vocabulary]]
-
----
-
-### 蛇
-
-**Part of Speech:** 名詞
-
-**Definition:** snake
-
-**Reading / Hiragana / Romaji:** へび (hebi)
-
-**Etymology:** 漢字: 蛇 (音読み/訓読みによる語源)
-
-#### Examples
-
-- 蛇が必要です。 — 必要表現
-- 蛇はここにあります。 — 位置/存在
-
-#### Related Terms
-
-- 蛇 — 自動参照
-- [[animals-vocabulary]] — 動物語彙
-
-#### Cultural Notes
-
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[animals-vocabulary]]
+- [[animals-vocabulary-jp]]
 
 ---
 
-### 熊
+### 馬 (うま)
 
-**Part of Speech:** 名詞
+**品詞:** 名詞
 
-**Definition:** bear
+**定義:** 騎乗、競馬、作業用に使われる大型家畜単蹄類。
 
-**Reading / Hiragana / Romaji:** くま (kuma)
+**読み / ひらがな / ローマ字:** うま (uma)
 
-**Etymology:** 漢字: 熊 (音読み/訓読みによる語源)
+**語源:** 古くは「うま」のみ。漢字「馬」= 象形（たてがみ・尾・四肢）。
 
-#### Examples
+#### 例文
 
-- 熊が必要です。 — 必要表現
-- 熊はここにあります。 — 位置/存在
+- 毎週末**馬**に乗ります。 — レジャー
+- **馬**が野原を駆けています。 — 動き
 
-#### Related Terms
+#### 関連語
 
-- 熊 — 自動参照
-- [[animals-vocabulary]] — 動物語彙
+- ''駒'' — 将棋の駒 / 子馬
+- ''競走馬'' — 競馬用
 
-#### Cultural Notes
+#### 文化的背景
 
-文化的背景情報を追加予定
+競馬 = 大きな賭け事産業。「馬耳東風」= 意見を聞き流す。「馬が合う」= 気が合う。
 
-#### Sources
+#### 出典
 
-- [[animals-vocabulary]]
-
----
-
-### 鹿
-
-**Part of Speech:** 名詞
-
-**Definition:** deer
-
-**Reading / Hiragana / Romaji:** しか (shika)
-
-**Etymology:** 漢字: 鹿 (音読み/訓読みによる語源)
-
-#### Examples
-
-- 鹿が必要です。 — 必要表現
-- 鹿はここにあります。 — 位置/存在
-
-#### Related Terms
-
-- 鹿 — 自動参照
-- [[animals-vocabulary]] — 動物語彙
-
-#### Cultural Notes
-
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[animals-vocabulary]]
+- [[animals-vocabulary-jp]]
 
 ---
 
-### 猿
+### 牛 (うし)
 
-**Part of Speech:** 名詞
+**品詞:** 名詞
 
-**Definition:** monkey
+**定義:** 乳や肉用に飼われる成熟した雌の家畜牛。
 
-**Reading / Hiragana / Romaji:** さる (saru)
+**読み / ひらがな / ローマ字:** うし (ushi)
 
-**Etymology:** 漢字: 猿 (音読み/訓読みによる語源)
+**語源:** 古くは「うし」のみ。漢字「牛」= 象形（角・耳・四肢）。
 
-#### Examples
+#### 例文
 
-- 猿が必要です。 — 必要表現
-- 猿はここにあります。 — 位置/存在
+- **牛**が乳を出します。 — 生産
+- **牛**が牧草地で草を食べています。 — 行動
 
-#### Related Terms
+#### 関連語
 
-- 猿 — 自動参照
-- [[animals-vocabulary]] — 動物語彙
+- ''雄牛'' — 雄牛
+- ''子牛'' — 子供の牛
+- ''和牛'' — 日本固有品種
 
-#### Cultural Notes
+#### 文化的背景
 
-文化的背景情報を追加予定
+神道で神の使い（出雲大社）。「牛歩戦術」= 故意に遅らせる戦術。「牛の歩み」= 遅いが着実。
 
-#### Sources
+#### 出典
 
-- [[animals-vocabulary]]
-
----
-
-### 亀
-
-**Part of Speech:** 名詞
-
-**Definition:** turtle
-
-**Reading / Hiragana / Romaji:** かめ (kame)
-
-**Etymology:** 漢字: 亀 (音読み/訓読みによる語源)
-
-#### Examples
-
-- 亀が必要です。 — 必要表現
-- 亀はここにあります。 — 位置/存在
-
-#### Related Terms
-
-- 亀 — 自動参照
-- [[animals-vocabulary]] — 動物語彙
-
-#### Cultural Notes
-
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[animals-vocabulary]]
+- [[animals-vocabulary-jp]]
 
 ---
 
-## Marine Animals (海洋動物)
+### 豚 (ぶた)
 
-### 鯨
+**品詞:** 名詞
 
-**Part of Speech:** 名詞
+**定義:** 鼻と巻き尾を持つ雑食性家畜哺乳類。豚肉用に飼育。
 
-**Definition:** whale
+**読み / ひらがな / ローマ字:** ぶた (buta)
 
-**Reading / Hiragana / Romaji:** くじら (kujira)
+**語源:** 「ぶた」= 「太ったもの」から。漢字「豚」= 「月」（肉）+「屯」（豚の形）。
 
-**Etymology:** 漢字: 鯨 (音読み/訓読みによる語源)
+#### 例文
 
-#### Examples
+- **豚**は泥で体を冷やします。 — 行動
+- **豚**は賢い動物です。 — 特性
 
-- 鯨が必要です。 — 必要表現
-- 鯨はここにあります。 — 位置/存在
+#### 関連語
 
-#### Related Terms
+- ''子豚'' — 子供の豚
+- ''猪'' — 野生の豚
+- ''豚汁'' — 日本の汁物
 
-- 鯨 — 自動参照
-- [[animals-vocabulary]] — 動物語彙
+#### 文化的背景
 
-#### Cultural Notes
+「豚もおだてりゃ木に登る」= 調子に乗せれば何でもする。「真珠を豚に投げる」= 価値を分かち合えない相手に与える。
 
-文化的背景情報を追加予定
+#### 出典
 
-#### Sources
-
-- [[animals-vocabulary]]
-
----
-
-### 鮫
-
-**Part of Speech:** 名詞
-
-**Definition:** shark
-
-**Reading / Hiragana / Romaji:** さめ (same)
-
-**Etymology:** 漢字: 鮫 (音読み/訓読みによる語源)
-
-#### Examples
-
-- 鮫が必要です。 — 必要表現
-- 鮫はここにあります。 — 位置/存在
-
-#### Related Terms
-
-- 鮫 — 自動参照
-- [[animals-vocabulary]] — 動物語彙
-
-#### Cultural Notes
-
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[animals-vocabulary]]
+- [[animals-vocabulary-jp]]
 
 ---
 
-### イルカ
+### 鶏 (にわとり)
 
-**Part of Speech:** 名詞
+**品詞:** 名詞
 
-**Definition:** dolphin
+**定義:** 卵と肉用に飼われる家禽。
 
-**Reading / Hiragana / Romaji:** いるか (iruka)
+**読み / ひらがな / ローマ字:** にわとり (niwatori)
 
-**Etymology:** 外来語: イルカ
+**語源:** 「庭取り」= 庭で飼う鳥。漢字「鶏」= 「奚」（鳥の鳴き声）+「鳥」。
 
-#### Examples
+#### 例文
 
-- イルカが必要です。 — 必要表現
-- イルカはここにあります。 — 位置/存在
+- 夕食に**鶏**を食べます。 — 食事
+- **鶏**が卵を産みます。 — 生産
 
-#### Related Terms
+#### 関連語
 
-- イルカ — 自動参照
-- [[animals-vocabulary]] — 動物語彙
+- ''雌鶏'' — 雌鶏
+- ''雄鶏'' — 雄鶏
+- ''ひよこ'' — ひよこ
 
-#### Cultural Notes
+#### 文化的背景
 
-文化的背景情報を追加予定
+酉年 = 干支10番目。「鶏口となるも牛後となるなかれ」= 小さな組織のトップになる方が、大きな組織の末端よりまし。「鶏肋」= 役に立たないもの。
 
-#### Sources
+#### 出典
 
-- [[animals-vocabulary]]
-
----
-
-## Insects (虫)
-
-### 蝶
-
-**Part of Speech:** 名詞
-
-**Definition:** butterfly
-
-**Reading / Hiragana / Romaji:** ちょう (chou)
-
-**Etymology:** 漢字: 蝶 (音読み/訓読みによる語源)
-
-#### Examples
-
-- 蝶が必要です。 — 必要表現
-- 蝶はここにあります。 — 位置/存在
-
-#### Related Terms
-
-- 蝶 — 自動参照
-- [[animals-vocabulary]] — 動物語彙
-
-#### Cultural Notes
-
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[animals-vocabulary]]
+- [[animals-vocabulary-jp]]
 
 ---
 
-### アリ
+### 羊 (ひつじ)
 
-**Part of Speech:** 名詞
+**品詞:** 名詞
 
-**Definition:** ant
+**定義:** 厚い毛皮を持つ反芻家畜。羊毛と肉用。
 
-**Reading / Hiragana / Romaji:** あり (ari)
+**読み / ひらがな / ローマ字:** ひつじ (hitsuji)
 
-**Etymology:** 外来語: アリ
+**語源:** 「ひつじ」= 古くは「ひつぢ」。漢字「羊」= 象形（角・顔・体）。
 
-#### Examples
+#### 例文
 
-- アリが必要です。 — 必要表現
-- アリはここにあります。 — 位置/存在
+- **羊**は毛を提供します。 — 製品
+- **羊**は羊飼いについていきます。 — 行動
 
-#### Related Terms
+#### 関連語
 
-- アリ — 自動参照
-- [[animals-vocabulary]] — 動物語彙
+- ''子羊'' — 子供の羊
+- ''雄羊'' — 雄羊
+- ''羊群'' — 羊の群れ
 
-#### Cultural Notes
+#### 文化的背景
 
-文化的背景情報を追加予定
+「羊頭狗肉」= 看板と中身が違う。「迷い羊」= 道を誤った人。未年 = 干支8番目。
 
-#### Sources
+#### 出典
 
-- [[animals-vocabulary]]
-
----
-
-### カエル
-
-**Part of Speech:** 名詞
-
-**Definition:** frog
-
-**Reading / Hiragana / Romaji:** かえる (kaeru)
-
-**Etymology:** 外来語: カエル
-
-#### Examples
-
-- カエルが必要です。 — 必要表現
-- カエルはここにあります。 — 位置/存在
-
-#### Related Terms
-
-- カエル — 自動参照
-- [[animals-vocabulary]] — 動物語彙
-
-#### Cultural Notes
-
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[animals-vocabulary]]
+- [[animals-vocabulary-jp]]
 
 ---
 
-## Mythical/Legendary (伝説の動物)
+## 野生動物
 
-### 龍/竜 (tatsu/ryū)
+### 狮子 (ライオン)
 
-**Part of Speech:** 名詞
+**品詞:** 名詞
 
-**Definition:** dragon
+**定義:** アフリカとインドに生息する大型ネコ科動物。群れ（プライド）で生活。
 
-**Reading / Hiragana / Romaji:** りゅう (ryuu)
+**読み / ひらがな / ローマ字:** らいおん (raion)
 
-**Etymology:** 漢字: 龍/竜 (音読み/訓読みによる語源)
+**語源:** 英語 "lion" から。漢字「獅子」= 中国伝来の想像上の獣。
 
-#### Examples
+#### 例文
 
-- 龍/竜が必要です。 — 必要表現
-- 龍/竜はここにあります。 — 位置/存在
+- **ライオン**が吠えています。 — 鳴き声
+- **ライオン**は群れで狩ります。 — 社会的行動
 
-#### Related Terms
+#### 関連語
 
-- `龍/竜` — 自動参照 (intentional placeholder; not an active wikilink)
+- ''雌獅子'' — 雌ライオン
+- ''子獅子'' — 子ライオン
+- ''群れ'' — ライオンの群れ
 
-#### Cultural Notes
+#### 文化的背景
 
-文化的背景情報を追加予定
+勇気と王権の象徴。「獅子身中の虫」= 内部から組織を害する者。「獅子奮迅」= 勢いよく働く。
 
-#### Sources
+#### 出典
 
-- [[animals-vocabulary]]
-
----
-
-### 狼
-
-**Part of Speech:** 名詞
-
-**Definition:** wolf
-
-**Reading / Hiragana / Romaji:** おおかみ (ookami)
-
-**Etymology:** 漢字: 狼 (音読み/訓読みによる語源)
-
-#### Examples
-
-- 狼が必要です。 — 必要表現
-- 狼はここにあります。 — 位置/存在
-
-#### Related Terms
-
-- 狼 — 自動参照
-- [[animals-vocabulary]] — 動物語彙
-
-#### Cultural Notes
-
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[animals-vocabulary]]
+- [[animals-vocabulary-jp]]
 
 ---
 
-### 狐
+### 虎 (トラ)
 
-**Part of Speech:** 名詞
+**品詞:** 名詞
 
-**Definition:** fox
+**定義:** アジア原産の大型縞模様ネコ科動物。
 
-**Reading / Hiragana / Romaji:** きつね (kitsune)
+**読み / ひらがな / ローマ字:** とら (tora)
 
-**Etymology:** 漢字: 狐 (音読み/訓読みによる語源)
+**語源:** 古くは「とら」のみ。漢字「虎」= 象形（縞模様）。英語 "tiger" からカタカナ「トラ」も併用。
 
-#### Examples
+#### 例文
 
-- 狐が必要です。 — 必要表現
-- 狐はここにあります。 — 位置/存在
+- **トラ**が獲物を狙っています。 — 狩り
+- **トラ**は絶滅危惧種です。 — 保全
 
-#### Related Terms
+#### 関連語
 
-- 狐 — 自動参照
-- [[animals-vocabulary]] — 動物語彙
+- ''ベンガルトラ'' — 一般的な亜種
+- ''アムールトラ'' — 最大亜種
 
-#### Cultural Notes
+#### 文化的背景
 
-文化的背景情報を追加予定
+インドの国獣。アジア文化で力の象徴。「虎視眈々」= 狙いを定めて機会をうかがう。「紙の虎」= 見かけ倒し。
 
-#### Sources
+#### 出典
 
-- [[animals-vocabulary]]
+- [[animals-vocabulary-jp]]
 
 ---
 
-## Sources
+### 象 (ゾウ)
 
-- [[animals-vocabulary]]
+**品詞:** 名詞
+
+**定義:** 現存最大の陸生哺乳類。鼻・牙・大きな耳を持つ。
+
+**読み / ひらがな / ローマ字:** ぞう (zou)
+
+**語源:** サンスクリット "ibha" → 中国経由で「象」。漢字「象」= 象形（長い鼻・牙・大きな耳・四肢）。
+
+#### 例文
+
+- **象**は忘れません。 — 記憶の諺
+- **象**は鼻で水を飲みます。 — 機能
+
+#### 関連語
+
+- ''鼻'' — 象の鼻
+- ''牙'' — 牙
+- ''群れ'' — 象の群れ
+
+#### 文化的背景
+
+知恵と記憶の象徴。象牙取引で個体数減少。「象の鼻」= 長くて柔軟なものの喩え。
+
+#### 出典
+
+- [[animals-vocabulary-jp]]
+
+---
+
+### 猿 (さる)
+
+**品詞:** 名詞
+
+**定義:** 類人猿より小型の霊長類。通常尾を持つ。
+
+**読み / ひらがな / ローマ字:** さる (saru)
+
+**語源:** 「去る」= 去っていくもの（山へ帰る）から。漢字「猿」= 「狟」（原義不明）+「犭」。
+
+#### 例文
+
+- **猿**が木から木へ飛び移ります。 — 移動
+- **猿**は賢いです. — 認知能力
+
+#### 関連語
+
+- ''類人猿'' — 尾のない霊長類
+- ''チンパンジー'' — ヒトに最も近い
+
+#### 文化的背景
+
+「猿真似」= 模倣行動。「猿も木から落ちる」= 達人も失敗する。「猿知恵」= その場しのぎの知恵。三猿（見ざる・聞かざる・言わざる）= 日光東照宮。
+
+#### 出典
+
+- [[animals-vocabulary-jp]]
+
+---
+
+### 熊 (くま)
+
+**品詞:** 名詞
+
+**定義:** 厚い毛皮を持つ大型哺乳類。足裏で歩く。
+
+**読み / ひらがな / ローマ字:** くま (kuma)
+
+**語源:** 「くま」= 「隈」= 奥まった暗いところ（冬眠する場所）。漢字「熊」= 「能」（熊の足跡）+「火」。
+
+#### 例文
+
+- **熊**は冬に冬眠します。 — 季節行動
+- **熊**は魚と木の実を食べます。 — 食性
+
+#### 関連語
+
+- ''ヒグマ'' — 北海道亜種
+- ''シロクマ'' — 北極種
+- ''子熊'' — 子供の熊
+
+#### 文化的背景
+
+くまのプーさん = 世界的キャラクター。「熊手」= 商売繁盛の縁起熊手。「熊に瀉剤」= 無駄なこと。
+
+#### 出典
+
+- [[animals-vocabulary-jp]]
+
+---
+
+### 狼 (おおかみ)
+
+**品詞:** 名詞
+
+**定義:** 群れで生活・狩りをする野生の肉食イヌ科動物。
+
+**読み / ひらがな / ローマ字:** おおかみ (ookami)
+
+**語源:** 「大神」= 大きな神（山の神の使い）。漢字「狼」= 「良」+「犭」。
+
+#### 例文
+
+- **狼**が月に向かって遠吠えします。 — 鳴き声（神話的）
+- **狼**は群れで狩ります。 — 社会構造
+
+#### 関連語
+
+- ''群れ'' — 狼の群れ
+- ''アルファ'' — ボス狼
+
+#### 文化的背景
+
+日本狼 = 絶滅（1905年最後）。「狼少年」= 嘘つき。「羊の皮を被った狼」= 偽善者。「狼煙」= 合図の煙。
+
+#### 出典
+
+- [[animals-vocabulary-jp]]
+
+---
+
+### 狐 (きつね)
+
+**品詞:** 名詞
+
+**定義:** 尖った口吻と茂った尾を持つ小型野生イヌ科動物。
+
+**読み / ひらがな / ローマ字:** きつね (kitsune)
+
+**語源:** 「来ね」= いつも来る（人里に現れる）から。または「狐」= 化かすもの。漢字「狐」= 「瓜」+「犭」。
+
+#### 例文
+
+- **狐**は狡猾です。 — 評判
+- **狐**が鶏小屋を襲いました。 — 捕食
+
+#### 関連語
+
+- ''雌狐'' — 雌狐
+- ''子狐'' — 子狐
+
+#### 文化的背景
+
+稲荷神の使い。お稲荷さん = 油揚げ詰め寿司。「狐に化かされる」= 騙される。「狐の嫁入り」= 天気雨。
+
+#### 出典
+
+- [[animals-vocabulary-jp]]
+
+---
+
+### 鹿 (しか)
+
+**品詞:** 名詞
+
+**Definition:** 蹄を持つ草食哺乳類。雄は通常角を持つ。
+
+**読み / ひらがな / ローマ字:** しか (shika)
+
+**語源:** 「しか」= 「牡鹿」の古称。漢字「鹿」= 象形（角・四肢・尾）。
+
+#### 例文
+
+- **鹿**が柵を飛び越えました。 — 動き
+- **鹿**は草と葉を食べます。 — 食性
+
+#### 関連語
+
+- ''雄鹿'' — 雄鹿
+- ''雌鹿'' — 雌鹿
+- ''子鹿'' — 子鹿
+- ''角'' — 角
+
+#### 文化的背景
+
+奈良の鹿 = 天然記念物・神の使い。「鹿」と「しか」= 同音。「鹿死誰手」= 責任所在不明。
+
+#### 出典
+
+- [[animals-vocabulary-jp]]
+
+---
+
+### 蛇 (へび)
+
+**品詞:** 名詞
+
+**定義:** 長い無足爬虫類。一部有毒。
+
+**読み / ひらがな / ローマ字:** へび (hebi)
+
+**語源:** 「這う蛇」= 這うもの。漢字「蛇」= 「虫」+「它」（蛇の形）。
+
+#### 例文
+
+- **蛇**は皮を脱ぎます。 — 成長
+- **蛇**は毒を持つことがあります。 — 危険
+
+#### 関連語
+
+- ''コブラ'' — 毒蛇・フード
+- ''蟒蛇'' — 大型絞殺蛇
+- ''毒'' — 毒
+
+#### 文化的背景
+
+「蛇の道は蛇」= 専門家には分かる。「蛇足」= 不要な付け足し（中国故事）。医療シンボル（アスクレピオスの杖）に蛇。
+
+#### 出典
+
+- [[animals-vocabulary-jp]]
+
+---
+
+### 亀 (かめ)
+
+**品詞:** 名詞
+
+**定義:** 骨質の甲羅を持つ爬虫類。水棲・陸棲両方。
+
+**読み / ひらがな / ローマ字:** かめ (kame)
+
+**語源:** 「亀」= 「瓶」+「龜」の略。漢字「亀」= 象形（甲羅・頭・尾・四肢）。
+
+#### 例文
+
+- **亀**はゆっくり動きます。 — 速度
+- **海亀**は長距離を移動します。 — 移動
+
+#### 関連語
+
+- ''海亀'' — 海生亀
+- ''甲羅'' — 保護殻
+- ''亀の甲より年の功'' — 経験の価値
+
+#### 文化的背景
+
+長寿の象徴（万年）。鶴亀 = 祝いの組み合わせ。「亀の甲より年の功」= 年長者の経験は貴い。ウミガメ = 絶滅危惧。
+
+#### 出典
+
+- [[animals-vocabulary-jp]]
+
+---
+
+### 蛙 (かえる)
+
+**品詞:** 名詞
+
+**定義:** 尾のない両生類。滑らかな湿った皮膚と跳躍用の長い後肢を持つ。
+
+**読み / ひらがな / ローマ字:** かえる (kaeru)
+
+**語源:** 「帰る」= 産卵のため水辺に帰るから。漢字「蛙」= 「圭」+「虫」。
+
+#### 例文
+
+- **蛙**が池に飛び込みます。 — 動き
+- **蛙**は夜に鳴きます。 — 鳴き声
+
+#### 関連語
+
+- ''おたまじゃくし'' — 幼体
+- ''蟾蜍'' — 乾燥した皮膚の仲間
+
+#### 文化的背景
+
+「井の中の蛙大海を知らず」= 視野が狭い。「蛙の子は蛙」= 子は親に似る。「蛙飛び込む水の音」= 俳句（芭蕉）。
+
+#### 出典
+
+- [[animals-vocabulary-jp]]
+
+---
+
+## 昆虫と海洋生物
+
+### 蝶 (ちょう)
+
+**品詞:** 名詞
+
+**定義:** 大きくしばしば色鮮やかな翅を持つ飛翔昆虫。
+
+**読み / ひらがな / ローマ字:** ちょう (chou)
+
+**語源:** 「蝶」= 「枼」+「虫」。「胡蝶」= 古名。
+
+#### 例文
+
+- **蝶**が花々の間を舞っています。 — 動き
+- **蝶**は変態します。 — 生活環
+
+#### 関連語
+
+- ''芋虫'' — 幼虫
+- ''蛹'' — 蛹
+
+#### 文化的背景
+
+変身の象徴。蝶々夫人 = オペラ。「蝶効果」= 小さな原因、大きな結果。
+
+#### 出典
+
+- [[animals-vocabulary-jp]]
+
+---
+
+### 蜂 (はち)
+
+**品詞:** 名詞
+
+**定義:** 蜜を集め、蜜を作り、刺す飛翔昆虫。
+
+**読み / ひらがな / ローマ字:** はち (hachi)
+
+**語源:** 「蜂」= 「甘」+「虫」→ 蜜を作る虫。
+
+#### 例文
+
+- **蜂**は蜜を作ります。 — 生産
+- **蜂**に刺されました。 — 防御
+
+#### 関連語
+
+- ''蜜'' — 蜂蜜
+- ''巣'' — 蜂の巣
+- ''女王蜂'' — 繁殖雌
+
+#### 文化的背景
+
+「蜂の巣をつつく」= 面倒なことに手を出す。「働き蜂」= 働き者。「女王蜂」= リーダー的女性。
+
+#### 出典
+
+- [[animals-vocabulary-jp]]
+
+---
+
+### 蟻 (あり)
+
+**品詞:** 名詞
+
+**定義:** 群れで生活する小型社会性昆虫。
+
+**読み / ひらがな / ローマ字:** あり (ari)
+
+**語源:** 「あり」= 「有り」= 群れで存在するから。漢字「蟻」= 「虫」+「義」（正しい・集団）。
+
+#### 例文
+
+- **蟻**は重い荷物を運びます。 — 力
+- **蟻**の巣には数百万匹います。 — 社会構造
+
+#### 関連語
+
+- ''巣'' — 蟻の社会
+- ''女王蟻'' — 繁殖雌
+
+#### 文化的背景
+
+「蟻の一穴」= 小さな油断が大災害を招く（堤防決壊）。アリとキリギリス = 勤勉の寓話。
+
+#### 出典
+
+- [[animals-vocabulary-jp]]
+
+---
+
+### 鯨 (くじら)
+
+**品詞:** 名詞
+
+**定義:** 極めて大型の海生哺乳類。魚ではない。
+
+**読み / ひらがな / ローマ字:** くじら (kujira)
+
+**語源:** 「鯨」= 「巨」+「魚」の意。古くは「いさな」= 勇魚。
+
+#### 例文
+
+- **鯨**が海面を跳ねます。 — 行動
+- **鯨**は水中で歌います. — コミュニケーション
+
+#### 関連語
+
+- ''シロナガスクジラ'' — 史上最大動物
+- ''シャチ'' — マイルカ科（クジラではない）
+- ''群れ'' — 鯨の群れ
+
+#### 文化的背景
+
+『白鯨』= 有名な白鯨。捕鯨でほぼ絶滅。「鯨飲馬食」= 大食漢。
+
+#### 出典
+
+- [[animals-vocabulary-jp]]
+
+---
+
+### 海豚 (イルカ)
+
+**品詞:** 名詞
+
+**定義:** 高い知能を持つ海生哺乳類。クジラの仲間。
+
+**読み / ひらがな / ローマ字:** いるか (iruka)
+
+**語源:** 英語 "dolphin" から。漢字「海豚」= 「海の豚」（形が似てるから）。
+
+#### 例文
+
+- **イルカ**が船の横で跳ねます。 — 遊び
+- **イルカ**は超音波で航行します. — 能力
+
+#### 関連語
+
+- ''群れ'' — イルカの群れ
+- ''超音波'' — ソナー航法
+
+#### 文化的背景
+
+知能と友好的さの象徴。セラピーに利用。「イルカショー」= 水族館の人気プログラム。
+
+#### 出典
+
+- [[animals-vocabulary-jp]]
+
+---
+
+### 鮫 (さめ)
+
+**品詞:** 名詞
+
+**定義:** 鋭い歯を持つ大型捕食軟骨魚類。
+
+**読み / ひらがな / ローマ字:** さめ (same)
+
+**語源:** 「鮫」= 「鮫肌」= 粗い肌。古くは「さめ」= 「冷め」= 血が冷たいから。
+
+#### 例文
+
+- **鮫**が獲物を周回します。 — 狩り
+- **鮫**は歯が何列もあります. — 解剖
+
+#### 関連語
+
+- ''ホオジロザメ'' — 有名種
+- ''鰭'' — 背鰭
+
+#### 文化的背景
+
+映画『ジョーズ』で恐怖の象徴に。「鮫」= 冷酷なビジネスマン。「鮫肌」= ざらざらした肌。
+
+#### 出典
+
+- [[animals-vocabulary-jp]]
+
+---
+
+## 動物の動詞と形容詞
+
+### 走る (はしる)
+
+**品詞:** 動詞 (五段・ラ行)
+
+**定義:** 歩くより速く足で移動する。
+
+**読み / ひらがな / ローマ字:** はしる (hashiru)
+
+#### 例文
+
+- 犬が速く**走ります**。 — 動物の動き
+- プールサイドでは**走らないで**ください。 — 安全
+
+#### 関連語
+
+- ''駆ける'' — 短距離全力疾走
+- ''ジョギング'' — ゆっくり走る
+
+#### 出典
+
+- [[animals-vocabulary-jp]]
+
+---
+
+### 飛ぶ (とぶ)
+
+**品詞:** 動詞 (五段・バ行)
+
+**定義:** 翼を使って空中を移動する。
+
+**読み / ひらがな / ローマ字:** とぶ (tobu)
+
+#### 例文
+
+- 鳥が冬に南へ**飛びます**。 — 移動
+- 飛行機が高く**飛びます**。 — 交通
+
+#### 関連語
+
+- ''飛翔'' — 羽ばたかずに飛ぶ
+- ''ホバリング'' — 空中静止
+
+#### 出典
+
+- [[animals-vocabulary-jp]]
+
+---
+
+### 泳ぐ (およぐ)
+
+**品詞:** 動詞 (五段・ガ行)
+
+**定義:** 体を動かして水中を移動する。
+
+**読み / ひらがな / ローマ字:** およぐ (oyogu)
+
+#### 例文
+
+- 魚が群れて**泳ぎます**。 — 群れ行動
+- 5歳で**泳ぐ**のを覚えました。 — 技能
+
+#### 関連語
+
+- ''潜る'' — 水中を泳ぐ
+- ''浮く'' — 水面に留まる
+
+#### 出典
+
+- [[animals-vocabulary-jp]]
+
+---
+
+### 狩る (かる)
+
+**品詞:** 動詞 (五段・ラ行)
+
+**定義:** 食用や娯楽のために野生動物を追跡し殺す。
+
+**読み / ひらがな / ローマ字:** かる (karu)
+
+#### 例文
+
+- ライオンが群れで**狩ります**。 — 協力行動
+- 鹿を**狩る**のが好きです。 — スポーツ
+
+#### 関連語
+
+- ''獲物'' — 狩られる動物
+- ''捕食者'' — 狩る者
+
+#### 出典
+
+- [[animals-vocabulary-jp]]
+
+---
+
+### 吠える (ほえる)
+
+**品詞:** 動詞 (一段)
+
+**定義:** （犬が）短い大きな音を出す。
+
+**読み / ひらがな / ローマ字:** ほえる (hoeru)
+
+#### 例文
+
+- 犬が郵便屋さんに**吠えます**. — 警戒
+- 命令を**吠える**な。 — 比喩的
+
+#### 関連語
+
+- ''遠吠え'' — 長い悲しげな声
+- ''唸る'' — 低い威嚇音
+
+#### 出典
+
+- [[animals-vocabulary-jp]]
+
+---
+
+### 野生 (やせい)
+
+**品詞:** 名詞・形容動詞
+
+**定義:** 自然に生きている、家畜化されていない。
+
+**読み / ひらがな / ローマ字:** やせい (yasei)
+
+#### 例文
+
+- **野生**動物は自然に属します。 — 生息地
+- **野生**のパーティー. — 制御不能（比喩）
+
+#### 関連語
+
+- ''飼育'' — 対義語
+- ''野生化'' — 家畜が野生に戻る
+
+#### 出典
+
+- [[animals-vocabulary-jp]]
+
+---
+
+### 大きい (おおきい)
+
+**品詞:** 形容詞 (イ形容詞)
+
+**定義:** かなりの大きさである。
+
+**読み / ひらがな / ローマ字:** おおきい (ookii)
+
+#### 例文
+
+- 象は**大きい**です。 — 大きさ
+- **大きな**決断. — 重要性（比喩）
+
+#### 関連語
+
+- ''巨大'' — 非常に大きい
+- ''小さい'' — 対義語
+
+#### 出典
+
+- [[animals-vocabulary-jp]]
+
+---
+
+### 小さい (ちいさい)
+
+**品詞:** 形容詞 (イ形容詞)
+
+**定義:** 普通より小さい大きさである。
+
+**読み / ひらがな / ローマ字:** ちいさい (chiisai)
+
+#### 例文
+
+- ネズミは**小さい**です。 — 大きさ
+- **小さな**会話. — 世間話
+
+#### 関連語
+
+- ''微小'' — 非常に小さい
+- ''小さい'' — 同義語
+- ''大きい'' — 対義語
+
+#### 出典
+
+- [[animals-vocabulary-jp]]
+
+---
+
+### 速い (はやい)
+
+**品詞:** 形容詞 (イ形容詞)
+
+**定義:** 高速で移動できる、または移動する。
+
+**読み / ひらがな / ローマ字:** はやい (hayai)
+
+#### 例文
+
+- チーターは**速い**です。 — 速度
+- **速い**車. — 車両
+
+#### 関連語
+
+- ''迅速'' — 同義語
+- ''敏速'' — 文学的同義語
+- ''遅い'' — 対義語
+
+#### 出典
+
+- [[animals-vocabulary-jp]]
+
+---
+
+### 遅い (おそい)
+
+**品詞:** 形容詞 (イ形容詞)
+
+**定義:** 低速で移動または動作する。
+
+**読み / ひらがな / ローマ字:** おそい (osoi)
+
+#### 例文
+
+- 亀は**遅い**です。 — 速度
+- **遅く**なりました。 — 謝罪
+
+#### 関連語
+
+- ''鈍い'' — 動きが遅い
+- ''ゆっくり'' — のんびりしたペース
+- ''速い'' — 対義語
+
+#### 出典
+
+- [[animals-vocabulary-jp]]
+
+---
+
+## 伝説の生物
+
+### 龍/竜 (りゅう)
+
+**品詞:** 名詞
+
+**定義:** 想像上の生物。東洋では神聖な水神・雨乞いの神。
+
+**読み / ひらがな / ローマ字:** りゅう (ryuu)
+
+**語源:** 中国「龍」→ 日本「竜」（新字体）。「龍」= 旧字体、「竜」= 新字体。
+
+#### 例文
+
+- **竜**が空を飛びます。 — 神話
+- **龍**神信仰. — 信仰
+
+#### 関連語
+
+- ''龍神'' — 水神
+- ''昇り龍'' — 出世
+- ''竜宮城'' — 海底宮殿
+
+#### 文化的背景
+
+東洋の龍 = 翼なしで飛ぶ、水を司る神聖な存在。西洋のドラゴン = 翼あり、火を吐く悪の象徴。辰年 = 干支5番目（唯一の架空動物）。「画竜点睛」= 仕上げの重要な一手。
+
+#### 出典
+
+- [[animals-vocabulary-jp]]
+
+---
+
+## 出典
+
+- JLPT N4-N5 語彙リスト
+- 日本語動物ガイド
+- [[first-travel-korea]] — 韓国旅行中の動物単語
 
 ---
 
@@ -726,27 +1137,42 @@ This page aggregates all animal vocabulary for the typing language game corpus.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: jp_animals_001, display: "犬", input: "犬", meaning: "dog", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_002, display: "猫", input: "猫", meaning: "cat", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_003, display: "馬", input: "馬", meaning: "horse", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_004, display: "牛", input: "牛", meaning: "cow", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_005, display: "豚", input: "豚", meaning: "pig", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_006, display: "鶏", input: "鶏", meaning: "chicken", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_007, display: "羊", input: "羊", meaning: "sheep", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_008, display: "鳥", input: "鳥", meaning: "bird", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_009, display: "魚", input: "魚", meaning: "fish", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_010, display: "蛇", input: "蛇", meaning: "snake", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_011, display: "熊", input: "熊", meaning: "bear", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_012, display: "鹿", input: "鹿", meaning: "deer", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_013, display: "猿", input: "猿", meaning: "monkey", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_014, display: "亀", input: "亀", meaning: "turtle", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_015, display: "鯨", input: "鯨", meaning: "whale", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_016, display: "鮫", input: "鮫", meaning: "shark", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_017, display: "イルカ", input: "イルカ", meaning: "dolphin", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_018, display: "蝶", input: "蝶", meaning: "butterfly", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_019, display: "アリ", input: "アリ", meaning: "ant", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_020, display: "カエル", input: "カエル", meaning: "frog", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_021, display: "龍/竜 (tatsu/ryū)", input: "龍/竜 (tatsu/ryū)", meaning: "dragon", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_022, display: "狼", input: "狼", meaning: "wolf", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_023, display: "狐", input: "狐", meaning: "fox", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_001, display: "犬", input: "犬", meaning: "개", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_002, display: "猫", input: "猫", meaning: "고양이", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_003, display: "鳥", input: "鳥", meaning: "새", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_004, display: "魚", input: "魚", meaning: "물고기", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_005, display: "兎", input: "兎", meaning: "토끼", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_006, display: "馬", input: "馬", meaning: "말", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_007, display: "牛", input: "牛", meaning: "소", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_008, display: "豚", input: "豚", meaning: "돼지", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_009, display: "鶏", input: "鶏", meaning: "닭", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_010, display: "羊", input: "羊", meaning: "양", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_011, display: "ライオン", input: "ライオン", meaning: "사자", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_012, display: "トラ", input: "トラ", meaning: "호랑이", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_013, display: "象", input: "象", meaning: "코끼리", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_014, display: "猿", input: "猿", meaning: "원숭이", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_015, display: "熊", input: "熊", meaning: "곰", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_016, display: "狼", input: "狼", meaning: "늑대", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_017, display: "狐", input: "狐", meaning: "여우", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_018, display: "鹿", input: "鹿", meaning: "사슴", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_019, display: "蛇", input: "蛇", meaning: "뱀", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_020, display: "亀", input: "亀", meaning: "거북이", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_021, display: "蛙", input: "蛙", meaning: "개구리", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_022, display: "蝶", input: "蝶", meaning: "나비", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_023, display: "蜂", input: "蜂", meaning: "벌", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_024, display: "蟻", input: "蟻", meaning: "개미", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_025, display: "鯨", input: "鯨", meaning: "고래", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_026, display: "イルカ", input: "イルカ", meaning: "돌고래", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_027, display: "鮫", input: "鮫", meaning: "상어", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_028, display: "走る", input: "走る", meaning: "달리다", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_029, display: "飛ぶ", input: "飛ぶ", meaning: "날다", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_030, display: "泳ぐ", input: "泳ぐ", meaning: "헤엄치다", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_031, display: "狩る", input: "狩る", meaning: "사냥하다", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_032, display: "吠える", input: "吠える", meaning: "짖다", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_033, display: "野生", input: "野生", meaning: "야생의", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_034, display: "大きい", input: "大きい", meaning: "큰", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_035, display: "小さい", input: "小さい", meaning: "작은", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_036, display: "速い", input: "速い", meaning: "빠른", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_037, display: "遅い", input: "遅い", meaning: "느린", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: jp_animals_038, display: "龍/竜", input: "龍/竜", meaning: "용", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
 ```

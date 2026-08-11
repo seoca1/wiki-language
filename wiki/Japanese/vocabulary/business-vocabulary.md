@@ -5,1156 +5,1236 @@ level: "JLPT N3-N4"
 theme: "business"
 ---
 
-# Business Vocabulary (ビジネス語彙)
+# ビジネス語彙 (Japanese Business Vocabulary)
 
+**Source:** [[business-vocabulary-jp]]
+**Theme:** ビジネス
+**Level:** JLPT N3-N4 / B1
 
-This page aggregates all business vocabulary for the typing language game corpus.
+日本語ビジネス語彙：メール/書簡、会議/業務、企業/組織、電話/通信、ビジネス表現を網羅。出典：JLPT N3-N4語彙リスト、ビジネス日本語教材。
 
 ---
 
-## Email/Correspondence (メール/電子メール)
-
+## メール・書簡
 
 ### メール
 
-**Part of Speech:** 名詞
+**品詞:** 名詞
 
-**Definition:** email
+**定義:** 電子メール。インターネット経由で送受信するデジタルメッセージ。
 
-**Reading / Hiragana / Romaji:** メール (meeru)
+**読み / ひらがな / ローマ字:** めーる (meeru)
 
-**Etymology:** 外来語: メール
+**語源:** 英語 "mail" から。カタカナ外来語。
 
-#### Examples
+#### 例文
 
-- メールが必要です。 — 必要表現
-- メールはここにあります。 — 位置/存在
+- **メール**を送信しました。 — 送信完了
+- **メール**を確認してください。 — 依頼
 
-#### Related Terms
+#### 関連語
 
-- メール — 自動参照
+- ''受信箱'' — 受信メールボックス
+- ''送信箱'' — 送信済み
+- ''下書き'' — 未送信メール
+- ''迷惑メール'' — スパム
 
-#### Cultural Notes
+#### 文化的背景
 
-文化的背景情報を追加予定
+ビジネス標準コミュニケーション。件名・本文・署名の構成が重要。返信は24時間以内がマナー。CC（碳本複写）・BCC（盲目複写）の使い分け必須。
 
-#### Sources
+#### 出典
 
-- [[business-vocabulary]]
-
----
-
-### 住所
-
-**Part of Speech:** 名詞
-
-**Definition:** address
-
-**Reading / Hiragana / Romaji:** じゅうしょ (juusho)
-
-**Etymology:** 漢字: 住所 (音読み/訓読みによる語源)
-
-#### Examples
-
-- 住所が必要です。 — 必要表現
-- 住所はここにあります。 — 位置/存在
-
-#### Related Terms
-
-- 住所 — 自動参照
-
-#### Cultural Notes
-
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[business-vocabulary]]
+- [[business-vocabulary-jp]]
 
 ---
 
-### 送信者
+### 住所 (じゅうしょ)
 
-**Part of Speech:** 名詞
+**品詞:** 名詞
 
-**Definition:** sender
+**定義:** メールアカウントの一意識別子（例: name@domain.co.jp）。
 
-**Reading / Hiragana / Romaji:** そうしんしゃ (soushinsha)
+**読み / ひらがな / ローマ字:** じゅうしょ (juusho)
 
-**Etymology:** 漢字: 送信者 (音読み/訓読みによる語源)
+**語源:** 「住所」= 住む場所。コンピューティング用法は1970年代以降。
 
-#### Examples
+#### 例文
 
-- 送信者が必要です。 — 必要表現
-- 送信者はここにあります。 — 位置/存在
+- メール**住所**を教えてください。 — 質問
+- 仕事用**住所**に送ってください。 — 指定
 
-#### Related Terms
+#### 関連語
 
-- 送信者 — 自動参照
+- [[メール]] — システム
+- ''ドメイン'' — @以降の部分
 
-#### Cultural Notes
+#### 出典
 
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[business-vocabulary]]
+- [[business-vocabulary-jp]]
 
 ---
 
-### 受信者
+### 送信者 (そうしんしゃ)
 
-**Part of Speech:** 名詞
+**品詞:** 名詞
 
-**Definition:** recipient
+**定義:** メールやメッセージを送る人・主体。
 
-**Reading / Hiragana / Romaji:** じゅしんしゃ (jushinsha)
+**読み / ひらがな / ローマ字:** そうしんしゃ (soushinsha)
 
-**Etymology:** 漢字: 受信者 (音読み/訓読みによる語源)
+**語源:** 「送信」+「者」。「送信」= 送って信ずる（届ける）。
 
-#### Examples
+#### 例文
 
-- 受信者が必要です。 — 必要表現
-- 受信者はここにあります。 — 位置/存在
+- **送信者**不明です。 — 識別
+- **送信者**に返信してください。 — 指示
 
-#### Related Terms
+#### 関連語
 
-- 受信者 — 自動参照
+- ''受信者'' — 受け取り手
+- ''送信'' — 動詞
 
-#### Cultural Notes
+#### 出典
 
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[business-vocabulary]]
+- [[business-vocabulary-jp]]
 
 ---
 
-### 件名
+### 受信者 (じゅしんしゃ)
 
-**Part of Speech:** 名詞
+**品詞:** 名詞
 
-**Definition:** subject
+**定義:** メールやメッセージを受け取る人・主体。
 
-**Reading / Hiragana / Romaji:** けんめい (kenmei)
+**読み / ひらがな / ローマ字:** じゅしんしゃ (jushinsha)
 
-**Etymology:** 漢字: 件名 (音読み/訓読みによる語源)
+**語源:** 「受信」+「者」。ラテン語 *recipiens* "受け取る" から。
 
-#### Examples
+#### 例文
 
-- 件名が必要です。 — 必要表現
-- 件名はここにあります。 — 位置/存在
+- **受信者**が返信しません。 — 状況
+- 複数**受信者**を追加。 — アクション
 
-#### Related Terms
+#### 関連語
 
-- 件名 — 自動参照
+- ''送信者'' — 送り手
+- ''CC'' / ''BCC'' — コピー欄
 
-#### Cultural Notes
+#### 出典
 
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[business-vocabulary]]
+- [[business-vocabulary-jp]]
 
 ---
 
-### 添付
+### 件名 (けんめい)
 
-**Part of Speech:** 名詞
+**品詞:** 名詞
 
-**Definition:** attachment
+**定義:** メールの題名行。内容の簡潔な要約。
 
-**Reading / Hiragana / Romaji:** てんぷ (tenpu)
+**読み / ひらがな / ローマ字:** けんめい (kenmei)
 
-**Etymology:** 漢字: 添付 (音読み/訓読みによる語源)
+**語源:** 「件」= 事柄 + 「名」= 名前。
 
-#### Examples
+#### 例文
 
-- 添付が必要です。 — 必要表現
-- 添付はここにあります。 — 位置/存在
+- 明確な**件名**を付けてください。 — ベストプラクティス
+- **件名:** 明日会議。 — 例
 
-#### Related Terms
+#### 関連語
 
-- 添付 — 自動参照
+- [[メール]] — 親概念
+- ''返信'' — 応答
 
-#### Cultural Notes
+#### 出典
 
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[business-vocabulary]]
+- [[business-vocabulary-jp]]
 
 ---
 
-### 送る
+### 添付 (てんぷ)
 
-**Part of Speech:** 名詞
+**品詞:** 名詞
 
-**Definition:** send
+**定義:** メールに同梱して送るファイル。
 
-**Reading / Hiragana / Romaji:** おくる (okuru)
+**読み / ひらがな / ローマ字:** てんぷ (tenpu)
 
-**Etymology:** 漢字: 送る (音読み/訓読みによる語源)
+**語源:** 「添う」+「付ける」= そえてつける。
 
-#### Examples
+#### 例文
 
-- 送るが必要です。 — 必要表現
-- 送るはここにあります。 — 位置/存在
+- **添付**ファイルをご確認ください。 — 標準フレーズ
+- **添付**容量が大きすぎます。 — エラー
 
-#### Related Terms
+#### 関連語
 
-- 送る — 自動参照
+- [[メール]] — 媒体
+- ''ファイル'' — 一般用語
 
-#### Cultural Notes
+#### 出典
 
-擬音語・擬態語（ぎおんご・ぎたいご）が豊富。日常会話で頻出。
-
-#### Sources
-
-- [[business-vocabulary]]
+- [[business-vocabulary-jp]]
 
 ---
 
-### 受け取る
+### 送る (おくる)
 
-**Part of Speech:** 名詞
+**品詞:** 動詞 (五段・ラ行)
 
-**Definition:** receive
+**定義:** メールやメッセージを他所へ届ける。
 
-**Reading / Hiragana / Romaji:** うけとる (uketoru)
+**読み / ひらがな / ローマ字:** おくる (okuru)
 
-**Etymology:** 漢字: 受け取る (音読み/訓読みによる語源)
+**語源:** 古日本語 *okuru*。漢字「送」= 「關」+「走」。
 
-#### Examples
+#### 例文
 
-- 受け取るが必要です。 — 必要表現
-- 受け取るはここにあります。 — 位置/存在
+- 今**送ります**。 — アクション
+- 全員に**送って**ください。 — 指示
 
-#### Related Terms
+#### 関連語
 
-- 受け取る — 自動参照
+- ''受け取る'' — 反対
+- ''転送'' — 再送信
 
-#### Cultural Notes
+#### 出典
 
-擬音語・擬態語（ぎおんご・ぎたいご）が豊富。日常会話で頻出。
-
-#### Sources
-
-- [[business-vocabulary]]
+- [[business-vocabulary-jp]]
 
 ---
 
-### 返信
+### 受け取る (うけとる)
 
-**Part of Speech:** 名詞
+**品詞:** 動詞 (五段・ラ行)
 
-**Definition:** reply
+**定義:** メールやメッセージを受領する。
 
-**Reading / Hiragana / Romaji:** へんしん (henshin)
+**読み / ひらがな / ローマ字:** うけとる (uketoru)
 
-**Etymology:** 漢字: 返信 (音読み/訓読みによる語源)
+**語源:** 「受く」+「取る」= 受け取る。
 
-#### Examples
+#### 例文
 
-- 返信が必要です。 — 必要表現
-- 返信はここにあります。 — 位置/存在
+- **受け取り**ました。 — 確認
+- **受け取れ**ませんでした。 — 問題
 
-#### Related Terms
+#### 関連語
 
-- 返信 — 自動参照
+- ''送る'' — 反対
+- ''受信箱'' — 着信先
 
-#### Cultural Notes
+#### 出典
 
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[business-vocabulary]]
+- [[business-vocabulary-jp]]
 
 ---
 
-### 保存
+### 返信 (へんしん)
 
-**Part of Speech:** 名詞
+**品詞:** 名詞・動詞 (サ変)
 
-**Definition:** save
+**定義:** メールやメッセージに対する応答を送る。
 
-**Reading / Hiragana / Romaji:** ほぞん (hozon)
+**読み / ひらがな / ローマ字:** へんしん (henshin)
 
-**Etymology:** 漢字: 保存 (音読み/訓読みによる語源)
+**語源:** 「返す」+「信」= 信を返す。
 
-#### Examples
+#### 例文
 
-- 保存が必要です。 — 必要表現
-- 保存はここにあります。 — 位置/存在
+- 金曜日までに**返信**ください。 — 期限
+- **全員返信** vs **返信**。 — 使い分け
 
-#### Related Terms
+#### 関連語
 
-- 保存 — 自動参照
+- ''転送'' — 新規宛先へ送信
+- ''返答'' — 名詞形
 
-#### Cultural Notes
+#### 出典
 
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[business-vocabulary]]
+- [[business-vocabulary-jp]]
 
 ---
 
-### 削除
+### 保存 (ほぞん)
 
-**Part of Speech:** 名詞
+**品詞:** 名詞・動詞 (サ変)
 
-**Definition:** delete
+**定義:** メールやファイルを後で参照できるよう保管する。
 
-**Reading / Hiragana / Romaji:** さくじょ (sakujo)
+**読み / ひらがな / ローマ字:** ほぞん (hozon)
 
-**Etymology:** 漢字: 削除 (音読み/訓読みによる語源)
+**語源:** 「保つ」+「存する」= 存在を保つ。
 
-#### Examples
+#### 例文
 
-- 削除が必要です。 — 必要表現
-- 削除はここにあります。 — 位置/存在
+- 下書きを**保存**。 — アクション
+- PDFで**保存**。 — 形式
 
-#### Related Terms
+#### 関連語
 
-- 削除 — 自動参照
+- ''削除'' — 反対
+- ''下書き'' — 未送信メール
 
-#### Cultural Notes
+#### 出典
 
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[business-vocabulary]]
+- [[business-vocabulary-jp]]
 
 ---
 
-## Meeting/Work (会議/勤務)
+### 削除 (さくじょ)
 
-### 会議
+**品詞:** 名詞・動詞 (サ変)
 
-**Part of Speech:** 名詞
+**定義:** メールやファイルを永久に削除する。
 
-**Definition:** meeting
+**読み / ひらがな / ローマ字:** さくじょ (sakujo)
 
-**Reading / Hiragana / Romaji:** かいぎ (kaigi)
+**語源:** 「削る」+「除く」= 削って除く。
 
-**Etymology:** 漢字: 会議 (音読み/訓読みによる語源)
+#### 例文
 
-#### Examples
+- スパムを**削除**。 — メンテナンス
+- 誤って**削除**した。 — 失敗
 
-- 会議が必要です。 — 必要表現
-- 会議はここにあります。 — 位置/存在
+#### 関連語
 
-#### Related Terms
+- ''保存'' — 反対
+- ''ゴミ箱'' — 一時保管
 
-- 会議 — 自動参照
+#### 出典
 
-#### Cultural Notes
-
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[business-vocabulary]]
+- [[business-vocabulary-jp]]
 
 ---
 
-### スケジュール
+## 会議・業務
 
-**Part of Speech:** 名詞
+### 会議 (かいぎ)
 
-**Definition:** schedule
+**品詞:** 名詞
 
-**Reading / Hiragana / Romaji:** スケジュール (sukejuuru)
+**定義:** 議論や意思決定のための集まり。
 
-**Etymology:** 外来語: スケジュール
+**読み / ひらがな / ローマ字:** かいぎ (kaigi)
 
-#### Examples
+**語源:** 「会う」+「議る」= 会って議論する。
 
-- スケジュールが必要です。 — 必要表現
-- スケジュールはここにあります。 — 位置/存在
+#### 例文
 
-#### Related Terms
+- 10時に**会議**があります。 — スケジュール
+- **会議**は生産的でした。 — 評価
 
-- スケジュール — 自動参照
+#### 関連語
 
-#### Cultural Notes
+- ''議題'' — 計画
+- ''スケジュール'' — 時間割
+- ''議事録'' — 記録
 
-文化的背景情報を追加予定
+#### 出典
 
-#### Sources
-
-- [[business-vocabulary]]
-
----
-
-### 議題
-
-**Part of Speech:** 名詞
-
-**Definition:** agenda
-
-**Reading / Hiragana / Romaji:** ぎだい (gidai)
-
-**Etymology:** 漢字: 議題 (音読み/訓読みによる語源)
-
-#### Examples
-
-- 議題が必要です。 — 必要表現
-- 議題はここにあります。 — 位置/存在
-
-#### Related Terms
-
-- 議題 — 自動参照
-
-#### Cultural Notes
-
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[business-vocabulary]]
+- [[business-vocabulary-jp]]
 
 ---
 
-### 発表
+### スケジュール (sukejuuru)
 
-**Part of Speech:** 名詞
+**品詞:** 名詞
 
-**Definition:** presentation
+**定義:** イベント/時間の計画表。
 
-**Reading / Hiragana / Romaji:** はっぴょう (happyou)
+**読み / ひらがな / ローマ字:** すけじゅーる (sukejuuru)
 
-**Etymology:** 漢字: 発表 (音読み/訓読みによる語源)
+**語源:** 英語 "schedule" から。カタカナ外来語。
 
-#### Examples
+#### 例文
 
-- 発表が必要です。 — 必要表現
-- 発表はここにあります。 — 位置/存在
+- **スケジュール**を確認。 — 名詞
+- **スケジュール**調整しましょう。 — 動詞的用法
 
-#### Related Terms
+#### 関連語
 
-- 発表 — 自動参照
+- ''会議'' — イベント
+- ''カレンダー'' — ツール
+- ''延期'' — 再調整
 
-#### Cultural Notes
+#### 出典
 
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[business-vocabulary]]
+- [[business-vocabulary-jp]]
 
 ---
 
-### 意見
+### 議題 (ぎだい)
 
-**Part of Speech:** 名詞
+**品詞:** 名詞
 
-**Definition:** opinion
+**定義:** 会議で議論される項目のリスト。
 
-**Reading / Hiragana / Romaji:** いけん (iken)
+**読み / ひらがな / ローマ字:** ぎだい (gidai)
 
-**Etymology:** 漢字: 意見 (音読み/訓読みによる語源)
+**語源:** 「議論の題目」= 議論するテーマ。
 
-#### Examples
+#### 例文
 
-- 意見が必要です。 — 必要表現
-- 意見はここにあります。 — 位置/存在
+- 今日の**議題**を配布。 — 配布
+- **議題**に追加。 — 修正
 
-#### Related Terms
+#### 関連語
 
-- 意見 — 自動参照
+- ''会議'' — 文脈
+- ''項目'' — 個別ポイント
 
-#### Cultural Notes
+#### 出典
 
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[business-vocabulary]]
+- [[business-vocabulary-jp]]
 
 ---
 
-### 決定
+### 発表 (はっぴょう)
 
-**Part of Speech:** 名詞
+**品詞:** 名詞・動詞 (サ変)
 
-**Definition:** decision
+**定義:** 聴衆に向けて何かを示し・説明する正式な話。
 
-**Reading / Hiragana / Romaji:** けってい (kettei)
+**読み / ひらがな / ローマ字:** はっぴょう (happyou)
 
-**Etymology:** 漢字: 決定 (音読み/訓読みによる語源)
+**語源:** 「発する」+「表す」= 表に出す。
 
-#### Examples
+#### 例文
 
-- 決定が必要です。 — 必要表現
-- 決定はここにあります。 — 位置/存在
+- 売上について**発表**する。 — タスク
+- **発表**が明確でした。 — フィードバック
 
-#### Related Terms
+#### 関連語
 
-- 決定 — 自動参照
+- ''スライド'' — 視覚資料
+- ''発表者'' — 話し手
 
-#### Cultural Notes
+#### 出典
 
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[business-vocabulary]]
+- [[business-vocabulary-jp]]
 
 ---
 
-### 合意
+### 意見 (いけん)
 
-**Part of Speech:** 名詞
+**品詞:** 名詞
 
-**Definition:** agreement
+**定義:** 何かに対する見解や判断。
 
-**Reading / Hiragana / Romaji:** ごうい (goui)
+**読み / ひらがな / ローマ字:** いけん (iken)
 
-**Etymology:** 漢字: 合意 (音読み/訓読みによる語源)
+**語源:** 「意」= 心 + 「見」= 見解。
 
-#### Examples
+#### 例文
 
-- 合意が必要です。 — 必要表現
-- 合意はここにあります。 — 位置/存在
+- 私の**意見**では延期すべき。 — 表明
+- **意見**が分かれる。 — 多様性
 
-#### Related Terms
+#### 関連語
 
-- 合意 — 自動参照
+- ''賛成'' / ''反対'' — 反応
+- ''フィードバック'' — 構造化された意見
 
-#### Cultural Notes
+#### 出典
 
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[business-vocabulary]]
+- [[business-vocabulary-jp]]
 
 ---
 
-### 記録
+### 決定 (けってい)
 
-**Part of Speech:** 名詞
+**品詞:** 名詞・動詞 (サ変)
 
-**Definition:** record
+**定義:** 熟考の末に達した結論。
 
-**Reading / Hiragana / Romaji:** きろく (kiroku)
+**読み / ひらがな / ローマ字:** けってい (kettei)
 
-**Etymology:** 漢字: 記録 (音読み/訓読みによる語源)
+**語源:** 「決める」+「定める」= 決めて定める。
 
-#### Examples
+#### 例文
 
-- 記録が必要です。 — 必要表現
-- 記録はここにあります。 — 位置/存在
+- **決定**しました。 — 完了
+- **決定**保留。 — 状態
 
-#### Related Terms
+#### 関連語
 
-- 記録 — 自動参照
+- ''決める'' — 動詞
+- ''承認'' — 正式決定
 
-#### Cultural Notes
+#### 出典
 
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[business-vocabulary]]
+- [[business-vocabulary-jp]]
 
 ---
 
-### 場所
+### 合意 (ごうい)
 
-**Part of Speech:** 名詞
+**品詞:** 名詞・動詞 (サ変)
 
-**Definition:** location
+**定義:** 意見の一致；交渉による取り決め。
 
-**Reading / Hiragana / Romaji:** ばしょ (basho)
+**読み / ひらがな / ローマ字:** ごうい (goui)
 
-**Etymology:** 漢字: 場所 (音読み/訓読みによる語源)
+**語源:** 「合わせる」+「意」= 意を合わせる。
 
-#### Examples
+#### 例文
 
-- 場所が必要です。 — 必要表現
-- 場所はここにあります。 — 位置/存在
+- **合意**に達しました。 — 成功
+- 契約書に**合意**。 — 正式化
 
-#### Related Terms
+#### 関連語
 
-- 場所 — 自動参照
+- ''同意'' — 動詞
+- ''契約'' — 法的合意
+- ''コンセンサス'' — グループ合意
 
-#### Cultural Notes
+#### 出典
 
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[business-vocabulary]]
+- [[business-vocabulary-jp]]
 
 ---
 
-### 延期
+### 記録 (きろく)
 
-**Part of Speech:** 名詞
+**品詞:** 名詞・動詞 (サ変)
 
-**Definition:** postpone
+**定義:** (名) 文書化された記録；(動) 記録する。
 
-**Reading / Hiragana / Romaji:** えんき (enki)
+**読み / ひらがな / ローマ字:** きろく (kiroku)
 
-**Etymology:** 漢字: 延期 (音読み/訓読みによる語源)
+**語源:** 「記す」+「録する」= 書き留める。
 
-#### Examples
+#### 例文
 
-- 延期が必要です。 — 必要表現
-- 延期はここにあります。 — 位置/存在
+- **記録**を残す。 — 名詞
+- 会議を**記録**する。 — 動詞
 
-#### Related Terms
+#### 関連語
 
-- 延期 — 自動参照
+- ''議事録'' — 会議記録
+- ''文書'' — 一般用語
 
-#### Cultural Notes
+#### 出典
 
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[business-vocabulary]]
+- [[business-vocabulary-jp]]
 
 ---
 
-## Corporate (会社/組織)
+### 場所 (ばしょ)
 
-### 会社
+**品詞:** 名詞
 
-**Part of Speech:** 名詞
+**定義:** 会議、オフィス、イベントが行われる場所。
 
-**Definition:** company
+**読み / ひらがな / ローマ字:** ばしょ (basho)
 
-**Reading / Hiragana / Romaji:** かいしゃ (kaisha)
+**語源:** 「場」= 場所 + 「所」= ところ。
 
-**Etymology:** 漢字: 会社 (音読み/訓読みによる語源)
+#### 例文
 
-#### Examples
+- **場所**を確認。 — 検証
+- **場所**変更。 — 更新
 
-- 会社が必要です。 — 必要表現
-- 会社はここにあります。 — 位置/存在
+#### 関連語
 
-#### Related Terms
+- ''会場'' — イベント会場
+- ''オフィス'' — 職場
 
-- 会社 — 自動参照
+#### 出典
 
-#### Cultural Notes
-
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[business-vocabulary]]
+- [[business-vocabulary-jp]]
 
 ---
 
-### 事務所
+### 延期 (えんき)
 
-**Part of Speech:** 名詞
+**品詞:** 名詞・動詞 (サ変)
 
-**Definition:** office
+**定義:** より後の時間に再スケジュールする。
 
-**Reading / Hiragana / Romaji:** じむしょ (jimusho)
+**読み / ひらがな / ローマ字:** えんき (enki)
 
-**Etymology:** 漢字: 事務所 (音読み/訓読みによる語源)
+**語源:** 「延ばす」+「期」= 期限を延ばす。
 
-#### Examples
+#### 例文
 
-- 事務所が必要です。 — 必要表現
-- 事務所はここにあります。 — 位置/存在
+- 会議を**延期**せざるを得ません。 — 変更
+- 月曜まで**延期**。 — 新日時
 
-#### Related Terms
+#### 関連語
 
-- 事務所 — 自動参照
+- ''中止'' — 完全キャンセル
+- ''再調整'' — 同義語
+- ''スケジュール'' — 元の計画
 
-#### Cultural Notes
+#### 出典
 
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[business-vocabulary]]
+- [[business-vocabulary-jp]]
 
 ---
 
-### 同僚
+## 企業・役職
 
-**Part of Speech:** 名詞
+### 会社 (かいしゃ)
 
-**Definition:** colleague
+**品詞:** 名詞
 
-**Reading / Hiragana / Romaji:** どうりょう (douryou)
+**定義:** 商業ビジネス組織。
 
-**Etymology:** 漢字: 同僚 (音読み/訓読みによる語源)
+**読み / ひらがな / ローマ字:** かいしゃ (kaisha)
 
-#### Examples
+**語源:** 「会」= 集まり + 「社」= 会社・神社。
 
-- 同僚が必要です。 — 必要表現
-- 同僚はここにあります。 — 位置/存在
+#### 例文
 
-#### Related Terms
+- 当**社**は成長中。 — 状態
+- **多国籍企業**。 — タイプ
 
-- 同僚 — 自動参照
+#### 関連語
 
-#### Cultural Notes
+- ''法人'' — 法的実体
+- ''スタートアップ'' — 新興企業
+- ''企業'' — 大企業
 
-文化的背景情報を追加予定
+#### 出典
 
-#### Sources
-
-- [[business-vocabulary]]
-
----
-
-### 上司
-
-**Part of Speech:** 名詞
-
-**Definition:** boss
-
-**Reading / Hiragana / Romaji:** じょうし (joushi)
-
-**Etymology:** 漢字: 上司 (音読み/訓読みによる語源)
-
-#### Examples
-
-- 上司が必要です。 — 必要表現
-- 上司はここにあります。 — 位置/存在
-
-#### Related Terms
-
-- 上司 — 自動参照
-
-#### Cultural Notes
-
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[business-vocabulary]]
+- [[business-vocabulary-jp]]
 
 ---
 
-### 部下
+### 事務所 (じむしょ)
 
-**Part of Speech:** 名詞
+**品詞:** 名詞
 
-**Definition:** subordinate
+**定義:** 働くための部屋や建物。
 
-**Reading / Hiragana / Romaji:** ぶか (buka)
+**読み / ひらがな / ローマ字:** じむしょ (jimusho)
 
-**Etymology:** 漢字: 部下 (音読み/訓読みによる語源)
+**語源:** 「事務」= 事務仕事 + 「所」= 場所。
 
-#### Examples
+#### 例文
 
-- 部下が必要です。 — 必要表現
-- 部下はここにあります。 — 位置/存在
+- **事務所**へ行く。 — 物理的
+- **事務所**時間: 9-18。 — 勤務時間
 
-#### Related Terms
+#### 関連語
 
-- 部下 — 自動参照
+- ''職場'' — 一般用語
+- ''在宅勤務'' — 反対（自宅勤務）
+- ''個室'' — オフィスレイアウト
 
-#### Cultural Notes
+#### 出典
 
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[business-vocabulary]]
+- [[business-vocabulary-jp]]
 
 ---
 
-### 社員
+### 同僚 (どうりょう)
 
-**Part of Speech:** 名詞
+**品詞:** 名詞
 
-**Definition:** employee
+**定義:** 一緒に働く人；同僚。
 
-**Reading / Hiragana / Romaji:** しゃいん (shain)
+**読み / ひらがな / ローマ字:** どうりょう (douryou)
 
-**Etymology:** 漢字: 社員 (音読み/訓読みによる語源)
+**語源:** 「同」= 同じ + 「僚」= 官僚・仲間。
 
-#### Examples
+#### 例文
 
-- 社員が必要です。 — 必要表現
-- 社員はここにあります。 — 位置/存在
+- **同僚**が助けます。 — 紹介
+- **同僚**と相談。 — 協力
 
-#### Related Terms
+#### 関連語
 
-- 社員 — 自動参照
+- ''同僚'' — 同義語
+- ''チーム'' — グループ
+- ''上司'' — 上長
 
-#### Cultural Notes
+#### 出典
 
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[business-vocabulary]]
+- [[business-vocabulary-jp]]
 
 ---
 
-### 代表
+### 上司 (じょうし)
 
-**Part of Speech:** 名詞
+**品詞:** 名詞
 
-**Definition:** representative
+**定義:** 責任者；監督者やマネージャー。
 
-**Reading / Hiragana / Romaji:** だいひょう (daihyou)
+**読み / ひらがな / ローマ字:** じょうし (joushi)
 
-**Etymology:** 漢字: 代表 (音読み/訓読みによる語源)
+**語源:** 「上」= 上位 + 「司」= 司る。
 
-#### Examples
+#### 例文
 
-- 代表が必要です。 — 必要表現
-- 代表はここにあります。 — 位置/存在
+- **上司**に相談。 — 権限
+- **上司**が承認。 — 決定
 
-#### Related Terms
+#### 関連語
 
-- 代表 — 自動参照
+- ''部長'' — 正式役職
+- ''課長'' — 直属上長
+- ''部下'' — 反対
 
-#### Cultural Notes
+#### 出典
 
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[business-vocabulary]]
+- [[business-vocabulary-jp]]
 
 ---
 
-### チームリーダー
+### 部下 (ぶか)
 
-**Part of Speech:** 名詞
+**品詞:** 名詞
 
-**Definition:** team leader
+**定義:** 位階が下の人；上司に報告する人。
 
-**Reading / Hiragana / Romaji:** チームリーダー (chiimu riidaa)
+**読み / ひらがな / ローマ字:** ぶか (buka)
 
-**Etymology:** 外来語: チームリーダー
+**語源:** 「部」= 部門 + 「下」= 下位。
 
-#### Examples
+#### 例文
 
-- チームリーダーが必要です。 — 必要表現
-- チームリーダーはここにあります。 — 位置/存在
+- **部下**がタスクを完了。 — 報告
+- **部下**を管理。 — 役割
 
-#### Related Terms
+#### 関連語
 
-- チームリーダー — 自動参照
+- ''上司'' / ''管理職'' — 上長
+- ''メンバー'' — 中立用語
+- ''報告する'' — 動詞
 
-#### Cultural Notes
+#### 出典
 
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[business-vocabulary]]
+- [[business-vocabulary-jp]]
 
 ---
 
-### プロジェクト
+### 社員 (しゃいん)
 
-**Part of Speech:** 名詞
+**品詞:** 名詞
 
-**Definition:** project
+**定義:** 組織に雇用されて働く人。
 
-**Reading / Hiragana / Romaji:** プロジェクト (purojekuto)
+**読み / ひらがな / ローマ字:** しゃいん (shain)
 
-**Etymology:** 外来語: プロジェクト
+**語源:** 「社」= 会社 + 「員」= メンバー。
 
-#### Examples
+#### 例文
 
-- プロジェクトが必要です。 — 必要表現
-- プロジェクトはここにあります。 — 位置/存在
+- **社員**500名。 — 人数
+- **社員**福利厚生。 — 人事
 
-#### Related Terms
+#### 関連語
 
-- プロジェクト — 自動参照
+- ''雇用主'' — 雇う側
+- ''スタッフ'' — 集合名詞
+- ''採用'' / ''解雇'' — アクション
 
-#### Cultural Notes
+#### 出典
 
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[business-vocabulary]]
+- [[business-vocabulary-jp]]
 
 ---
 
-### 仕事
+### 代表 (だいひょう)
 
-**Part of Speech:** 名詞
+**品詞:** 名詞
 
-**Definition:** work
+**定義:** 他者やグループのために行動・発言する権限を持つ人。
 
-**Reading / Hiragana / Romaji:** しごと (shigoto)
+**読み / ひらがな / ローマ字:** だいひょう (daihyou)
 
-**Etymology:** 漢字: 仕事 (音読み/訓読みによる語源)
+**語源:** 「代表する」= 代わりに表す。
 
-#### Examples
+#### 例文
 
-- 仕事が必要です。 — 必要表現
-- 仕事はここにあります。 — 位置/存在
+- 営業**代表**。 — 役割
+- 本社**代表**来訪。 — 来訪者
 
-#### Related Terms
+#### 関連語
 
-- 仕事 — 自動参照
+- ''代表者'' — 同義語
+- ''代理人'' — 類似
+- ''エージェント'' — 代理人
 
-#### Cultural Notes
+#### 出典
 
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[business-vocabulary]]
+- [[business-vocabulary-jp]]
 
 ---
 
-### 契約
+### チームリーダー (chiimu riidaa)
 
-**Part of Speech:** 名詞
+**品詞:** 名詞
 
-**Definition:** contract
+**定義:** チームを導く責任者。
 
-**Reading / Hiragana / Romaji:** けいやく (keiyaku)
+**読み / ひらがな / ローマ字:** ちーむりーだー (chiimu riidaa)
 
-**Etymology:** 漢字: 契約 (音読み/訓読みによる語源)
+**語源:** 英語 "team leader" から。カタカナ外来語。
 
-#### Examples
+#### 例文
 
-- 契約が必要です。 — 必要表現
-- 契約はここにあります。 — 位置/存在
+- **チームリーダー**が優先順位決定。 — 役割
+- **チームリーダー**昇進。 — キャリア
 
-#### Related Terms
+#### 関連語
 
-- 契約 — 自動参照
+- ''マネージャー'' — より広い
+- ''リーダー'' — 略語/動詞
+- ''主導する'' — 動詞
 
-#### Cultural Notes
+#### 出典
 
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[business-vocabulary]]
+- [[business-vocabulary-jp]]
 
 ---
 
-### 報告
+### プロジェクト (purojekuto)
 
-**Part of Speech:** 名詞
+**品詞:** 名詞
 
-**Definition:** report
+**定義:** 目標とタイムラインを持つ計画的事業。
 
-**Reading / Hiragana / Romaji:** ほうこく (houkoku)
+**読み / ひらがな / ローマ字:** ぷろじぇくと (purojekuto)
 
-**Etymology:** 漢字: 報告 (音読み/訓読みによる語源)
+**語源:** 英語 "project" から。ラテン語 *projectum* "前方に投げ出されたもの"。
 
-#### Examples
+#### 例文
 
-- 報告が必要です。 — 必要表現
-- 報告はここにあります。 — 位置/存在
+- **プロジェクト**は順調。 — 状態
+- 新**プロジェクト**始動。 — 開始
 
-#### Related Terms
+#### 関連語
 
-- 報告 — 自動参照
+- ''期限'' — 締切
+- ''マイルストーン'' — 重要ポイント
+- ''成果物'' — アウトプット
 
-#### Cultural Notes
+#### 出典
 
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[business-vocabulary]]
+- [[business-vocabulary-jp]]
 
 ---
 
-### 提出
+### 仕事 (しごと)
 
-**Part of Speech:** 名詞
+**品詞:** 名詞
 
-**Definition:** submit
+**定義:** 給与や目的のための活動；業務。
 
-**Reading / Hiragana / Romaji:** ていせい (teisei)
+**読み / ひらがな / ローマ字:** しごと (shigoto)
 
-**Etymology:** 漢字: 提出 (音読み/訓読みによる語源)
+**語源:** 「仕える」+「事」= 仕えること。
 
-#### Examples
+#### 例文
 
-- 提出が必要です。 — 必要表現
-- 提出はここにあります。 — 位置/存在
+- **仕事**は9時開始。 — 名詞（スケジュール）
+- マーケティングで**仕事**しています。 — 動詞的用法（役割）
 
-#### Related Terms
+#### 関連語
 
-- 提出 — 自動参照
+- ''就職'' — ポジション
+- ''キャリア'' — 長期
+- ''タスク'' — 仕事の単位
 
-#### Cultural Notes
+#### 出典
 
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[business-vocabulary]]
+- [[business-vocabulary-jp]]
 
 ---
 
-### 確認
+### 契約 (けいやく)
 
-**Part of Speech:** 名詞
+**品詞:** 名詞
 
-**Definition:** confirm
+**定義:** 法的拘束力のある合意。
 
-**Reading / Hiragana / Romaji:** かくにん (kakunin)
+**読み / ひらがな / ローマ字:** けいやく (keiyaku)
 
-**Etymology:** 漢字: 確認 (音読み/訓読みによる語源)
+**語源:** 「契る」+「約束」= 契り約束。
 
-#### Examples
+#### 例文
 
-- 確認が必要です。 — 必要表現
-- 確認はここにあります。 — 位置/存在
+- **契約**締結。 — 執行
+- **契約**更新。 — 延長
 
-#### Related Terms
+#### 関連語
 
-- 確認 — 自動参照
+- ''合意'' — より広い
+- ''条項'' — 条項
+- ''違約'' — 違反
 
-#### Cultural Notes
+#### 出典
 
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[business-vocabulary]]
+- [[business-vocabulary-jp]]
 
 ---
 
-### 承認
+### 報告 (ほうこく)
 
-**Part of Speech:** 名詞
+**品詞:** 名詞・動詞 (サ変)
 
-**Definition:** approve
+**定義:** (名) 正式報告；(動) 正式に報告する。
 
-**Reading / Hiragana / Romaji:** しょうにん (shounin)
+**読み / ひらがな / ローマ字:** ほうこく (houkoku)
 
-**Etymology:** 漢字: 承認 (音読み/訓読みによる語源)
+**語源:** 「報いる」+「告げる」= 報いて告げる。
 
-#### Examples
+#### 例文
 
-- 承認が必要です。 — 必要表現
-- 承認はここにあります。 — 位置/存在
+- 週次**報告**提出。 — 名詞
+- 上司に**報告**。 — 動詞
 
-#### Related Terms
+#### 関連語
 
-- 承認 — 自動参照
+- ''報告書'' — 文書
+- ''ダッシュボード'' — 可視化報告
+- ''分析'' — データ分析
 
-#### Cultural Notes
+#### 出典
 
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[business-vocabulary]]
+- [[business-vocabulary-jp]]
 
 ---
 
-## Phone/Communication (電話/通信)
+### 提出 (ていせい)
 
-### 電話
+**品詞:** 名詞・動詞 (サ変)
 
-**Part of Speech:** 名詞
+**定義:** 審査や検討のために差し出す。
 
-**Definition:** phone
+**読み / ひらがな / ローマ字:** ていせい (teisei)
 
-**Reading / Hiragana / Romaji:** でんわ (denwa)
+**語源:** 「提げる」+「出す」= 差し出す。
 
-**Etymology:** 漢字: 電話 (音読み/訓読みによる語源)
+#### 例文
 
-#### Examples
+- 申請書を**提出**。 — アクション
+- 期限内に**提出**済み。 — 確認
 
-- 電話が必要です。 — 必要表現
-- 電話はここにあります。 — 位置/存在
+#### 関連語
 
-#### Related Terms
+- ''申請'' — 提出物
+- ''承認'' — 対応
+- ''期限'' — 期日
 
-- 電話 — 自動参照
+#### 出典
 
-#### Cultural Notes
-
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[business-vocabulary]]
+- [[business-vocabulary-jp]]
 
 ---
 
-### 電話番号
+### 確認 (かくにん)
 
-**Part of Speech:** 名詞
+**品詞:** 名詞・動詞 (サ変)
 
-**Definition:** phone number
+**定義:** 真実性や正確さを検証・確定する。
 
-**Reading / Hiragana / Romaji:** でんわばんごう (denwabangou)
+**読み / ひらがな / ローマ字:** かくにん (kakunin)
 
-**Etymology:** 漢字: 電話番号 (音読み/訓読みによる語源)
+**語源:** 「確か」+「認める」= 確かなものと認める。
 
-#### Examples
+#### 例文
 
-- 電話番号が必要です。 — 必要表現
-- 電話番号はここにあります。 — 位置/存在
+- 受領**確認**お願いします。 — 標準依頼
+- 14時で**確認**済み。 — 状態
 
-#### Related Terms
+#### 関連語
 
-- 電話番号 — 自動参照
+- ''確認事項'' — チェックリスト
+- ''検証'' — 同義語
+- ''了承'' — より軽い確認
 
-#### Cultural Notes
+#### 出典
 
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[business-vocabulary]]
+- [[business-vocabulary-jp]]
 
 ---
 
-### 接続
+### 承認 (しょうにん)
 
-**Part of Speech:** 名詞
+**品詞:** 名詞・動詞 (サ変)
 
-**Definition:** connection
+**定義:** 正式に同意・受容する。
 
-**Reading / Hiragana / Romaji:** せつぞく (setsuzoku)
+**読み / ひらがな / ローマ字:** しょうにん (shounin)
 
-**Etymology:** 漢字: 接続 (音読み/訓読みによる語源)
+**語源:** 「承る」+「認める」= 承けて認める。
 
-#### Examples
+#### 例文
 
-- 接続が必要です。 — 必要表現
-- 接続はここにあります。 — 位置/存在
+- 部長が予算を**承認**。 — 権限
+- 条件付きで**承認**。 — 限定付き
 
-#### Related Terms
+#### 関連語
 
-- 接続 — 自動参照
+- ''承認済み'' — 状態
+- ''却下'' — 反対
+- ''認可'' — 正式承認
 
-#### Cultural Notes
+#### 出典
 
-文化的背景情報を追加予定
-
-#### Sources
-
-- [[business-vocabulary]]
+- [[business-vocabulary-jp]]
 
 ---
 
-## Sources
+## 電話・通信
 
-- [[business-vocabulary]]
+### 電話 (でんわ)
+
+**品詞:** 名詞
+
+**定義:** 電話会話。
+
+**読み / ひらがな / ローマ字:** でんわ (denwa)
+
+**語源:** 「電気」+「話」= 電気で話す。
+
+#### 例文
+
+- **電話**をかける。 — アクション
+- 客先から**電話**。 — 着信
+
+#### 関連語
+
+- ''電話する'' — 動詞/名詞
+- ''テレビ会議'' — ビデオ付き
+- ''電話会議'' — 複数者
+
+#### 出典
+
+- [[business-vocabulary-jp]]
+
+---
+
+### メッセージ (messeeji)
+
+**品詞:** 名詞
+
+**定義:** 一人から別の人へ送られる通信。
+
+**読み / ひらがな / ローマ字:** めっせーじ (messeeji)
+
+**語源:** 英語 "message" から。
+
+#### 例文
+
+- **メッセージ**を残す。 — 留守電
+- **メッセージ**送信。 — テキスト/IM
+
+#### 関連語
+
+- ''留守電'' — 音声メッセージ
+- ''SMS'' — ショートメッセージ
+- ''チャット'' — インスタントメッセージ
+
+#### 出典
+
+- [[business-vocabulary-jp]]
+
+---
+
+### 電話番号 (でんわばんごう)
+
+**品詞:** 名詞
+
+**定義:** 電話をかけるための数字列。
+
+**読み / ひらがな / ローマ字:** でんわばんごう (denwabangou)
+
+**語源:** 「電話」+「番号」。
+
+#### 例文
+
+- **電話番号**を教えてください。 — 依頼
+- **電話番号**を登録。 — アクション
+
+#### 関連語
+
+- ''連絡先'' — 保存エントリ
+- ''内線'' — 内部番号
+- ''携帯'' / ''固定'' — タイプ
+
+#### 出典
+
+- [[business-vocabulary-jp]]
+
+---
+
+### 接続 (せつぞく)
+
+**品詞:** 名詞
+
+**定義:** 通話者間のリンク；ネットワークリンクも含む。
+
+**読み / ひらがな / ローマ字:** せつぞく (setsuzoku)
+
+**語源:** 「接する」+「続く」= 接して続く。
+
+#### 例文
+
+- **接続**不良。 — 品質
+- **接続**が切れた。 — 切断
+
+#### 関連語
+
+- ''切断'' — 動詞
+- ''ネットワーク'' — インフラ
+- ''電波'' — 信号強度
+
+#### 出典
+
+- [[business-vocabulary-jp]]
+
+---
+
+## ビジネス表現
+
+### 検討 (けんとう)
+
+**品詞:** 名詞・動詞 (サ変)
+
+**定義:** (動) 正式に検討する；(名) 正式な評価。
+
+**読み / ひらがな / ローマ字:** けんとう (kentou)
+
+**語源:** 「検べる」+「討つ」= 調べて議論する。
+
+#### 例文
+
+- 資料を**検討**ください。 — 依頼
+- 人事**検討**。 — 人事プロセス
+
+#### 関連語
+
+- ''フィードバック'' — 入力
+- ''承認'' — 結果
+- ''修正'' — 検討後のアクション
+
+#### 出典
+
+- [[business-vocabulary-jp]]
+
+---
+
+### 協力 (きょうりょく)
+
+**品詞:** 名詞・動詞 (サ変)
+
+**定義:** 共通目標に向かって共に働くこと。
+
+**読み / ひらがな / ローマ字:** きょうりょく (kyouryoku)
+
+**語源:** 「共に」+「力」= 力を合わせる。
+
+#### 例文
+
+- **ご協力**ありがとうございます。 — 標準クロージング
+- 部署間**協力**。 — 横断的
+
+#### 関連語
+
+- ''協働'' — 動詞
+- ''チームワーク'' — 類似
+- ''提携'' — 正式協力
+
+#### 出典
+
+- [[business-vocabulary-jp]]
+
+---
+
+### 検討かうくみます (けんとう いたします)
+
+**品詞:** フレーズ
+
+**定義:** 何かを検討するよう丁寧に依頼する標準フレーズ。
+
+**読み / ひらがな / ローマ字:** けんとう いたします (kentou itashimasu)
+
+#### 例文
+
+- **ご検討ください**添付資料。 — 標準メール
+- **ご検討の上**ご返信ください。 — アクション付き
+
+#### 関連語
+
+- [[ご確認ください]] — 関連フレーズ
+- ''よろしくご検討ください'' — より丁寧
+
+#### 出典
+
+- [[business-vocabulary-jp]]
+
+---
+
+### ありがとう (ありがとう)
+
+**品詞:** 感動詞・名詞
+
+**定義:** 感謝の表現。
+
+**読み / ひらがな / ローマ字:** ありがとう (arigatou)
+
+**語源:** 「有り難し」= 存在が難しい（珍しい・貴い）→ 有り難う。
+
+#### 例文
+
+- **ありがとうございます**メール。 — 標準
+- **あらかじめ**ありがとう。 — 期待的感謝
+
+#### 関連語
+
+- ''感謝'' — 形式的
+- ''御礼'' — 名詞
+- ''恐縮です'' — 謙譲語
+
+#### 出典
+
+- [[business-vocabulary-jp]]
+
+---
+
+## 文化的背景
+
+### 日本のビジネスメール文化
+
+- **返信** vs **全員返信** の使い分けが重要
+- **CC**（カーボンコピー）・**BCC**（ブラインドカーボンコピー）標準装備
+- **不在通知**（Out of Office）自動返信が標準
+- **アクションアイテム** = 会議で割り振られるタスク
+- **ご検討ください**・**ご確認ください**・**ご承知おきください** = 定型フレーズ三種の神器
+
+### 会議文化
+
+- 日本: 合意形成重視、根回し事前調整
+- 米国: 直接的、タイムボックス厳守
+- **持ち帰り検討** = 持ち帰って検討する
+- **宿題** = 次回までのアクションアイテム
+
+### 敬語の使い分け
+
+- **尊敬語** (相手を高める): いらっしゃる、おっしゃる、なさる
+- **謙譲語** (自分を低める): 伺う、申す、いたす
+- **丁寧語** (丁寧に): です・ます
+- ビジネスメールでは「〜させていただく」「〜ご連絡申し上げます」多用
+
+### 季節の挨拶
+
+- **時候の挨拶** = 季節の決まり文句（例:「拝啓、初夏の候、貴社益々ご清栄のこととお慶び申し上げます」）
+- 省略傾向あり（簡潔化）
+
+---
+
+## 出典
+
+- JLPT N3-N4 語彙リスト
+- ビジネス日本語教科書
+- [[dating-romance-jp]] — 日本のビジネスシチュエーション学習用
 
 ---
 
@@ -1165,43 +1245,48 @@ This page aggregates all business vocabulary for the typing language game corpus
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: jp_business_001, display: "メール", input: "メール", meaning: "email", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
-- { id: jp_business_002, display: "住所", input: "住所", meaning: "address", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
-- { id: jp_business_003, display: "送信者", input: "送信者", meaning: "sender", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
-- { id: jp_business_004, display: "受信者", input: "受信者", meaning: "recipient", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
-- { id: jp_business_005, display: "件名", input: "件名", meaning: "subject", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
-- { id: jp_business_006, display: "添付", input: "添付", meaning: "attachment", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
-- { id: jp_business_007, display: "送る", input: "送る", meaning: "send", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
-- { id: jp_business_008, display: "受け取る", input: "受け取る", meaning: "receive", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
-- { id: jp_business_009, display: "返信", input: "返信", meaning: "reply", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
-- { id: jp_business_010, display: "保存", input: "保存", meaning: "save", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
-- { id: jp_business_011, display: "削除", input: "削除", meaning: "delete", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
-- { id: jp_business_012, display: "会議", input: "会議", meaning: "meeting", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
-- { id: jp_business_013, display: "スケジュール", input: "スケジュール", meaning: "schedule", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
-- { id: jp_business_014, display: "議題", input: "議題", meaning: "agenda", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
-- { id: jp_business_015, display: "発表", input: "発表", meaning: "presentation", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
-- { id: jp_business_016, display: "意見", input: "意見", meaning: "opinion", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
-- { id: jp_business_017, display: "決定", input: "決定", meaning: "decision", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
-- { id: jp_business_018, display: "合意", input: "合意", meaning: "agreement", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
-- { id: jp_business_019, display: "記録", input: "記録", meaning: "record", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
-- { id: jp_business_020, display: "場所", input: "場所", meaning: "location", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
-- { id: jp_business_021, display: "延期", input: "延期", meaning: "postpone", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
-- { id: jp_business_022, display: "会社", input: "会社", meaning: "company", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
-- { id: jp_business_023, display: "事務所", input: "事務所", meaning: "office", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
-- { id: jp_business_024, display: "同僚", input: "同僚", meaning: "colleague", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
-- { id: jp_business_025, display: "上司", input: "上司", meaning: "boss", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
-- { id: jp_business_026, display: "部下", input: "部下", meaning: "subordinate", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
-- { id: jp_business_027, display: "社員", input: "社員", meaning: "employee", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
-- { id: jp_business_028, display: "代表", input: "代表", meaning: "representative", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
-- { id: jp_business_029, display: "チームリーダー", input: "チームリーダー", meaning: "team leader", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
-- { id: jp_business_030, display: "プロジェクト", input: "プロジェクト", meaning: "project", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
-- { id: jp_business_031, display: "仕事", input: "仕事", meaning: "work", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
-- { id: jp_business_032, display: "契約", input: "契約", meaning: "contract", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
-- { id: jp_business_033, display: "報告", input: "報告", meaning: "report", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
-- { id: jp_business_034, display: "提出", input: "提出", meaning: "submit", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
-- { id: jp_business_035, display: "確認", input: "確認", meaning: "confirm", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
-- { id: jp_business_036, display: "承認", input: "承認", meaning: "approve", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
-- { id: jp_business_037, display: "電話", input: "電話", meaning: "phone", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
-- { id: jp_business_038, display: "電話番号", input: "電話番号", meaning: "phone number", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
-- { id: jp_business_039, display: "接続", input: "接続", meaning: "connection", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_001, display: "メール", input: "メール", meaning: "이메일", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_002, display: "住所", input: "住所", meaning: "주소", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_003, display: "送信者", input: "送信者", meaning: "보낸 사람", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_004, display: "受信者", input: "受信者", meaning: "받는 사람", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_005, display: "件名", input: "件名", meaning: "제목", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_006, display: "添付", input: "添付", meaning: "첨부", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_007, display: "送る", input: "送る", meaning: "보내다", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_008, display: "受け取る", input: "受け取る", meaning: "받다", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_009, display: "返信", input: "返信", meaning: "답장", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_010, display: "保存", input: "保存", meaning: "저장", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_011, display: "削除", input: "削除", meaning: "삭제", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_012, display: "会議", input: "会議", meaning: "회의", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_013, display: "スケジュール", input: "スケジュール", meaning: "일정", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_014, display: "議題", input: "議題", meaning: "안건", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_015, display: "発表", input: "発表", meaning: "발표", level: "N4", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_016, display: "意見", input: "意見", meaning: "의견", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_017, display: "決定", input: "決定", meaning: "결정", level: "N4", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_018, display: "合意", input: "合意", meaning: "합의", level: "N4", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_019, display: "記録", input: "記録", meaning: "기록", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_020, display: "場所", input: "場所", meaning: "장소", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_021, display: "延期", input: "延期", meaning: "연기", level: "N4", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_022, display: "会社", input: "会社", meaning: "회사", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_023, display: "事務所", input: "事務所", meaning: "사무실", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_024, display: "同僚", input: "同僚", meaning: "동료", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_025, display: "上司", input: "上司", meaning: "상사", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_026, display: "部下", input: "部下", meaning: "부하", level: "N4", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_027, display: "社員", input: "社員", meaning: "직원", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_028, display: "代表", input: "代表", meaning: "대표", level: "N4", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_029, display: "チームリーダー", input: "チームリーダー", meaning: "팀장", level: "N4", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_030, display: "プロジェクト", input: "プロジェクト", meaning: "프로젝트", level: "N4", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_031, display: "仕事", input: "仕事", meaning: "업무", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_032, display: "契約", input: "契約", meaning: "계약", level: "N4", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_033, display: "報告", input: "報告", meaning: "보고서", level: "N4", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_034, display: "提出", input: "提出", meaning: "제출", level: "N4", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_035, display: "確認", input: "確認", meaning: "확인", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_036, display: "承認", input: "承認", meaning: "승인", level: "N4", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_037, display: "電話", input: "電話", meaning: "전화", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_038, display: "メッセージ", input: "メッセージ", meaning: "메시지", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_039, display: "電話番号", input: "電話番号", meaning: "전화번호", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_040, display: "接続", input: "接続", meaning: "연결", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_041, display: "検討", input: "検討", meaning: "검토", level: "N4", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_042, display: "協力", input: "協力", meaning: "협조", level: "N4", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_043, display: "ご検討ください", input: "ご検討ください", meaning: "검토 부탁드립니다", level: "N4", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
+- { id: jp_business_044, display: "ありがとう", input: "ありがとう", meaning: "감사합니다", level: "N5", category: "business-vocabulary", source: "[[business-vocabulary-jp]]" }
 ```
