@@ -549,9 +549,9 @@
 - Linguistic literature on L2 errors (Selinker 1972, Ellis 1994, Richards 1974)
 - Specific error catalogs: Marckwardt (1958) English errors, Pinilla (2002) Spanish errors
 - Teaching experience (FSI, ACTFL proficiency standards)
-- `[[wiki/English/vocabulary/basic-vocabulary]]`
-- `[[wiki/Spanish/vocabulary/basic-vocabulary]]`
-- `[[wiki/Japanese/index]]`
-- `[[wiki/Korean/index]]`
-- `[[wiki/Chinese/index]]`
-- `[[wiki/Chinese/sources/pinyin-basics-zh]]`
+- `[English/vocabulary/basic-vocabulary]`
+- `[Spanish/vocabulary/basic-vocabulary]`
+- `[[index]]`
+- `[[index]]`
+- `[[index]]`
+- `[Chinese/sources/pinyin-basics-zh]`

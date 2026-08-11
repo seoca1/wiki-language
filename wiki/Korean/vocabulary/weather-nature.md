@@ -520,14 +520,14 @@ source: "nature-vocabulary"
 
 ## Related Pages
 
-- `[[expressions/daily-life]]` — Daily life expressions (weather talk)
-- `[[expressions/travel-basics]]` — Travel expressions
+- `[[daily-life]]` — Daily life expressions (weather talk)
+- `[[travel-basics]]` — Travel expressions
 - `[[Language/wiki/comparative/weather-seasons]]` — Cross-language weather comparison
 - `[[Language/wiki/comparative/numbers-counters]]` — Numbers (temperature, dates)
 - `[[Language/wiki/comparative/time-calendar]]` — Time and calendar systems
-- `[[wiki/Korean/index]]` — Korean wiki main
-- `[[wiki/Korean/expressions/daily-life]]` — Daily life
-- `[[wiki/Korean/culture/korean-family-holidays]]` — Korean holidays (weather dependent)
+- `[[index]]` — Korean wiki main
+- `[Korean/expressions/daily-life]` — Daily life
+- `[Korean/culture/korean-family-holidays]` — Korean holidays (weather dependent)
 
 ---
 

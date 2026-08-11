@@ -187,8 +187,8 @@
 
 ## Sources
 
-- English: `[[wiki/English/culture/english-dating-culture]]`, `[[wiki/English/vocabulary/emotions-personality-vocabulary]]`
-- Spanish: `[[wiki/Spanish/culture/espana-vs-latinoamerica-registro]]`, `[[wiki/Spanish/vocabulary/emotions-personality-vocabulary]]`
-- Japanese: `[[wiki/Japanese/culture/japanese-dating-culture]]`, `[[wiki/Japanese/vocabulary/emotions-personality-vocabulary]]`
-- Korean: `[[wiki/Korean/culture/korean-dating-culture]]`, `[[wiki/Korean/vocabulary/emotions-personality-vocabulary]]`
-- Chinese: `[[wiki/Chinese/sources/greetings-zh]]`, `[[wiki/Chinese/vocabulary/family-zh]]`
+- English: `[English/culture/english-dating-culture]`, `[English/vocabulary/emotions-personality-vocabulary]`
+- Spanish: `[Spanish/culture/espana-vs-latinoamerica-registro]`, `[Spanish/vocabulary/emotions-personality-vocabulary]`
+- Japanese: `[Japanese/culture/japanese-dating-culture]`, `[Japanese/vocabulary/emotions-personality-vocabulary]`
+- Korean: `[Korean/culture/korean-dating-culture]`, `[Korean/vocabulary/emotions-personality-vocabulary]`
+- Chinese: `[Chinese/sources/greetings-zh]`, `[Chinese/vocabulary/family-zh]`

@@ -394,8 +394,8 @@
 - Japanese emotion concepts: Lebra (1993) *Japanese Women*
 - Korean emotion concepts: Choi (2008) *Han and Modern Korean Society*
 - Chinese emotion concepts: Kleinman (1986) *Social Origins of Distress and Disease*
-- `[[wiki/English/vocabulary/emotions-personality-vocabulary]]`
-- `[[wiki/Spanish/vocabulary/emotions-personality-vocabulary]]`
-- `[[wiki/Japanese/vocabulary/emotions-personality-vocabulary]]`
-- `[[wiki/Korean/vocabulary/emotions-personality-vocabulary]]`
-- `[[wiki/Chinese/vocabulary/body-zh]]`
+- `[English/vocabulary/emotions-personality-vocabulary]`
+- `[Spanish/vocabulary/emotions-personality-vocabulary]`
+- `[Japanese/vocabulary/emotions-personality-vocabulary]`
+- `[Korean/vocabulary/emotions-personality-vocabulary]`
+- `[Chinese/vocabulary/body-zh]`

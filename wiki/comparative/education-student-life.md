@@ -594,11 +594,11 @@
 - [[untranslatable-concepts]] — Education concepts
 - [[time-calendar]] — School calendars
 - [[master-cheatsheet]] — Quick reference
-- `[[wiki/English/culture/english-workplace-culture]]` — Work culture
+- `[English/culture/english-workplace-culture]` — Work culture
 - `[[Language/wiki/Chinese/culture/family-and-filial-piety]]` — Family education
-- `[[wiki/Korean/culture/korean-family-holidays]]` — Korean holidays
-- `[[wiki/Japanese/culture/japanese-food-culture]]` — School lunch culture
-- `[[wiki/Spanish/culture/espana-vs-latinoamerica-registro]]` — Educational register variations
+- `[Korean/culture/korean-family-holidays]` — Korean holidays
+- `[Japanese/culture/japanese-food-culture]` — School lunch culture
+- `[Spanish/culture/espana-vs-latinoamerica-registro]` — Educational register variations
 
 ---
 
@@ -614,10 +614,10 @@
 - Ministerio de Educación (Spain)
 - U.S. Department of Education — National Center for Education Statistics
 - Britannica — Education systems comparison
-- `[[wiki/English/vocabulary/basic-vocabulary]]`
-- `[[wiki/Spanish/vocabulary/basic-vocabulary]]`
-- `[[wiki/Japanese/vocabulary/basic-vocabulary]]`
-- `[[wiki/Korean/vocabulary/basic-vocabulary]]`
-- `[[wiki/Chinese/vocabulary/basic-vocabulary]]`
+- `[English/vocabulary/basic-vocabulary]`
+- `[Spanish/vocabulary/basic-vocabulary]`
+- `[Japanese/vocabulary/basic-vocabulary]`
+- `[Korean/vocabulary/basic-vocabulary]`
+- `[Chinese/vocabulary/basic-vocabulary]`
 - [[untranslatable-concepts]]
 - [[cultural-values]]

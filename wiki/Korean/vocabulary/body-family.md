@@ -519,13 +519,13 @@ source: "family-vocabulary"
 
 ## Related Pages
 
-- `[[expressions/daily-life]]` — Daily life expressions (body/health talk)
-- `[[expressions/travel-basics]]` — Travel expressions (health)
+- `[[daily-life]]` — Daily life expressions (body/health talk)
+- `[[travel-basics]]` — Travel expressions (health)
 - `[[Language/wiki/comparative/family-kinship]]` — Family relationships
 - `[[Language/wiki/comparative/emotions]]` — Emotional vocabulary
 - `[[Language/wiki/comparative/cultural-values]]` — Family values
-- `[[wiki/Korean/index]]` — Korean wiki main
-- `[[wiki/Korean/culture/korean-family-holidays]]` — Korean holidays
+- `[[index]]` — Korean wiki main
+- `[Korean/culture/korean-family-holidays]` — Korean holidays
 
 ---
 

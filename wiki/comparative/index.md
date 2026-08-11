@@ -1,6 +1,6 @@
 # Cross-Language Comparative Wiki — Index
 
-**Last updated**: 2026-08-10 (11 new pages: sports-comparison, career-workplace-comparison, quotes-famous-lines-comparison, entertainment-pop-culture-comparison, adventure-outdoor-comparison, literature-genres-comparison, clothing-fashion-comparison, colors-comparison, animals-comparison, family-roles-comparison, directions-navigation-comparison)
+**Last updated**: 2026-08-11 (5 new pages: daily-life-comparison, time-prepositions-comparison, polite-expressions-comparison, restaurant-comparison, grammar-cross-language-comparison)
 
 > **Scope**: Systematic side-by-side comparisons across **English, Spanish, Japanese, Korean, Chinese** — the five languages in this vault.
 > **Convention**: Each page follows a structured table format with per-language columns + synthesis notes. Sources cited via [[wiki/{Language}/...]] wikilinks.
@@ -17,9 +17,11 @@
 | [[pronouns-reference]] | EN / ES / JP / KR / CH | Personal, demonstrative, interrogative, zero-pronoun |
 | [[negation]] | EN / ES / JP / KR / CH | Negation particles, double negation, scope |
 | [[emotions]] | EN / ES / JP / KR / CH | Happy/sad/angry vocabulary, cultural display rules, untranslatable emotions |
+| [[polite-expressions-comparison]] | EN / ES / JP / KR / CH | Please/thank you/sorry/excuse me + politeness register map |
 | [[weather-seasons]] | EN / ES / JP / KR / CH | Weather conditions, seasons, climate, holidays, weather small talk |
 | [[mood-systems]] | EN / ES / JP / KR / CH | Indicative vs. subjunctive vs. imperative — mood systems across 5 languages |
 | [[tense-aspect-systems]] | EN / ES / JP / KR / CH | Tense and aspect encoding comparison — preterite/imperfect, 了/过, て-form completions |
+| [[adjectives-comparison]] | EN / ES / JP / KR / CH | Descriptive adjectives — agreement, placement, comparison, degree |
 
 ---
 
@@ -33,6 +35,7 @@
 | [[dating-romance]] | EN / ES / JP / KR / CH | Confession, dating stages, terms of endearment, breakup |
 | [[shopping-money]] | EN / ES / JP / KR / CH | Prices, bargaining, payment, receipts, returns |
 | [[health-body]] | EN / ES / JP / KR / CH | Symptoms, pharmacy, doctor visit, body parts |
+| [[medical-comparison]] | EN / ES / JP / KR / CH | Medical professionals, hospital departments, body systems, symptoms |
 | [[time-calendar]] | EN / ES / JP / KR / CH | Clock time, dates, holidays, relative time expressions |
 | [[transportation]] | EN / ES / JP / KR / CH | Metro/train/bus systems, driving, ride-share apps |
 | [[holidays-celebrations]] | EN / ES / JP / KR / CH | Major holidays, greetings, food, gift-giving customs |
@@ -42,6 +45,10 @@
 | [[adventure-outdoor-comparison]] | EN / ES / JP / KR / CH | Hiking, camping, gear, safety, wilderness |
 | [[directions-navigation-comparison]] | EN / ES / JP / KR / CH | Cardinal directions, location phrases, navigation |
 | [[tradiciones-veraniegas]] | ES ↔ JP ↔ KR ↔ EN ↔ CH | Summer siesta traditions — siesta vs. 昼寝 (hirune) vs. 낮잠 (natjam) vs. power nap |
+| [[money-finance-comparison]] | EN / ES / JP / KR / CH | Currency, banking, payment methods, investment, insurance |
+| [[daily-life-comparison]] | EN / ES / JP / KR / CH | Daily routine verbs (eat/sleep/work/exercise/study) + conjugation patterns |
+| [[time-prepositions-comparison]] | EN / ES / JP / KR / CH | Time words + prepositions + JP particles (に/で/を/へ) + KR particles (에/에서/으로) |
+| [[restaurant-comparison]] | EN / ES / JP / KR / CH | Restaurant flow: ordering, menu, payment, reservation |
 
 ---
 
@@ -60,6 +67,7 @@
 | [[lunch-and-rest-patterns]] | EN ↔ ES ↔ JP ↔ KR ↔ CH | Midday meal + rest traditions — lunch timing, post-meal rest, workplace nap culture |
 | [[colors-comparison]] | EN / ES / JP / KR / CH | Basic + extended colors, cultural symbolism, gender agreement |
 | [[animals-comparison]] | EN / ES / JP / KR / CH | Domestic, wild, marine, birds, insects, mythological animals |
+| [[art-crafts-comparison]] | EN / ES / JP / KR / CH | Visual arts, traditional crafts, materials, exhibition vocabulary |
 | [[lengua-espanola-hispanohablantes]] | ES regional | Spanish dialectal variation — castellano, mexicano, rioplatense, andino, caribeño |
 
 ---
@@ -74,6 +82,7 @@
 | [[master-cheatsheet]] | EN / ES / JP / KR / CH | One-page quick reference per language (print/memorize) |
 | [[education-student-life]] | EN / ES / JP / KR / CH | School systems, exams (Gaokao, Su-neung, Center Shiken), cram schools, university culture |
 | [[diatopic-variation-patterns]] | EN ↔ ES ↔ JP ↔ KR ↔ CH | Regional dialect variation patterns — standardized forms, prestige varieties, mutual intelligibility |
+| [[grammar-cross-language-comparison]] | EN / ES / JP / KR / CH | SVO/SOV word order, tense/aspect systems, politeness markers, articles |
 
 ---
 
@@ -86,6 +95,7 @@
 | [[literature-genres-comparison]] | EN / ES / JP / KR / CH | Literary forms, genres, cultural-specific (wuxia, light novel, webtoon) |
 | [[entertainment-pop-culture-comparison]] | EN / ES / JP / KR / CH | Film, TV, animation, music, fandom culture |
 | [[quotes-famous-lines-comparison]] | EN / ES / JP / KR / CH | Iconic movie/literary quotes, proverb patterns, translation strategies |
+| [[music-comparison]] | EN / ES / JP / KR / CH | Instruments, genres, music theory, industry vocabulary |
 | [[learning-resources]] | EN / ES / JP / KR / CH | Apps, podcasts, textbooks, YouTube, immersion |
 
 ---
@@ -128,7 +138,7 @@
 
 ## Statistics
 
-- **Total comparative pages**: 37 (excluding index/log/template)
+- **Total comparative pages**: 42 (excluding index/log/template)
 - **Categories**: 6 (Core, Situational, Cultural, Learning, Modern, Reference)
 - **Languages covered**: 5 (EN, ES, JP, KR, CH)
-- **Last update batch**: 2026-07-29 — 6 new cross-cutting pages: [[mood-systems]], [[tense-aspect-systems]], [[lengua-espanola-hispanohablantes]], [[tradiciones-veraniegas]], [[lunch-and-rest-patterns]], [[diatopic-variation-patterns]]
+- **Last update batch**: 2026-08-11 — 5 new pages: [[daily-life-comparison]], [[time-prepositions-comparison]], [[polite-expressions-comparison]], [[restaurant-comparison]], [[grammar-cross-language-comparison]]

@@ -194,8 +194,8 @@
 
 ## Sources
 
-- English: `[[wiki/English/vocabulary/food-vocabulary]]`, `[[wiki/English/vocabulary/travel]]`
-- Spanish: `[[wiki/Spanish/vocabulary/food-vocabulary]]`, `[[wiki/Spanish/vocabulary/restaurant-vocabulary]]`, `[[wiki/Spanish/vocabulary/mexican_food-vocabulary]]`
-- Japanese: `[[wiki/Japanese/vocabulary/food-vocabulary]]`, `[[wiki/Japanese/sources/food-and-dining]]`
-- Korean: `[[wiki/Korean/vocabulary/food-vocabulary]]`, `[[wiki/Korean/sources/food-and-dining]]`
-- Chinese: `[[wiki/Chinese/vocabulary/measure-words-zh]]`, `[[wiki/Chinese/sources/daily-routine-zh]]`
+- English: `[English/vocabulary/food-vocabulary]`, `[English/vocabulary/travel]`
+- Spanish: `[Spanish/vocabulary/food-vocabulary]`, `[Spanish/vocabulary/restaurant-vocabulary]`, `[Spanish/vocabulary/mexican_food-vocabulary]`
+- Japanese: `[Japanese/vocabulary/food-vocabulary]`, `[Japanese/sources/food-and-dining]`
+- Korean: `[Korean/vocabulary/food-vocabulary]`, `[Korean/sources/food-and-dining]`
+- Chinese: `[Chinese/vocabulary/measure-words-zh]`, `[Chinese/sources/daily-routine-zh]`

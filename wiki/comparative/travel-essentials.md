@@ -200,8 +200,8 @@
 
 ## Sources
 
-- English: `[[wiki/English/vocabulary/travel]]`
-- Spanish: `[[wiki/Spanish/vocabulary/viajes]]`, `[[wiki/Spanish/vocabulary/transportation-vocabulary]]`
-- Japanese: `[[wiki/Japanese/vocabulary/travel]]`, `[[wiki/Japanese/sources/travel-basics]]`
-- Korean: `[[wiki/Korean/vocabulary/여행]]`, `[[wiki/Korean/sources/travel-basics-kr]]`
-- Chinese: `[[wiki/Chinese/vocabulary/numbers-zh]]`, `[[wiki/Chinese/sources/daily-routine-zh]]`
+- English: `[English/vocabulary/travel]`
+- Spanish: `[Spanish/vocabulary/viajes]`, `[Spanish/vocabulary/transportation-vocabulary]`
+- Japanese: `[Japanese/vocabulary/travel]`, `[Japanese/sources/travel-basics]`
+- Korean: `[[wiki/Korean/vocabulary/여행]]`, `[Korean/sources/travel-basics-kr]`
+- Chinese: `[Chinese/vocabulary/numbers-zh]`, `[Chinese/sources/daily-routine-zh]`

@@ -171,7 +171,7 @@ Added 5 final comparative pages rounding out the wiki to 24 total pages:
 - Updated `Language/wiki/pipeline-to-game.md` — added comparative wiki to "Related Documents" section
 - Updated `Language/README.md` — added comparative wiki to structure tree + new "Cross-Language Comparisons" section
 - Fixed 3 broken wikilinks in `Language/wiki/Japanese/vocabulary/{animals,clothing,business}-vocabulary.md`
-  (Source: `[[wiki/Japanese/vocabulary/animals-vocabulary]]` → `[[wiki/Japanese/vocabulary/animals-vocabulary]]` etc.)
+  (Source: `[Japanese/vocabulary/animals-vocabulary]` → `[Japanese/vocabulary/animals-vocabulary]` etc.)
 - Full vault wikilink audit: 1693 wikilinks across 823 files, 0 broken (excluding 2 protected placeholders in `_inventory/` and `_publish/`)
 
 ## [2026-07-19] batch | 3 additional comparative pages

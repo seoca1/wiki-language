@@ -39,7 +39,7 @@
 
 **Regional**: *Estimado* (Spain) vs *Estimado/a* (LatAm gender agreement); *Usted* implied in formal
 
-### Japanese (from `[[wiki/Japanese/sources/business-email]]`)
+### Japanese (from `[Japanese/sources/business-email]`)
 | Relationship | Salutation |
 |--------------|------------|
 | External (standard) | 株式会社〇〇 〇〇部 〇〇様 |
@@ -50,7 +50,7 @@
 
 **Key**: Company → Department → Title/Name → 様 — never just name-sama for external
 
-### Korean (from `[[wiki/Korean/sources/daily-life-basics]]`)
+### Korean (from `[Korean/sources/daily-life-basics]`)
 | Relationship | Salutation |
 |--------------|------------|
 | External (standard) | ㈜○○ ○○팀 ○○님 / ○○부장님 |
@@ -134,7 +134,7 @@
 
 **LatAm**: *Quedo a su disposición* common before closing
 
-### Japanese (from `[[wiki/Japanese/sources/business-email]]`)
+### Japanese (from `[Japanese/sources/business-email]`)
 | Formality | Closing |
 |-----------|---------|
 | Standard external | よろしくお願いいたします。 |
@@ -145,7 +145,7 @@
 
 **Never omit** — even internal emails end with *yoroshiku onegaishimasu*
 
-### Korean (from `[[wiki/Korean/sources/daily-life-basics]]`)
+### Korean (from `[Korean/sources/daily-life-basics]`)
 | Formality | Closing |
 |-----------|---------|
 | Standard external | 잘 부탁드립니다. / 감사합니다. |
@@ -269,7 +269,7 @@ Atentamente,
 [Nombre]
 ```
 
-### Japanese (from `[[wiki/Japanese/sources/business-email]]`)
+### Japanese (from `[Japanese/sources/business-email]`)
 ```
 件名：【ご相談】〇〇の件について（日程調整のお願い）
 
@@ -395,8 +395,8 @@ Atentamente,
 
 ## Sources
 
-- English: `[[wiki/English/vocabulary/business-vocabulary]]`, `[[wiki/English/culture/english-dating-culture]]`
-- Spanish: `[[wiki/Spanish/vocabulary/business-vocabulary]]`, `[[wiki/Spanish/sources/trabajo-y-carrera]]`, `[[wiki/Spanish/culture/espana-vs-latinoamerica-registro]]`
-- Japanese: `[[wiki/Japanese/vocabulary/business-vocabulary]]`, `[[wiki/Japanese/sources/business-email]]`
-- Korean: `[[wiki/Korean/vocabulary/business-vocabulary]]`, `[[wiki/Korean/sources/daily-life-basics]]`
-- Chinese: `[[wiki/Chinese/sources/greetings-zh]]`, `[[wiki/Chinese/sources/daily-routine-zh]]`
+- English: `[English/vocabulary/business-vocabulary]`, `[English/culture/english-dating-culture]`
+- Spanish: `[Spanish/vocabulary/business-vocabulary]`, `[Spanish/sources/trabajo-y-carrera]`, `[Spanish/culture/espana-vs-latinoamerica-registro]`
+- Japanese: `[Japanese/vocabulary/business-vocabulary]`, `[Japanese/sources/business-email]`
+- Korean: `[Korean/vocabulary/business-vocabulary]`, `[Korean/sources/daily-life-basics]`
+- Chinese: `[Chinese/sources/greetings-zh]`, `[Chinese/sources/daily-routine-zh]`

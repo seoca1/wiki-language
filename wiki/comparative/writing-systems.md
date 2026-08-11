@@ -297,11 +297,11 @@ CVCC:  값 (gaps) = ㄱ + ㅏ + ㄱ + ㅅ (final cluster)
 
 ## Sources
 
-- `[[wiki/English/vocabulary/basic-vocabulary]]`
-- `[[wiki/Spanish/vocabulary/basic-vocabulary]]`
-- `[[wiki/Japanese/index]]`, `[[wiki/Japanese/vocabulary/jp-counters]]`, `[[wiki/Japanese/vocabulary/kanji-n5]]`
-- `[[wiki/Korean/index]]`, `[[wiki/Korean/vocabulary/topik1-starter]]`
-- `[[wiki/Chinese/vocabulary/body-zh]]`, `[[wiki/Chinese/sources/pinyin-basics-zh]]`
+- `[English/vocabulary/basic-vocabulary]`
+- `[Spanish/vocabulary/basic-vocabulary]`
+- `[[index]]`, `[Japanese/vocabulary/jp-counters]`, `[Japanese/vocabulary/kanji-n5]`
+- `[[index]]`, `[Korean/vocabulary/topik1-starter]`
+- `[Chinese/vocabulary/body-zh]`, `[Chinese/sources/pinyin-basics-zh]`
 - Unicode Consortium — *Unicode Standard*
 - DeFrancis, J. (1989) *Visible Speech: The Diverse Oneness of Writing Systems*
 - Taylor, I. & Olson, D.R. (1995) *Scripts and Literacy*

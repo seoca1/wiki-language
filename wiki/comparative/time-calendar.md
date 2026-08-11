@@ -274,8 +274,8 @@
 
 ## Sources
 
-- English: `[[wiki/English/vocabulary/basic-vocabulary]]`, `[[wiki/English/vocabulary/travel]]`
-- Spanish: `[[wiki/Spanish/vocabulary/basic-vocabulary]]`, `[[wiki/Spanish/vocabulary/time-prepositions-vocabulary]]`
-- Japanese: `[[wiki/Japanese/index]]`, `[[wiki/Japanese/vocabulary/jp-counters]]`
-- Korean: `[[wiki/Korean/index]]`, `[[wiki/Korean/vocabulary/topik1-starter]]`
-- Chinese: `[[wiki/Chinese/vocabulary/numbers-zh]]`, `[[wiki/Chinese/sources/pinyin-basics-zh]]`
+- English: `[English/vocabulary/basic-vocabulary]`, `[English/vocabulary/travel]`
+- Spanish: `[Spanish/vocabulary/basic-vocabulary]`, `[Spanish/vocabulary/time-prepositions-vocabulary]`
+- Japanese: `[[index]]`, `[Japanese/vocabulary/jp-counters]`
+- Korean: `[[index]]`, `[Korean/vocabulary/topik1-starter]`
+- Chinese: `[Chinese/vocabulary/numbers-zh]`, `[Chinese/sources/pinyin-basics-zh]`

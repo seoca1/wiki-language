@@ -365,8 +365,8 @@
 - StatCounter Global Stats (2024) — Search engine market share
 - DataReportal — Digital 2024 country reports
 - Sensor Tower — App rankings
-- `[[wiki/English/index]]`
-- `[[wiki/Spanish/vocabulary/basic-vocabulary]]`, `[[wiki/Spanish/index]]`
-- `[[wiki/Japanese/vocabulary/business-vocabulary]]`, `[[wiki/Japanese/sources/technology-and-internet]]`
-- `[[wiki/Korean/index]]`, `[[wiki/Korean/sources/technology-and-internet]]`
-- `[[wiki/Chinese/index]]`, `[[wiki/Chinese/sources/pinyin-basics-zh]]`
+- `[[index]]`
+- `[Spanish/vocabulary/basic-vocabulary]`, `[[index]]`
+- `[Japanese/vocabulary/business-vocabulary]`, `[Japanese/sources/technology-and-internet]`
+- `[[index]]`, `[Korean/sources/technology-and-internet]`
+- `[[index]]`, `[Chinese/sources/pinyin-basics-zh]`

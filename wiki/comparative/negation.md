@@ -299,8 +299,8 @@
 
 ## Sources
 
-- English: `[[wiki/English/vocabulary/basic-vocabulary]]`
-- Spanish: `[[wiki/Spanish/vocabulary/basic-vocabulary]]`, `[[wiki/Spanish/culture/espana-vs-latinoamerica-registro]]`
-- Japanese: `[[wiki/Japanese/index]]`, `[[wiki/Japanese/vocabulary/jp-counters]]`
-- Korean: `[[wiki/Korean/index]]`, `[[wiki/Korean/vocabulary/topik1-starter]]`
-- Chinese: `[[wiki/Chinese/vocabulary/body-zh]]`, `[[wiki/Chinese/sources/pinyin-basics-zh]]`
+- English: `[English/vocabulary/basic-vocabulary]`
+- Spanish: `[Spanish/vocabulary/basic-vocabulary]`, `[Spanish/culture/espana-vs-latinoamerica-registro]`
+- Japanese: `[[index]]`, `[Japanese/vocabulary/jp-counters]`
+- Korean: `[[index]]`, `[Korean/vocabulary/topik1-starter]`
+- Chinese: `[Chinese/vocabulary/body-zh]`, `[Chinese/sources/pinyin-basics-zh]`

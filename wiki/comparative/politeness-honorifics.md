@@ -29,7 +29,7 @@
   - Formal: "Would you be so kind as to...", "I would appreciate it if..."
   - Neutral: "Could you please...", "Please..."
   - Informal: "Can you...", "Hey, ..."
-- **Sources**: `[[wiki/English/vocabulary/basic-vocabulary]]`, `[[wiki/English/culture/english-dating-culture]]`
+- **Sources**: `[English/vocabulary/basic-vocabulary]`, `[English/culture/english-dating-culture]`
 
 ### Spanish
 - **Key terms**: tú / usted / vosotros / ustedes, *don/doña*, *usted* verb forms (3rd person), *tuteo* vs *ustedeo*
@@ -43,7 +43,7 @@
   - **Mexico/Colombia/Peru**: usted default even among young people in some contexts
   - **Argentina/Uruguay/Paraguay**: *vos* replaces *tú* (voseo) — distinct conjugation
   - **Caribbean**: *usted* more frequent, *tú* reserved for close intimacy
-- **Sources**: `[[wiki/Spanish/vocabulary/polite-expressions-vocabulary]]`, `[[wiki/Spanish/culture/espana-vs-latinoamerica-registro]]`
+- **Sources**: `[Spanish/vocabulary/polite-expressions-vocabulary]`, `[Spanish/culture/espana-vs-latinoamerica-registro]`
 
 ### Japanese
 - **Key terms**: 
@@ -57,7 +57,7 @@
   - Polite (丁寧語): 行きます, 食べます, 知っています — strangers, colleagues, default
   - Honorific (尊敬語): いらっしゃいます, 召し上がります, ご存知です — customers, superiors, elders
   - Humble (謙譲語): 参ります, いただきます, 拝見します — talking about self to superiors
-- **Sources**: `[[wiki/Japanese/vocabulary/business-vocabulary]]`, `[[wiki/Japanese/culture/japanese-dating-culture]]`
+- **Sources**: `[Japanese/vocabulary/business-vocabulary]`, `[Japanese/culture/japanese-dating-culture]`
 
 ### Korean
 - **Key terms**: 
@@ -73,7 +73,7 @@
   - Honorific verbs: 먹다 → 잡수시다, 자다 → 주무시다, 계시다 (있다/계시다)
   - Subject honorific marker: ~(으)시 (가시다, 드시다)
 - **Speech level selection**: Age difference of 1+ year → honorifics expected. Same age → negotiate (언제 반말 할까요?). Workplace: title + 님 (팀장님, 매니저님)
-- **Sources**: `[[wiki/Korean/vocabulary/emotions-personality-vocabulary]]`, `[[wiki/Korean/culture/korean-dating-culture]]`
+- **Sources**: `[Korean/vocabulary/emotions-personality-vocabulary]`, `[Korean/culture/korean-dating-culture]`
 
 ### Chinese
 - **Key terms**: 
@@ -91,7 +91,7 @@
   - Neutral: 你, 叫什么名字?, 去
   - Respectful: 您, 贵姓?, 请去 / 麻烦您去
   - Formal written: 阁下, 尊驾, 惠顾, 光临 (business correspondence)
-- **Sources**: `[[wiki/Chinese/vocabulary/body-zh]]`, `[[wiki/Chinese/sources/greetings-zh]]`
+- **Sources**: `[Chinese/vocabulary/body-zh]`, `[Chinese/sources/greetings-zh]`
 
 ---
 
@@ -152,11 +152,11 @@
 
 ## Sources
 
-- English: `[[wiki/English/vocabulary/basic-vocabulary]]`, `[[wiki/English/culture/english-dating-culture]]`
-- Spanish: `[[wiki/Spanish/vocabulary/polite-expressions-vocabulary]]`, `[[wiki/Spanish/culture/espana-vs-latinoamerica-registro]]`, `[[wiki/Spanish/sources/notes-in-spanish-listening-log]]`
-- Japanese: `[[wiki/Japanese/vocabulary/business-vocabulary]]`, `[[wiki/Japanese/culture/japanese-dating-culture]]`, `[[wiki/Japanese/sources/business-email]]`
-- Korean: `[[wiki/Korean/vocabulary/emotions-personality-vocabulary]]`, `[[wiki/Korean/culture/korean-dating-culture]]`, `[[wiki/Korean/sources/daily-life-basics]]`
-- Chinese: `[[wiki/Chinese/vocabulary/body-zh]]`, `[[wiki/Chinese/sources/greetings-zh]]`, `[[wiki/Chinese/sources/daily-routine-zh]]`
+- English: `[English/vocabulary/basic-vocabulary]`, `[English/culture/english-dating-culture]`
+- Spanish: `[Spanish/vocabulary/polite-expressions-vocabulary]`, `[Spanish/culture/espana-vs-latinoamerica-registro]`, `[Spanish/sources/notes-in-spanish-listening-log]`
+- Japanese: `[Japanese/vocabulary/business-vocabulary]`, `[Japanese/culture/japanese-dating-culture]`, `[Japanese/sources/business-email]`
+- Korean: `[Korean/vocabulary/emotions-personality-vocabulary]`, `[Korean/culture/korean-dating-culture]`, `[Korean/sources/daily-life-basics]`
+- Chinese: `[Chinese/vocabulary/body-zh]`, `[Chinese/sources/greetings-zh]`, `[Chinese/sources/daily-routine-zh]`
 
 ---
 

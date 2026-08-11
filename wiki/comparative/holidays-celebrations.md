@@ -516,6 +516,6 @@
 - Buddha's Birthday, Vesak studies
 - Jewish / Christian / Islamic calendar studies (referenced for context)
 - Cultural Anthropology: Holiday & Ritual Studies
-- `[[wiki/Spanish/sources/fiestas-y-celebraciones]]`
-- `[[wiki/Korean/sources/literature-passages]]`
-- `[[wiki/Japanese/vocabulary/food-vocabulary]]` (seasonal foods)
+- `[Spanish/sources/fiestas-y-celebraciones]`
+- `[Korean/sources/literature-passages]`
+- `[Japanese/vocabulary/food-vocabulary]` (seasonal foods)

@@ -378,19 +378,19 @@ source: "travel-basics"
 
 ## Related Pages
 
-- `[[expressions/travel-basics]]` — Korean travel expressions
-- `[[expressions/daily-life]]` — Daily life expressions
+- `[[travel-basics]]` — Korean travel expressions
+- `[[daily-life]]` — Daily life expressions
 - `[[Language/wiki/comparative/transportation]]` — Cross-language transportation comparison
 - `[[Language/wiki/comparative/travel-essentials]]` — Travel essentials
 - `[[Language/wiki/comparative/numbers-counters]]` — Korean counter system
 - `[[Language/wiki/comparative/time-calendar]]` — Time expressions
-- `[[wiki/Korean/expressions/dating-romance]]` — Korean dating
-- `[[wiki/Korean/expressions/food-dining]]` — Korean dining
-- `[[wiki/Korean/expressions/business-basics]]` — Korean business
-- `[[wiki/Korean/index]]` — Korean wiki main
-- `[[wiki/Korean/culture/korean-hallyu-wave]]` — 한류
-- `[[wiki/Korean/culture/korean-family-holidays]]` — Korean holidays
-- `[[wiki/Korean/culture/korean-dating-culture]]` — Korean dating culture
+- `[Korean/expressions/dating-romance]` — Korean dating
+- `[Korean/expressions/food-dining]` — Korean dining
+- `[Korean/expressions/business-basics]` — Korean business
+- `[[index]]` — Korean wiki main
+- `[Korean/culture/korean-hallyu-wave]` — 한류
+- `[Korean/culture/korean-family-holidays]` — Korean holidays
+- `[Korean/culture/korean-dating-culture]` — Korean dating culture
 
 ---
 

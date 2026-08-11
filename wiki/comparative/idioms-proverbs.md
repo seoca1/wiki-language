@@ -201,8 +201,8 @@
 
 ## Sources
 
-- `[[wiki/English/vocabulary/basic-vocabulary]]`
-- `[[wiki/Spanish/vocabulary/emotions-personality-vocabulary]]`, `[[wiki/Spanish/sources/literature-passages]]`
-- `[[wiki/Japanese/index]]`, `[[wiki/Japanese/sources/anime-drama-quotes]]`
-- `[[wiki/Korean/vocabulary/emotions-personality-vocabulary]]`, `[[wiki/Korean/sources/literature-passages]]`
-- `[[wiki/Chinese/index]]`, `[[wiki/Chinese/sources/pinyin-basics-zh]]`
+- `[English/vocabulary/basic-vocabulary]`
+- `[Spanish/vocabulary/emotions-personality-vocabulary]`, `[Spanish/sources/literature-passages]`
+- `[[index]]`, `[Japanese/sources/anime-drama-quotes]`
+- `[Korean/vocabulary/emotions-personality-vocabulary]`, `[Korean/sources/literature-passages]`
+- `[[index]]`, `[Chinese/sources/pinyin-basics-zh]`

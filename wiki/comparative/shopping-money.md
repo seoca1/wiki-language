@@ -173,8 +173,8 @@
 
 ## Sources
 
-- English: `[[wiki/English/vocabulary/travel]]`, `[[wiki/English/vocabulary/basic-vocabulary]]`
-- Spanish: `[[wiki/Spanish/vocabulary/basic-vocabulary]]`, `[[wiki/Spanish/vocabulary/viajes]]`
-- Japanese: `[[wiki/Japanese/vocabulary/travel]]`, `[[wiki/Japanese/vocabulary/business-vocabulary]]`
-- Korean: `[[wiki/Korean/vocabulary/여행]]`, `[[wiki/Korean/index]]`
-- Chinese: `[[wiki/Chinese/vocabulary/numbers-zh]]`, `[[wiki/Chinese/vocabulary/measure-words-zh]]`
+- English: `[English/vocabulary/travel]`, `[English/vocabulary/basic-vocabulary]`
+- Spanish: `[Spanish/vocabulary/basic-vocabulary]`, `[Spanish/vocabulary/viajes]`
+- Japanese: `[Japanese/vocabulary/travel]`, `[Japanese/vocabulary/business-vocabulary]`
+- Korean: `[[wiki/Korean/vocabulary/여행]]`, `[[index]]`
+- Chinese: `[Chinese/vocabulary/numbers-zh]`, `[Chinese/vocabulary/measure-words-zh]`

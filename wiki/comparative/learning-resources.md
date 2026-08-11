@@ -620,8 +620,8 @@
 - Community recommendations (Reddit language learning subs)
 - FSI/DLI language training recommendations
 - Anki shared decks catalog
-- `[[wiki/English/vocabulary/basic-vocabulary]]`
-- `[[wiki/Spanish/vocabulary/basic-vocabulary]]`
-- `[[wiki/Japanese/index]]`
-- `[[wiki/Korean/index]]`
-- `[[wiki/Chinese/index]]`
+- `[English/vocabulary/basic-vocabulary]`
+- `[Spanish/vocabulary/basic-vocabulary]`
+- `[[index]]`
+- `[[index]]`
+- `[[index]]`

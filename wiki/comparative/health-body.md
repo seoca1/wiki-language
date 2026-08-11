@@ -263,8 +263,8 @@
 
 ## Sources
 
-- English: `[[wiki/English/index]]`, `[[wiki/English/vocabulary/basic-vocabulary]]`
-- Spanish: `[[wiki/Spanish/index]]`, `[[wiki/Spanish/vocabulary/basic-vocabulary]]`
-- Japanese: `[[wiki/Japanese/index]]`, `[[wiki/Japanese/index]]`
-- Korean: `[[wiki/Korean/index]]`, `[[wiki/Korean/index]]`
-- Chinese: `[[wiki/Chinese/vocabulary/body-zh]]`, `[[wiki/Chinese/index]]`
+- English: `[[index]]`, `[English/vocabulary/basic-vocabulary]`
+- Spanish: `[[index]]`, `[Spanish/vocabulary/basic-vocabulary]`
+- Japanese: `[[index]]`, `[[index]]`
+- Korean: `[[index]]`, `[[index]]`
+- Chinese: `[Chinese/vocabulary/body-zh]`, `[[index]]`

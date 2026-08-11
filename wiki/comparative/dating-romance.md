@@ -3,7 +3,7 @@
 **Languages**: English · Spanish · Japanese · Korean · Chinese
 **Last updated**: 2026-07-19
 
-> **Sources**: `[[wiki/English/expressions/dating-romance]]`, `[[wiki/English/culture/english-dating-culture]]`, `[[wiki/Spanish/index]]`, `[[wiki/Spanish/culture/espana-vs-latinoamerica-registro]]`, `[[wiki/Japanese/expressions/dating-romance]]`, `[[wiki/Japanese/culture/japanese-dating-culture]]`, `[[wiki/Korean/expressions/dating-romance]]`, `[[wiki/Korean/culture/korean-dating-culture]]`, `[[wiki/Chinese/sources/greetings-zh]]`
+> **Sources**: `[English/expressions/dating-romance]`, `[English/culture/english-dating-culture]`, `[[index]]`, `[Spanish/culture/espana-vs-latinoamerica-registro]`, `[Japanese/expressions/dating-romance]`, `[Japanese/culture/japanese-dating-culture]`, `[Korean/expressions/dating-romance]`, `[Korean/culture/korean-dating-culture]`, `[Chinese/sources/greetings-zh]`
 
 ---
 
@@ -180,8 +180,8 @@
 
 ## Sources
 
-- English: `[[wiki/English/expressions/dating-romance]]`, `[[wiki/English/culture/english-dating-culture]]`
-- Spanish: `[[wiki/Spanish/index]]`, `[[wiki/Spanish/culture/espana-vs-latinoamerica-registro]]`
-- Japanese: `[[wiki/Japanese/expressions/dating-romance]]`, `[[wiki/Japanese/culture/japanese-dating-culture]]`
-- Korean: `[[wiki/Korean/expressions/dating-romance]]`, `[[wiki/Korean/culture/korean-dating-culture]]`
-- Chinese: `[[wiki/Chinese/sources/greetings-zh]]`
+- English: `[English/expressions/dating-romance]`, `[English/culture/english-dating-culture]`
+- Spanish: `[[index]]`, `[Spanish/culture/espana-vs-latinoamerica-registro]`
+- Japanese: `[Japanese/expressions/dating-romance]`, `[Japanese/culture/japanese-dating-culture]`
+- Korean: `[Korean/expressions/dating-romance]`, `[Korean/culture/korean-dating-culture]`
+- Chinese: `[Chinese/sources/greetings-zh]`

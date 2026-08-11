@@ -369,6 +369,6 @@ Chinese weather talk is very common:
 - Cherry Blossom Front (Japan Meteorological Corporation)
 - 梅花 (Plum Rain) terminology (East Asia)
 - Yellow Dust (Asian dust storm) research
-- `[[wiki/Spanish/vocabulary/weather-vocabulary]]`
-- `[[wiki/Japanese/vocabulary/food-vocabulary]]` (seasonal)
-- `[[wiki/Chinese/sources/daily-routine-zh]]` (seasonal weather)
+- `[Spanish/vocabulary/weather-vocabulary]`
+- `[Japanese/vocabulary/food-vocabulary]` (seasonal)
+- `[Chinese/sources/daily-routine-zh]` (seasonal weather)

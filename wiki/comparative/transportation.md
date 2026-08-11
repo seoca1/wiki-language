@@ -381,7 +381,7 @@
 - Amtrak (US)
 - Uber / Lyft / Didi / Kakao T corporate data
 - 国土交通省 (Japan MLIT) statistics
-- `[[wiki/Japanese/vocabulary/travel]]`
+- `[Japanese/vocabulary/travel]`
 - `[[wiki/Korean/vocabulary/여행]]`
-- `[[wiki/Spanish/vocabulary/transportation-vocabulary]]`
-- `[[wiki/Chinese/sources/daily-routine-zh]]`
+- `[Spanish/vocabulary/transportation-vocabulary]`
+- `[Chinese/sources/daily-routine-zh]`

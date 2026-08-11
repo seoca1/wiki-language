@@ -30,7 +30,7 @@
 - **Register**: Hi/Hey (casual) → Hello (neutral) → Good morning/afternoon/evening (formal)
 - **Phatic**: "How are you?" = greeting, not literal question. Response: "Good, you?" / "Fine, thanks."
 - **Body language**: Handshake (business), wave/nod (casual), hug (close)
-- **Sources**: `[[wiki/English/vocabulary/basic-vocabulary]]`, `[[wiki/English/culture/english-dating-culture]]`
+- **Sources**: `[English/vocabulary/basic-vocabulary]`, `[English/culture/english-dating-culture]`
 
 ### Spanish
 - **Time-based**: 
@@ -44,7 +44,7 @@
   - Argentina: *¿Cómo andás?*
 - **Kiss greeting**: *Dos besos* (Spain, some LatAm) — women/women & women/men; men/men handshake or hug
 - **Phone**: *¿Diga?*, *¿Aló?*, *Bueno* (Mexico)
-- **Sources**: `[[wiki/Spanish/vocabulary/basic-vocabulary]]`, `[[wiki/Spanish/culture/espana-vs-latinoamerica-registro]]`
+- **Sources**: `[Spanish/vocabulary/basic-vocabulary]`, `[Spanish/culture/espana-vs-latinoamerica-registro]`
 
 ### Japanese
 - **Time-based**: 
@@ -57,7 +57,7 @@
   - Business: *Ohayou gozaimasu* (all day in some offices)
 - **Bowing**: Angle = respect (15° casual, 30° standard, 45° deep apology/respect)
 - **Phone**: *Moshi moshi* (casual) / *Hai, [Name] desu* (business)
-- **Sources**: `[[wiki/Japanese/vocabulary/basic-vocabulary]]`, `[[wiki/Japanese/culture/japanese-dating-culture]]`
+- **Sources**: `[Japanese/vocabulary/basic-vocabulary]`, `[Japanese/culture/japanese-dating-culture]`
 
 ### Korean
 - **Time-based**: No distinct morning/evening greetings — *Annyeonghaseyo* all day
@@ -68,7 +68,7 @@
 - **Bowing**: 30-45° standard; 90° (큰절) — New Year's, weddings, funerals
 - **Phone**: *Yeoboseyo* (여보세요) — universal
 - **Age check**: First meeting → "연세가 어떻게 되세요?" / "몇 살이세요?" determines speech level
-- **Sources**: `[[wiki/Korean/vocabulary/basic-vocabulary]]`, `[[wiki/Korean/culture/korean-dating-culture]]`
+- **Sources**: `[Korean/vocabulary/basic-vocabulary]`, `[Korean/culture/korean-dating-culture]`
 
 ### Chinese
 - **Time-based**: 
@@ -82,7 +82,7 @@
 - **Phatic**: *Chī le ma?* (吃了吗？— "Have you eaten?") — classic greeting, esp. older gen
 - **Body language**: Nod / slight bow (historical); handshake (business); no cheek kisses
 - **Phone**: *Wéi* (喂) — answer; *Nín hǎo* — formal answer
-- **Sources**: `[[wiki/Chinese/vocabulary/body-zh]]`, `[[wiki/Chinese/sources/greetings-zh]]`
+- **Sources**: `[Chinese/vocabulary/body-zh]`, `[Chinese/sources/greetings-zh]`
 
 ---
 
@@ -119,8 +119,8 @@
 
 ## Sources
 
-- English: `[[wiki/English/vocabulary/basic-vocabulary]]`
-- Spanish: `[[wiki/Spanish/vocabulary/basic-vocabulary]]`, `[[wiki/Spanish/sources/notes-in-spanish-listening-log]]`
-- Japanese: `[[wiki/Japanese/vocabulary/basic-vocabulary]]`, `[[wiki/Japanese/sources/daily-life-basics]]`
-- Korean: `[[wiki/Korean/vocabulary/basic-vocabulary]]`, `[[wiki/Korean/sources/daily-life-basics]]`
-- Chinese: `[[wiki/Chinese/sources/greetings-zh]]`, `[[wiki/Chinese/vocabulary/numbers-zh]]`
+- English: `[English/vocabulary/basic-vocabulary]`
+- Spanish: `[Spanish/vocabulary/basic-vocabulary]`, `[Spanish/sources/notes-in-spanish-listening-log]`
+- Japanese: `[Japanese/vocabulary/basic-vocabulary]`, `[Japanese/sources/daily-life-basics]`
+- Korean: `[Korean/vocabulary/basic-vocabulary]`, `[Korean/sources/daily-life-basics]`
+- Chinese: `[Chinese/sources/greetings-zh]`, `[Chinese/vocabulary/numbers-zh]`

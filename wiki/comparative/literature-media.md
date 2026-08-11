@@ -340,8 +340,8 @@
 - Nobel Prize Laureates (Morrison, Ishiguro, Mo Yan, Han Kang)
 - KOFICE — Korean Foundation for International Cultural Exchange (Hallyu reports)
 - Anime News Network, MyAnimeList, KOBIS (Korean Film)
-- `[[wiki/English/index]]`, `[[wiki/English/sources/literature-passages]]`
-- `[[wiki/Spanish/sources/literature-passages]]`, `[[wiki/Spanish/sources/como-agua-para-chocolate-cap1]]`, `[[wiki/Spanish/sources/el-ahogado-mas-hermoso-del-mundo]]`
-- `[[wiki/Japanese/sources/literature-passages]]`, `[[wiki/Japanese/sources/anime-drama-quotes]]`
-- `[[wiki/Korean/sources/literature-passages]]`, `[[wiki/Korean/index]]` (KR titles)
-- `[[wiki/Chinese/sources/pinyin-basics-zh]]` (cultural references)
+- `[[index]]`, `[English/sources/literature-passages]`
+- `[Spanish/sources/literature-passages]`, `[Spanish/sources/como-agua-para-chocolate-cap1]`, `[Spanish/sources/el-ahogado-mas-hermoso-del-mundo]`
+- `[Japanese/sources/literature-passages]`, `[Japanese/sources/anime-drama-quotes]`
+- `[Korean/sources/literature-passages]`, `[[index]]` (KR titles)
+- `[Chinese/sources/pinyin-basics-zh]` (cultural references)

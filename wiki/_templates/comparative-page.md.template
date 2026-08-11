@@ -30,11 +30,11 @@
 
 ## Per-language wiki references
 
-- **Korean**: [[culture/korean-{topic}]], [[vocabulary/{korean-theme}]]
-- **Japanese**: [[culture/japanese-{topic}]], [[vocabulary/{jp-theme}]]
+- **Korean**: [[korean-{topic}]], [[vocabulary/{korean-theme}]]
+- **Japanese**: [[japanese-{topic}]], [[vocabulary/{jp-theme}]]
 - **Spanish**: [[culture/{spanish-topic}]], [[vocabulary/{es-theme}]]
 - **Chinese**: [[culture/{chinese-topic}]], [[vocabulary/{zh-theme}]]
-- **English**: [[culture/english-{topic}]], [[vocabulary/{en-theme}]]
+- **English**: [[english-{topic}]], [[vocabulary/{en-theme}]]
 
 ## Sources
 

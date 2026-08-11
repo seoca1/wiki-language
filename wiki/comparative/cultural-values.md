@@ -222,8 +222,8 @@
 - Hall (1976) — High/Low Context cultures
 - Schwartz (1992) — Universal values circumplex
 - Indigenous: *Kuuki o yomu, Nunchi, Guanxi, Simpatía*
-- `[[wiki/English/culture/english-dating-culture]]`
-- `[[wiki/Spanish/culture/espana-vs-latinoamerica-registro]]`
-- `[[wiki/Japanese/culture/japanese-dating-culture]]`
-- `[[wiki/Korean/culture/korean-dating-culture]]`
-- `[[wiki/Chinese/sources/greetings-zh]]`
+- `[English/culture/english-dating-culture]`
+- `[Spanish/culture/espana-vs-latinoamerica-registro]`
+- `[Japanese/culture/japanese-dating-culture]`
+- `[Korean/culture/korean-dating-culture]`
+- `[Chinese/sources/greetings-zh]`

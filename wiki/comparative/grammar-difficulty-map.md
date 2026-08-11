@@ -265,8 +265,8 @@
 - Sohn (1999) *The Korean Language*
 - Li & Thompson (1981) *Mandarin Chinese: A Functional Reference Grammar*
 - Butt & Benjamin (2011) *A New Reference Grammar of Modern Spanish*
-- `[[wiki/English/vocabulary/basic-vocabulary]]`
-- `[[wiki/Spanish/vocabulary/basic-vocabulary]]`
-- `[[wiki/Japanese/index]]`, `[[wiki/Japanese/vocabulary/jp-counters]]`
-- `[[wiki/Korean/index]]`, `[[wiki/Korean/vocabulary/topik1-starter]]`
-- `[[wiki/Chinese/vocabulary/numbers-zh]]`, `[[wiki/Chinese/sources/pinyin-basics-zh]]`
+- `[English/vocabulary/basic-vocabulary]`
+- `[Spanish/vocabulary/basic-vocabulary]`
+- `[[index]]`, `[Japanese/vocabulary/jp-counters]`
+- `[[index]]`, `[Korean/vocabulary/topik1-starter]`
+- `[Chinese/vocabulary/numbers-zh]`, `[Chinese/sources/pinyin-basics-zh]`

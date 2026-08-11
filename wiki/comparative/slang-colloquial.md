@@ -370,9 +370,9 @@
 ## Sources
 
 - Youth/Gen Z slang research 2020-2024
-- `[[wiki/English/vocabulary/emotions-personality-vocabulary]]`
-- `[[wiki/Spanish/vocabulary/emotions-personality-vocabulary]]`, `[[wiki/Spanish/sources/literature-passages]]`
-- `[[wiki/Japanese/vocabulary/emotions-personality-vocabulary]]`, `[[wiki/Japanese/sources/anime-drama-quotes]]`
-- `[[wiki/Korean/vocabulary/emotions-personality-vocabulary]]`, `[[wiki/Korean/sources/literature-passages]]`
-- `[[wiki/Chinese/index]]`, `[[wiki/Chinese/sources/pinyin-basics-zh]]`
+- `[English/vocabulary/emotions-personality-vocabulary]`
+- `[Spanish/vocabulary/emotions-personality-vocabulary]`, `[Spanish/sources/literature-passages]`
+- `[Japanese/vocabulary/emotions-personality-vocabulary]`, `[Japanese/sources/anime-drama-quotes]`
+- `[Korean/vocabulary/emotions-personality-vocabulary]`, `[Korean/sources/literature-passages]`
+- `[[index]]`, `[Chinese/sources/pinyin-basics-zh]`
 - Urban Dictionary, Jorudan, Naver Dictionary, Baidu Tieba

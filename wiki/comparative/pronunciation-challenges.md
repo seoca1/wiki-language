@@ -307,8 +307,8 @@
 - Vance (2008) *The Sounds of Japanese*
 - Kim (2012) *Korean Phonology*
 - Duanmu (2007) *The Phonology of Standard Chinese*
-- `[[wiki/English/vocabulary/basic-vocabulary]]`
-- `[[wiki/Spanish/vocabulary/basic-vocabulary]]`
-- `[[wiki/Japanese/index]]`, `[[wiki/Japanese/vocabulary/jp-counters]]`
-- `[[wiki/Korean/index]]`, `[[wiki/Korean/vocabulary/topik1-starter]]`
-- `[[wiki/Chinese/vocabulary/numbers-zh]]`, `[[wiki/Chinese/sources/pinyin-basics-zh]]`
+- `[English/vocabulary/basic-vocabulary]`
+- `[Spanish/vocabulary/basic-vocabulary]`
+- `[[index]]`, `[Japanese/vocabulary/jp-counters]`
+- `[[index]]`, `[Korean/vocabulary/topik1-starter]`
+- `[Chinese/vocabulary/numbers-zh]`, `[Chinese/sources/pinyin-basics-zh]`

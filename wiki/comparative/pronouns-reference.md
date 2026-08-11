@@ -39,7 +39,7 @@
 - **Singular "they"**: Standard for unknown/nonbinary gender
 - **Reflexives**: myself, yourself, himself, herself, itself, ourselves, yourselves, themselves
 - **Possessives**: my/mine, your/yours, his, her/hers, its, our/ours, their/theirs
-- **Sources**: `[[wiki/English/vocabulary/basic-vocabulary]]`
+- **Sources**: `[English/vocabulary/basic-vocabulary]`
 
 ### Spanish
 - **Pro-drop**: Subject pronouns routinely omitted (*hablo* = "I speak")
@@ -48,7 +48,7 @@
 - **Gender**: All pronouns gendered (*nosotros/nosotras*, *ellos/ellas*)
 - **Clitic pronouns**: me/te/se/nos/os/le/les/lo/la/los/las — pre-verbal or attached to infinitive/gerund
 - **Reflexive**: *se* (3rd person all numbers/genders)
-- **Sources**: `[[wiki/Spanish/vocabulary/basic-vocabulary]]`, `[[wiki/Spanish/culture/espana-vs-latinoamerica-registro]]`
+- **Sources**: `[Spanish/vocabulary/basic-vocabulary]`, `[Spanish/culture/espana-vs-latinoamerica-registro]`
 
 ### Japanese
 - **Pronoun = register choice**: No neutral "I/you" — every choice marks relationship
@@ -68,7 +68,7 @@
 - **Third person**: *kare/kanojo* exist but sound translated; *ano hito* (that person) preferred
 - **Plural**: *-tachi* (neutral), *-ra* (casual/masculine), *-gata* (honorific)
 - **Zero pronoun**: Standard — context determines referent
-- **Sources**: `[[wiki/Japanese/index]]`, `[[wiki/Japanese/culture/japanese-dating-culture]]`
+- **Sources**: `[[index]]`, `[Japanese/culture/japanese-dating-culture]`
 
 ### Korean
 - **Pronoun = register choice**: Like Japanese, no neutral forms
@@ -84,7 +84,7 @@
 - **Third person**: *geu/geunyeo* (그/그녀) — written/formal; *geu bun* (그분) — honorific
 - **Zero pronoun**: Standard — subject/object routinely dropped
 - **Reflexive**: *jagi* (자기) — self; *jagijasin* (자신) — oneself
-- **Sources**: `[[wiki/Korean/index]]`, `[[wiki/Korean/culture/korean-dating-culture]]`
+- **Sources**: `[[index]]`, `[Korean/culture/korean-dating-culture]`
 
 ### Chinese
 - **Pro-drop**: Subjects/objects freely omitted
@@ -96,7 +96,7 @@
 - **Gender in writing only**: 他/她/它 all *tā* spoken
 - **Demonstratives as pronouns**: *zhè* (这), *nà* (那) — this/that person
 - **Reflexive**: *zìjǐ* (自己) — self
-- **Sources**: `[[wiki/Chinese/sources/greetings-zh]]`, `[[wiki/Chinese/vocabulary/family-zh]]`
+- **Sources**: `[Chinese/sources/greetings-zh]`, `[Chinese/vocabulary/family-zh]`
 
 ---
 
@@ -212,8 +212,8 @@
 
 ## Sources
 
-- English: `[[wiki/English/vocabulary/basic-vocabulary]]`
-- Spanish: `[[wiki/Spanish/vocabulary/basic-vocabulary]]`, `[[wiki/Spanish/culture/espana-vs-latinoamerica-registro]]`
-- Japanese: `[[wiki/Japanese/index]]`, `[[wiki/Japanese/culture/japanese-dating-culture]]`
-- Korean: `[[wiki/Korean/index]]`, `[[wiki/Korean/culture/korean-dating-culture]]`
-- Chinese: `[[wiki/Chinese/sources/greetings-zh]]`, `[[wiki/Chinese/vocabulary/family-zh]]`
+- English: `[English/vocabulary/basic-vocabulary]`
+- Spanish: `[Spanish/vocabulary/basic-vocabulary]`, `[Spanish/culture/espana-vs-latinoamerica-registro]`
+- Japanese: `[[index]]`, `[Japanese/culture/japanese-dating-culture]`
+- Korean: `[[index]]`, `[Korean/culture/korean-dating-culture]`
+- Chinese: `[Chinese/sources/greetings-zh]`, `[Chinese/vocabulary/family-zh]`

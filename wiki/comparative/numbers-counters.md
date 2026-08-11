@@ -58,7 +58,7 @@
 > **English/Spanish**: No obligatory counters — "three apples" = *tres manzanas*
 > **Japanese/Korean/Chinese**: **Mandatory** — noun cannot be counted without counter
 
-### Japanese Counters (助数詞) — from `[[wiki/Japanese/vocabulary/jp-counters]]`
+### Japanese Counters (助数詞) — from `[Japanese/vocabulary/jp-counters]`
 
 | Counter | Kanji | Use For | 1 | 2 | 3 | 10 |
 |---------|-------|---------|---|---|---|---|
@@ -103,7 +103,7 @@
 
 **Key rule**: Native Korean numbers (1-99) + native counters; Sino-Korean + Sino counters. *Age* uses native (*sal*) or Sino (*se*).
 
-### Chinese Counters / Measure Words (量词) — from `[[wiki/Chinese/vocabulary/measure-words-zh]]`
+### Chinese Counters / Measure Words (量词) — from `[Chinese/vocabulary/measure-words-zh]`
 
 | Measure Word | Pinyin | Use For | Example |
 |--------------|--------|---------|---------|
@@ -200,8 +200,8 @@
 
 ## Sources
 
-- English: `[[wiki/English/vocabulary/basic-vocabulary]]`
-- Spanish: `[[wiki/Spanish/vocabulary/basic-vocabulary]]`, `[[wiki/Spanish/vocabulary/time-prepositions-vocabulary]]`
-- Japanese: `[[wiki/Japanese/vocabulary/jp-counters]]`, `[[wiki/Japanese/vocabulary/kanji-n5]]`, `[[wiki/Japanese/sources/2026-07-13_Kanji_N5_100]]`
-- Korean: `[[wiki/Korean/index]]`, `[[wiki/Korean/vocabulary/topik1-starter]]`, `[[wiki/Korean/sources/daily-life-basics]]`
-- Chinese: `[[wiki/Chinese/vocabulary/numbers-zh]]`, `[[wiki/Chinese/vocabulary/measure-words-zh]]`, `[[wiki/Chinese/sources/pinyin-basics-zh]]`
+- English: `[English/vocabulary/basic-vocabulary]`
+- Spanish: `[Spanish/vocabulary/basic-vocabulary]`, `[Spanish/vocabulary/time-prepositions-vocabulary]`
+- Japanese: `[Japanese/vocabulary/jp-counters]`, `[Japanese/vocabulary/kanji-n5]`, `[Japanese/sources/2026-07-13_Kanji_N5_100]`
+- Korean: `[[index]]`, `[Korean/vocabulary/topik1-starter]`, `[Korean/sources/daily-life-basics]`
+- Chinese: `[Chinese/vocabulary/numbers-zh]`, `[Chinese/vocabulary/measure-words-zh]`, `[Chinese/sources/pinyin-basics-zh]`

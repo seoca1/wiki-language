@@ -230,8 +230,8 @@
 - Gudykunst & Ting-Toomey (1988) — Culture and interpersonal communication
 - Matsumoto & Hwang (2013) — *Nonverbal Communication in Japan*
 - Korean Ministry of Culture — *Korean Gesture Guide*
-- `[[wiki/English/culture/english-dating-culture]]`
-- `[[wiki/Spanish/culture/espana-vs-latinoamerica-registro]]`
-- `[[wiki/Japanese/culture/japanese-dating-culture]]`
-- `[[wiki/Korean/culture/korean-dating-culture]]`
-- `[[wiki/Chinese/sources/greetings-zh]]`
+- `[English/culture/english-dating-culture]`
+- `[Spanish/culture/espana-vs-latinoamerica-registro]`
+- `[Japanese/culture/japanese-dating-culture]`
+- `[Korean/culture/korean-dating-culture]`
+- `[Chinese/sources/greetings-zh]`
