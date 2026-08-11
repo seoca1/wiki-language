@@ -7,78 +7,15 @@ theme: "emotion"
 
 # Emotions & Personality (English)
 
-This page aggregates emotion and personality vocabulary for the typing language game corpus. Entries include CEFR level, part of speech, IPA, etymology, authentic examples, and cultural notes.
+**Source:** [[emotions-personality-vocabulary]]
+**Theme:** Emotions & Personality
+**Level:** A2-B1
+
+English emotions and personality vocabulary covering basic emotions, positive/negative personality traits, and emotion verbs. Sourced from ESL emotion vocabulary and personality adjectives.
 
 ---
 
-## Emotions & Feelings
-
-
-### love
-
-**Part of Speech:** noun / verb
-
-**Definition:** deep affection, strong liking
-
-**IPA / Pronunciation:** /lʌv/
-
-**Etymology:** Old English *lufu* (noun), *lufian* (verb) — Germanic *lubō* "pleasure, praise" → PIE *leubh-* "to care, desire, love". Cognate with German *Liebe*, Dutch *liefde*.
-
-#### Examples
-
-- I **love** this song. — Verb: strong liking
-- **Love** is patient, love is kind. — Noun: abstract concept
-- She sent her **love** to everyone. — Noun: affectionate regards
-
-#### Related Terms
-
-- [[emotions-personality-vocabulary#adore|adore (verb: love deeply)]]
-- [[emotions-personality-vocabulary#affection|affection (noun: gentle love)]]
-- [[emotions-personality-vocabulary#passion|passion (noun: intense love)]]
-
-#### Cultural Notes
-
-English "love" covers romantic, familial, platonic, and even object affection — broader than many languages. "I love you" is used earlier in relationships than equivalents in some cultures. "Love" as sign-off ("Love, John") is friendly, not necessarily romantic.
-
-#### Sources
-
-- [[emotions-personality-vocabulary]]
-- Oxford English Dictionary
-- COCA corpus (frequency: top 500)
-
-
-### like
-
-**Part of Speech:** verb / preposition / noun (social media)
-
-**Definition:** enjoy, find pleasant / similar to / social media approval
-
-**IPA / Pronunciation:** /laɪk/
-
-**Etymology:** Old English *līcian* "to please, be pleasing" → *līc* "body, form" → "similar in form". The verb originally meant "to be pleasing to" (impersonal: *it likes me* → *I like it*).
-
-#### Examples
-
-- I **like** coffee. — Verb: enjoy
-- She looks **like** her mother. — Preposition: resemblance
-- The post got 500 **likes**. — Noun: social media metric
-
-#### Related Terms
-
-- [[emotions-personality-vocabulary#enjoy|enjoy (verb: take pleasure in)]]
-- [[emotions-personality-vocabulary#prefer|prefer (verb: like better)]]
-- [[emotions-personality-vocabulary#fancy|fancy (verb: BrE informal: like)]]
-
-#### Cultural Notes
-
-"Like" as discourse marker ("I was like, 'wow'") is ubiquitous in spoken English, especially NAmer. Social media "like" (2009 Facebook) created new noun sense. "Like" vs "love": "like" = moderate, "love" = intense.
-
-#### Sources
-
-- [[emotions-personality-vocabulary]]
-- Oxford English Dictionary
-- COCA corpus (frequency: top 100)
-
+## Basic Emotions
 
 ### happy
 
@@ -98,9 +35,9 @@ English "love" covers romantic, familial, platonic, and even object affection �
 
 #### Related Terms
 
-- [[emotions-personality-vocabulary#joy|joy (noun: intense happiness)]]
-- [[emotions-personality-vocabulary#glad|glad (adj: pleased about specific)]]
-- [[emotions-personality-vocabulary#cheerful|cheerful (adj: visibly happy)]]
+- ''joy'' — Intense happiness
+- ''glad'' — Pleased about specific
+- ''cheerful'' — Visibly happy
 
 #### Cultural Notes
 
@@ -109,9 +46,8 @@ English "love" covers romantic, familial, platonic, and even object affection �
 #### Sources
 
 - [[emotions-personality-vocabulary]]
-- Oxford English Dictionary
-- COCA corpus (frequency: top 1000)
 
+---
 
 ### sad
 
@@ -131,20 +67,19 @@ English "love" covers romantic, familial, platonic, and even object affection �
 
 #### Related Terms
 
-- [[emotions-personality-vocabulary#sorrow|sorrow (noun: deep sadness)]]
-- [[emotions-personality-vocabulary#unhappy|unhappy (adj: not happy)]]
-- [[emotions-personality-vocabulary#depressed|depressed (adj: clinically/very sad)]]
+- ''sorrow'' — Deep sadness
+- ''unhappy'' — Not happy
+- ''depressed'' — Clinically/very sad
 
 #### Cultural Notes
 
-"Sad" is neutral register. "I'm sad" = direct statement. British "a bit sad" = understatement for very sad. "Sad!" as standalone exclamation (Trump-style) = dismissive judgment.
+"Sad" is neutral register. "I'm sad" = direct statement. British "a bit sad" = understatement for very sad. "Sad!" as standalone exclamation = dismissive judgment.
 
 #### Sources
 
 - [[emotions-personality-vocabulary]]
-- Oxford English Dictionary
-- COCA corpus (frequency: top 2000)
 
+---
 
 ### angry
 
@@ -164,9 +99,9 @@ English "love" covers romantic, familial, platonic, and even object affection �
 
 #### Related Terms
 
-- [[emotions-personality-vocabulary#furious|furious (adj: extremely angry)]]
-- [[emotions-personality-vocabulary#annoyed|annoyed (adj: mildly angry)]]
-- [[emotions-personality-vocabulary#irritated|irritated (adj: impatient anger)]]
+- ''furious'' — Extremely angry
+- ''annoyed'' — Mildly angry
+- ''irritated'' — Impatient anger
 
 #### Cultural Notes
 
@@ -175,9 +110,8 @@ Direct anger expression is more acceptable in US/UK than in East Asian cultures.
 #### Sources
 
 - [[emotions-personality-vocabulary]]
-- Oxford English Dictionary
-- COCA corpus (frequency: top 2000)
 
+---
 
 ### afraid
 
@@ -197,9 +131,9 @@ Direct anger expression is more acceptable in US/UK than in East Asian cultures.
 
 #### Related Terms
 
-- [[emotions-personality-vocabulary#scared|scared (adj: attributive OK: a scared child)]]
-- [[emotions-personality-vocabulary#frightened|frightened (adj: more formal)]]
-- [[emotions-personality-vocabulary#terrified|terrified (adj: extreme fear)]]
+- ''scared'' — Attributive OK: a scared child
+- ''frightened'' — More formal
+- ''terrified'' — Extreme fear
 
 #### Cultural Notes
 
@@ -208,174 +142,136 @@ Direct anger expression is more acceptable in US/UK than in East Asian cultures.
 #### Sources
 
 - [[emotions-personality-vocabulary]]
-- Oxford English Dictionary
-- COCA corpus (frequency: top 2000)
 
+---
 
-### excited
+### surprised
 
 **Part of Speech:** adjective
 
-**Definition:** very enthusiastic and eager
+**Definition:** feeling or showing surprise; taken unawares
 
-**IPA / Pronunciation:** /ɪkˈsaɪtɪd/
+**IPA / Pronunciation:** /sərˈpraɪzd/
 
-**Etymology:** Latin *excitare* "to rouse, call forth" (*ex-* "out" + *citare* "to move, stir") → Old French *exciter* → Middle English *exciten*. Past participle → adjective.
+**Etymology:** Old French *surprendre* "to overtake" → *sur-* "over" + *prendre* "to take" → Latin *prehendere*. Past participle → adjective.
 
 #### Examples
 
-- The kids are **excited** about the trip. — Predicative
-- An **excited** crowd gathered. — Attributive
-- **Excited** to announce our new product. — Reduced relative clause
+- I was **surprised** by the news. — Passive
+- A **surprised** look. — Attributive
+- **Surprised** to see you. — Reduced clause
 
 #### Related Terms
 
-- [[emotions-personality-vocabulary#thrilled|thrilled (adj: more intense)]]
-- [[emotions-personality-vocabulary#eager|eager (adj: keenly expectant)]]
-- [[emotions-personality-vocabulary#enthusiastic|enthusiastic (adj: showing intense interest)]]
+- ''shocked'' — Stronger surprise
+- ''astonished'' — Very surprised
+- ''amazed'' — Positive surprise
 
 #### Cultural Notes
 
-"Excited" is high-arousal positive. US English uses "excited" more freely than UK ("keen", "looking forward to"). "Excited about" + gerund/noun. Not used for sexual arousal (use "aroused", "turned on").
+"Surprised" = neutral. "Surprise!" = party greeting. "Not surprised" = expected outcome. "Surprising" = causing surprise (participial adjective).
 
 #### Sources
 
 - [[emotions-personality-vocabulary]]
-- Oxford English Dictionary
-- COCA corpus (frequency: top 3000)
 
+---
 
-### nervous
+### disliked
 
-**Part of Speech:** adjective
+**Part of Speech:** adjective (past participle used attributively)
 
-**Definition:** easily agitated or alarmed; anxious, apprehensive
+**Definition:** regarded with disapproval or aversion
 
-**IPA / Pronunciation:** /ˈnɜːrvəs/
+**IPA / Pronunciation:** /dɪsˈlaɪst/
 
-**Etymology:** Latin *nervosus* "sinewy, vigorous" → "affecting the nerves" → "timid, anxious" (18th c. semantic shift). From *nervus* "nerve, sinew".
+**Etymology:** *dis-* "not" + *like* (Old English *līcian* "to please").
 
 #### Examples
 
-- I'm **nervous** about the interview. — Anxiety
-- A **nervous** disposition. — Personality trait
-- **Nervous** laughter. — Mannerism
+- A **disliked** policy. — Attributive
+- The **disliked** character. — Narrative
 
 #### Related Terms
 
-- [[emotions-personality-vocabulary#anxious|anxious (adj: more clinical/worry-focused)]]
-- [[emotions-personality-vocabulary#jittery|jittery (adj: physically nervous)]]
-- [[emotions-personality-vocabulary#tense|tense (adj: mentally strained)]]
+- ''unpopular'' — Not liked by many
+- ''hated'' — Stronger
+- ''unwelcome'' — Not wanted
 
 #### Cultural Notes
 
-"Nervous" covers both anxiety (mental) and jitters (physical). "Nervous breakdown" = dated term for mental health crisis. "Nervous energy" = restlessness channeled into activity. British "nervy" = cheeky/bold (different sense).
+"Disliked" is formal/descriptive. Spoken: "not liked", "don't like". "Disliked" as adjective less common than verb "dislike".
 
 #### Sources
 
 - [[emotions-personality-vocabulary]]
-- Oxford English Dictionary
-- COCA corpus (frequency: top 3000)
 
+---
 
-### proud
+### regret
 
-**Part of Speech:** adjective
+**Part of Speech:** noun / verb
 
-**Definition:** feeling deep pleasure or satisfaction from achievements; having self-respect
+**Definition:** (n.) feeling of sadness about something done/not done; (v.) feel sad about
 
-**IPA / Pronunciation:** /praʊd/
+**IPA / Pronunciation:** /rɪˈɡrɛt/
 
-**Etymology:** Old English *prūt* "proud, arrogant" → Old French *prou* "valiant, brave" → Late Latin *prode* "useful, profitable" → Latin *prodesse* "be of value". Cognate with *prowess*.
+**Etymology:** Old French *regreter* "bewail" → *re-* + *greter* "weep" → Germanic *grēt* "weep".
 
 #### Examples
 
-- She's **proud** of her degree. — Achievement pride
-- A **proud** moment for the team. — Collective pride
-- Too **proud** to ask for help. — Dignity/stubbornness
+- I **regret** not going. — Verb + gerund
+- No **regrets**. — Noun, plural
+- **Regret** to inform you. — Formal formula
 
 #### Related Terms
 
-- [[emotions-personality-vocabulary#pride|pride (noun)]]
-- [[emotions-personality-vocabulary#arrogant|arrogant (adj: negative: excessive pride)]]
-- [[emotions-personality-vocabulary#humble|humble (adj: opposite)]]
+- ''remorse'' — Deeper, moral regret
+- ''repent'' — Religious/moral
+- ''rue'' — Literary: bitter regret
 
 #### Cultural Notes
 
-"Proud" is positive in US (self-esteem valued); can be negative in UK/Commonwealth ("proud" ≈ arrogant). "Proud of" + noun/gerund. "Do yourself proud" = perform well. LGBTQ+ "Pride" = reclaimed identity term.
+"Regret" = action-oriented (something you did/didn't do). "I regret to inform you" = formal bad news. "No regrets" = life philosophy. "Buyer's remorse" = post-purchase regret.
 
 #### Sources
 
 - [[emotions-personality-vocabulary]]
-- Oxford English Dictionary
-- COCA corpus (frequency: top 3000)
 
+---
 
-### jealous
+### anxious
 
 **Part of Speech:** adjective
 
-**Definition:** feeling resentment against someone because of their rivalry, success, or advantages; envious
+**Definition:** feeling worry, nervousness, or unease
 
-**IPA / Pronunciation:** /ˈdʒeləs/
+**IPA / Pronunciation:** /ˈæŋkʃəs/
 
-**Etymology:** Old French *gelos* "zealous, jealous" → Late Latin *zelosus* → Latin *zelus* "zeal, jealousy" → Greek *zēlos* "ardor, emulation". Cognate with *zeal*, *zealous*.
+**Etymology:** Latin *anxius* "anxious, uneasy" → *angere* "to choke, distress" → *angustiāre* "narrow, distress". Cognate with *anger*, *angst*.
 
 #### Examples
 
-- He was **jealous** of his brother's success. — Envy of achievement
-- **Jealous** boyfriend. — Possessive in relationship
-- **Jealous** guarding of secrets. — Protective
+- I'm **anxious** about the test. — Predicative
+- An **anxious** wait. — Attributive
+- **Anxious** to please. — Eager (different sense)
 
 #### Related Terms
 
-- [[emotions-personality-vocabulary#envious|envious (adj: wanting what others have)]]
-- [[emotions-personality-vocabulary#envy|envy (noun)]]
-- [[emotions-personality-vocabulary#possessive|possessive (adj: controlling)]]
+- ''anxiety'' — Noun (clinical/general)
+- ''worried'' — More specific
+- [[nervous]] — Physical overlap
+- ''eager'' — "Anxious to" = eager (US usage note)
 
 #### Cultural Notes
 
-Strictly: *jealous* = fear of losing what you have (partner, status); *envious* = wanting what others have. In practice, often conflated. "Jealous" in relationships = expected in Western monogamy norms. "Green with envy" = idiom.
+"Anxious" = clinical term (anxiety disorder) + general worry. "Anxious to" = eager (US) vs worried (UK). "Anxious" ≠ "eager" in formal writing (prescriptivists).
 
 #### Sources
 
 - [[emotions-personality-vocabulary]]
-- Oxford English Dictionary
-- COCA corpus (frequency: top 5000)
 
-
-### grateful
-
-**Part of Speech:** adjective
-
-**Definition:** feeling or showing appreciation for kindness; thankful
-
-**IPA / Pronunciation:** /ˈɡreɪtfəl/
-
-**Etymology:** Latin *gratus* "pleasing, thankful" + *-ful* → *gratus* → *gratitude*, *gratuity*, *congratulate*. Cognate with *grace*, *gratis*.
-
-#### Examples
-
-- I'm **grateful** for your help. — Predicative
-- A **grateful** smile. — Attributive
-- **Grateful** thanks. — Collocation
-
-#### Related Terms
-
-- [[emotions-personality-vocabulary#thankful|thankful (adj: more direct, less formal)]]
-- [[emotions-personality-vocabulary#gratitude|gratitude (noun)]]
-- [[emotions-personality-vocabulary#appreciative|appreciative (adj: recognizing value)]]
-
-#### Cultural Notes
-
-"Grateful" = deeper, more formal than "thankful". "Grateful" implies recognition of undeserved kindness. "Forever grateful" = strong commitment. "Grateful Dead" = band name (folklore: "grateful dead" = spirit thankful for burial).
-
-#### Sources
-
-- [[emotions-personality-vocabulary]]
-- Oxford English Dictionary
-- COCA corpus (frequency: top 3000)
-
+---
 
 ### embarrassed
 
@@ -395,9 +291,9 @@ Strictly: *jealous* = fear of losing what you have (partner, status); *envious* 
 
 #### Related Terms
 
-- [[emotions-personality-vocabulary#ashamed|ashamed (adj: moral guilt, stronger)]]
-- [[emotions-personality-vocabulary#awkward|awkward (adj: socially uncomfortable)]]
-- [[emotions-personality-vocabulary#humiliated|humiliated (adj: public shame)]]
+- ''ashamed'' — Moral guilt, stronger
+- ''awkward'' — Socially uncomfortable
+- ''humiliated'' — Public shame
 
 #### Cultural Notes
 
@@ -406,47 +302,75 @@ Strictly: *jealous* = fear of losing what you have (partner, status); *envious* 
 #### Sources
 
 - [[emotions-personality-vocabulary]]
-- Oxford English Dictionary
-- COCA corpus (frequency: top 5000)
 
+---
 
-### disappointed
+### touched
 
-**Part of Speech:** adjective
+**Part of Speech:** adjective (past participle)
 
-**Definition:** sad or displeased because something failed to meet expectations
+**Definition:** emotionally moved; feeling gratitude or sympathy
 
-**IPA / Pronunciation:** /ˌdɪsəˈpɔɪntɪd/
+**IPA / Pronunciation:** /tʌtʃt/
 
-**Etymology:** *dis-* "not" + *appoint* "to arrange, settle" (Old French *apointier* → Latin *ad* + *punctum* "point"). Originally "to remove from office" → "fail to fulfill expectation" → feeling.
+**Etymology:** Old French *touchier* "to touch" → Vulgar Latin *toccare* "to strike, touch". Past participle → adjective.
 
 #### Examples
 
-- I'm **disappointed** in the result. — Predicative
-- **Disappointed** fans left early. — Attributive
-- **Disappointed** but not surprised. — Concession
+- I was **touched** by your kindness. — Passive
+- A **touched** expression. — Attributive
+- Deeply **touched**. — Modified
 
 #### Related Terms
 
-- [[emotions-personality-vocabulary#let down|let down (phrasal verb: disappoint)]]
-- [[emotions-personality-vocabulary#frustrated|frustrated (adj: blocked effort)]]
-- [[emotions-personality-vocabulary#disillusioned|disillusioned (adj: lost ideals)]]
+- ''moved'' — Synonym
+- [[grateful]] — Gratitude focus
+- ''heartwarming'' — Causing the feeling
 
 #### Cultural Notes
 
-"Disappointed" is softer than "angry" — expresses failed expectation without blame. "I'm not angry, just disappointed" = classic guilt-inducing phrase (parents, partners). British "a bit disappointed" = very disappointed.
+"Touched" = positive emotional response (usually). "Touched by an angel" = cultural reference. "Touching" = present participle adjective (a touching story).
 
 #### Sources
 
 - [[emotions-personality-vocabulary]]
-- Oxford English Dictionary
-- COCA corpus (frequency: top 5000)
-
 
 ---
 
-## Personality Traits
+### lonely
 
+**Part of Speech:** adjective
+
+**Definition:** sad because one has no friends or company
+
+**IPA / Pronunciation:** /ˈloʊnli/
+
+**Etymology:** *lone* "alone" (short for *alone*) + *-ly*. *Alone* → *all one* "wholly by oneself".
+
+#### Examples
+
+- He felt **lonely** in the new city. — Predicative
+- A **lonely** road. — Attributive: deserted
+- **Lonely** hearts column. — Personal ads
+
+#### Related Terms
+
+- ''loneliness'' — Noun
+- ''alone'' — State (neutral)
+- ''isolated'' — Cut off
+- ''solitary'' — Alone by choice/nature
+
+#### Cultural Notes
+
+"Lonely" = emotional pain of isolation. "Alone" = physical state (can be positive). "Lonely" in songs = universal theme. "Lonely planet" = travel guide brand.
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+## Positive Personality Traits
 
 ### kind
 
@@ -466,398 +390,892 @@ Strictly: *jealous* = fear of losing what you have (partner, status); *envious* 
 
 #### Related Terms
 
-- [[emotions-personality-vocabulary#kindness|kindness (noun)]]
-- [[emotions-personality-vocabulary#generous|generous (adj: giving freely)]]
-- [[emotions-personality-vocabulary#compassionate|compassionate (adj: feeling with)]]
+- ''kindness'' — Noun
+- ''generous'' — Giving freely
+- ''compassionate'' — Feeling with
 
 #### Cultural Notes
 
-"Kind" is the baseline positive trait in English — expected, not exceptional. "Kind of" = hedge ("kind of tired"). "Kind regards" = standard professional closing (less formal than "Sincerely"). "Kill them with kindness" = strategic niceness.
+"Kind" is the baseline positive trait in English — expected, not exceptional. "Kind of" = hedge ("kind of tired"). "Kind regards" = standard professional closing. "Kill them with kindness" = strategic niceness.
 
 #### Sources
 
 - [[emotions-personality-vocabulary]]
-- Oxford English Dictionary
-- COCA corpus (frequency: top 1000)
 
+---
 
-### honest
+### pretty
 
 **Part of Speech:** adjective
 
-**Definition:** truthful, sincere, free from deceit
+**Definition:** attractive in a delicate way; (adverb) fairly, quite
 
-**IPA / Pronunciation:** /ˈɒnɪst/ (UK) /ˈɑːnɪst/ (US)
+**IPA / Pronunciation:** /ˈprɪti/
 
-**Etymology:** Old French *honeste* "honorable, virtuous" → Latin *honestus* "honorable, respected" → *honos* "honor". Cognate with *honor*, *honesty*.
+**Etymology:** Old English *prættig* "cunning, crafty" → *prætt* "trick" → West Germanic *pratt-* "trick". Sense shift: clever → attractive (15c.).
 
 #### Examples
 
-- An **honest** mistake. — Attributive: unintentional
-- **Honest** feedback. — Attributive: candid
-- To be **honest**... — Discourse marker: frankness preface
+- A **pretty** dress. — Attractive
+- **Pretty** good. — Adverb: fairly
+- **Pretty** much. — Adverb: almost
 
 #### Related Terms
 
-- [[emotions-personality-vocabulary#honesty|honesty (noun)]]
-- [[emotions-personality-vocabulary#truthful|truthful (adj: telling truth)]]
-- [[emotions-personality-vocabulary#sincere|sincere (adj: genuine feeling)]]
+- [[beautiful]] — Stronger
+- ''lovely'' — British preference
+- [[cute]] — Youthful attractiveness
 
 #### Cultural Notes
 
-"Honest" = core Anglo value (transparency > harmony). "Honestly" = discourse marker for emphasis, not always literal. "Honest broker" = neutral mediator. "Honest-to-God" = emphatic truth claim. "Honest mistake" = exculpatory.
+"Pretty" = moderate attractiveness (less than beautiful). "Pretty" as adverb = very common hedge ("pretty tired", "pretty sure"). "Pretty please" = child's wheedling.
 
 #### Sources
 
 - [[emotions-personality-vocabulary]]
-- Oxford English Dictionary
-- COCA corpus (frequency: top 2000)
 
+---
 
-### confident
+### cute
 
 **Part of Speech:** adjective
 
-**Definition:** feeling or showing certainty; self-assured
+**Definition:** attractive in a pretty or endearing way (often small/young)
 
-**IPA / Pronunciation:** /ˈkɒnfɪdənt/ (UK) /ˈkɑːnfɪdənt/ (US)
+**IPA / Pronunciation:** /kjuːt/
 
-**Etymology:** Latin *confident-* "trusting boldly" → *confidere* "to trust wholly" (*con-* + *fidere* "to trust"). Related to *confide*, *confidant*, *fidelity*.
+**Etymology:** Short for *acute* "sharp, keen" (18c. student slang) → "clever, sharp" → "attractive" (19c.). *Acute* → Latin *acutus* "sharp".
 
 #### Examples
 
-- She's **confident** she'll pass. — Predicative: certainty
-- A **confident** speaker. — Attributive: self-assured
-- **Confident** tone. — Manner
+- A **cute** puppy. — Small/young
+- **Cute** outfit. — Style
+- **Cute** couple. — Relationship
 
 #### Related Terms
 
-- [[emotions-personality-vocabulary#confidence|confidence (noun)]]
-- [[emotions-personality-vocabulary#self-assured|self-assured (adj: hyphenated compound)]]
-- [[emotions-personality-vocabulary#arrogant|arrogant (adj: overconfident)]]
+- ''adorable'' — Stronger
+- [[sweet]] — Endearing
+- ''charming'' — Personality-based
 
 #### Cultural Notes
 
-Confidence is highly valued in US (assertiveness = competence). UK/Commonwealth more wary of "overconfidence". "Confident" ≠ "arrogant" but line is thin. "Quietly confident" = ideal leader trait. "Confidence trick" = scam (con artist).
+"Cute" = youthful, small, endearing attractiveness. Japanese *kawaii* culture influence. "Cute" ≠ "sexy" (different register). "Cute" as adverb (US) = "pretty" ("cute little house").
 
 #### Sources
 
 - [[emotions-personality-vocabulary]]
-- Oxford English Dictionary
-- COCA corpus (frequency: top 3000)
 
+---
 
-### shy
+### cool
 
 **Part of Speech:** adjective
 
-**Definition:** nervous or timid in company; reserved
+**Definition:** fashionably attractive; calm, composed; excellent (slang)
 
-**IPA / Pronunciation:** /ʃaɪ/
+**IPA / Pronunciation:** /kuːl/
 
-**Etymology:** Old English *sceoh* "timid, easily startled" → Proto-Germanic *skeukhaz* "afraid" → PIE *skeu-* "to shy away (horse)". Cognate with *shy* (verb: horse shies).
+**Etymology:** Old English *cōl* "cool, cold" → Proto-Germanic *kōlaz*. Slang "excellent" 1930s jazz culture (Lester Young). "Calm" sense from temperature metaphor.
 
 #### Examples
 
-- He's **shy** around strangers. — Predicative
-- A **shy** smile. — Attributive
-- **Shy** of the target. — Adverbial: just short of
+- A **cool** car. — Stylish
+- Stay **cool** under pressure. — Calm
+- That's **cool**! — Slang: good
 
 #### Related Terms
 
-- [[emotions-personality-vocabulary#introverted|introverted (adj: personality type)]]
-- [[emotions-personality-vocabulary#reserved|reserved (adj: formal: shy)]]
-- [[emotions-personality-vocabulary#bashful|bashful (adj: self-conscious)]]
+- ''awesome'' — Stronger slang
+- ''chill'' — Relaxed (slang)
+- ''hip'' — Fashionably aware (dated)
 
 #### Cultural Notes
 
-"Shy" = personality trait (neutral/positive: "sweetly shy"). Not pathological (cf. "social anxiety"). "Shy away from" = avoid. "Shy vote" = hidden voter preference. "Camera shy" = dislikes photos.
+"Cool" = ultimate multivalent slang (temperature, attitude, approval). African American Vernacular English origin → mainstream. "Cool down" = calm. "Cool it" = stop.
 
 #### Sources
 
 - [[emotions-personality-vocabulary]]
-- Oxford English Dictionary
-- COCA corpus (frequency: top 3000)
 
+---
 
-### friendly
+### handsome
 
 **Part of Speech:** adjective
 
-**Definition:** kind and pleasant; showing goodwill
+**Definition:** (of man) good-looking; (of amount) substantial
 
-**IPA / Pronunciation:** /ˈfrendli/
+**IPA / Pronunciation:** /ˈhænsəm/
 
-**Etymology:** Old English *freond* "friend" + *-ly* → "characteristic of a friend". *Friend* → *freon* "to love, favor" → PIE *prey-* "to love".
+**Etymology:** *hand* + *some* "easy to handle" → "well-proportioned" → "good-looking" (16c.). Originally applied to things, then men.
 
 #### Examples
 
-- A **friendly** neighbor. — Attributive
-- **Friendly** fire. — Military: accidental own-side
-- **User-friendly**. — Compounding: easy to use
+- A **handsome** man. — Appearance
+- A **handsome** profit. — Substantial
+- **Handsome** reward. — Generous
 
 #### Related Terms
 
-- [[emotions-personality-vocabulary#friend|friend (noun)]]
-- [[emotions-personality-vocabulary#amiable|amiable (adj: good-natured)]]
-- [[emotions-personality-vocabulary#sociable|sociable (adj: enjoys company)]]
+- ''good-looking'' — Neutral
+- ''attractive'' — General
+- ''dashing'' — Stylishly handsome
 
 #### Cultural Notes
 
-"Friendly" = baseline social expectation in US (service culture). UK more reserved ("polite" > "friendly"). "Friendly" compounds: *user-friendly, eco-friendly, budget-friendly, family-friendly*. "Friendly rivalry" = competitive but good-natured.
+"Handsome" = primarily for men (traditional). Women can be "handsome" = striking, not delicate. "Handsome is as handsome does" = character > looks.
 
 #### Sources
 
 - [[emotions-personality-vocabulary]]
-- Oxford English Dictionary
-- COCA corpus (frequency: top 2000)
 
+---
 
-### patient
+### splendid
 
 **Part of Speech:** adjective
 
-**Definition:** able to wait calmly; tolerant of delays or difficulties
+**Definition:** magnificent; very impressive; excellent
 
-**IPA / Pronunciation:** /ˈpeɪʃənt/
+**IPA / Pronunciation:** /ˈsplɛndɪd/
 
-**Etymology:** Old French *pacient* → Latin *patientem* "suffering" → *pati* "to suffer, endure". Cognate with *passion*, *passive*, *compassion*.
+**Etymology:** Old French *splendide* → Latin *splendidus* "shining, brilliant" → *splendēre* "to shine".
 
 #### Examples
 
-- Be **patient** with the children. — Imperative
-- A **patient** teacher. — Attributive
-- **Patient** zero. — Medical: first case
+- A **splendid** view. — Visual
+- **Splendid** idea! — Enthusiastic approval
+- **Splendid** isolation. — Historical: British policy
 
 #### Related Terms
 
-- [[emotions-personality-vocabulary#patience|patience (noun)]]
-- [[emotions-personality-vocabulary#tolerant|tolerant (adj: accepting differences)]]
-- [[emotions-personality-vocabulary#impatient|impatient (adj: opposite)]]
+- ''magnificent'' — Grand
+- ''superb'' — Excellent quality
+- ''marvelous'' — Wonder-inspiring
 
 #### Cultural Notes
 
-"Patient" = medical noun (person receiving care) AND adjective — same spelling, different stress (noun: /ˈpeɪʃənt/, adj: /ˈpeɪʃənt/ — identical). "Patient investor" = long-term. "Lose patience" = reach limit.
+"Splendid" = slightly formal, British-favored. "Splendid!" = enthusiastic agreement (Bertie Wooster style). "Splendid isolation" = historical term.
 
 #### Sources
 
 - [[emotions-personality-vocabulary]]
-- Oxford English Dictionary
-- COCA corpus (frequency: top 3000)
 
+---
 
-### optimistic
+### great
 
 **Part of Speech:** adjective
 
-**Definition:** hopeful and confident about the future
+**Definition:** considerably above average; excellent; large
 
-**IPA / Pronunciation:** /ˌɒptɪˈmɪstɪk/ (UK) /ˌɑːptɪˈmɪstɪk/ (US)
+**IPA / Pronunciation:** /ɡreɪt/
 
-**Etymology:** French *optimiste* → Latin *optimus* "best" → *optimum* "best thing". Coined by Leibniz (1710) *theologia optimistica* "this is the best of all possible worlds" (Voltaire's *Candide* satirized this).
+**Etymology:** Old English *great* "big, thick, coarse" → Proto-Germanic *grautaz* "coarse, thick". Sense: big → important → excellent.
 
 #### Examples
 
-- An **optimistic** forecast. — Attributive
-- She's **optimistic** about recovery. — Predicative
-- **Cautiously optimistic**. — Common hedge
+- A **great** movie. — Excellent
+- **Great** expectations. — Large/high
+- **Great** Britain. — Historical/geographical
 
 #### Related Terms
 
-- [[emotions-personality-vocabulary#optimism|optimism (noun)]]
-- [[emotions-personality-vocabulary#pessimistic|pessimistic (adj: opposite)]]
-- [[emotions-personality-vocabulary#hopeful|hopeful (adj: less philosophical)]]
+- ''excellent'' — Quality focus
+- ''fantastic'' — Enthusiastic
+- ''wonderful'' — Wonder-inspiring
 
 #### Cultural Notes
 
-"Optimistic" = philosophical stance (Leibniz) → general attitude. US culture strongly rewards optimism ("can-do attitude"). "Toxic optimism" = dismissing real problems. "Optimistic locking" = CS concurrency control.
+"Great" = most versatile positive adjective. "Great!" = standalone enthusiasm. "Great" in names = historical importance (Alexander the Great). "Great deal" = large amount.
 
 #### Sources
 
 - [[emotions-personality-vocabulary]]
-- Oxford English Dictionary
-- COCA corpus (frequency: top 5000)
 
+---
 
-### ambitious
+### affectionate
 
 **Part of Speech:** adjective
 
-**Definition:** having strong desire for success, achievement, or power
+**Definition:** readily feeling or showing fondness or tenderness
 
-**IPA / Pronunciation:** /æmˈbɪʃəs/
+**IPA / Pronunciation:** /əˈfɛkʃənət/
 
-**Etymology:** Latin *ambitiosus* "eager for office" → *ambitio* "going around (canvassing for votes)" → *ambire* "to go around" (*amb-* "around" + *ire* "to go"). Original sense: political campaigning.
+**Etymology:** *affection* + *-ate* → Latin *affectio* "disposition" → *afficere* "to influence" (*ad-* + *facere*).
 
 #### Examples
 
-- An **ambitious** project. — Attributive: challenging
-- She's **ambitious** for promotion. — Predicative: goal-oriented
-- **Overambitious**. — Compound: unrealistic
+- An **affectionate** child. — Personality
+- **Affectionate** nickname. — Term of endearment
+- **Affectionate** towards animals. — Disposition
 
 #### Related Terms
 
-- [[emotions-personality-vocabulary#ambition|ambition (noun)]]
-- [[emotions-personality-vocabulary#driven|driven (adj: internally motivated)]]
-- [[emotions-personality-vocabulary#goal-oriented|goal-oriented (compound)]]
+- [[affection]] — Noun
+- ''loving'' — Stronger
+- ''tender'' — Gentle
 
 #### Cultural Notes
 
-"Ambitious" = positive in US (drive, initiative). UK historically ambivalent ("naked ambition" = negative). "Ambitious" collocates: *plan, target, schedule, project, reform*. "Ruthlessly ambitious" = negative.
+"Affectionate" = freely showing love (hugs, words). Cultural variance: Latin/Mediterranean > Anglo > East Asian. "Affectionate" ≠ "clingy" (negative).
 
 #### Sources
 
 - [[emotions-personality-vocabulary]]
-- Oxford English Dictionary
-- COCA corpus (frequency: top 5000)
 
+---
 
-### reliable
+### warm
 
 **Part of Speech:** adjective
 
-**Definition:** consistently good in quality or performance; trustworthy
+**Definition:** (personality) friendly, affectionate; (temperature) moderately hot
 
-**IPA / Pronunciation:** /rɪˈlaɪəbl/
+**IPA / Pronunciation:** /wɔːrm/
 
-**Etymology:** *rely* + *-able* → *rely* (14c.) → Old French *relier* "to bind together" → Latin *religare* "to bind fast" (*re-* + *ligare* "to bind"). Cognate with *religion*, *ligature*.
+**Etymology:** Old English *wearm* → Proto-Germanic *warmaz* → PIE *gʷʰer-* "heat". Personality sense: metaphorical extension.
 
 #### Examples
 
-- A **reliable** source. — Attributive: trustworthy
-- **Reliable** transport. — Attributive: consistent
-- **Reliably** informed. — Adverb
+- A **warm** welcome. — Friendly
+- **Warm** personality. — Affectionate
+- **Warm** colors. — Red/orange/yellow
 
 #### Related Terms
 
-- [[emotions-personality-vocabulary#reliability|reliability (noun)]]
-- [[emotions-personality-vocabulary#trustworthy|trustworthy (adj: moral reliability)]]
-- [[emotions-personality-vocabulary#dependable|dependable (adj: personal reliability)]]
+- ''warmth'' — Noun
+- [[friendly]] — Social
+- [[cold]] — Opposite (personality)
 
 #### Cultural Notes
 
-"Reliable" = functional trust (does what it says), vs "trustworthy" = moral trust. "Reliable narrator" = literary term. "Reliable" in tech: *reliability engineering, 99.999% reliability*. "Count on" = phrasal verb equivalent.
+"Warm" = emotionally open, welcoming. "Warm up to" = become friendly. "Cold fish" = opposite. "Warm body" = minimal staffing.
 
 #### Sources
 
 - [[emotions-personality-vocabulary]]
-- Oxford English Dictionary
-- COCA corpus (frequency: top 5000)
 
+---
+
+### diligent
+
+**Part of Speech:** adjective
+
+**Definition:** showing care and conscientiousness in work/duties
+
+**IPA / Pronunciation:** /ˈdɪlɪdʒənt/
+
+**Etymology:** Old French *diligent* → Latin *diligentem* "attentive, careful" → *diligere* "to value, love" (*dis-* + *legere* "to choose").
+
+#### Examples
+
+- A **diligent** student. — Attributive
+- **Diligent** research. — Process
+- **Diligently** — Adverb
+
+#### Related Terms
+
+- ''diligence'' — Noun
+- ''conscientious'' — Moral care
+- ''hardworking'' — Effort focus
+- ''thorough'' — Completeness
+
+#### Cultural Notes
+
+"Diligent" = careful persistence (legal: "due diligence"). Protestant work ethic association. "Diligent" ≠ "busy" (effectiveness > activity).
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### bright
+
+**Part of Speech:** adjective
+
+**Definition:** (intelligence) quick to learn; (personality) cheerful; (light) full of light
+
+**IPA / Pronunciation:** /braɪt/
+
+**Etymology:** Old English *beorht* "shining" → Proto-Germanic *berhtaz* → PIE *bhereg-* "to shine". Intelligence sense: metaphor.
+
+#### Examples
+
+- A **bright** student. — Intelligent
+- **Bright** personality. — Cheerful
+- **Bright** future. — Promising
+
+#### Related Terms
+
+- ''intelligent'' — Formal
+- ''smart'' — Common
+- ''brilliant'' — Exceptional
+- ''cheerful'' — Personality
+
+#### Cultural Notes
+
+"Bright" = positive intelligence (not "clever" which can be negative). "Bright-eyed and bushy-tailed" = eager. "Bright spark" = clever person (UK/AU).
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### lively
+
+**Part of Speech:** adjective
+
+**Definition:** full of life and energy; outgoing
+
+**IPA / Pronunciation:** /ˈlaɪvli/
+
+**Etymology:** *life* + *-ly* → Old English *līf* → Proto-Germanic *lībą*. Adjective in *-ly* (like *friendly*, *ugly*).
+
+#### Examples
+
+- A **lively** party. — Energetic
+- **Lively** discussion. — Animated
+- **Lively** child. — Active
+
+#### Related Terms
+
+- ''energetic'' — Physical energy
+- ''vivacious'' — Attractively lively (women)
+- ''animated'' — Expressive
+- ''spirited'' — Enthusiastic
+
+#### Cultural Notes
+
+"Lively" = positive energy. "Lively" ≠ "hyperactive" (clinical). "Liven up" = make more energetic. "The life and soul of the party" = very lively person.
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### calm
+
+**Part of Speech:** adjective
+
+**Definition:** not showing nervousness, anger, or strong emotions; peaceful
+
+**IPA / Pronunciation:** /kɑːm/
+
+**Etymology:** Old French *calme* → Italian *calma* "heat of the day" (when wind stops) → Late Latin *cauma* "heat of the day" → Greek *kauma* "burning heat". Sense: stillness after heat.
+
+#### Examples
+
+- Stay **calm**. — Imperative
+- A **calm** person. — Personality
+- **Calm** before the storm. — Idiom
+
+#### Related Terms
+
+- ''composed'' — Self-controlled
+- ''serene'' — Untroubled (deeper)
+- ''tranquil'' — Environmentally peaceful
+- ''relaxed'' — Free from tension
+
+#### Cultural Notes
+
+"Calm" = emotional regulation (valued in leadership). "Calm down" = directive (can be dismissive). "Keep calm and carry on" = WWII poster → meme. "Calm" app = meditation brand.
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+## Negative Personality Traits
+
+### bad
+
+**Part of Speech:** adjective
+
+**Definition:** of poor quality; unpleasant; morally wrong
+
+**IPA / Pronunciation:** /bæd/
+
+**Etymology:** Old English *bædd* "hermaphrodite" (uncertain) → "worthless, depraved". No clear cognates. Comparative *worse*, superlative *worst* (suppletive).
+
+#### Examples
+
+- **Bad** weather. — Unpleasant
+- **Bad** behavior. — Moral
+- **Bad** at math. — Incompetent
+
+#### Related Terms
+
+- ''terrible'' — Very bad
+- ''awful'' — Very bad
+- ''poor'' — Low quality
+- ''evil'' — Morally bad
+
+#### Cultural Notes
+
+"Bad" = most basic negative. "Bad" slang = good (Michael Jackson, AAVE). "Not bad" = good (litotes). "Badly" = adverb (not "bad").
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### lazy
+
+**Part of Speech:** adjective
+
+**Definition:** unwilling to work or use energy
+
+**IPA / Pronunciation:** /ˈleɪzi/
+
+**Etymology:** 16c., origin uncertain. Possibly from *lay* + *-y* → "lying down" → "idle". Or Low German *lasich* "feeble, lazy".
+
+#### Examples
+
+- A **lazy** afternoon. — Relaxed (positive)
+- **Lazy** employee. — Negative
+- **Lazy** evaluation. — CS: deferred computation
+
+#### Related Terms
+
+- ''idle'' — Not working
+- ''slothful'' — Moral (deadly sin)
+- ''indolent'' — Formal
+- ''procrastinating'' — Delaying
+
+#### Cultural Notes
+
+"Lazy" = moral judgment in Protestant cultures. "Lazy Sunday" = positive relaxation. "Lazy" in CS = optimization technique. "Bone idle" = extremely lazy (UK).
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### rude
+
+**Part of Speech:** adjective
+
+**Definition:** offensively impolite or ill-mannered
+
+**IPA / Pronunciation:** /ruːd/
+
+**Etymology:** Old French *rude* "rough, coarse" → Latin *rudis* "rough, unpolished, ignorant". Cognate with *erudite* (opposite: *e-* "out of" + *rudis*).
+
+#### Examples
+
+- **Rude** to the waiter. — Social
+- **Rude** awakening. — Sudden unpleasant realization
+- **Rude** health. — Robust (dated, positive)
+
+#### Related Terms
+
+- ''impolite'' — Formal
+- ''disrespectful'' — Moral
+- ''crude'' — Vulgar
+- ''polite'' — Opposite
+
+#### Cultural Notes
+
+"Rude" = violates social norms. "Rude" ≠ "direct" (Dutch/German cultures). "Rude boy" = Jamaican subculture → UK ska. "Rude mechanicals" = Shakespeare (*Midsummer Night's Dream*).
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### unkind
+
+**Part of Speech:** adjective
+
+**Definition:** not kind; lacking sympathy or consideration
+
+**IPA / Pronunciation:** /ʌnˈkaɪnd/
+
+**Etymology:** *un-* "not" + *kind* (Old English *gecynde* "natural").
+
+#### Examples
+
+- An **unkind** remark. — Specific
+- **Unkind** to animals. — Disposition
+- **Unkind** cut. — Shakespeare (*Julius Caesar*: "most unkindest cut")
+
+#### Related Terms
+
+- ''cruel'' — Stronger
+- ''mean'' — Common (US)
+- ''heartless'' — No empathy
+
+#### Cultural Notes
+
+"Unkind" = slightly formal/literary. "Mean" = everyday US. "Unkind" in Shakespeare = betrayal. "Unkindness of ravens" = collective noun.
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### greedy
+
+**Part of Speech:** adjective
+
+**Definition:** having intense selfish desire for wealth, food, or possessions
+
+**IPA / Pronunciation:** /ˈɡriːdi/
+
+**Etymology:** Old English *grædig* "voracious" → Proto-Germanic *grædagaz* → PIE *gher-* "to want, desire". Cognate with *greed*, *yearn*.
+
+#### Examples
+
+- A **greedy** child. — Food
+- **Greedy** corporation. — Wealth
+- **Greedy** algorithm. — CS: local optimum
+
+#### Related Terms
+
+- ''avaricious'' — Formal (wealth)
+- ''avarice'' — Noun (deadly sin)
+- ''grasping'' — Active grabbing
+- ''generous'' — Opposite
+
+#### Cultural Notes
+
+"Greedy" = one of seven deadly sins (avarice). "Greedy" in CS = algorithm type (not pejorative). "Greedy gut" = glutton (childish).
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### jealous
+
+**Part of Speech:** adjective
+
+**Definition:** feeling resentment against someone because of their rivalry, success, or advantages; envious
+
+**IPA / Pronunciation:** /ˈdʒeləs/
+
+**Etymology:** Old French *gelos* "zealous, jealous" → Late Latin *zelosus* → Latin *zelus* "zeal, jealousy" → Greek *zēlos* "ardor, emulation". Cognate with *zeal*, *zealous*.
+
+#### Examples
+
+- He was **jealous** of his brother's success. — Envy of achievement
+- **Jealous** boyfriend. — Possessive in relationship
+- **Jealous** guarding of secrets. — Protective
+
+#### Related Terms
+
+- ''envious'' — Wanting what others have
+- ''envy'' — Noun
+- ''possessive'' — Controlling
+
+#### Cultural Notes
+
+Strictly: *jealous* = fear of losing what you have; *envious* = wanting what others have. Often conflated. "Jealous" in relationships = expected in Western monogamy. "Green with envy" = idiom.
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
 
 ---
 
 ## Emotion Verbs
 
+### to be happy
 
-### enjoy
+**Part of Speech:** verb phrase
 
-**Part of Speech:** verb (transitive)
+**Definition:** to experience happiness
 
-**Definition:** take pleasure in; like
-
-**IPA / Pronunciation:** /ɪnˈdʒɔɪ/
-
-**Etymology:** Old French *enjoir* "to give joy, rejoice" → *en-* "make" + *joir* "to enjoy" → Latin *gaudere* "to rejoice". Cognate with *joy*, *rejoice*.
+**IPA / Pronunciation:** /tuː biː ˈhæpi/
 
 #### Examples
 
-- I **enjoy** reading. — + gerund
-- **Enjoy** your meal! — Imperative formula
-- **Enjoyed** myself at the party. — Reflexive: have a good time
+- I **am happy** to help. — Willingness
+- She **is happy** with the result. — Satisfaction
 
 #### Related Terms
 
-- [[emotions-personality-vocabulary#enjoyment|enjoyment (noun)]]
-- [[emotions-personality-vocabulary#like|like (verb: simpler)]]
-- [[emotions-personality-vocabulary#love|love (verb: stronger)]]
-
-#### Cultural Notes
-
-"Enjoy" = slightly more formal than "like". "Enjoy yourself" = have fun (reflexive required). "Enjoy" cannot take infinitive (*enjoy to read* ✗ → *enjoy reading* ✓). "Enjoy!" as standalone = service industry imperative.
+- [[happy]] — Adjective
+- ''to feel happy'' — Synonym
 
 #### Sources
 
 - [[emotions-personality-vocabulary]]
-- Oxford English Dictionary
-- COCA corpus (frequency: top 2000)
 
+---
 
-### hate
+### to miss someone
 
-**Part of Speech:** verb (transitive)
+**Part of Speech:** verb phrase
 
-**Definition:** feel intense dislike for
+**Definition:** to feel sadness from absence of someone
 
-**IPA / Pronunciation:** /heɪt/
-
-**Etymology:** Old English *hatian* "to hate" → Proto-Germanic *hatōną* → PIE *kād-* "sorrow, hatred". Cognate with German *hassen*, Dutch *hatten*.
+**IPA / Pronunciation:** /tuː mɪs ˈsʌmwʌn/
 
 #### Examples
 
-- I **hate** waiting. — + gerund
-- **Hate** to say it, but... — Hedge: reluctant truth
-- **Hated** every minute. — Past: strong aversion
+- I **miss you**. — Direct
+- **Missing** my family. — Gerund
 
 #### Related Terms
 
-- [[emotions-personality-vocabulary#hatred|hatred (noun)]]
-- [[emotions-personality-vocabulary#dislike|dislike (verb: milder)]]
-- [[emotions-personality-vocabulary#detest|detest (verb: formal, intense)]]
-
-#### Cultural Notes
-
-"Hate" = very strong, absolute. "I hate it when..." = common complaint frame. "Hate speech" = legal term. "Hater" = slang (person who criticizes). "Love-hate relationship" = ambivalent.
+- ''miss'' — Verb
+- ''homesick'' — Specific
 
 #### Sources
 
 - [[emotions-personality-vocabulary]]
-- Oxford English Dictionary
-- COCA corpus (frequency: top 2000)
 
+---
 
-### appreciate
+### to feel sorry
 
-**Part of Speech:** verb (transitive)
+**Part of Speech:** verb phrase
 
-**Definition:** recognize the value of; be grateful for; understand fully
+**Definition:** to feel sympathy or regret
 
-**IPA / Pronunciation:** /əˈpriːʃieɪt/
-
-**Etymology:** Late Latin *appretiatus* "set a price on" → *ad-* "to" + *pretium* "price" → "to estimate value" → "to be grateful for" → "to understand deeply".
+**IPA / Pronunciation:** /tuː fiːl ˈsɒri/
 
 #### Examples
 
-- I **appreciate** your help. — Gratitude (formal)
-- **Appreciate** the difficulty. — Understand fully
-- **Appreciated** in value. — Intransitive: increase worth
+- I **feel sorry** for him. — Sympathy
+- **Feeling sorry** for yourself. — Self-pity
 
 #### Related Terms
 
-- [[emotions-personality-vocabulary#appreciation|appreciation (noun)]]
-- [[emotions-personality-vocabulary#grateful|grateful (adj)]]
-- [[emotions-personality-vocabulary#value|value (verb/noun)]]
-
-#### Cultural Notes
-
-Three distinct senses: 1) gratitude (formal), 2) understand/recognize, 3) increase in value (financial). "I'd appreciate it if..." = polite request. "Much appreciated" = formulaic thanks. "Appreciate" ≠ "like" (deeper: recognition of worth).
+- [[sorry]] — Adjective
+- ''apologize'' — Action
+- ''sympathize'' — Verb
 
 #### Sources
 
 - [[emotions-personality-vocabulary]]
-- Oxford English Dictionary
-- COCA corpus (frequency: top 3000)
 
+---
+
+### to be upset
+
+**Part of Speech:** verb phrase
+
+**Definition:** to be emotionally disturbed; unhappy, angry, or worried
+
+**IPA / Pronunciation:** /tuː biː ʌpˈsɛt/
+
+#### Examples
+
+- She **is upset** about the news. — General distress
+- Don't get **upset**. — Warning
+
+#### Related Terms
+
+- ''upset'' — Adjective
+- ''distressed'' — Stronger
+- ''bothered'' — Milder
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### to envy
+
+**Part of Speech:** verb
+
+**Definition:** to desire what someone else has
+
+**IPA / Pronunciation:** /tuː ˈɛnvi/
+
+**Etymology:** Old French *envier* → Latin *invidere* "look at with malice" (*in-* + *videre* "see").
+
+#### Examples
+
+- I **envy** your freedom. — Direct
+- **Envy** is a sin. — Moral
+
+#### Related Terms
+
+- ''envy'' — Noun
+- [[jealous]] — Adjective (related)
+- ''covet'' — Biblical/stronger
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### to be grateful
+
+**Part of Speech:** verb phrase
+
+**Definition:** to feel or show appreciation
+
+**IPA / Pronunciation:** /tuː biː ˈɡreɪtfəl/
+
+#### Examples
+
+- I **am grateful** for your help. — Standard
+- **Grateful** for the opportunity. — Reduced
+
+#### Related Terms
+
+- [[grateful]] — Adjective
+- ''thank'' — Verb (action)
+- [[appreciate]] — Verb (deeper)
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### to be ordinary
+
+**Part of Speech:** verb phrase
+
+**Definition:** to be normal, average, not special
+
+**IPA / Pronunciation:** /tuː biː ˈɔːrdɪnɛri/
+
+#### Examples
+
+- It's just an **ordinary** day. — Neutral
+- Don't be **ordinary**. — Exhortation
+
+#### Related Terms
+
+- ''ordinary'' — Adjective
+- ''average'' — Statistical
+- ''normal'' — Standard
+- ''extraordinary'' — Opposite
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### to flutter
+
+**Part of Speech:** verb
+
+**Definition:** (heart) beat rapidly from excitement/nervousness; (feelings) waver
+
+**IPA / Pronunciation:** /tuː ˈflʌtər/
+
+**Etymology:** Old English *floterian* "to flutter, fly" → *flēogan* "to fly". Frequentative of *fly*.
+
+#### Examples
+
+- My heart **fluttered**. — Excitement/nerves
+- **Fluttering** eyelashes. — Flirting
+
+#### Related Terms
+
+- ''heart flutter'' — Medical/emotional
+- ''palpitate'' — Medical
+- ''race'' — Heart racing
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### to be nervous
+
+**Part of Speech:** verb phrase
+
+**Definition:** to feel anxiety or apprehension
+
+**IPA / Pronunciation:** /tuː biː ˈnɜːrvəs/
+
+#### Examples
+
+- I **am nervous** about the test. — Standard
+- **Getting nervous**. — Progressive
+
+#### Related Terms
+
+- [[nervous]] — Adjective
+- [[anxious]] — Synonym
+- ''worried'' — Cognitive focus
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### to be comfortable
+
+**Part of Speech:** verb phrase
+
+**Definition:** to feel physically/emotionally at ease
+
+**IPA / Pronunciation:** /tuː biː ˈkʌmftəbəl/
+
+#### Examples
+
+- I **am comfortable** here. — At ease
+- Make yourself **comfortable**. — Hospitality
+
+#### Related Terms
+
+- ''comfortable'' — Adjective
+- ''at ease'' — Idiom
+- ''relaxed'' — Synonym
+- ''uncomfortable'' — Opposite
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
+
+---
+
+### to be worried
+
+**Part of Speech:** verb phrase
+
+**Definition:** to feel anxiety about actual or potential problems
+
+**IPA / Pronunciation:** /tuː biː ˈwʌrid/
+
+#### Examples
+
+- I **am worried** about you. — Concern
+- **Worried** sick. — Intensifier
+
+#### Related Terms
+
+- ''worried'' — Adjective
+- ''worry'' — Verb/noun
+- [[anxious]] — Clinical overlap
+
+#### Sources
+
+- [[emotions-personality-vocabulary]]
 
 ---
 
 ## Sources
 
-- [[emotions-personality-vocabulary]]
-- Oxford English Dictionary (OED)
-- Corpus of Contemporary American English (COCA) — frequency bands
-- Cambridge English Dictionary
-- Merriam-Webster
+- ESL Emotions Vocabulary
+- Personality Adjectives List
+- [[dating-romance]] — romantic emotions
 
 ---
 
@@ -868,29 +1286,45 @@ Three distinct senses: 1) gratitude (formal), 2) understand/recognize, 3) increa
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: en_emotion_001, display: "love", input: "love", meaning: "사랑", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_002, display: "like", input: "like", meaning: "좋아하다", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_003, display: "happy", input: "happy", meaning: "행복한", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_004, display: "sad", input: "sad", meaning: "슬픈", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_005, display: "angry", input: "angry", meaning: "화난", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_006, display: "afraid", input: "afraid", meaning: "두려운", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_007, display: "excited", input: "excited", meaning: "신난", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_008, display: "nervous", input: "nervous", meaning: "긴장한", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_009, display: "proud", input: "proud", meaning: "자랑스러운", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_010, display: "jealous", input: "jealous", meaning: "질투하는", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_011, display: "grateful", input: "grateful", meaning: "감사한", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_012, display: "embarrassed", input: "embarrassed", meaning: "당황한", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_013, display: "disappointed", input: "disappointed", meaning: "실망한", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_014, display: "kind", input: "kind", meaning: "친절한", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_015, display: "honest", input: "honest", meaning: "정직한", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_016, display: "confident", input: "confident", meaning: "자신감 있는", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_017, display: "shy", input: "shy", meaning: "수줍은", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_018, display: "friendly", input: "friendly", meaning: "친근한", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_019, display: "patient", input: "patient", meaning: "인내심 있는", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_020, display: "optimistic", input: "optimistic", meaning: "낙관적인", level: "B2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_021, display: "ambitious", input: "ambitious", meaning: "야심찬", level: "B2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_022, display: "reliable", input: "reliable", meaning: "믿을 수 있는", level: "B2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_023, display: "enjoy", input: "enjoy", meaning: "즐기다", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_024, display: "hate", input: "hate", meaning: "미워하다", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_025, display: "appreciate", input: "appreciate", meaning: "고마워하다/이해하다", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_001, display: "happy", input: "happy", meaning: "기쁜", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_002, display: "sad", input: "sad", meaning: "슬픈", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_003, display: "angry", input: "angry", meaning: "화난", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_004, display: "afraid", input: "afraid", meaning: "두려운", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_005, display: "surprised", input: "surprised", meaning: "놀란", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_006, display: "disliked", input: "disliked", meaning: "싫은", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_007, display: "regret", input: "regret", meaning: "후회", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_008, display: "anxious", input: "anxious", meaning: "불안한", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_009, display: "embarrassed", input: "embarrassed", meaning: "당황한", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_010, display: "touched", input: "touched", meaning: "감동한", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_011, display: "lonely", input: "lonely", meaning: "외로운", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_012, display: "kind", input: "kind", meaning: "착한", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_013, display: "pretty", input: "pretty", meaning: "예쁜", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_014, display: "cute", input: "cute", meaning: "귀여운", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_015, display: "cool", input: "cool", meaning: "멋진", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_016, display: "handsome", input: "handsome", meaning: "잘생긴", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_017, display: "splendid", input: "splendid", meaning: "훌륭한", level: "B2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_018, display: "great", input: "great", meaning: "대단한", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_019, display: "affectionate", input: "affectionate", meaning: "다정한", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_020, display: "warm", input: "warm", meaning: "따뜻한", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_021, display: "diligent", input: "diligent", meaning: "성실한", level: "B2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_022, display: "bright", input: "bright", meaning: "밝은", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_023, display: "lively", input: "lively", meaning: "활발한", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_024, display: "calm", input: "calm", meaning: "침착한", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_025, display: "bad", input: "bad", meaning: "나쁜", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_026, display: "lazy", input: "lazy", meaning: "게으른", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_027, display: "rude", input: "rude", meaning: "무례한", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_028, display: "unkind", input: "unkind", meaning: "불친절한", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_029, display: "greedy", input: "greedy", meaning: "욕심 많은", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_030, display: "jealous", input: "jealous", meaning: "질투하는", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_031, display: "to be happy", input: "to be happy", meaning: "행복하다", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_032, display: "to miss someone", input: "to miss someone", meaning: "보고 싶다", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_033, display: "to feel sorry", input: "to feel sorry", meaning: "미안하다", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_034, display: "to be upset", input: "to be upset", meaning: "속상하다", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_035, display: "to envy", input: "to envy", meaning: "부럽다", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_036, display: "to be grateful", input: "to be grateful", meaning: "감사하다", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_037, display: "to be ordinary", input: "to be ordinary", meaning: "평범하다", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_038, display: "to flutter", input: "to flutter", meaning: "설레다", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_039, display: "to be nervous", input: "to be nervous", meaning: "긴장하다", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_040, display: "to be comfortable", input: "to be comfortable", meaning: "편안하다", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: en_emotion_041, display: "to be worried", input: "to be worried", meaning: "걱정하다", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
 ```
