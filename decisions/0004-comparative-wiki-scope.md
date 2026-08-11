@@ -101,7 +101,7 @@ comparative/ 에 페이지를 추가하는 경우 **다음 중 하나 이상** �
 
 - [[comparative-page-1]] — 주제 설명
 - [[comparative-page-2]] — 주제 설명
-- [[comparative/master-cheatsheet]] — 5개 언어 1-page reference
+- [[master-cheatsheet]] — 5개 언어 1-page reference
 ```
 
 ### Orphan 방지 정책

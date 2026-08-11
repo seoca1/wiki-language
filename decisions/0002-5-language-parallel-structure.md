@@ -1,7 +1,7 @@
 # ADR-0002: 5개 언어 병렬 구조 + Chinese raw 예외
 
 **상태**: Accepted
-**날짜**: 2026-07-13 (Chinese 추가) / 2026-08-08 (ADR 형식화)
+**날짜**: 2026-07-13 (Chinese 추가) / 2026-08-08 (ADR 형식화) / 2026-08-11 (grammar parity 반영)
 **결정자**: 사용자
 **우선순위**: P1
 
@@ -77,10 +77,11 @@ wiki/{English,Spanish,Japanese,Korean,Chinese}/
 ├── culture/                 # per-topic pages
 ├── sources/                 # source summaries
 ├── study-plan/              # 개인 학습 계획 (per-language 독립)
-└── grammar/                 # EN/JA/KO 는 향후 보강 (현재 ZH 2 + ES 5)
+└── grammar/                 # EN/JA/KO/ZH 6 + ES 5 (2026-08-11: EN/JA/KO/ZH 모두 grammar/ 보강 완료)
 ```
 
 ### Chinese source-summary 페이지 표준
+
 모든 Chinese `wiki/Chinese/sources/*.md` 페이지는 다음을 보유:
 - `**Type:**` (lesson / culture / literature / web article)
 - `**Date Added:**` (YYYY-MM-DD)
@@ -98,13 +99,15 @@ wiki/{English,Spanish,Japanese,Korean,Chinese}/
 | Chinese | `schema/vocabulary.md` | tone (mā/má/mǎ/mà/ma), 简体/번체, 量词, HSK 1-6, character vs word, pinyin (mā vs ma1) |
 
 ### 강제되는 결정
+
 - 신규 언어 추가 시 `wiki/{NewLang}/` layout + `raw/{NewLang}/` 가 본 ADR 의 5언어 구조와 정렬 필수
 - Chinese raw 는 현행 Option A 유지 — 변경 시 신규 ADR 작성
 - Per-language `index.md` 는 Cross-Language Comparisons 섹션으로 `wiki/comparative/*` 와 양방향 연결 (ADR-0004)
 
 ### 향후 결정
+
 - Chinese raw 정책 (Option B 또는 C) 전환 — 정확도 검증 후 별도 ADR
-- EN/JA/KO `wiki/{Lang}/grammar/` 디렉토리 보강 (현재 부재)
+- ~~EN/JA/KO `wiki/{Lang}/grammar/` 디렉토리 보강 (현재 부재)~~ — **2026-08-11 에 EN/JA/KO/ZH 모두 grammar/ 6개씩 보유 완료** (Korean/grammar/speech-levels-ko.md, particles-ko.md + 4 신규; Japanese/grammar/particles-jp.md, verb-forms-jp.md + 4 신규; English/grammar/tense-aspect-en.md, articles-en.md + 4 신규; Chinese/grammar/basic-particles.md, word-order.md + 4 신규). ADR-0002 의 "향후 결정" 항목 중 하나가 본 ADR 자체 변경 없이 해소됨.
 - Language-specific 보조 schema 통합 (현재 `vocabulary.md` 만 — `expression.md`, `culture.md` 의 per-language 필드 보강)
 
 ### Chinese raw 정책 Option B/C 전환 조건 (2026-08-08 추가)
@@ -141,3 +144,4 @@ wiki/{English,Spanish,Japanese,Korean,Chinese}/
 - 2026-07-13: Chinese 가 5번째 언어로 추가, raw 단계 부재 (Option A 적용)
 - 2026-07-28: 모든 Chinese source-summary 페이지에 `## Sources` 섹션 추가 (traceability)
 - 2026-08-08: ADR 형식화 (배치 governance, batch A)
+- 2026-08-11: EN/JA/KO/ZH grammar/ 보강 완료 상태 반영. "향후 결정" 의 "EN/JA/KO wiki/{Lang}/grammar/ 디렉토리 보강" 항목 해소 (ADR 본문 변경 없이 §향후 결정 섹션에 status note 추가만 함 — ADR-0002 의 immutable decision 본문 유지). 진행 사항 상세: `Language/log.md` 2026-08-11 entry + `Language/_archive/sessions/SESSION_SUMMARY_2026-08-11-language-all-options.md`.
