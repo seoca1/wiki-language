@@ -1,10 +1,10 @@
 # English Learning Wiki - Index
 
-Last updated: 2026-08-08 (Track B: 2 grammar pages + tense-aspect/articles raw sources added)
+Last updated: 2026-08-10 (index sync: +11 new comparative page cross-references; Language comparative wiki expansion tracked; 5 culture pages added: american-communication-style/food-culture/modern-life/new-year-traditions/workplace-culture)
 
 ## Vocabulary
 
-- [[time-vocabulary]] - English 시간 어휘 (today/tomorrow/morning/afternoon/evening/night/weekend/hour) (9 theme files)
+- [[time-vocabulary]] - English 시간 어휘 (today/tomorrow/morning/afternoon/evening/night/weekend/hour) (21 theme files)
 
 ### Core Theme Files
 
@@ -23,6 +23,17 @@ Last updated: 2026-08-08 (Track B: 2 grammar pages + tense-aspect/articles raw s
 - [[adventure-vocabulary]] - Travel Adventure — outdoor activities, camping gear, weather, emergencies (2026-08-08 신규, 19 entries, travel-adventure source)
 - [[career-vocabulary]] - Work & Career — job titles, meetings, deadlines, projects, email phrases (2026-08-08 신규, 19 entries, work-and-career source)
 - [[quotes-vocabulary]] - Movie Quotes — iconic lines from classic and modern cinema (2026-08-08 신규, 19 entries, movie-quotes source)
+- [[daily-life-vocabulary]] - Daily Life Basics — greetings, time, weather, family, hobbies, work (2026-08-10 신규, 23 entries, daily-life-basics source)
+- [[food-and-dining]] - Food & Dining — restaurant, cooking, food types, dietary restrictions (2026-08-10 신규, 23 entries, food-and-dining source)
+- [[health-and-body]] - Health & Body — body parts, symptoms, medical situations (2026-08-10 신규, 20 entries, health-and-body source)
+- [[holidays-and-celebrations]] - Holidays & Celebrations — major holidays, parties, weddings, birthdays (2026-08-10 신규, 16 entries, holidays-and-celebrations source)
+- [[literature-passages]] - Literature Passages — genres, devices, famous authors and works (2026-08-10 신규, 20 entries, literature-passages source)
+- [[movie-quotes]] - Movie Quotes — iconic lines from famous films (2026-08-10 신규, 20 entries, movie-quotes source)
+- [[shopping-and-money]] - Shopping & Money — money, prices, payment methods, banking (2026-08-10 신규, 20 entries, shopping-and-money source)
+- [[sports-and-hobbies]] - Sports & Hobbies — popular sports, equipment, hobbies (2026-08-10 신규, 20 entries, sports-and-hobbies source)
+- [[technology-and-internet]] - Technology & Internet — computers, internet, social media (2026-08-10 신규, 20 entries, technology-and-internet source)
+- [[travel-adventure]] - Travel & Adventure — travel, transportation, accommodation (2026-08-10 신규, 20 entries, travel-adventure source)
+- [[work-and-career]] - Work & Career — jobs, office, career development (2026-08-10 신규, 20 entries, work-and-career source)
 
 ### Basic Vocabulary (foundation)
 
@@ -42,13 +53,18 @@ Last updated: 2026-08-08 (Track B: 2 grammar pages + tense-aspect/articles raw s
 - [[business-basics]] - Business expressions — Thank you for your email, Best regards, I would appreciate, etc. (10 entries)
 - [[travel-basics]] - Travel expressions — Where is the airport, hotel, train station, How much is a taxi, Call 911, etc. (10 entries)
 
-## Culture (5 entries)
+## Culture (10 entries; 5 added 2026-08-10)
 
 - [[english-dating-culture]] - English Dating Culture — dating norms, expectations, regional differences
 - [[english-workplace-culture]] - English-Speaking Workplace Culture — US/UK/CA/AU business norms, email, meetings, idioms
 - [[american-cultural-values]] - American Cultural Values — individualism, informality, directness, time, money, diversity
 - [[english-school-life]] - English-Speaking School Culture — US/UK/CA/AU K-12 + college, SAT/A-Levels, prom, dorm life (2026-07-19 신규)
 - [[english-holidays]] - English-Speaking Holidays — Thanksgiving, Christmas, Halloween, July 4, ANZAC, Remembrance, Black Friday, etc. (2026-07-19 신규)
+- [[american-communication-style]] - American Communication Style — directness, small talk, low-context, "Have a Nice Day" (2026-08-10 추가)
+- [[american-food-culture]] - American Food Culture — Thanksgiving, regional BBQ, soul food (2026-08-10 추가)
+- [[american-modern-life]] - American Modern Life — streaming, social media, DoorDash, tipping (2026-08-10 추가)
+- [[american-new-year-traditions]] - American New Year Traditions — Times Square, Black-Eyed Peas, resolutions (2026-08-10 추가)
+- [[american-workplace-culture]] - American Workplace Culture — open door, first names, PIP, at-will (2026-08-10 추가)
 
 ## Grammar (2 entries)
 
@@ -57,8 +73,13 @@ Dedicated grammar pages for English-specific patterns (added 2026-08-08):
 - [[tense-aspect-en]] - Tense & Aspect — 12 tense-aspect forms (시제와 상), Present/Past/Future + Simple/Progressive/Perfect
 - [[articles-en]] - Articles — a/an/the/zero (관사), 불특정 vs 특정 vs 무관사
 
-## Sources (15 processed)
+## Sources (32 processed; 1 added 2026-08-10)
 
+- [[sources/animals-vocabulary]] - English Animals Vocabulary (37 entries: pets, wild, insects, marine, verbs/adjectives)
+- [[sources/business-vocabulary]] - Business Vocabulary (52 entries: email, meetings, corporate, phone, expressions, tech)
+- [[sources/clothing-vocabulary]] - Clothing Vocabulary (30 entries: garments, colors, materials, verbs/adjectives)
+- [[sources/emotions-personality-vocabulary]] - Emotions & Personality Vocabulary (41 entries: emotions, traits, verbs)
+- [[sources/nature-vocabulary]] - Nature Vocabulary (39 entries: phenomena, landforms, plants, verbs/adjectives)
 - [[sources/daily-life-basics]] - Daily Life Basics
 - [[sources/dating-romance]] - dating-romance
 - [[sources/first-travel-japan]] - first-travel-japan (Day 1-3 Japan travel scenario: airport/hotel/restaurant/directions/sightseeing)
@@ -74,6 +95,7 @@ Dedicated grammar pages for English-specific patterns (added 2026-08-08):
 - [[sources/travel-basics]] - Travel Basics
 - [[sources/travel]] - travel
 - [[sources/work-and-career]] - Work and Career
+- [[sources/food-vocabulary]] - Food Vocabulary (2026-08-10 신규, ingredients/beverages/dishes/cooking verbs)
 
 ## Pipeline Notes
 
@@ -120,3 +142,15 @@ See [[index]] for systematic EN/ES/JP/KR/CH comparisons. Especially relevant for
 - [[diatopic-variation-patterns]] — English (RP, General American, Australian) vs other-language dialectal patterns
 - [[tradiciones-veraniegas]] — English power nap (10-20 min) vs Spanish siesta (90-120 min)
 - [[master-cheatsheet]] — One-page essential reference per language
+
+- [[sports-comparison]] — "soccer" vs "football" naming dispute; baseball/basketball/football major spectator sports
+- [[career-workplace-comparison]] — Casual workplace culture; first-name basis common; "Manager"/"Boss" titles
+- [[quotes-famous-lines-comparison]] — Hollywood quotes dominant; "May the Force be with you" globally recognized
+- [[entertainment-pop-culture-comparison]] — Hollywood + TV series; Broadway theater; streaming platforms dominant
+- [[adventure-outdoor-comparison]] — National Parks (Yellowstone/Yosemite); trail culture; REI/Patagonia brands
+- [[literature-genres-comparison]] — Shakespeare + Dickens canon; "fiction" vs "non-fiction" distinction; literary vs genre fiction
+- [[clothing-fashion-comparison]] — "Suit and tie" business wear; casual everyday wear; brand-conscious fashion
+- [[colors-comparison]] — Strict blue/green distinction; "primary colors" (red/yellow/blue); color symbolism flexible
+- [[animals-comparison]] — Pet culture dominant (dogs/cats); farm animals (livestock); wildlife conservation
+- [[family-roles-comparison]] — Simple kinship terms (uncle/aunt = all-inclusive); nuclear family emphasis
+- [[directions-navigation-comparison]] — "Left/right/straight" basic; GPS dominant; cardinal directions standard

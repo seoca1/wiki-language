@@ -1,6 +1,6 @@
 # Japanese Learning Wiki - Index
 
-Last updated: 2026-08-08 (Track B: 2 grammar pages + particles/verb-forms raw sources added)
+Last updated: 2026-08-10 (index sync: +11 new comparative page cross-references; Language comparative wiki expansion tracked; 5 culture pages added: communication-keigo/food-culture-washoku/modern-life/new-year-traditions/workplace-keigo)
 
 ## Vocabulary
 
@@ -37,14 +37,18 @@ Last updated: 2026-08-08 (Track B: 2 grammar pages + particles/verb-forms raw so
 - [[travel-basics]] - 旅行表現 — 空港、ホテル、切符、駅、道を教えてください、写真を撮ってもいいですか等 (10 表現)
 - [[food-dining]] - 食事表現 — メニューをください、これをください、お会計、辛くしないでください、おいしい、持ち帰り等 (10 表現)
 
-## Culture (5 entries)
+## Culture (10 entries; 5 added 2026-08-10)
 
 - [[japanese-dating-culture]] - 日本のデート文化 — 告白文化、進行パターン、世代別違い
 - [[japanese-food-culture]] - 日本の食文化 — 和食、寿司・ラーメン、旬、8地方料理、テーブルマナー
 - [[japanese-school-life]] - 日本の学校文化 — 制服・給食・部活・受験・七五三・修学旅行 (2026-07-19 신규)
 - [[japanese-traditions]] - 日本の伝統文化 — お辞儀・お箸・お正月・お葬式・お寺・神社・冠婚葬祭 (2026-07-19 신규)
 - [[japanese-holiday-culture]] - 日本の祝日文化 — 正月・ゴールデンウィーク・お盆・文化の日・クリスマス (2026-07-19 신규)
-- [[japanese-food-culture]] - 日本の食文化 — 和食, 寿司/ラーメン, 旬, 8地方料理, テーブルマナー
+- [[japanese-communication-keigo]] - 日本の敬語コミュニケーション — 尊敬語/謙譲語/丁寧語/空気を読む (2026-08-10 추가)
+- [[japanese-food-culture-washoku]] - 日本の和食文化 — 和食、刺身、出汁、おせち (2026-08-10 추가)
+- [[japanese-modern-life]] - 日本の現代生活 — コンビニ、LINE、PayPay、自販機 (2026-08-10 추가)
+- [[japanese-new-year-traditions]] - 日本の正月伝統 — 初詣、おせち、お年玉、お正月 (2026-08-10 추가)
+- [[japanese-workplace-keigo]] - 日本の職場敬語 — 飲み会、先輩/後輩、残業 (2026-08-10 추가)
 
 ## Grammar (2 entries)
 
@@ -53,7 +57,7 @@ Dedicated grammar pages for Japanese-specific patterns (added 2026-08-08):
 - [[particles-jp]] - 助詞 (조사) — 9대 핵심 조사 は/が/を/に/で/へ/から/まで/より
 - [[verb-forms-jp]] - 動詞の形式 (동사 형식) — 6가지 기본 형식 (辞書/ます/て/た/ない/意向) + 3 그룹 (五段/一段/不規則)
 
-## Sources (15 processed)
+## Sources (16 processed; 1 added 2026-08-10)
 
 - [[sources/2026-07-13_Kanji_N5_100]] - Kanji N5 100 — 7/13 인제스트, 100 most common N5 kanji source page
 - [[sources/anime-drama-quotes]] - anime-drama-quotes
@@ -70,6 +74,7 @@ Dedicated grammar pages for Japanese-specific patterns (added 2026-08-08):
 - [[sources/technology-and-internet]] - テクノロジー (Technology)
 - [[sources/travel-adventure]] - Travel Adventure
 - [[sources/travel-basics]] - 旅行基礎 (Travel Basics)
+- [[sources/travel-basics-jp]] - 旅行基礎 (Travel Basics JP, 2026-08-10 신규, 空港/ホテル/交通/方向/緊急)
 
 ## Pipeline Notes
 
@@ -117,3 +122,15 @@ See [[index]] for systematic EN/ES/JP/KR/CH comparisons. Especially relevant for
 - [[tradiciones-veraniegas]] — Japanese 昼寝 (hirune, 15-30 min) vs Spanish siesta
 - [[lunch-and-rest-patterns]] — Japanese 12:00-13:00 lunch + inemuri (office nap)
 - [[master-cheatsheet]] — One-page essential reference per language
+
+- [[sports-comparison]] — 部活動 (bukatsu = school club sports); 武道 (martial arts); 野球/soccer dominant
+- [[career-workplace-comparison]] — 終身雇用 (lifetime employment); 飲み会 (nomikai); 先輩 (senpai) system
+- [[quotes-famous-lines-comparison]] — アニメ (anime) + 漫画 (manga) catchphrases; 声優 (seiyū) voice actors celebrity
+- [[entertainment-pop-culture-comparison]] — Anime/manga vertical integration; 声優 (seiyū) industry; 漫画 → anime pipeline
+- [[adventure-outdoor-comparison]] — 登山 (tozan) culture; 縦走 (long-distance ridge traverse); 山小屋 (mountain huts)
+- [[literature-genres-comparison]] — ライトノベル (light novel); 漫画 (manga); 純文学 (junbungaku) literary fiction
+- [[clothing-fashion-comparison]] — 着物 (kimono), 浴衣 (yukata); fashion subcultures (kawaii/gyaru); UNIQLO global
+- [[colors-comparison]] — 青 (ao) covers blue AND green (青信号 = green light!); traditional 色 names
+- [[animals-comparison]] — ペット (petto); 動物 (dōbutsu); 鳥 (birds) + 魚 (fish) cultural importance; sushi culture
+- [[family-roles-comparison]] — Extended family terms (おじいさん/おばあさん); 義理 (giri) in-law obligations
+- [[directions-navigation-comparison]] — まっすぐ (massugu) common; 交差点 (kōsaten = intersection); address hierarchy detailed

@@ -1,6 +1,6 @@
 # Spanish Learning Wiki - Index
 
-Last updated: 2026-08-03 (ingested ALL remaining raw sources: fiestas-y-celebrations, trabajo-y-carrera, viaje-aventura, comida-y-restaurante, literature-passages; added 40+ vocab entries, 35+ expressions, 20+ culture pages)
+Last updated: 2026-08-10 (4 new vocabulary themes: career, adventure, quotes, entertainment; added 11 comparative page cross-references; ES-specific vocabulary gaps closed)
 
 ## Vocabulary
 
@@ -39,6 +39,16 @@ Last updated: 2026-08-03 (ingested ALL remaining raw sources: fiestas-y-celebrat
 
 - [[transportation-vocabulary]] - Transporte — estación/metro/autobús/taxi/aeropuerto/billete/tren/avión
 
+### Career & Adventure (added 2026-08-10)
+
+- [[career-vocabulary]] - Trabajo y Carrera — profesiones/oficina/reuniones/comunicación (2026-08-10 신규, A2-B2)
+- [[adventure-vocabulary]] - Aventura y Viaje — documentos/transporte/alojamiento/outdoor/seguridad (2026-08-10 신규, A2-B1)
+
+### Entertainment & Quotes (added 2026-08-10)
+
+- [[entertainment-vocabulary]] - Entretenimiento y Ocio — cine/TV/música/animación/fiestas (2026-08-10 신규, A2-B2)
+- [[quotes-vocabulary]] - Frases Célebres y Citas — Cervantes/Calderón/cine/refranes (2026-08-10 신규, B2-C1)
+
 ### Time & Prepositions
 
 - [[time-prepositions-vocabulary]] - Tiempo y Preposiciones — ayer/hoy/mañana, a/de/en/para/por
@@ -65,53 +75,79 @@ Dedicated grammar pages for Spanish-specific patterns:
 - [[gustar]] - Gustar — gusta/gustan (indirect object verb construction)
 - [[preposiciones-es]] - Preposiciones — a/de/en/para/por usage patterns
 
-## Culture (35+ entries)
+## Culture (43 entries; organized by theme 2026-08-10)
 
-Comprehensive cultural analysis pages:
+Comprehensive cultural analysis pages organized into 7 thematic categories:
 
-- [[spanish-dating-culture]] - Citas en español — citas, expectativas, diferencias regionales
-- [[tango-argentino]] - Tango Argentino — abrazo/milonga/lunfardo/cabeceo, Buenos Aires
-- [[mexico-comida-callejera]] - Comida callejera mexicana — tacos, tamales, atole
-- [[pueblo-costero-funeral]] - Funeral en pueblo costero — tradiciones, rituales
-- [[espana-vs-latinoamerica-registro]] - España vs Latinoamérica — registro y variantes
-- [[dele-a2-estructura]] - DELE A2 estructura — formato del examen
-- [[mexico-patriarcado-tradicion]] - México patriarcado — tradición y crítica
-- [[subjuntivo-conversacional]] - Subjuntivo conversacional — uso cotidiano
-- [[recetario-como-estructura]] - Recetario como estructura — recetas literarias
-- [[realismo-magico-marquez]] - Realismo mágico (García Márquez) — técnica narrativa
-- [[siesta-tradicion-verano]] - Siesta tradición verano — descanso mediterráneo
-- [[realismo-magico-esquivel]] - Realismo mágico (Esquivel) — Como agua para chocolate
-- [[verano-espana-tradiciones]] - Verano en España — fiestas, tradiciones
-- [[cocina-espacio-femenino]] - Cocina espacio femenino — género y gastronomía
+### Festivals & Holidays (8 entries)
+
+- [[carnaval]] - Carnaval — Cádiz, Tenerife, Río, Barranquilla
+- [[semana-santa]] - Semana Santa — procesiones, cofradías, turismo
+- [[san-fermin]] - San Fermín — encierro, chupinazo, Pamplona
+- [[tomatina]] - La Tomatina — batalla tomates Buñol
 - [[navidad-traditions]] - Navidad tradiciones — Nochebuena, Reyes, gastronomía
 - [[ano-nuevo-uvas]] - Año Nuevo: 12 uvas — tradición campanadas
-- [[semana-santa]] - Semana Santa — procesiones, cofradías, turismo
 - [[dia-muertos]] - Día de los Muertos — altar, cempasúchil, Catrina
-- [[tomatina]] - La Tomatina — batalla tomates Buñol
-- [[san-fermin]] - San Fermín — encierro, chupinazo, Pamplona
 - [[quinceanera]] - Quinceañera — 15 años, ritual transición
-- [[carnaval]] - Carnaval — Cádiz, Tenerife, Río, Barranquilla
+
+### Food & Dining (8 entries)
+
+- [[tapeo]] - Cultura tapeo — tapas gratis/pagadas, ruta
+- [[menu-del-dia]] - Menú del día — almuerzo laboral económico
+- [[horarios]] - Horarios comida — España vs LatAm diferencias
+- [[mexico-comida-callejera]] - Comida callejera mexicana — tacos, tamales, atole
+- [[asado]] - Asado Argentina — ritual parrilla, cortes, chimichurri
+- [[comida-familiar]] - Comida familiar — cohesión, transmisión, roles
+- [[cocina-espacio-femenino]] - Cocina espacio femenino — género y gastronomía
+- [[propinas]] - Propinas mundo hispano — España vs LatAm
+
+### Workplace & Daily Life (8 entries)
+
 - [[horario-espana-latam]] - Horario laboral España vs LatAm
 - [[siesta-trabajo]] - Siesta en el trabajo — historia y evolución
 - [[cafe-social]] - Café social oficina — ritual pausa
 - [[tu-vs-usted]] - Tú vs Usted trabajo — diferencias regionales
 - [[networking-comidas]] - Networking comidas — menú del día, sobremesa
 - [[email-formato]] - Formato correo profesional — estructura, firma
+- [[espana-vs-latinoamerica-registro]] - España vs Latinoamérica — registro y variantes
+- [[dele-a2-estructura]] - DELE A2 estructura — formato del examen
+
+### Leisure & Outdoors (4 entries)
+
 - [[senderismo-espana]] - Senderismo España — GR/PR/SL, parques nacionales
 - [[parques-nacionales]] - Parques Nacionales España — 16 parques, biodiversidad
 - [[camping-cultura]] - Camping cultura — regulación, ética Leave No Trace
 - [[emergencia-vs-urgencia]] - Emergencia vs Urgencia — distinción vital
-- [[propinas]] - Propinas mundo hispano — España vs LatAm
-- [[horarios]] - Horarios comida — España vs LatAm diferencias
-- [[tapeo]] - Cultura tapeo — tapas gratis/pagadas, ruta
-- [[menu-del-dia]] - Menú del día — almuerzo laboral económico
-- [[asado]] - Asado Argentina — ritual parrilla, cortes, chimichurri
-- [[comida-familiar]] - Comida familiar — cohesión, transmisión, roles
+
+### Seasonal & Traditional (2 entries)
+
+- [[verano-espana-tradiciones]] - Verano en España — fiestas, tradiciones
+- [[siesta-tradicion-verano]] - Siesta tradición verano — descanso mediterráneo
+
+### Literature & Authors (5 entries)
+
 - [[cervantes]] - Cervantes y Don Quijote — novela moderna
 - [[garcia-marquez]] - García Márquez — realismo mágico, Macondo
 - [[isabel-allende]] - Isabel Allende — realismo mágico femenino
 - [[julio-cortazar]] - Julio Cortázar — Rayuela, cronopios, novela experimental
 - [[boom-latinoamericano]] - Boom Latinoamericano — 1960s-70s explosión editorial
+
+### Language & Grammar Style (3 entries)
+
+- [[subjuntivo-conversacional]] - Subjuntivo conversacional — uso cotidiano
+- [[realismo-magico-marquez]] - Realismo mágico (García Márquez) — técnica narrativa
+- [[realismo-magico-esquivel]] - Realismo mágico (Esquivel) — Como agua para chocolate
+
+### Regional & Social Issues (4 entries)
+
+- [[mexico-patriarcado-tradicion]] - México patriarcado — tradición y crítica
+- [[pueblo-costero-funeral]] - Funeral en pueblo costero — tradiciones, rituales
+- [[recetario-como-estructura]] - Recetario como estructura — recetas literarias
+- [[tango-argentino]] - Tango Argentino — abrazo/milonga/lunfardo/cabeceo, Buenos Aires
+
+### Cross-cutting (1 entry)
+
+- [[spanish-dating-culture]] - Citas en español — citas, expectativas, diferencias regionales
 
 ## Expressions
 
@@ -123,8 +159,12 @@ Comprehensive cultural analysis pages:
 - [[subjunctive-patterns]] - Patrones de subjuntivo — cuando/antes de que/para que/ojalá + subjuntivo (4 entries)
 - [[cultural-idioms]] - Expresiones culturales — idiomático, literario, regional (8 entries, incl. devolverlo-huerfano-a-las-aguas, quedar-varado, dar-la-voz-de-alarma, subirse-al-higado, tener-cara-de-llamarse)
 
-## Sources (22 processed)
+## Sources (36 processed; 11 added 2026-08-10)
 
+- [[sources/animals-vocabulary-es]] - Animales Vocabulary (37 entries: mascotas, salvajes, insectos, marinos, verbos/adjetivos)
+- [[sources/business-vocabulary-es]] - Business Vocabulary (52 entries: email, reuniones, corporativo, teléfono, expresiones, tech)
+- [[sources/clothing-vocabulary-es]] - Ropa Vocabulary (30 entries: prendas, colores, materiales, verbos/adjetivos)
+- [[sources/nature-vocabulary-es]] - Naturaleza Vocabulary (39 entries: fenómenos, formations, plantas, verbos/adjetivos)
 - [[sources/comida-y-restaurante]] - Comida y Restaurante (Food and Restaurant)
 - [[sources/como-agua-para-chocolate-cap1]] - Como agua para chocolate - Capítulo 1 (Enero)
 - [[sources/dating-romance-es]] - dating-romance-es
@@ -136,6 +176,17 @@ Comprehensive cultural analysis pages:
 - [[sources/notes-in-spanish-planes-de-verano]] - Notes in Spanish Advanced - Planes de verano
 - [[sources/trabajo-y-carrera]] - Trabajo y Carrera (Work and Career)
 - [[sources/viaje-aventura]] - Viaje de Aventura (Travel Adventure)
+- [[sources/daily-life-basics]] - Daily Life Basics (2026-08-10 신규, saludos/familia/verbos/numeros)
+- [[sources/food-and-dining]] - Food and Dining (2026-08-10 신규, ingredientes/platos/restaurante)
+- [[sources/food-vocabulary-es]] - Food Vocabulary ES (2026-08-10 신규, ingredientes/comidas/regiones)
+- [[sources/health-and-body]] - Health and Body (2026-08-10 신규, partes/síntomas/médico)
+- [[sources/holidays-and-celebrations]] - Holidays and Celebrations (2026-08-10 신규, Navidad/Año Nuevo/Easter/festivales)
+- [[sources/movie-quotes]] - Movie Quotes (2026-08-10 신규, frases icónicas cine/literatura)
+- [[sources/shopping-and-money]] - Shopping and Money (2026-08-10 신규, tiendas/precios/pago/regateo)
+- [[sources/sports-and-hobbies]] - Sports and Hobbies (2026-08-10 신규, deportes/fitness/outdoor)
+- [[sources/technology-and-internet]] - Technology and Internet (2026-08-10 신규, dispositivos/software/redes)
+- [[sources/travel-adventure]] - Travel Adventure (2026-08-10 신규, documentos/transporte/alojamiento)
+- [[sources/work-and-career]] - Work and Career (2026-08-10 신규, profesiones/oficina/reuniones)
 
 ### Source Pages with Dates
 
@@ -188,3 +239,15 @@ See [[index]] for systematic EN/ES/JP/KR/CH comparisons. Especially relevant for
 - [[verb-conjugation-patterns]] — 6 Spanish verb conjugation tables (-AR/-ER/-IR × 6 persons × 4 tenses)
 - [[lunch-and-rest-patterns]] — Spanish 14:00-15:30 lunch vs other cultures
 - [[master-cheatsheet]] — One-page essential reference per language
+
+- [[sports-comparison]] — Fútbol universal; regional variations; sports culture passionate (Fútbol Club Barcelona, etc.)
+- [[career-workplace-comparison]] — Hierarchical usted/tú; "Compañero" vs "Jefe"; siesta-influenced schedule
+- [[quotes-famous-lines-comparison]] — Telenovela quotes culturally iconic; "Recuerdos, recuerdos" cliché
+- [[entertainment-pop-culture-comparison]] — Telenovela tradition (LatAm); regional film industries (cine argentino/español)
+- [[adventure-outdoor-comparison]] — Camino de Santiago pilgrimage; Andean mountaineering; senderismo (Spain)
+- [[literature-genres-comparison]] — Realismo mágico (García Márquez, Allende); Don Quixote foundational; Boom Latinoamericano
+- [[clothing-fashion-comparison]] — Traje de flamenca; Folklore clothing by region; Mediterranean climate wear
+- [[colors-comparison]] — Gender agreement (rojo/roja); "color" universal; cultural warm palette (LatAm)
+- [[animals-comparison]] — Mascota (pet) culture; "toro bravo" cultural symbol; regional animal diversity
+- [[family-roles-comparison]] — Tío/tía with gender agreement; "Compadre"/"Comadre" cultural terms
+- [[directions-navigation-comparison]] — Izquierda/derecha common; "recto" (straight ahead); cardinal directions

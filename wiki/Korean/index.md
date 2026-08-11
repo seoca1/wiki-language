@@ -1,6 +1,6 @@
 # Korean Learning Wiki - Index
 
-Last updated: 2026-08-08 (Track B: 2 grammar pages + speech-levels/particles raw sources added)
+Last updated: 2026-08-10 (index sync: +11 new comparative page cross-references; Language comparative wiki expansion tracked; 4 new KR vocab themes added: career/quotes/adventure/entertainment; 5 culture pages added: communication-style/food-culture/modern-life/new-year-traditions/workplace-hierarchy)
 
 ## Vocabulary
 
@@ -33,6 +33,13 @@ Last updated: 2026-08-08 (Track B: 2 grammar pages + speech-levels/particles raw
 
 - [[jp-travel-vocab]] - 일본 여행 어휘 (Japan Travel Vocab) — Korean traveler's Japanese survival vocabulary
 
+### Career & Entertainment (added 2026-08-10)
+
+- [[career-vocabulary]] - 직업 어휘 (Career) — 직업/직장/회의/이메일/구직 (2026-08-10 신규, TOPIK 3-4)
+- [[quotes-vocabulary]] - 명언 어휘 (Famous Quotes) — 고전 명언/현대 격언/격려 표현 (2026-08-10 신규, TOPIK 4-6)
+- [[adventure-vocabulary]] - 모험 어휘 (Adventure) — 등산/하이킹/캠핑/수영 (2026-08-10 신규)
+- [[entertainment-vocabulary]] - 엔터테인먼트 (Entertainment) — 영화/음악/애니메이션/팬덤 (2026-08-10 신규)
+
 ## Expressions
 
 - [[common-phrases]] - Korean 핵심 일상 표현 (greeting/clarification/request/question) (5 theme files / 48 entries)
@@ -44,12 +51,17 @@ Last updated: 2026-08-08 (Track B: 2 grammar pages + speech-levels/particles raw
 - [[food-dining]] - 식당 표현 — 메뉴판 주세요, 이거 주세요, 계산서 주세요, 안 매워요, 비건입니다, 맛있어요 등 (10 표현)
 - [[daily-life]] - 일상생활 표현 — 감사합니다, 죄송합니다, 안녕하세요, 얼마예요, 화장실 어디예요, 도와주세요 등 (10 표현)
 
-## Culture (4 entries)
+## Culture (9 entries; 5 added 2026-08-10)
 
 - [[korean-dating-culture]] - 한국 연애 문화 — 썸/고백/명절, 세대별 차이
 - [[korean-hallyu-wave]] - 한류 (Korean Wave) — K-pop, K-drama, K-beauty, K-food 산업 + 정/눈치/한 한류의 문화적 뿌리
 - [[korean-family-holidays]] - 한국 가족 명절 — 설날/추석/차례/세배/성묘 (2026-07-19 신규, 가족 중심 명절 문화)
 - [[korean-workplace-culture]] - 한국 직장 문화 — 눈치/선후배/회식/수직적 관계/996/워라밸 (2026-07-19 신규)
+- [[korean-communication-style]] - 한국 의사소통 스타일 — 존비/눈치/상호의존/체면 (2026-08-10 추가)
+- [[korean-food-culture]] - 한국 음식 문화 — 밥/반찬/김치/장/쌈/정 (2026-08-10 추가)
+- [[korean-modern-life]] - 한국 현대 생활 — 카카오톡/배달앱/편의점/쿠팡 (2026-08-10 추가)
+- [[korean-new-year-traditions]] - 한국 설날 전통 — 세배/떡국/차례/윷놀이 (2026-08-10 추가)
+- [[korean-workplace-hierarchy]] - 한국 직장 위계 — 수직적 관계/직급/연공서열 (2026-08-10 추가)
 
 ## Grammar (2 entries)
 
@@ -58,7 +70,7 @@ Dedicated grammar pages for Korean-specific patterns (added 2026-08-08):
 - [[speech-levels-ko]] - 경어법 (Speech Levels) — 4대 격식체 (합쇼체/해요체/해체/하소서체) + 시제 결합
 - [[particles-ko]] - 조사 (Particles) — 12대 핵심 조사 (이/가/은/는/을/를/의/에/에서/로/으로/와/과/만/도/처럼/(이)라) + 받침 有/無 변형
 
-## Sources (12 processed)
+## Sources (13 processed; 1 added 2026-08-10)
 
 - [[sources/daily-life-basics]] - 일상 회화 (Daily Life)
 - [[sources/dating-romance-kr]] - dating-romance-kr
@@ -72,6 +84,7 @@ Dedicated grammar pages for Korean-specific patterns (added 2026-08-08):
 - [[sources/technology-and-internet]] - 기술과 인터넷 (Technology and Internet)
 - [[sources/travel-basics-kr]] - travel-basics-kr
 - [[sources/travel-basics]] - 여행 기초 (Travel Basics)
+- [[sources/clothing-vocabulary]] - 의류・패션 어휘 (Clothing & Fashion) (2026-08-10 신규)
 
 ## Pipeline Notes
 
@@ -119,3 +132,15 @@ See [[index]] for systematic EN/ES/JP/KR/CH comparisons. Especially relevant for
 - [[tradiciones-veraniegas]] — Korean 낮잠 (natjam, 20-30 min) vs Spanish siesta
 - [[lunch-and-rest-patterns]] — Korean 12:00-13:00 lunch + 낮잠 culture
 - [[master-cheatsheet]] — One-page essential reference per language
+
+- [[sports-comparison]] — 등산 (deungsan) culture; 야구 (yagu) pro league; 태권도 (taekwondo)
+- [[career-workplace-comparison]] — 수직적 hierarchy; 회식 (hoesik = company dinners); 연장자 (elder) respect
+- [[quotes-famous-lines-comparison]] — K-drama + K-pop lyrics widely shared; "Fighting!" (파이팅!) cultural export
+- [[entertainment-pop-culture-comparison]] — K-pop + K-drama + Webtoon triangle; 정주행 (binge) cultural concept; Hallyu wave
+- [[adventure-outdoor-comparison]] — 등산 (deungsan) national hobby; 한라산 (Hallasan); 북한산 (Bukhansan); 100 mountains
+- [[literature-genres-comparison]] — 웹소설 (web novel); 웹툰 (webtoon); 문학 (literature); K-literature global rise (한강)
+- [[clothing-fashion-comparison]] — 한복 (hanbok); K-fashion (Seoul style); 한류 (Hallyu) fashion exports
+- [[colors-comparison]] — Strict color terms; cultural significance (오방색 obangsaek = five traditional colors)
+- [[animals-comparison]] — 반려동물 (companion animals) growing; 산 (mountain) wildlife; 김치 (fermented food) animals
+- [[family-roles-comparison]] — Most complex kinship; 시 (wife's family) vs 외 (husband's family) split; 형제 (hyeongje) sibling hierarchy
+- [[directions-navigation-comparison]] — 직진 (jikjin); addresses structured (도/시/구/동/번지); complex navigation
