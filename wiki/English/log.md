@@ -1,4 +1,49 @@
+# English Learning - Activity Log
 
+## [2026-08-08] ingest | English Nature Vocabulary (raw/English/nature-vocabulary.md)
+
+- Updated `wiki/English/vocabulary/nature-vocabulary.md` with 39 entries (was 2 stub entries)
+- Categories: Natural Phenomena (11), Landforms (10), Plants (6), Verbs/Adjectives (12)
+- Added IPA pronunciation, etymology, examples, cultural notes, related terms for each entry
+- Created source summary: [[sources/nature-vocabulary]]
+- Updated index.md (Sources: 19 → 20)
+- Pipeline Form YAML appendix includes all 39 entries for game corpus
+
+## [2026-08-08] ingest | English Emotions & Personality Vocabulary (raw/English/emotions-personality-vocabulary.md)
+
+- Updated `wiki/English/vocabulary/emotions-personality-vocabulary.md` with 41 entries (merged with existing detailed 25 entries)
+- Categories: Basic Emotions (11), Positive Personality Traits (13), Negative Personality Traits (6), Emotion Verbs (11)
+- Added IPA pronunciation, etymology, examples, cultural notes, related terms for each entry
+- Created source summary: [[sources/emotions-personality-vocabulary]]
+- Updated index.md (Sources: 18 → 19)
+- Pipeline Form YAML appendix includes all 41 entries for game corpus
+
+## [2026-08-08] ingest | English Clothing Vocabulary (raw/English/clothing-vocabulary.md)
+
+- Updated `wiki/English/vocabulary/clothing-vocabulary.md` with 30 entries (was 6 stub entries)
+- Categories: Basic Clothing (10), Colors & Materials (4), Fabric Materials (4), Verbs/Adjectives (12)
+- Added IPA pronunciation, etymology, examples, cultural notes, related terms for each entry
+- Created source summary: [[sources/clothing-vocabulary]]
+- Updated index.md (Sources: 17 → 18)
+- Pipeline Form YAML appendix includes all 30 entries for game corpus
+
+## [2026-08-08] ingest | English Business Vocabulary (raw/English/business-vocabulary.md)
+
+- Updated `wiki/English/vocabulary/business-vocabulary.md` with 52 entries (was 9 tech-only stub entries)
+- Categories: Email/Correspondence (11), Meetings & Work (10), Corporate Structure (11), Phone/Communication (4), Business Expressions (4), Communication & Technology (8 merged from existing)
+- Added IPA pronunciation, etymology, examples, cultural notes, related terms for each entry
+- Created source summary: [[sources/business-vocabulary]]
+- Updated index.md (Sources: 16 → 17)
+- Pipeline Form YAML appendix includes all 52 entries for game corpus
+
+## [2026-08-08] ingest | English Animals Vocabulary (raw/English/animals-vocabulary.md)
+
+- Updated `wiki/English/vocabulary/animals-vocabulary.md` with 37 entries (was 6 stub entries)
+- Categories: Pets & Farm (10), Wild Animals (11), Insects & Marine (6), Verbs/Adjectives (10)
+- Added IPA pronunciation, etymology, examples, cultural notes, related terms for each entry
+- Created source summary: [[sources/animals-vocabulary]]
+- Updated index.md (Sources: 15 → 16)
+- Pipeline Form YAML appendix includes all 37 entries for game corpus
 
 ## [2026-07-19] wiki | Phase A & B — Language broken-wikilink cleanup (620 → 0)
 
@@ -87,7 +132,7 @@
 
 Created 2 new expression theme files for English, bringing expressions to 5 total:
 
-- [business-basics](expressions/business-basics.md) - Thank you for your email, I would appreciate it if, Best regards, I'll follow up next week, I'll get back to you on that, Thank you for your time, Per our discussion, I'd like to schedule a meeting, Thanks for the update, Could you please... (10 表現)
+- [business-basics](expressions/business-basics.md) - Thank you for your email, I would appreciate it if, Best regards, I'll follow up next week, I'll get back to you on that, Thank you for your time, Per our discussion, I'd like to schedule a meeting, Thanks for the update, Could you please... (10 표현)
 - [travel-basics](expressions/travel-basics.md) - Where is the airport, hotel, train station, Can I have a ticket to ___, How much is a taxi, How do I get to ___, Help, Call 911!, Can you take a photo of me, Where can I find a good restaurant (10 表現)
 
 Index.md updated (Expressions: 3 → 5 theme files, 22 → 42 entries)

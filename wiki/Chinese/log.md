@@ -1,4 +1,112 @@
+# Chinese Learning - Activity Log
 
+## [2026-08-09] ingest | Chinese Health Vocabulary (raw/Chinese/health-zh.md)
+
+- Created `wiki/Chinese/vocabulary/health-zh.md` with entries from raw/Chinese/health-zh.md
+- Categories: 병원/의료기관, 의료진, 증상/질병, 신체 부위, 의료 동작/처치, 약/처방, 의료 표현/문장, 문화적 배경
+- Added IPA pinyin, etymology, examples, cultural notes, pronunciation notes
+- Created source summary: [[sources/health-zh]]
+- Updated index.md (Vocabulary: health-zh added; Sources: 20 → 21)
+- Pipeline Form YAML appendix includes all entries for game corpus
+
+## [2026-08-09] ingest | Chinese Months Vocabulary (raw/Chinese/months-zh.md)
+
+- Created `wiki/Chinese/vocabulary/months-zh.md` with entries from raw/Chinese/months-zh.md
+- Categories: 12개월, 월 관련 표현, 계절과 월, 음력/양력, 월별 별칭
+- Added IPA pinyin, examples, cultural notes, pronunciation notes
+- Created source summary: [[sources/months-zh]]
+- Updated index.md (Vocabulary: months-zh added; Sources: 19 → 20)
+- Pipeline Form YAML appendix includes all entries for game corpus
+
+## [2026-08-09] ingest | Chinese Weekdays Vocabulary (raw/Chinese/weekdays-zh.md)
+
+- Created `wiki/Chinese/vocabulary/weekdays-zh.md` with entries from raw/Chinese/weekdays-zh.md
+- Categories: 기본 요일, 요일 관련 표현, 주/주말 관련 어휘, 요일 약어
+- Added IPA pinyin, examples, cultural notes, pronunciation notes
+- Created source summary: [[sources/weekdays-zh]]
+- Updated index.md (Vocabulary: weekdays-zh added; Sources: 18 → 19)
+- Pipeline Form YAML appendix includes all entries for game corpus
+
+## [2026-08-09] ingest | Chinese Directions Vocabulary (raw/Chinese/directions-zh.md)
+
+- Created `wiki/Chinese/vocabulary/directions-zh.md` with entries from raw/Chinese/directions-zh.md
+- Categories: 기본 방향, 상대적 위치, 방향 동작, 위치 전치사, 거리/범위, 길찾기 표현, 이동/이동수단 방향
+- Added IPA pinyin, examples, cultural notes, pronunciation notes
+- Created source summary: [[sources/directions-zh]]
+- Updated index.md (Vocabulary: directions-zh added; Sources: 17 → 18)
+- Pipeline Form YAML appendix includes all entries for game corpus
+
+## [2026-08-09] ingest | Chinese Transportation Vocabulary (raw/Chinese/transportation-zh.md)
+
+- Created `wiki/Chinese/vocabulary/transportation-zh.md` with entries from raw/Chinese/transportation-zh.md
+- Categories: 교통수단, 장소/시설, 동작/표현, 길찾기/방향, 교통 관련 질문/표현
+- Added IPA pinyin, examples, cultural notes, pronunciation notes
+- Created source summary: [[sources/transportation-zh]]
+- Updated index.md (Vocabulary: transportation-zh added; Sources: 16 → 17)
+- Pipeline Form YAML appendix includes all entries for game corpus
+
+## [2026-08-09] ingest | Chinese Education Vocabulary (raw/Chinese/education-zh.md)
+
+- Created `wiki/Chinese/vocabulary/education-zh.md` with entries from raw/Chinese/education-zh.md
+- Categories: 학교/교육기관, 학년/학기, 수업/과목, 교실/시설, 인물, 학습 동사/표현, 성적/평가
+- Added IPA pinyin, examples, cultural notes, pronunciation notes
+- Created source summary: [[sources/education-zh]]
+- Updated index.md (Vocabulary: education-zh added; Sources: 15 → 16)
+- Pipeline Form YAML appendix includes all entries for game corpus
+
+## [2026-08-09] ingest | Chinese Weather Vocabulary (raw/Chinese/weather-zh.md)
+
+- Created `wiki/Chinese/vocabulary/weather-zh.md` with entries from raw/Chinese/weather-zh.md
+- Categories: 기본 날씨, 기온/온도, 계절, 강수/강설, 바람/대기, 날씨 예보/표현, 기상 경보
+- Added IPA pinyin, examples, cultural notes, pronunciation notes
+- Created source summary: [[sources/weather-zh]]
+- Updated index.md (Vocabulary: weather-zh added; Sources: 14 → 15)
+- Pipeline Form YAML appendix includes all entries for game corpus
+
+## [2026-08-09] ingest | Chinese Time Vocabulary (raw/Chinese/time-zh.md)
+
+- Created `wiki/Chinese/vocabulary/time-zh.md` with entries from raw/Chinese/time-zh.md
+- Categories: 기본 시간 단위, 날짜/요일, 시간 표현, 빈도/반복
+- Added IPA pinyin, examples, cultural notes, pronunciation notes
+- Created source summary: [[sources/time-zh]]
+- Updated index.md (Vocabulary: time-zh added; Sources: 13 → 14)
+- Pipeline Form YAML appendix includes all entries for game corpus
+
+## [2026-08-09] ingest | Chinese Body Vocabulary (raw/Chinese/body-zh.md)
+
+- Created `wiki/Chinese/vocabulary/body-zh.md` with 23 entries from raw/Chinese/body-zh.md
+- Categories: 머리/얼굴, 상체, 하체, 내부 장기, 신체 동작/상태
+- Added IPA pinyin, etymology, examples, cultural notes, pronunciation notes
+- Created source summary: [[sources/body-zh]]
+- Updated index.md (Vocabulary: body-zh 11 → 23 entries; Sources: 12 → 13)
+- Pipeline Form YAML appendix includes all 23 entries for game corpus
+
+## [2026-08-09] ingest | Chinese Family Vocabulary (raw/Chinese/family-zh.md)
+
+- Created `wiki/Chinese/vocabulary/family-zh.md` with 23 entries from raw/Chinese/family-zh.md
+- Categories: 직계 가족(7), 형제자매(4), 조부모(4/친외), 친척(8), 자녀/손주(4), 부부(3)
+- Added IPA pinyin, etymology, examples, cultural notes, pronunciation notes
+- Created source summary: [[sources/family-zh]]
+- Updated index.md (Vocabulary: family-zh 23 entries; Sources: 9 → 11)
+- Pipeline Form YAML appendix includes all 23 entries for game corpus
+
+## [2026-08-09] ingest | Chinese Colors Vocabulary (raw/Chinese/colors-zh.md)
+
+- Created `wiki/Chinese/vocabulary/colors-zh.md` with 11 entries from raw/Chinese/colors-zh.md
+- Categories: 기본 색깔 (11)
+- Added IPA pinyin, etymology, examples, cultural notes, color + 的 + 명사 패턴
+- Created source summary: [[sources/colors-zh]]
+- Updated index.md (Vocabulary: colors-zh 11 entries; Sources: 9 → 11)
+- Pipeline Form YAML appendix includes all 11 entries for game corpus
+
+## [2026-08-09] ingest | Chinese Numbers Vocabulary (raw/Chinese/numbers-zh.md)
+
+- Created `wiki/Chinese/vocabulary/numbers-zh.md` with 16 entries from raw/Chinese/numbers-zh.md
+- Categories: 기본 숫자 1-10 (10), 큰 단위 숫자 (5), 조합 숫자 예시 (8), 특수 규칙 (두/이, 령, 4 금기)
+- Added IPA pinyin, etymology, examples, cultural notes, tone sandhi notes
+- Created source summary: [[sources/numbers-zh]]
+- Updated index.md (Vocabulary: numbers-zh 16 entries; Sources: 8 → 9)
+- Pipeline Form YAML appendix includes all 16 entries for game corpus
 
 ## [2026-07-19] wiki | Phase A & B — Language broken-wikilink cleanup (620 → 0)
 
@@ -74,8 +182,8 @@ Created comprehensive Chinese language content to bring it to parity with other 
 
 ### Culture (3 comprehensive essay pages)
 - [chinese-dating-culture](culture/chinese-dating-culture.md) — Dating culture, 相亲, 90/00后 generation, marriage market
-- [chinese-cuisine-culture](culture/chinese-cuisine-culture.md) — 8大菜系, 24孝 food culture, modern trends
-- [family-and-filial-piety](culture/family-and-filial-piety.md) — 孝, 421困境, 4-2-1 structure, family values
+- [chinese-cuisine-culture](culture/chinese-cuisine-culture.md) — 8대 菜系, 24孝 food culture, modern trends
+- [family-and-filial-piety](culture/family-and-filial-piety.md) — 孝, 421困境, 4-2-1 구조, family values
 
 ### Format
 - All theme files follow the same convention as other languages
