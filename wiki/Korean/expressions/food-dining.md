@@ -319,13 +319,13 @@ Korean food culture expressions — restaurant flow, ordering, payment, dietary 
 - `[[Language/wiki/comparative/cultural-values]]` — 한국 식사 문화 (정/눈치)
 - `[[Language/wiki/comparative/business-email]]` — 비즈니스 이메일
 - `[[Language/wiki/comparative/travel-essentials]]` — 여행 표현
-- `[[wiki/Korean/expressions/daily-life]]` — 일상 표현
-- `[[wiki/Korean/expressions/business-basics]]` — 비즈니스
-- `[[wiki/Korean/expressions/travel-basics]]` — 여행
-- `[[wiki/Korean/expressions/dating-romance]]` — 연애
-- `[[wiki/Korean/index]]` — 한국어 위키 메인
-- `[[wiki/Korean/culture/korean-hallyu-wave]]` — 한류
-- `[[wiki/Korean/culture/korean-dating-culture]]` — 한국 연애 문화
+- `[Korean/expressions/daily-life]` — 일상 표현
+- `[Korean/expressions/business-basics]` — 비즈니스
+- `[Korean/expressions/travel-basics]` — 여행
+- `[Korean/expressions/dating-romance]` — 연애
+- `[[index]]` — 한국어 위키 메인
+- `[Korean/culture/korean-hallyu-wave]` — 한류
+- `[Korean/culture/korean-dating-culture]` — 한국 연애 문화
 
 ---
 
@@ -472,5 +472,5 @@ Korean food culture expressions — restaurant flow, ordering, payment, dietary 
 
 ## Sources
 
-- `[[wiki/Korean/vocabulary/food-vocabulary]]`
+- `[Korean/vocabulary/food-vocabulary]`
 - `[[Language/wiki/comparative/food-dining]]`

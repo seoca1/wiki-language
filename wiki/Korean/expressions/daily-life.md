@@ -384,15 +384,15 @@ Universal expressions for everyday situations — greetings, dining, transit, sh
 - `[[Language/wiki/comparative/food-dining]]` — 식당 표현
 - `[[Language/wiki/comparative/travel-essentials]]` — 여행 표현
 - `[[Language/wiki/comparative/politeness-honorifics]]` — 격식 시스템
-- `[[wiki/Korean/index]]` — 한국어 위키 메인
-- `[[wiki/Korean/culture/korean-hallyu-wave]]` — 한류 (Hallyu)
-- `[[wiki/Korean/culture/korean-dating-culture]]` — 한국 데이팅 문화
+- `[[index]]` — 한국어 위키 메인
+- `[Korean/culture/korean-hallyu-wave]` — 한류 (Hallyu)
+- `[Korean/culture/korean-dating-culture]` — 한국 데이팅 문화
 
 ---
 
 ## Sources
 
-- `[[wiki/Korean/vocabulary/topik1-starter]]`
+- `[Korean/vocabulary/topik1-starter]`
 - `[[Language/wiki/comparative/greetings]]`
 - `[[Language/wiki/comparative/politeness-honorifics]]`
 - `[[Language/wiki/comparative/cultural-values]]`

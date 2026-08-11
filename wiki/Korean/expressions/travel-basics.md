@@ -310,16 +310,16 @@ Korean travel phrases — airport, hotel, transport, directions, sightseeing, em
 - `[[Language/wiki/comparative/travel-essentials]]` — 5언어 여행 비교
 - `[[Language/wiki/comparative/food-dining]]` — 식당 표현
 - `[[daily-life]]` — 일상 표현
-- `[[wiki/Korean/expressions/daily-life]]` — 일상 표현
-- `[[wiki/Korean/expressions/business-basics]]` — 비즈니스
-- `[[wiki/Korean/expressions/dating-romance]]` — 연애
-- `[[wiki/Korean/index]]` — 한국어 위키 메인
-- `[[wiki/Korean/culture/korean-hallyu-wave]]` — 한류
-- `[[wiki/Korean/culture/korean-dating-culture]]` — 한국 연애 문화
+- `[Korean/expressions/daily-life]` — 일상 표현
+- `[Korean/expressions/business-basics]` — 비즈니스
+- `[Korean/expressions/dating-romance]` — 연애
+- `[[index]]` — 한국어 위키 메인
+- `[Korean/culture/korean-hallyu-wave]` — 한류
+- `[Korean/culture/korean-dating-culture]` — 한국 연애 문화
 
 ---
 
 ## Sources
 
-- `[[wiki/Korean/vocabulary/topik1-starter]]`
+- `[Korean/vocabulary/topik1-starter]`
 - `[[Language/wiki/comparative/travel-essentials]]`

@@ -298,11 +298,11 @@ Korean business communication — greetings, email/meeting phrases, negotiations
 - `[[Language/wiki/comparative/business-email]]` — 5언어 비즈니스 이메일
 - `[[Language/wiki/comparative/politeness-honorifics]]` — 격식 시스템
 - `[[daily-life]]` — 일상 표현
-- `[[wiki/Korean/expressions/daily-life]]` — 일상 표현
-- `[[wiki/Korean/expressions/dating-romance]]` — 연애 표현
-- `[[wiki/Korean/index]]` — 한국어 위키 메인
-- `[[wiki/Korean/culture/korean-hallyu-wave]]` — 한류
-- `[[wiki/Korean/culture/korean-dating-culture]]` — 한국 연애 문화
+- `[Korean/expressions/daily-life]` — 일상 표현
+- `[Korean/expressions/dating-romance]` — 연애 표현
+- `[[index]]` — 한국어 위키 메인
+- `[Korean/culture/korean-hallyu-wave]` — 한류
+- `[Korean/culture/korean-dating-culture]` — 한국 연애 문화
 
 ---
 
@@ -441,6 +441,6 @@ Korean business communication — greetings, email/meeting phrases, negotiations
 
 ## Sources
 
-- `[[wiki/Korean/vocabulary/topik1-starter]]`
+- `[Korean/vocabulary/topik1-starter]`
 - `[[Language/wiki/comparative/business-email]]`
 - `[[Language/wiki/comparative/politeness-honorifics]]`
