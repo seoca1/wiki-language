@@ -246,3 +246,33 @@ See [[index]] for systematic EN/ES/JP/KR/CH comparisons. Especially relevant for
 - [[animals-comparison]] — 十二生肖 (Chinese zodiac); 熊猫 (panda) national symbol; 风水 (fengshui) animal symbolism
 - [[family-roles-comparison]] — 辈分 (bèifèn = generation ranking); 长辈 (zhǎngbèi) elders; 关系 (guanxi) extends family
 - [[directions-navigation-comparison]] — 东南西北 (dōng-nán-xī-běi); 十字路口 (intersection); addresses hierarchical
+
+## Round 3 — Phase 1.5: Chinese Vocabulary Parity (2026-08-13)
+
+20 English-stem Chinese vocabulary theme files added/expanded to bring Chinese closer to the multi-language parity model (5 themes × 5 languages = cross-language content coverage). Each file follows the established vocabulary theme-file convention (frontmatter + tables + Pipeline Form YAML).
+
+| File | Source stem | Section count | Words |
+|------|-------------|---:|---:|
+| [[animals-vocabulary]] | animals-vocabulary-zh | 4 | ~25 |
+| [[basic-vocabulary]] | basic-vocabulary-zh | 6 | ~50 |
+| [[body-vocabulary]] | body-vocabulary-zh | 4 | ~30 |
+| [[career-vocabulary]] | career-vocabulary-zh | 4 | ~30 |
+| [[clothing-vocabulary]] | clothing-vocabulary-zh | 4 | ~30 |
+| [[daily-life-basics]] | daily-life-basics-zh | 4 | ~30 |
+| [[emotions-personality-vocabulary]] | emotions-personality-zh | 4 | ~30 |
+| [[food-and-dining]] | food-and-dining-zh | 5 | ~40 |
+| [[health-and-body]] | health-and-body-zh | 5 | ~40 |
+| [[holidays-and-celebrations]] | holidays-and-celebrations-zh | 5 | ~40 |
+| [[literature-passages]] | literature-passages-zh | 4 | ~30 |
+| [[movie-quotes]] | movie-quotes-zh | 4 | ~30 |
+| [[nature-vocabulary]] | nature-vocabulary-zh | 5 | ~40 |
+| [[shopping-and-money]] | shopping-and-money-zh | 4 | ~30 |
+| [[sports-and-hobbies]] | sports-and-hobbies-zh | 4 | ~30 |
+| [[technology-and-internet]] | technology-and-internet-zh | 6 | ~50 |
+| [[travel-adventure]] | travel-adventure-zh | 5 | ~40 |
+| [[work-and-career]] | work-and-career-zh | 5 | ~40 |
+| [[adventure-vocabulary]] | adventure-vocabulary-zh | 5 | ~40 |
+
+Total: 19 new English-stem theme files. The pre-existing `[[quotes-zh]]` (Chinese 名言词汇, 2026-08-10) remains the canonical quotes file (quotes-zh pattern, 545 lines).
+
+**Next steps**: Phase 4 (Expressions Expansion) and Phase 5 (Comparative Wiki Expansion) — cross-language content matrices to follow.

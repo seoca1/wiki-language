@@ -218,3 +218,38 @@ Vault-wide lint check (AGENTS.md §7 script) reported 8 broken wikilinks, all in
 All targets are in the vault (`Language/wiki/Chinese/culture/*.md`, `Language/wiki/comparative/*.md`); Obsidian stem matching now resolves them.
 
 **검증**: full-vault lint rerun → **0 broken** (1277 files scanned). 1 unrelated false-positive in MDLINK regex (remote URL ending in `.md` in `oh-my-opencode-guide.md:174`) is a script-level artifact, not a vault issue.
+
+## [2026-08-13] expand | Phase 1.5 — Chinese Vocabulary Parity (20 English-stem theme files)
+
+**Scope**: Add English-stem theme files alongside the canonical `-zh` files, following the same vocabulary theme-file convention (frontmatter + section tables + Pipeline Form YAML). Each file is HSK-graded with pinyin and English gloss; pipeline-ready for game corpus integration.
+
+**Files created/expanded** (19 new English-stem + 1 pre-existing canonical):
+- `wiki/Chinese/vocabulary/animals-vocabulary.md` — 宠物/野生动物 (pets/wildlife)
+- `wiki/Chinese/vocabulary/basic-vocabulary.md` — 基础问候/数字/时间/颜色 (greetings/numbers/time/colors)
+- `wiki/Chinese/vocabulary/body-vocabulary.md` — 身体部位/感官动词 (body parts/sense verbs)
+- `wiki/Chinese/vocabulary/career-vocabulary.md` — 职业/职称 (professions/titles)
+- `wiki/Chinese/vocabulary/clothing-vocabulary.md` — 服装/材质/季节 (garments/materials/seasons)
+- `wiki/Chinese/vocabulary/daily-life-basics.md` — 早晨/通勤/工作/用餐/睡眠 (morning/commute/work/dining/sleep)
+- `wiki/Chinese/vocabulary/emotions-personality-vocabulary.md` — 基本情绪 + 性格特征 (basic emotions + personality traits)
+- `wiki/Chinese/vocabulary/food-and-dining.md` — 8大菜系/食材/烹饪 (8 cuisines + ingredients + cooking)
+- `wiki/Chinese/vocabulary/health-and-body.md` — 身体/医疗/运动/营养 (body/health/sports/nutrition)
+- `wiki/Chinese/vocabulary/holidays-and-celebrations.md` — 传统/国家/现代节日 (traditional/national/modern holidays)
+- `wiki/Chinese/vocabulary/literature-passages.md` — 古典/现代/当代摘录 (classical/modern/contemporary excerpts)
+- `wiki/Chinese/vocabulary/movie-quotes.md` — 中国电影经典对白 (Chinese cinema classics)
+- `wiki/Chinese/vocabulary/nature-vocabulary.md` — 天气/植物/动物/地理/天文/季节/环境 (weather/plants/animals/geography/astronomy/seasons/environment)
+- `wiki/Chinese/vocabulary/shopping-and-money.md` — 商店/货币/支付/银行 (stores/currency/payment/banking)
+- `wiki/Chinese/vocabulary/sports-and-hobbies.md` — 球类运动/锻炼/比赛/爱好 (ball sports/exercise/competitions/hobbies)
+- `wiki/Chinese/vocabulary/technology-and-internet.md` — 互联网/AI/支付/通讯 (Internet/AI/payment/communication)
+- `wiki/Chinese/vocabulary/travel-adventure.md` — 交通/住宿/观光/户外/应急 (transport/accommodation/sightseeing/outdoor/emergency)
+- `wiki/Chinese/vocabulary/work-and-career.md` — 行业/职位/招聘/薪资/职场文化 (industries/positions/recruitment/salary/workplace culture)
+- `wiki/Chinese/vocabulary/adventure-vocabulary.md` — 户外运动/极限运动/安全 (outdoor/extreme sports/safety)
+
+**Schema**: All files follow `Language/schema/AGENTS.md` theme-file convention. Pipeline Form YAML appendix includes all entries with `display` (中文+拼音), `input` (pinyin), `meaning` (English), `level` (HSK 1-5), `category` (theme), `source` ([[wikilink]] stem) — per `wiki/pipeline-to-game.md` L33-39, L92.
+
+**Index.md**: Updated Round 3 section listing all 19 new files.
+
+**Vault state**: 0 broken links; new files are orphans until Phase 2/5 cross-references ingest.
+
+**Next phases**:
+- Phase 4 — Expressions Expansion (5 files × 5 languages = 25 expression files)
+- Phase 5 — Comparative Wiki Expansion (8 cross-language comparison files)
