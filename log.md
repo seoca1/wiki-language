@@ -4301,3 +4301,18 @@ Same Round 16-17 pattern applied to `wiki/Chinese/vocabulary/technology.md`:
 - ADR-0001 (theme-file convention)
 - `tools/generate_yaml_pipeline.py` (validator)
 - `wiki/English/vocabulary/food-vocabulary.md` (reference per-word format)
+
+## [2026-08-12] SESSION CLOSE — Language multi-round sweep
+
+**Status**: ✅ SESSION CLOSED — 1 atomic commit (36f6e93, 256 files). Push pending.
+
+### Final state
+
+- 711 wiki files clean
+- 216 vocab files CLEAN
+- 0 violations
+- 4 Chinese vocab files aligned with per-word ### headings
+- 6+ broken wikilinks fixed
+- Tools improved: generate_yaml_pipeline.py, validate_schema.py, extract_cards.py
+
+**세션 종료 (2026-08-12) — Language AI-scope work complete.**
