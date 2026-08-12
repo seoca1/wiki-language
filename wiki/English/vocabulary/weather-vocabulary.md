@@ -297,14 +297,14 @@ English weather 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: en_weather_001, display: "sunny", input: "sunny", meaning: "맑은", level: "A1", category: "weather", source: "[[weather-vocabulary]]" }
-- { id: en_weather_002, display: "cloudy", input: "cloudy", meaning: "흐린", level: "A1", category: "weather", source: "[[weather-vocabulary]]" }
-- { id: en_weather_003, display: "rainy", input: "rainy", meaning: "비 오는", level: "A1", category: "weather", source: "[[weather-vocabulary]]" }
-- { id: en_weather_004, display: "snowy", input: "snowy", meaning: "눈 오는", level: "A2", category: "weather", source: "[[weather-vocabulary]]" }
-- { id: en_weather_005, display: "hot", input: "hot", meaning: "덥다", level: "A1", category: "weather", source: "[[weather-vocabulary]]" }
-- { id: en_weather_006, display: "cold", input: "cold", meaning: "춥다", level: "A1", category: "weather", source: "[[weather-vocabulary]]" }
-- { id: en_weather_007, display: "warm", input: "warm", meaning: "따뜻하다", level: "A1", category: "weather", source: "[[weather-vocabulary]]" }
-- { id: en_weather_008, display: "cool", input: "cool", meaning: "서늘하다", level: "A2", category: "weather", source: "[[weather-vocabulary]]" }
-- { id: en_weather_009, display: "wind", input: "wind", meaning: "바람", level: "A1", category: "weather", source: "[[weather-vocabulary]]" }
-- { id: en_weather_010, display: "storm", input: "storm", meaning: "폭풍", level: "A2", category: "weather", source: "[[weather-vocabulary]]" }
+- { id: 'en_weather_001', display: 'sunny', input: 'sunny', meaning: '맑은', level: 'A1', category: 'weather', source: '[[weather-vocabulary]]' }
+- { id: 'en_weather_002', display: 'cloudy', input: 'cloudy', meaning: '흐린', level: 'A1', category: 'weather', source: '[[weather-vocabulary]]' }
+- { id: 'en_weather_003', display: 'rainy', input: 'rainy', meaning: '비 오는', level: 'A1', category: 'weather', source: '[[weather-vocabulary]]' }
+- { id: 'en_weather_004', display: 'snowy', input: 'snowy', meaning: '눈 오는', level: 'A2', category: 'weather', source: '[[weather-vocabulary]]' }
+- { id: 'en_weather_005', display: 'hot', input: 'hot', meaning: '덥다', level: 'A1', category: 'weather', source: '[[weather-vocabulary]]' }
+- { id: 'en_weather_006', display: 'cold', input: 'cold', meaning: '춥다', level: 'A1', category: 'weather', source: '[[weather-vocabulary]]' }
+- { id: 'en_weather_007', display: 'warm', input: 'warm', meaning: '따뜻하다', level: 'A1', category: 'weather', source: '[[weather-vocabulary]]' }
+- { id: 'en_weather_008', display: 'cool', input: 'cool', meaning: '서늘하다', level: 'A2', category: 'weather', source: '[[weather-vocabulary]]' }
+- { id: 'en_weather_009', display: 'wind', input: 'wind', meaning: '바람', level: 'A1', category: 'weather', source: '[[weather-vocabulary]]' }
+- { id: 'en_weather_010', display: 'storm', input: 'storm', meaning: '폭풍', level: 'A2', category: 'weather', source: '[[weather-vocabulary]]' }
 ```

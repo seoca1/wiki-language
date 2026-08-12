@@ -297,14 +297,14 @@ Chinese family 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: zh_family_001, display: "妈妈 (māma, 媽媽)", input: "妈妈 (māma, 媽媽)", meaning: "mother", level: "HSK 1", category: "family", source: "[[family-vocabulary]]" }
-- { id: zh_family_002, display: "爸爸 (bàba, 爸爸)", input: "爸爸 (bàba, 爸爸)", meaning: "father", level: "HSK 1", category: "family", source: "[[family-vocabulary]]" }
-- { id: zh_family_003, display: "姐姐 (jiějie, 姐姐)", input: "姐姐 (jiějie, 姐姐)", meaning: "older sister", level: "HSK 1", category: "family", source: "[[family-vocabulary]]" }
-- { id: zh_family_004, display: "哥哥 (gēge, 哥哥)", input: "哥哥 (gēge, 哥哥)", meaning: "older brother", level: "HSK 1", category: "family", source: "[[family-vocabulary]]" }
-- { id: zh_family_005, display: "奶奶 (nǎinai, 奶奶)", input: "奶奶 (nǎinai, 奶奶)", meaning: "grandmother (paternal)", level: "HSK 2", category: "family", source: "[[family-vocabulary]]" }
-- { id: zh_family_006, display: "爷爷 (yéye, 爺爺)", input: "爷爷 (yéye, 爺爺)", meaning: "grandfather (paternal)", level: "HSK 2", category: "family", source: "[[family-vocabulary]]" }
-- { id: zh_family_007, display: "姨妈 (yímā, 姨媽)", input: "姨妈 (yímā, 姨媽)", meaning: "aunt (maternal)", level: "HSK 3", category: "family", source: "[[family-vocabulary]]" }
-- { id: zh_family_008, display: "舅舅 (jiùjiu, 舅舅)", input: "舅舅 (jiùjiu, 舅舅)", meaning: "uncle (maternal)", level: "HSK 3", category: "family", source: "[[family-vocabulary]]" }
-- { id: zh_family_009, display: "表亲 (biǎoqīn, 表親)", input: "表亲 (biǎoqīn, 表親)", meaning: "cousin (different surname)", level: "HSK 4", category: "family", source: "[[family-vocabulary]]" }
-- { id: zh_family_010, display: "家人 (jiārén, 家人)", input: "家人 (jiārén, 家人)", meaning: "family", level: "HSK 1", category: "family", source: "[[family-vocabulary]]" }
+- { id: 'zh_family_001', display: '妈妈 (māma, 媽媽)', input: '妈妈 (māma, 媽媽)', meaning: 'mother', level: 'HSK 1', category: 'family', source: '[[family-vocabulary]]' }
+- { id: 'zh_family_002', display: '爸爸 (bàba, 爸爸)', input: '爸爸 (bàba, 爸爸)', meaning: 'father', level: 'HSK 1', category: 'family', source: '[[family-vocabulary]]' }
+- { id: 'zh_family_003', display: '姐姐 (jiějie, 姐姐)', input: '姐姐 (jiějie, 姐姐)', meaning: 'older sister', level: 'HSK 1', category: 'family', source: '[[family-vocabulary]]' }
+- { id: 'zh_family_004', display: '哥哥 (gēge, 哥哥)', input: '哥哥 (gēge, 哥哥)', meaning: 'older brother', level: 'HSK 1', category: 'family', source: '[[family-vocabulary]]' }
+- { id: 'zh_family_005', display: '奶奶 (nǎinai, 奶奶)', input: '奶奶 (nǎinai, 奶奶)', meaning: 'grandmother (paternal)', level: 'HSK 2', category: 'family', source: '[[family-vocabulary]]' }
+- { id: 'zh_family_006', display: '爷爷 (yéye, 爺爺)', input: '爷爷 (yéye, 爺爺)', meaning: 'grandfather (paternal)', level: 'HSK 2', category: 'family', source: '[[family-vocabulary]]' }
+- { id: 'zh_family_007', display: '姨妈 (yímā, 姨媽)', input: '姨妈 (yímā, 姨媽)', meaning: 'aunt (maternal)', level: 'HSK 3', category: 'family', source: '[[family-vocabulary]]' }
+- { id: 'zh_family_008', display: '舅舅 (jiùjiu, 舅舅)', input: '舅舅 (jiùjiu, 舅舅)', meaning: 'uncle (maternal)', level: 'HSK 3', category: 'family', source: '[[family-vocabulary]]' }
+- { id: 'zh_family_009', display: '表亲 (biǎoqīn, 表親)', input: '表亲 (biǎoqīn, 表親)', meaning: 'cousin (different surname)', level: 'HSK 4', category: 'family', source: '[[family-vocabulary]]' }
+- { id: 'zh_family_010', display: '家人 (jiārén, 家人)', input: '家人 (jiārén, 家人)', meaning: 'family', level: 'HSK 1', category: 'family', source: '[[family-vocabulary]]' }
 ```

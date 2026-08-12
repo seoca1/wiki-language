@@ -518,27 +518,25 @@ level: "JLPT N5-N4"
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/jp_words.md`).
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: jp_adjectives_001, display: "高い", input: "takai", meaning: "expensive, tall, high", level: "JLPT N5", category: "jp-adjectives-vocabulary", source: "[[jp-adjectives-vocabulary]]" }
-- { id: jp_adjectives_002, display: "安い", input: "yasui", meaning: "cheap, inexpensive", level: "JLPT N5", category: "jp-adjectives-vocabulary", source: "[[jp-adjectives-vocabulary]]" }
-- { id: jp_adjectives_003, display: "新しい", input: "atarashii", meaning: "new, fresh", level: "JLPT N5", category: "jp-adjectives-vocabulary", source: "[[jp-adjectives-vocabulary]]" }
-- { id: jp_adjectives_004, display: "古い", input: "furui", meaning: "old, aged", level: "JLPT N5", category: "jp-adjectives-vocabulary", source: "[[jp-adjectives-vocabulary]]" }
-- { id: jp_adjectives_005, display: "大きい", input: "ookii", meaning: "big, large", level: "JLPT N5", category: "jp-adjectives-vocabulary", source: "[[jp-adjectives-vocabulary]]" }
-- { id: jp_adjectives_006, display: "小さい", input: "chiisai", meaning: "small, little", level: "JLPT N5", category: "jp-adjectives-vocabulary", source: "[[jp-adjectives-vocabulary]]" }
-- { id: jp_adjectives_007, display: "長い", input: "nagai", meaning: "long", level: "JLPT N5", category: "jp-adjectives-vocabulary", source: "[[jp-adjectives-vocabulary]]" }
-- { id: jp_adjectives_008, display: "短い", input: "mijikai", meaning: "short", level: "JLPT N5", category: "jp-adjectives-vocabulary", source: "[[jp-adjectives-vocabulary]]" }
-- { id: jp_adjectives_009, display: "綺麗", input: "kirei", meaning: "beautiful, clean", level: "JLPT N5", category: "jp-adjectives-vocabulary", source: "[[jp-adjectives-vocabulary]]" }
-- { id: jp_adjectives_010, display: "静か", input: "shizuka", meaning: "quiet, calm", level: "JLPT N5", category: "jp-adjectives-vocabulary", source: "[[jp-adjectives-vocabulary]]" }
-- { id: jp_adjectives_011, display: "有名", input: "yuumei", meaning: "famous", level: "JLPT N5", category: "jp-adjectives-vocabulary", source: "[[jp-adjectives-vocabulary]]" }
-- { id: jp_adjectives_012, display: "便利", input: "benri", meaning: "convenient", level: "JLPT N5", category: "jp-adjectives-vocabulary", source: "[[jp-adjectives-vocabulary]]" }
-- { id: jp_adjectives_013, display: "親切", input: "shinsetsu", meaning: "kind", level: "JLPT N5", category: "jp-adjectives-vocabulary", source: "[[jp-adjectives-vocabulary]]" }
-- { id: jp_adjectives_014, display: "嬉しい", input: "ureshii", meaning: "glad, happy", level: "JLPT N4", category: "jp-adjectives-vocabulary", source: "[[jp-adjectives-vocabulary]]" }
-- { id: jp_adjectives_015, display: "楽しい", input: "tanoshii", meaning: "fun, enjoyable", level: "JLPT N5", category: "jp-adjectives-vocabulary", source: "[[jp-adjectives-vocabulary]]" }
-- { id: jp_adjectives_016, display: "暑い", input: "atsui", meaning: "hot (weather)", level: "JLPT N5", category: "jp-adjectives-vocabulary", source: "[[jp-adjectives-vocabulary]]" }
-- { id: jp_adjectives_017, display: "熱い", input: "atsui", meaning: "hot (to touch)", level: "JLPT N5", category: "jp-adjectives-vocabulary", source: "[[jp-adjectives-vocabulary]]" }
-- { id: jp_adjectives_018, display: "暖かい", input: "atatakai", meaning: "warm", level: "JLPT N5", category: "jp-adjectives-vocabulary", source: "[[jp-adjectives-vocabulary]]" }
+- { id: 'jp_jp_adjectives_vocabulary_001', display: '高い', input: '高い', meaning: 'expensive, tall, high', level: 'JLPT N5', category: 'jp-adjectives-vocabulary', source: '[[jp-adjectives-vocabulary]]' }
+- { id: 'jp_jp_adjectives_vocabulary_002', display: '安い', input: '安い', meaning: 'cheap, inexpensive', level: 'JLPT N5', category: 'jp-adjectives-vocabulary', source: '[[jp-adjectives-vocabulary]]' }
+- { id: 'jp_jp_adjectives_vocabulary_003', display: '新しい', input: '新しい', meaning: 'new, fresh', level: 'JLPT N5', category: 'jp-adjectives-vocabulary', source: '[[jp-adjectives-vocabulary]]' }
+- { id: 'jp_jp_adjectives_vocabulary_004', display: '古い', input: '古い', meaning: 'old, aged', level: 'JLPT N5', category: 'jp-adjectives-vocabulary', source: '[[jp-adjectives-vocabulary]]' }
+- { id: 'jp_jp_adjectives_vocabulary_005', display: '大きい', input: '大きい', meaning: 'big, large', level: 'JLPT N5', category: 'jp-adjectives-vocabulary', source: '[[jp-adjectives-vocabulary]]' }
+- { id: 'jp_jp_adjectives_vocabulary_006', display: '小さい', input: '小さい', meaning: 'small, little', level: 'JLPT N5', category: 'jp-adjectives-vocabulary', source: '[[jp-adjectives-vocabulary]]' }
+- { id: 'jp_jp_adjectives_vocabulary_007', display: '長い', input: '長い', meaning: 'long', level: 'JLPT N5', category: 'jp-adjectives-vocabulary', source: '[[jp-adjectives-vocabulary]]' }
+- { id: 'jp_jp_adjectives_vocabulary_008', display: '短い', input: '短い', meaning: 'short', level: 'JLPT N5', category: 'jp-adjectives-vocabulary', source: '[[jp-adjectives-vocabulary]]' }
+- { id: 'jp_jp_adjectives_vocabulary_009', display: '綺麗', input: '綺麗', meaning: 'beautiful, clean', level: 'JLPT N5', category: 'jp-adjectives-vocabulary', source: '[[jp-adjectives-vocabulary]]' }
+- { id: 'jp_jp_adjectives_vocabulary_010', display: '静か', input: '静か', meaning: 'quiet, calm', level: 'JLPT N5', category: 'jp-adjectives-vocabulary', source: '[[jp-adjectives-vocabulary]]' }
+- { id: 'jp_jp_adjectives_vocabulary_011', display: '有名', input: '有名', meaning: 'famous', level: 'JLPT N5', category: 'jp-adjectives-vocabulary', source: '[[jp-adjectives-vocabulary]]' }
+- { id: 'jp_jp_adjectives_vocabulary_012', display: '便利', input: '便利', meaning: 'convenient', level: 'JLPT N5', category: 'jp-adjectives-vocabulary', source: '[[jp-adjectives-vocabulary]]' }
+- { id: 'jp_jp_adjectives_vocabulary_013', display: '親切', input: '親切', meaning: 'kind', level: 'JLPT N5', category: 'jp-adjectives-vocabulary', source: '[[jp-adjectives-vocabulary]]' }
+- { id: 'jp_jp_adjectives_vocabulary_014', display: '嬉しい', input: '嬉しい', meaning: 'glad, happy', level: 'JLPT N4', category: 'jp-adjectives-vocabulary', source: '[[jp-adjectives-vocabulary]]' }
+- { id: 'jp_jp_adjectives_vocabulary_015', display: '楽しい', input: '楽しい', meaning: 'fun, enjoyable', level: 'JLPT N5', category: 'jp-adjectives-vocabulary', source: '[[jp-adjectives-vocabulary]]' }
+- { id: 'jp_jp_adjectives_vocabulary_016', display: '暑い / 熱い / 暖かい', input: '暑い / 熱い / 暖かい', meaning: 'hot / hot (to touch) / warm', level: 'JLPT N5-N4', category: 'jp-adjectives-vocabulary', source: '[[jp-adjectives-vocabulary]]' }
 ```

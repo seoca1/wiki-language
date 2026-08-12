@@ -265,3 +265,27 @@ theme: "education"
 | 预习 (yù xí) | 4성 + 2성 | 预 (yù) 4성, 习 (xí) 2성 |
 | 毕业 (bì yè) | 4성 + 4성 | 毕 (bì) 4성, 业 (yè) 4성 |
 | 入学 (rù xué) | 4성 + 2성 | 入 (rù) 4성, 学 (xué) 2성 |
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'zh_education_001', display: '등하교/출석', input: '등하교/출석', meaning: '', level: 'HSK 2-3', category: 'education', source: '[[education-zh]]' }
+- { id: 'zh_education_002', display: '수업 관련', input: '수업 관련', meaning: '', level: 'HSK 2-3', category: 'education', source: '[[education-zh]]' }
+- { id: 'zh_education_003', display: '시험/성적', input: '시험/성적', meaning: '', level: 'HSK 2-3', category: 'education', source: '[[education-zh]]' }
+- { id: 'zh_education_004', display: '1. "공부하다" = 学习 (xué xí) vs 学 (xué)', input: '1. "공부하다" = 学习 (xué xí) vs 学 (xué)', meaning: '', level: 'HSK 2-3', category: 'education', source: '[[education-zh]]' }
+- { id: 'zh_education_005', display: '2. "숙제" = 作业 (zuò yè)', input: '2. "숙제" = 作业 (zuò yè)', meaning: '', level: 'HSK 2-3', category: 'education', source: '[[education-zh]]' }
+- { id: 'zh_education_006', display: '3. "시험 보다" = 考试 (kǎo shì)', input: '3. "시험 보다" = 考试 (kǎo shì)', meaning: '', level: 'HSK 2-3', category: 'education', source: '[[education-zh]]' }
+- { id: 'zh_education_007', display: '4. "선생님" = 老师 (lǎo shī) — 만능 호칭', input: '4. "선생님" = 老师 (lǎo shī) — 만능 호칭', meaning: '', level: 'HSK 2-3', category: 'education', source: '[[education-zh]]' }
+- { id: 'zh_education_008', display: '5. "친구/동급생" = 同学 (tóng xué)', input: '5. "친구/동급생" = 同学 (tóng xué)', meaning: '', level: 'HSK 2-3', category: 'education', source: '[[education-zh]]' }
+- { id: 'zh_education_009', display: '6. 학년/학년 표현', input: '6. 학년/학년 표현', meaning: '', level: 'HSK 2-3', category: 'education', source: '[[education-zh]]' }
+- { id: 'zh_education_010', display: '7. 방학 용어', input: '7. 방학 용어', meaning: '', level: 'HSK 2-3', category: 'education', source: '[[education-zh]]' }
+- { id: 'zh_education_011', display: '1. "공부하다" 기본 = 学习 (xué xí)', input: '1. "공부하다" 기본 = 学习 (xué xí)', meaning: '', level: 'HSK 2-3', category: 'education', source: '[[education-zh]]' }
+- { id: 'zh_education_012', display: '2. "모르다" = 不懂 (bù dǒng) / 不知道 (bù zhī dào)', input: '2. "모르다" = 不懂 (bù dǒng) / 不知道 (bù zhī dào)', meaning: '', level: 'HSK 2-3', category: 'education', source: '[[education-zh]]' }
+- { id: 'zh_education_013', display: '3. "질문/문제" = 问题 (wèn tí)', input: '3. "질문/문제" = 问题 (wèn tí)', meaning: '', level: 'HSK 2-3', category: 'education', source: '[[education-zh]]' }
+- { id: 'zh_education_014', display: '4. "숙제" = 作业 (zuò yè)', input: '4. "숙제" = 作业 (zuò yè)', meaning: '', level: 'HSK 2-3', category: 'education', source: '[[education-zh]]' }
+- { id: 'zh_education_015', display: '5. "시험" = 考试 (kǎo shì) / 试 (shì)', input: '5. "시험" = 考试 (kǎo shì) / 试 (shì)', meaning: '', level: 'HSK 2-3', category: 'education', source: '[[education-zh]]' }
+```

@@ -458,25 +458,23 @@ level: "JLPT N5-N4"
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/jp_words.md`).
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: jp_time_001, display: "朝", input: "asa", meaning: "morning", level: "JLPT N5", category: "jp-time-prepositions-vocabulary", source: "[[jp-time-prepositions-vocabulary]]" }
-- { id: jp_time_002, display: "昼", input: "hiru", meaning: "daytime, noon", level: "JLPT N5", category: "jp-time-prepositions-vocabulary", source: "[[jp-time-prepositions-vocabulary]]" }
-- { id: jp_time_003, display: "夜", input: "yoru", meaning: "night, evening", level: "JLPT N5", category: "jp-time-prepositions-vocabulary", source: "[[jp-time-prepositions-vocabulary]]" }
-- { id: jp_time_004, display: "今日", input: "kyou", meaning: "today", level: "JLPT N5", category: "jp-time-prepositions-vocabulary", source: "[[jp-time-prepositions-vocabulary]]" }
-- { id: jp_time_005, display: "明日", input: "ashita", meaning: "tomorrow", level: "JLPT N5", category: "jp-time-prepositions-vocabulary", source: "[[jp-time-prepositions-vocabulary]]" }
-- { id: jp_time_006, display: "昨日", input: "kinou", meaning: "yesterday", level: "JLPT N5", category: "jp-time-prepositions-vocabulary", source: "[[jp-time-prepositions-vocabulary]]" }
-- { id: jp_time_007, display: "今週", input: "konshuu", meaning: "this week", level: "JLPT N5", category: "jp-time-prepositions-vocabulary", source: "[[jp-time-prepositions-vocabulary]]" }
-- { id: jp_time_008, display: "先週", input: "senshuu", meaning: "last week", level: "JLPT N5", category: "jp-time-prepositions-vocabulary", source: "[[jp-time-prepositions-vocabulary]]" }
-- { id: jp_time_009, display: "来週", input: "raishuu", meaning: "next week", level: "JLPT N5", category: "jp-time-prepositions-vocabulary", source: "[[jp-time-prepositions-vocabulary]]" }
-- { id: jp_time_010, display: "で", input: "de", meaning: "at (action location), by means of", level: "JLPT N5", category: "jp-time-prepositions-vocabulary", source: "[[jp-time-prepositions-vocabulary]]" }
-- { id: jp_time_011, display: "に", input: "ni", meaning: "at, to, for", level: "JLPT N5", category: "jp-time-prepositions-vocabulary", source: "[[jp-time-prepositions-vocabulary]]" }
-- { id: jp_time_012, display: "を", input: "wo", meaning: "object marker", level: "JLPT N5", category: "jp-time-prepositions-vocabulary", source: "[[jp-time-prepositions-vocabulary]]" }
-- { id: jp_time_013, display: "へ", input: "e", meaning: "to (direction)", level: "JLPT N5", category: "jp-time-prepositions-vocabulary", source: "[[jp-time-prepositions-vocabulary]]" }
-- { id: jp_time_014, display: "から", input: "kara", meaning: "from", level: "JLPT N5", category: "jp-time-prepositions-vocabulary", source: "[[jp-time-prepositions-vocabulary]]" }
-- { id: jp_time_015, display: "まで", input: "made", meaning: "until, up to", level: "JLPT N5", category: "jp-time-prepositions-vocabulary", source: "[[jp-time-prepositions-vocabulary]]" }
-- { id: jp_time_016, display: "と", input: "to", meaning: "and, with, quotation", level: "JLPT N5", category: "jp-time-prepositions-vocabulary", source: "[[jp-time-prepositions-vocabulary]]" }
+- { id: 'jp_jp_time_prepositions_vocabulary_001', display: '朝', input: '朝', meaning: 'morning', level: 'JLPT N5', category: 'jp-time-prepositions-vocabulary', source: '[[jp-time-prepositions-vocabulary]]' }
+- { id: 'jp_jp_time_prepositions_vocabulary_002', display: '昼', input: '昼', meaning: 'daytime, noon', level: 'JLPT N5', category: 'jp-time-prepositions-vocabulary', source: '[[jp-time-prepositions-vocabulary]]' }
+- { id: 'jp_jp_time_prepositions_vocabulary_003', display: '夜', input: '夜', meaning: 'night, evening', level: 'JLPT N5', category: 'jp-time-prepositions-vocabulary', source: '[[jp-time-prepositions-vocabulary]]' }
+- { id: 'jp_jp_time_prepositions_vocabulary_004', display: '今日', input: '今日', meaning: 'today', level: 'JLPT N5', category: 'jp-time-prepositions-vocabulary', source: '[[jp-time-prepositions-vocabulary]]' }
+- { id: 'jp_jp_time_prepositions_vocabulary_005', display: '明日', input: '明日', meaning: 'tomorrow', level: 'JLPT N5', category: 'jp-time-prepositions-vocabulary', source: '[[jp-time-prepositions-vocabulary]]' }
+- { id: 'jp_jp_time_prepositions_vocabulary_006', display: '昨日', input: '昨日', meaning: 'yesterday', level: 'JLPT N5', category: 'jp-time-prepositions-vocabulary', source: '[[jp-time-prepositions-vocabulary]]' }
+- { id: 'jp_jp_time_prepositions_vocabulary_007', display: '今週 / 先週 / 来週', input: '今週 / 先週 / 来週', meaning: 'this week / last week / next week', level: 'JLPT N5-N4', category: 'jp-time-prepositions-vocabulary', source: '[[jp-time-prepositions-vocabulary]]' }
+- { id: 'jp_jp_time_prepositions_vocabulary_008', display: 'で', input: 'で', meaning: 'at (action location), by means of', level: 'JLPT N5', category: 'jp-time-prepositions-vocabulary', source: '[[jp-time-prepositions-vocabulary]]' }
+- { id: 'jp_jp_time_prepositions_vocabulary_009', display: 'に', input: 'に', meaning: 'at, to, for', level: 'JLPT N5', category: 'jp-time-prepositions-vocabulary', source: '[[jp-time-prepositions-vocabulary]]' }
+- { id: 'jp_jp_time_prepositions_vocabulary_010', display: 'を', input: 'を', meaning: 'object marker', level: 'JLPT N5', category: 'jp-time-prepositions-vocabulary', source: '[[jp-time-prepositions-vocabulary]]' }
+- { id: 'jp_jp_time_prepositions_vocabulary_011', display: 'へ', input: 'へ', meaning: 'to (direction)', level: 'JLPT N5', category: 'jp-time-prepositions-vocabulary', source: '[[jp-time-prepositions-vocabulary]]' }
+- { id: 'jp_jp_time_prepositions_vocabulary_012', display: 'から', input: 'から', meaning: 'from', level: 'JLPT N5', category: 'jp-time-prepositions-vocabulary', source: '[[jp-time-prepositions-vocabulary]]' }
+- { id: 'jp_jp_time_prepositions_vocabulary_013', display: 'まで', input: 'まで', meaning: 'until, up to', level: 'JLPT N5', category: 'jp-time-prepositions-vocabulary', source: '[[jp-time-prepositions-vocabulary]]' }
+- { id: 'jp_jp_time_prepositions_vocabulary_014', display: 'と', input: 'と', meaning: 'and, with, quotation', level: 'JLPT N5', category: 'jp-time-prepositions-vocabulary', source: '[[jp-time-prepositions-vocabulary]]' }
 ```

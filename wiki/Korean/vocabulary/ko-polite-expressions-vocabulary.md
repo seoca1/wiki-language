@@ -411,21 +411,21 @@ theme: "polite-expressions"
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/kr_words.md`).
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: ko_polite_001, display: "감사합니다 (感謝, gamsahamnida)", input: "감사합니다", meaning: "thank you (formal)", level: "TOPIK 1", category: "polite-expressions", source: "[[ko-polite-expressions-vocabulary]]" }
-- { id: ko_polite_002, display: "고맙습니다 (gomapseumnida)", input: "고맙습니다", meaning: "thank you (warm)", level: "TOPIK 1", category: "polite-expressions", source: "[[ko-polite-expressions-vocabulary]]" }
-- { id: ko_polite_003, display: "죄송합니다 (罪悚, joesonghamnida)", input: "죄송합니다", meaning: "I'm sorry (formal)", level: "TOPIK 1", category: "polite-expressions", source: "[[ko-polite-expressions-vocabulary]]" }
-- { id: ko_polite_004, display: "미안합니다 (未安, mianhamnida)", input: "미안합니다", meaning: "I'm sorry (softer)", level: "TOPIK 1", category: "polite-expressions", source: "[[ko-polite-expressions-vocabulary]]" }
-- { id: ko_polite_005, display: "실례합니다 (失禮, sillyehamnida)", input: "실례합니다", meaning: "excuse me (formal)", level: "TOPIK 2", category: "polite-expressions", source: "[[ko-polite-expressions-vocabulary]]" }
-- { id: ko_polite_006, display: "저기요 (jeogiyo)", input: "저기요", meaning: "excuse me (casual)", level: "TOPIK 1", category: "polite-expressions", source: "[[ko-polite-expressions-vocabulary]]" }
-- { id: ko_polite_007, display: "부탁드립니다 (付託, butakdeurimnida)", input: "부탁드립니다", meaning: "please (formal request)", level: "TOPIK 2", category: "polite-expressions", source: "[[ko-polite-expressions-vocabulary]]" }
-- { id: ko_polite_008, display: "주세요 (juseyo)", input: "주세요", meaning: "please give me", level: "TOPIK 1", category: "polite-expressions", source: "[[ko-polite-expressions-vocabulary]]" }
-- { id: ko_polite_009, display: "알겠습니다 (algesseumnida)", input: "알겠습니다", meaning: "I understand", level: "TOPIK 1", category: "polite-expressions", source: "[[ko-polite-expressions-vocabulary]]" }
-- { id: ko_polite_010, display: "네 (ne)", input: "네", meaning: "yes", level: "TOPIK 1", category: "polite-expressions", source: "[[ko-polite-expressions-vocabulary]]" }
-- { id: ko_polite_011, display: "만나서 반갑습니다 (mannaseo bangapseumnida)", input: "만나서 반갑습니다", meaning: "nice to meet you", level: "TOPIK 1", category: "polite-expressions", source: "[[ko-polite-expressions-vocabulary]]" }
-- { id: ko_polite_012, display: "안녕히 가세요 (annyeonghi gaseyo)", input: "안녕히 가세요", meaning: "goodbye (to leaver)", level: "TOPIK 1", category: "polite-expressions", source: "[[ko-polite-expressions-vocabulary]]" }
+- { id: 'kr_polite_expressions_001', display: '감사합니다 (gamsahamnida)', input: '감사합니다 (gamsahamnida)', meaning: 'thank you (formal)', level: 'TOPIK 1-3', category: 'polite-expressions', source: '[[ko-polite-expressions-vocabulary]]' }
+- { id: 'kr_polite_expressions_002', display: '고맙습니다 (gomapseumnida)', input: '고맙습니다 (gomapseumnida)', meaning: 'thank you (warm)', level: 'TOPIK 1', category: 'polite-expressions', source: '[[ko-polite-expressions-vocabulary]]' }
+- { id: 'kr_polite_expressions_003', display: '죄송합니다 (joesonghamnida)', input: '죄송합니다 (joesonghamnida)', meaning: 'I''m sorry (formal)', level: 'TOPIK 1-3', category: 'polite-expressions', source: '[[ko-polite-expressions-vocabulary]]' }
+- { id: 'kr_polite_expressions_004', display: '미안합니다 (mianhamnida)', input: '미안합니다 (mianhamnida)', meaning: 'I''m sorry (formal, softer)', level: 'TOPIK 1-3', category: 'polite-expressions', source: '[[ko-polite-expressions-vocabulary]]' }
+- { id: 'kr_polite_expressions_005', display: '실례합니다 (sillyehamnida)', input: '실례합니다 (sillyehamnida)', meaning: 'excuse me (formal, polite interruption)', level: 'TOPIK 1-3', category: 'polite-expressions', source: '[[ko-polite-expressions-vocabulary]]' }
+- { id: 'kr_polite_expressions_006', display: '저기요 (jeogiyo)', input: '저기요 (jeogiyo)', meaning: 'excuse me (casual)', level: 'TOPIK 1', category: 'polite-expressions', source: '[[ko-polite-expressions-vocabulary]]' }
+- { id: 'kr_polite_expressions_007', display: '부탁드립니다 (butakdeurimnida)', input: '부탁드립니다 (butakdeurimnida)', meaning: 'please (formal request)', level: 'TOPIK 1-3', category: 'polite-expressions', source: '[[ko-polite-expressions-vocabulary]]' }
+- { id: 'kr_polite_expressions_008', display: '주세요 (juseyo)', input: '주세요 (juseyo)', meaning: 'please give me', level: 'TOPIK 1', category: 'polite-expressions', source: '[[ko-polite-expressions-vocabulary]]' }
+- { id: 'kr_polite_expressions_009', display: '알겠습니다 (algesseumnida)', input: '알겠습니다 (algesseumnida)', meaning: 'I understand', level: 'TOPIK 1', category: 'polite-expressions', source: '[[ko-polite-expressions-vocabulary]]' }
+- { id: 'kr_polite_expressions_010', display: '네 (ne)', input: '네 (ne)', meaning: 'yes', level: 'TOPIK 1', category: 'polite-expressions', source: '[[ko-polite-expressions-vocabulary]]' }
+- { id: 'kr_polite_expressions_011', display: '만나서 반갑습니다 (mannaseo bangapseumnida)', input: '만나서 반갑습니다 (mannaseo bangapseumnida)', meaning: 'nice to meet you', level: 'TOPIK 1', category: 'polite-expressions', source: '[[ko-polite-expressions-vocabulary]]' }
+- { id: 'kr_polite_expressions_012', display: '안녕히 가세요 (annyeonghi gaseyo)', input: '안녕히 가세요 (annyeonghi gaseyo)', meaning: 'goodbye (to leaver)', level: 'TOPIK 1', category: 'polite-expressions', source: '[[ko-polite-expressions-vocabulary]]' }
 ```

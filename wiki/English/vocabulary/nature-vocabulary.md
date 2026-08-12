@@ -1272,43 +1272,43 @@ Rainbow = hope, promise (Noah's ark). LGBTQ+ pride flag (Gilbert Baker, 1978). "
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: en_nature_001, display: "sun", input: "sun", meaning: "태양", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: en_nature_002, display: "moon", input: "moon", meaning: "달", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: en_nature_003, display: "star", input: "star", meaning: "별", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: en_nature_004, display: "sky", input: "sky", meaning: "하늘", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: en_nature_005, display: "cloud", input: "cloud", meaning: "구름", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: en_nature_006, display: "rain", input: "rain", meaning: "비", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: en_nature_007, display: "snow", input: "snow", meaning: "눈", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: en_nature_008, display: "wind", input: "wind", meaning: "바람", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: en_nature_009, display: "storm", input: "storm", meaning: "폭풍", level: "A2", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: en_nature_010, display: "thunder", input: "thunder", meaning: "천둥", level: "A2", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: en_nature_011, display: "rainbow", input: "rainbow", meaning: "무지개", level: "A2", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: en_nature_012, display: "mountain", input: "mountain", meaning: "산", level: "A2", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: en_nature_013, display: "river", input: "river", meaning: "강", level: "A2", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: en_nature_014, display: "sea", input: "sea", meaning: "바다", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: en_nature_015, display: "lake", input: "lake", meaning: "호수", level: "A2", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: en_nature_016, display: "forest", input: "forest", meaning: "숲", level: "A2", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: en_nature_017, display: "desert", input: "desert", meaning: "사막", level: "A2", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: en_nature_018, display: "island", input: "island", meaning: "섬", level: "A2", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: en_nature_019, display: "beach", input: "beach", meaning: "해변", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: en_nature_020, display: "hill", input: "hill", meaning: "언덕", level: "A2", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: en_nature_021, display: "valley", input: "valley", meaning: "계곡", level: "A2", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: en_nature_022, display: "ocean", input: "ocean", meaning: "바다", level: "A2", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: en_nature_023, display: "flower", input: "flower", meaning: "꽃", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: en_nature_024, display: "tree", input: "tree", meaning: "나무", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: en_nature_025, display: "grass", input: "grass", meaning: "풀", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: en_nature_026, display: "leaf", input: "leaf", meaning: "잎", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: en_nature_027, display: "rose", input: "rose", meaning: "장미", level: "A2", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: en_nature_028, display: "garden", input: "garden", meaning: "정원", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: en_nature_029, display: "to bloom", input: "to bloom", meaning: "피다", level: "A2", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: en_nature_030, display: "to fall", input: "to fall", meaning: "떨어지다", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: en_nature_031, display: "to grow", input: "to grow", meaning: "성장하다", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: en_nature_032, display: "to freeze", input: "to freeze", meaning: "얼다", level: "A2", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: en_nature_033, display: "to melt", input: "to melt", meaning: "녹다", level: "A2", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: en_nature_034, display: "to shine", input: "to shine", meaning: "빛나다", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: en_nature_035, display: "bright", input: "bright", meaning: "밝은", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: en_nature_036, display: "dark", input: "dark", meaning: "어두운", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: en_nature_037, display: "hot", input: "hot", meaning: "더운", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: en_nature_038, display: "cold", input: "cold", meaning: "추운", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: en_nature_039, display: "warm", input: "warm", meaning: "따뜻한", level: "A1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
+- { id: 'en_nature_001', display: 'sun', input: 'sun', meaning: '태양', level: 'A1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'en_nature_002', display: 'moon', input: 'moon', meaning: '달', level: 'A1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'en_nature_003', display: 'star', input: 'star', meaning: '별', level: 'A1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'en_nature_004', display: 'sky', input: 'sky', meaning: '하늘', level: 'A1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'en_nature_005', display: 'cloud', input: 'cloud', meaning: '구름', level: 'A1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'en_nature_006', display: 'rain', input: 'rain', meaning: '비', level: 'A1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'en_nature_007', display: 'snow', input: 'snow', meaning: '눈', level: 'A1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'en_nature_008', display: 'wind', input: 'wind', meaning: '바람', level: 'A1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'en_nature_009', display: 'storm', input: 'storm', meaning: '폭풍', level: 'A2', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'en_nature_010', display: 'thunder', input: 'thunder', meaning: '천둥', level: 'A2', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'en_nature_011', display: 'rainbow', input: 'rainbow', meaning: '무지개', level: 'A2', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'en_nature_012', display: 'mountain', input: 'mountain', meaning: '산', level: 'A2', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'en_nature_013', display: 'river', input: 'river', meaning: '강', level: 'A2', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'en_nature_014', display: 'sea', input: 'sea', meaning: '바다', level: 'A1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'en_nature_015', display: 'lake', input: 'lake', meaning: '호수', level: 'A2', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'en_nature_016', display: 'forest', input: 'forest', meaning: '숲', level: 'A2', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'en_nature_017', display: 'desert', input: 'desert', meaning: '사막', level: 'A2', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'en_nature_018', display: 'island', input: 'island', meaning: '섬', level: 'A2', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'en_nature_019', display: 'beach', input: 'beach', meaning: '해변', level: 'A1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'en_nature_020', display: 'hill', input: 'hill', meaning: '언덕', level: 'A2', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'en_nature_021', display: 'valley', input: 'valley', meaning: '계곡', level: 'A2', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'en_nature_022', display: 'ocean', input: 'ocean', meaning: '바다', level: 'A2', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'en_nature_023', display: 'flower', input: 'flower', meaning: '꽃', level: 'A1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'en_nature_024', display: 'tree', input: 'tree', meaning: '나무', level: 'A1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'en_nature_025', display: 'grass', input: 'grass', meaning: '풀', level: 'A1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'en_nature_026', display: 'leaf', input: 'leaf', meaning: '잎', level: 'A1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'en_nature_027', display: 'rose', input: 'rose', meaning: '장미', level: 'A2', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'en_nature_028', display: 'garden', input: 'garden', meaning: '정원', level: 'A1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'en_nature_029', display: 'to bloom', input: 'to bloom', meaning: '피다', level: 'A2', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'en_nature_030', display: 'to fall', input: 'to fall', meaning: '떨어지다', level: 'A1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'en_nature_031', display: 'to grow', input: 'to grow', meaning: '성장하다', level: 'A1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'en_nature_032', display: 'to freeze', input: 'to freeze', meaning: '얼다', level: 'A2', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'en_nature_033', display: 'to melt', input: 'to melt', meaning: '녹다', level: 'A2', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'en_nature_034', display: 'to shine', input: 'to shine', meaning: '빛나다', level: 'A1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'en_nature_035', display: 'bright', input: 'bright', meaning: '밝은', level: 'A1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'en_nature_036', display: 'dark', input: 'dark', meaning: '어두운', level: 'A1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'en_nature_037', display: 'hot', input: 'hot', meaning: '더운', level: 'A1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'en_nature_038', display: 'cold', input: 'cold', meaning: '추운', level: 'A1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'en_nature_039', display: 'warm', input: 'warm', meaning: '따뜻한', level: 'A1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
 ```

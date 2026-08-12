@@ -10,6 +10,9 @@ language_level: "TOPIK 1"
 **Theme:** 한국어 기초
 **Level:** TOPIK 1
 
+
+## Summary
+
 한국어 TOPIK 1급 기초 어휘: 인사, 숫자, 가족/사람, 음식/사물, 시간, 짧은 문장. TOPIK 1급 출제 어휘 기반.
 
 ## Vocabulary Extracted

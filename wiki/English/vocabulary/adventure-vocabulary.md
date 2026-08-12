@@ -430,23 +430,23 @@ US has famous long-distance trails: Appalachian Trail (3,500 km), Pacific Crest 
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: en_adventure_001, display: "mountain", input: "mountain", meaning: "산", level: "A1", category: "adventure", source: "[[adventure-vocabulary]]" }
-- { id: en_adventure_002, display: "forest", input: "forest", meaning: "숲", level: "A2", category: "adventure", source: "[[adventure-vocabulary]]" }
-- { id: en_adventure_003, display: "river", input: "river", meaning: "강", level: "A1", category: "adventure", source: "[[adventure-vocabulary]]" }
-- { id: en_adventure_004, display: "lake", input: "lake", meaning: "호수", level: "A1", category: "adventure", source: "[[adventure-vocabulary]]" }
-- { id: en_adventure_005, display: "beach", input: "beach", meaning: "해변", level: "A1", category: "adventure", source: "[[adventure-vocabulary]]" }
-- { id: en_adventure_006, display: "tent", input: "tent", meaning: "텐트", level: "A2", category: "adventure", source: "[[adventure-vocabulary]]" }
-- { id: en_adventure_007, display: "sleeping bag", input: "sleeping bag", meaning: "침낭", level: "A2", category: "adventure", source: "[[adventure-vocabulary]]" }
-- { id: en_adventure_008, display: "backpack", input: "backpack", meaning: "배낭/백팩", level: "A2", category: "adventure", source: "[[adventure-vocabulary]]" }
-- { id: en_adventure_009, display: "compass", input: "compass", meaning: "나침반", level: "B1", category: "adventure", source: "[[adventure-vocabulary]]" }
-- { id: en_adventure_010, display: "map", input: "map", meaning: "지도", level: "A1", category: "adventure", source: "[[adventure-vocabulary]]" }
-- { id: en_adventure_011, display: "flashlight", input: "flashlight", meaning: "손전등", level: "A2", category: "adventure", source: "[[adventure-vocabulary]]" }
-- { id: en_adventure_012, display: "weather", input: "weather", meaning: "날씨", level: "A1", category: "adventure", source: "[[adventure-vocabulary]]" }
-- { id: en_adventure_013, display: "storm", input: "storm", meaning: "폭풍", level: "A2", category: "adventure", source: "[[adventure-vocabulary]]" }
-- { id: en_adventure_014, display: "trail", input: "trail", meaning: "산책로/트레일", level: "B1", category: "adventure", source: "[[adventure-vocabulary]]" }
-- { id: en_adventure_015, display: "emergency", input: "emergency", meaning: "긴급 상황", level: "B1", category: "adventure", source: "[[adventure-vocabulary]]" }
-- { id: en_adventure_016, display: "injured", input: "injured", meaning: "부상당한", level: "B1", category: "adventure", source: "[[adventure-vocabulary]]" }
-- { id: en_adventure_017, display: "lost", input: "lost", meaning: "길을 잃은", level: "A1", category: "adventure", source: "[[adventure-vocabulary]]" }
-- { id: en_adventure_018, display: "rescue", input: "rescue", meaning: "구조/구조하다", level: "B1", category: "adventure", source: "[[adventure-vocabulary]]" }
-- { id: en_adventure_019, display: "summit", input: "summit", meaning: "정상(산)", level: "B1", category: "adventure", source: "[[adventure-vocabulary]]" }
+- { id: 'en_adventure_001', display: 'mountain', input: 'mountain', meaning: '산', level: 'A1', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'en_adventure_002', display: 'forest', input: 'forest', meaning: '숲', level: 'A2', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'en_adventure_003', display: 'river', input: 'river', meaning: '강', level: 'A1', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'en_adventure_004', display: 'lake', input: 'lake', meaning: '호수', level: 'A1', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'en_adventure_005', display: 'beach', input: 'beach', meaning: '해변', level: 'A1', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'en_adventure_006', display: 'tent', input: 'tent', meaning: '텐트', level: 'A2', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'en_adventure_007', display: 'sleeping bag', input: 'sleeping bag', meaning: '침낭', level: 'A2', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'en_adventure_008', display: 'backpack', input: 'backpack', meaning: '배낭/백팩', level: 'A2', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'en_adventure_009', display: 'compass', input: 'compass', meaning: '나침반', level: 'B1', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'en_adventure_010', display: 'map', input: 'map', meaning: '지도', level: 'A1', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'en_adventure_011', display: 'flashlight', input: 'flashlight', meaning: '손전등', level: 'A2', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'en_adventure_012', display: 'weather', input: 'weather', meaning: '날씨', level: 'A1', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'en_adventure_013', display: 'storm', input: 'storm', meaning: '폭풍', level: 'A2', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'en_adventure_014', display: 'trail', input: 'trail', meaning: '산책로/트레일', level: 'B1', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'en_adventure_015', display: 'emergency', input: 'emergency', meaning: '긴급 상황', level: 'B1', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'en_adventure_016', display: 'injured', input: 'injured', meaning: '부상당한', level: 'B1', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'en_adventure_017', display: 'lost', input: 'lost', meaning: '길을 잃은', level: 'A1', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'en_adventure_018', display: 'rescue', input: 'rescue', meaning: '구조/구조하다', level: 'B1', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'en_adventure_019', display: 'summit', input: 'summit', meaning: '정상(산)', level: 'B1', category: 'adventure', source: '[[adventure-vocabulary]]' }
 ```

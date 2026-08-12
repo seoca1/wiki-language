@@ -1028,40 +1028,40 @@ Contexto cultural por añadir
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: es_time_prepositions_001, display: "a", input: "a", meaning: "방향/목적지", level: "A1", category: "time-prepositions-vocabulary", source: "[[time-prepositions-vocabulary]]" }
-- { id: es_time_prepositions_002, display: "de", input: "de", meaning: "의", level: "A1", category: "time-prepositions-vocabulary", source: "[[time-prepositions-vocabulary]]" }
-- { id: es_time_prepositions_003, display: "en", input: "en", meaning: "에서", level: "A1", category: "time-prepositions-vocabulary", source: "[[time-prepositions-vocabulary]]" }
-- { id: es_time_prepositions_004, display: "con", input: "con", meaning: "와", level: "A1", category: "time-prepositions-vocabulary", source: "[[time-prepositions-vocabulary]]" }
-- { id: es_time_prepositions_005, display: "sin", input: "sin", meaning: "없이", level: "A1", category: "time-prepositions-vocabulary", source: "[[time-prepositions-vocabulary]]" }
-- { id: es_time_prepositions_006, display: "para", input: "para", meaning: "목적/수혜/방향", level: "A1", category: "time-prepositions-vocabulary", source: "[[time-prepositions-vocabulary]]" }
-- { id: es_time_prepositions_007, display: "por", input: "por", meaning: "~에 의해", level: "A1", category: "time-prepositions-vocabulary", source: "[[time-prepositions-vocabulary]]" }
-- { id: es_time_prepositions_008, display: "hasta", input: "hasta", meaning: "까지", level: "A1", category: "time-prepositions-vocabulary", source: "[[time-prepositions-vocabulary]]" }
-- { id: es_time_prepositions_009, display: "desde", input: "desde", meaning: "부터", level: "A1", category: "time-prepositions-vocabulary", source: "[[time-prepositions-vocabulary]]" }
-- { id: es_time_prepositions_010, display: "entre", input: "entre", meaning: "사이에", level: "A1", category: "time-prepositions-vocabulary", source: "[[time-prepositions-vocabulary]]" }
-- { id: es_time_prepositions_011, display: "ahora", input: "ahora", meaning: "지금", level: "A1", category: "time-prepositions-vocabulary", source: "[[time-prepositions-vocabulary]]" }
-- { id: es_time_prepositions_012, display: "hoy", input: "hoy", meaning: "오늘", level: "A1", category: "time-prepositions-vocabulary", source: "[[time-prepositions-vocabulary]]" }
-- { id: es_time_prepositions_013, display: "mañana", input: "mañana", meaning: "내일", level: "A1", category: "time-prepositions-vocabulary", source: "[[time-prepositions-vocabulary]]" }
-- { id: es_time_prepositions_014, display: "ayer", input: "ayer", meaning: "어제", level: "A1", category: "time-prepositions-vocabulary", source: "[[time-prepositions-vocabulary]]" }
-- { id: es_time_prepositions_015, display: "anoche", input: "anoche", meaning: "어젯밤", level: "A1", category: "time-prepositions-vocabulary", source: "[[time-prepositions-vocabulary]]" }
-- { id: es_time_prepositions_016, display: "siempre", input: "siempre", meaning: "항상", level: "A1", category: "time-prepositions-vocabulary", source: "[[time-prepositions-vocabulary]]" }
-- { id: es_time_prepositions_017, display: "nunca", input: "nunca", meaning: "결코", level: "A1", category: "time-prepositions-vocabulary", source: "[[time-prepositions-vocabulary]]" }
-- { id: es_time_prepositions_018, display: "a veces", input: "a veces", meaning: "때때로", level: "A1", category: "time-prepositions-vocabulary", source: "[[time-prepositions-vocabulary]]" }
-- { id: es_time_prepositions_019, display: "temprano", input: "temprano", meaning: "일찍", level: "A1", category: "time-prepositions-vocabulary", source: "[[time-prepositions-vocabulary]]" }
-- { id: es_time_prepositions_020, display: "tarde", input: "tarde", meaning: "늦게", level: "A1", category: "time-prepositions-vocabulary", source: "[[time-prepositions-vocabulary]]" }
-- { id: es_time_prepositions_021, display: "la hora", input: "la hora", meaning: "시간", level: "A1", category: "time-prepositions-vocabulary", source: "[[time-prepositions-vocabulary]]" }
-- { id: es_time_prepositions_022, display: "el minuto", input: "el minuto", meaning: "시간 단위", level: "A1", category: "time-prepositions-vocabulary", source: "[[time-prepositions-vocabulary]]" }
-- { id: es_time_prepositions_023, display: "el segundo", input: "el segundo", meaning: "시간 단위", level: "A1", category: "time-prepositions-vocabulary", source: "[[time-prepositions-vocabulary]]" }
-- { id: es_time_prepositions_024, display: "la semana", input: "la semana", meaning: "주", level: "A1", category: "time-prepositions-vocabulary", source: "[[time-prepositions-vocabulary]]" }
-- { id: es_time_prepositions_025, display: "el mes", input: "el mes", meaning: "달", level: "A1", category: "time-prepositions-vocabulary", source: "[[time-prepositions-vocabulary]]" }
-- { id: es_time_prepositions_026, display: "el año", input: "el año", meaning: "해", level: "A1", category: "time-prepositions-vocabulary", source: "[[time-prepositions-vocabulary]]" }
-- { id: es_time_prepositions_027, display: "lunes", input: "lunes", meaning: "월요일", level: "A1", category: "time-prepositions-vocabulary", source: "[[time-prepositions-vocabulary]]" }
-- { id: es_time_prepositions_028, display: "martes", input: "martes", meaning: "화요일", level: "A1", category: "time-prepositions-vocabulary", source: "[[time-prepositions-vocabulary]]" }
-- { id: es_time_prepositions_029, display: "miércoles", input: "miércoles", meaning: "수요일", level: "A1", category: "time-prepositions-vocabulary", source: "[[time-prepositions-vocabulary]]" }
-- { id: es_time_prepositions_030, display: "jueves", input: "jueves", meaning: "목요일", level: "A1", category: "time-prepositions-vocabulary", source: "[[time-prepositions-vocabulary]]" }
-- { id: es_time_prepositions_031, display: "viernes", input: "viernes", meaning: "금요일", level: "A1", category: "time-prepositions-vocabulary", source: "[[time-prepositions-vocabulary]]" }
-- { id: es_time_prepositions_032, display: "sábado", input: "sábado", meaning: "토요일", level: "A1", category: "time-prepositions-vocabulary", source: "[[time-prepositions-vocabulary]]" }
-- { id: es_time_prepositions_033, display: "domingo", input: "domingo", meaning: "일요일", level: "A1", category: "time-prepositions-vocabulary", source: "[[time-prepositions-vocabulary]]" }
-- { id: es_time_prepositions_034, display: "enero", input: "enero", meaning: "월", level: "A1", category: "time-prepositions-vocabulary", source: "[[time-prepositions-vocabulary]]" }
-- { id: es_time_prepositions_035, display: "febrero", input: "febrero", meaning: "월", level: "A1", category: "time-prepositions-vocabulary", source: "[[time-prepositions-vocabulary]]" }
-- { id: es_time_prepositions_036, display: "marzo", input: "marzo", meaning: "월", level: "A1", category: "time-prepositions-vocabulary", source: "[[time-prepositions-vocabulary]]" }
+- { id: 'es_time_prepositions_001', display: 'a', input: 'a', meaning: '방향/목적지', level: 'A1', category: 'time-prepositions-vocabulary', source: '[[time-prepositions-vocabulary]]' }
+- { id: 'es_time_prepositions_002', display: 'de', input: 'de', meaning: '의', level: 'A1', category: 'time-prepositions-vocabulary', source: '[[time-prepositions-vocabulary]]' }
+- { id: 'es_time_prepositions_003', display: 'en', input: 'en', meaning: '에서', level: 'A1', category: 'time-prepositions-vocabulary', source: '[[time-prepositions-vocabulary]]' }
+- { id: 'es_time_prepositions_004', display: 'con', input: 'con', meaning: '와', level: 'A1', category: 'time-prepositions-vocabulary', source: '[[time-prepositions-vocabulary]]' }
+- { id: 'es_time_prepositions_005', display: 'sin', input: 'sin', meaning: '없이', level: 'A1', category: 'time-prepositions-vocabulary', source: '[[time-prepositions-vocabulary]]' }
+- { id: 'es_time_prepositions_006', display: 'para', input: 'para', meaning: '목적/수혜/방향', level: 'A1', category: 'time-prepositions-vocabulary', source: '[[time-prepositions-vocabulary]]' }
+- { id: 'es_time_prepositions_007', display: 'por', input: 'por', meaning: '~에 의해', level: 'A1', category: 'time-prepositions-vocabulary', source: '[[time-prepositions-vocabulary]]' }
+- { id: 'es_time_prepositions_008', display: 'hasta', input: 'hasta', meaning: '까지', level: 'A1', category: 'time-prepositions-vocabulary', source: '[[time-prepositions-vocabulary]]' }
+- { id: 'es_time_prepositions_009', display: 'desde', input: 'desde', meaning: '부터', level: 'A1', category: 'time-prepositions-vocabulary', source: '[[time-prepositions-vocabulary]]' }
+- { id: 'es_time_prepositions_010', display: 'entre', input: 'entre', meaning: '사이에', level: 'A1', category: 'time-prepositions-vocabulary', source: '[[time-prepositions-vocabulary]]' }
+- { id: 'es_time_prepositions_011', display: 'ahora', input: 'ahora', meaning: '지금', level: 'A1', category: 'time-prepositions-vocabulary', source: '[[time-prepositions-vocabulary]]' }
+- { id: 'es_time_prepositions_012', display: 'hoy', input: 'hoy', meaning: '오늘', level: 'A1', category: 'time-prepositions-vocabulary', source: '[[time-prepositions-vocabulary]]' }
+- { id: 'es_time_prepositions_013', display: 'mañana', input: 'mañana', meaning: '내일', level: 'A1', category: 'time-prepositions-vocabulary', source: '[[time-prepositions-vocabulary]]' }
+- { id: 'es_time_prepositions_014', display: 'ayer', input: 'ayer', meaning: '어제', level: 'A1', category: 'time-prepositions-vocabulary', source: '[[time-prepositions-vocabulary]]' }
+- { id: 'es_time_prepositions_015', display: 'anoche', input: 'anoche', meaning: '어젯밤', level: 'A1', category: 'time-prepositions-vocabulary', source: '[[time-prepositions-vocabulary]]' }
+- { id: 'es_time_prepositions_016', display: 'siempre', input: 'siempre', meaning: '항상', level: 'A1', category: 'time-prepositions-vocabulary', source: '[[time-prepositions-vocabulary]]' }
+- { id: 'es_time_prepositions_017', display: 'nunca', input: 'nunca', meaning: '결코', level: 'A1', category: 'time-prepositions-vocabulary', source: '[[time-prepositions-vocabulary]]' }
+- { id: 'es_time_prepositions_018', display: 'a veces', input: 'a veces', meaning: '때때로', level: 'A1', category: 'time-prepositions-vocabulary', source: '[[time-prepositions-vocabulary]]' }
+- { id: 'es_time_prepositions_019', display: 'temprano', input: 'temprano', meaning: '일찍', level: 'A1', category: 'time-prepositions-vocabulary', source: '[[time-prepositions-vocabulary]]' }
+- { id: 'es_time_prepositions_020', display: 'tarde', input: 'tarde', meaning: '늦게', level: 'A1', category: 'time-prepositions-vocabulary', source: '[[time-prepositions-vocabulary]]' }
+- { id: 'es_time_prepositions_021', display: 'la hora', input: 'la hora', meaning: '시간', level: 'A1', category: 'time-prepositions-vocabulary', source: '[[time-prepositions-vocabulary]]' }
+- { id: 'es_time_prepositions_022', display: 'el minuto', input: 'el minuto', meaning: '시간 단위', level: 'A1', category: 'time-prepositions-vocabulary', source: '[[time-prepositions-vocabulary]]' }
+- { id: 'es_time_prepositions_023', display: 'el segundo', input: 'el segundo', meaning: '시간 단위', level: 'A1', category: 'time-prepositions-vocabulary', source: '[[time-prepositions-vocabulary]]' }
+- { id: 'es_time_prepositions_024', display: 'la semana', input: 'la semana', meaning: '주', level: 'A1', category: 'time-prepositions-vocabulary', source: '[[time-prepositions-vocabulary]]' }
+- { id: 'es_time_prepositions_025', display: 'el mes', input: 'el mes', meaning: '달', level: 'A1', category: 'time-prepositions-vocabulary', source: '[[time-prepositions-vocabulary]]' }
+- { id: 'es_time_prepositions_026', display: 'el año', input: 'el año', meaning: '해', level: 'A1', category: 'time-prepositions-vocabulary', source: '[[time-prepositions-vocabulary]]' }
+- { id: 'es_time_prepositions_027', display: 'lunes', input: 'lunes', meaning: '월요일', level: 'A1', category: 'time-prepositions-vocabulary', source: '[[time-prepositions-vocabulary]]' }
+- { id: 'es_time_prepositions_028', display: 'martes', input: 'martes', meaning: '화요일', level: 'A1', category: 'time-prepositions-vocabulary', source: '[[time-prepositions-vocabulary]]' }
+- { id: 'es_time_prepositions_029', display: 'miércoles', input: 'miércoles', meaning: '수요일', level: 'A1', category: 'time-prepositions-vocabulary', source: '[[time-prepositions-vocabulary]]' }
+- { id: 'es_time_prepositions_030', display: 'jueves', input: 'jueves', meaning: '목요일', level: 'A1', category: 'time-prepositions-vocabulary', source: '[[time-prepositions-vocabulary]]' }
+- { id: 'es_time_prepositions_031', display: 'viernes', input: 'viernes', meaning: '금요일', level: 'A1', category: 'time-prepositions-vocabulary', source: '[[time-prepositions-vocabulary]]' }
+- { id: 'es_time_prepositions_032', display: 'sábado', input: 'sábado', meaning: '토요일', level: 'A1', category: 'time-prepositions-vocabulary', source: '[[time-prepositions-vocabulary]]' }
+- { id: 'es_time_prepositions_033', display: 'domingo', input: 'domingo', meaning: '일요일', level: 'A1', category: 'time-prepositions-vocabulary', source: '[[time-prepositions-vocabulary]]' }
+- { id: 'es_time_prepositions_034', display: 'enero', input: 'enero', meaning: '월', level: 'A1', category: 'time-prepositions-vocabulary', source: '[[time-prepositions-vocabulary]]' }
+- { id: 'es_time_prepositions_035', display: 'febrero', input: 'febrero', meaning: '월', level: 'A1', category: 'time-prepositions-vocabulary', source: '[[time-prepositions-vocabulary]]' }
+- { id: 'es_time_prepositions_036', display: 'marzo', input: 'marzo', meaning: '월', level: 'A1', category: 'time-prepositions-vocabulary', source: '[[time-prepositions-vocabulary]]' }
 ```

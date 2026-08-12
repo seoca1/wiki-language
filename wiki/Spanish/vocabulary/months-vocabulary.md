@@ -297,14 +297,14 @@ Spanish months 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: es_months_001, display: "enero", input: "enero", meaning: "1월", level: "A1", category: "months", source: "[[months-vocabulary]]" }
-- { id: es_months_002, display: "febrero", input: "febrero", meaning: "2월", level: "A1", category: "months", source: "[[months-vocabulary]]" }
-- { id: es_months_003, display: "marzo", input: "marzo", meaning: "3월", level: "A1", category: "months", source: "[[months-vocabulary]]" }
-- { id: es_months_004, display: "abril", input: "abril", meaning: "4월", level: "A1", category: "months", source: "[[months-vocabulary]]" }
-- { id: es_months_005, display: "mayo", input: "mayo", meaning: "5월", level: "A1", category: "months", source: "[[months-vocabulary]]" }
-- { id: es_months_006, display: "junio", input: "junio", meaning: "6월", level: "A1", category: "months", source: "[[months-vocabulary]]" }
-- { id: es_months_007, display: "julio", input: "julio", meaning: "7월", level: "A1", category: "months", source: "[[months-vocabulary]]" }
-- { id: es_months_008, display: "agosto", input: "agosto", meaning: "8월", level: "A1", category: "months", source: "[[months-vocabulary]]" }
-- { id: es_months_009, display: "septiembre", input: "septiembre", meaning: "9월", level: "A1", category: "months", source: "[[months-vocabulary]]" }
-- { id: es_months_010, display: "octubre", input: "octubre", meaning: "10월", level: "A1", category: "months", source: "[[months-vocabulary]]" }
+- { id: 'es_months_001', display: 'enero', input: 'enero', meaning: '1월', level: 'A1', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'es_months_002', display: 'febrero', input: 'febrero', meaning: '2월', level: 'A1', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'es_months_003', display: 'marzo', input: 'marzo', meaning: '3월', level: 'A1', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'es_months_004', display: 'abril', input: 'abril', meaning: '4월', level: 'A1', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'es_months_005', display: 'mayo', input: 'mayo', meaning: '5월', level: 'A1', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'es_months_006', display: 'junio', input: 'junio', meaning: '6월', level: 'A1', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'es_months_007', display: 'julio', input: 'julio', meaning: '7월', level: 'A1', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'es_months_008', display: 'agosto', input: 'agosto', meaning: '8월', level: 'A1', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'es_months_009', display: 'septiembre', input: 'septiembre', meaning: '9월', level: 'A1', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'es_months_010', display: 'octubre', input: 'octubre', meaning: '10월', level: 'A1', category: 'months', source: '[[months-vocabulary]]' }
 ```

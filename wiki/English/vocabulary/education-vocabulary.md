@@ -297,14 +297,14 @@ English 교육문화: 학교 시스템, 학습방식, 학업 표현 등.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: en_education_001, display: "school", input: "school", meaning: "학교", level: "A1", category: "education", source: "[[education-vocabulary]]" }
-- { id: en_education_002, display: "student", input: "student", meaning: "학생", level: "A1", category: "education", source: "[[education-vocabulary]]" }
-- { id: en_education_003, display: "teacher", input: "teacher", meaning: "선생", level: "A2", category: "education", source: "[[education-vocabulary]]" }
-- { id: en_education_004, display: "book", input: "book", meaning: "책", level: "A1", category: "education", source: "[[education-vocabulary]]" }
-- { id: en_education_005, display: "pen", input: "pen", meaning: "펜", level: "A1", category: "education", source: "[[education-vocabulary]]" }
-- { id: en_education_006, display: "pencil", input: "pencil", meaning: "연필", level: "A1", category: "education", source: "[[education-vocabulary]]" }
-- { id: en_education_007, display: "homework", input: "homework", meaning: "숙제", level: "A2", category: "education", source: "[[education-vocabulary]]" }
-- { id: en_education_008, display: "test", input: "test", meaning: "시험", level: "A2", category: "education", source: "[[education-vocabulary]]" }
-- { id: en_education_009, display: "library", input: "library", meaning: "도서관", level: "A2", category: "education", source: "[[education-vocabulary]]" }
-- { id: en_education_010, display: "university", input: "university", meaning: "대학교", level: "A2", category: "education", source: "[[education-vocabulary]]" }
+- { id: 'en_education_001', display: 'school', input: 'school', meaning: '학교', level: 'A1', category: 'education', source: '[[education-vocabulary]]' }
+- { id: 'en_education_002', display: 'student', input: 'student', meaning: '학생', level: 'A1', category: 'education', source: '[[education-vocabulary]]' }
+- { id: 'en_education_003', display: 'teacher', input: 'teacher', meaning: '선생', level: 'A2', category: 'education', source: '[[education-vocabulary]]' }
+- { id: 'en_education_004', display: 'book', input: 'book', meaning: '책', level: 'A1', category: 'education', source: '[[education-vocabulary]]' }
+- { id: 'en_education_005', display: 'pen', input: 'pen', meaning: '펜', level: 'A1', category: 'education', source: '[[education-vocabulary]]' }
+- { id: 'en_education_006', display: 'pencil', input: 'pencil', meaning: '연필', level: 'A1', category: 'education', source: '[[education-vocabulary]]' }
+- { id: 'en_education_007', display: 'homework', input: 'homework', meaning: '숙제', level: 'A2', category: 'education', source: '[[education-vocabulary]]' }
+- { id: 'en_education_008', display: 'test', input: 'test', meaning: '시험', level: 'A2', category: 'education', source: '[[education-vocabulary]]' }
+- { id: 'en_education_009', display: 'library', input: 'library', meaning: '도서관', level: 'A2', category: 'education', source: '[[education-vocabulary]]' }
+- { id: 'en_education_010', display: 'university', input: 'university', meaning: '대학교', level: 'A2', category: 'education', source: '[[education-vocabulary]]' }
 ```

@@ -484,25 +484,29 @@ theme: "daily-life"
 
 > Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: zh_daily_001, display: "起床 (qǐchuáng)", input: "qi3 chuang2", meaning: "일어나다 (침대에서)", level: "HSK 2", category: "daily-life-zh", source: "[[zh-daily-life-vocabulary]]" }
-- { id: zh_daily_002, display: "睡觉 (shuìjiào)", input: "shui4 jiao4", meaning: "자다", level: "HSK 1", category: "daily-life-zh", source: "[[zh-daily-life-vocabulary]]" }
-- { id: zh_daily_003, display: "刷牙 (shuāyá)", input: "shua1 ya2", meaning: "양치하다", level: "HSK 3", category: "daily-life-zh", source: "[[zh-daily-life-vocabulary]]" }
-- { id: zh_daily_004, display: "吃饭 (chīfàn)", input: "chi1 fan4", meaning: "밥 먹다", level: "HSK 1", category: "daily-life-zh", source: "[[zh-daily-life-vocabulary]]" }
-- { id: zh_daily_005, display: "喝水 (hēshuǐ)", input: "he1 shui3", meaning: "물 마시다", level: "HSK 2", category: "daily-life-zh", source: "[[zh-daily-life-vocabulary]]" }
-- { id: zh_daily_006, display: "喝咖啡 (hē kāfēi)", input: "he1 ka1 fei1", meaning: "커피 마시다", level: "HSK 3", category: "daily-life-zh", source: "[[zh-daily-life-vocabulary]]" }
-- { id: zh_daily_007, display: "去 (qù)", input: "qu4", meaning: "가다 (멀리)", level: "HSK 1", category: "daily-life-zh", source: "[[zh-daily-life-vocabulary]]" }
-- { id: zh_daily_008, display: "来 (lái)", input: "lai2", meaning: "오다", level: "HSK 1", category: "daily-life-zh", source: "[[zh-daily-life-vocabulary]]" }
-- { id: zh_daily_009, display: "回家 (huí jiā)", input: "hui2 jia1", meaning: "집에 돌아가다", level: "HSK 2", category: "daily-life-zh", source: "[[zh-daily-life-vocabulary]]" }
-- { id: zh_daily_010, display: "工作 (gōngzuò)", input: "gong1 zuo4", meaning: "일하다/일", level: "HSK 1", category: "daily-life-zh", source: "[[zh-daily-life-vocabulary]]" }
-- { id: zh_daily_011, display: "学习 (xuéxí)", input: "xue2 xi2", meaning: "공부하다/배우다", level: "HSK 1", category: "daily-life-zh", source: "[[zh-daily-life-vocabulary]]" }
-- { id: zh_daily_012, display: "上课 (shàngkè)", input: "shang4 ke4", meaning: "수업 시작/출석하다", level: "HSK 2", category: "daily-life-zh", source: "[[zh-daily-life-vocabulary]]" }
-- { id: zh_daily_013, display: "下课 (xiàkè)", input: "xia4 ke4", meaning: "수업 끝나다", level: "HSK 2", category: "daily-life-zh", source: "[[zh-daily-life-vocabulary]]" }
-- { id: zh_daily_014, display: "说话 (shuōhuà)", input: "shuo1 hua4", meaning: "말하다", level: "HSK 2", category: "daily-life-zh", source: "[[zh-daily-life-vocabulary]]" }
-- { id: zh_daily_015, display: "听 (tīng)", input: "ting1", meaning: "듣다", level: "HSK 1", category: "daily-life-zh", source: "[[zh-daily-life-vocabulary]]" }
-- { id: zh_daily_016, display: "看 (kàn)", input: "kan4", meaning: "보다/읽다", level: "HSK 1", category: "daily-life-zh", source: "[[zh-daily-life-vocabulary]]" }
-- { id: zh_daily_017, display: "玩 (wán)", input: "wan2", meaning: "놀다", level: "HSK 2", category: "daily-life-zh", source: "[[zh-daily-life-vocabulary]]" }
-- { id: zh_daily_018, display: "跑步 (pǎobù)", input: "pao3 bu4", meaning: "달리다/조깅하다", level: "HSK 3", category: "daily-life-zh", source: "[[zh-daily-life-vocabulary]]" }
-- { id: zh_daily_019, display: "买 (mǎi)", input: "mai3", meaning: "사다", level: "HSK 1", category: "daily-life-zh", source: "[[zh-daily-life-vocabulary]]" }
+- { id: 'zh_daily_life_001', display: '起床 (qǐchuáng)', input: '起床 (qǐchuáng)', meaning: '일어나다 (침대에서)', level: 'HSK 2', category: 'daily-life-zh', source: '[[zh-daily-life-vocabulary]]' }
+- { id: 'zh_daily_life_002', display: '睡觉 (shuìjiào)', input: '睡觉 (shuìjiào)', meaning: '자다', level: 'HSK 1', category: 'daily-life-zh', source: '[[zh-daily-life-vocabulary]]' }
+- { id: 'zh_daily_life_003', display: '刷牙 (shuāyá)', input: '刷牙 (shuāyá)', meaning: '양치하다', level: 'HSK 3', category: 'daily-life-zh', source: '[[zh-daily-life-vocabulary]]' }
+- { id: 'zh_daily_life_004', display: '吃饭 (chīfàn)', input: '吃饭 (chīfàn)', meaning: '밥 먹다', level: 'HSK 1', category: 'daily-life-zh', source: '[[zh-daily-life-vocabulary]]' }
+- { id: 'zh_daily_life_005', display: '喝水 (hēshuǐ)', input: '喝水 (hēshuǐ)', meaning: '물 마시다', level: 'HSK 2', category: 'daily-life-zh', source: '[[zh-daily-life-vocabulary]]' }
+- { id: 'zh_daily_life_006', display: '喝咖啡 (hē kāfēi)', input: '喝咖啡 (hē kāfēi)', meaning: '커피 마시다', level: 'HSK 3', category: 'daily-life-zh', source: '[[zh-daily-life-vocabulary]]' }
+- { id: 'zh_daily_life_007', display: '去 (qù)', input: '去 (qù)', meaning: '가다 (멀리)', level: 'HSK 1', category: 'daily-life-zh', source: '[[zh-daily-life-vocabulary]]' }
+- { id: 'zh_daily_life_008', display: '来 (lái)', input: '来 (lái)', meaning: '오다', level: 'HSK 1', category: 'daily-life-zh', source: '[[zh-daily-life-vocabulary]]' }
+- { id: 'zh_daily_life_009', display: '回家 (huí jiā)', input: '回家 (huí jiā)', meaning: '집에 돌아가다', level: 'HSK 2', category: 'daily-life-zh', source: '[[zh-daily-life-vocabulary]]' }
+- { id: 'zh_daily_life_010', display: '工作 (gōngzuò)', input: '工作 (gōngzuò)', meaning: '일하다/일', level: 'HSK 1', category: 'daily-life-zh', source: '[[zh-daily-life-vocabulary]]' }
+- { id: 'zh_daily_life_011', display: '学习 (xuéxí)', input: '学习 (xuéxí)', meaning: '공부하다/배우다', level: 'HSK 1', category: 'daily-life-zh', source: '[[zh-daily-life-vocabulary]]' }
+- { id: 'zh_daily_life_012', display: '上课 (shàngkè)', input: '上课 (shàngkè)', meaning: '수업 시작/출석하다', level: 'HSK 2', category: 'daily-life-zh', source: '[[zh-daily-life-vocabulary]]' }
+- { id: 'zh_daily_life_013', display: '下课 (xiàkè)', input: '下课 (xiàkè)', meaning: '수업 끝나다', level: 'HSK 2', category: 'daily-life-zh', source: '[[zh-daily-life-vocabulary]]' }
+- { id: 'zh_daily_life_014', display: '说话 (shuōhuà)', input: '说话 (shuōhuà)', meaning: '말하다', level: 'HSK 2', category: 'daily-life-zh', source: '[[zh-daily-life-vocabulary]]' }
+- { id: 'zh_daily_life_015', display: '听 (tīng)', input: '听 (tīng)', meaning: '듣다', level: 'HSK 1', category: 'daily-life-zh', source: '[[zh-daily-life-vocabulary]]' }
+- { id: 'zh_daily_life_016', display: '看 (kàn)', input: '看 (kàn)', meaning: '보다/읽다', level: 'HSK 1', category: 'daily-life-zh', source: '[[zh-daily-life-vocabulary]]' }
+- { id: 'zh_daily_life_017', display: '玩 (wán)', input: '玩 (wán)', meaning: '놀다', level: 'HSK 2', category: 'daily-life-zh', source: '[[zh-daily-life-vocabulary]]' }
+- { id: 'zh_daily_life_018', display: '跑步 (pǎobù)', input: '跑步 (pǎobù)', meaning: '달리다/조깅하다', level: 'HSK 3', category: 'daily-life-zh', source: '[[zh-daily-life-vocabulary]]' }
+- { id: 'zh_daily_life_019', display: '买 (mǎi)', input: '买 (mǎi)', meaning: '사다', level: 'HSK 1', category: 'daily-life-zh', source: '[[zh-daily-life-vocabulary]]' }
+- { id: 'zh_daily_life_020', display: '1. 시제 변화 없음 — 体貌사로 표시', input: '1. 시제 변화 없음 — 体貌사로 표시', meaning: '', level: 'HSK 1-3', category: 'daily-life', source: '[[zh-daily-life-vocabulary]]' }
+- { id: 'zh_daily_life_021', display: '2. 方向補語 (Directional Complement)', input: '2. 方向補語 (Directional Complement)', meaning: '', level: 'HSK 1-3', category: 'daily-life', source: '[[zh-daily-life-vocabulary]]' }
+- { id: 'zh_daily_life_022', display: '3. 한국 한자음 ≠ 중국 병음 (Top Confusions)', input: '3. 한국 한자음 ≠ 중국 병음 (Top Confusions)', meaning: '', level: 'HSK 1-3', category: 'daily-life', source: '[[zh-daily-life-vocabulary]]' }
 ```

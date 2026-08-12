@@ -616,36 +616,32 @@ theme: "body"
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: zh_body_001, display: "头", input: "头", meaning: "머리", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
-- { id: zh_body_002, display: "头发", input: "头发", meaning: "머리카락", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
-- { id: zh_body_003, display: "脸", input: "脸", meaning: "얼굴", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
-- { id: zh_body_004, display: "眼睛", input: "眼睛", meaning: "눈", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
-- { id: zh_body_005, display: "耳朵", input: "耳朵", meaning: "귀", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
-- { id: zh_body_006, display: "鼻子", input: "鼻子", meaning: "코", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
-- { id: zh_body_007, display: "嘴巴", input: "嘴巴", meaning: "입", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
-- { id: zh_body_008, display: "牙齿", input: "牙齿", meaning: "이/치아", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
-- { id: zh_body_009, display: "脖子", input: "脖子", meaning: "목", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
-- { id: zh_body_010, display: "肩膀", input: "肩膀", meaning: "어깨", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
-- { id: zh_body_011, display: "手臂", input: "手臂", meaning: "팔", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
-- { id: zh_body_012, display: "胳膊肘", input: "胳膊肘", meaning: "팔꿈치", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
-- { id: zh_body_013, display: "手腕", input: "手腕", meaning: "손목", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
-- { id: zh_body_014, display: "手", input: "手", meaning: "손", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
-- { id: zh_body_015, display: "手掌", input: "手掌", meaning: "손바닥", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
-- { id: zh_body_016, display: "手背", input: "手背", meaning: "손등", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
-- { id: zh_body_017, display: "手指", input: "手指", meaning: "손가락", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
-- { id: zh_body_018, display: "大拇指", input: "大拇指", meaning: "엄지손가락", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
-- { id: zh_body_019, display: "食指", input: "食指", meaning: "검지손가락", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
-- { id: zh_body_020, display: "中指", input: "中指", meaning: "중지손가락", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
-- { id: zh_body_021, display: "无名指", input: "无名指", meaning: "약손가락", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
-- { id: zh_body_022, display: "小指", input: "小指", meaning: "새끼손가락", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
-- { id: zh_body_023, display: "胸", input: "胸", meaning: "가슴", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
-- { id: zh_body_024, display: "背", input: "背", meaning: "등", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
-- { id: zh_body_025, display: "肚子", input: "肚子", meaning: "배/복부", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
-- { id: zh_body_026, display: "腰", input: "腰", meaning: "허리", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
-- { id: zh_body_027, display: "屁股", input: "屁股", meaning: "엉덩이", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
-- { id: zh_body_028, display: "腿", input: "腿", meaning: "다리", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
-- { id: zh_body_029, display: "膝盖", input: "膝盖", meaning: "무릎", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
-- { id: zh_body_029, display: "脚", input: "脚", meaning: "발", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
-- { id: zh_body_030, display: "脚踝", input: "脚踝", meaning: "발목", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
-- { id: zh_body_031, display: "脚趾", input: "脚趾", meaning: "발가락", level: "HSK 1", category: "body-zh", source: "[[body-zh]]" }
+- { id: 'zh_body_001', display: '头 (tóu)', input: '头 (tóu)', meaning: '', level: 'HSK 1-2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_002', display: '头发 (tóu fa)', input: '头发 (tóu fa)', meaning: '', level: 'HSK 1-2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_003', display: '脸 (liǎn)', input: '脸 (liǎn)', meaning: '', level: 'HSK 1-2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_004', display: '眼睛 (yǎn jing)', input: '眼睛 (yǎn jing)', meaning: '', level: 'HSK 1-2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_005', display: '耳朵 (ěr duo)', input: '耳朵 (ěr duo)', meaning: '', level: 'HSK 1-2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_006', display: '鼻子 (bí zi)', input: '鼻子 (bí zi)', meaning: '', level: 'HSK 1-2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_007', display: '嘴巴 (zuǐ ba)', input: '嘴巴 (zuǐ ba)', meaning: '', level: 'HSK 1-2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_008', display: '鼻子 (bí zi) - 중복 제거됨', input: '鼻子 (bí zi) - 중복 제거됨', meaning: '', level: 'HSK 1-2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_009', display: '牙齿 (yá chǐ)', input: '牙齿 (yá chǐ)', meaning: '', level: 'HSK 1-2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_010', display: '脖子 (bó zi)', input: '脖子 (bó zi)', meaning: '', level: 'HSK 1-2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_011', display: '肩膀 (jiān bǎng)', input: '肩膀 (jiān bǎng)', meaning: '', level: 'HSK 1-2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_012', display: '手臂 (shǒu bì)', input: '手臂 (shǒu bì)', meaning: '', level: 'HSK 1-2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_013', display: '胳膊肘 (gē bo zhǒu)', input: '胳膊肘 (gē bo zhǒu)', meaning: '', level: 'HSK 1-2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_014', display: '手腕 (shǒu wàn)', input: '手腕 (shǒu wàn)', meaning: '', level: 'HSK 1-2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_015', display: '手 (shǒu)', input: '手 (shǒu)', meaning: '', level: 'HSK 1-2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_016', display: '手掌 (shǒu zhǎng)', input: '手掌 (shǒu zhǎng)', meaning: '', level: 'HSK 1-2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_017', display: '手背 (shǒu bèi)', input: '手背 (shǒu bèi)', meaning: '', level: 'HSK 1-2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_018', display: '手指 (shǒu zhǐ)', input: '手指 (shǒu zhǐ)', meaning: '', level: 'HSK 1-2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_019', display: '腿 (tuǐ)', input: '腿 (tuǐ)', meaning: '', level: 'HSK 1-2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_020', display: '膝盖 (xī gài)', input: '膝盖 (xī gài)', meaning: '', level: 'HSK 1-2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_021', display: '脚 (jiǎo)', input: '脚 (jiǎo)', meaning: '', level: 'HSK 1-2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_022', display: '脚踝 (jiǎo huái)', input: '脚踝 (jiǎo huái)', meaning: '', level: 'HSK 1-2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_023', display: '脚趾 (jiǎo zhǐ)', input: '脚趾 (jiǎo zhǐ)', meaning: '', level: 'HSK 1-2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_024', display: '1. 手 (shǒu) vs 手臂 (shǒu bì) — 손 vs 팔', input: '1. 手 (shǒu) vs 手臂 (shǒu bì) — 손 vs 팔', meaning: '', level: 'HSK 1-2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_025', display: '2. 脚 (jiǎo) vs 腿 (tuǐ) — 발 vs 다리', input: '2. 脚 (jiǎo) vs 腿 (tuǐ) — 발 vs 다리', meaning: '', level: 'HSK 1-2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_026', display: '3. 머리카락 vs 머리', input: '3. 머리카락 vs 머리', meaning: '', level: 'HSK 1-2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_027', display: '4. 얼굴 vs 눈', input: '4. 얼굴 vs 눈', meaning: '', level: 'HSK 1-2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_028', display: '5. 배 vs 위', input: '5. 배 vs 위', meaning: '', level: 'HSK 1-2', category: 'body', source: '[[body-zh]]' }
 ```

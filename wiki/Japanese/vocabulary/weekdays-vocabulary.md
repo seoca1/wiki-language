@@ -297,14 +297,14 @@ Japanese weekdays 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: jp_weekdays_001, display: "月曜日 (げつようび)", input: "月曜日 (げつようび)", meaning: "월요일", level: "N5", category: "weekdays", source: "[[weekdays-vocabulary]]" }
-- { id: jp_weekdays_002, display: "火曜日 (かようび)", input: "火曜日 (かようび)", meaning: "화요일", level: "N5", category: "weekdays", source: "[[weekdays-vocabulary]]" }
-- { id: jp_weekdays_003, display: "水曜日 (すいようび)", input: "水曜日 (すいようび)", meaning: "수요일", level: "N5", category: "weekdays", source: "[[weekdays-vocabulary]]" }
-- { id: jp_weekdays_004, display: "木曜日 (もくようび)", input: "木曜日 (もくようび)", meaning: "목요일", level: "N5", category: "weekdays", source: "[[weekdays-vocabulary]]" }
-- { id: jp_weekdays_005, display: "金曜日 (きんようび)", input: "金曜日 (きんようび)", meaning: "금요일", level: "N5", category: "weekdays", source: "[[weekdays-vocabulary]]" }
-- { id: jp_weekdays_006, display: "土曜日 (どようび)", input: "土曜日 (どようび)", meaning: "토요일", level: "N5", category: "weekdays", source: "[[weekdays-vocabulary]]" }
-- { id: jp_weekdays_007, display: "日曜日 (にちようび)", input: "日曜日 (にちようび)", meaning: "일요일", level: "N5", category: "weekdays", source: "[[weekdays-vocabulary]]" }
-- { id: jp_weekdays_008, display: "平日 (へいじつ)", input: "平日 (へいじつ)", meaning: "평일", level: "N5", category: "weekdays", source: "[[weekdays-vocabulary]]" }
-- { id: jp_weekdays_009, display: "週末 (しゅうまつ)", input: "週末 (しゅうまつ)", meaning: "주말", level: "N5", category: "weekdays", source: "[[weekdays-vocabulary]]" }
-- { id: jp_weekdays_010, display: "今日 (きょう)", input: "今日 (きょう)", meaning: "오늘", level: "N5", category: "weekdays", source: "[[weekdays-vocabulary]]" }
+- { id: 'jp_weekdays_001', display: '月曜日 (げつようび)', input: '月曜日 (げつようび)', meaning: '월요일', level: 'N5', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
+- { id: 'jp_weekdays_002', display: '火曜日 (かようび)', input: '火曜日 (かようび)', meaning: '화요일', level: 'N5', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
+- { id: 'jp_weekdays_003', display: '水曜日 (すいようび)', input: '水曜日 (すいようび)', meaning: '수요일', level: 'N5', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
+- { id: 'jp_weekdays_004', display: '木曜日 (もくようび)', input: '木曜日 (もくようび)', meaning: '목요일', level: 'N5', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
+- { id: 'jp_weekdays_005', display: '金曜日 (きんようび)', input: '金曜日 (きんようび)', meaning: '금요일', level: 'N5', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
+- { id: 'jp_weekdays_006', display: '土曜日 (どようび)', input: '土曜日 (どようび)', meaning: '토요일', level: 'N5', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
+- { id: 'jp_weekdays_007', display: '日曜日 (にちようび)', input: '日曜日 (にちようび)', meaning: '일요일', level: 'N5', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
+- { id: 'jp_weekdays_008', display: '平日 (へいじつ)', input: '平日 (へいじつ)', meaning: '평일', level: 'N5', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
+- { id: 'jp_weekdays_009', display: '週末 (しゅうまつ)', input: '週末 (しゅうまつ)', meaning: '주말', level: 'N5', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
+- { id: 'jp_weekdays_010', display: '今日 (きょう)', input: '今日 (きょう)', meaning: '오늘', level: 'N5', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
 ```

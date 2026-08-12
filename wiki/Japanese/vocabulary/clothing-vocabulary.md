@@ -861,34 +861,33 @@ theme: "clothing"
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: jp_clothing_001, display: "シャツ", input: "シャツ", meaning: "셔츠", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary-jp]]" }
-- { id: jp_clothing_002, display: "ズボン", input: "ズボン", meaning: "바지", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary-jp]]" }
-- { id: jp_clothing_003, display: "ドレス", input: "ドレス", meaning: "드레스", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary-jp]]" }
-- { id: jp_clothing_004, display: "靴", input: "靴", meaning: "구두", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary-jp]]" }
-- { id: jp_clothing_005, display: "帽子", input: "帽子", meaning: "모자", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary-jp]]" }
-- { id: jp_clothing_006, display: "コート", input: "コート", meaning: "코트", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary-jp]]" }
-- { id: jp_clothing_007, display: "スカート", input: "スカート", meaning: "스커트", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary-jp]]" }
-- { id: jp_clothing_008, display: "靴下", input: "靴下", meaning: "양말", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary-jp]]" }
-- { id: jp_clothing_009, display: "手袋", input: "手袋", meaning: "장갑", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary-jp]]" }
-- { id: jp_clothing_010, display: "マフラー", input: "マフラー", meaning: "목도리", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary-jp]]" }
-- { id: jp_clothing_011, display: "赤いドレス", input: "赤いドレス", meaning: "빨간 드레스", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary-jp]]" }
-- { id: jp_clothing_012, display: "青いシャツ", input: "青いシャツ", meaning: "파란 셔츠", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary-jp]]" }
-- { id: jp_clothing_013, display: "白いズボン", input: "白いズボン", meaning: "하얀 바지", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary-jp]]" }
-- { id: jp_clothing_014, display: "黒い靴", input: "黒い靴", meaning: "검은 구두", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary-jp]]" }
-- { id: jp_clothing_015, display: "絹", input: "絹", meaning: "실크", level: "N4", category: "clothing-vocabulary", source: "[[clothing-vocabulary-jp]]" }
-- { id: jp_clothing_016, display: "綿", input: "綿", meaning: "면", level: "N4", category: "clothing-vocabulary", source: "[[clothing-vocabulary-jp]]" }
-- { id: jp_clothing_017, display: "羊毛", input: "羊毛", meaning: "양모", level: "N4", category: "clothing-vocabulary", source: "[[clothing-vocabulary-jp]]" }
-- { id: jp_clothing_018, display: "革", input: "革", meaning: "가죽", level: "N4", category: "clothing-vocabulary", source: "[[clothing-vocabulary-jp]]" }
-- { id: jp_clothing_019, display: "着る", input: "着る", meaning: "입다", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary-jp]]" }
-- { id: jp_clothing_020, display: "脱ぐ", input: "脱ぐ", meaning: "벗다", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary-jp]]" }
-- { id: jp_clothing_021, display: "洗う", input: "洗う", meaning: "세탁하다", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary-jp]]" }
-- { id: jp_clothing_022, display: "新しい", input: "新しい", meaning: "새로운", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary-jp]]" }
-- { id: jp_clothing_023, display: "古い", input: "古い", meaning: "오래된", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary-jp]]" }
-- { id: jp_clothing_024, display: "高い", input: "高い", meaning: "비싼", level: "N4", category: "clothing-vocabulary", source: "[[clothing-vocabulary-jp]]" }
-- { id: jp_clothing_025, display: "安い", input: "安い", meaning: "저렴한", level: "N5", category: "clothing-vocabulary", source: "[[clothing-vocabulary-jp]]" }
-- { id: jp_clothing_026, display: "綺麗", input: "綺麗", meaning: "아름다운", level: "N4", category: "clothing-vocabulary", source: "[[clothing-vocabulary-jp]]" }
-- { id: jp_clothing_027, display: "きつい", input: "きつい", meaning: "꼬인", level: "N4", category: "clothing-vocabulary", source: "[[clothing-vocabulary-jp]]" }
-- { id: jp_clothing_028, display: "緩い", input: "緩い", meaning: "넓은", level: "N4", category: "clothing-vocabulary", source: "[[clothing-vocabulary-jp]]" }
-- { id: jp_clothing_029, display: "長袖", input: "長袖", meaning: "긴소매", level: "N4", category: "clothing-vocabulary", source: "[[clothing-vocabulary-jp]]" }
-- { id: jp_clothing_030, display: "半袖", input: "半袖", meaning: "반소매", level: "N4", category: "clothing-vocabulary", source: "[[clothing-vocabulary-jp]]" }
+- { id: 'jp_clothing_001', display: 'シャツ (shatsu)', input: 'シャツ (shatsu)', meaning: '', level: 'JLPT N4-N5', category: 'clothing', source: '[[clothing-vocabulary-jp]]' }
+- { id: 'jp_clothing_002', display: 'ズボン (zubon)', input: 'ズボン (zubon)', meaning: '', level: 'JLPT N4-N5', category: 'clothing', source: '[[clothing-vocabulary-jp]]' }
+- { id: 'jp_clothing_003', display: 'ドレス (doresu)', input: 'ドレス (doresu)', meaning: '', level: 'JLPT N4-N5', category: 'clothing', source: '[[clothing-vocabulary-jp]]' }
+- { id: 'jp_clothing_004', display: '靴 (kutsu)', input: '靴 (kutsu)', meaning: '', level: 'JLPT N4-N5', category: 'clothing', source: '[[clothing-vocabulary-jp]]' }
+- { id: 'jp_clothing_005', display: '帽子 (boushi)', input: '帽子 (boushi)', meaning: '', level: 'JLPT N4-N5', category: 'clothing', source: '[[clothing-vocabulary-jp]]' }
+- { id: 'jp_clothing_006', display: 'コート (kooto)', input: 'コート (kooto)', meaning: '', level: 'JLPT N4-N5', category: 'clothing', source: '[[clothing-vocabulary-jp]]' }
+- { id: 'jp_clothing_007', display: 'スカート (sukaato)', input: 'スカート (sukaato)', meaning: '', level: 'JLPT N4-N5', category: 'clothing', source: '[[clothing-vocabulary-jp]]' }
+- { id: 'jp_clothing_008', display: '靴下 (kutsushita)', input: '靴下 (kutsushita)', meaning: '', level: 'JLPT N4-N5', category: 'clothing', source: '[[clothing-vocabulary-jp]]' }
+- { id: 'jp_clothing_009', display: '手袋 (tebukuro)', input: '手袋 (tebukuro)', meaning: '', level: 'JLPT N4-N5', category: 'clothing', source: '[[clothing-vocabulary-jp]]' }
+- { id: 'jp_clothing_010', display: 'マフラー (mafuraa)', input: 'マフラー (mafuraa)', meaning: '', level: 'JLPT N4-N5', category: 'clothing', source: '[[clothing-vocabulary-jp]]' }
+- { id: 'jp_clothing_011', display: '赤いドレス (akai doresu)', input: '赤いドレス (akai doresu)', meaning: '', level: 'JLPT N4-N5', category: 'clothing', source: '[[clothing-vocabulary-jp]]' }
+- { id: 'jp_clothing_012', display: '青いシャツ (aoi shatsu)', input: '青いシャツ (aoi shatsu)', meaning: '', level: 'JLPT N4-N5', category: 'clothing', source: '[[clothing-vocabulary-jp]]' }
+- { id: 'jp_clothing_013', display: '白いズボン (shiroi zubon)', input: '白いズボン (shiroi zubon)', meaning: '', level: 'JLPT N4-N5', category: 'clothing', source: '[[clothing-vocabulary-jp]]' }
+- { id: 'jp_clothing_014', display: '黒い靴 (kuroi kutsu)', input: '黒い靴 (kuroi kutsu)', meaning: '', level: 'JLPT N4-N5', category: 'clothing', source: '[[clothing-vocabulary-jp]]' }
+- { id: 'jp_clothing_015', display: '絹 (kinu)', input: '絹 (kinu)', meaning: '', level: 'JLPT N4-N5', category: 'clothing', source: '[[clothing-vocabulary-jp]]' }
+- { id: 'jp_clothing_016', display: '綿 (men/wata)', input: '綿 (men/wata)', meaning: '', level: 'JLPT N4-N5', category: 'clothing', source: '[[clothing-vocabulary-jp]]' }
+- { id: 'jp_clothing_017', display: '羊毛 (youmou)', input: '羊毛 (youmou)', meaning: '', level: 'JLPT N4-N5', category: 'clothing', source: '[[clothing-vocabulary-jp]]' }
+- { id: 'jp_clothing_018', display: '着る (kiru)', input: '着る (kiru)', meaning: '', level: 'JLPT N4-N5', category: 'clothing', source: '[[clothing-vocabulary-jp]]' }
+- { id: 'jp_clothing_019', display: '脱ぐ (nugu)', input: '脱ぐ (nugu)', meaning: '', level: 'JLPT N4-N5', category: 'clothing', source: '[[clothing-vocabulary-jp]]' }
+- { id: 'jp_clothing_020', display: '洗う (arau)', input: '洗う (arau)', meaning: '', level: 'JLPT N4-N5', category: 'clothing', source: '[[clothing-vocabulary-jp]]' }
+- { id: 'jp_clothing_021', display: '新しい (atarashii)', input: '新しい (atarashii)', meaning: '', level: 'JLPT N4-N5', category: 'clothing', source: '[[clothing-vocabulary-jp]]' }
+- { id: 'jp_clothing_022', display: '古い (furui)', input: '古い (furui)', meaning: '', level: 'JLPT N4-N5', category: 'clothing', source: '[[clothing-vocabulary-jp]]' }
+- { id: 'jp_clothing_023', display: '高い (takai)', input: '高い (takai)', meaning: '', level: 'JLPT N4-N5', category: 'clothing', source: '[[clothing-vocabulary-jp]]' }
+- { id: 'jp_clothing_024', display: '安い (yasui)', input: '安い (yasui)', meaning: '', level: 'JLPT N4-N5', category: 'clothing', source: '[[clothing-vocabulary-jp]]' }
+- { id: 'jp_clothing_025', display: '綺麗 (kirei)', input: '綺麗 (kirei)', meaning: '', level: 'JLPT N4-N5', category: 'clothing', source: '[[clothing-vocabulary-jp]]' }
+- { id: 'jp_clothing_026', display: 'きつい (kitsui)', input: 'きつい (kitsui)', meaning: '', level: 'JLPT N4-N5', category: 'clothing', source: '[[clothing-vocabulary-jp]]' }
+- { id: 'jp_clothing_027', display: '緩い (yurui)', input: '緩い (yurui)', meaning: '', level: 'JLPT N4-N5', category: 'clothing', source: '[[clothing-vocabulary-jp]]' }
+- { id: 'jp_clothing_028', display: '長袖 (nagasode)', input: '長袖 (nagasode)', meaning: '', level: 'JLPT N4-N5', category: 'clothing', source: '[[clothing-vocabulary-jp]]' }
+- { id: 'jp_clothing_029', display: '半袖 (hansode)', input: '半袖 (hansode)', meaning: '', level: 'JLPT N4-N5', category: 'clothing', source: '[[clothing-vocabulary-jp]]' }
 ```

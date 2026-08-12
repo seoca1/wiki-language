@@ -221,3 +221,25 @@ theme: "weather"
 | 暴雪 (bào xuě) | 4성 + 3성 | 雪 (xuě) 3성 |
 | 湿度 (shī dù) | 1성 + 4성 | 湿 (shī) 1성, 度 (dù) 4성 |
 | 干燥 (gān zào) | 1성 + 4성 | 燥 (zào) 4성 |
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'zh_weather_001', display: '온도 표현 (Temperature Expressions)', input: '온도 표현 (Temperature Expressions)', meaning: '', level: 'HSK 1-2', category: 'weather', source: '[[weather-zh]]' }
+- { id: 'zh_weather_002', display: '계절 관련 표현', input: '계절 관련 표현', meaning: '', level: 'HSK 1-2', category: 'weather', source: '[[weather-zh]]' }
+- { id: 'zh_weather_003', display: '날씨 묻기/말하기', input: '날씨 묻기/말하기', meaning: '', level: 'HSK 1-2', category: 'weather', source: '[[weather-zh]]' }
+- { id: 'zh_weather_004', display: '날씨 묘사 (Describing Weather)', input: '날씨 묘사 (Describing Weather)', meaning: '', level: 'HSK 1-2', category: 'weather', source: '[[weather-zh]]' }
+- { id: 'zh_weather_005', display: '날씨 묻기/대답', input: '날씨 묻기/대답', meaning: '', level: 'HSK 1-2', category: 'weather', source: '[[weather-zh]]' }
+- { id: 'zh_weather_006', display: '날씨 예보', input: '날씨 예보', meaning: '', level: 'HSK 1-2', category: 'weather', source: '[[weather-zh]]' }
+- { id: 'zh_weather_007', display: '날씨 대비', input: '날씨 대비', meaning: '', level: 'HSK 1-2', category: 'weather', source: '[[weather-zh]]' }
+- { id: 'zh_weather_008', display: '날씨 대화', input: '날씨 대화', meaning: '', level: 'HSK 1-2', category: 'weather', source: '[[weather-zh]]' }
+- { id: 'zh_weather_009', display: '1. "비 오다" = 下雨 (xià yǔ) — "내리다" + "비"', input: '1. "비 오다" = 下雨 (xià yǔ) — "내리다" + "비"', meaning: '', level: 'HSK 1-2', category: 'weather', source: '[[weather-zh]]' }
+- { id: 'zh_weather_010', display: '2. 형용사 = 상태동사 (Stative Verbs)', input: '2. 형용사 = 상태동사 (Stative Verbs)', meaning: '', level: 'HSK 1-2', category: 'weather', source: '[[weather-zh]]' }
+- { id: 'zh_weather_011', display: '3. "매우/아주" = 很 (hěn) — 형용사 수식어 기본', input: '3. "매우/아주" = 很 (hěn) — 형용사 수식어 기본', meaning: '', level: 'HSK 1-2', category: 'weather', source: '[[weather-zh]]' }
+- { id: 'zh_weather_012', display: '4. 완료/상태 변화 = 了 (le)', input: '4. 완료/상태 변화 = 了 (le)', meaning: '', level: 'HSK 1-2', category: 'weather', source: '[[weather-zh]]' }
+- { id: 'zh_weather_013', display: '5. 온도 단위', input: '5. 온도 단위', meaning: '', level: 'HSK 1-2', category: 'weather', source: '[[weather-zh]]' }
+```

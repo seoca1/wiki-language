@@ -818,28 +818,28 @@ theme: "nature"
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: ko_nature_001, display: "태양", input: "태양", meaning: "sun", level: "TOPIK 1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: ko_nature_002, display: "달", input: "달", meaning: "moon", level: "TOPIK 1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: ko_nature_003, display: "별", input: "별", meaning: "star", level: "TOPIK 1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: ko_nature_004, display: "하늘", input: "하늘", meaning: "sky", level: "TOPIK 1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: ko_nature_005, display: "구름", input: "구름", meaning: "cloud", level: "TOPIK 1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: ko_nature_006, display: "비", input: "비", meaning: "rain", level: "TOPIK 1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: ko_nature_007, display: "눈", input: "눈", meaning: "snow", level: "TOPIK 1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: ko_nature_008, display: "바람", input: "바람", meaning: "wind", level: "TOPIK 1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: ko_nature_009, display: "폭풍", input: "폭풍", meaning: "storm", level: "TOPIK 2", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: ko_nature_010, display: "천둥", input: "천둥", meaning: "thunder", level: "TOPIK 2", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: ko_nature_011, display: "산", input: "산", meaning: "mountain", level: "TOPIK 1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: ko_nature_012, display: "바다", input: "바다", meaning: "sea", level: "TOPIK 1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: ko_nature_013, display: "강", input: "강", meaning: "river", level: "TOPIK 1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: ko_nature_014, display: "호수", input: "호수", meaning: "lake", level: "TOPIK 2", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: ko_nature_015, display: "섬", input: "섬", meaning: "island", level: "TOPIK 2", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: ko_nature_016, display: "숲", input: "숲", meaning: "forest", level: "TOPIK 2", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: ko_nature_017, display: "대양", input: "대양", meaning: "ocean", level: "TOPIK 2", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: ko_nature_018, display: "얼음", input: "얼음", meaning: "ice", level: "TOPIK 1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: ko_nature_019, display: "안개", input: "안개", meaning: "fog", level: "TOPIK 2", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: ko_nature_020, display: "무지개", input: "무지개", meaning: "rainbow", level: "TOPIK 2", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: ko_nature_021, display: "봄", input: "봄", meaning: "spring", level: "TOPIK 1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: ko_nature_022, display: "여름", input: "여름", meaning: "summer", level: "TOPIK 1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: ko_nature_023, display: "가을", input: "가을", meaning: "autumn", level: "TOPIK 1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
-- { id: ko_nature_024, display: "겨울", input: "겨울", meaning: "winter", level: "TOPIK 1", category: "nature-vocabulary", source: "[[nature-vocabulary]]" }
+- { id: 'kr_nature_001', display: '태양', input: '태양', meaning: 'sun', level: 'TOPIK 1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_002', display: '달', input: '달', meaning: 'moon', level: 'TOPIK 1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_003', display: '별', input: '별', meaning: 'star', level: 'TOPIK 1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_004', display: '하늘', input: '하늘', meaning: 'sky', level: 'TOPIK 1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_005', display: '구름', input: '구름', meaning: 'cloud', level: 'TOPIK 1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_006', display: '비', input: '비', meaning: 'rain', level: 'TOPIK 1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_007', display: '눈', input: '눈', meaning: 'snow', level: 'TOPIK 1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_008', display: '바람', input: '바람', meaning: 'wind', level: 'TOPIK 1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_009', display: '폭풍', input: '폭풍', meaning: 'storm', level: 'TOPIK 2', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_010', display: '천둥', input: '천둥', meaning: 'thunder', level: 'TOPIK 2', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_011', display: '산', input: '산', meaning: 'mountain', level: 'TOPIK 1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_012', display: '바다', input: '바다', meaning: 'sea', level: 'TOPIK 1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_013', display: '강', input: '강', meaning: 'river', level: 'TOPIK 1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_014', display: '호수', input: '호수', meaning: 'lake', level: 'TOPIK 2', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_015', display: '섬', input: '섬', meaning: 'island', level: 'TOPIK 2', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_016', display: '나무/숲', input: '나무/숲', meaning: '', level: 'TOPIK 1-2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_017', display: '대양', input: '대양', meaning: 'ocean', level: 'TOPIK 2', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_018', display: '얼음', input: '얼음', meaning: 'ice', level: 'TOPIK 1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_019', display: '안개', input: '안개', meaning: 'fog', level: 'TOPIK 2', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_020', display: '무지개', input: '무지개', meaning: 'rainbow', level: 'TOPIK 2', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_021', display: '봄', input: '봄', meaning: 'spring', level: 'TOPIK 1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_022', display: '여름', input: '여름', meaning: 'summer', level: 'TOPIK 1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_023', display: '가을', input: '가을', meaning: 'autumn', level: 'TOPIK 1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_024', display: '겨울', input: '겨울', meaning: 'winter', level: 'TOPIK 1', category: 'nature-vocabulary', source: '[[nature-vocabulary]]' }
 ```

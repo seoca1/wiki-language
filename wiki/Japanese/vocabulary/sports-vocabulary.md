@@ -391,20 +391,20 @@ Jリーグ (J-League), ワールドカップ 모두 매우 인기. 中学・高�
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: jp_sports_001, display: "スポーツ (supōtsu)", input: "スポーツ (supōtsu)", meaning: "스포츠 (sports in general)", level: "N5-N4", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: jp_sports_002, display: "野球 (yakyū)", input: "野球 (yakyū)", meaning: "야구 (baseball)", level: "N5-N4", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: jp_sports_003, display: "サッカー (sakkā)", input: "サッカー (sakkā)", meaning: "축구 (soccer / association football)", level: "N5-N4", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: jp_sports_004, display: "テニス (tenisu)", input: "テニス (tenisu)", meaning: "테니스 (tennis)", level: "N5-N4", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: jp_sports_005, display: "水泳 (suiei)", input: "水泳 (suiei)", meaning: "수영 (swimming)", level: "N5-N4", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: jp_sports_006, display: "ジョギング (jogingu)", input: "ジョギング (jogingu)", meaning: "조깅 (jogging)", level: "N5-N4", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: jp_sports_007, display: "ヨガ (yoga)", input: "ヨガ (yoga)", meaning: "요가 (yoga)", level: "N5-N4", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: jp_sports_008, display: "ハイキング (haikingu)", input: "ハイキング (haikingu)", meaning: "하이킹 / 등산 (hiking)", level: "N5-N4", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: jp_sports_009, display: "キャンプ (kyanpu)", input: "キャンプ (kyanpu)", meaning: "캠핑 (camping)", level: "N5-N4", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: jp_sports_010, display: "武道 (budō)", input: "武道 (budō)", meaning: "무도 (Japanese martial arts)", level: "N5-N4", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: jp_sports_011, display: "温泉 (onsen)", input: "温泉 (onsen)", meaning: "온천 (hot spring)", level: "N5-N4", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: jp_sports_012, display: "カラオケ (karaoke)", input: "カラオケ (karaoke)", meaning: "노래방 (karaoke)", level: "N5-N4", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: jp_sports_013, display: "相撲 (sumō)", input: "相撲 (sumō)", meaning: "스모 (Japanese wrestling)", level: "N5-N4", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: jp_sports_014, display: "チーム (chīmu)", input: "チーム (chīmu)", meaning: "팀 (team)", level: "N5-N4", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: jp_sports_015, display: "試合 (shiai)", input: "試合 (shiai)", meaning: "경기 (match/game)", level: "N5-N4", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: jp_sports_016, display: "ファン (fan)", input: "ファン (fan)", meaning: "팬 (fan)", level: "N5-N4", category: "sports", source: "[[sports-vocabulary]]" }
+- { id: 'jp_sports_001', display: 'スポーツ (supōtsu)', input: 'スポーツ (supōtsu)', meaning: '스포츠 (sports in general)', level: 'N5-N4', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'jp_sports_002', display: '野球 (yakyū)', input: '野球 (yakyū)', meaning: '야구 (baseball)', level: 'N5-N4', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'jp_sports_003', display: 'サッカー (sakkā)', input: 'サッカー (sakkā)', meaning: '축구 (soccer / association football)', level: 'N5-N4', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'jp_sports_004', display: 'テニス (tenisu)', input: 'テニス (tenisu)', meaning: '테니스 (tennis)', level: 'N5-N4', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'jp_sports_005', display: '水泳 (suiei)', input: '水泳 (suiei)', meaning: '수영 (swimming)', level: 'N5-N4', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'jp_sports_006', display: 'ジョギング (jogingu)', input: 'ジョギング (jogingu)', meaning: '조깅 (jogging)', level: 'N5-N4', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'jp_sports_007', display: 'ヨガ (yoga)', input: 'ヨガ (yoga)', meaning: '요가 (yoga)', level: 'N5-N4', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'jp_sports_008', display: 'ハイキング (haikingu)', input: 'ハイキング (haikingu)', meaning: '하이킹 / 등산 (hiking)', level: 'N5-N4', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'jp_sports_009', display: 'キャンプ (kyanpu)', input: 'キャンプ (kyanpu)', meaning: '캠핑 (camping)', level: 'N5-N4', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'jp_sports_010', display: '武道 (budō)', input: '武道 (budō)', meaning: '무도 (Japanese martial arts)', level: 'N5-N4', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'jp_sports_011', display: '温泉 (onsen)', input: '温泉 (onsen)', meaning: '온천 (hot spring)', level: 'N5-N4', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'jp_sports_012', display: 'カラオケ (karaoke)', input: 'カラオケ (karaoke)', meaning: '노래방 (karaoke)', level: 'N5-N4', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'jp_sports_013', display: '相撲 (sumō)', input: '相撲 (sumō)', meaning: '스모 (Japanese wrestling)', level: 'N5-N4', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'jp_sports_014', display: 'チーム (chīmu)', input: 'チーム (chīmu)', meaning: '팀 (team)', level: 'N5-N4', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'jp_sports_015', display: '試合 (shiai)', input: '試合 (shiai)', meaning: '경기 (match/game)', level: 'N5-N4', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'jp_sports_016', display: 'ファン (fan)', input: 'ファン (fan)', meaning: '팬 (fan)', level: 'N5-N4', category: 'sports', source: '[[sports-vocabulary]]' }
 ```

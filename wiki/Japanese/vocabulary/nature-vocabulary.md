@@ -1272,43 +1272,43 @@ theme: "nature"
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: jp_nature_001, display: "太陽", input: "太陽", meaning: "태양", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
-- { id: jp_nature_002, display: "月", input: "月", meaning: "달", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
-- { id: jp_nature_003, display: "星", input: "星", meaning: "별", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
-- { id: jp_nature_004, display: "空", input: "空", meaning: "하늘", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
-- { id: jp_nature_005, display: "雲", input: "雲", meaning: "구름", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
-- { id: jp_nature_006, display: "雨", input: "雨", meaning: "비", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
-- { id: jp_nature_007, display: "雪", input: "雪", meaning: "눈", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
-- { id: jp_nature_008, display: "風", input: "風", meaning: "바람", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
-- { id: jp_nature_009, display: "嵐", input: "嵐", meaning: "폭풍", level: "N4", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
-- { id: jp_nature_010, display: "雷", input: "雷", meaning: "천둥", level: "N4", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
-- { id: jp_nature_011, display: "虹", input: "虹", meaning: "무지개", level: "N4", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
-- { id: jp_nature_012, display: "山", input: "山", meaning: "산", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
-- { id: jp_nature_013, display: "川", input: "川", meaning: "강", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
-- { id: jp_nature_014, display: "海", input: "海", meaning: "바다", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
-- { id: jp_nature_015, display: "湖", input: "湖", meaning: "호수", level: "N4", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
-- { id: jp_nature_016, display: "森", input: "森", meaning: "숲", level: "N4", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
-- { id: jp_nature_017, display: "砂漠", input: "砂漠", meaning: "사막", level: "N4", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
-- { id: jp_nature_018, display: "島", input: "島", meaning: "섬", level: "N4", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
-- { id: jp_nature_019, display: "海辺", input: "海辺", meaning: "해변", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
-- { id: jp_nature_020, display: "丘", input: "丘", meaning: "언덕", level: "N4", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
-- { id: jp_nature_021, display: "谷", input: "谷", meaning: "계곡", level: "N4", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
-- { id: jp_nature_022, display: "洋", input: "洋", meaning: "바다", level: "N4", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
-- { id: jp_nature_023, display: "花", input: "花", meaning: "꽃", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
-- { id: jp_nature_024, display: "木", input: "木", meaning: "나무", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
-- { id: jp_nature_025, display: "草", input: "草", meaning: "풀", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
-- { id: jp_nature_026, display: "葉", input: "葉", meaning: "잎", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
-- { id: jp_nature_027, display: "薔薇", input: "薔薇", meaning: "장미", level: "N4", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
-- { id: jp_nature_028, display: "庭", input: "庭", meaning: "정원", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
-- { id: jp_nature_029, display: "咲く", input: "咲く", meaning: "피다", level: "N4", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
-- { id: jp_nature_030, display: "落ちる", input: "落ちる", meaning: "떨어지다", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
-- { id: jp_nature_031, display: "成長する", input: "成長する", meaning: "성장하다", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
-- { id: jp_nature_032, display: "凍る", input: "凍る", meaning: "얼다", level: "N4", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
-- { id: jp_nature_033, display: "溶ける", input: "溶ける", meaning: "녹다", level: "N4", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
-- { id: jp_nature_034, display: "輝く", input: "輝く", meaning: "빛나다", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
-- { id: jp_nature_035, display: "明るい", input: "明るい", meaning: "밝은", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
-- { id: jp_nature_036, display: "暗い", input: "暗い", meaning: "어두운", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
-- { id: jp_nature_037, display: "暑い", input: "暑い", meaning: "더운", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
-- { id: jp_nature_038, display: "寒い", input: "寒い", meaning: "추운", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
-- { id: jp_nature_039, display: "温かい", input: "温かい", meaning: "따뜻한", level: "N5", category: "nature-vocabulary", source: "[[nature-vocabulary-jp]]" }
+- { id: 'jp_nature_001', display: '太陽 (たいよう)', input: '太陽 (たいよう)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
+- { id: 'jp_nature_002', display: '月 (つき)', input: '月 (つき)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
+- { id: 'jp_nature_003', display: '星 (ほし)', input: '星 (ほし)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
+- { id: 'jp_nature_004', display: '空 (そら)', input: '空 (そら)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
+- { id: 'jp_nature_005', display: '雲 (くも)', input: '雲 (くも)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
+- { id: 'jp_nature_006', display: '雨 (あめ)', input: '雨 (あめ)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
+- { id: 'jp_nature_007', display: '雪 (ゆき)', input: '雪 (ゆき)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
+- { id: 'jp_nature_008', display: '風 (かぜ)', input: '風 (かぜ)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
+- { id: 'jp_nature_009', display: '嵐 (あらし)', input: '嵐 (あらし)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
+- { id: 'jp_nature_010', display: '雷 (かみなり)', input: '雷 (かみなり)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
+- { id: 'jp_nature_011', display: '虹 (にじ)', input: '虹 (にじ)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
+- { id: 'jp_nature_012', display: '山 (やま)', input: '山 (やま)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
+- { id: 'jp_nature_013', display: '川 (かわ)', input: '川 (かわ)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
+- { id: 'jp_nature_014', display: '海 (うみ)', input: '海 (うみ)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
+- { id: 'jp_nature_015', display: '湖 (みずうみ)', input: '湖 (みずうみ)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
+- { id: 'jp_nature_016', display: '森 (もり)', input: '森 (もり)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
+- { id: 'jp_nature_017', display: '砂漠 (さばく)', input: '砂漠 (さばく)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
+- { id: 'jp_nature_018', display: '島 (しま)', input: '島 (しま)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
+- { id: 'jp_nature_019', display: '海辺 (うみべ)', input: '海辺 (うみべ)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
+- { id: 'jp_nature_020', display: '丘 (おか)', input: '丘 (おか)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
+- { id: 'jp_nature_021', display: '谷 (たに)', input: '谷 (たに)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
+- { id: 'jp_nature_022', display: '洋 (かいよう)', input: '洋 (かいよう)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
+- { id: 'jp_nature_023', display: '花 (はな)', input: '花 (はな)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
+- { id: 'jp_nature_024', display: '木 (き)', input: '木 (き)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
+- { id: 'jp_nature_025', display: '草 (くさ)', input: '草 (くさ)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
+- { id: 'jp_nature_026', display: '葉 (は)', input: '葉 (は)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
+- { id: 'jp_nature_027', display: '薔薇 (ばら)', input: '薔薇 (ばら)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
+- { id: 'jp_nature_028', display: '庭 (にわ)', input: '庭 (にわ)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
+- { id: 'jp_nature_029', display: '咲く (さく)', input: '咲く (さく)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
+- { id: 'jp_nature_030', display: '落ちる (おちる)', input: '落ちる (おちる)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
+- { id: 'jp_nature_031', display: '成長する (せいちょうする)', input: '成長する (せいちょうする)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
+- { id: 'jp_nature_032', display: '凍る (こおる)', input: '凍る (こおる)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
+- { id: 'jp_nature_033', display: '溶ける (とける)', input: '溶ける (とける)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
+- { id: 'jp_nature_034', display: '輝く (かがやく)', input: '輝く (かがやく)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
+- { id: 'jp_nature_035', display: '明るい (あかるい)', input: '明るい (あかるい)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
+- { id: 'jp_nature_036', display: '暗い (くらい)', input: '暗い (くらい)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
+- { id: 'jp_nature_037', display: '暑い (あつい)', input: '暑い (あつい)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
+- { id: 'jp_nature_038', display: '寒い (さむい)', input: '寒い (さむい)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
+- { id: 'jp_nature_039', display: '温かい (あたたかい)', input: '温かい (あたたかい)', meaning: '', level: 'JLPT N4-N5', category: 'nature', source: '[[nature-vocabulary-jp]]' }
 ```

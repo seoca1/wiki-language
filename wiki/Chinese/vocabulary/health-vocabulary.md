@@ -297,14 +297,14 @@ Chinese health 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: zh_health_001, display: "医院 (yīyuàn, 醫院)", input: "医院 (yīyuàn, 醫院)", meaning: "hospital", level: "HSK 1", category: "health", source: "[[health-vocabulary]]" }
-- { id: zh_health_002, display: "医生 (yīshēng, 醫生)", input: "医生 (yīshēng, 醫生)", meaning: "doctor", level: "HSK 1", category: "health", source: "[[health-vocabulary]]" }
-- { id: zh_health_003, display: "药 (yào, 藥)", input: "药 (yào, 藥)", meaning: "medicine", level: "HSK 1", category: "health", source: "[[health-vocabulary]]" }
-- { id: zh_health_004, display: "头痛 (tóutòng, 頭痛)", input: "头痛 (tóutòng, 頭痛)", meaning: "headache", level: "HSK 2", category: "health", source: "[[health-vocabulary]]" }
-- { id: zh_health_005, display: "发烧 (fāshāo, 發燒)", input: "发烧 (fāshāo, 發燒)", meaning: "fever", level: "HSK 2", category: "health", source: "[[health-vocabulary]]" }
-- { id: zh_health_006, display: "感冒 (gǎnmào, 感冒)", input: "感冒 (gǎnmào, 感冒)", meaning: "cold", level: "HSK 1", category: "health", source: "[[health-vocabulary]]" }
-- { id: zh_health_007, display: "头 (tóu, 頭)", input: "头 (tóu, 頭)", meaning: "head", level: "HSK 1", category: "health", source: "[[health-vocabulary]]" }
-- { id: zh_health_008, display: "肚子 (dùzi, 肚子)", input: "肚子 (dùzi, 肚子)", meaning: "stomach", level: "HSK 1", category: "health", source: "[[health-vocabulary]]" }
-- { id: zh_health_009, display: "药店 (yàodiàn, 藥店)", input: "药店 (yàodiàn, 藥店)", meaning: "pharmacy", level: "HSK 2", category: "health", source: "[[health-vocabulary]]" }
-- { id: zh_health_010, display: "预约 (yùyuē, 預約)", input: "预约 (yùyuē, 預約)", meaning: "appointment", level: "HSK 2", category: "health", source: "[[health-vocabulary]]" }
+- { id: 'zh_health_001', display: '医院 (yīyuàn, 醫院)', input: '医院 (yīyuàn, 醫院)', meaning: 'hospital', level: 'HSK 1', category: 'health', source: '[[health-vocabulary]]' }
+- { id: 'zh_health_002', display: '医生 (yīshēng, 醫生)', input: '医生 (yīshēng, 醫生)', meaning: 'doctor', level: 'HSK 1', category: 'health', source: '[[health-vocabulary]]' }
+- { id: 'zh_health_003', display: '药 (yào, 藥)', input: '药 (yào, 藥)', meaning: 'medicine', level: 'HSK 1', category: 'health', source: '[[health-vocabulary]]' }
+- { id: 'zh_health_004', display: '头痛 (tóutòng, 頭痛)', input: '头痛 (tóutòng, 頭痛)', meaning: 'headache', level: 'HSK 2', category: 'health', source: '[[health-vocabulary]]' }
+- { id: 'zh_health_005', display: '发烧 (fāshāo, 發燒)', input: '发烧 (fāshāo, 發燒)', meaning: 'fever', level: 'HSK 2', category: 'health', source: '[[health-vocabulary]]' }
+- { id: 'zh_health_006', display: '感冒 (gǎnmào, 感冒)', input: '感冒 (gǎnmào, 感冒)', meaning: 'cold', level: 'HSK 1', category: 'health', source: '[[health-vocabulary]]' }
+- { id: 'zh_health_007', display: '头 (tóu, 頭)', input: '头 (tóu, 頭)', meaning: 'head', level: 'HSK 1', category: 'health', source: '[[health-vocabulary]]' }
+- { id: 'zh_health_008', display: '肚子 (dùzi, 肚子)', input: '肚子 (dùzi, 肚子)', meaning: 'stomach', level: 'HSK 1', category: 'health', source: '[[health-vocabulary]]' }
+- { id: 'zh_health_009', display: '药店 (yàodiàn, 藥店)', input: '药店 (yàodiàn, 藥店)', meaning: 'pharmacy', level: 'HSK 2', category: 'health', source: '[[health-vocabulary]]' }
+- { id: 'zh_health_010', display: '预约 (yùyuē, 預約)', input: '预约 (yùyuē, 預約)', meaning: 'appointment', level: 'HSK 2', category: 'health', source: '[[health-vocabulary]]' }
 ```

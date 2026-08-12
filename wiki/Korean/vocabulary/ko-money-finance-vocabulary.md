@@ -445,26 +445,26 @@ theme: "money-finance"
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/kr_words.md`).
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: ko_finance_001, display: "원 (圓)", input: "원", meaning: "won (Korean currency)", level: "TOPIK 2", category: "money-finance", source: "[[ko-money-finance-vocabulary]]" }
-- { id: ko_finance_002, display: "지폐 (紙幣)", input: "지폐", meaning: "banknote", level: "TOPIK 2", category: "money-finance", source: "[[ko-money-finance-vocabulary]]" }
-- { id: ko_finance_003, display: "동전 (銅錢)", input: "동전", meaning: "coin", level: "TOPIK 1", category: "money-finance", source: "[[ko-money-finance-vocabulary]]" }
-- { id: ko_finance_004, display: "현금 (現金)", input: "현금", meaning: "cash", level: "TOPIK 1", category: "money-finance", source: "[[ko-money-finance-vocabulary]]" }
-- { id: ko_finance_005, display: "은행 (銀行)", input: "은행", meaning: "bank", level: "TOPIK 1", category: "money-finance", source: "[[ko-money-finance-vocabulary]]" }
-- { id: ko_finance_006, display: "계좌 (口座)", input: "계좌", meaning: "bank account", level: "TOPIK 2", category: "money-finance", source: "[[ko-money-finance-vocabulary]]" }
-- { id: ko_finance_007, display: "환율 (換率)", input: "환율", meaning: "exchange rate", level: "TOPIK 2", category: "money-finance", source: "[[ko-money-finance-vocabulary]]" }
-- { id: ko_finance_008, display: "결제하다 (決濟-)", input: "결제하다", meaning: "to pay, to settle", level: "TOPIK 2", category: "money-finance", source: "[[ko-money-finance-vocabulary]]" }
-- { id: ko_finance_009, display: "송금하다 (送金-)", input: "송금하다", meaning: "to remit money", level: "TOPIK 3", category: "money-finance", source: "[[ko-money-finance-vocabulary]]" }
-- { id: ko_finance_010, display: "저축하다 (貯蓄-)", input: "저축하다", meaning: "to save (money)", level: "TOPIK 2", category: "money-finance", source: "[[ko-money-finance-vocabulary]]" }
-- { id: ko_finance_011, display: "적금 (積金)", input: "적금", meaning: "installment savings", level: "TOPIK 2", category: "money-finance", source: "[[ko-money-finance-vocabulary]]" }
-- { id: ko_finance_012, display: "대출 (貸出)", input: "대출", meaning: "loan", level: "TOPIK 2", category: "money-finance", source: "[[ko-money-finance-vocabulary]]" }
-- { id: ko_finance_013, display: "주식 (株式)", input: "주식", meaning: "stock, share", level: "TOPIK 3", category: "money-finance", source: "[[ko-money-finance-vocabulary]]" }
-- { id: ko_finance_014, display: "투자 (投資)", input: "투자", meaning: "investment", level: "TOPIK 2", category: "money-finance", source: "[[ko-money-finance-vocabulary]]" }
-- { id: ko_finance_015, display: "보험 (保險)", input: "보험", meaning: "insurance", level: "TOPIK 2", category: "money-finance", source: "[[ko-money-finance-vocabulary]]" }
-- { id: ko_finance_016, display: "경제 (經濟)", input: "경제", meaning: "economy", level: "TOPIK 2", category: "money-finance", source: "[[ko-money-finance-vocabulary]]" }
-- { id: ko_finance_017, display: "물가 (物價)", input: "물가", meaning: "prices", level: "TOPIK 3", category: "money-finance", source: "[[ko-money-finance-vocabulary]]" }
+- { id: 'kr_money_finance_001', display: '원 (won)', input: '원 (won)', meaning: 'won (Korean currency unit, KRW)', level: 'TOPIK 2-3', category: 'money-finance', source: '[[ko-money-finance-vocabulary]]' }
+- { id: 'kr_money_finance_002', display: '지폐 (jipye)', input: '지폐 (jipye)', meaning: 'banknote, paper money', level: 'TOPIK 2-3', category: 'money-finance', source: '[[ko-money-finance-vocabulary]]' }
+- { id: 'kr_money_finance_003', display: '동전 (dongjeon)', input: '동전 (dongjeon)', meaning: 'coin', level: 'TOPIK 2-3', category: 'money-finance', source: '[[ko-money-finance-vocabulary]]' }
+- { id: 'kr_money_finance_004', display: '현금 (hyeongeum)', input: '현금 (hyeongeum)', meaning: 'cash', level: 'TOPIK 2-3', category: 'money-finance', source: '[[ko-money-finance-vocabulary]]' }
+- { id: 'kr_money_finance_005', display: '은행 (eunhaeng)', input: '은행 (eunhaeng)', meaning: 'bank', level: 'TOPIK 2-3', category: 'money-finance', source: '[[ko-money-finance-vocabulary]]' }
+- { id: 'kr_money_finance_006', display: '계좌 (gyejwa)', input: '계좌 (gyejwa)', meaning: 'account (bank)', level: 'TOPIK 2-3', category: 'money-finance', source: '[[ko-money-finance-vocabulary]]' }
+- { id: 'kr_money_finance_007', display: '환율 (hwanyul)', input: '환율 (hwanyul)', meaning: 'exchange rate', level: 'TOPIK 2-3', category: 'money-finance', source: '[[ko-money-finance-vocabulary]]' }
+- { id: 'kr_money_finance_008', display: '결제하다 (gyeoljehada)', input: '결제하다 (gyeoljehada)', meaning: 'to pay, to settle (payment)', level: 'TOPIK 2-3', category: 'money-finance', source: '[[ko-money-finance-vocabulary]]' }
+- { id: 'kr_money_finance_009', display: '송금하다 (songgeumhada)', input: '송금하다 (songgeumhada)', meaning: 'to remit, to wire money', level: 'TOPIK 2-3', category: 'money-finance', source: '[[ko-money-finance-vocabulary]]' }
+- { id: 'kr_money_finance_010', display: '저축하다 (jeojukhada)', input: '저축하다 (jeojukhada)', meaning: 'to save (money)', level: 'TOPIK 2-3', category: 'money-finance', source: '[[ko-money-finance-vocabulary]]' }
+- { id: 'kr_money_finance_011', display: '적금 (jeokgeum)', input: '적금 (jeokgeum)', meaning: 'installment savings', level: 'TOPIK 2-3', category: 'money-finance', source: '[[ko-money-finance-vocabulary]]' }
+- { id: 'kr_money_finance_012', display: '대출 (daechul)', input: '대출 (daechul)', meaning: 'loan (borrowing)', level: 'TOPIK 2-3', category: 'money-finance', source: '[[ko-money-finance-vocabulary]]' }
+- { id: 'kr_money_finance_013', display: '주식 (jusik)', input: '주식 (jusik)', meaning: 'stock, share', level: 'TOPIK 2-3', category: 'money-finance', source: '[[ko-money-finance-vocabulary]]' }
+- { id: 'kr_money_finance_014', display: '투자 (tuja)', input: '투자 (tuja)', meaning: 'investment', level: 'TOPIK 2-3', category: 'money-finance', source: '[[ko-money-finance-vocabulary]]' }
+- { id: 'kr_money_finance_015', display: '보험 (boheom)', input: '보험 (boheom)', meaning: 'insurance', level: 'TOPIK 2-3', category: 'money-finance', source: '[[ko-money-finance-vocabulary]]' }
+- { id: 'kr_money_finance_016', display: '경제 (gyeongje)', input: '경제 (gyeongje)', meaning: 'economy', level: 'TOPIK 2-3', category: 'money-finance', source: '[[ko-money-finance-vocabulary]]' }
+- { id: 'kr_money_finance_017', display: '물가 (mulgwa)', input: '물가 (mulgwa)', meaning: 'prices, price level', level: 'TOPIK 2-3', category: 'money-finance', source: '[[ko-money-finance-vocabulary]]' }
 ```

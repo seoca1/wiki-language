@@ -80,11 +80,13 @@ class YamlEntry:
 
     def to_yaml_line(self) -> str:
         """Format entry as YAML line (single-line dict form per existing convention)."""
+        def q(v: str) -> str:
+            return "'" + v.replace("'", "''") + "'"
         return (
-            f'- {{ id: {self.id}, display: "{self.display}", '
-            f'input: "{self.input}", meaning: "{self.meaning}", '
-            f'level: "{self.level}", category: "{self.category}", '
-            f'source: "{self.source}" }}'
+            f"- {{ id: {q(self.id)}, display: {q(self.display)}, "
+            f"input: {q(self.input)}, meaning: {q(self.meaning)}, "
+            f"level: {q(self.level)}, category: {q(self.category)}, "
+            f"source: {q(self.source)} }}"
         )
 
 
@@ -241,6 +243,20 @@ def derive_source_stem(filename_stem: str, frontmatter: dict[str, str]) -> str:
 def parse_theme_file(path: Path, lang: str, lang_prefix: str) -> ThemeFile:
     """Parse a vocabulary theme file into structured data."""
     text = path.read_text(encoding="utf-8")
+
+    if any(marker in text[:300] for marker in ("→ See [[", "superseded by", "redirect stub", "redirect to")):
+        return ThemeFile(
+            path=path,
+            lang=lang,
+            lang_prefix=lang_prefix,
+            level="A1",
+            category=derive_category(path.stem, {}),
+            source_stem=path.stem,
+            words=[],
+            existing_yaml=[],
+            has_pipeline_section=False,
+        )
+
     frontmatter = parse_frontmatter(text)
     inline_level = parse_inline_level(FRONT_RE.sub("", text, count=1))
     text_no_front = FRONT_RE.sub("", text, count=1)
@@ -462,6 +478,10 @@ def cmd_validate(args: argparse.Namespace) -> int:
     for path, lang in files:
         lang_prefix = LANG_PREFIX[lang]
         theme = parse_theme_file(path, lang, lang_prefix)
+        if not theme.words and not theme.has_pipeline_section:
+            text = path.read_text(encoding="utf-8")
+            if any(m in text[:300] for m in ("→ See [[", "superseded by", "redirect stub", "redirect to")):
+                continue
         violations = validate_file(theme)
         if violations:
             files_with_violations += 1

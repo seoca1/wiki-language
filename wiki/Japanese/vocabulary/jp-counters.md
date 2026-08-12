@@ -59,5 +59,5 @@ level: "JLPT N5"
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: jp_jp_counters_001, display: "一つ", input: "一つ", meaning: "한", level: "** JLPT N5", category: "jp-counters", source: "[[jp-counters]]" }
+- { id: 'jp_jp_counters_001', display: '一つ', input: '一つ', meaning: '한', level: '** JLPT N5', category: 'jp-counters', source: '[[jp-counters]]' }
 ```

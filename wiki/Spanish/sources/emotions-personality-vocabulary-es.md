@@ -10,6 +10,9 @@ language_level: "DELE A2-B1"
 **Theme:** Emociones y Personalidad
 **Level:** DELE A2-B1
 
+
+## Summary
+
 Vocabulario español de emociones y personalidad: emociones básicas, rasgos positivos/negativos, verbos de emoción. Terminología para describir carácter y sentimientos.
 
 ## Vocabulary Extracted

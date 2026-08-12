@@ -457,22 +457,22 @@ theme: "holidays"
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: kr_holidays_001, display: "명절 (myeongjeol)", input: "명절 (myeongjeol)", meaning: "명절", level: "TOPIK I 2-3", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: kr_holidays_002, display: "생일 (saengil)", input: "생일 (saengil)", meaning: "생일", level: "TOPIK I 2-3", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: kr_holidays_003, display: "크리스마스 (keuriseumaseu)", input: "크리스마스 (keuriseumaseu)", meaning: "크리스마스", level: "TOPIK I 2-3", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: kr_holidays_004, display: "설날 (seollal)", input: "설날 (seollal)", meaning: "설날", level: "TOPIK I 2-3", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: kr_holidays_005, display: "추석 (chuseok)", input: "추석 (chuseok)", meaning: "추석", level: "TOPIK I 2-3", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: kr_holidays_006, display: "결혼식 (gyeolhonsik)", input: "결혼식 (gyeolhonsik)", meaning: "결혼식", level: "TOPIK I 2-3", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: kr_holidays_007, display: "파티 (pati)", input: "파티 (pati)", meaning: "파티", level: "TOPIK I 2-3", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: kr_holidays_008, display: "선물 (seonmul)", input: "선물 (seonmul)", meaning: "선물", level: "TOPIK I 2-3", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: kr_holidays_009, display: "케이크 (keikeu)", input: "케이크 (keikeu)", meaning: "케이크", level: "TOPIK I 2-3", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: kr_holidays_010, display: "세배 (sebae)", input: "세배 (sebae)", meaning: "세배 (새해 인사)", level: "TOPIK I 2-3", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: kr_holidays_011, display: "차례 (charye)", input: "차례 (charye)", meaning: "차례 (조상님 제사)", level: "TOPIK I 2-3", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: kr_holidays_012, display: "발렌타인 (balentain)", input: "발렌타인 (balentain)", meaning: "발렌타인 데이", level: "TOPIK I 2-3", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: kr_holidays_013, display: "화이트데이 (waiteudei)", input: "화이트데이 (waiteudei)", meaning: "화이트데이", level: "TOPIK I 2-3", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: kr_holidays_014, display: "빼빼로데이 (ppiaeppirodei)", input: "빼빼로데이 (ppiaeppirodei)", meaning: "빼빼로데이 (11월 11일)", level: "TOPIK I 2-3", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: kr_holidays_015, display: "스승의 날 (seuseungui nal)", input: "스승의 날 (seuseungui nal)", meaning: "스승의 날", level: "TOPIK I 2-3", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: kr_holidays_016, display: "한글날 (hangeullal)", input: "한글날 (hangeullal)", meaning: "한글날", level: "TOPIK I 2-3", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: kr_holidays_017, display: "송편 (songpyeon)", input: "송편 (songpyeon)", meaning: "송편 (추석 음식)", level: "TOPIK I 2-3", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: kr_holidays_018, display: "떡국 (tteokguk)", input: "떡국 (tteokguk)", meaning: "떡국 (설날 음식)", level: "TOPIK I 2-3", category: "holidays", source: "[[holidays-vocabulary]]" }
+- { id: 'kr_holidays_001', display: '명절 (myeongjeol)', input: '명절 (myeongjeol)', meaning: '명절', level: 'TOPIK I 2-3', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'kr_holidays_002', display: '생일 (saengil)', input: '생일 (saengil)', meaning: '생일', level: 'TOPIK I 2-3', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'kr_holidays_003', display: '크리스마스 (keuriseumaseu)', input: '크리스마스 (keuriseumaseu)', meaning: '크리스마스', level: 'TOPIK I 2-3', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'kr_holidays_004', display: '설날 (seollal)', input: '설날 (seollal)', meaning: '설날', level: 'TOPIK I 2-3', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'kr_holidays_005', display: '추석 (chuseok)', input: '추석 (chuseok)', meaning: '추석', level: 'TOPIK I 2-3', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'kr_holidays_006', display: '결혼식 (gyeolhonsik)', input: '결혼식 (gyeolhonsik)', meaning: '결혼식', level: 'TOPIK I 2-3', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'kr_holidays_007', display: '파티 (pati)', input: '파티 (pati)', meaning: '파티', level: 'TOPIK I 2-3', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'kr_holidays_008', display: '선물 (seonmul)', input: '선물 (seonmul)', meaning: '선물', level: 'TOPIK I 2-3', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'kr_holidays_009', display: '케이크 (keikeu)', input: '케이크 (keikeu)', meaning: '케이크', level: 'TOPIK I 2-3', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'kr_holidays_010', display: '세배 (sebae)', input: '세배 (sebae)', meaning: '세배 (새해 인사)', level: 'TOPIK I 2-3', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'kr_holidays_011', display: '차례 (charye)', input: '차례 (charye)', meaning: '차례 (조상님 제사)', level: 'TOPIK I 2-3', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'kr_holidays_012', display: '발렌타인 (balentain)', input: '발렌타인 (balentain)', meaning: '발렌타인 데이', level: 'TOPIK I 2-3', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'kr_holidays_013', display: '화이트데이 (waiteudei)', input: '화이트데이 (waiteudei)', meaning: '화이트데이', level: 'TOPIK I 2-3', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'kr_holidays_014', display: '빼빼로데이 (ppiaeppirodei)', input: '빼빼로데이 (ppiaeppirodei)', meaning: '빼빼로데이 (11월 11일)', level: 'TOPIK I 2-3', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'kr_holidays_015', display: '스승의 날 (seuseungui nal)', input: '스승의 날 (seuseungui nal)', meaning: '스승의 날', level: 'TOPIK I 2-3', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'kr_holidays_016', display: '한글날 (hangeullal)', input: '한글날 (hangeullal)', meaning: '한글날', level: 'TOPIK I 2-3', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'kr_holidays_017', display: '송편 (songpyeon)', input: '송편 (songpyeon)', meaning: '송편 (추석 음식)', level: 'TOPIK I 2-3', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'kr_holidays_018', display: '떡국 (tteokguk)', input: '떡국 (tteokguk)', meaning: '떡국 (설날 음식)', level: 'TOPIK I 2-3', category: 'holidays', source: '[[holidays-vocabulary]]' }
 ```

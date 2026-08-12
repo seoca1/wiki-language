@@ -358,14 +358,23 @@ theme: "ordinal-numbers"
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: zh_ordinal_numbers_001, display: "第一 (dì yī)", input: "第一 (dì yī)", meaning: "첫째, 첫 번째 (first)", level: "HSK 1-2", category: "ordinal-numbers-zh", source: "[[ordinal-numbers-zh]]" }
-- { id: zh_ordinal_numbers_002, display: "第二 (dì èr)", input: "第二 (dì èr)", meaning: "둘째, 두 번째 (second)", level: "HSK 1-2", category: "ordinal-numbers-zh", source: "[[ordinal-numbers-zh]]" }
-- { id: zh_ordinal_numbers_003, display: "第三 (dì sān)", input: "第三 (dì sān)", meaning: "셋째, 세 번째 (third)", level: "HSK 1-2", category: "ordinal-numbers-zh", source: "[[ordinal-numbers-zh]]" }
-- { id: zh_ordinal_numbers_004, display: "第四 (dì sì)", input: "第四 (dì sì)", meaning: "넷째, 네 번째 (fourth)", level: "HSK 1-2", category: "ordinal-numbers-zh", source: "[[ordinal-numbers-zh]]" }
-- { id: zh_ordinal_numbers_005, display: "第五 (dì wǔ)", input: "第五 (dì wǔ)", meaning: "다섯째 (fifth)", level: "HSK 1-2", category: "ordinal-numbers-zh", source: "[[ordinal-numbers-zh]]" }
-- { id: zh_ordinal_numbers_006, display: "第六 (dì liù)", input: "第六 (dì liù)", meaning: "여섯째 (sixth)", level: "HSK 1-2", category: "ordinal-numbers-zh", source: "[[ordinal-numbers-zh]]" }
-- { id: zh_ordinal_numbers_007, display: "第七 (dì qī)", input: "第七 (dì qī)", meaning: "일곱째 (seventh)", level: "HSK 1-2", category: "ordinal-numbers-zh", source: "[[ordinal-numbers-zh]]" }
-- { id: zh_ordinal_numbers_008, display: "第八 (dì bā)", input: "第八 (dì bā)", meaning: "여덟째 (eighth)", level: "HSK 1-2", category: "ordinal-numbers-zh", source: "[[ordinal-numbers-zh]]" }
-- { id: zh_ordinal_numbers_009, display: "第九 (dì jiǔ)", input: "第九 (dì jiǔ)", meaning: "아홉째 (ninth)", level: "HSK 1-2", category: "ordinal-numbers-zh", source: "[[ordinal-numbers-zh]]" }
-- { id: zh_ordinal_numbers_010, display: "第十 (dì shí)", input: "第十 (dì shí)", meaning: "열째 (tenth)", level: "HSK 1-2", category: "ordinal-numbers-zh", source: "[[ordinal-numbers-zh]]" }
+- { id: 'zh_ordinal_numbers_001', display: '第一 (dì yī)', input: '第一 (dì yī)', meaning: '첫째, 첫 번째 (first)', level: 'HSK 1-2', category: 'ordinal-numbers-zh', source: '[[ordinal-numbers-zh]]' }
+- { id: 'zh_ordinal_numbers_002', display: '第二 (dì èr)', input: '第二 (dì èr)', meaning: '둘째, 두 번째 (second)', level: 'HSK 1-2', category: 'ordinal-numbers-zh', source: '[[ordinal-numbers-zh]]' }
+- { id: 'zh_ordinal_numbers_003', display: '第三 (dì sān)', input: '第三 (dì sān)', meaning: '셋째, 세 번째 (third)', level: 'HSK 1-2', category: 'ordinal-numbers-zh', source: '[[ordinal-numbers-zh]]' }
+- { id: 'zh_ordinal_numbers_004', display: '第四 (dì sì)', input: '第四 (dì sì)', meaning: '넷째, 네 번째 (fourth)', level: 'HSK 1-2', category: 'ordinal-numbers-zh', source: '[[ordinal-numbers-zh]]' }
+- { id: 'zh_ordinal_numbers_005', display: '第五 (dì wǔ)', input: '第五 (dì wǔ)', meaning: '다섯째 (fifth)', level: 'HSK 1-2', category: 'ordinal-numbers-zh', source: '[[ordinal-numbers-zh]]' }
+- { id: 'zh_ordinal_numbers_006', display: '第六 (dì liù)', input: '第六 (dì liù)', meaning: '여섯째 (sixth)', level: 'HSK 1-2', category: 'ordinal-numbers-zh', source: '[[ordinal-numbers-zh]]' }
+- { id: 'zh_ordinal_numbers_007', display: '第七 (dì qī)', input: '第七 (dì qī)', meaning: '일곱째 (seventh)', level: 'HSK 1-2', category: 'ordinal-numbers-zh', source: '[[ordinal-numbers-zh]]' }
+- { id: 'zh_ordinal_numbers_008', display: '第八 (dì bā)', input: '第八 (dì bā)', meaning: '여덟째 (eighth)', level: 'HSK 1-2', category: 'ordinal-numbers-zh', source: '[[ordinal-numbers-zh]]' }
+- { id: 'zh_ordinal_numbers_009', display: '第九 (dì jiǔ)', input: '第九 (dì jiǔ)', meaning: '아홉째 (ninth)', level: 'HSK 1-2', category: 'ordinal-numbers-zh', source: '[[ordinal-numbers-zh]]' }
+- { id: 'zh_ordinal_numbers_010', display: '第十 (dì shí)', input: '第十 (dì shí)', meaning: '열째 (tenth)', level: 'HSK 1-2', category: 'ordinal-numbers-zh', source: '[[ordinal-numbers-zh]]' }
+- { id: 'zh_ordinal_numbers_011', display: '楼层 (층수)', input: '楼层 (층수)', meaning: '', level: 'HSK 1-2', category: 'ordinal-numbers', source: '[[ordinal-numbers-zh]]' }
+- { id: 'zh_ordinal_numbers_012', display: '排行 (순위)', input: '排行 (순위)', meaning: '', level: 'HSK 1-2', category: 'ordinal-numbers', source: '[[ordinal-numbers-zh]]' }
+- { id: 'zh_ordinal_numbers_013', display: '时间 (시간)', input: '时间 (시간)', meaning: '', level: 'HSK 1-2', category: 'ordinal-numbers', source: '[[ordinal-numbers-zh]]' }
+- { id: 'zh_ordinal_numbers_014', display: '名次 (순서)', input: '名次 (순서)', meaning: '', level: 'HSK 1-2', category: 'ordinal-numbers', source: '[[ordinal-numbers-zh]]' }
+- { id: 'zh_ordinal_numbers_015', display: '第 (dì) prefix — 한국 한자어와 차이', input: '第 (dì) prefix — 한국 한자어와 차이', meaning: '', level: 'HSK 1-2', category: 'ordinal-numbers', source: '[[ordinal-numbers-zh]]' }
+- { id: 'zh_ordinal_numbers_016', display: '第几 (dì jǐ) = "몇 번째"', input: '第几 (dì jǐ) = "몇 번째"', meaning: '', level: 'HSK 1-2', category: 'ordinal-numbers', source: '[[ordinal-numbers-zh]]' }
+- { id: 'zh_ordinal_numbers_017', display: '四 (sì, 4) 발음 회피', input: '四 (sì, 4) 발음 회피', meaning: '', level: 'HSK 1-2', category: 'ordinal-numbers', source: '[[ordinal-numbers-zh]]' }
+- { id: 'zh_ordinal_numbers_018', display: '二 (èr) vs 两 (liǎng)', input: '二 (èr) vs 两 (liǎng)', meaning: '', level: 'HSK 1-2', category: 'ordinal-numbers', source: '[[ordinal-numbers-zh]]' }
+- { id: 'zh_ordinal_numbers_019', display: '한국어 학습자 필수 팁 (Key Tips for Korean Learners)', input: '한국어 학습자 필수 팁 (Key Tips for Korean Learners)', meaning: '', level: 'HSK 1-2', category: 'ordinal-numbers', source: '[[ordinal-numbers-zh]]' }
 ```

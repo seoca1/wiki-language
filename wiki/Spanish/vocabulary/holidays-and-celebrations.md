@@ -29,6 +29,53 @@ Spanish vocabulary for major holidays, parties, weddings, birthdays, and seasona
 | Día del Padre | Father's Day | 아버지날 |
 | Día de la Independencia | Independence Day | 독립기념일 |
 
+
+
+### Año Nuevo
+
+**Translation:** New Year
+**Note 1:** 새해
+
+### Navidad
+
+**Translation:** Christmas
+**Note 1:** 크리스마스
+
+### San Valentín
+
+**Translation:** Valentine's Day
+**Note 1:** 밸런타인 데이
+
+### Halloween
+
+**Translation:** Halloween
+**Note 1:** 할로윈
+
+### Día de Acción de Gracias
+
+**Translation:** Thanksgiving
+**Note 1:** 추수감사절
+
+### Semana Santa
+
+**Translation:** Easter Week
+**Note 1:** 부활절
+
+### Día de la Madre
+
+**Translation:** Mother's Day
+**Note 1:** 어머니날
+
+### Día del Padre
+
+**Translation:** Father's Day
+**Note 1:** 아버지날
+
+### Día de la Independencia
+
+**Translation:** Independence Day
+**Note 1:** 독립기념일
+
 ## Fiesta vocabulario (Party Vocabulary)
 
 | Español | Inglés | 한국어 |
@@ -42,6 +89,48 @@ Spanish vocabulary for major holidays, parties, weddings, birthdays, and seasona
 | invitado/invitada | guest (m/f) | 손님 |
 | anfitrión/anfitriona | host (m/f) | 주최자 |
 
+
+
+### fiesta
+
+**Translation:** party
+**Note 1:** 파티
+
+### cumpleaños
+
+**Translation:** birthday
+**Note 1:** 생일
+
+### regalo
+
+**Translation:** gift
+**Note 1:** 선물
+
+### pastel
+
+**Translation:** cake
+**Note 1:** 케이크
+
+### vela
+
+**Translation:** candle
+**Note 1:** 초
+
+### globo
+
+**Translation:** balloon
+**Note 1:** 풍선
+
+### invitado/invitada
+
+**Translation:** guest (m/f)
+**Note 1:** 손님
+
+### anfitrión/anfitriona
+
+**Translation:** host (m/f)
+**Note 1:** 주최자
+
 ## Navidad vocabulario (Christmas Vocabulary)
 
 | Español | Inglés | 한국어 |
@@ -54,6 +143,43 @@ Spanish vocabulary for major holidays, parties, weddings, birthdays, and seasona
 | media | stocking | 양말 |
 | guirnalda | wreath | 화환 |
 
+
+
+### árbol de Navidad
+
+**Translation:** Christmas tree
+**Note 1:** 크리스마스 트리
+
+### Papá Noel
+
+**Translation:** Santa Claus
+**Note 1:** 산타클로스
+
+### reno
+
+**Translation:** reindeer
+**Note 1:** 순록
+
+### trineo
+
+**Translation:** sled
+**Note 1:** 썰매
+
+### muñeco de nieve
+
+**Translation:** snowman
+**Note 1:** 눈사람
+
+### media
+
+**Translation:** stocking
+**Note 1:** 양말
+
+### guirnalda
+
+**Translation:** wreath
+**Note 1:** 화환
+
 ## Cumpleaños vocabulario (Birthday Vocabulary)
 
 | Español | Inglés | 한국어 |
@@ -65,6 +191,43 @@ Spanish vocabulary for major holidays, parties, weddings, birthdays, and seasona
 | regalo de cumpleaños | birthday gift | 생일 선물 |
 | ¡Feliz cumpleaños! | Happy birthday! | 생일 축하해! |
 | soplar las velas | blow out candles | 초 불어 끄기 |
+
+
+
+### pastel de cumpleaños
+
+**Translation:** birthday cake
+**Note 1:** 생일 케이크
+
+### velas de cumpleaños
+
+**Translation:** birthday candles
+**Note 1:** 생일 초
+
+### fiesta de cumpleaños
+
+**Translation:** birthday party
+**Note 1:** 생일 파티
+
+### tarjeta de cumpleaños
+
+**Translation:** birthday card
+**Note 1:** 생일 카드
+
+### regalo de cumpleaños
+
+**Translation:** birthday gift
+**Note 1:** 생일 선물
+
+### ¡Feliz cumpleaños!
+
+**Translation:** Happy birthday!
+**Note 1:** 생일 축하해!
+
+### soplar las velas
+
+**Translation:** blow out candles
+**Note 1:** 초 불어 끄기
 
 ## Essential Phrases
 
@@ -106,25 +269,40 @@ Spanish vocabulary for major holidays, parties, weddings, birthdays, and seasona
 
 ## Pipeline Form (machine-readable)
 
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
+
 ```yaml
-- { id: es_holiday_001, display: "Navidad", input: "Navidad", meaning: "크리스마스", level: "A1", category: "holidays", source: "[[holidays-and-celebrations]]" }
-- { id: es_holiday_002, display: "Año Nuevo", input: "Año Nuevo", meaning: "새해", level: "A2", category: "holidays", source: "[[holidays-and-celebrations]]" }
-- { id: es_holiday_003, display: "Halloween", input: "Halloween", meaning: "할로윈", level: "A1", category: "holidays", source: "[[holidays-and-celebrations]]" }
-- { id: es_holiday_004, display: "cumpleaños", input: "cumpleaños", meaning: "생일", level: "A1", category: "holidays", source: "[[holidays-and-celebrations]]" }
-- { id: es_holiday_005, display: "fiesta", input: "fiesta", meaning: "파티", level: "A1", category: "holidays", source: "[[holidays-and-celebrations]]" }
-- { id: es_holiday_006, display: "regalo", input: "regalo", meaning: "선물", level: "A1", category: "holidays", source: "[[holidays-and-celebrations]]" }
-- { id: es_holiday_007, display: "pastel", input: "pastel", meaning: "케이크", level: "A1", category: "holidays", source: "[[holidays-and-celebrations]]" }
-- { id: es_holiday_008, display: "vela", input: "vela", meaning: "초", level: "A2", category: "holidays", source: "[[holidays-and-celebrations]]" }
-- { id: es_holiday_009, display: "globo", input: "globo", meaning: "풍선", level: "A2", category: "holidays", source: "[[holidays-and-celebrations]]" }
-- { id: es_holiday_010, display: "invitado", input: "invitado", meaning: "손님 (남)", level: "A2", category: "holidays", source: "[[holidays-and-celebrations]]" }
-- { id: es_holiday_011, display: "San Valentín", input: "San Valentín", meaning: "밸런타인 데이", level: "A2", category: "holidays", source: "[[holidays-and-celebrations]]" }
-- { id: es_holiday_012, display: "Día de la Madre", input: "Día de la Madre", meaning: "어머니날", level: "A2", category: "holidays", source: "[[holidays-and-celebrations]]" }
-- { id: es_holiday_013, display: "Día del Padre", input: "Día del Padre", meaning: "아버지날", level: "A2", category: "holidays", source: "[[holidays-and-celebrations]]" }
-- { id: es_holiday_014, display: "árbol de Navidad", input: "árbol de Navidad", meaning: "크리스마스 트리", level: "A2", category: "holidays", source: "[[holidays-and-celebrations]]" }
-- { id: es_holiday_015, display: "Papá Noel", input: "Papá Noel", meaning: "산타클로스", level: "A2", category: "holidays", source: "[[holidays-and-celebrations]]" }
-- { id: es_holiday_016, display: "muñeco de nieve", input: "muñeco de nieve", meaning: "눈사람", level: "A2", category: "holidays", source: "[[holidays-and-celebrations]]" }
-- { id: es_holiday_017, display: "vela de cumpleaños", input: "vela de cumpleaños", meaning: "생일 초", level: "A2", category: "holidays", source: "[[holidays-and-celebrations]]" }
-- { id: es_holiday_018, display: "soplar las velas", input: "soplar las velas", meaning: "초 불어 끄기", level: "A2", category: "holidays", source: "[[holidays-and-celebrations]]" }
-- { id: es_holiday_019, display: "Semana Santa", input: "Semana Santa", meaning: "부활절", level: "A2", category: "holidays", source: "[[holidays-and-celebrations]]" }
-- { id: es_holiday_020, display: "Día de la Independencia", input: "Día de la Independencia", meaning: "독립기념일", level: "A2", category: "holidays", source: "[[holidays-and-celebrations]]" }
+- { id: 'es_holidays_001', display: 'Año Nuevo', input: 'Año Nuevo', meaning: '', level: 'A2-B1', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'es_holidays_002', display: 'Navidad', input: 'Navidad', meaning: '', level: 'A2-B1', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'es_holidays_003', display: 'San Valentín', input: 'San Valentín', meaning: '', level: 'A2-B1', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'es_holidays_004', display: 'Halloween', input: 'Halloween', meaning: '', level: 'A2-B1', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'es_holidays_005', display: 'Día de Acción de Gracias', input: 'Día de Acción de Gracias', meaning: '', level: 'A2-B1', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'es_holidays_006', display: 'Semana Santa', input: 'Semana Santa', meaning: '', level: 'A2-B1', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'es_holidays_007', display: 'Día de la Madre', input: 'Día de la Madre', meaning: '', level: 'A2-B1', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'es_holidays_008', display: 'Día del Padre', input: 'Día del Padre', meaning: '', level: 'A2-B1', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'es_holidays_009', display: 'Día de la Independencia', input: 'Día de la Independencia', meaning: '', level: 'A2-B1', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'es_holidays_010', display: 'fiesta', input: 'fiesta', meaning: '', level: 'A2-B1', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'es_holidays_011', display: 'cumpleaños', input: 'cumpleaños', meaning: '', level: 'A2-B1', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'es_holidays_012', display: 'regalo', input: 'regalo', meaning: '', level: 'A2-B1', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'es_holidays_013', display: 'pastel', input: 'pastel', meaning: '', level: 'A2-B1', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'es_holidays_014', display: 'vela', input: 'vela', meaning: '', level: 'A2-B1', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'es_holidays_015', display: 'globo', input: 'globo', meaning: '', level: 'A2-B1', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'es_holidays_016', display: 'invitado/invitada', input: 'invitado/invitada', meaning: '', level: 'A2-B1', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'es_holidays_017', display: 'anfitrión/anfitriona', input: 'anfitrión/anfitriona', meaning: '', level: 'A2-B1', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'es_holidays_018', display: 'árbol de Navidad', input: 'árbol de Navidad', meaning: '', level: 'A2-B1', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'es_holidays_019', display: 'Papá Noel', input: 'Papá Noel', meaning: '', level: 'A2-B1', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'es_holidays_020', display: 'reno', input: 'reno', meaning: '', level: 'A2-B1', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'es_holidays_021', display: 'trineo', input: 'trineo', meaning: '', level: 'A2-B1', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'es_holidays_022', display: 'muñeco de nieve', input: 'muñeco de nieve', meaning: '', level: 'A2-B1', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'es_holidays_023', display: 'media', input: 'media', meaning: '', level: 'A2-B1', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'es_holidays_024', display: 'guirnalda', input: 'guirnalda', meaning: '', level: 'A2-B1', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'es_holidays_025', display: 'pastel de cumpleaños', input: 'pastel de cumpleaños', meaning: '', level: 'A2-B1', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'es_holidays_026', display: 'velas de cumpleaños', input: 'velas de cumpleaños', meaning: '', level: 'A2-B1', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'es_holidays_027', display: 'fiesta de cumpleaños', input: 'fiesta de cumpleaños', meaning: '', level: 'A2-B1', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'es_holidays_028', display: 'tarjeta de cumpleaños', input: 'tarjeta de cumpleaños', meaning: '', level: 'A2-B1', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'es_holidays_029', display: 'regalo de cumpleaños', input: 'regalo de cumpleaños', meaning: '', level: 'A2-B1', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'es_holidays_030', display: '¡Feliz cumpleaños!', input: '¡Feliz cumpleaños!', meaning: '', level: 'A2-B1', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'es_holidays_031', display: 'soplar las velas', input: 'soplar las velas', meaning: '', level: 'A2-B1', category: 'holidays', source: '[[holidays-and-celebrations]]' }
 ```

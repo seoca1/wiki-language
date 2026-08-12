@@ -889,34 +889,34 @@ Wool = natural insulator. "Pull the wool over eyes" = deceive.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: en_clothing_001, display: "shirt", input: "shirt", meaning: "셔츠", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: en_clothing_002, display: "pants", input: "pants", meaning: "바지", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: en_clothing_003, display: "dress", input: "dress", meaning: "드레스", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: en_clothing_004, display: "shoes", input: "shoes", meaning: "구두", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: en_clothing_005, display: "hat", input: "hat", meaning: "모자", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: en_clothing_006, display: "coat", input: "coat", meaning: "코트", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: en_clothing_007, display: "skirt", input: "skirt", meaning: "스커트", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: en_clothing_008, display: "socks", input: "socks", meaning: "양말", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: en_clothing_009, display: "gloves", input: "gloves", meaning: "장갑", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: en_clothing_010, display: "scarf", input: "scarf", meaning: "목도리", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: en_clothing_011, display: "red dress", input: "red dress", meaning: "빨간 드레스", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: en_clothing_012, display: "blue shirt", input: "blue shirt", meaning: "파란 셔츠", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: en_clothing_013, display: "white pants", input: "white pants", meaning: "하얀 바지", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: en_clothing_014, display: "black shoes", input: "black shoes", meaning: "검은 구두", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: en_clothing_015, display: "cotton", input: "cotton", meaning: "면", level: "A2", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: en_clothing_016, display: "silk", input: "silk", meaning: "실크", level: "A2", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: en_clothing_017, display: "leather", input: "leather", meaning: "가죽", level: "A2", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: en_clothing_018, display: "wool", input: "wool", meaning: "양모", level: "A2", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: en_clothing_019, display: "to wear", input: "to wear", meaning: "입다", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: en_clothing_020, display: "to take off", input: "to take off", meaning: "벗다", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: en_clothing_021, display: "to wash", input: "to wash", meaning: "세탁하다", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: en_clothing_022, display: "new", input: "new", meaning: "새로운", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: en_clothing_023, display: "old", input: "old", meaning: "오래된", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: en_clothing_024, display: "expensive", input: "expensive", meaning: "비싼", level: "A2", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: en_clothing_025, display: "cheap", input: "cheap", meaning: "저렴한", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: en_clothing_026, display: "beautiful", input: "beautiful", meaning: "아름다운", level: "A2", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: en_clothing_027, display: "tight", input: "tight", meaning: "꼬인", level: "A2", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: en_clothing_028, display: "loose", input: "loose", meaning: "넓은", level: "A2", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: en_clothing_029, display: "long sleeve", input: "long sleeve", meaning: "긴소매", level: "A2", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: en_clothing_030, display: "short sleeve", input: "short sleeve", meaning: "반소매", level: "A2", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: 'en_clothing_001', display: 'shirt', input: 'shirt', meaning: '셔츠', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'en_clothing_002', display: 'pants', input: 'pants', meaning: '바지', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'en_clothing_003', display: 'dress', input: 'dress', meaning: '드레스', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'en_clothing_004', display: 'shoes', input: 'shoes', meaning: '구두', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'en_clothing_005', display: 'hat', input: 'hat', meaning: '모자', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'en_clothing_006', display: 'coat', input: 'coat', meaning: '코트', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'en_clothing_007', display: 'skirt', input: 'skirt', meaning: '스커트', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'en_clothing_008', display: 'socks', input: 'socks', meaning: '양말', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'en_clothing_009', display: 'gloves', input: 'gloves', meaning: '장갑', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'en_clothing_010', display: 'scarf', input: 'scarf', meaning: '목도리', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'en_clothing_011', display: 'red dress', input: 'red dress', meaning: '빨간 드레스', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'en_clothing_012', display: 'blue shirt', input: 'blue shirt', meaning: '파란 셔츠', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'en_clothing_013', display: 'white pants', input: 'white pants', meaning: '하얀 바지', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'en_clothing_014', display: 'black shoes', input: 'black shoes', meaning: '검은 구두', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'en_clothing_015', display: 'cotton', input: 'cotton', meaning: '면', level: 'A2', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'en_clothing_016', display: 'silk', input: 'silk', meaning: '실크', level: 'A2', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'en_clothing_017', display: 'leather', input: 'leather', meaning: '가죽', level: 'A2', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'en_clothing_018', display: 'wool', input: 'wool', meaning: '양모', level: 'A2', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'en_clothing_019', display: 'to wear', input: 'to wear', meaning: '입다', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'en_clothing_020', display: 'to take off', input: 'to take off', meaning: '벗다', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'en_clothing_021', display: 'to wash', input: 'to wash', meaning: '세탁하다', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'en_clothing_022', display: 'new', input: 'new', meaning: '새로운', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'en_clothing_023', display: 'old', input: 'old', meaning: '오래된', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'en_clothing_024', display: 'expensive', input: 'expensive', meaning: '비싼', level: 'A2', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'en_clothing_025', display: 'cheap', input: 'cheap', meaning: '저렴한', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'en_clothing_026', display: 'beautiful', input: 'beautiful', meaning: '아름다운', level: 'A2', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'en_clothing_027', display: 'tight', input: 'tight', meaning: '꼬인', level: 'A2', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'en_clothing_028', display: 'loose', input: 'loose', meaning: '넓은', level: 'A2', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'en_clothing_029', display: 'long sleeve', input: 'long sleeve', meaning: '긴소매', level: 'A2', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'en_clothing_030', display: 'short sleeve', input: 'short sleeve', meaning: '반소매', level: 'A2', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
 ```

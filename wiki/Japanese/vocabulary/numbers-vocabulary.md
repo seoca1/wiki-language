@@ -297,14 +297,14 @@ Japanese numbers 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: jp_numbers_001, display: "一 (いち)", input: "一 (いち)", meaning: "1", level: "N5", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: jp_numbers_002, display: "二 (に)", input: "二 (に)", meaning: "2", level: "N5", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: jp_numbers_003, display: "三 (さん)", input: "三 (さん)", meaning: "3", level: "N5", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: jp_numbers_004, display: "四 (よん/し)", input: "四 (よん/し)", meaning: "4", level: "N5", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: jp_numbers_005, display: "五 (ご)", input: "五 (ご)", meaning: "5", level: "N5", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: jp_numbers_006, display: "六 (ろく)", input: "六 (ろく)", meaning: "6", level: "N5", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: jp_numbers_007, display: "七 (なな/しち)", input: "七 (なな/しち)", meaning: "7", level: "N5", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: jp_numbers_008, display: "八 (はち)", input: "八 (はち)", meaning: "8", level: "N5", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: jp_numbers_009, display: "九 (きゅう/く)", input: "九 (きゅう/く)", meaning: "9", level: "N5", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: jp_numbers_010, display: "十 (じゅう)", input: "十 (じゅう)", meaning: "10", level: "N5", category: "numbers", source: "[[numbers-vocabulary]]" }
+- { id: 'jp_numbers_001', display: '一 (いち)', input: '一 (いち)', meaning: '1', level: 'N5', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'jp_numbers_002', display: '二 (に)', input: '二 (に)', meaning: '2', level: 'N5', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'jp_numbers_003', display: '三 (さん)', input: '三 (さん)', meaning: '3', level: 'N5', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'jp_numbers_004', display: '四 (よん/し)', input: '四 (よん/し)', meaning: '4', level: 'N5', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'jp_numbers_005', display: '五 (ご)', input: '五 (ご)', meaning: '5', level: 'N5', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'jp_numbers_006', display: '六 (ろく)', input: '六 (ろく)', meaning: '6', level: 'N5', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'jp_numbers_007', display: '七 (なな/しち)', input: '七 (なな/しち)', meaning: '7', level: 'N5', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'jp_numbers_008', display: '八 (はち)', input: '八 (はち)', meaning: '8', level: 'N5', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'jp_numbers_009', display: '九 (きゅう/く)', input: '九 (きゅう/く)', meaning: '9', level: 'N5', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'jp_numbers_010', display: '十 (じゅう)', input: '十 (じゅう)', meaning: '10', level: 'N5', category: 'numbers', source: '[[numbers-vocabulary]]' }
 ```

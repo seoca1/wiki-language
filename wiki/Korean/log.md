@@ -1,5 +1,23 @@
 
 
+## [2026-08-11] ingest | Korean Travel Vocabulary + Pipeline Citation Fix
+
+**Source added**: `raw/Korean/first-travel-japan.md` (personal travel journal), `raw/Korean/travel-basics-kr.md` (TOPIK 1 curriculum reference)
+
+**Created**:
+- `wiki/Korean/vocabulary/travel.md` — Canonical English-stem theme file (6 subcategories: 공항/호텔/식당/교통/관광/길 묻기, 28 Pipeline Form entries)
+- `wiki/Korean/vocabulary/travel.ko.md` — Korean aggregator with Japanese translation comparison
+
+**Pipeline citation fix** (Game/typing_language/raw/kr_words.md):
+- `[[여행]]` → `[[travel]]` (100 entries)
+- `[[동물 어휘]]` → `[[animals-vocabulary]]` (123 entries)
+- `[[자연・날씨 어휘]]` → `[[weather-nature]]` (74 entries)
+- `[[의류・패션 어휘]]` → `[[clothing-vocabulary]]` (20 entries)
+
+**Index updated**: `wiki/Korean/index.md` now references canonical English-stem theme files.
+
+**Vault lint**: ✅ CLEAN (0 broken links, 0 orphans)
+
 ## [2026-07-19] wiki | Phase A & B — Language broken-wikilink cleanup (620 → 0)
 
 **Scope**: User cross-project decision after Fiction Phase 21 final closure. Language project had 620 unique broken wikilink stems (90+ original closure count grew with Phase 4-6 ingestion + comparative scaffold). All broken wikilinks resolved to stub pages or converted to plain text.

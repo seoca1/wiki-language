@@ -379,14 +379,22 @@ theme: "technology"
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: zh_technology_001, display: "电脑 (diànnǎo)", input: "电脑 (diànnǎo)", meaning: "컴퓨터 (computer)", level: "HSK 2", category: "technology-zh", source: "[[technology-zh]]" }
-- { id: zh_technology_002, display: "手机 (shǒujī)", input: "手机 (shǒujī)", meaning: "핸드폰 (phone)", level: "HSK 2", category: "technology-zh", source: "[[technology-zh]]" }
-- { id: zh_technology_003, display: "互联网 (hùliánwǎng)", input: "互联网 (hùliánwǎng)", meaning: "인터넷 (internet)", level: "HSK 3", category: "technology-zh", source: "[[technology-zh]]" }
-- { id: zh_technology_004, display: "邮件 (yóujiàn)", input: "邮件 (yóujiàn)", meaning: "이메일 (email)", level: "HSK 2", category: "technology-zh", source: "[[technology-zh]]" }
-- { id: zh_technology_005, display: "网站 (wǎngzhàn)", input: "网站 (wǎngzhàn)", meaning: "웹사이트 (website)", level: "HSK 3", category: "technology-zh", source: "[[technology-zh]]" }
-- { id: zh_technology_006, display: "应用 (yìngyòng)", input: "应用 (yìngyòng)", meaning: "앱 (app)", level: "HSK 3", category: "technology-zh", source: "[[technology-zh]]" }
-- { id: zh_technology_007, display: "密码 (mìmǎ)", input: "密码 (mìmǎ)", meaning: "비밀번호 (password)", level: "HSK 3", category: "technology-zh", source: "[[technology-zh]]" }
-- { id: zh_technology_008, display: "鼠标 (shǔbiāo)", input: "鼠标 (shǔbiāo)", meaning: "마우스 (mouse)", level: "HSK 3", category: "technology-zh", source: "[[technology-zh]]" }
-- { id: zh_technology_009, display: "键盘 (jiànpán)", input: "键盘 (jiànpán)", meaning: "키보드 (keyboard)", level: "HSK 3", category: "technology-zh", source: "[[technology-zh]]" }
-- { id: zh_technology_010, display: "屏幕 (píngmù)", input: "屏幕 (píngmù)", meaning: "화면 (screen)", level: "HSK 2", category: "technology-zh", source: "[[technology-zh]]" }
+- { id: 'zh_technology_001', display: '电脑 (diànnǎo, 電腦)', input: '电脑 (diànnǎo, 電腦)', meaning: '', level: 'HSK 2-3', category: 'technology', source: '[[technology-zh]]' }
+- { id: 'zh_technology_002', display: '手机 (shǒujī, 手機)', input: '手机 (shǒujī, 手機)', meaning: '', level: 'HSK 2-3', category: 'technology', source: '[[technology-zh]]' }
+- { id: 'zh_technology_003', display: '互联网 (hùliánwǎng, 互聯網)', input: '互联网 (hùliánwǎng, 互聯網)', meaning: '', level: 'HSK 2-3', category: 'technology', source: '[[technology-zh]]' }
+- { id: 'zh_technology_004', display: '邮件 (yóujiàn, 郵件)', input: '邮件 (yóujiàn, 郵件)', meaning: '', level: 'HSK 2-3', category: 'technology', source: '[[technology-zh]]' }
+- { id: 'zh_technology_005', display: '网站 (wǎngzhàn, 網站)', input: '网站 (wǎngzhàn, 網站)', meaning: '', level: 'HSK 2-3', category: 'technology', source: '[[technology-zh]]' }
+- { id: 'zh_technology_006', display: '应用 (yìngyòng, 應用)', input: '应用 (yìngyòng, 應用)', meaning: '', level: 'HSK 2-3', category: 'technology', source: '[[technology-zh]]' }
+- { id: 'zh_technology_007', display: '密码 (mìmǎ, 密碼)', input: '密码 (mìmǎ, 密碼)', meaning: '', level: 'HSK 2-3', category: 'technology', source: '[[technology-zh]]' }
+- { id: 'zh_technology_008', display: '鼠标 (shǔbiāo, 鼠標)', input: '鼠标 (shǔbiāo, 鼠標)', meaning: '', level: 'HSK 2-3', category: 'technology', source: '[[technology-zh]]' }
+- { id: 'zh_technology_009', display: '键盘 (jiànpán, 鍵盤)', input: '键盘 (jiànpán, 鍵盤)', meaning: '', level: 'HSK 2-3', category: 'technology', source: '[[technology-zh]]' }
+- { id: 'zh_technology_010', display: '屏幕 (píngmù, 屏幕)', input: '屏幕 (píngmù, 屏幕)', meaning: '', level: 'HSK 2-3', category: 'technology', source: '[[technology-zh]]' }
+- { id: 'zh_technology_011', display: '通讯 (Communication)', input: '通讯 (Communication)', meaning: '', level: 'HSK 2-3', category: 'technology', source: '[[technology-zh]]' }
+- { id: 'zh_technology_012', display: '网络 (Network)', input: '网络 (Network)', meaning: '', level: 'HSK 2-3', category: 'technology', source: '[[technology-zh]]' }
+- { id: 'zh_technology_013', display: '硬件 (Hardware)', input: '硬件 (Hardware)', meaning: '', level: 'HSK 2-3', category: 'technology', source: '[[technology-zh]]' }
+- { id: 'zh_technology_014', display: '软件 (Software)', input: '软件 (Software)', meaning: '', level: 'HSK 2-3', category: 'technology', source: '[[technology-zh]]' }
+- { id: 'zh_technology_015', display: '中国 科技 발전', input: '中国 科技 발전', meaning: '', level: 'HSK 2-3', category: 'technology', source: '[[technology-zh]]' }
+- { id: 'zh_technology_016', display: '한국 한자어 vs 中文 발음 차이', input: '한국 한자어 vs 中文 발음 차이', meaning: '', level: 'HSK 2-3', category: 'technology', source: '[[technology-zh]]' }
+- { id: 'zh_technology_017', display: '中文 简/繁 (간/번체)', input: '中文 简/繁 (간/번체)', meaning: '', level: 'HSK 2-3', category: 'technology', source: '[[technology-zh]]' }
+- { id: 'zh_technology_018', display: '한국어 학습자 필수 팁 (Key Tips for Korean Learners)', input: '한국어 학습자 필수 팁 (Key Tips for Korean Learners)', meaning: '', level: 'HSK 2-3', category: 'technology', source: '[[technology-zh]]' }
 ```

@@ -429,22 +429,22 @@ level: "JLPT N5-N4"
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/jp_words.md`).
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: jp_daily_001, display: "起きる", input: "okiru", meaning: "to wake up, get up", level: "JLPT N5", category: "jp-daily-life-vocabulary", source: "[[jp-daily-life-vocabulary]]" }
-- { id: jp_daily_002, display: "寝る", input: "neru", meaning: "to sleep, go to bed", level: "JLPT N5", category: "jp-daily-life-vocabulary", source: "[[jp-daily-life-vocabulary]]" }
-- { id: jp_daily_003, display: "食べる", input: "taberu", meaning: "to eat", level: "JLPT N5", category: "jp-daily-life-vocabulary", source: "[[jp-daily-life-vocabulary]]" }
-- { id: jp_daily_004, display: "飲む", input: "nomu", meaning: "to drink, take medicine", level: "JLPT N5", category: "jp-daily-life-vocabulary", source: "[[jp-daily-life-vocabulary]]" }
-- { id: jp_daily_005, display: "行く", input: "iku", meaning: "to go", level: "JLPT N5", category: "jp-daily-life-vocabulary", source: "[[jp-daily-life-vocabulary]]" }
-- { id: jp_daily_006, display: "来る", input: "kuru", meaning: "to come", level: "JLPT N5", category: "jp-daily-life-vocabulary", source: "[[jp-daily-life-vocabulary]]" }
-- { id: jp_daily_007, display: "帰る", input: "kaeru", meaning: "to return home", level: "JLPT N5", category: "jp-daily-life-vocabulary", source: "[[jp-daily-life-vocabulary]]" }
-- { id: jp_daily_008, display: "働く", input: "hataraku", meaning: "to work", level: "JLPT N5", category: "jp-daily-life-vocabulary", source: "[[jp-daily-life-vocabulary]]" }
-- { id: jp_daily_009, display: "勉強する", input: "benkyou suru", meaning: "to study", level: "JLPT N5", category: "jp-daily-life-vocabulary", source: "[[jp-daily-life-vocabulary]]" }
-- { id: jp_daily_010, display: "遊ぶ", input: "asobu", meaning: "to play, hang out", level: "JLPT N5", category: "jp-daily-life-vocabulary", source: "[[jp-daily-life-vocabulary]]" }
-- { id: jp_daily_011, display: "ある", input: "aru", meaning: "to exist (inanimate), have", level: "JLPT N5", category: "jp-daily-life-vocabulary", source: "[[jp-daily-life-vocabulary]]" }
-- { id: jp_daily_012, display: "いる", input: "iru", meaning: "to exist (animate), be somewhere", level: "JLPT N5", category: "jp-daily-life-vocabulary", source: "[[jp-daily-life-vocabulary]]" }
-- { id: jp_daily_013, display: "する", input: "suru", meaning: "to do, make", level: "JLPT N5", category: "jp-daily-life-vocabulary", source: "[[jp-daily-life-vocabulary]]" }
+- { id: 'jp_jp_daily_life_vocabulary_001', display: '起きる', input: '起きる', meaning: 'to wake up, get up', level: 'JLPT N5', category: 'jp-daily-life-vocabulary', source: '[[jp-daily-life-vocabulary]]' }
+- { id: 'jp_jp_daily_life_vocabulary_002', display: '寝る', input: '寝る', meaning: 'to sleep, go to bed', level: 'JLPT N5', category: 'jp-daily-life-vocabulary', source: '[[jp-daily-life-vocabulary]]' }
+- { id: 'jp_jp_daily_life_vocabulary_003', display: '食べる', input: '食べる', meaning: 'to eat', level: 'JLPT N5', category: 'jp-daily-life-vocabulary', source: '[[jp-daily-life-vocabulary]]' }
+- { id: 'jp_jp_daily_life_vocabulary_004', display: '飲む', input: '飲む', meaning: 'to drink, take medicine', level: 'JLPT N5', category: 'jp-daily-life-vocabulary', source: '[[jp-daily-life-vocabulary]]' }
+- { id: 'jp_jp_daily_life_vocabulary_005', display: '行く', input: '行く', meaning: 'to go', level: 'JLPT N5', category: 'jp-daily-life-vocabulary', source: '[[jp-daily-life-vocabulary]]' }
+- { id: 'jp_jp_daily_life_vocabulary_006', display: '来る', input: '来る', meaning: 'to come', level: 'JLPT N5', category: 'jp-daily-life-vocabulary', source: '[[jp-daily-life-vocabulary]]' }
+- { id: 'jp_jp_daily_life_vocabulary_007', display: '帰る', input: '帰る', meaning: 'to return home', level: 'JLPT N5', category: 'jp-daily-life-vocabulary', source: '[[jp-daily-life-vocabulary]]' }
+- { id: 'jp_jp_daily_life_vocabulary_008', display: '働く', input: '働く', meaning: 'to work', level: 'JLPT N5', category: 'jp-daily-life-vocabulary', source: '[[jp-daily-life-vocabulary]]' }
+- { id: 'jp_jp_daily_life_vocabulary_009', display: '勉強する', input: '勉強する', meaning: 'to study', level: 'JLPT N5', category: 'jp-daily-life-vocabulary', source: '[[jp-daily-life-vocabulary]]' }
+- { id: 'jp_jp_daily_life_vocabulary_010', display: '遊ぶ', input: '遊ぶ', meaning: 'to play, hang out', level: 'JLPT N5', category: 'jp-daily-life-vocabulary', source: '[[jp-daily-life-vocabulary]]' }
+- { id: 'jp_jp_daily_life_vocabulary_011', display: 'ある', input: 'ある', meaning: 'to exist (inanimate), have', level: 'JLPT N5', category: 'jp-daily-life-vocabulary', source: '[[jp-daily-life-vocabulary]]' }
+- { id: 'jp_jp_daily_life_vocabulary_012', display: 'いる', input: 'いる', meaning: 'to exist (animate), be somewhere', level: 'JLPT N5', category: 'jp-daily-life-vocabulary', source: '[[jp-daily-life-vocabulary]]' }
+- { id: 'jp_jp_daily_life_vocabulary_013', display: 'する', input: 'する', meaning: 'to do, make', level: 'JLPT N5', category: 'jp-daily-life-vocabulary', source: '[[jp-daily-life-vocabulary]]' }
 ```

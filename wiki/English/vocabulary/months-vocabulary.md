@@ -297,14 +297,14 @@ English months 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: en_months_001, display: "January", input: "January", meaning: "1월", level: "A1", category: "months", source: "[[months-vocabulary]]" }
-- { id: en_months_002, display: "February", input: "February", meaning: "2월", level: "A1", category: "months", source: "[[months-vocabulary]]" }
-- { id: en_months_003, display: "March", input: "March", meaning: "3월", level: "A1", category: "months", source: "[[months-vocabulary]]" }
-- { id: en_months_004, display: "April", input: "April", meaning: "4월", level: "A1", category: "months", source: "[[months-vocabulary]]" }
-- { id: en_months_005, display: "May", input: "May", meaning: "5월", level: "A1", category: "months", source: "[[months-vocabulary]]" }
-- { id: en_months_006, display: "June", input: "June", meaning: "6월", level: "A1", category: "months", source: "[[months-vocabulary]]" }
-- { id: en_months_007, display: "July", input: "July", meaning: "7월", level: "A1", category: "months", source: "[[months-vocabulary]]" }
-- { id: en_months_008, display: "August", input: "August", meaning: "8월", level: "A1", category: "months", source: "[[months-vocabulary]]" }
-- { id: en_months_009, display: "September", input: "September", meaning: "9월", level: "A1", category: "months", source: "[[months-vocabulary]]" }
-- { id: en_months_010, display: "October", input: "October", meaning: "10월", level: "A1", category: "months", source: "[[months-vocabulary]]" }
+- { id: 'en_months_001', display: 'January', input: 'January', meaning: '1월', level: 'A1', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'en_months_002', display: 'February', input: 'February', meaning: '2월', level: 'A1', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'en_months_003', display: 'March', input: 'March', meaning: '3월', level: 'A1', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'en_months_004', display: 'April', input: 'April', meaning: '4월', level: 'A1', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'en_months_005', display: 'May', input: 'May', meaning: '5월', level: 'A1', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'en_months_006', display: 'June', input: 'June', meaning: '6월', level: 'A1', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'en_months_007', display: 'July', input: 'July', meaning: '7월', level: 'A1', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'en_months_008', display: 'August', input: 'August', meaning: '8월', level: 'A1', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'en_months_009', display: 'September', input: 'September', meaning: '9월', level: 'A1', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'en_months_010', display: 'October', input: 'October', meaning: '10월', level: 'A1', category: 'months', source: '[[months-vocabulary]]' }
 ```

@@ -539,26 +539,26 @@ level: "JLPT N4-N3"
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/jp_words.md`).
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: jp_med_001, display: "内科", input: "naika", meaning: "internal medicine", level: "JLPT N4", category: "jp-medical-vocabulary", source: "[[jp-medical-vocabulary]]" }
-- { id: jp_med_002, display: "外科", input: "geka", meaning: "surgery", level: "JLPT N4", category: "jp-medical-vocabulary", source: "[[jp-medical-vocabulary]]" }
-- { id: jp_med_003, display: "小児科", input: "shounika", meaning: "pediatrics", level: "JLPT N4", category: "jp-medical-vocabulary", source: "[[jp-medical-vocabulary]]" }
-- { id: jp_med_004, display: "産婦人科", input: "sanfujinka", meaning: "OB/GYN", level: "JLPT N4", category: "jp-medical-vocabulary", source: "[[jp-medical-vocabulary]]" }
-- { id: jp_med_005, display: "耳鼻咽喉科", input: "jibiinkouka", meaning: "ENT", level: "JLPT N4", category: "jp-medical-vocabulary", source: "[[jp-medical-vocabulary]]" }
-- { id: jp_med_006, display: "眼科", input: "ganka", meaning: "ophthalmology", level: "JLPT N4", category: "jp-medical-vocabulary", source: "[[jp-medical-vocabulary]]" }
-- { id: jp_med_007, display: "歯科", input: "shika", meaning: "dentistry", level: "JLPT N4", category: "jp-medical-vocabulary", source: "[[jp-medical-vocabulary]]" }
-- { id: jp_med_008, display: "整形外科", input: "seikeigeka", meaning: "orthopedics", level: "JLPT N4", category: "jp-medical-vocabulary", source: "[[jp-medical-vocabulary]]" }
-- { id: jp_med_009, display: "消化器", input: "shoukaki", meaning: "digestive system", level: "JLPT N3", category: "jp-medical-vocabulary", source: "[[jp-medical-vocabulary]]" }
-- { id: jp_med_010, display: "呼吸器", input: "kokyuuki", meaning: "respiratory system", level: "JLPT N3", category: "jp-medical-vocabulary", source: "[[jp-medical-vocabulary]]" }
-- { id: jp_med_011, display: "循環器", input: "junkanki", meaning: "circulatory system", level: "JLPT N3", category: "jp-medical-vocabulary", source: "[[jp-medical-vocabulary]]" }
-- { id: jp_med_012, display: "脳神経", input: "noushinkei", meaning: "brain / nerves", level: "JLPT N3", category: "jp-medical-vocabulary", source: "[[jp-medical-vocabulary]]" }
-- { id: jp_med_013, display: "医師", input: "ishi", meaning: "doctor", level: "JLPT N4", category: "jp-medical-vocabulary", source: "[[jp-medical-vocabulary]]" }
-- { id: jp_med_014, display: "看護師", input: "kangoshi", meaning: "nurse", level: "JLPT N4", category: "jp-medical-vocabulary", source: "[[jp-medical-vocabulary]]" }
-- { id: jp_med_015, display: "薬剤師", input: "yakuzaiishi", meaning: "pharmacist", level: "JLPT N4", category: "jp-medical-vocabulary", source: "[[jp-medical-vocabulary]]" }
-- { id: jp_med_016, display: "発熱", input: "hatsunetsu", meaning: "fever", level: "JLPT N4", category: "jp-medical-vocabulary", source: "[[jp-medical-vocabulary]]" }
-- { id: jp_med_017, display: "頭痛", input: "zutsuu", meaning: "headache", level: "JLPT N4", category: "jp-medical-vocabulary", source: "[[jp-medical-vocabulary]]" }
+- { id: 'jp_jp_medical_vocabulary_001', display: '内科', input: '内科', meaning: 'internal medicine', level: 'JLPT N4', category: 'jp-medical-vocabulary', source: '[[jp-medical-vocabulary]]' }
+- { id: 'jp_jp_medical_vocabulary_002', display: '外科', input: '外科', meaning: 'surgery', level: 'JLPT N4', category: 'jp-medical-vocabulary', source: '[[jp-medical-vocabulary]]' }
+- { id: 'jp_jp_medical_vocabulary_003', display: '小児科', input: '小児科', meaning: 'pediatrics', level: 'JLPT N4', category: 'jp-medical-vocabulary', source: '[[jp-medical-vocabulary]]' }
+- { id: 'jp_jp_medical_vocabulary_004', display: '産婦人科', input: '産婦人科', meaning: 'OB/GYN', level: 'JLPT N4', category: 'jp-medical-vocabulary', source: '[[jp-medical-vocabulary]]' }
+- { id: 'jp_jp_medical_vocabulary_005', display: '耳鼻咽喉科', input: '耳鼻咽喉科', meaning: 'ENT', level: 'JLPT N4', category: 'jp-medical-vocabulary', source: '[[jp-medical-vocabulary]]' }
+- { id: 'jp_jp_medical_vocabulary_006', display: '眼科', input: '眼科', meaning: 'ophthalmology', level: 'JLPT N4', category: 'jp-medical-vocabulary', source: '[[jp-medical-vocabulary]]' }
+- { id: 'jp_jp_medical_vocabulary_007', display: '歯科', input: '歯科', meaning: 'dentistry', level: 'JLPT N4', category: 'jp-medical-vocabulary', source: '[[jp-medical-vocabulary]]' }
+- { id: 'jp_jp_medical_vocabulary_008', display: '整形外科', input: '整形外科', meaning: 'orthopedics', level: 'JLPT N4', category: 'jp-medical-vocabulary', source: '[[jp-medical-vocabulary]]' }
+- { id: 'jp_jp_medical_vocabulary_009', display: '消化器', input: '消化器', meaning: 'digestive system', level: 'JLPT N3', category: 'jp-medical-vocabulary', source: '[[jp-medical-vocabulary]]' }
+- { id: 'jp_jp_medical_vocabulary_010', display: '呼吸器', input: '呼吸器', meaning: 'respiratory system', level: 'JLPT N3', category: 'jp-medical-vocabulary', source: '[[jp-medical-vocabulary]]' }
+- { id: 'jp_jp_medical_vocabulary_011', display: '循環器', input: '循環器', meaning: 'circulatory system', level: 'JLPT N3', category: 'jp-medical-vocabulary', source: '[[jp-medical-vocabulary]]' }
+- { id: 'jp_jp_medical_vocabulary_012', display: '脳神経', input: '脳神経', meaning: 'brain / nerves', level: 'JLPT N3', category: 'jp-medical-vocabulary', source: '[[jp-medical-vocabulary]]' }
+- { id: 'jp_jp_medical_vocabulary_013', display: '医師', input: '医師', meaning: 'doctor', level: 'JLPT N4', category: 'jp-medical-vocabulary', source: '[[jp-medical-vocabulary]]' }
+- { id: 'jp_jp_medical_vocabulary_014', display: '看護師', input: '看護師', meaning: 'nurse', level: 'JLPT N4', category: 'jp-medical-vocabulary', source: '[[jp-medical-vocabulary]]' }
+- { id: 'jp_jp_medical_vocabulary_015', display: '薬剤師', input: '薬剤師', meaning: 'pharmacist', level: 'JLPT N4', category: 'jp-medical-vocabulary', source: '[[jp-medical-vocabulary]]' }
+- { id: 'jp_jp_medical_vocabulary_016', display: '発熱', input: '発熱', meaning: 'fever', level: 'JLPT N4', category: 'jp-medical-vocabulary', source: '[[jp-medical-vocabulary]]' }
+- { id: 'jp_jp_medical_vocabulary_017', display: '頭痛', input: '頭痛', meaning: 'headache', level: 'JLPT N4', category: 'jp-medical-vocabulary', source: '[[jp-medical-vocabulary]]' }
 ```

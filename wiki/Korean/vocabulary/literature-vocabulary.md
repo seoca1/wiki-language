@@ -426,23 +426,23 @@ theme: "literature"
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: kr_literature_001, display: "문학 (munhak)", input: "문학 (munhak)", meaning: "문학", level: "TOPIK II 5-6", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: kr_literature_002, display: "소설 (soseol)", input: "소설 (soseol)", meaning: "소설 (장편)", level: "TOPIK II 5-6", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: kr_literature_003, display: "단편 (danpyeon)", input: "단편 (danpyeon)", meaning: "단편", level: "TOPIK II 5-6", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: kr_literature_004, display: "시 (si)", input: "시 (si)", meaning: "시", level: "TOPIK II 5-6", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: kr_literature_005, display: "수필 (supil)", input: "수필 (supil)", meaning: "수필", level: "TOPIK II 5-6", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: kr_literature_006, display: "희곡 (huigok)", input: "희곡 (huigok)", meaning: "희곡 (연극)", level: "TOPIK II 5-6", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: kr_literature_007, display: "주인공 (juingong)", input: "주인공 (juingong)", meaning: "주인공", level: "TOPIK II 5-6", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: kr_literature_008, display: "화자 (hwaja)", input: "화자 (hwaja)", meaning: "화자 (서술자)", level: "TOPIK II 5-6", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: kr_literature_009, display: "주제 (juje)", input: "주제 (juje)", meaning: "주제", level: "TOPIK II 5-6", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: kr_literature_010, display: "배경 (baegyeong)", input: "배경 (baegyeong)", meaning: "배경", level: "TOPIK II 5-6", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: kr_literature_011, display: "시대 (sidae)", input: "시대 (sidae)", meaning: "시대", level: "TOPIK II 5-6", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: kr_literature_012, display: "작가 (jakga)", input: "작가 (jakga)", meaning: "작가 (전문 직업)", level: "TOPIK II 5-6", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: kr_literature_013, display: "산문 (sanmun)", input: "산문 (sanmun)", meaning: "산문 (산문체)", level: "TOPIK II 5-6", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: kr_literature_014, display: "고전문학 (gajeonmunhak)", input: "고전문학 (gajeonmunhak)", meaning: "고전문학", level: "TOPIK II 5-6", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: kr_literature_015, display: "현대문학 (hyeondaemunhak)", input: "현대문학 (hyeondaemunhak)", meaning: "현대문학", level: "TOPIK II 5-6", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: kr_literature_016, display: "문체 (muntche)", input: "문체 (muntche)", meaning: "문체", level: "TOPIK II 5-6", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: kr_literature_017, display: "비유 (biyu)", input: "비유 (biyu)", meaning: "비유 (은유/직유)", level: "TOPIK II 5-6", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: kr_literature_018, display: "상징 (sangjing)", input: "상징 (sangjing)", meaning: "상징", level: "TOPIK II 5-6", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: kr_literature_019, display: "풍자 (pungja)", input: "풍자 (pungja)", meaning: "풍자", level: "TOPIK II 5-6", category: "literature", source: "[[literature-vocabulary]]" }
+- { id: 'kr_literature_001', display: '문학 (munhak)', input: '문학 (munhak)', meaning: '문학', level: 'TOPIK II 5-6', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'kr_literature_002', display: '소설 (soseol)', input: '소설 (soseol)', meaning: '소설 (장편)', level: 'TOPIK II 5-6', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'kr_literature_003', display: '단편 (danpyeon)', input: '단편 (danpyeon)', meaning: '단편', level: 'TOPIK II 5-6', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'kr_literature_004', display: '시 (si)', input: '시 (si)', meaning: '시', level: 'TOPIK II 5-6', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'kr_literature_005', display: '수필 (supil)', input: '수필 (supil)', meaning: '수필', level: 'TOPIK II 5-6', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'kr_literature_006', display: '희곡 (huigok)', input: '희곡 (huigok)', meaning: '희곡 (연극)', level: 'TOPIK II 5-6', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'kr_literature_007', display: '주인공 (juingong)', input: '주인공 (juingong)', meaning: '주인공', level: 'TOPIK II 5-6', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'kr_literature_008', display: '화자 (hwaja)', input: '화자 (hwaja)', meaning: '화자 (서술자)', level: 'TOPIK II 5-6', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'kr_literature_009', display: '주제 (juje)', input: '주제 (juje)', meaning: '주제', level: 'TOPIK II 5-6', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'kr_literature_010', display: '배경 (baegyeong)', input: '배경 (baegyeong)', meaning: '배경', level: 'TOPIK II 5-6', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'kr_literature_011', display: '시대 (sidae)', input: '시대 (sidae)', meaning: '시대', level: 'TOPIK II 5-6', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'kr_literature_012', display: '작가 (jakga)', input: '작가 (jakga)', meaning: '작가 (전문 직업)', level: 'TOPIK II 5-6', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'kr_literature_013', display: '산문 (sanmun)', input: '산문 (sanmun)', meaning: '산문 (산문체)', level: 'TOPIK II 5-6', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'kr_literature_014', display: '고전문학 (gajeonmunhak)', input: '고전문학 (gajeonmunhak)', meaning: '고전문학', level: 'TOPIK II 5-6', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'kr_literature_015', display: '현대문학 (hyeondaemunhak)', input: '현대문학 (hyeondaemunhak)', meaning: '현대문학', level: 'TOPIK II 5-6', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'kr_literature_016', display: '문체 (muntche)', input: '문체 (muntche)', meaning: '문체', level: 'TOPIK II 5-6', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'kr_literature_017', display: '비유 (biyu)', input: '비유 (biyu)', meaning: '비유 (은유/직유)', level: 'TOPIK II 5-6', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'kr_literature_018', display: '상징 (sangjing)', input: '상징 (sangjing)', meaning: '상징', level: 'TOPIK II 5-6', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'kr_literature_019', display: '풍자 (pungja)', input: '풍자 (pungja)', meaning: '풍자', level: 'TOPIK II 5-6', category: 'literature', source: '[[literature-vocabulary]]' }
 ```

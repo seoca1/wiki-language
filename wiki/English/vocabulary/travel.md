@@ -17,6 +17,7 @@ level: "A1-A2"
 
 ### Nouns
 
+
 - **passport** (명사) — 여권
 - **ticket** (명사) — 티켓, 표
 - **boarding pass** (명사) — 탑승권
@@ -29,6 +30,7 @@ level: "A1-A2"
 - **check-in** (명사) — 체크인
 
 ### Verbs
+
 
 - **check in** (동사) — 체크인하다
 - **board** (동사) — 탑승하다
@@ -43,6 +45,7 @@ level: "A1-A2"
 
 ### Nouns
 
+
 - **reservation** (명사) — 예약
 - **reception** (명사) — 프론트 데스크
 - **room** (명사) — 방
@@ -56,6 +59,7 @@ level: "A1-A2"
 
 ### Verbs
 
+
 - **reserve / book** (동사) — 예약하다
 - **check in** (동사) — 체크인하다
 - **check out** (동사) — 체크아웃하다
@@ -66,6 +70,7 @@ level: "A1-A2"
 ## Restaurant (식당)
 
 ### Nouns
+
 
 - **menu** (명사) — 메뉴판
 - **waiter / waitress** (명사) — 웨이터/여종업원
@@ -79,6 +84,7 @@ level: "A1-A2"
 
 ### Verbs
 
+
 - **order** (동사) — 주문하다
 - **recommend** (동사) — 추천하다
 - **taste** (동사) — 맛보다
@@ -90,6 +96,7 @@ level: "A1-A2"
 ## Transportation (교통)
 
 ### Nouns
+
 
 - **subway** (명사) — 지하철 (US)
 - **metro** (명사) — 지하철
@@ -104,6 +111,7 @@ level: "A1-A2"
 
 ### Verbs
 
+
 - **ride** (동사) — 타다
 - **drive** (동사) — 운전하다
 - **walk** (동사) — 걷다
@@ -116,6 +124,7 @@ level: "A1-A2"
 ## Sightseeing (관광)
 
 ### Nouns
+
 
 - **map** (명사) — 지도
 - **guide** (명사) — 가이드
@@ -130,6 +139,7 @@ level: "A1-A2"
 
 ### Verbs
 
+
 - **visit** (동사) — 방문하다
 - **explore** (동사) — 탐험하다
 - **photograph** (동사) — 사진 찍다
@@ -140,6 +150,7 @@ level: "A1-A2"
 ## Directions (방향)
 
 ### Key Phrases
+
 
 - **Where is...?** — ...는 어디에 있나요?
 - **How do I get to...?** — ...에 어떻게 가나요?
@@ -155,6 +166,7 @@ level: "A1-A2"
 ---
 
 ## Useful Phrases
+
 
 - **Excuse me** — 실례합니다 (호출)
 - **How much?** — 얼마예요?
@@ -178,7 +190,7 @@ level: "A1-A2"
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: en_travel_001, display: "Nouns", input: "Nouns", meaning: "", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: en_travel_002, display: "Verbs", input: "Verbs", meaning: "", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: en_travel_003, display: "Key Phrases", input: "Key Phrases", meaning: "", level: "A1-A2", category: "travel", source: "[[travel]]" }
+- { id: 'en_travel_001', display: 'Nouns', input: 'Nouns', meaning: '', level: 'A1-A2', category: 'travel', source: '[[travel]]' }
+- { id: 'en_travel_002', display: 'Verbs', input: 'Verbs', meaning: '', level: 'A1-A2', category: 'travel', source: '[[travel]]' }
+- { id: 'en_travel_003', display: 'Key Phrases', input: 'Key Phrases', meaning: '', level: 'A1-A2', category: 'travel', source: '[[travel]]' }
 ```

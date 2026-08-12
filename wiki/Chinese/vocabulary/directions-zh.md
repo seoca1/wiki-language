@@ -262,3 +262,23 @@ theme: "directions"
 | 南边 (nán biān) | 2성 + 1성 | 南 (nán) 2성 |
 | 西边 (xī biān) | 1성 + 1성 | 西 (xī) 1성 |
 | 北边 (běi biān) | 3성 + 1성 | 北 (běi) 3성 |
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'zh_directions_001', display: '길 묻기', input: '길 묻기', meaning: '', level: 'HSK 1-2', category: 'directions', source: '[[directions-zh]]' }
+- { id: 'zh_directions_002', display: '길 안내하기', input: '길 안내하기', meaning: '', level: 'HSK 1-2', category: 'directions', source: '[[directions-zh]]' }
+- { id: 'zh_directions_003', display: '위치 확인', input: '위치 확인', meaning: '', level: 'HSK 1-2', category: 'directions', source: '[[directions-zh]]' }
+- { id: 'zh_directions_004', display: '길 묻기/가르쳐주기', input: '길 묻기/가르쳐주기', meaning: '', level: 'HSK 1-2', category: 'directions', source: '[[directions-zh]]' }
+- { id: 'zh_directions_005', display: '위치 묘사', input: '위치 묘사', meaning: '', level: 'HSK 1-2', category: 'directions', source: '[[directions-zh]]' }
+- { id: 'zh_directions_006', display: '방향 지시', input: '방향 지시', meaning: '', level: 'HSK 1-2', category: 'directions', source: '[[directions-zh]]' }
+- { id: 'zh_directions_007', display: '1. 边 (biān) vs 面 (miàn)', input: '1. 边 (biān) vs 面 (miàn)', meaning: '', level: 'HSK 1-2', category: 'directions', source: '[[directions-zh]]' }
+- { id: 'zh_directions_008', display: '2. 방향 보어 (Directional Complements) 필수', input: '2. 방향 보어 (Directional Complements) 필수', meaning: '', level: 'HSK 1-2', category: 'directions', source: '[[directions-zh]]' }
+- { id: 'zh_directions_009', display: '3. 방향 지시 어순 차이', input: '3. 방향 지시 어순 차이', meaning: '', level: 'HSK 1-2', category: 'directions', source: '[[directions-zh]]' }
+- { id: 'zh_directions_010', display: '4. 直走 (zhí zǒu) = 직진', input: '4. 直走 (zhí zǒu) = 직진', meaning: '', level: 'HSK 1-2', category: 'directions', source: '[[directions-zh]]' }
+- { id: 'zh_directions_011', display: '5. 掉头 (diào tóu) = 유턴', input: '5. 掉头 (diào tóu) = 유턴', meaning: '', level: 'HSK 1-2', category: 'directions', source: '[[directions-zh]]' }
+```

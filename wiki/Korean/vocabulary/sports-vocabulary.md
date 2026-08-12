@@ -420,21 +420,21 @@ KBL (한국 프로농구). 대학 농구 (CU, MBC 등) 인기도 높음.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: kr_sports_001, display: "스포츠 (seupocheu)", input: "스포츠 (seupocheu)", meaning: "스포츠 (sports in general)", level: "TOPIK I 2-3", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: kr_sports_002, display: "축구 (chukgu)", input: "축구 (chukgu)", meaning: "축구 (soccer / football)", level: "TOPIK I 2-3", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: kr_sports_003, display: "야구 (yagu)", input: "야구 (yagu)", meaning: "야구 (baseball)", level: "TOPIK I 2-3", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: kr_sports_004, display: "농구 (nonggu)", input: "농구 (nonggu)", meaning: "농구 (basketball)", level: "TOPIK I 2-3", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: kr_sports_005, display: "수영 (suyeong)", input: "수영 (suyeong)", meaning: "수영 (swimming)", level: "TOPIK I 2-3", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: kr_sports_006, display: "조깅 (joging)", input: "조깅 (joging)", meaning: "조깅 (jogging)", level: "TOPIK I 2-3", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: kr_sports_007, display: "요가 (yoga)", input: "요가 (yoga)", meaning: "요가 (yoga)", level: "TOPIK I 2-3", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: kr_sports_008, display: "헬스장 (helseujang)", input: "헬스장 (helseujang)", meaning: "헬스장 (gym)", level: "TOPIK I 2-3", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: kr_sports_009, display: "등산 (deungsan)", input: "등산 (deungsan)", meaning: "등산 (hiking / mountain climbing)", level: "TOPIK I 2-3", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: kr_sports_010, display: "캠핑 (kaemping)", input: "캠핑 (kaemping)", meaning: "캠핑 (camping)", level: "TOPIK I 2-3", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: kr_sports_011, display: "태권도 (taegwondo)", input: "태권도 (taegwondo)", meaning: "태권도 (Taekwondo)", level: "TOPIK I 2-3", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: kr_sports_012, display: "e스포츠 (ipeuseupocheu)", input: "e스포츠 (ipeuseupocheu)", meaning: "e스포츠 (esports)", level: "TOPIK I 2-3", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: kr_sports_013, display: "독서 (dokseo)", input: "독서 (dokseo)", meaning: "독서 (reading)", level: "TOPIK I 2-3", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: kr_sports_014, display: "홈트레이닝 (homteureining)", input: "홈트레이닝 (homteureining)", meaning: "홈트 (home training)", level: "TOPIK I 2-3", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: kr_sports_015, display: "팀 (tim)", input: "팀 (tim)", meaning: "팀 (team)", level: "TOPIK I 2-3", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: kr_sports_016, display: "경기 (gyeonggi)", input: "경기 (gyeonggi)", meaning: "경기 (match / game)", level: "TOPIK I 2-3", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: kr_sports_017, display: "팬 (paen)", input: "팬 (paen)", meaning: "팬 (fan)", level: "TOPIK I 2-3", category: "sports", source: "[[sports-vocabulary]]" }
+- { id: 'kr_sports_001', display: '스포츠 (seupocheu)', input: '스포츠 (seupocheu)', meaning: '스포츠 (sports in general)', level: 'TOPIK I 2-3', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'kr_sports_002', display: '축구 (chukgu)', input: '축구 (chukgu)', meaning: '축구 (soccer / football)', level: 'TOPIK I 2-3', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'kr_sports_003', display: '야구 (yagu)', input: '야구 (yagu)', meaning: '야구 (baseball)', level: 'TOPIK I 2-3', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'kr_sports_004', display: '농구 (nonggu)', input: '농구 (nonggu)', meaning: '농구 (basketball)', level: 'TOPIK I 2-3', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'kr_sports_005', display: '수영 (suyeong)', input: '수영 (suyeong)', meaning: '수영 (swimming)', level: 'TOPIK I 2-3', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'kr_sports_006', display: '조깅 (joging)', input: '조깅 (joging)', meaning: '조깅 (jogging)', level: 'TOPIK I 2-3', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'kr_sports_007', display: '요가 (yoga)', input: '요가 (yoga)', meaning: '요가 (yoga)', level: 'TOPIK I 2-3', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'kr_sports_008', display: '헬스장 (helseujang)', input: '헬스장 (helseujang)', meaning: '헬스장 (gym)', level: 'TOPIK I 2-3', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'kr_sports_009', display: '등산 (deungsan)', input: '등산 (deungsan)', meaning: '등산 (hiking / mountain climbing)', level: 'TOPIK I 2-3', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'kr_sports_010', display: '캠핑 (kaemping)', input: '캠핑 (kaemping)', meaning: '캠핑 (camping)', level: 'TOPIK I 2-3', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'kr_sports_011', display: '태권도 (taegwondo)', input: '태권도 (taegwondo)', meaning: '태권도 (Taekwondo)', level: 'TOPIK I 2-3', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'kr_sports_012', display: 'e스포츠 (ipeuseupocheu)', input: 'e스포츠 (ipeuseupocheu)', meaning: 'e스포츠 (esports)', level: 'TOPIK I 2-3', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'kr_sports_013', display: '독서 (dokseo)', input: '독서 (dokseo)', meaning: '독서 (reading)', level: 'TOPIK I 2-3', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'kr_sports_014', display: '홈트레이닝 (homteureining)', input: '홈트레이닝 (homteureining)', meaning: '홈트 (home training)', level: 'TOPIK I 2-3', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'kr_sports_015', display: '팀 (tim)', input: '팀 (tim)', meaning: '팀 (team)', level: 'TOPIK I 2-3', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'kr_sports_016', display: '경기 (gyeonggi)', input: '경기 (gyeonggi)', meaning: '경기 (match / game)', level: 'TOPIK I 2-3', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'kr_sports_017', display: '팬 (paen)', input: '팬 (paen)', meaning: '팬 (fan)', level: 'TOPIK I 2-3', category: 'sports', source: '[[sports-vocabulary]]' }
 ```

@@ -294,14 +294,14 @@ Contexto cultural por añadir
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: es_body_001, display: "cabeza", input: "cabeza", meaning: "Head (top of body, from neck up).", level: "** A1-B1", category: "body-vocabulary", source: "[[body-vocabulary]]" }
-- { id: es_body_002, display: "ojo", input: "ojo", meaning: "Eye (organ of sight).", level: "** A1-B1", category: "body-vocabulary", source: "[[body-vocabulary]]" }
-- { id: es_body_003, display: "boca", input: "boca", meaning: "Mouth (oral cavity).", level: "** A1-B1", category: "body-vocabulary", source: "[[body-vocabulary]]" }
-- { id: es_body_004, display: "brazo", input: "brazo", meaning: "Arm (upper limb).", level: "** A1-B1", category: "body-vocabulary", source: "[[body-vocabulary]]" }
-- { id: es_body_005, display: "mano", input: "mano", meaning: "Hand (extremity of arm).", level: "** A1-B1", category: "body-vocabulary", source: "[[body-vocabulary]]" }
-- { id: es_body_006, display: "espalda", input: "espalda", meaning: "Back (rear of torso).", level: "** A1-B1", category: "body-vocabulary", source: "[[body-vocabulary]]" }
-- { id: es_body_007, display: "estómago", input: "estómago", meaning: "Stomach (digestive organ).", level: "** A1-B1", category: "body-vocabulary", source: "[[body-vocabulary]]" }
-- { id: es_body_008, display: "pierna", input: "pierna", meaning: "Leg (limb from hip to ankle).", level: "** A1-B1", category: "body-vocabulary", source: "[[body-vocabulary]]" }
-- { id: es_body_009, display: "pie", input: "pie", meaning: "Foot (extremity of leg).", level: "** A1-B1", category: "body-vocabulary", source: "[[body-vocabulary]]" }
-- { id: es_body_010, display: "corazón", input: "corazón", meaning: "Heart (organ of circulation, also seat of emotion).", level: "** A1-B1", category: "body-vocabulary", source: "[[body-vocabulary]]" }
+- { id: 'es_body_001', display: 'cabeza', input: 'cabeza', meaning: 'Head (top of body, from neck up).', level: '** A1-B1', category: 'body-vocabulary', source: '[[body-vocabulary]]' }
+- { id: 'es_body_002', display: 'ojo', input: 'ojo', meaning: 'Eye (organ of sight).', level: '** A1-B1', category: 'body-vocabulary', source: '[[body-vocabulary]]' }
+- { id: 'es_body_003', display: 'boca', input: 'boca', meaning: 'Mouth (oral cavity).', level: '** A1-B1', category: 'body-vocabulary', source: '[[body-vocabulary]]' }
+- { id: 'es_body_004', display: 'brazo', input: 'brazo', meaning: 'Arm (upper limb).', level: '** A1-B1', category: 'body-vocabulary', source: '[[body-vocabulary]]' }
+- { id: 'es_body_005', display: 'mano', input: 'mano', meaning: 'Hand (extremity of arm).', level: '** A1-B1', category: 'body-vocabulary', source: '[[body-vocabulary]]' }
+- { id: 'es_body_006', display: 'espalda', input: 'espalda', meaning: 'Back (rear of torso).', level: '** A1-B1', category: 'body-vocabulary', source: '[[body-vocabulary]]' }
+- { id: 'es_body_007', display: 'estómago', input: 'estómago', meaning: 'Stomach (digestive organ).', level: '** A1-B1', category: 'body-vocabulary', source: '[[body-vocabulary]]' }
+- { id: 'es_body_008', display: 'pierna', input: 'pierna', meaning: 'Leg (limb from hip to ankle).', level: '** A1-B1', category: 'body-vocabulary', source: '[[body-vocabulary]]' }
+- { id: 'es_body_009', display: 'pie', input: 'pie', meaning: 'Foot (extremity of leg).', level: '** A1-B1', category: 'body-vocabulary', source: '[[body-vocabulary]]' }
+- { id: 'es_body_010', display: 'corazón', input: 'corazón', meaning: 'Heart (organ of circulation, also seat of emotion).', level: '** A1-B1', category: 'body-vocabulary', source: '[[body-vocabulary]]' }
 ```

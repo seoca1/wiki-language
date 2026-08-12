@@ -434,23 +434,23 @@ US stores usually allow returns within 30-90 days with a receipt. Some items (cl
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: en_shopping_001, display: "shop", input: "shop", meaning: "가게", level: "A1", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: en_shopping_002, display: "money", input: "money", meaning: "돈", level: "A1", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: en_shopping_003, display: "cash", input: "cash", meaning: "현금", level: "A1", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: en_shopping_004, display: "card", input: "card", meaning: "카드", level: "A1", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: en_shopping_005, display: "price", input: "price", meaning: "가격", level: "A1", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: en_shopping_006, display: "cheap", input: "cheap", meaning: "싼", level: "A1", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: en_shopping_007, display: "expensive", input: "expensive", meaning: "비싼", level: "A2", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: en_shopping_008, display: "discount", input: "discount", meaning: "할인", level: "A2", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: en_shopping_009, display: "receipt", input: "receipt", meaning: "영수증", level: "A2", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: en_shopping_010, display: "refund", input: "refund", meaning: "환불/환불하다", level: "A2", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: en_shopping_011, display: "buy", input: "buy", meaning: "사다", level: "A1", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: en_shopping_012, display: "sell", input: "sell", meaning: "팔다", level: "A1", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: en_shopping_013, display: "return", input: "return", meaning: "반품하다/돌려주다", level: "A2", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: en_shopping_014, display: "try on", input: "try on", meaning: "입어보다/신어보다", level: "A2", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: en_shopping_015, display: "fitting room", input: "fitting room", meaning: "탈의실", level: "A2", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: en_shopping_016, display: "store", input: "store", meaning: "상점", level: "A1", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: en_shopping_017, display: "size", input: "size", meaning: "크기/사이즈", level: "A1", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: en_shopping_018, display: "sale", input: "sale", meaning: "세일/판매", level: "A2", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: en_shopping_019, display: "change", input: "change", meaning: "거스름돈", level: "A1", category: "shopping", source: "[[shopping-vocabulary]]" }
+- { id: 'en_shopping_001', display: 'shop', input: 'shop', meaning: '가게', level: 'A1', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'en_shopping_002', display: 'money', input: 'money', meaning: '돈', level: 'A1', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'en_shopping_003', display: 'cash', input: 'cash', meaning: '현금', level: 'A1', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'en_shopping_004', display: 'card', input: 'card', meaning: '카드', level: 'A1', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'en_shopping_005', display: 'price', input: 'price', meaning: '가격', level: 'A1', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'en_shopping_006', display: 'cheap', input: 'cheap', meaning: '싼', level: 'A1', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'en_shopping_007', display: 'expensive', input: 'expensive', meaning: '비싼', level: 'A2', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'en_shopping_008', display: 'discount', input: 'discount', meaning: '할인', level: 'A2', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'en_shopping_009', display: 'receipt', input: 'receipt', meaning: '영수증', level: 'A2', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'en_shopping_010', display: 'refund', input: 'refund', meaning: '환불/환불하다', level: 'A2', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'en_shopping_011', display: 'buy', input: 'buy', meaning: '사다', level: 'A1', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'en_shopping_012', display: 'sell', input: 'sell', meaning: '팔다', level: 'A1', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'en_shopping_013', display: 'return', input: 'return', meaning: '반품하다/돌려주다', level: 'A2', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'en_shopping_014', display: 'try on', input: 'try on', meaning: '입어보다/신어보다', level: 'A2', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'en_shopping_015', display: 'fitting room', input: 'fitting room', meaning: '탈의실', level: 'A2', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'en_shopping_016', display: 'store', input: 'store', meaning: '상점', level: 'A1', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'en_shopping_017', display: 'size', input: 'size', meaning: '크기/사이즈', level: 'A1', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'en_shopping_018', display: 'sale', input: 'sale', meaning: '세일/판매', level: 'A2', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'en_shopping_019', display: 'change', input: 'change', meaning: '거스름돈', level: 'A1', category: 'shopping', source: '[[shopping-vocabulary]]' }
 ```

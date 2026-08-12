@@ -344,3 +344,31 @@ theme: "health"
 | 挂号 (guà hào) | 4성 + 4성 | 挂 (guà) 4성, 号 (hào) 4성 |
 | 急诊 (jí zhěn) | 2성 + 3성 | 急 (jí) 2성, 诊 (zhěn) 3성 |
 | 救护车 (jiù hù chē) | 4성 + 4성 + 1성 | 救 (jiù) 4성, 护 (hù) 4성, 车 (chē) 1성 |
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'zh_health_001', display: '일반 증상 (General Symptoms)', input: '일반 증상 (General Symptoms)', meaning: '', level: 'HSK 2-3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_002', display: '특정 질병 (Specific Illnesses)', input: '특정 질병 (Specific Illnesses)', meaning: '', level: 'HSK 2-3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_003', display: '증상 말하기', input: '증상 말하기', meaning: '', level: 'HSK 2-3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_004', display: '병원에서', input: '병원에서', meaning: '', level: 'HSK 2-3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_005', display: '약국에서', input: '약국에서', meaning: '', level: 'HSK 2-3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_006', display: '건강 관리', input: '건강 관리', meaning: '', level: 'HSK 2-3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_007', display: '1. "아프다" = 疼 (téng) — 동사/형용사 겸용', input: '1. "아프다" = 疼 (téng) — 동사/형용사 겸용', meaning: '', level: 'HSK 2-3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_008', display: '2. "열나다" = 发烧 (fā shāo)', input: '2. "열나다" = 发烧 (fā shāo)', meaning: '', level: 'HSK 2-3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_009', display: '3. "감기" = 感冒 (gǎn mào)', input: '3. "감기" = 感冒 (gǎn mào)', meaning: '', level: 'HSK 2-3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_010', display: '4. 신체 부위 + 疼 (téng) 패턴', input: '4. 신체 부위 + 疼 (téng) 패턴', meaning: '', level: 'HSK 2-3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_011', display: '5. 약 관련 동사 (Medicine Verbs)', input: '5. 약 관련 동사 (Medicine Verbs)', meaning: '', level: 'HSK 2-3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_012', display: '6. 병원 관련 동사 (Hospital Verbs)', input: '6. 병원 관련 동사 (Hospital Verbs)', meaning: '', level: 'HSK 2-3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_013', display: '1. 疼 (téng) = 아프다 — 동사/형용사 겸용', input: '1. 疼 (téng) = 아프다 — 동사/형용사 겸용', meaning: '', level: 'HSK 2-3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_014', display: '2. 发烧 (fā shāo) = 열나다', input: '2. 发烧 (fā shāo) = 열나다', meaning: '', level: 'HSK 2-3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_015', display: '4. 疼 vs 痛 (tòng)', input: '4. 疼 vs 痛 (tòng)', meaning: '', level: 'HSK 2-3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_016', display: '5. 약 복용 빈도 (Medicine Frequency)', input: '5. 약 복용 빈도 (Medicine Frequency)', meaning: '', level: 'HSK 2-3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_017', display: '1. 중의학 (Traditional Chinese Medicine - TCM)', input: '1. 중의학 (Traditional Chinese Medicine - TCM)', meaning: '', level: 'HSK 2-3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_018', display: '2. 병원 문화', input: '2. 병원 문화', meaning: '', level: 'HSK 2-3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_019', display: '3. 응급 상황', input: '3. 응급 상황', meaning: '', level: 'HSK 2-3', category: 'health', source: '[[health-zh]]' }
+```

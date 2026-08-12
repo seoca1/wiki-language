@@ -459,23 +459,23 @@ theme: "time-prepositions"
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/kr_words.md`).
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: ko_time_001, display: "아침 (achim)", input: "아침", meaning: "morning", level: "TOPIK 1", category: "time-prepositions", source: "[[ko-time-prepositions-vocabulary]]" }
-- { id: ko_time_002, display: "점심 (jeomsim)", input: "점심", meaning: "lunch", level: "TOPIK 1", category: "time-prepositions", source: "[[ko-time-prepositions-vocabulary]]" }
-- { id: ko_time_003, display: "저녁 (jeonyeok)", input: "저녁", meaning: "evening, dinner", level: "TOPIK 1", category: "time-prepositions", source: "[[ko-time-prepositions-vocabulary]]" }
-- { id: ko_time_004, display: "오늘 (oneul)", input: "오늘", meaning: "today", level: "TOPIK 1", category: "time-prepositions", source: "[[ko-time-prepositions-vocabulary]]" }
-- { id: ko_time_005, display: "내일 (來日, naeil)", input: "내일", meaning: "tomorrow", level: "TOPIK 1", category: "time-prepositions", source: "[[ko-time-prepositions-vocabulary]]" }
-- { id: ko_time_006, display: "어제 (昨日, eoje)", input: "어제", meaning: "yesterday", level: "TOPIK 1", category: "time-prepositions", source: "[[ko-time-prepositions-vocabulary]]" }
-- { id: ko_time_007, display: "지난주 (jinanju)", input: "지난주", meaning: "last week", level: "TOPIK 2", category: "time-prepositions", source: "[[ko-time-prepositions-vocabulary]]" }
-- { id: ko_time_008, display: "에 (e)", input: "에", meaning: "to, at, in", level: "TOPIK 1", category: "time-prepositions", source: "[[ko-time-prepositions-vocabulary]]" }
-- { id: ko_time_009, display: "에서 (eseo)", input: "에서", meaning: "at, in, from", level: "TOPIK 1", category: "time-prepositions", source: "[[ko-time-prepositions-vocabulary]]" }
-- { id: ko_time_010, display: "으로 (euro)", input: "으로", meaning: "to, toward, with", level: "TOPIK 2", category: "time-prepositions", source: "[[ko-time-prepositions-vocabulary]]" }
-- { id: ko_time_011, display: "와/과 (wa/gwa)", input: "와/과", meaning: "and, with", level: "TOPIK 2", category: "time-prepositions", source: "[[ko-time-prepositions-vocabulary]]" }
-- { id: ko_time_012, display: "의 (ui)", input: "의", meaning: "of, possessive", level: "TOPIK 2", category: "time-prepositions", source: "[[ko-time-prepositions-vocabulary]]" }
-- { id: ko_time_013, display: "지금 (只今, jigeum)", input: "지금", meaning: "now", level: "TOPIK 1", category: "time-prepositions", source: "[[ko-time-prepositions-vocabulary]]" }
-- { id: ko_time_014, display: "항상 (恒常, hangsang)", input: "항상", meaning: "always", level: "TOPIK 2", category: "time-prepositions", source: "[[ko-time-prepositions-vocabulary]]" }
+- { id: 'kr_time_prepositions_001', display: '아침 (achim)', input: '아침 (achim)', meaning: 'morning', level: 'TOPIK 1', category: 'time-prepositions', source: '[[ko-time-prepositions-vocabulary]]' }
+- { id: 'kr_time_prepositions_002', display: '점심 (jeomsim)', input: '점심 (jeomsim)', meaning: 'lunch', level: 'TOPIK 1', category: 'time-prepositions', source: '[[ko-time-prepositions-vocabulary]]' }
+- { id: 'kr_time_prepositions_003', display: '저녁 (jeonyeok)', input: '저녁 (jeonyeok)', meaning: 'evening, dinner', level: 'TOPIK 1', category: 'time-prepositions', source: '[[ko-time-prepositions-vocabulary]]' }
+- { id: 'kr_time_prepositions_004', display: '오늘 (oneul)', input: '오늘 (oneul)', meaning: 'today', level: 'TOPIK 1', category: 'time-prepositions', source: '[[ko-time-prepositions-vocabulary]]' }
+- { id: 'kr_time_prepositions_005', display: '내일 (naeil)', input: '내일 (naeil)', meaning: 'tomorrow', level: 'TOPIK 1-2', category: 'time-prepositions', source: '[[ko-time-prepositions-vocabulary]]' }
+- { id: 'kr_time_prepositions_006', display: '어제 (eoje)', input: '어제 (eoje)', meaning: 'yesterday', level: 'TOPIK 1-2', category: 'time-prepositions', source: '[[ko-time-prepositions-vocabulary]]' }
+- { id: 'kr_time_prepositions_007', display: '지난주 (jinanju)', input: '지난주 (jinanju)', meaning: 'last week', level: 'TOPIK 2', category: 'time-prepositions', source: '[[ko-time-prepositions-vocabulary]]' }
+- { id: 'kr_time_prepositions_008', display: '에 (e)', input: '에 (e)', meaning: 'to, at, in', level: 'TOPIK 1', category: 'time-prepositions', source: '[[ko-time-prepositions-vocabulary]]' }
+- { id: 'kr_time_prepositions_009', display: '에서 (eseo)', input: '에서 (eseo)', meaning: 'at, in, from', level: 'TOPIK 1', category: 'time-prepositions', source: '[[ko-time-prepositions-vocabulary]]' }
+- { id: 'kr_time_prepositions_010', display: '으로 (euro)', input: '으로 (euro)', meaning: 'to, toward, with', level: 'TOPIK 2', category: 'time-prepositions', source: '[[ko-time-prepositions-vocabulary]]' }
+- { id: 'kr_time_prepositions_011', display: '와/과 (wa/gwa)', input: '와/과 (wa/gwa)', meaning: 'and, with', level: 'TOPIK 2', category: 'time-prepositions', source: '[[ko-time-prepositions-vocabulary]]' }
+- { id: 'kr_time_prepositions_012', display: '의 (ui)', input: '의 (ui)', meaning: 'of, possessive', level: 'TOPIK 2', category: 'time-prepositions', source: '[[ko-time-prepositions-vocabulary]]' }
+- { id: 'kr_time_prepositions_013', display: '지금 (jigeum)', input: '지금 (jigeum)', meaning: 'now, at present', level: 'TOPIK 1-2', category: 'time-prepositions', source: '[[ko-time-prepositions-vocabulary]]' }
+- { id: 'kr_time_prepositions_014', display: '항상 (hangsang)', input: '항상 (hangsang)', meaning: 'always, constantly', level: 'TOPIK 1-2', category: 'time-prepositions', source: '[[ko-time-prepositions-vocabulary]]' }
 ```

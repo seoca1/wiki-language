@@ -477,24 +477,31 @@ theme: "time-prepositions"
 
 > Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: zh_time_001, display: "今天 (jīntiān)", input: "jin1 tian1", meaning: "오늘", level: "HSK 1", category: "time-prep-zh", source: "[[zh-time-prepositions-vocabulary]]" }
-- { id: zh_time_002, display: "明天 (míngtiān)", input: "ming2 tian1", meaning: "내일", level: "HSK 1", category: "time-prep-zh", source: "[[zh-time-prepositions-vocabulary]]" }
-- { id: zh_time_003, display: "昨天 (zuótiān)", input: "zuo2 tian1", meaning: "어제", level: "HSK 1", category: "time-prep-zh", source: "[[zh-time-prepositions-vocabulary]]" }
-- { id: zh_time_004, display: "后天 (hòutiān)", input: "hou4 tian1", meaning: "모레", level: "HSK 2", category: "time-prep-zh", source: "[[zh-time-prepositions-vocabulary]]" }
-- { id: zh_time_005, display: "前天 (qiántiān)", input: "qian2 tian1", meaning: "그저께", level: "HSK 2", category: "time-prep-zh", source: "[[zh-time-prepositions-vocabulary]]" }
-- { id: zh_time_006, display: "上周 (shàngzhōu)", input: "shang4 zhou1", meaning: "지난주", level: "HSK 2", category: "time-prep-zh", source: "[[zh-time-prepositions-vocabulary]]" }
-- { id: zh_time_007, display: "下周 (xiàzhōu)", input: "xia4 zhou1", meaning: "다음 주", level: "HSK 2", category: "time-prep-zh", source: "[[zh-time-prepositions-vocabulary]]" }
-- { id: zh_time_008, display: "这个月 (zhè ge yuè)", input: "zhe4 ge yue4", meaning: "이번 달", level: "HSK 1", category: "time-prep-zh", source: "[[zh-time-prepositions-vocabulary]]" }
-- { id: zh_time_009, display: "早上 (zǎoshang)", input: "zao3 shang", meaning: "아침", level: "HSK 1", category: "time-prep-zh", source: "[[zh-time-prepositions-vocabulary]]" }
-- { id: zh_time_010, display: "中午 (zhōngwǔ)", input: "zhong1 wu3", meaning: "점심/정오", level: "HSK 1", category: "time-prep-zh", source: "[[zh-time-prepositions-vocabulary]]" }
-- { id: zh_time_011, display: "晚上 (wǎnshang)", input: "wan3 shang", meaning: "저녁", level: "HSK 1", category: "time-prep-zh", source: "[[zh-time-prepositions-vocabulary]]" }
-- { id: zh_time_012, display: "在 (zài)", input: "zai4", meaning: "~에 (위치)", level: "HSK 1", category: "time-prep-zh", source: "[[zh-time-prepositions-vocabulary]]" }
-- { id: zh_time_013, display: "到 (dào)", input: "dao4", meaning: "~까지 (도착)", level: "HSK 1", category: "time-prep-zh", source: "[[zh-time-prepositions-vocabulary]]" }
-- { id: zh_time_014, display: "从 (cóng)", input: "cong2", meaning: "~부터 (출발)", level: "HSK 1", category: "time-prep-zh", source: "[[zh-time-prepositions-vocabulary]]" }
-- { id: zh_time_015, display: "向 (xiàng)", input: "xiang4", meaning: "~쪽으로", level: "HSK 3", category: "time-prep-zh", source: "[[zh-time-prepositions-vocabulary]]" }
-- { id: zh_time_016, display: "给 (gěi)", input: "gei3", meaning: "~에게 (대상)", level: "HSK 1", category: "time-prep-zh", source: "[[zh-time-prepositions-vocabulary]]" }
-- { id: zh_time_017, display: "跟 (gēn)", input: "gen1", meaning: "~와/함께", level: "HSK 2", category: "time-prep-zh", source: "[[zh-time-prepositions-vocabulary]]" }
-- { id: zh_time_018, display: "对 (duì)", input: "dui4", meaning: "~에 대해/~에게", level: "HSK 2", category: "time-prep-zh", source: "[[zh-time-prepositions-vocabulary]]" }
+- { id: 'zh_time_prepositions_001', display: '今天 (jīntiān)', input: '今天 (jīntiān)', meaning: '오늘', level: 'HSK 1', category: 'time-prep-zh', source: '[[zh-time-prepositions-vocabulary]]' }
+- { id: 'zh_time_prepositions_002', display: '明天 (míngtiān)', input: '明天 (míngtiān)', meaning: '내일', level: 'HSK 1', category: 'time-prep-zh', source: '[[zh-time-prepositions-vocabulary]]' }
+- { id: 'zh_time_prepositions_003', display: '昨天 (zuótiān)', input: '昨天 (zuótiān)', meaning: '어제', level: 'HSK 1', category: 'time-prep-zh', source: '[[zh-time-prepositions-vocabulary]]' }
+- { id: 'zh_time_prepositions_004', display: '后天 (hòutiān)', input: '后天 (hòutiān)', meaning: '모레', level: 'HSK 2', category: 'time-prep-zh', source: '[[zh-time-prepositions-vocabulary]]' }
+- { id: 'zh_time_prepositions_005', display: '前天 (qiántiān)', input: '前天 (qiántiān)', meaning: '그저께', level: 'HSK 2', category: 'time-prep-zh', source: '[[zh-time-prepositions-vocabulary]]' }
+- { id: 'zh_time_prepositions_006', display: '上周 (shàngzhōu)', input: '上周 (shàngzhōu)', meaning: '지난주', level: 'HSK 2', category: 'time-prep-zh', source: '[[zh-time-prepositions-vocabulary]]' }
+- { id: 'zh_time_prepositions_007', display: '下周 (xiàzhōu)', input: '下周 (xiàzhōu)', meaning: '다음 주', level: 'HSK 2', category: 'time-prep-zh', source: '[[zh-time-prepositions-vocabulary]]' }
+- { id: 'zh_time_prepositions_008', display: '这个月 (zhè ge yuè)', input: '这个月 (zhè ge yuè)', meaning: '이번 달', level: 'HSK 1', category: 'time-prep-zh', source: '[[zh-time-prepositions-vocabulary]]' }
+- { id: 'zh_time_prepositions_009', display: '早上 (zǎoshang)', input: '早上 (zǎoshang)', meaning: '아침', level: 'HSK 1', category: 'time-prep-zh', source: '[[zh-time-prepositions-vocabulary]]' }
+- { id: 'zh_time_prepositions_010', display: '中午 (zhōngw�)', input: '中午 (zhōngw�)', meaning: 'noon / midday. **HSK 1.**', level: 'HSK 1-3', category: 'time-prepositions', source: '[[zh-time-prepositions-vocabulary]]' }
+- { id: 'zh_time_prepositions_011', display: '晚上 (wǎnshang)', input: '晚上 (wǎnshang)', meaning: '저녁', level: 'HSK 1', category: 'time-prep-zh', source: '[[zh-time-prepositions-vocabulary]]' }
+- { id: 'zh_time_prepositions_012', display: '在 (zài)', input: '在 (zài)', meaning: '~에 (위치)', level: 'HSK 1', category: 'time-prep-zh', source: '[[zh-time-prepositions-vocabulary]]' }
+- { id: 'zh_time_prepositions_013', display: '到 (dào)', input: '到 (dào)', meaning: '~까지 (도착)', level: 'HSK 1', category: 'time-prep-zh', source: '[[zh-time-prepositions-vocabulary]]' }
+- { id: 'zh_time_prepositions_014', display: '从 (cóng)', input: '从 (cóng)', meaning: '~부터 (출발)', level: 'HSK 1', category: 'time-prep-zh', source: '[[zh-time-prepositions-vocabulary]]' }
+- { id: 'zh_time_prepositions_015', display: '向 (xiàng)', input: '向 (xiàng)', meaning: '~쪽으로', level: 'HSK 3', category: 'time-prep-zh', source: '[[zh-time-prepositions-vocabulary]]' }
+- { id: 'zh_time_prepositions_016', display: '给 (gěi)', input: '给 (gěi)', meaning: '~에게 (대상)', level: 'HSK 1', category: 'time-prep-zh', source: '[[zh-time-prepositions-vocabulary]]' }
+- { id: 'zh_time_prepositions_017', display: '跟 (gēn)', input: '跟 (gēn)', meaning: '~와/함께', level: 'HSK 2', category: 'time-prep-zh', source: '[[zh-time-prepositions-vocabulary]]' }
+- { id: 'zh_time_prepositions_018', display: '对 (duì)', input: '对 (duì)', meaning: '~에 대해/~에게', level: 'HSK 2', category: 'time-prep-zh', source: '[[zh-time-prepositions-vocabulary]]' }
+- { id: 'zh_time_prepositions_019', display: '~点 (o''clock)', input: '~点 (o''clock)', meaning: '', level: 'HSK 1-3', category: 'time-prepositions', source: '[[zh-time-prepositions-vocabulary]]' }
+- { id: 'zh_time_prepositions_020', display: '~分 (minutes)', input: '~分 (minutes)', meaning: '', level: 'HSK 1-3', category: 'time-prepositions', source: '[[zh-time-prepositions-vocabulary]]' }
+- { id: 'zh_time_prepositions_021', display: '半 (half)', input: '半 (half)', meaning: '', level: 'HSK 1-3', category: 'time-prepositions', source: '[[zh-time-prepositions-vocabulary]]' }
+- { id: 'zh_time_prepositions_022', display: '1. 시간 표현 — 上/下 = past/future', input: '1. 시간 표현 — 上/下 = past/future', meaning: '', level: 'HSK 1-3', category: 'time-prepositions', source: '[[zh-time-prepositions-vocabulary]]' }
+- { id: 'zh_time_prepositions_023', display: '2. 한국어 조사 vs 중국어 전치사', input: '2. 한국어 조사 vs 중국어 전치사', meaning: '', level: 'HSK 1-3', category: 'time-prepositions', source: '[[zh-time-prepositions-vocabulary]]' }
+- { id: 'zh_time_prepositions_024', display: '3. 한국 한자음 ≠ 중국 병음 (Top Confusions)', input: '3. 한국 한자음 ≠ 중국 병음 (Top Confusions)', meaning: '', level: 'HSK 1-3', category: 'time-prepositions', source: '[[zh-time-prepositions-vocabulary]]' }
 ```

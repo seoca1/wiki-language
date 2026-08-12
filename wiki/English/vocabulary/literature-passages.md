@@ -32,6 +32,56 @@ English vocabulary for literary genres, devices, famous authors and works, and l
 | Romance | 로맨스 |
 | Horror | 호러 |
 
+
+
+### Novel
+
+**Translation:** 소설
+
+### Short story
+
+**Translation:** 단편소설
+
+### Poetry
+
+**Translation:** 시
+
+### Drama
+
+**Translation:** 희곡
+
+### Essay
+
+**Translation:** 수필/에세이
+
+### Biography
+
+**Translation:** 전기
+
+### Autobiography
+
+**Translation:** 자서전
+
+### Fantasy
+
+**Translation:** 판타지
+
+### Science fiction
+
+**Translation:** 공상과학
+
+### Mystery
+
+**Translation:** 미스터리
+
+### Romance
+
+**Translation:** 로맨스
+
+### Horror
+
+**Translation:** 호러
+
 ## Literary Devices
 
 | English | Korean |
@@ -46,6 +96,48 @@ English vocabulary for literary genres, devices, famous authors and works, and l
 | Imagery | 이미지법 |
 | Allegory | 우화/풍자 |
 | Oxymoron | 모순어법 |
+
+
+
+### Metaphor
+
+**Translation:** 은유/직유
+
+### Simile
+
+**Translation:** 직유법
+
+### Personification
+
+**Translation:** 의인법
+
+### Hyperbole
+
+**Translation:** 과장법
+
+### Irony
+
+**Translation:** 반어법
+
+### Symbolism
+
+**Translation:** 상징주의
+
+### Foreshadowing
+
+**Translation:** 복선
+
+### Imagery
+
+**Translation:** 이미지법
+
+### Allegory
+
+**Translation:** 우화/풍자
+
+### Oxymoron
+
+**Translation:** 모순어법
 
 ## Literary Terms
 
@@ -64,6 +156,56 @@ English vocabulary for literary genres, devices, famous authors and works, and l
 | Symbol | 상징 |
 | Point of view | 시점 |
 
+
+
+### Author
+
+**Translation:** 작가
+
+### Protagonist
+
+**Translation:** 주인공
+
+### Antagonist
+
+**Translation:** 악역
+
+### Narrator
+
+**Translation:** 화자/서술자
+
+### Setting
+
+**Translation:** 배경/장소
+
+### Plot
+
+**Translation:** 줄거리
+
+### Conflict
+
+**Translation:** 갈등
+
+### Climax
+
+**Translation:** 절정/클라이맥스
+
+### Resolution
+
+**Translation:** 결말
+
+### Theme
+
+**Translation:** 주제
+
+### Symbol
+
+**Translation:** 상징
+
+### Point of view
+
+**Translation:** 시점
+
 ## Famous Authors
 
 | English | Nationality |
@@ -77,6 +219,44 @@ English vocabulary for literary genres, devices, famous authors and works, and l
 | Tolstoy | 러시아 |
 | Kafka | 체코 |
 | Goethe | 독일 |
+
+
+
+### Shakespeare
+
+**Translation:** 영국
+
+### Dickens
+
+**Translation:** 영국
+
+### Austen
+
+**Translation:** 영국
+
+### Hemingway
+
+**Translation:** 미국
+
+### Faulkner
+
+**Translation:** 미국
+
+### Poe
+
+**Translation:** 미국
+
+### Tolstoy
+
+**Translation:** 러시아
+
+### Kafka
+
+**Translation:** 체코
+
+### Goethe
+
+**Translation:** 독일
 
 ## Famous Works
 
@@ -93,6 +273,52 @@ English vocabulary for literary genres, devices, famous authors and works, and l
 | Crime and Punishment | 도스토옙스키 |
 | The Metamorphosis | 카프카 |
 | Faust | 괴테 |
+
+
+
+### Romeo and Juliet
+
+**Translation:** 셰익스피어
+
+### Hamlet
+
+**Translation:** 셰익스피어
+
+### Pride and Prejudice
+
+**Translation:** 오스틴
+
+### Oliver Twist
+
+**Translation:** 디킨스
+
+### The Great Gatsby
+
+**Translation:** 피츠제럴드
+
+### Moby-Dick
+
+**Translation:** 멜빌
+
+### The Old Man and the Sea
+
+**Translation:** 헤밍웨이
+
+### War and Peace
+
+**Translation:** 톨스토이
+
+### Crime and Punishment
+
+**Translation:** 도스토옙스키
+
+### The Metamorphosis
+
+**Translation:** 카프카
+
+### Faust
+
+**Translation:** 괴테
 
 ## Essential Phrases
 
@@ -130,25 +356,63 @@ English vocabulary for literary genres, devices, famous authors and works, and l
 
 ## Pipeline Form (machine-readable)
 
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
+
 ```yaml
-- { id: en_lit_001, display: "novel", input: "novel", meaning: "소설", level: "A2", category: "literature", source: "[[literature-passages]]" }
-- { id: en_lit_002, display: "short story", input: "short story", meaning: "단편소설", level: "A2", category: "literature", source: "[[literature-passages]]" }
-- { id: en_lit_003, display: "poetry", input: "poetry", meaning: "시", level: "A2", category: "literature", source: "[[literature-passages]]" }
-- { id: en_lit_004, display: "drama", input: "drama", meaning: "희곡", level: "A2", category: "literature", source: "[[literature-passages]]" }
-- { id: en_lit_005, display: "essay", input: "essay", meaning: "수필/에세이", level: "A2", category: "literature", source: "[[literature-passages]]" }
-- { id: en_lit_006, display: "biography", input: "biography", meaning: "전기", level: "B1", category: "literature", source: "[[literature-passages]]" }
-- { id: en_lit_007, display: "fantasy", input: "fantasy", meaning: "판타지", level: "B1", category: "literature", source: "[[literature-passages]]" }
-- { id: en_lit_008, display: "science fiction", input: "science fiction", meaning: "공상과학", level: "B1", category: "literature", source: "[[literature-passages]]" }
-- { id: en_lit_009, display: "mystery", input: "mystery", meaning: "미스터리", level: "B1", category: "literature", source: "[[literature-passages]]" }
-- { id: en_lit_010, display: "romance", input: "romance", meaning: "로맨스", level: "B1", category: "literature", source: "[[literature-passages]]" }
-- { id: en_lit_011, display: "horror", input: "horror", meaning: "호러", level: "B1", category: "literature", source: "[[literature-passages]]" }
-- { id: en_lit_012, display: "metaphor", input: "metaphor", meaning: "은유/직유", level: "B2", category: "literature", source: "[[literature-passages]]" }
-- { id: en_lit_013, display: "simile", input: "simile", meaning: "직유법", level: "B2", category: "literature", source: "[[literature-passages]]" }
-- { id: en_lit_014, display: "irony", input: "irony", meaning: "반어법", level: "B2", category: "literature", source: "[[literature-passages]]" }
-- { id: en_lit_015, display: "symbolism", input: "symbolism", meaning: "상징주의", level: "B2", category: "literature", source: "[[literature-passages]]" }
-- { id: en_lit_016, display: "author", input: "author", meaning: "작가", level: "A1", category: "literature", source: "[[literature-passages]]" }
-- { id: en_lit_017, display: "protagonist", input: "protagonist", meaning: "주인공", level: "B1", category: "literature", source: "[[literature-passages]]" }
-- { id: en_lit_018, display: "antagonist", input: "antagonist", meaning: "악역", level: "B2", category: "literature", source: "[[literature-passages]]" }
-- { id: en_lit_019, display: "narrator", input: "narrator", meaning: "화자/서술자", level: "B1", category: "literature", source: "[[literature-passages]]" }
-- { id: en_lit_020, display: "plot", input: "plot", meaning: "줄거리", level: "B1", category: "literature", source: "[[literature-passages]]" }
+- { id: 'en_literature_001', display: 'Novel', input: 'Novel', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_002', display: 'Short story', input: 'Short story', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_003', display: 'Poetry', input: 'Poetry', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_004', display: 'Drama', input: 'Drama', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_005', display: 'Essay', input: 'Essay', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_006', display: 'Biography', input: 'Biography', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_007', display: 'Autobiography', input: 'Autobiography', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_008', display: 'Fantasy', input: 'Fantasy', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_009', display: 'Science fiction', input: 'Science fiction', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_010', display: 'Mystery', input: 'Mystery', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_011', display: 'Romance', input: 'Romance', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_012', display: 'Horror', input: 'Horror', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_013', display: 'Metaphor', input: 'Metaphor', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_014', display: 'Simile', input: 'Simile', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_015', display: 'Personification', input: 'Personification', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_016', display: 'Hyperbole', input: 'Hyperbole', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_017', display: 'Irony', input: 'Irony', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_018', display: 'Symbolism', input: 'Symbolism', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_019', display: 'Foreshadowing', input: 'Foreshadowing', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_020', display: 'Imagery', input: 'Imagery', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_021', display: 'Allegory', input: 'Allegory', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_022', display: 'Oxymoron', input: 'Oxymoron', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_023', display: 'Author', input: 'Author', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_024', display: 'Protagonist', input: 'Protagonist', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_025', display: 'Antagonist', input: 'Antagonist', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_026', display: 'Narrator', input: 'Narrator', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_027', display: 'Setting', input: 'Setting', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_028', display: 'Plot', input: 'Plot', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_029', display: 'Conflict', input: 'Conflict', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_030', display: 'Climax', input: 'Climax', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_031', display: 'Resolution', input: 'Resolution', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_032', display: 'Theme', input: 'Theme', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_033', display: 'Symbol', input: 'Symbol', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_034', display: 'Point of view', input: 'Point of view', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_035', display: 'Shakespeare', input: 'Shakespeare', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_036', display: 'Dickens', input: 'Dickens', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_037', display: 'Austen', input: 'Austen', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_038', display: 'Hemingway', input: 'Hemingway', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_039', display: 'Faulkner', input: 'Faulkner', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_040', display: 'Poe', input: 'Poe', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_041', display: 'Tolstoy', input: 'Tolstoy', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_042', display: 'Kafka', input: 'Kafka', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_043', display: 'Goethe', input: 'Goethe', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_044', display: 'Romeo and Juliet', input: 'Romeo and Juliet', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_045', display: 'Hamlet', input: 'Hamlet', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_046', display: 'Pride and Prejudice', input: 'Pride and Prejudice', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_047', display: 'Oliver Twist', input: 'Oliver Twist', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_048', display: 'The Great Gatsby', input: 'The Great Gatsby', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_049', display: 'Moby-Dick', input: 'Moby-Dick', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_050', display: 'The Old Man and the Sea', input: 'The Old Man and the Sea', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_051', display: 'War and Peace', input: 'War and Peace', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_052', display: 'Crime and Punishment', input: 'Crime and Punishment', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_053', display: 'The Metamorphosis', input: 'The Metamorphosis', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
+- { id: 'en_literature_054', display: 'Faust', input: 'Faust', meaning: '', level: 'B1-B2', category: 'literature', source: '[[literature-passages]]' }
 ```

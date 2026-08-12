@@ -10,6 +10,9 @@ language_level: "TOPIK 1-2"
 **Theme:** 음식·식사
 **Level:** TOPIK 1-2
 
+
+## Summary
+
 한국어 음식/식사 어휘: 기본 음식, 음료, 식사, 한국 음식, 요리 동사.
 
 ## Vocabulary Extracted

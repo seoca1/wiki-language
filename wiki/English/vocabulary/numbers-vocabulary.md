@@ -297,14 +297,14 @@ English numbers 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: en_numbers_001, display: "one", input: "one", meaning: "1", level: "A1", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: en_numbers_002, display: "two", input: "two", meaning: "2", level: "A1", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: en_numbers_003, display: "three", input: "three", meaning: "3", level: "A1", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: en_numbers_004, display: "four", input: "four", meaning: "4", level: "A1", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: en_numbers_005, display: "five", input: "five", meaning: "5", level: "A1", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: en_numbers_006, display: "six", input: "six", meaning: "6", level: "A1", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: en_numbers_007, display: "seven", input: "seven", meaning: "7", level: "A1", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: en_numbers_008, display: "eight", input: "eight", meaning: "8", level: "A1", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: en_numbers_009, display: "nine", input: "nine", meaning: "9", level: "A1", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: en_numbers_010, display: "ten", input: "ten", meaning: "10", level: "A1", category: "numbers", source: "[[numbers-vocabulary]]" }
+- { id: 'en_numbers_001', display: 'one', input: 'one', meaning: '1', level: 'A1', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'en_numbers_002', display: 'two', input: 'two', meaning: '2', level: 'A1', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'en_numbers_003', display: 'three', input: 'three', meaning: '3', level: 'A1', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'en_numbers_004', display: 'four', input: 'four', meaning: '4', level: 'A1', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'en_numbers_005', display: 'five', input: 'five', meaning: '5', level: 'A1', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'en_numbers_006', display: 'six', input: 'six', meaning: '6', level: 'A1', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'en_numbers_007', display: 'seven', input: 'seven', meaning: '7', level: 'A1', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'en_numbers_008', display: 'eight', input: 'eight', meaning: '8', level: 'A1', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'en_numbers_009', display: 'nine', input: 'nine', meaning: '9', level: 'A1', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'en_numbers_010', display: 'ten', input: 'ten', meaning: '10', level: 'A1', category: 'numbers', source: '[[numbers-vocabulary]]' }
 ```

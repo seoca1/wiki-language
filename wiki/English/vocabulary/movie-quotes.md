@@ -145,25 +145,14 @@ Iconic lines from famous movies. Useful for cultural understanding, conversation
 
 ## Pipeline Form (machine-readable)
 
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
+
 ```yaml
-- { id: en_movie_001, display: "action", input: "action", meaning: "액션", level: "A1", category: "entertainment", source: "[[movie-quotes]]" }
-- { id: en_movie_002, display: "comedy", input: "comedy", meaning: "코미디", level: "A1", category: "entertainment", source: "[[movie-quotes]]" }
-- { id: en_movie_003, display: "drama", input: "drama", meaning: "드라마", level: "A1", category: "entertainment", source: "[[movie-quotes]]" }
-- { id: en_movie_004, display: "horror", input: "horror", meaning: "호러", level: "A2", category: "entertainment", source: "[[movie-quotes]]" }
-- { id: en_movie_005, display: "romance", input: "romance", meaning: "로맨스", level: "A2", category: "entertainment", source: "[[movie-quotes]]" }
-- { id: en_movie_006, display: "sci-fi", input: "sci-fi", meaning: "공상과학", level: "A2", category: "entertainment", source: "[[movie-quotes]]" }
-- { id: en_movie_007, display: "fantasy", input: "fantasy", meaning: "판타지", level: "A2", category: "entertainment", source: "[[movie-quotes]]" }
-- { id: en_movie_008, display: "thriller", input: "thriller", meaning: "스릴러", level: "A2", category: "entertainment", source: "[[movie-quotes]]" }
-- { id: en_movie_009, display: "animation", input: "animation", meaning: "애니메이션", level: "A2", category: "entertainment", source: "[[movie-quotes]]" }
-- { id: en_movie_010, display: "documentary", input: "documentary", meaning: "다큐멘터리", level: "A2", category: "entertainment", source: "[[movie-quotes]]" }
-- { id: en_movie_011, display: "star wars", input: "star wars", meaning: "별의 전쟁", level: "A2", category: "entertainment", source: "[[movie-quotes]]" }
-- { id: en_movie_012, display: "force", input: "force", meaning: "힘", level: "B1", category: "entertainment", source: "[[movie-quotes]]" }
-- { id: en_movie_013, display: "truth", input: "truth", meaning: "진실", level: "A2", category: "entertainment", source: "[[movie-quotes]]" }
-- { id: en_movie_014, display: "problem", input: "problem", meaning: "문제", level: "A1", category: "entertainment", source: "[[movie-quotes]]" }
-- { id: en_movie_015, display: "handle", input: "handle", meaning: "다루다/감당하다", level: "B1", category: "entertainment", source: "[[movie-quotes]]" }
-- { id: en_movie_016, display: "kid", input: "kid", meaning: "아이", level: "A1", category: "entertainment", source: "[[movie-quotes]]" }
-- { id: en_movie_017, display: "looking at", input: "looking at", meaning: "바라보다", level: "A1", category: "entertainment", source: "[[movie-quotes]]" }
-- { id: en_movie_018, display: "I'll be back", input: "I'll be back", meaning: "다시 돌아오겠다", level: "B1", category: "entertainment", source: "[[movie-quotes]]" }
-- { id: en_movie_019, display: "time is running out", input: "time is running out", meaning: "시간이 얼마 안 남았다", level: "B2", category: "entertainment", source: "[[movie-quotes]]" }
-- { id: en_movie_020, display: "I knew it", input: "I knew it", meaning: "역시!", level: "A2", category: "entertainment", source: "[[movie-quotes]]" }
+- { id: 'en_entertainment_001', display: '"May the Force be with you."', input: '"May the Force be with you."', meaning: '', level: 'B1-C1', category: 'entertainment', source: '[[movie-quotes]]' }
+- { id: 'en_entertainment_002', display: '"I''ll be back."', input: '"I''ll be back."', meaning: '', level: 'B1-C1', category: 'entertainment', source: '[[movie-quotes]]' }
+- { id: 'en_entertainment_003', display: '"Here''s looking at you, kid."', input: '"Here''s looking at you, kid."', meaning: '', level: 'B1-C1', category: 'entertainment', source: '[[movie-quotes]]' }
+- { id: 'en_entertainment_004', display: '"You can''t handle the truth!"', input: '"You can''t handle the truth!"', meaning: '', level: 'B1-C1', category: 'entertainment', source: '[[movie-quotes]]' }
+- { id: 'en_entertainment_005', display: '"Houston, we have a problem."', input: '"Houston, we have a problem."', meaning: '', level: 'B1-C1', category: 'entertainment', source: '[[movie-quotes]]' }
 ```

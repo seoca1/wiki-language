@@ -297,14 +297,14 @@ English directions 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: en_directions_001, display: "left", input: "left", meaning: "왼쪽", level: "A1", category: "directions", source: "[[directions-vocabulary]]" }
-- { id: en_directions_002, display: "right", input: "right", meaning: "오른쪽", level: "A1", category: "directions", source: "[[directions-vocabulary]]" }
-- { id: en_directions_003, display: "straight", input: "straight", meaning: "직진", level: "A1", category: "directions", source: "[[directions-vocabulary]]" }
-- { id: en_directions_004, display: "up", input: "up", meaning: "위", level: "A1", category: "directions", source: "[[directions-vocabulary]]" }
-- { id: en_directions_005, display: "down", input: "down", meaning: "아래", level: "A1", category: "directions", source: "[[directions-vocabulary]]" }
-- { id: en_directions_006, display: "here", input: "here", meaning: "여기", level: "A1", category: "directions", source: "[[directions-vocabulary]]" }
-- { id: en_directions_007, display: "there", input: "there", meaning: "저기", level: "A1", category: "directions", source: "[[directions-vocabulary]]" }
-- { id: en_directions_008, display: "near", input: "near", meaning: "가까이", level: "A2", category: "directions", source: "[[directions-vocabulary]]" }
-- { id: en_directions_009, display: "far", input: "far", meaning: "멀리", level: "A2", category: "directions", source: "[[directions-vocabulary]]" }
-- { id: en_directions_010, display: "between", input: "between", meaning: "사이에", level: "A2", category: "directions", source: "[[directions-vocabulary]]" }
+- { id: 'en_directions_001', display: 'left', input: 'left', meaning: '왼쪽', level: 'A1', category: 'directions', source: '[[directions-vocabulary]]' }
+- { id: 'en_directions_002', display: 'right', input: 'right', meaning: '오른쪽', level: 'A1', category: 'directions', source: '[[directions-vocabulary]]' }
+- { id: 'en_directions_003', display: 'straight', input: 'straight', meaning: '직진', level: 'A1', category: 'directions', source: '[[directions-vocabulary]]' }
+- { id: 'en_directions_004', display: 'up', input: 'up', meaning: '위', level: 'A1', category: 'directions', source: '[[directions-vocabulary]]' }
+- { id: 'en_directions_005', display: 'down', input: 'down', meaning: '아래', level: 'A1', category: 'directions', source: '[[directions-vocabulary]]' }
+- { id: 'en_directions_006', display: 'here', input: 'here', meaning: '여기', level: 'A1', category: 'directions', source: '[[directions-vocabulary]]' }
+- { id: 'en_directions_007', display: 'there', input: 'there', meaning: '저기', level: 'A1', category: 'directions', source: '[[directions-vocabulary]]' }
+- { id: 'en_directions_008', display: 'near', input: 'near', meaning: '가까이', level: 'A2', category: 'directions', source: '[[directions-vocabulary]]' }
+- { id: 'en_directions_009', display: 'far', input: 'far', meaning: '멀리', level: 'A2', category: 'directions', source: '[[directions-vocabulary]]' }
+- { id: 'en_directions_010', display: 'between', input: 'between', meaning: '사이에', level: 'A2', category: 'directions', source: '[[directions-vocabulary]]' }
 ```

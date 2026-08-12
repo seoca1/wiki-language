@@ -434,23 +434,23 @@ theme: "adventure"
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: jp_adventure_001, display: "山 (yama)", input: "山 (yama)", meaning: "산", level: "N4-N3", category: "adventure", source: "[[adventure-vocabulary]]" }
-- { id: jp_adventure_002, display: "森 (mori)", input: "森 (mori)", meaning: "숲", level: "N4-N3", category: "adventure", source: "[[adventure-vocabulary]]" }
-- { id: jp_adventure_003, display: "川 (kawa)", input: "川 (kawa)", meaning: "강", level: "N4-N3", category: "adventure", source: "[[adventure-vocabulary]]" }
-- { id: jp_adventure_004, display: "湖 (mizuumi)", input: "湖 (mizuumi)", meaning: "호수", level: "N4-N3", category: "adventure", source: "[[adventure-vocabulary]]" }
-- { id: jp_adventure_005, display: "海 (umi)", input: "海 (umi)", meaning: "바다", level: "N4-N3", category: "adventure", source: "[[adventure-vocabulary]]" }
-- { id: jp_adventure_006, display: "テント (tento)", input: "テント (tento)", meaning: "텐트", level: "N4-N3", category: "adventure", source: "[[adventure-vocabulary]]" }
-- { id: jp_adventure_007, display: "寝袋 (nebukuro)", input: "寝袋 (nebukuro)", meaning: "침낭", level: "N4-N3", category: "adventure", source: "[[adventure-vocabulary]]" }
-- { id: jp_adventure_008, display: "リュック (ryukku)", input: "リュック (ryukku)", meaning: "백팩 / 배낭", level: "N4-N3", category: "adventure", source: "[[adventure-vocabulary]]" }
-- { id: jp_adventure_009, display: "コンパス (konpasu)", input: "コンパス (konpasu)", meaning: "나침반", level: "N4-N3", category: "adventure", source: "[[adventure-vocabulary]]" }
-- { id: jp_adventure_010, display: "地図 (chizu)", input: "地図 (chizu)", meaning: "지도", level: "N4-N3", category: "adventure", source: "[[adventure-vocabulary]]" }
-- { id: jp_adventure_011, display: "天気 (tenki)", input: "天気 (tenki)", meaning: "날씨", level: "N4-N3", category: "adventure", source: "[[adventure-vocabulary]]" }
-- { id: jp_adventure_012, display: "嵐 (arashi)", input: "嵐 (arashi)", meaning: "폭풍", level: "N4-N3", category: "adventure", source: "[[adventure-vocabulary]]" }
-- { id: jp_adventure_013, display: "登山道 (tozandō)", input: "登山道 (tozandō)", meaning: "등산로", level: "N4-N3", category: "adventure", source: "[[adventure-vocabulary]]" }
-- { id: jp_adventure_014, display: "緊急 (kinkyū)", input: "緊急 (kinkyū)", meaning: "긴급", level: "N4-N3", category: "adventure", source: "[[adventure-vocabulary]]" }
-- { id: jp_adventure_015, display: "怪我 (kega)", input: "怪我 (kega)", meaning: "부상", level: "N4-N3", category: "adventure", source: "[[adventure-vocabulary]]" }
-- { id: jp_adventure_016, display: "道に迷う (michi ni mayou)", input: "道に迷う (michi ni mayou)", meaning: "길을 잃다", level: "N4-N3", category: "adventure", source: "[[adventure-vocabulary]]" }
-- { id: jp_adventure_017, display: "救助 (kyūjo)", input: "救助 (kyūjo)", meaning: "구조 / 구조하다", level: "N4-N3", category: "adventure", source: "[[adventure-vocabulary]]" }
-- { id: jp_adventure_018, display: "山小屋 (yamagoya)", input: "山小屋 (yamagoya)", meaning: "산小屋 (등산로 중간 작은 숙박)", level: "N4-N3", category: "adventure", source: "[[adventure-vocabulary]]" }
-- { id: jp_adventure_019, display: "頂上 (chōjō)", input: "頂上 (chōjō)", meaning: "정상 (산)", level: "N4-N3", category: "adventure", source: "[[adventure-vocabulary]]" }
+- { id: 'jp_adventure_001', display: '山 (yama)', input: '山 (yama)', meaning: '산', level: 'N4-N3', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'jp_adventure_002', display: '森 (mori)', input: '森 (mori)', meaning: '숲', level: 'N4-N3', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'jp_adventure_003', display: '川 (kawa)', input: '川 (kawa)', meaning: '강', level: 'N4-N3', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'jp_adventure_004', display: '湖 (mizuumi)', input: '湖 (mizuumi)', meaning: '호수', level: 'N4-N3', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'jp_adventure_005', display: '海 (umi)', input: '海 (umi)', meaning: '바다', level: 'N4-N3', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'jp_adventure_006', display: 'テント (tento)', input: 'テント (tento)', meaning: '텐트', level: 'N4-N3', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'jp_adventure_007', display: '寝袋 (nebukuro)', input: '寝袋 (nebukuro)', meaning: '침낭', level: 'N4-N3', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'jp_adventure_008', display: 'リュック (ryukku)', input: 'リュック (ryukku)', meaning: '백팩 / 배낭', level: 'N4-N3', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'jp_adventure_009', display: 'コンパス (konpasu)', input: 'コンパス (konpasu)', meaning: '나침반', level: 'N4-N3', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'jp_adventure_010', display: '地図 (chizu)', input: '地図 (chizu)', meaning: '지도', level: 'N4-N3', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'jp_adventure_011', display: '天気 (tenki)', input: '天気 (tenki)', meaning: '날씨', level: 'N4-N3', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'jp_adventure_012', display: '嵐 (arashi)', input: '嵐 (arashi)', meaning: '폭풍', level: 'N4-N3', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'jp_adventure_013', display: '登山道 (tozandō)', input: '登山道 (tozandō)', meaning: '등산로', level: 'N4-N3', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'jp_adventure_014', display: '緊急 (kinkyū)', input: '緊急 (kinkyū)', meaning: '긴급', level: 'N4-N3', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'jp_adventure_015', display: '怪我 (kega)', input: '怪我 (kega)', meaning: '부상', level: 'N4-N3', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'jp_adventure_016', display: '道に迷う (michi ni mayou)', input: '道に迷う (michi ni mayou)', meaning: '길을 잃다', level: 'N4-N3', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'jp_adventure_017', display: '救助 (kyūjo)', input: '救助 (kyūjo)', meaning: '구조 / 구조하다', level: 'N4-N3', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'jp_adventure_018', display: '山小屋 (yamagoya)', input: '山小屋 (yamagoya)', meaning: '산小屋 (등산로 중간 작은 숙박)', level: 'N4-N3', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'jp_adventure_019', display: '頂上 (chōjō)', input: '頂上 (chōjō)', meaning: '정상 (산)', level: 'N4-N3', category: 'adventure', source: '[[adventure-vocabulary]]' }
 ```

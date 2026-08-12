@@ -531,26 +531,30 @@ theme: "adjectives"
 
 > Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: zh_adj_001, display: "大 (dà)", input: "da4", meaning: "크다", level: "HSK 1", category: "adjectives-zh", source: "[[zh-adjectives-vocabulary]]" }
-- { id: zh_adj_002, display: "小 (xiǎo)", input: "xiao3", meaning: "작다", level: "HSK 1", category: "adjectives-zh", source: "[[zh-adjectives-vocabulary]]" }
-- { id: zh_adj_003, display: "高 (gāo)", input: "gao1", meaning: "높다/크다(키)", level: "HSK 1", category: "adjectives-zh", source: "[[zh-adjectives-vocabulary]]" }
-- { id: zh_adj_004, display: "矮 (ǎi)", input: "ai3", meaning: "낮다(키)", level: "HSK 2", category: "adjectives-zh", source: "[[zh-adjectives-vocabulary]]" }
-- { id: zh_adj_005, display: "新 (xīn)", input: "xin1", meaning: "새롭다", level: "HSK 1", category: "adjectives-zh", source: "[[zh-adjectives-vocabulary]]" }
-- { id: zh_adj_006, display: "旧 (jiù)", input: "jiu4", meaning: "낡다", level: "HSK 2", category: "adjectives-zh", source: "[[zh-adjectives-vocabulary]]" }
-- { id: zh_adj_007, display: "好 (hǎo)", input: "hao3", meaning: "좋다", level: "HSK 1", category: "adjectives-zh", source: "[[zh-adjectives-vocabulary]]" }
-- { id: zh_adj_008, display: "坏 (huài)", input: "huai4", meaning: "나쁘다/고장난", level: "HSK 2", category: "adjectives-zh", source: "[[zh-adjectives-vocabulary]]" }
-- { id: zh_adj_009, display: "快 (kuài)", input: "kuai4", meaning: "빠르다", level: "HSK 1", category: "adjectives-zh", source: "[[zh-adjectives-vocabulary]]" }
-- { id: zh_adj_010, display: "慢 (màn)", input: "man4", meaning: "느리다", level: "HSK 1", category: "adjectives-zh", source: "[[zh-adjectives-vocabulary]]" }
-- { id: zh_adj_011, display: "多 (duō)", input: "duo1", meaning: "많다", level: "HSK 1", category: "adjectives-zh", source: "[[zh-adjectives-vocabulary]]" }
-- { id: zh_adj_012, display: "少 (shǎo)", input: "shao3", meaning: "적다", level: "HSK 1", category: "adjectives-zh", source: "[[zh-adjectives-vocabulary]]" }
-- { id: zh_adj_013, display: "漂亮 (piàoliang)", input: "piao4 liang", meaning: "예쁘다", level: "HSK 2", category: "adjectives-zh", source: "[[zh-adjectives-vocabulary]]" }
-- { id: zh_adj_014, display: "帅 (shuài)", input: "shuai4", meaning: "멋있다(남자)", level: "HSK 2", category: "adjectives-zh", source: "[[zh-adjectives-vocabulary]]" }
-- { id: zh_adj_015, display: "热 (rè)", input: "re4", meaning: "덥다", level: "HSK 2", category: "adjectives-zh", source: "[[zh-adjectives-vocabulary]]" }
-- { id: zh_adj_016, display: "冷 (lěng)", input: "leng3", meaning: "춥다/차다", level: "HSK 2", category: "adjectives-zh", source: "[[zh-adjectives-vocabulary]]" }
-- { id: zh_adj_017, display: "干净 (gānjìng)", input: "gan1 jing4", meaning: "깨끗하다", level: "HSK 3", category: "adjectives-zh", source: "[[zh-adjectives-vocabulary]]" }
-- { id: zh_adj_018, display: "脏 (zāng)", input: "zang1", meaning: "더럽다", level: "HSK 3", category: "adjectives-zh", source: "[[zh-adjectives-vocabulary]]" }
-- { id: zh_adj_019, display: "容易 (róngyì)", input: "rong2 yi4", meaning: "쉽다", level: "HSK 2", category: "adjectives-zh", source: "[[zh-adjectives-vocabulary]]" }
-- { id: zh_adj_020, display: "难 (nán)", input: "nan2", meaning: "어렵다", level: "HSK 3", category: "adjectives-zh", source: "[[zh-adjectives-vocabulary]]" }
+- { id: 'zh_adjectives_001', display: '大 (dà)', input: '大 (dà)', meaning: '크다', level: 'HSK 1', category: 'adjectives-zh', source: '[[zh-adjectives-vocabulary]]' }
+- { id: 'zh_adjectives_002', display: '小 (xiǎo)', input: '小 (xiǎo)', meaning: '작다', level: 'HSK 1', category: 'adjectives-zh', source: '[[zh-adjectives-vocabulary]]' }
+- { id: 'zh_adjectives_003', display: '高 (gāo)', input: '高 (gāo)', meaning: '높다/크다(키)', level: 'HSK 1', category: 'adjectives-zh', source: '[[zh-adjectives-vocabulary]]' }
+- { id: 'zh_adjectives_004', display: '矮 (ǎi)', input: '矮 (ǎi)', meaning: '낮다(키)', level: 'HSK 2', category: 'adjectives-zh', source: '[[zh-adjectives-vocabulary]]' }
+- { id: 'zh_adjectives_005', display: '新 (xīn)', input: '新 (xīn)', meaning: '새롭다', level: 'HSK 1', category: 'adjectives-zh', source: '[[zh-adjectives-vocabulary]]' }
+- { id: 'zh_adjectives_006', display: '旧 (jiù)', input: '旧 (jiù)', meaning: '낡다', level: 'HSK 2', category: 'adjectives-zh', source: '[[zh-adjectives-vocabulary]]' }
+- { id: 'zh_adjectives_007', display: '好 (hǎo)', input: '好 (hǎo)', meaning: '좋다', level: 'HSK 1', category: 'adjectives-zh', source: '[[zh-adjectives-vocabulary]]' }
+- { id: 'zh_adjectives_008', display: '坏 (huài)', input: '坏 (huài)', meaning: '나쁘다/고장난', level: 'HSK 2', category: 'adjectives-zh', source: '[[zh-adjectives-vocabulary]]' }
+- { id: 'zh_adjectives_009', display: '快 (kuài)', input: '快 (kuài)', meaning: '빠르다', level: 'HSK 1', category: 'adjectives-zh', source: '[[zh-adjectives-vocabulary]]' }
+- { id: 'zh_adjectives_010', display: '慢 (màn)', input: '慢 (màn)', meaning: '느리다', level: 'HSK 1', category: 'adjectives-zh', source: '[[zh-adjectives-vocabulary]]' }
+- { id: 'zh_adjectives_011', display: '多 (duō)', input: '多 (duō)', meaning: '많다', level: 'HSK 1', category: 'adjectives-zh', source: '[[zh-adjectives-vocabulary]]' }
+- { id: 'zh_adjectives_012', display: '少 (shǎo)', input: '少 (shǎo)', meaning: '적다', level: 'HSK 1', category: 'adjectives-zh', source: '[[zh-adjectives-vocabulary]]' }
+- { id: 'zh_adjectives_013', display: '漂亮 (piàoliang)', input: '漂亮 (piàoliang)', meaning: '예쁘다', level: 'HSK 2', category: 'adjectives-zh', source: '[[zh-adjectives-vocabulary]]' }
+- { id: 'zh_adjectives_014', display: '帅 (shuài)', input: '帅 (shuài)', meaning: '멋있다(남자)', level: 'HSK 2', category: 'adjectives-zh', source: '[[zh-adjectives-vocabulary]]' }
+- { id: 'zh_adjectives_015', display: '热 (rè)', input: '热 (rè)', meaning: '덥다', level: 'HSK 2', category: 'adjectives-zh', source: '[[zh-adjectives-vocabulary]]' }
+- { id: 'zh_adjectives_016', display: '冷 (lěng)', input: '冷 (lěng)', meaning: '춥다/차다', level: 'HSK 2', category: 'adjectives-zh', source: '[[zh-adjectives-vocabulary]]' }
+- { id: 'zh_adjectives_017', display: '干净 (gānjìng)', input: '干净 (gānjìng)', meaning: '깨끗하다', level: 'HSK 3', category: 'adjectives-zh', source: '[[zh-adjectives-vocabulary]]' }
+- { id: 'zh_adjectives_018', display: '脏 (zāng)', input: '脏 (zāng)', meaning: '더럽다', level: 'HSK 3', category: 'adjectives-zh', source: '[[zh-adjectives-vocabulary]]' }
+- { id: 'zh_adjectives_019', display: '容易 (róngyì)', input: '容易 (róngyì)', meaning: '쉽다', level: 'HSK 2', category: 'adjectives-zh', source: '[[zh-adjectives-vocabulary]]' }
+- { id: 'zh_adjectives_020', display: '难 (nán)', input: '难 (nán)', meaning: '어렵다', level: 'HSK 3', category: 'adjectives-zh', source: '[[zh-adjectives-vocabulary]]' }
+- { id: 'zh_adjectives_021', display: '1. 形容词 술어화 (Predicate Use) — 很 필수', input: '1. 形容词 술어화 (Predicate Use) — 很 필수', meaning: '', level: 'HSK 1-3', category: 'adjectives', source: '[[zh-adjectives-vocabulary]]' }
+- { id: 'zh_adjectives_022', display: '2. 比较급 (Comparison) — 比/更', input: '2. 比较급 (Comparison) — 比/更', meaning: '', level: 'HSK 1-3', category: 'adjectives', source: '[[zh-adjectives-vocabulary]]' }
+- { id: 'zh_adjectives_023', display: '3. 한국 한자음 ≠ 중국 병음 (Top Confusions)', input: '3. 한국 한자음 ≠ 중국 병음 (Top Confusions)', meaning: '', level: 'HSK 1-3', category: 'adjectives', source: '[[zh-adjectives-vocabulary]]' }
 ```

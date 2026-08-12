@@ -512,25 +512,30 @@ theme: "restaurant"
 
 > Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: zh_rest_001, display: "餐厅 (cāntīng)", input: "can1 ting1", meaning: "식당", level: "HSK 3", category: "restaurant-zh", source: "[[zh-restaurant-vocabulary]]" }
-- { id: zh_rest_002, display: "饭店 (fàndiàn)", input: "fan4 dian4", meaning: "식당/호텔 (지역별)", level: "HSK 3", category: "restaurant-zh", source: "[[zh-restaurant-vocabulary]]" }
-- { id: zh_rest_003, display: "菜单 (càidān)", input: "cai4 dan1", meaning: "메뉴", level: "HSK 3", category: "restaurant-zh", source: "[[zh-restaurant-vocabulary]]" }
-- { id: zh_rest_004, display: "点菜 (diǎn cài)", input: "dian3 cai4", meaning: "주문하다", level: "HSK 3", category: "restaurant-zh", source: "[[zh-restaurant-vocabulary]]" }
-- { id: zh_rest_005, display: "推荐 (tuījiàn)", input: "tui1 jian4", meaning: "추천하다", level: "HSK 3", category: "restaurant-zh", source: "[[zh-restaurant-vocabulary]]" }
-- { id: zh_rest_006, display: "菜 (cài)", input: "cai4", meaning: "요리/채소", level: "HSK 1", category: "restaurant-zh", source: "[[zh-restaurant-vocabulary]]" }
-- { id: zh_rest_007, display: "米饭 (mǐfàn)", input: "mi3 fan4", meaning: "밥 (흰쌀밥)", level: "HSK 1", category: "restaurant-zh", source: "[[zh-restaurant-vocabulary]]" }
-- { id: zh_rest_008, display: "面条 (miàntiáo)", input: "mian4 tiao2", meaning: "국수", level: "HSK 3", category: "restaurant-zh", source: "[[zh-restaurant-vocabulary]]" }
-- { id: zh_rest_009, display: "茶 (chá)", input: "cha2", meaning: "차", level: "HSK 1", category: "restaurant-zh", source: "[[zh-restaurant-vocabulary]]" }
-- { id: zh_rest_010, display: "结账 (jiézhàng)", input: "jie2 zhang4", meaning: "계산하다", level: "HSK 4", category: "restaurant-zh", source: "[[zh-restaurant-vocabulary]]" }
-- { id: zh_rest_011, display: "买单 (mǎidān)", input: "mai3 dan1", meaning: "계산하다 (캐주얼)", level: "HSK 3", category: "restaurant-zh", source: "[[zh-restaurant-vocabulary]]" }
-- { id: zh_rest_012, display: "AA制 (AA zhì)", input: "AA zhi4", meaning: "각자 내기", level: "HSK 4", category: "restaurant-zh", source: "[[zh-restaurant-vocabulary]]" }
-- { id: zh_rest_013, display: "预订 (yùdìng)", input: "yu4 ding4", meaning: "예약하다", level: "HSK 4", category: "restaurant-zh", source: "[[zh-restaurant-vocabulary]]" }
-- { id: zh_rest_014, display: "打包 (dǎbāo)", input: "da3 bao1", meaning: "포장하다", level: "HSK 3", category: "restaurant-zh", source: "[[zh-restaurant-vocabulary]]" }
-- { id: zh_rest_015, display: "外卖 (wàimài)", input: "wai4 mai4", meaning: "배달/테이크아웃", level: "HSK 4", category: "restaurant-zh", source: "[[zh-restaurant-vocabulary]]" }
-- { id: zh_rest_016, display: "服务员 (fúwùyuán)", input: "fu2 wu4 yuan2", meaning: "직원/웨이터", level: "HSK 3", category: "restaurant-zh", source: "[[zh-restaurant-vocabulary]]" }
-- { id: zh_rest_017, display: "好吃 (hǎochī)", input: "hao3 chi1", meaning: "맛있다", level: "HSK 1", category: "restaurant-zh", source: "[[zh-restaurant-vocabulary]]" }
-- { id: zh_rest_018, display: "辣 (là)", input: "la4", meaning: "매운", level: "HSK 2", category: "restaurant-zh", source: "[[zh-restaurant-vocabulary]]" }
-- { id: zh_rest_019, display: "难吃 (nánchī)", input: "nan2 chi1", meaning: "맛없는", level: "HSK 3", category: "restaurant-zh", source: "[[zh-restaurant-vocabulary]]" }
+- { id: 'zh_restaurant_001', display: '餐厅 (cāntīng)', input: '餐厅 (cāntīng)', meaning: '식당', level: 'HSK 3', category: 'restaurant-zh', source: '[[zh-restaurant-vocabulary]]' }
+- { id: 'zh_restaurant_002', display: '饭店 (fàndiàn)', input: '饭店 (fàndiàn)', meaning: '식당/호텔 (지역별)', level: 'HSK 3', category: 'restaurant-zh', source: '[[zh-restaurant-vocabulary]]' }
+- { id: 'zh_restaurant_003', display: '菜单 (càidān)', input: '菜单 (càidān)', meaning: '메뉴', level: 'HSK 3', category: 'restaurant-zh', source: '[[zh-restaurant-vocabulary]]' }
+- { id: 'zh_restaurant_004', display: '点菜 (diǎn cài)', input: '点菜 (diǎn cài)', meaning: '주문하다', level: 'HSK 3', category: 'restaurant-zh', source: '[[zh-restaurant-vocabulary]]' }
+- { id: 'zh_restaurant_005', display: '推荐 (tuījiàn)', input: '推荐 (tuījiàn)', meaning: '추천하다', level: 'HSK 3', category: 'restaurant-zh', source: '[[zh-restaurant-vocabulary]]' }
+- { id: 'zh_restaurant_006', display: '菜 (cài)', input: '菜 (cài)', meaning: '요리/채소', level: 'HSK 1', category: 'restaurant-zh', source: '[[zh-restaurant-vocabulary]]' }
+- { id: 'zh_restaurant_007', display: '米饭 (mǐfàn)', input: '米饭 (mǐfàn)', meaning: '밥 (흰쌀밥)', level: 'HSK 1', category: 'restaurant-zh', source: '[[zh-restaurant-vocabulary]]' }
+- { id: 'zh_restaurant_008', display: '面条 (miàntiáo)', input: '面条 (miàntiáo)', meaning: '국수', level: 'HSK 3', category: 'restaurant-zh', source: '[[zh-restaurant-vocabulary]]' }
+- { id: 'zh_restaurant_009', display: '茶 (chá)', input: '茶 (chá)', meaning: '차', level: 'HSK 1', category: 'restaurant-zh', source: '[[zh-restaurant-vocabulary]]' }
+- { id: 'zh_restaurant_010', display: '结账 (jiézhàng)', input: '结账 (jiézhàng)', meaning: '계산하다', level: 'HSK 4', category: 'restaurant-zh', source: '[[zh-restaurant-vocabulary]]' }
+- { id: 'zh_restaurant_011', display: '买单 (mǎidān)', input: '买单 (mǎidān)', meaning: '계산하다 (캐주얼)', level: 'HSK 3', category: 'restaurant-zh', source: '[[zh-restaurant-vocabulary]]' }
+- { id: 'zh_restaurant_012', display: 'AA制 (AA zhì)', input: 'AA制 (AA zhì)', meaning: '각자 내기', level: 'HSK 4', category: 'restaurant-zh', source: '[[zh-restaurant-vocabulary]]' }
+- { id: 'zh_restaurant_013', display: '预订 (yùdìng)', input: '预订 (yùdìng)', meaning: '예약하다', level: 'HSK 4', category: 'restaurant-zh', source: '[[zh-restaurant-vocabulary]]' }
+- { id: 'zh_restaurant_014', display: '打包 (dǎbāo)', input: '打包 (dǎbāo)', meaning: '포장하다', level: 'HSK 3', category: 'restaurant-zh', source: '[[zh-restaurant-vocabulary]]' }
+- { id: 'zh_restaurant_015', display: '外卖 (wàimài)', input: '外卖 (wàimài)', meaning: '배달/테이크아웃', level: 'HSK 4', category: 'restaurant-zh', source: '[[zh-restaurant-vocabulary]]' }
+- { id: 'zh_restaurant_016', display: '服务员 (fúwùyuán)', input: '服务员 (fúwùyuán)', meaning: '직원/웨이터', level: 'HSK 3', category: 'restaurant-zh', source: '[[zh-restaurant-vocabulary]]' }
+- { id: 'zh_restaurant_017', display: '好吃 (hǎochī)', input: '好吃 (hǎochī)', meaning: '맛있다', level: 'HSK 1', category: 'restaurant-zh', source: '[[zh-restaurant-vocabulary]]' }
+- { id: 'zh_restaurant_018', display: '辣 (là)', input: '辣 (là)', meaning: '매운', level: 'HSK 2', category: 'restaurant-zh', source: '[[zh-restaurant-vocabulary]]' }
+- { id: 'zh_restaurant_019', display: '难吃 (nánchī)', input: '难吃 (nánchī)', meaning: '맛없는', level: 'HSK 3', category: 'restaurant-zh', source: '[[zh-restaurant-vocabulary]]' }
+- { id: 'zh_restaurant_020', display: '1. 중국 식당 문화 특이점', input: '1. 중국 식당 문화 특이점', meaning: '', level: 'HSK 2-4', category: 'restaurant', source: '[[zh-restaurant-vocabulary]]' }
+- { id: 'zh_restaurant_021', display: '2. 量词 (Measure Words) — 식당 필수', input: '2. 量词 (Measure Words) — 식당 필수', meaning: '', level: 'HSK 2-4', category: 'restaurant', source: '[[zh-restaurant-vocabulary]]' }
+- { id: 'zh_restaurant_022', display: '3. 辣 vs 热 구분', input: '3. 辣 vs 热 구분', meaning: '', level: 'HSK 2-4', category: 'restaurant', source: '[[zh-restaurant-vocabulary]]' }
+- { id: 'zh_restaurant_023', display: '4. 한국 한자음 ≠ 중국 병음 (Top Confusions)', input: '4. 한국 한자음 ≠ 중국 병음 (Top Confusions)', meaning: '', level: 'HSK 2-4', category: 'restaurant', source: '[[zh-restaurant-vocabulary]]' }
 ```

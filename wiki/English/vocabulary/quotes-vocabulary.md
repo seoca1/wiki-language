@@ -446,23 +446,23 @@ Arnold Schwarzenegger's Terminator catchphrase (1984). Became one of cinema's mo
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: en_quotes_001, display: "force", input: "force", meaning: "힘/포스", level: "B1", category: "quotes", source: "[[quotes-vocabulary]]" }
-- { id: en_quotes_002, display: "matrix", input: "matrix", meaning: "매트릭스/모판", level: "B2", category: "quotes", source: "[[quotes-vocabulary]]" }
-- { id: en_quotes_003, display: "fate", input: "fate", meaning: "운명", level: "B1", category: "quotes", source: "[[quotes-vocabulary]]" }
-- { id: en_quotes_004, display: "spoon", input: "spoon", meaning: "숟가락", level: "A2", category: "quotes", source: "[[quotes-vocabulary]]" }
-- { id: en_quotes_005, display: "power", input: "power", meaning: "힘/권한", level: "A2", category: "quotes", source: "[[quotes-vocabulary]]" }
-- { id: en_quotes_006, display: "responsibility", input: "responsibility", meaning: "책임", level: "B2", category: "quotes", source: "[[quotes-vocabulary]]" }
-- { id: en_quotes_007, display: "destiny", input: "destiny", meaning: "운명/데스티니", level: "B2", category: "quotes", source: "[[quotes-vocabulary]]" }
-- { id: en_quotes_008, display: "truth", input: "truth", meaning: "진실", level: "A2", category: "quotes", source: "[[quotes-vocabulary]]" }
-- { id: en_quotes_009, display: "enemy", input: "enemy", meaning: "적", level: "B1", category: "quotes", source: "[[quotes-vocabulary]]" }
-- { id: en_quotes_010, display: "friend", input: "friend", meaning: "친구", level: "A1", category: "quotes", source: "[[quotes-vocabulary]]" }
-- { id: en_quotes_011, display: "moment", input: "moment", meaning: "순간", level: "A2", category: "quotes", source: "[[quotes-vocabulary]]" }
-- { id: en_quotes_012, display: "memories", input: "memories", meaning: "기억", level: "A2", category: "quotes", source: "[[quotes-vocabulary]]" }
-- { id: en_quotes_013, display: "journey", input: "journey", meaning: "여행/여정", level: "B1", category: "quotes", source: "[[quotes-vocabulary]]" }
-- { id: en_quotes_014, display: "choice", input: "choice", meaning: "선택", level: "A2", category: "quotes", source: "[[quotes-vocabulary]]" }
-- { id: en_quotes_015, display: "hope", input: "hope", meaning: "희망", level: "A1", category: "quotes", source: "[[quotes-vocabulary]]" }
-- { id: en_quotes_016, display: "courage", input: "courage", meaning: "용기", level: "B1", category: "quotes", source: "[[quotes-vocabulary]]" }
-- { id: en_quotes_017, display: "freedom", input: "freedom", meaning: "자유", level: "A2", category: "quotes", source: "[[quotes-vocabulary]]" }
-- { id: en_quotes_018, display: "impossible", input: "impossible", meaning: "불가능한", level: "B1", category: "quotes", source: "[[quotes-vocabulary]]" }
-- { id: en_quotes_019, display: "comeback", input: "comeback", meaning: "컴백/복귀", level: "B2", category: "quotes", source: "[[quotes-vocabulary]]" }
+- { id: 'en_quotes_001', display: 'force', input: 'force', meaning: '힘/포스', level: 'B1', category: 'quotes', source: '[[quotes-vocabulary]]' }
+- { id: 'en_quotes_002', display: 'matrix', input: 'matrix', meaning: '매트릭스/모판', level: 'B2', category: 'quotes', source: '[[quotes-vocabulary]]' }
+- { id: 'en_quotes_003', display: 'fate', input: 'fate', meaning: '운명', level: 'B1', category: 'quotes', source: '[[quotes-vocabulary]]' }
+- { id: 'en_quotes_004', display: 'spoon', input: 'spoon', meaning: '숟가락', level: 'A2', category: 'quotes', source: '[[quotes-vocabulary]]' }
+- { id: 'en_quotes_005', display: 'power', input: 'power', meaning: '힘/권한', level: 'A2', category: 'quotes', source: '[[quotes-vocabulary]]' }
+- { id: 'en_quotes_006', display: 'responsibility', input: 'responsibility', meaning: '책임', level: 'B2', category: 'quotes', source: '[[quotes-vocabulary]]' }
+- { id: 'en_quotes_007', display: 'destiny', input: 'destiny', meaning: '운명/데스티니', level: 'B2', category: 'quotes', source: '[[quotes-vocabulary]]' }
+- { id: 'en_quotes_008', display: 'truth', input: 'truth', meaning: '진실', level: 'A2', category: 'quotes', source: '[[quotes-vocabulary]]' }
+- { id: 'en_quotes_009', display: 'enemy', input: 'enemy', meaning: '적', level: 'B1', category: 'quotes', source: '[[quotes-vocabulary]]' }
+- { id: 'en_quotes_010', display: 'friend', input: 'friend', meaning: '친구', level: 'A1', category: 'quotes', source: '[[quotes-vocabulary]]' }
+- { id: 'en_quotes_011', display: 'moment', input: 'moment', meaning: '순간', level: 'A2', category: 'quotes', source: '[[quotes-vocabulary]]' }
+- { id: 'en_quotes_012', display: 'memories', input: 'memories', meaning: '기억', level: 'A2', category: 'quotes', source: '[[quotes-vocabulary]]' }
+- { id: 'en_quotes_013', display: 'journey', input: 'journey', meaning: '여행/여정', level: 'B1', category: 'quotes', source: '[[quotes-vocabulary]]' }
+- { id: 'en_quotes_014', display: 'choice', input: 'choice', meaning: '선택', level: 'A2', category: 'quotes', source: '[[quotes-vocabulary]]' }
+- { id: 'en_quotes_015', display: 'hope', input: 'hope', meaning: '희망', level: 'A1', category: 'quotes', source: '[[quotes-vocabulary]]' }
+- { id: 'en_quotes_016', display: 'courage', input: 'courage', meaning: '용기', level: 'B1', category: 'quotes', source: '[[quotes-vocabulary]]' }
+- { id: 'en_quotes_017', display: 'freedom', input: 'freedom', meaning: '자유', level: 'A2', category: 'quotes', source: '[[quotes-vocabulary]]' }
+- { id: 'en_quotes_018', display: 'impossible', input: 'impossible', meaning: '불가능한', level: 'B1', category: 'quotes', source: '[[quotes-vocabulary]]' }
+- { id: 'en_quotes_019', display: 'comeback', input: 'comeback', meaning: '컴백/복귀', level: 'B2', category: 'quotes', source: '[[quotes-vocabulary]]' }
 ```

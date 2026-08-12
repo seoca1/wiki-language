@@ -297,14 +297,14 @@ Japanese weather 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: jp_weather_001, display: "晴れ (はれ)", input: "晴れ (はれ)", meaning: "맑음", level: "N5", category: "weather", source: "[[weather-vocabulary]]" }
-- { id: jp_weather_002, display: "曇り (くもり)", input: "曇り (くもり)", meaning: "흐림", level: "N5", category: "weather", source: "[[weather-vocabulary]]" }
-- { id: jp_weather_003, display: "雨 (あめ)", input: "雨 (あめ)", meaning: "비", level: "N5", category: "weather", source: "[[weather-vocabulary]]" }
-- { id: jp_weather_004, display: "雪 (ゆき)", input: "雪 (ゆき)", meaning: "눈", level: "N5", category: "weather", source: "[[weather-vocabulary]]" }
-- { id: jp_weather_005, display: "暑い (あつい)", input: "暑い (あつい)", meaning: "덥다", level: "N5", category: "weather", source: "[[weather-vocabulary]]" }
-- { id: jp_weather_006, display: "寒い (さむい)", input: "寒い (さむい)", meaning: "춥다", level: "N5", category: "weather", source: "[[weather-vocabulary]]" }
-- { id: jp_weather_007, display: "暖かい (あたたかい)", input: "暖かい (あたたかい)", meaning: "따뜻하다", level: "N5", category: "weather", source: "[[weather-vocabulary]]" }
-- { id: jp_weather_008, display: "涼しい (すずしい)", input: "涼しい (すずしい)", meaning: "서늘하다", level: "N5", category: "weather", source: "[[weather-vocabulary]]" }
-- { id: jp_weather_009, display: "風 (かぜ)", input: "風 (かぜ)", meaning: "바람", level: "N5", category: "weather", source: "[[weather-vocabulary]]" }
-- { id: jp_weather_010, display: "台風 (たいふう)", input: "台風 (たいふう)", meaning: "태풍", level: "N4", category: "weather", source: "[[weather-vocabulary]]" }
+- { id: 'jp_weather_001', display: '晴れ (はれ)', input: '晴れ (はれ)', meaning: '맑음', level: 'N5', category: 'weather', source: '[[weather-vocabulary]]' }
+- { id: 'jp_weather_002', display: '曇り (くもり)', input: '曇り (くもり)', meaning: '흐림', level: 'N5', category: 'weather', source: '[[weather-vocabulary]]' }
+- { id: 'jp_weather_003', display: '雨 (あめ)', input: '雨 (あめ)', meaning: '비', level: 'N5', category: 'weather', source: '[[weather-vocabulary]]' }
+- { id: 'jp_weather_004', display: '雪 (ゆき)', input: '雪 (ゆき)', meaning: '눈', level: 'N5', category: 'weather', source: '[[weather-vocabulary]]' }
+- { id: 'jp_weather_005', display: '暑い (あつい)', input: '暑い (あつい)', meaning: '덥다', level: 'N5', category: 'weather', source: '[[weather-vocabulary]]' }
+- { id: 'jp_weather_006', display: '寒い (さむい)', input: '寒い (さむい)', meaning: '춥다', level: 'N5', category: 'weather', source: '[[weather-vocabulary]]' }
+- { id: 'jp_weather_007', display: '暖かい (あたたかい)', input: '暖かい (あたたかい)', meaning: '따뜻하다', level: 'N5', category: 'weather', source: '[[weather-vocabulary]]' }
+- { id: 'jp_weather_008', display: '涼しい (すずしい)', input: '涼しい (すずしい)', meaning: '서늘하다', level: 'N5', category: 'weather', source: '[[weather-vocabulary]]' }
+- { id: 'jp_weather_009', display: '風 (かぜ)', input: '風 (かぜ)', meaning: '바람', level: 'N5', category: 'weather', source: '[[weather-vocabulary]]' }
+- { id: 'jp_weather_010', display: '台風 (たいふう)', input: '台風 (たいふう)', meaning: '태풍', level: 'N4', category: 'weather', source: '[[weather-vocabulary]]' }
 ```

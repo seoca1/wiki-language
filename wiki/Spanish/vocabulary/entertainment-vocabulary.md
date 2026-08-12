@@ -349,3 +349,22 @@ Los carnavales más famosos: Brasil (Río de Janeiro, Salvador), España (Teneri
 > - espectador = 관객
 > - director = 감독
 > - cine = 영화관
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'es_entertainment_001', display: 'película', input: 'película', meaning: 'Obra cinematográfica proyectada en una pantalla.', level: 'A2-B2', category: 'entertainment', source: '[[entertainment-es]]' }
+- { id: 'es_entertainment_002', display: 'actor/actriz', input: 'actor/actriz', meaning: 'Persona que interpreta un papel en una obra teatral, cinematográfica o televisiva.', level: 'A2-B2', category: 'entertainment', source: '[[entertainment-es]]' }
+- { id: 'es_entertainment_003', display: 'telenovela', input: 'telenovela', meaning: 'Serie dramática de origen latinoamericano, típicamente de episodios diarios con una trama central.', level: 'A2-B2', category: 'entertainment', source: '[[entertainment-es]]' }
+- { id: 'es_entertainment_004', display: 'serie', input: 'serie', meaning: 'Producción audiovisual com多个 episodios que cuentan una historia.', level: 'A2-B2', category: 'entertainment', source: '[[entertainment-es]]' }
+- { id: 'es_entertainment_005', display: 'canción', input: 'canción', meaning: 'Composición musical con letra, de duración relativamente corta.', level: 'A2-B2', category: 'entertainment', source: '[[entertainment-es]]' }
+- { id: 'es_entertainment_006', display: 'concierto', input: 'concierto', meaning: 'Actuación musical pública de un artista o agrupación.', level: 'A2-B2', category: 'entertainment', source: '[[entertainment-es]]' }
+- { id: 'es_entertainment_007', display: 'baile', input: 'baile', meaning: 'Movimiento rítmico del cuerpo siguiendo un compás musical.', level: 'A2-B2', category: 'entertainment', source: '[[entertainment-es]]' }
+- { id: 'es_entertainment_008', display: 'animación', input: 'animación', meaning: 'Técnica de crear ilusión de movimiento mediante imágenes secuenciales.', level: 'A2-B2', category: 'entertainment', source: '[[entertainment-es]]' }
+- { id: 'es_entertainment_009', display: 'fiesta', input: 'fiesta', meaning: 'Celebración pública o privada con comida, bebida y entretenimiento.', level: 'A2-B2', category: 'entertainment', source: '[[entertainment-es]]' }
+- { id: 'es_entertainment_010', display: 'carnaval', input: 'carnaval', meaning: 'Fiesta popular que se celebra antes de la Cuaresma, con disfraces, bailes y desfiles.', level: 'A2-B2', category: 'entertainment', source: '[[entertainment-es]]' }
+```

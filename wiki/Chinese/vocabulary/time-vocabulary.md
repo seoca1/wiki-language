@@ -297,13 +297,13 @@ Chinese time 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: zh_time_001, display: "今天 (jīntiān, 今天)", input: "今天 (jīntiān, 今天)", meaning: "today", level: "HSK 1", category: "time", source: "[[time-vocabulary]]" }
-- { id: zh_time_002, display: "明天 (míngtiān, 明天)", input: "明天 (míngtiān, 明天)", meaning: "tomorrow", level: "HSK 1", category: "time", source: "[[time-vocabulary]]" }
-- { id: zh_time_003, display: "昨天 (zuótiān, 昨天)", input: "昨天 (zuótiān, 昨天)", meaning: "yesterday", level: "HSK 1", category: "time", source: "[[time-vocabulary]]" }
-- { id: zh_time_004, display: "早上 (zǎoshang, 早上)", input: "早上 (zǎoshang, 早上)", meaning: "morning", level: "HSK 1", category: "time", source: "[[time-vocabulary]]" }
-- { id: zh_time_005, display: "下午 (xiàwǔ, 下午)", input: "下午 (xiàwǔ, 下午)", meaning: "afternoon", level: "HSK 1", category: "time", source: "[[time-vocabulary]]" }
-- { id: zh_time_006, display: "晚上 (wǎnshang, 晚上)", input: "晚上 (wǎnshang, 晚上)", meaning: "evening", level: "HSK 1", category: "time", source: "[[time-vocabulary]]" }
-- { id: zh_time_007, display: "中午 (zhōngwǔ, 中午)", input: "中午 (zhōngwǔ, 中午)", meaning: "noon", level: "HSK 1", category: "time", source: "[[time-vocabulary]]" }
-- { id: zh_time_008, display: "周末 (zhōumò, 週末)", input: "周末 (zhōumò, 週末)", meaning: "weekend", level: "HSK 2", category: "time", source: "[[time-vocabulary]]" }
-- { id: zh_time_009, display: "小时 (xiǎoshí, 小時)", input: "小时 (xiǎoshí, 小時)", meaning: "hour", level: "HSK 1", category: "time", source: "[[time-vocabulary]]" }
+- { id: 'zh_time_001', display: '今天 (jīntiān, 今天)', input: '今天 (jīntiān, 今天)', meaning: 'today', level: 'HSK 1', category: 'time', source: '[[time-vocabulary]]' }
+- { id: 'zh_time_002', display: '明天 (míngtiān, 明天)', input: '明天 (míngtiān, 明天)', meaning: 'tomorrow', level: 'HSK 1', category: 'time', source: '[[time-vocabulary]]' }
+- { id: 'zh_time_003', display: '昨天 (zuótiān, 昨天)', input: '昨天 (zuótiān, 昨天)', meaning: 'yesterday', level: 'HSK 1', category: 'time', source: '[[time-vocabulary]]' }
+- { id: 'zh_time_004', display: '早上 (zǎoshang, 早上)', input: '早上 (zǎoshang, 早上)', meaning: 'morning', level: 'HSK 1', category: 'time', source: '[[time-vocabulary]]' }
+- { id: 'zh_time_005', display: '下午 (xiàwǔ, 下午)', input: '下午 (xiàwǔ, 下午)', meaning: 'afternoon', level: 'HSK 1', category: 'time', source: '[[time-vocabulary]]' }
+- { id: 'zh_time_006', display: '晚上 (wǎnshang, 晚上)', input: '晚上 (wǎnshang, 晚上)', meaning: 'evening', level: 'HSK 1', category: 'time', source: '[[time-vocabulary]]' }
+- { id: 'zh_time_007', display: '中午 (zhōngwǔ, 中午)', input: '中午 (zhōngwǔ, 中午)', meaning: 'noon', level: 'HSK 1', category: 'time', source: '[[time-vocabulary]]' }
+- { id: 'zh_time_008', display: '周末 (zhōumò, 週末)', input: '周末 (zhōumò, 週末)', meaning: 'weekend', level: 'HSK 2', category: 'time', source: '[[time-vocabulary]]' }
+- { id: 'zh_time_009', display: '小时 (xiǎoshí, 小時)', input: '小时 (xiǎoshí, 小時)', meaning: 'hour', level: 'HSK 1', category: 'time', source: '[[time-vocabulary]]' }
 ```

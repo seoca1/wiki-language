@@ -166,9 +166,9 @@ level: "A1-A2"
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: jp_travel_001, display: "名詞 (めいし)", input: "名詞 (めいし)", meaning: "", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: jp_travel_002, display: "動詞 (どうし)", input: "動詞 (どうし)", meaning: "", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: jp_travel_003, display: "名詞", input: "名詞", meaning: "", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: jp_travel_004, display: "動詞", input: "動詞", meaning: "", level: "A1-A2", category: "travel", source: "[[travel]]" }
-- { id: jp_travel_005, display: "重要フレーズ", input: "重要フレーズ", meaning: "", level: "A1-A2", category: "travel", source: "[[travel]]" }
+- { id: 'jp_travel_001', display: '名詞 (めいし)', input: '名詞 (めいし)', meaning: '', level: 'A1-A2', category: 'travel', source: '[[travel]]' }
+- { id: 'jp_travel_002', display: '動詞 (どうし)', input: '動詞 (どうし)', meaning: '', level: 'A1-A2', category: 'travel', source: '[[travel]]' }
+- { id: 'jp_travel_003', display: '名詞', input: '名詞', meaning: '', level: 'A1-A2', category: 'travel', source: '[[travel]]' }
+- { id: 'jp_travel_004', display: '動詞', input: '動詞', meaning: '', level: 'A1-A2', category: 'travel', source: '[[travel]]' }
+- { id: 'jp_travel_005', display: '重要フレーズ', input: '重要フレーズ', meaning: '', level: 'A1-A2', category: 'travel', source: '[[travel]]' }
 ```

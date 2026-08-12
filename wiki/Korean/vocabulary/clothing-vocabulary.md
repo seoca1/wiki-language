@@ -725,27 +725,27 @@ theme: "clothing"
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: ko_clothing_001, display: "셔츠", input: "셔츠", meaning: "shirt", level: "TOPIK 1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: ko_clothing_002, display: "드레스", input: "드레스", meaning: "dress", level: "TOPIK 1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: ko_clothing_003, display: "코트", input: "코트", meaning: "coat", level: "TOPIK 1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: ko_clothing_004, display: "스커트", input: "스커트", meaning: "skirt", level: "TOPIK 1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: ko_clothing_005, display: "가디건", input: "가디건", meaning: "cardigan", level: "TOPIK 1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: ko_clothing_006, display: "점퍼", input: "점퍼", meaning: "jumper/jacket", level: "TOPIK 1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: ko_clothing_007, display: "바지", input: "바지", meaning: "pants", level: "TOPIK 1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: ko_clothing_008, display: "청바지", input: "청바지", meaning: "jeans", level: "TOPIK 1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: ko_clothing_009, display: "반바지", input: "반바지", meaning: "shorts", level: "TOPIK 1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: ko_clothing_010, display: "구두", input: "구두", meaning: "shoes", level: "TOPIK 1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: ko_clothing_011, display: "운동화", input: "운동화", meaning: "sneakers", level: "TOPIK 1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: ko_clothing_012, display: "모자", input: "모자", meaning: "hat", level: "TOPIK 1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: ko_clothing_013, display: "양말", input: "양말", meaning: "socks", level: "TOPIK 1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: ko_clothing_014, display: "장갑", input: "장갑", meaning: "gloves", level: "TOPIK 1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: ko_clothing_015, display: "목도리", input: "목도리", meaning: "scarf", level: "TOPIK 1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: ko_clothing_016, display: "면", input: "면", meaning: "cotton", level: "TOPIK 1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: ko_clothing_017, display: "니트", input: "니트", meaning: "knit", level: "TOPIK 1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: ko_clothing_018, display: "가죽", input: "가죽", meaning: "leather", level: "TOPIK 1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: ko_clothing_019, display: "명주", input: "명주", meaning: "silk", level: "TOPIK 1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: ko_clothing_020, display: "빨간 드레스", input: "빨간 드레스", meaning: "red dress", level: "TOPIK 1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: ko_clothing_021, display: "파란 셔츠", input: "파란 셔츠", meaning: "blue shirt", level: "TOPIK 1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: ko_clothing_022, display: "하얀 바지", input: "하얀 바지", meaning: "white pants", level: "TOPIK 1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
-- { id: ko_clothing_023, display: "검은 구두", input: "검은 구두", meaning: "black shoes", level: "TOPIK 1", category: "clothing-vocabulary", source: "[[clothing-vocabulary]]" }
+- { id: 'kr_clothing_001', display: '셔츠', input: '셔츠', meaning: 'shirt', level: 'TOPIK 1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'kr_clothing_002', display: '드레스', input: '드레스', meaning: 'dress', level: 'TOPIK 1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'kr_clothing_003', display: '코트', input: '코트', meaning: 'coat', level: 'TOPIK 1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'kr_clothing_004', display: '스커트', input: '스커트', meaning: 'skirt', level: 'TOPIK 1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'kr_clothing_005', display: '가디건', input: '가디건', meaning: 'cardigan', level: 'TOPIK 1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'kr_clothing_006', display: '점퍼', input: '점퍼', meaning: 'jumper/jacket', level: 'TOPIK 1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'kr_clothing_007', display: '바지', input: '바지', meaning: 'pants', level: 'TOPIK 1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'kr_clothing_008', display: '청바지', input: '청바지', meaning: 'jeans', level: 'TOPIK 1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'kr_clothing_009', display: '반바지', input: '반바지', meaning: 'shorts', level: 'TOPIK 1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'kr_clothing_010', display: '구두', input: '구두', meaning: 'shoes', level: 'TOPIK 1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'kr_clothing_011', display: '운동화', input: '운동화', meaning: 'sneakers', level: 'TOPIK 1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'kr_clothing_012', display: '모자', input: '모자', meaning: 'hat', level: 'TOPIK 1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'kr_clothing_013', display: '양말', input: '양말', meaning: 'socks', level: 'TOPIK 1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'kr_clothing_014', display: '장갑', input: '장갑', meaning: 'gloves', level: 'TOPIK 1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'kr_clothing_015', display: '목도리', input: '목도리', meaning: 'scarf', level: 'TOPIK 1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'kr_clothing_016', display: '면', input: '면', meaning: 'cotton', level: 'TOPIK 1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'kr_clothing_017', display: '니트', input: '니트', meaning: 'knit', level: 'TOPIK 1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'kr_clothing_018', display: '가죽', input: '가죽', meaning: 'leather', level: 'TOPIK 1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'kr_clothing_019', display: '명주', input: '명주', meaning: 'silk', level: 'TOPIK 1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'kr_clothing_020', display: '빨간 드레스', input: '빨간 드레스', meaning: 'red dress', level: 'TOPIK 1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'kr_clothing_021', display: '파란 셔츠', input: '파란 셔츠', meaning: 'blue shirt', level: 'TOPIK 1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'kr_clothing_022', display: '하얀 바지', input: '하얀 바지', meaning: 'white pants', level: 'TOPIK 1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
+- { id: 'kr_clothing_023', display: '검은 구두', input: '검은 구두', meaning: 'black shoes', level: 'TOPIK 1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary]]' }
 ```

@@ -297,14 +297,14 @@ Japanese family 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: jp_family_001, display: "母 (はは)", input: "母 (はは)", meaning: "어머니", level: "N5", category: "family", source: "[[family-vocabulary]]" }
-- { id: jp_family_002, display: "父 (ちち)", input: "父 (ちち)", meaning: "아버지", level: "N5", category: "family", source: "[[family-vocabulary]]" }
-- { id: jp_family_003, display: "姉妹 (しまい)", input: "姉妹 (しまい)", meaning: "여자 형제", level: "N5", category: "family", source: "[[family-vocabulary]]" }
-- { id: jp_family_004, display: "兄弟 (きょうだい)", input: "兄弟 (きょうだい)", meaning: "남자 형제", level: "N5", category: "family", source: "[[family-vocabulary]]" }
-- { id: jp_family_005, display: "祖母 (そぼ)", input: "祖母 (そぼ)", meaning: "할머니", level: "N5", category: "family", source: "[[family-vocabulary]]" }
-- { id: jp_family_006, display: "祖父 (そふ)", input: "祖父 (そふ)", meaning: "할아버지", level: "N5", category: "family", source: "[[family-vocabulary]]" }
-- { id: jp_family_007, display: "おば", input: "おば", meaning: "고모/이모", level: "N5", category: "family", source: "[[family-vocabulary]]" }
-- { id: jp_family_008, display: "おじ", input: "おじ", meaning: "삼촌/외삼촌", level: "N5", category: "family", source: "[[family-vocabulary]]" }
-- { id: jp_family_009, display: "いとこ", input: "いとこ", meaning: "사촌", level: "N4", category: "family", source: "[[family-vocabulary]]" }
-- { id: jp_family_010, display: "家族 (かぞく)", input: "家族 (かぞく)", meaning: "가족", level: "N5", category: "family", source: "[[family-vocabulary]]" }
+- { id: 'jp_family_001', display: '母 (はは)', input: '母 (はは)', meaning: '어머니', level: 'N5', category: 'family', source: '[[family-vocabulary]]' }
+- { id: 'jp_family_002', display: '父 (ちち)', input: '父 (ちち)', meaning: '아버지', level: 'N5', category: 'family', source: '[[family-vocabulary]]' }
+- { id: 'jp_family_003', display: '姉妹 (しまい)', input: '姉妹 (しまい)', meaning: '여자 형제', level: 'N5', category: 'family', source: '[[family-vocabulary]]' }
+- { id: 'jp_family_004', display: '兄弟 (きょうだい)', input: '兄弟 (きょうだい)', meaning: '남자 형제', level: 'N5', category: 'family', source: '[[family-vocabulary]]' }
+- { id: 'jp_family_005', display: '祖母 (そぼ)', input: '祖母 (そぼ)', meaning: '할머니', level: 'N5', category: 'family', source: '[[family-vocabulary]]' }
+- { id: 'jp_family_006', display: '祖父 (そふ)', input: '祖父 (そふ)', meaning: '할아버지', level: 'N5', category: 'family', source: '[[family-vocabulary]]' }
+- { id: 'jp_family_007', display: 'おば', input: 'おば', meaning: '고모/이모', level: 'N5', category: 'family', source: '[[family-vocabulary]]' }
+- { id: 'jp_family_008', display: 'おじ', input: 'おじ', meaning: '삼촌/외삼촌', level: 'N5', category: 'family', source: '[[family-vocabulary]]' }
+- { id: 'jp_family_009', display: 'いとこ', input: 'いとこ', meaning: '사촌', level: 'N4', category: 'family', source: '[[family-vocabulary]]' }
+- { id: 'jp_family_010', display: '家族 (かぞく)', input: '家族 (かぞく)', meaning: '가족', level: 'N5', category: 'family', source: '[[family-vocabulary]]' }
 ```

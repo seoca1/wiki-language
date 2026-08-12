@@ -1102,41 +1102,41 @@ Jaws movie created fear. "Shark" = ruthless business person.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: en_animals_001, display: "dog", input: "dog", meaning: "개", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: en_animals_002, display: "cat", input: "cat", meaning: "고양이", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: en_animals_003, display: "bird", input: "bird", meaning: "새", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: en_animals_004, display: "fish", input: "fish", meaning: "물고기", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: en_animals_005, display: "rabbit", input: "rabbit", meaning: "토끼", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: en_animals_006, display: "horse", input: "horse", meaning: "말", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: en_animals_007, display: "cow", input: "cow", meaning: "소", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: en_animals_008, display: "pig", input: "pig", meaning: "돼지", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: en_animals_009, display: "chicken", input: "chicken", meaning: "닭", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: en_animals_010, display: "sheep", input: "sheep", meaning: "양", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: en_animals_011, display: "lion", input: "lion", meaning: "사자", level: "A2", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: en_animals_012, display: "tiger", input: "tiger", meaning: "호랑이", level: "A2", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: en_animals_013, display: "elephant", input: "elephant", meaning: "코끼리", level: "A2", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: en_animals_014, display: "monkey", input: "monkey", meaning: "원숭이", level: "A2", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: en_animals_015, display: "bear", input: "bear", meaning: "곰", level: "A2", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: en_animals_016, display: "wolf", input: "wolf", meaning: "늑대", level: "A2", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: en_animals_017, display: "fox", input: "fox", meaning: "여우", level: "A2", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: en_animals_018, display: "deer", input: "deer", meaning: "사슴", level: "A2", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: en_animals_019, display: "snake", input: "snake", meaning: "뱀", level: "A2", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: en_animals_020, display: "turtle", input: "turtle", meaning: "거북이", level: "A2", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: en_animals_021, display: "frog", input: "frog", meaning: "개구리", level: "A2", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: en_animals_022, display: "butterfly", input: "butterfly", meaning: "나비", level: "A2", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: en_animals_023, display: "bee", input: "bee", meaning: "벌", level: "A2", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: en_animals_024, display: "ant", input: "ant", meaning: "개미", level: "A2", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: en_animals_025, display: "whale", input: "whale", meaning: "고래", level: "A2", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: en_animals_026, display: "dolphin", input: "dolphin", meaning: "돌고래", level: "A2", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: en_animals_027, display: "shark", input: "shark", meaning: "상어", level: "A2", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: en_animals_028, display: "to run", input: "to run", meaning: "달리다", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: en_animals_029, display: "to fly", input: "to fly", meaning: "날다", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: en_animals_030, display: "to swim", input: "to swim", meaning: "헤엄치다", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: en_animals_031, display: "to hunt", input: "to hunt", meaning: "사냥하다", level: "A2", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: en_animals_032, display: "to bark", input: "to bark", meaning: "짖다", level: "A2", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: en_animals_033, display: "wild", input: "wild", meaning: "야생의", level: "A2", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: en_animals_034, display: "big", input: "big", meaning: "큰", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: en_animals_035, display: "small", input: "small", meaning: "작은", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: en_animals_036, display: "fast", input: "fast", meaning: "빠른", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
-- { id: en_animals_037, display: "slow", input: "slow", meaning: "느린", level: "A1", category: "animals-vocabulary", source: "[[animals-vocabulary]]" }
+- { id: 'en_animals_001', display: 'dog', input: 'dog', meaning: '개', level: 'A1', category: 'animals-vocabulary', source: '[[animals-vocabulary]]' }
+- { id: 'en_animals_002', display: 'cat', input: 'cat', meaning: '고양이', level: 'A1', category: 'animals-vocabulary', source: '[[animals-vocabulary]]' }
+- { id: 'en_animals_003', display: 'bird', input: 'bird', meaning: '새', level: 'A1', category: 'animals-vocabulary', source: '[[animals-vocabulary]]' }
+- { id: 'en_animals_004', display: 'fish', input: 'fish', meaning: '물고기', level: 'A1', category: 'animals-vocabulary', source: '[[animals-vocabulary]]' }
+- { id: 'en_animals_005', display: 'rabbit', input: 'rabbit', meaning: '토끼', level: 'A1', category: 'animals-vocabulary', source: '[[animals-vocabulary]]' }
+- { id: 'en_animals_006', display: 'horse', input: 'horse', meaning: '말', level: 'A1', category: 'animals-vocabulary', source: '[[animals-vocabulary]]' }
+- { id: 'en_animals_007', display: 'cow', input: 'cow', meaning: '소', level: 'A1', category: 'animals-vocabulary', source: '[[animals-vocabulary]]' }
+- { id: 'en_animals_008', display: 'pig', input: 'pig', meaning: '돼지', level: 'A1', category: 'animals-vocabulary', source: '[[animals-vocabulary]]' }
+- { id: 'en_animals_009', display: 'chicken', input: 'chicken', meaning: '닭', level: 'A1', category: 'animals-vocabulary', source: '[[animals-vocabulary]]' }
+- { id: 'en_animals_010', display: 'sheep', input: 'sheep', meaning: '양', level: 'A1', category: 'animals-vocabulary', source: '[[animals-vocabulary]]' }
+- { id: 'en_animals_011', display: 'lion', input: 'lion', meaning: '사자', level: 'A2', category: 'animals-vocabulary', source: '[[animals-vocabulary]]' }
+- { id: 'en_animals_012', display: 'tiger', input: 'tiger', meaning: '호랑이', level: 'A2', category: 'animals-vocabulary', source: '[[animals-vocabulary]]' }
+- { id: 'en_animals_013', display: 'elephant', input: 'elephant', meaning: '코끼리', level: 'A2', category: 'animals-vocabulary', source: '[[animals-vocabulary]]' }
+- { id: 'en_animals_014', display: 'monkey', input: 'monkey', meaning: '원숭이', level: 'A2', category: 'animals-vocabulary', source: '[[animals-vocabulary]]' }
+- { id: 'en_animals_015', display: 'bear', input: 'bear', meaning: '곰', level: 'A2', category: 'animals-vocabulary', source: '[[animals-vocabulary]]' }
+- { id: 'en_animals_016', display: 'wolf', input: 'wolf', meaning: '늑대', level: 'A2', category: 'animals-vocabulary', source: '[[animals-vocabulary]]' }
+- { id: 'en_animals_017', display: 'fox', input: 'fox', meaning: '여우', level: 'A2', category: 'animals-vocabulary', source: '[[animals-vocabulary]]' }
+- { id: 'en_animals_018', display: 'deer', input: 'deer', meaning: '사슴', level: 'A2', category: 'animals-vocabulary', source: '[[animals-vocabulary]]' }
+- { id: 'en_animals_019', display: 'snake', input: 'snake', meaning: '뱀', level: 'A2', category: 'animals-vocabulary', source: '[[animals-vocabulary]]' }
+- { id: 'en_animals_020', display: 'turtle', input: 'turtle', meaning: '거북이', level: 'A2', category: 'animals-vocabulary', source: '[[animals-vocabulary]]' }
+- { id: 'en_animals_021', display: 'frog', input: 'frog', meaning: '개구리', level: 'A2', category: 'animals-vocabulary', source: '[[animals-vocabulary]]' }
+- { id: 'en_animals_022', display: 'butterfly', input: 'butterfly', meaning: '나비', level: 'A2', category: 'animals-vocabulary', source: '[[animals-vocabulary]]' }
+- { id: 'en_animals_023', display: 'bee', input: 'bee', meaning: '벌', level: 'A2', category: 'animals-vocabulary', source: '[[animals-vocabulary]]' }
+- { id: 'en_animals_024', display: 'ant', input: 'ant', meaning: '개미', level: 'A2', category: 'animals-vocabulary', source: '[[animals-vocabulary]]' }
+- { id: 'en_animals_025', display: 'whale', input: 'whale', meaning: '고래', level: 'A2', category: 'animals-vocabulary', source: '[[animals-vocabulary]]' }
+- { id: 'en_animals_026', display: 'dolphin', input: 'dolphin', meaning: '돌고래', level: 'A2', category: 'animals-vocabulary', source: '[[animals-vocabulary]]' }
+- { id: 'en_animals_027', display: 'shark', input: 'shark', meaning: '상어', level: 'A2', category: 'animals-vocabulary', source: '[[animals-vocabulary]]' }
+- { id: 'en_animals_028', display: 'to run', input: 'to run', meaning: '달리다', level: 'A1', category: 'animals-vocabulary', source: '[[animals-vocabulary]]' }
+- { id: 'en_animals_029', display: 'to fly', input: 'to fly', meaning: '날다', level: 'A1', category: 'animals-vocabulary', source: '[[animals-vocabulary]]' }
+- { id: 'en_animals_030', display: 'to swim', input: 'to swim', meaning: '헤엄치다', level: 'A1', category: 'animals-vocabulary', source: '[[animals-vocabulary]]' }
+- { id: 'en_animals_031', display: 'to hunt', input: 'to hunt', meaning: '사냥하다', level: 'A2', category: 'animals-vocabulary', source: '[[animals-vocabulary]]' }
+- { id: 'en_animals_032', display: 'to bark', input: 'to bark', meaning: '짖다', level: 'A2', category: 'animals-vocabulary', source: '[[animals-vocabulary]]' }
+- { id: 'en_animals_033', display: 'wild', input: 'wild', meaning: '야생의', level: 'A2', category: 'animals-vocabulary', source: '[[animals-vocabulary]]' }
+- { id: 'en_animals_034', display: 'big', input: 'big', meaning: '큰', level: 'A1', category: 'animals-vocabulary', source: '[[animals-vocabulary]]' }
+- { id: 'en_animals_035', display: 'small', input: 'small', meaning: '작은', level: 'A1', category: 'animals-vocabulary', source: '[[animals-vocabulary]]' }
+- { id: 'en_animals_036', display: 'fast', input: 'fast', meaning: '빠른', level: 'A1', category: 'animals-vocabulary', source: '[[animals-vocabulary]]' }
+- { id: 'en_animals_037', display: 'slow', input: 'slow', meaning: '느린', level: 'A1', category: 'animals-vocabulary', source: '[[animals-vocabulary]]' }
 ```

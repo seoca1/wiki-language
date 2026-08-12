@@ -297,14 +297,14 @@ Spanish weekdays 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: es_weekdays_001, display: "lunes", input: "lunes", meaning: "월요일", level: "A1", category: "weekdays", source: "[[weekdays-vocabulary]]" }
-- { id: es_weekdays_002, display: "martes", input: "martes", meaning: "화요일", level: "A1", category: "weekdays", source: "[[weekdays-vocabulary]]" }
-- { id: es_weekdays_003, display: "miércoles", input: "miércoles", meaning: "수요일", level: "A1", category: "weekdays", source: "[[weekdays-vocabulary]]" }
-- { id: es_weekdays_004, display: "jueves", input: "jueves", meaning: "목요일", level: "A1", category: "weekdays", source: "[[weekdays-vocabulary]]" }
-- { id: es_weekdays_005, display: "viernes", input: "viernes", meaning: "금요일", level: "A1", category: "weekdays", source: "[[weekdays-vocabulary]]" }
-- { id: es_weekdays_006, display: "sábado", input: "sábado", meaning: "토요일", level: "A1", category: "weekdays", source: "[[weekdays-vocabulary]]" }
-- { id: es_weekdays_007, display: "domingo", input: "domingo", meaning: "일요일", level: "A1", category: "weekdays", source: "[[weekdays-vocabulary]]" }
-- { id: es_weekdays_008, display: "día laborable", input: "día laborable", meaning: "평일", level: "A2", category: "weekdays", source: "[[weekdays-vocabulary]]" }
-- { id: es_weekdays_009, display: "fin de semana", input: "fin de semana", meaning: "주말", level: "A1", category: "weekdays", source: "[[weekdays-vocabulary]]" }
-- { id: es_weekdays_010, display: "hoy", input: "hoy", meaning: "오늘", level: "A1", category: "weekdays", source: "[[weekdays-vocabulary]]" }
+- { id: 'es_weekdays_001', display: 'lunes', input: 'lunes', meaning: '월요일', level: 'A1', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
+- { id: 'es_weekdays_002', display: 'martes', input: 'martes', meaning: '화요일', level: 'A1', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
+- { id: 'es_weekdays_003', display: 'miércoles', input: 'miércoles', meaning: '수요일', level: 'A1', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
+- { id: 'es_weekdays_004', display: 'jueves', input: 'jueves', meaning: '목요일', level: 'A1', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
+- { id: 'es_weekdays_005', display: 'viernes', input: 'viernes', meaning: '금요일', level: 'A1', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
+- { id: 'es_weekdays_006', display: 'sábado', input: 'sábado', meaning: '토요일', level: 'A1', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
+- { id: 'es_weekdays_007', display: 'domingo', input: 'domingo', meaning: '일요일', level: 'A1', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
+- { id: 'es_weekdays_008', display: 'día laborable', input: 'día laborable', meaning: '평일', level: 'A2', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
+- { id: 'es_weekdays_009', display: 'fin de semana', input: 'fin de semana', meaning: '주말', level: 'A1', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
+- { id: 'es_weekdays_010', display: 'hoy', input: 'hoy', meaning: '오늘', level: 'A1', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
 ```

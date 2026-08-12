@@ -297,14 +297,14 @@ Spanish technology 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: es_technology_001, display: "computadora", input: "computadora", meaning: "컴퓨터", level: "A1", category: "technology", source: "[[technology-vocabulary]]" }
-- { id: es_technology_002, display: "teléfono", input: "teléfono", meaning: "전화", level: "A1", category: "technology", source: "[[technology-vocabulary]]" }
-- { id: es_technology_003, display: "internet", input: "internet", meaning: "인터넷", level: "A1", category: "technology", source: "[[technology-vocabulary]]" }
-- { id: es_technology_004, display: "correo electrónico", input: "correo electrónico", meaning: "이메일", level: "A1", category: "technology", source: "[[technology-vocabulary]]" }
-- { id: es_technology_005, display: "sitio web", input: "sitio web", meaning: "웹사이트", level: "A2", category: "technology", source: "[[technology-vocabulary]]" }
-- { id: es_technology_006, display: "aplicación", input: "aplicación", meaning: "앱", level: "A1", category: "technology", source: "[[technology-vocabulary]]" }
-- { id: es_technology_007, display: "contraseña", input: "contraseña", meaning: "비밀번호", level: "A2", category: "technology", source: "[[technology-vocabulary]]" }
-- { id: es_technology_008, display: "ratón", input: "ratón", meaning: "마우스", level: "A1", category: "technology", source: "[[technology-vocabulary]]" }
-- { id: es_technology_009, display: "teclado", input: "teclado", meaning: "키보드", level: "A2", category: "technology", source: "[[technology-vocabulary]]" }
-- { id: es_technology_010, display: "pantalla", input: "pantalla", meaning: "화면", level: "A2", category: "technology", source: "[[technology-vocabulary]]" }
+- { id: 'es_technology_001', display: 'computadora', input: 'computadora', meaning: '컴퓨터', level: 'A1', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'es_technology_002', display: 'teléfono', input: 'teléfono', meaning: '전화', level: 'A1', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'es_technology_003', display: 'internet', input: 'internet', meaning: '인터넷', level: 'A1', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'es_technology_004', display: 'correo electrónico', input: 'correo electrónico', meaning: '이메일', level: 'A1', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'es_technology_005', display: 'sitio web', input: 'sitio web', meaning: '웹사이트', level: 'A2', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'es_technology_006', display: 'aplicación', input: 'aplicación', meaning: '앱', level: 'A1', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'es_technology_007', display: 'contraseña', input: 'contraseña', meaning: '비밀번호', level: 'A2', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'es_technology_008', display: 'ratón', input: 'ratón', meaning: '마우스', level: 'A1', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'es_technology_009', display: 'teclado', input: 'teclado', meaning: '키보드', level: 'A2', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'es_technology_010', display: 'pantalla', input: 'pantalla', meaning: '화면', level: 'A2', category: 'technology', source: '[[technology-vocabulary]]' }
 ```

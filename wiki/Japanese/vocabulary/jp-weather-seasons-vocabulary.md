@@ -604,28 +604,28 @@ level: "JLPT N5-N3"
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/jp_words.md`).
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: jp_weather_001, display: "春", input: "haru", meaning: "spring", level: "JLPT N5", category: "jp-weather-seasons-vocabulary", source: "[[jp-weather-seasons-vocabulary]]" }
-- { id: jp_weather_002, display: "夏", input: "natsu", meaning: "summer", level: "JLPT N5", category: "jp-weather-seasons-vocabulary", source: "[[jp-weather-seasons-vocabulary]]" }
-- { id: jp_weather_003, display: "秋", input: "aki", meaning: "autumn", level: "JLPT N5", category: "jp-weather-seasons-vocabulary", source: "[[jp-weather-seasons-vocabulary]]" }
-- { id: jp_weather_004, display: "冬", input: "fuyu", meaning: "winter", level: "JLPT N5", category: "jp-weather-seasons-vocabulary", source: "[[jp-weather-seasons-vocabulary]]" }
-- { id: jp_weather_005, display: "梅雨", input: "tsuyu", meaning: "rainy season", level: "JLPT N4", category: "jp-weather-seasons-vocabulary", source: "[[jp-weather-seasons-vocabulary]]" }
-- { id: jp_weather_006, display: "台風", input: "taifuu", meaning: "typhoon", level: "JLPT N4", category: "jp-weather-seasons-vocabulary", source: "[[jp-weather-seasons-vocabulary]]" }
-- { id: jp_weather_007, display: "雪", input: "yuki", meaning: "snow", level: "JLPT N5", category: "jp-weather-seasons-vocabulary", source: "[[jp-weather-seasons-vocabulary]]" }
-- { id: jp_weather_008, display: "雨", input: "ame", meaning: "rain", level: "JLPT N5", category: "jp-weather-seasons-vocabulary", source: "[[jp-weather-seasons-vocabulary]]" }
-- { id: jp_weather_009, display: "雷", input: "kaminari", meaning: "thunder", level: "JLPT N4", category: "jp-weather-seasons-vocabulary", source: "[[jp-weather-seasons-vocabulary]]" }
-- { id: jp_weather_010, display: "桜", input: "sakura", meaning: "cherry blossom", level: "JLPT N5", category: "jp-weather-seasons-vocabulary", source: "[[jp-weather-seasons-vocabulary]]" }
-- { id: jp_weather_011, display: "紅葉", input: "kouyou", meaning: "autumn leaves", level: "JLPT N4", category: "jp-weather-seasons-vocabulary", source: "[[jp-weather-seasons-vocabulary]]" }
-- { id: jp_weather_012, display: "梅雨明け", input: "tsuyuake", meaning: "end of rainy season", level: "JLPT N3", category: "jp-weather-seasons-vocabulary", source: "[[jp-weather-seasons-vocabulary]]" }
-- { id: jp_weather_013, display: "地震", input: "jishin", meaning: "earthquake", level: "JLPT N4", category: "jp-weather-seasons-vocabulary", source: "[[jp-weather-seasons-vocabulary]]" }
-- { id: jp_weather_014, display: "津波", input: "tsunami", meaning: "tsunami", level: "JLPT N3", category: "jp-weather-seasons-vocabulary", source: "[[jp-weather-seasons-vocabulary]]" }
-- { id: jp_weather_015, display: "噴火", input: "funka", meaning: "volcanic eruption", level: "JLPT N3", category: "jp-weather-seasons-vocabulary", source: "[[jp-weather-seasons-vocabulary]]" }
-- { id: jp_weather_016, display: "猛暑", input: "mousho", meaning: "extreme heat", level: "JLPT N3", category: "jp-weather-seasons-vocabulary", source: "[[jp-weather-seasons-vocabulary]]" }
-- { id: jp_weather_017, display: "晴れ", input: "hare", meaning: "clear weather", level: "JLPT N5", category: "jp-weather-seasons-vocabulary", source: "[[jp-weather-seasons-vocabulary]]" }
-- { id: jp_weather_018, display: "曇り", input: "kumori", meaning: "cloudy", level: "JLPT N5", category: "jp-weather-seasons-vocabulary", source: "[[jp-weather-seasons-vocabulary]]" }
-- { id: jp_weather_019, display: "強風", input: "kyoufuu", meaning: "strong wind", level: "JLPT N4", category: "jp-weather-seasons-vocabulary", source: "[[jp-weather-seasons-vocabulary]]" }
+- { id: 'jp_jp_weather_seasons_vocabulary_001', display: '春', input: '春', meaning: 'spring', level: 'JLPT N5', category: 'jp-weather-seasons-vocabulary', source: '[[jp-weather-seasons-vocabulary]]' }
+- { id: 'jp_jp_weather_seasons_vocabulary_002', display: '夏', input: '夏', meaning: 'summer', level: 'JLPT N5', category: 'jp-weather-seasons-vocabulary', source: '[[jp-weather-seasons-vocabulary]]' }
+- { id: 'jp_jp_weather_seasons_vocabulary_003', display: '秋', input: '秋', meaning: 'autumn', level: 'JLPT N5', category: 'jp-weather-seasons-vocabulary', source: '[[jp-weather-seasons-vocabulary]]' }
+- { id: 'jp_jp_weather_seasons_vocabulary_004', display: '冬', input: '冬', meaning: 'winter', level: 'JLPT N5', category: 'jp-weather-seasons-vocabulary', source: '[[jp-weather-seasons-vocabulary]]' }
+- { id: 'jp_jp_weather_seasons_vocabulary_005', display: '梅雨', input: '梅雨', meaning: 'rainy season', level: 'JLPT N4', category: 'jp-weather-seasons-vocabulary', source: '[[jp-weather-seasons-vocabulary]]' }
+- { id: 'jp_jp_weather_seasons_vocabulary_006', display: '台風', input: '台風', meaning: 'typhoon', level: 'JLPT N4', category: 'jp-weather-seasons-vocabulary', source: '[[jp-weather-seasons-vocabulary]]' }
+- { id: 'jp_jp_weather_seasons_vocabulary_007', display: '雪', input: '雪', meaning: 'snow', level: 'JLPT N5', category: 'jp-weather-seasons-vocabulary', source: '[[jp-weather-seasons-vocabulary]]' }
+- { id: 'jp_jp_weather_seasons_vocabulary_008', display: '雨', input: '雨', meaning: 'rain', level: 'JLPT N5', category: 'jp-weather-seasons-vocabulary', source: '[[jp-weather-seasons-vocabulary]]' }
+- { id: 'jp_jp_weather_seasons_vocabulary_009', display: '雷', input: '雷', meaning: 'thunder', level: 'JLPT N4', category: 'jp-weather-seasons-vocabulary', source: '[[jp-weather-seasons-vocabulary]]' }
+- { id: 'jp_jp_weather_seasons_vocabulary_010', display: '桜', input: '桜', meaning: 'cherry blossom', level: 'JLPT N5', category: 'jp-weather-seasons-vocabulary', source: '[[jp-weather-seasons-vocabulary]]' }
+- { id: 'jp_jp_weather_seasons_vocabulary_011', display: '紅葉', input: '紅葉', meaning: 'autumn leaves', level: 'JLPT N4', category: 'jp-weather-seasons-vocabulary', source: '[[jp-weather-seasons-vocabulary]]' }
+- { id: 'jp_jp_weather_seasons_vocabulary_012', display: '梅雨明け', input: '梅雨明け', meaning: 'end of rainy season', level: 'JLPT N3', category: 'jp-weather-seasons-vocabulary', source: '[[jp-weather-seasons-vocabulary]]' }
+- { id: 'jp_jp_weather_seasons_vocabulary_013', display: '地震', input: '地震', meaning: 'earthquake', level: 'JLPT N4', category: 'jp-weather-seasons-vocabulary', source: '[[jp-weather-seasons-vocabulary]]' }
+- { id: 'jp_jp_weather_seasons_vocabulary_014', display: '津波', input: '津波', meaning: 'tsunami', level: 'JLPT N3', category: 'jp-weather-seasons-vocabulary', source: '[[jp-weather-seasons-vocabulary]]' }
+- { id: 'jp_jp_weather_seasons_vocabulary_015', display: '噴火', input: '噴火', meaning: 'volcanic eruption', level: 'JLPT N3', category: 'jp-weather-seasons-vocabulary', source: '[[jp-weather-seasons-vocabulary]]' }
+- { id: 'jp_jp_weather_seasons_vocabulary_016', display: '猛暑', input: '猛暑', meaning: 'extreme heat', level: 'JLPT N3', category: 'jp-weather-seasons-vocabulary', source: '[[jp-weather-seasons-vocabulary]]' }
+- { id: 'jp_jp_weather_seasons_vocabulary_017', display: '晴れ', input: '晴れ', meaning: 'clear weather', level: 'JLPT N5', category: 'jp-weather-seasons-vocabulary', source: '[[jp-weather-seasons-vocabulary]]' }
+- { id: 'jp_jp_weather_seasons_vocabulary_018', display: '曇り', input: '曇り', meaning: 'cloudy', level: 'JLPT N5', category: 'jp-weather-seasons-vocabulary', source: '[[jp-weather-seasons-vocabulary]]' }
+- { id: 'jp_jp_weather_seasons_vocabulary_019', display: '強風', input: '強風', meaning: 'strong wind', level: 'JLPT N4', category: 'jp-weather-seasons-vocabulary', source: '[[jp-weather-seasons-vocabulary]]' }
 ```

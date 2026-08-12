@@ -409,21 +409,21 @@ theme: "daily-life"
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/kr_words.md`).
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: ko_daily_001, display: "일어나다 (起, ireonada)", input: "일어나다", meaning: "to wake up", level: "TOPIK 1", category: "daily-life", source: "[[ko-daily-life-vocabulary]]" }
-- { id: ko_daily_002, display: "자다 (睡, jada)", input: "자다", meaning: "to sleep", level: "TOPIK 1", category: "daily-life", source: "[[ko-daily-life-vocabulary]]" }
-- { id: ko_daily_003, display: "먹다 (食, meokda)", input: "먹다", meaning: "to eat", level: "TOPIK 1", category: "daily-life", source: "[[ko-daily-life-vocabulary]]" }
-- { id: ko_daily_004, display: "마시다 (飮, masida)", input: "마시다", meaning: "to drink", level: "TOPIK 1", category: "daily-life", source: "[[ko-daily-life-vocabulary]]" }
-- { id: ko_daily_005, display: "가다 (去, gada)", input: "가다", meaning: "to go", level: "TOPIK 1", category: "daily-life", source: "[[ko-daily-life-vocabulary]]" }
-- { id: ko_daily_006, display: "오다 (來, oda)", input: "오다", meaning: "to come", level: "TOPIK 1", category: "daily-life", source: "[[ko-daily-life-vocabulary]]" }
-- { id: ko_daily_007, display: "일하다 (일, ilhada)", input: "일하다", meaning: "to work", level: "TOPIK 1", category: "daily-life", source: "[[ko-daily-life-vocabulary]]" }
-- { id: ko_daily_008, display: "공부하다 (工夫, gongbuhada)", input: "공부하다", meaning: "to study", level: "TOPIK 1", category: "daily-life", source: "[[ko-daily-life-vocabulary]]" }
-- { id: ko_daily_009, display: "쉬다 (休, swida)", input: "쉬다", meaning: "to rest", level: "TOPIK 1", category: "daily-life", source: "[[ko-daily-life-vocabulary]]" }
-- { id: ko_daily_010, display: "운동하다 (運動, undonghada)", input: "운동하다", meaning: "to exercise", level: "TOPIK 2", category: "daily-life", source: "[[ko-daily-life-vocabulary]]" }
-- { id: ko_daily_011, display: "말하다 (말, malhada)", input: "말하다", meaning: "to speak", level: "TOPIK 1", category: "daily-life", source: "[[ko-daily-life-vocabulary]]" }
-- { id: ko_daily_012, display: "듣다 (聽, deutda)", input: "듣다", meaning: "to listen", level: "TOPIK 1", category: "daily-life", source: "[[ko-daily-life-vocabulary]]" }
+- { id: 'kr_daily_life_001', display: '일어나다 (ireonada)', input: '일어나다 (ireonada)', meaning: 'to wake up, get up, rise', level: 'TOPIK 1-2', category: 'daily-life', source: '[[ko-daily-life-vocabulary]]' }
+- { id: 'kr_daily_life_002', display: '자다 (jada)', input: '자다 (jada)', meaning: 'to sleep', level: 'TOPIK 1-2', category: 'daily-life', source: '[[ko-daily-life-vocabulary]]' }
+- { id: 'kr_daily_life_003', display: '먹다 (meokda)', input: '먹다 (meokda)', meaning: 'to eat', level: 'TOPIK 1-2', category: 'daily-life', source: '[[ko-daily-life-vocabulary]]' }
+- { id: 'kr_daily_life_004', display: '마시다 (masida)', input: '마시다 (masida)', meaning: 'to drink', level: 'TOPIK 1-2', category: 'daily-life', source: '[[ko-daily-life-vocabulary]]' }
+- { id: 'kr_daily_life_005', display: '가다 (gada)', input: '가다 (gada)', meaning: 'to go', level: 'TOPIK 1-2', category: 'daily-life', source: '[[ko-daily-life-vocabulary]]' }
+- { id: 'kr_daily_life_006', display: '오다 (oda)', input: '오다 (oda)', meaning: 'to come', level: 'TOPIK 1-2', category: 'daily-life', source: '[[ko-daily-life-vocabulary]]' }
+- { id: 'kr_daily_life_007', display: '일하다 (ilhada)', input: '일하다 (ilhada)', meaning: 'to work', level: 'TOPIK 1-2', category: 'daily-life', source: '[[ko-daily-life-vocabulary]]' }
+- { id: 'kr_daily_life_008', display: '공부하다 (gongbuhada)', input: '공부하다 (gongbuhada)', meaning: 'to study, learn', level: 'TOPIK 1-2', category: 'daily-life', source: '[[ko-daily-life-vocabulary]]' }
+- { id: 'kr_daily_life_009', display: '쉬다 (swida)', input: '쉬다 (swida)', meaning: 'to rest, take a break', level: 'TOPIK 1-2', category: 'daily-life', source: '[[ko-daily-life-vocabulary]]' }
+- { id: 'kr_daily_life_010', display: '운동하다 (undonghada)', input: '운동하다 (undonghada)', meaning: 'to exercise, work out', level: 'TOPIK 1-2', category: 'daily-life', source: '[[ko-daily-life-vocabulary]]' }
+- { id: 'kr_daily_life_011', display: '말하다 (malhada)', input: '말하다 (malhada)', meaning: 'to speak, talk, say', level: 'TOPIK 1-2', category: 'daily-life', source: '[[ko-daily-life-vocabulary]]' }
+- { id: 'kr_daily_life_012', display: '듣다 (deutda)', input: '듣다 (deutda)', meaning: 'to listen, hear', level: 'TOPIK 1-2', category: 'daily-life', source: '[[ko-daily-life-vocabulary]]' }
 ```

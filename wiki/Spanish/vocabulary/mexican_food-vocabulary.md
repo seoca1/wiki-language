@@ -162,9 +162,9 @@ Contexto cultural por añadir
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: es_mexican_food_001, display: "al pastor", input: "al pastor", meaning: "**Pronunciation / IPA:**", level: "** A1-B1", category: "mexican_food-vocabulary", source: "[[mexican_food-vocabulary]]" }
-- { id: es_mexican_food_002, display: "carnitas", input: "carnitas", meaning: "Carnitas (slow-cooked pork, Mexican).", level: "** A1-B1", category: "mexican_food-vocabulary", source: "[[mexican_food-vocabulary]]" }
-- { id: es_mexican_food_003, display: "pollo", input: "pollo", meaning: "Chicken (poultry).", level: "** A1-B1", category: "mexican_food-vocabulary", source: "[[mexican_food-vocabulary]]" }
-- { id: es_mexican_food_004, display: "res", input: "res", meaning: "Beef (cattle meat).", level: "** A1-B1", category: "mexican_food-vocabulary", source: "[[mexican_food-vocabulary]]" }
-- { id: es_mexican_food_005, display: "pescado", input: "pescado", meaning: "Fish (seafood).", level: "** A1-B1", category: "mexican_food-vocabulary", source: "[[mexican_food-vocabulary]]" }
+- { id: 'es_mexican_food_001', display: 'al pastor', input: 'al pastor', meaning: '**Pronunciation / IPA:**', level: '** A1-B1', category: 'mexican_food-vocabulary', source: '[[mexican_food-vocabulary]]' }
+- { id: 'es_mexican_food_002', display: 'carnitas', input: 'carnitas', meaning: 'Carnitas (slow-cooked pork, Mexican).', level: '** A1-B1', category: 'mexican_food-vocabulary', source: '[[mexican_food-vocabulary]]' }
+- { id: 'es_mexican_food_003', display: 'pollo', input: 'pollo', meaning: 'Chicken (poultry).', level: '** A1-B1', category: 'mexican_food-vocabulary', source: '[[mexican_food-vocabulary]]' }
+- { id: 'es_mexican_food_004', display: 'res', input: 'res', meaning: 'Beef (cattle meat).', level: '** A1-B1', category: 'mexican_food-vocabulary', source: '[[mexican_food-vocabulary]]' }
+- { id: 'es_mexican_food_005', display: 'pescado', input: 'pescado', meaning: 'Fish (seafood).', level: '** A1-B1', category: 'mexican_food-vocabulary', source: '[[mexican_food-vocabulary]]' }
 ```

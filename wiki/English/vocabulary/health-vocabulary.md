@@ -297,14 +297,14 @@ English health 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: en_health_001, display: "hospital", input: "hospital", meaning: "병원", level: "A1", category: "health", source: "[[health-vocabulary]]" }
-- { id: en_health_002, display: "doctor", input: "doctor", meaning: "의사", level: "A1", category: "health", source: "[[health-vocabulary]]" }
-- { id: en_health_003, display: "medicine", input: "medicine", meaning: "약", level: "A1", category: "health", source: "[[health-vocabulary]]" }
-- { id: en_health_004, display: "headache", input: "headache", meaning: "두통", level: "A2", category: "health", source: "[[health-vocabulary]]" }
-- { id: en_health_005, display: "fever", input: "fever", meaning: "열", level: "A2", category: "health", source: "[[health-vocabulary]]" }
-- { id: en_health_006, display: "cold", input: "cold", meaning: "감기", level: "A1", category: "health", source: "[[health-vocabulary]]" }
-- { id: en_health_007, display: "head", input: "head", meaning: "머리", level: "A1", category: "health", source: "[[health-vocabulary]]" }
-- { id: en_health_008, display: "stomach", input: "stomach", meaning: "배", level: "A1", category: "health", source: "[[health-vocabulary]]" }
-- { id: en_health_009, display: "pharmacy", input: "pharmacy", meaning: "약국", level: "A2", category: "health", source: "[[health-vocabulary]]" }
-- { id: en_health_010, display: "appointment", input: "appointment", meaning: "예약", level: "A2", category: "health", source: "[[health-vocabulary]]" }
+- { id: 'en_health_001', display: 'hospital', input: 'hospital', meaning: '병원', level: 'A1', category: 'health', source: '[[health-vocabulary]]' }
+- { id: 'en_health_002', display: 'doctor', input: 'doctor', meaning: '의사', level: 'A1', category: 'health', source: '[[health-vocabulary]]' }
+- { id: 'en_health_003', display: 'medicine', input: 'medicine', meaning: '약', level: 'A1', category: 'health', source: '[[health-vocabulary]]' }
+- { id: 'en_health_004', display: 'headache', input: 'headache', meaning: '두통', level: 'A2', category: 'health', source: '[[health-vocabulary]]' }
+- { id: 'en_health_005', display: 'fever', input: 'fever', meaning: '열', level: 'A2', category: 'health', source: '[[health-vocabulary]]' }
+- { id: 'en_health_006', display: 'cold', input: 'cold', meaning: '감기', level: 'A1', category: 'health', source: '[[health-vocabulary]]' }
+- { id: 'en_health_007', display: 'head', input: 'head', meaning: '머리', level: 'A1', category: 'health', source: '[[health-vocabulary]]' }
+- { id: 'en_health_008', display: 'stomach', input: 'stomach', meaning: '배', level: 'A1', category: 'health', source: '[[health-vocabulary]]' }
+- { id: 'en_health_009', display: 'pharmacy', input: 'pharmacy', meaning: '약국', level: 'A2', category: 'health', source: '[[health-vocabulary]]' }
+- { id: 'en_health_010', display: 'appointment', input: 'appointment', meaning: '예약', level: 'A2', category: 'health', source: '[[health-vocabulary]]' }
 ```

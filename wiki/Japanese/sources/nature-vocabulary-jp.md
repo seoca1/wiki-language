@@ -10,6 +10,9 @@ language_level: "JLPT N4-N5"
 **Theme:** 自然・天気
 **Level:** JLPT N4-N5
 
+
+## Summary
+
 日本語自然・天気語彙: 天体、気象現象、季節、地形、自然動植物.
 
 ## Vocabulary Extracted

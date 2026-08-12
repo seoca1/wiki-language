@@ -297,14 +297,14 @@ Chinese 교육문화: 학교 시스템, 학습방식, 학업 표현 등.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: zh_education_001, display: "学校 (xuéxiào, 学校)", input: "学校 (xuéxiào, 学校)", meaning: "school", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: zh_education_002, display: "学生 (xuéshēng, 學生)", input: "学生 (xuéshēng, 學生)", meaning: "student", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: zh_education_003, display: "老师 (lǎoshī, 老師)", input: "老师 (lǎoshī, 老師)", meaning: "teacher", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: zh_education_004, display: "书 (shū, 書)", input: "书 (shū, 書)", meaning: "book", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: zh_education_005, display: "笔 (bǐ, 筆)", input: "笔 (bǐ, 筆)", meaning: "pen", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: zh_education_006, display: "铅笔 (qiānbǐ, 鉛筆)", input: "铅笔 (qiānbǐ, 鉛筆)", meaning: "pencil", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: zh_education_007, display: "作业 (zuòyè, 作業)", input: "作业 (zuòyè, 作業)", meaning: "homework", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: zh_education_008, display: "考试 (kǎoshì, 考試)", input: "考试 (kǎoshì, 考試)", meaning: "test/exam", level: "HSK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: zh_education_009, display: "图书馆 (túshūguǎn, 圖書館)", input: "图书馆 (túshūguǎn, 圖書館)", meaning: "library", level: "HSK 2", category: "education", source: "[[education-vocabulary]]" }
-- { id: zh_education_010, display: "大学 (dàxué, 大學)", input: "大学 (dàxué, 大學)", meaning: "university", level: "HSK 2", category: "education", source: "[[education-vocabulary]]" }
+- { id: 'zh_education_001', display: '学校 (xuéxiào, 学校)', input: '学校 (xuéxiào, 学校)', meaning: 'school', level: 'HSK 1', category: 'education', source: '[[education-vocabulary]]' }
+- { id: 'zh_education_002', display: '学生 (xuéshēng, 學生)', input: '学生 (xuéshēng, 學生)', meaning: 'student', level: 'HSK 1', category: 'education', source: '[[education-vocabulary]]' }
+- { id: 'zh_education_003', display: '老师 (lǎoshī, 老師)', input: '老师 (lǎoshī, 老師)', meaning: 'teacher', level: 'HSK 1', category: 'education', source: '[[education-vocabulary]]' }
+- { id: 'zh_education_004', display: '书 (shū, 書)', input: '书 (shū, 書)', meaning: 'book', level: 'HSK 1', category: 'education', source: '[[education-vocabulary]]' }
+- { id: 'zh_education_005', display: '笔 (bǐ, 筆)', input: '笔 (bǐ, 筆)', meaning: 'pen', level: 'HSK 1', category: 'education', source: '[[education-vocabulary]]' }
+- { id: 'zh_education_006', display: '铅笔 (qiānbǐ, 鉛筆)', input: '铅笔 (qiānbǐ, 鉛筆)', meaning: 'pencil', level: 'HSK 1', category: 'education', source: '[[education-vocabulary]]' }
+- { id: 'zh_education_007', display: '作业 (zuòyè, 作業)', input: '作业 (zuòyè, 作業)', meaning: 'homework', level: 'HSK 1', category: 'education', source: '[[education-vocabulary]]' }
+- { id: 'zh_education_008', display: '考试 (kǎoshì, 考試)', input: '考试 (kǎoshì, 考試)', meaning: 'test/exam', level: 'HSK 1', category: 'education', source: '[[education-vocabulary]]' }
+- { id: 'zh_education_009', display: '图书馆 (túshūguǎn, 圖書館)', input: '图书馆 (túshūguǎn, 圖書館)', meaning: 'library', level: 'HSK 2', category: 'education', source: '[[education-vocabulary]]' }
+- { id: 'zh_education_010', display: '大学 (dàxué, 大學)', input: '大学 (dàxué, 大學)', meaning: 'university', level: 'HSK 2', category: 'education', source: '[[education-vocabulary]]' }
 ```

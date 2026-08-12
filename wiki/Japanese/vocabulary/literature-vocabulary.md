@@ -430,23 +430,23 @@ theme: "literature"
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: jp_literature_001, display: "文学作品 (bungaku sakuhin)", input: "文学作品 (bungaku sakuhin)", meaning: "문학 작품", level: "N3-N1", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: jp_literature_002, display: "小説 (shōsetsu)", input: "小説 (shōsetsu)", meaning: "소설 (장편)", level: "N3-N1", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: jp_literature_003, display: "短編 (tanpen)", input: "短編 (tanpen)", meaning: "단편", level: "N3-N1", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: jp_literature_004, display: "詩 (shi)", input: "詩 (shi)", meaning: "시", level: "N3-N1", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: jp_literature_005, display: "俳句 (haiku)", input: "俳句 (haiku)", meaning: "하이쿠 (5-7-5 일본 정형시)", level: "N3-N1", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: jp_literature_006, display: "随筆 (zuihitsu)", input: "随筆 (zuihitsu)", meaning: "수필", level: "N3-N1", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: jp_literature_007, display: "主人公 (shujinkō)", input: "主人公 (shujinkō)", meaning: "주인공", level: "N3-N1", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: jp_literature_008, display: "語り手 (katarite)", input: "語り手 (katarite)", meaning: "이야기하는 사람 / 서술자", level: "N3-N1", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: jp_literature_009, display: "テーマ (tēma)", input: "テーマ (tēma)", meaning: "주제 / 테마", level: "N3-N1", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: jp_literature_010, display: "舞台 (butai)", input: "舞台 (butai)", meaning: "무대 / 배경", level: "N3-N1", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: jp_literature_011, display: "時代 (jidai)", input: "時代 (jidai)", meaning: "시대", level: "N3-N1", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: jp_literature_012, display: "作者 (sakusha)", input: "作者 (sakusha)", meaning: "작가 / 저자", level: "N3-N1", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: jp_literature_013, display: "作家 (sakka)", input: "作家 (sakka)", meaning: "작가 (전문 직업)", level: "N3-N1", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: jp_literature_014, display: "古典 (koten)", input: "古典 (koten)", meaning: "고전", level: "N3-N1", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: jp_literature_015, display: "現代文学 (gendaibungaku)", input: "現代文学 (gendaibungaku)", meaning: "현대 문학", level: "N3-N1", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: jp_literature_016, display: "文体 (buntai)", input: "文体 (buntai)", meaning: "문체", level: "N3-N1", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: jp_literature_017, display: "比喩 (hiyu)", input: "比喩 (hiyu)", meaning: "비유 (은유/직유)", level: "N3-N1", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: jp_literature_018, display: "象徴 (shōchō)", input: "象徴 (shōchō)", meaning: "상징", level: "N3-N1", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: jp_literature_019, display: "風刺 (fūshi)", input: "風刺 (fūshi)", meaning: "풍자", level: "N3-N1", category: "literature", source: "[[literature-vocabulary]]" }
+- { id: 'jp_literature_001', display: '文学作品 (bungaku sakuhin)', input: '文学作品 (bungaku sakuhin)', meaning: '문학 작품', level: 'N3-N1', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'jp_literature_002', display: '小説 (shōsetsu)', input: '小説 (shōsetsu)', meaning: '소설 (장편)', level: 'N3-N1', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'jp_literature_003', display: '短編 (tanpen)', input: '短編 (tanpen)', meaning: '단편', level: 'N3-N1', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'jp_literature_004', display: '詩 (shi)', input: '詩 (shi)', meaning: '시', level: 'N3-N1', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'jp_literature_005', display: '俳句 (haiku)', input: '俳句 (haiku)', meaning: '하이쿠 (5-7-5 일본 정형시)', level: 'N3-N1', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'jp_literature_006', display: '随筆 (zuihitsu)', input: '随筆 (zuihitsu)', meaning: '수필', level: 'N3-N1', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'jp_literature_007', display: '主人公 (shujinkō)', input: '主人公 (shujinkō)', meaning: '주인공', level: 'N3-N1', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'jp_literature_008', display: '語り手 (katarite)', input: '語り手 (katarite)', meaning: '이야기하는 사람 / 서술자', level: 'N3-N1', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'jp_literature_009', display: 'テーマ (tēma)', input: 'テーマ (tēma)', meaning: '주제 / 테마', level: 'N3-N1', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'jp_literature_010', display: '舞台 (butai)', input: '舞台 (butai)', meaning: '무대 / 배경', level: 'N3-N1', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'jp_literature_011', display: '時代 (jidai)', input: '時代 (jidai)', meaning: '시대', level: 'N3-N1', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'jp_literature_012', display: '作者 (sakusha)', input: '作者 (sakusha)', meaning: '작가 / 저자', level: 'N3-N1', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'jp_literature_013', display: '作家 (sakka)', input: '作家 (sakka)', meaning: '작가 (전문 직업)', level: 'N3-N1', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'jp_literature_014', display: '古典 (koten)', input: '古典 (koten)', meaning: '고전', level: 'N3-N1', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'jp_literature_015', display: '現代文学 (gendaibungaku)', input: '現代文学 (gendaibungaku)', meaning: '현대 문학', level: 'N3-N1', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'jp_literature_016', display: '文体 (buntai)', input: '文体 (buntai)', meaning: '문체', level: 'N3-N1', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'jp_literature_017', display: '比喩 (hiyu)', input: '比喩 (hiyu)', meaning: '비유 (은유/직유)', level: 'N3-N1', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'jp_literature_018', display: '象徴 (shōchō)', input: '象徴 (shōchō)', meaning: '상징', level: 'N3-N1', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'jp_literature_019', display: '風刺 (fūshi)', input: '風刺 (fūshi)', meaning: '풍자', level: 'N3-N1', category: 'literature', source: '[[literature-vocabulary]]' }
 ```

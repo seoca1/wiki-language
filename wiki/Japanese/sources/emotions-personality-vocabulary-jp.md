@@ -10,6 +10,9 @@ language_level: "JLPT N4-N5"
 **Theme:** 感情・性格
 **Level:** JLPT N4-N5
 
+
+## Summary
+
 日本語感情・性格語彙: 基本感情、肯定的/否定的性格特性、感情動詞.
 
 ## Vocabulary Extracted

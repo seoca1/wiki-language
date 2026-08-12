@@ -10,6 +10,9 @@ language_level: "JLPT N3-N4"
 **Theme:** ビジネス
 **Level:** JLPT N3-N4
 
+
+## Summary
+
 日本語ビジネス語彙: メール/書類, 会議/ミーティング, プレゼンテーション, 職場/業務, 数字/契約, 電話/コミュニケーション, ビジネス表現.
 
 ## Vocabulary Extracted

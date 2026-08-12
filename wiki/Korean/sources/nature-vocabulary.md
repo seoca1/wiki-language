@@ -10,6 +10,9 @@ language_level: "TOPIK 1-2"
 **Theme:** 자연·날씨
 **Level:** TOPIK 1-2
 
+
+## Summary
+
 한국어 자연/날씨 어휘: 천체, 기상 현상, 계절, 지형, 동식물, 자연 관련 동사.
 
 ## Vocabulary Extracted

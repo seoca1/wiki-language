@@ -430,23 +430,23 @@ US uses "resume"; UK uses "CV" (curriculum vitae).
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: en_career_001, display: "work", input: "work", meaning: "일/일하다", level: "A1", category: "career", source: "[[career-vocabulary]]" }
-- { id: en_career_002, display: "office", input: "office", meaning: "사무실", level: "A2", category: "career", source: "[[career-vocabulary]]" }
-- { id: en_career_003, display: "meeting", input: "meeting", meaning: "회의", level: "A2", category: "career", source: "[[career-vocabulary]]" }
-- { id: en_career_004, display: "manager", input: "manager", meaning: "매니저/관리자", level: "A2", category: "career", source: "[[career-vocabulary]]" }
-- { id: en_career_005, display: "project", input: "project", meaning: "프로젝트", level: "A2", category: "career", source: "[[career-vocabulary]]" }
-- { id: en_career_006, display: "deadline", input: "deadline", meaning: "마감/데드라인", level: "B1", category: "career", source: "[[career-vocabulary]]" }
-- { id: en_career_007, display: "report", input: "report", meaning: "보고서/보고하다", level: "A2", category: "career", source: "[[career-vocabulary]]" }
-- { id: en_career_008, display: "email", input: "email", meaning: "이메일", level: "A1", category: "career", source: "[[career-vocabulary]]" }
-- { id: en_career_009, display: "salary", input: "salary", meaning: "급여(월급)", level: "B1", category: "career", source: "[[career-vocabulary]]" }
-- { id: en_career_010, display: "colleague", input: "colleague", meaning: "동료", level: "B1", category: "career", source: "[[career-vocabulary]]" }
-- { id: en_career_011, display: "boss", input: "boss", meaning: "상사", level: "A2", category: "career", source: "[[career-vocabulary]]" }
-- { id: en_career_012, display: "employee", input: "employee", meaning: "직원", level: "B1", category: "career", source: "[[career-vocabulary]]" }
-- { id: en_career_013, display: "interview", input: "interview", meaning: "인터뷰/면접", level: "B1", category: "career", source: "[[career-vocabulary]]" }
-- { id: en_career_014, display: "resume", input: "resume", meaning: "이력서", level: "B1", category: "career", source: "[[career-vocabulary]]" }
-- { id: en_career_015, display: "schedule", input: "schedule", meaning: "일정/예약하다", level: "A2", category: "career", source: "[[career-vocabulary]]" }
-- { id: en_career_016, display: "agenda", input: "agenda", meaning: "의제/안건", level: "B2", category: "career", source: "[[career-vocabulary]]" }
-- { id: en_career_017, display: "presentation", input: "presentation", meaning: "프레젠테이션/발표", level: "B1", category: "career", source: "[[career-vocabulary]]" }
-- { id: en_career_018, display: "feedback", input: "feedback", meaning: "피드백", level: "B1", category: "career", source: "[[career-vocabulary]]" }
-- { id: en_career_019, display: "overtime", input: "overtime", meaning: "초과 근무", level: "B1", category: "career", source: "[[career-vocabulary]]" }
+- { id: 'en_career_001', display: 'work', input: 'work', meaning: '일/일하다', level: 'A1', category: 'career', source: '[[career-vocabulary]]' }
+- { id: 'en_career_002', display: 'office', input: 'office', meaning: '사무실', level: 'A2', category: 'career', source: '[[career-vocabulary]]' }
+- { id: 'en_career_003', display: 'meeting', input: 'meeting', meaning: '회의', level: 'A2', category: 'career', source: '[[career-vocabulary]]' }
+- { id: 'en_career_004', display: 'manager', input: 'manager', meaning: '매니저/관리자', level: 'A2', category: 'career', source: '[[career-vocabulary]]' }
+- { id: 'en_career_005', display: 'project', input: 'project', meaning: '프로젝트', level: 'A2', category: 'career', source: '[[career-vocabulary]]' }
+- { id: 'en_career_006', display: 'deadline', input: 'deadline', meaning: '마감/데드라인', level: 'B1', category: 'career', source: '[[career-vocabulary]]' }
+- { id: 'en_career_007', display: 'report', input: 'report', meaning: '보고서/보고하다', level: 'A2', category: 'career', source: '[[career-vocabulary]]' }
+- { id: 'en_career_008', display: 'email', input: 'email', meaning: '이메일', level: 'A1', category: 'career', source: '[[career-vocabulary]]' }
+- { id: 'en_career_009', display: 'salary', input: 'salary', meaning: '급여(월급)', level: 'B1', category: 'career', source: '[[career-vocabulary]]' }
+- { id: 'en_career_010', display: 'colleague', input: 'colleague', meaning: '동료', level: 'B1', category: 'career', source: '[[career-vocabulary]]' }
+- { id: 'en_career_011', display: 'boss', input: 'boss', meaning: '상사', level: 'A2', category: 'career', source: '[[career-vocabulary]]' }
+- { id: 'en_career_012', display: 'employee', input: 'employee', meaning: '직원', level: 'B1', category: 'career', source: '[[career-vocabulary]]' }
+- { id: 'en_career_013', display: 'interview', input: 'interview', meaning: '인터뷰/면접', level: 'B1', category: 'career', source: '[[career-vocabulary]]' }
+- { id: 'en_career_014', display: 'resume', input: 'resume', meaning: '이력서', level: 'B1', category: 'career', source: '[[career-vocabulary]]' }
+- { id: 'en_career_015', display: 'schedule', input: 'schedule', meaning: '일정/예약하다', level: 'A2', category: 'career', source: '[[career-vocabulary]]' }
+- { id: 'en_career_016', display: 'agenda', input: 'agenda', meaning: '의제/안건', level: 'B2', category: 'career', source: '[[career-vocabulary]]' }
+- { id: 'en_career_017', display: 'presentation', input: 'presentation', meaning: '프레젠테이션/발표', level: 'B1', category: 'career', source: '[[career-vocabulary]]' }
+- { id: 'en_career_018', display: 'feedback', input: 'feedback', meaning: '피드백', level: 'B1', category: 'career', source: '[[career-vocabulary]]' }
+- { id: 'en_career_019', display: 'overtime', input: 'overtime', meaning: '초과 근무', level: 'B1', category: 'career', source: '[[career-vocabulary]]' }
 ```

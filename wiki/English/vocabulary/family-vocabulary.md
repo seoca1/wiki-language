@@ -297,14 +297,14 @@ English family 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: en_family_001, display: "mother", input: "mother", meaning: "어머니", level: "A1", category: "family", source: "[[family-vocabulary]]" }
-- { id: en_family_002, display: "father", input: "father", meaning: "아버지", level: "A1", category: "family", source: "[[family-vocabulary]]" }
-- { id: en_family_003, display: "sister", input: "sister", meaning: "여자 형제", level: "A1", category: "family", source: "[[family-vocabulary]]" }
-- { id: en_family_004, display: "brother", input: "brother", meaning: "남자 형제", level: "A1", category: "family", source: "[[family-vocabulary]]" }
-- { id: en_family_005, display: "grandmother", input: "grandmother", meaning: "할머니", level: "A1", category: "family", source: "[[family-vocabulary]]" }
-- { id: en_family_006, display: "grandfather", input: "grandfather", meaning: "할아버지", level: "A1", category: "family", source: "[[family-vocabulary]]" }
-- { id: en_family_007, display: "aunt", input: "aunt", meaning: "고모/이모", level: "A2", category: "family", source: "[[family-vocabulary]]" }
-- { id: en_family_008, display: "uncle", input: "uncle", meaning: "삼촌/외삼촌", level: "A2", category: "family", source: "[[family-vocabulary]]" }
-- { id: en_family_009, display: "cousin", input: "cousin", meaning: "사촌", level: "A2", category: "family", source: "[[family-vocabulary]]" }
-- { id: en_family_010, display: "family", input: "family", meaning: "가족", level: "A1", category: "family", source: "[[family-vocabulary]]" }
+- { id: 'en_family_001', display: 'mother', input: 'mother', meaning: '어머니', level: 'A1', category: 'family', source: '[[family-vocabulary]]' }
+- { id: 'en_family_002', display: 'father', input: 'father', meaning: '아버지', level: 'A1', category: 'family', source: '[[family-vocabulary]]' }
+- { id: 'en_family_003', display: 'sister', input: 'sister', meaning: '여자 형제', level: 'A1', category: 'family', source: '[[family-vocabulary]]' }
+- { id: 'en_family_004', display: 'brother', input: 'brother', meaning: '남자 형제', level: 'A1', category: 'family', source: '[[family-vocabulary]]' }
+- { id: 'en_family_005', display: 'grandmother', input: 'grandmother', meaning: '할머니', level: 'A1', category: 'family', source: '[[family-vocabulary]]' }
+- { id: 'en_family_006', display: 'grandfather', input: 'grandfather', meaning: '할아버지', level: 'A1', category: 'family', source: '[[family-vocabulary]]' }
+- { id: 'en_family_007', display: 'aunt', input: 'aunt', meaning: '고모/이모', level: 'A2', category: 'family', source: '[[family-vocabulary]]' }
+- { id: 'en_family_008', display: 'uncle', input: 'uncle', meaning: '삼촌/외삼촌', level: 'A2', category: 'family', source: '[[family-vocabulary]]' }
+- { id: 'en_family_009', display: 'cousin', input: 'cousin', meaning: '사촌', level: 'A2', category: 'family', source: '[[family-vocabulary]]' }
+- { id: 'en_family_010', display: 'family', input: 'family', meaning: '가족', level: 'A1', category: 'family', source: '[[family-vocabulary]]' }
 ```

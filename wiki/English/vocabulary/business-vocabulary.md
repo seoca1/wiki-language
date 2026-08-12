@@ -1426,56 +1426,56 @@ Standard business communication. "Email chain" = thread of replies.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: en_business_001, display: "email", input: "email", meaning: "이메일", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_002, display: "address", input: "address", meaning: "주소", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_003, display: "sender", input: "sender", meaning: "보낸 사람", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_004, display: "recipient", input: "recipient", meaning: "받는 사람", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_005, display: "subject", input: "subject", meaning: "제목", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_006, display: "attachment", input: "attachment", meaning: "첨부", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_007, display: "send", input: "send", meaning: "보내다", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_008, display: "receive", input: "receive", meaning: "받다", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_009, display: "reply", input: "reply", meaning: "답장", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_010, display: "save", input: "save", meaning: "저장", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_011, display: "delete", input: "delete", meaning: "삭제", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_012, display: "meeting", input: "meeting", meaning: "회의", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_013, display: "schedule", input: "schedule", meaning: "일정", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_014, display: "agenda", input: "agenda", meaning: "안건", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_015, display: "presentation", input: "presentation", meaning: "발표", level: "B2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_016, display: "opinion", input: "opinion", meaning: "의견", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_017, display: "decision", input: "decision", meaning: "결정", level: "B2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_018, display: "agreement", input: "agreement", meaning: "합의", level: "B2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_019, display: "record", input: "record", meaning: "기록", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_020, display: "location", input: "location", meaning: "장소", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_021, display: "postpone", input: "postpone", meaning: "연기", level: "B2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_022, display: "company", input: "company", meaning: "회사", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_023, display: "office", input: "office", meaning: "사무실", level: "A2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_024, display: "colleague", input: "colleague", meaning: "동료", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_025, display: "boss", input: "boss", meaning: "상사", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_026, display: "subordinate", input: "subordinate", meaning: "부하", level: "B2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_027, display: "employee", input: "employee", meaning: "직원", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_028, display: "representative", input: "representative", meaning: "대표", level: "B2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_029, display: "team leader", input: "team leader", meaning: "팀장", level: "B2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_030, display: "project", input: "project", meaning: "프로젝트", level: "B2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_031, display: "work", input: "work", meaning: "업무", level: "A2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_032, display: "contract", input: "contract", meaning: "계약", level: "B2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_033, display: "report", input: "report", meaning: "보고서", level: "B2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_034, display: "submit", input: "submit", meaning: "제출", level: "B2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_035, display: "confirm", input: "confirm", meaning: "확인", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_036, display: "approve", input: "approve", meaning: "승인", level: "B2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_037, display: "phone call", input: "phone call", meaning: "전화", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_038, display: "message", input: "message", meaning: "메시지", level: "A2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_039, display: "phone number", input: "phone number", meaning: "전화번호", level: "A2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_040, display: "connection", input: "connection", meaning: "연결", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_041, display: "review", input: "review", meaning: "검토", level: "B2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_042, display: "cooperation", input: "cooperation", meaning: "협조", level: "B2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_043, display: "please review", input: "please review", meaning: "검토 부탁드립니다", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_044, display: "thank you", input: "thank you", meaning: "감사합니다", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_045, display: "computer", input: "computer", meaning: "컴퓨터", level: "A2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_046, display: "internet", input: "internet", meaning: "인터넷", level: "A2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_047, display: "keyboard", input: "keyboard", meaning: "키보드", level: "A2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_048, display: "screen", input: "screen", meaning: "화면", level: "A2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_049, display: "phone", input: "phone", meaning: "전화", level: "A2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_050, display: "website", input: "website", meaning: "웹사이트", level: "A2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_051, display: "wifi", input: "wifi", meaning: "와이파이", level: "A2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: en_business_052, display: "password", input: "password", meaning: "비밀번호", level: "A2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: 'en_business_001', display: 'email', input: 'email', meaning: '이메일', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_002', display: 'address', input: 'address', meaning: '주소', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_003', display: 'sender', input: 'sender', meaning: '보낸 사람', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_004', display: 'recipient', input: 'recipient', meaning: '받는 사람', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_005', display: 'subject', input: 'subject', meaning: '제목', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_006', display: 'attachment', input: 'attachment', meaning: '첨부', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_007', display: 'send', input: 'send', meaning: '보내다', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_008', display: 'receive', input: 'receive', meaning: '받다', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_009', display: 'reply', input: 'reply', meaning: '답장', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_010', display: 'save', input: 'save', meaning: '저장', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_011', display: 'delete', input: 'delete', meaning: '삭제', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_012', display: 'meeting', input: 'meeting', meaning: '회의', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_013', display: 'schedule', input: 'schedule', meaning: '일정', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_014', display: 'agenda', input: 'agenda', meaning: '안건', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_015', display: 'presentation', input: 'presentation', meaning: '발표', level: 'B2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_016', display: 'opinion', input: 'opinion', meaning: '의견', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_017', display: 'decision', input: 'decision', meaning: '결정', level: 'B2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_018', display: 'agreement', input: 'agreement', meaning: '합의', level: 'B2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_019', display: 'record', input: 'record', meaning: '기록', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_020', display: 'location', input: 'location', meaning: '장소', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_021', display: 'postpone', input: 'postpone', meaning: '연기', level: 'B2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_022', display: 'company', input: 'company', meaning: '회사', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_023', display: 'office', input: 'office', meaning: '사무실', level: 'A2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_024', display: 'colleague', input: 'colleague', meaning: '동료', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_025', display: 'boss', input: 'boss', meaning: '상사', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_026', display: 'subordinate', input: 'subordinate', meaning: '부하', level: 'B2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_027', display: 'employee', input: 'employee', meaning: '직원', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_028', display: 'representative', input: 'representative', meaning: '대표', level: 'B2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_029', display: 'team leader', input: 'team leader', meaning: '팀장', level: 'B2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_030', display: 'project', input: 'project', meaning: '프로젝트', level: 'B2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_031', display: 'work', input: 'work', meaning: '업무', level: 'A2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_032', display: 'contract', input: 'contract', meaning: '계약', level: 'B2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_033', display: 'report', input: 'report', meaning: '보고서', level: 'B2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_034', display: 'submit', input: 'submit', meaning: '제출', level: 'B2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_035', display: 'confirm', input: 'confirm', meaning: '확인', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_036', display: 'approve', input: 'approve', meaning: '승인', level: 'B2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_037', display: 'phone call', input: 'phone call', meaning: '전화', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_038', display: 'message', input: 'message', meaning: '메시지', level: 'A2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_039', display: 'phone number', input: 'phone number', meaning: '전화번호', level: 'A2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_040', display: 'connection', input: 'connection', meaning: '연결', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_041', display: 'review', input: 'review', meaning: '검토', level: 'B2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_042', display: 'cooperation', input: 'cooperation', meaning: '협조', level: 'B2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_043', display: 'please review', input: 'please review', meaning: '검토 부탁드립니다', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_044', display: 'thank you', input: 'thank you', meaning: '감사합니다', level: 'A1', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_045', display: 'computer', input: 'computer', meaning: '컴퓨터', level: 'A2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_046', display: 'internet', input: 'internet', meaning: '인터넷', level: 'A2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_047', display: 'keyboard', input: 'keyboard', meaning: '키보드', level: 'A2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_048', display: 'screen', input: 'screen', meaning: '화면', level: 'A2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_049', display: 'phone', input: 'phone', meaning: '전화', level: 'A2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_050', display: 'website', input: 'website', meaning: '웹사이트', level: 'A2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_051', display: 'wifi', input: 'wifi', meaning: '와이파이', level: 'A2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'en_business_052', display: 'password', input: 'password', meaning: '비밀번호', level: 'A2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
 ```

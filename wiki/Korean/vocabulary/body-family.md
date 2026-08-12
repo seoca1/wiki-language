@@ -544,28 +544,28 @@ See also: `[[food-vocabulary]]`, `[[emotions-personality-vocabulary]]`, `[[busin
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: kr_body_family_001, display: "머리 (Head)", input: "머리 (Head)", meaning: "", level: "A1-B1", category: "body-family", source: "[[body-family]]" }
-- { id: kr_body_family_002, display: "눈동자 (Eyes & Vision)", input: "눈동자 (Eyes & Vision)", meaning: "", level: "A1-B1", category: "body-family", source: "[[body-family]]" }
-- { id: kr_body_family_003, display: "코와 입 (Nose and Mouth)", input: "코와 입 (Nose and Mouth)", meaning: "", level: "A1-B1", category: "body-family", source: "[[body-family]]" }
-- { id: kr_body_family_004, display: "귀 (Ear)", input: "귀 (Ear)", meaning: "", level: "A1-B1", category: "body-family", source: "[[body-family]]" }
-- { id: kr_body_family_005, display: "얼굴 전체 (Full Face)", input: "얼굴 전체 (Full Face)", meaning: "", level: "A1-B1", category: "body-family", source: "[[body-family]]" }
-- { id: kr_body_family_006, display: "목과 어깨 (Neck and Shoulders)", input: "목과 어깨 (Neck and Shoulders)", meaning: "", level: "A1-B1", category: "body-family", source: "[[body-family]]" }
-- { id: kr_body_family_007, display: "팔 (Arms)", input: "팔 (Arms)", meaning: "", level: "A1-B1", category: "body-family", source: "[[body-family]]" }
-- { id: kr_body_family_008, display: "다리 (Legs)", input: "다리 (Legs)", meaning: "", level: "A1-B1", category: "body-family", source: "[[body-family]]" }
-- { id: kr_body_family_009, display: "몸통 (Torso)", input: "몸통 (Torso)", meaning: "", level: "A1-B1", category: "body-family", source: "[[body-family]]" }
-- { id: kr_body_family_010, display: "장기 (Internal Organs)", input: "장기 (Internal Organs)", meaning: "", level: "A1-B1", category: "body-family", source: "[[body-family]]" }
-- { id: kr_body_family_011, display: "뼈와 근육 (Bones and Muscles)", input: "뼈와 근육 (Bones and Muscles)", meaning: "", level: "A1-B1", category: "body-family", source: "[[body-family]]" }
-- { id: kr_body_family_012, display: "부모 (Parents)", input: "부모 (Parents)", meaning: "", level: "A1-B1", category: "body-family", source: "[[body-family]]" }
-- { id: kr_body_family_013, display: "자녀 (Children)", input: "자녀 (Children)", meaning: "", level: "A1-B1", category: "body-family", source: "[[body-family]]" }
-- { id: kr_body_family_014, display: "형제자매 (Siblings)", input: "형제자매 (Siblings)", meaning: "", level: "A1-B1", category: "body-family", source: "[[body-family]]" }
-- { id: kr_body_family_015, display: "친척 (Extended Family)", input: "친척 (Extended Family)", meaning: "", level: "A1-B1", category: "body-family", source: "[[body-family]]" }
-- { id: kr_body_family_016, display: "배우자 (Spouse)", input: "배우자 (Spouse)", meaning: "", level: "A1-B1", category: "body-family", source: "[[body-family]]" }
-- { id: kr_body_family_017, display: "나이/세대 (Age/Generation)", input: "나이/세대 (Age/Generation)", meaning: "", level: "A1-B1", category: "body-family", source: "[[body-family]]" }
-- { id: kr_body_family_018, display: "얼굴 (Face)", input: "얼굴 (Face)", meaning: "", level: "A1-B1", category: "body-family", source: "[[body-family]]" }
-- { id: kr_body_family_019, display: "머리카락 (Hair)", input: "머리카락 (Hair)", meaning: "", level: "A1-B1", category: "body-family", source: "[[body-family]]" }
-- { id: kr_body_family_020, display: "키 (Stature)", input: "키 (Stature)", meaning: "", level: "A1-B1", category: "body-family", source: "[[body-family]]" }
-- { id: kr_body_family_021, display: "체형 (Body Type)", input: "체형 (Body Type)", meaning: "", level: "A1-B1", category: "body-family", source: "[[body-family]]" }
-- { id: kr_body_family_022, display: "외모 형용사 (Appearance Adjectives)", input: "외모 형용사 (Appearance Adjectives)", meaning: "", level: "A1-B1", category: "body-family", source: "[[body-family]]" }
-- { id: kr_body_family_023, display: "성격 형용사 (Personality Adjectives)", input: "성격 형용사 (Personality Adjectives)", meaning: "", level: "A1-B1", category: "body-family", source: "[[body-family]]" }
-- { id: kr_body_family_024, display: "성격 비교 (Personality Comparisons)", input: "성격 비교 (Personality Comparisons)", meaning: "", level: "A1-B1", category: "body-family", source: "[[body-family]]" }
+- { id: 'kr_family_001', display: '머리 (Head)', input: '머리 (Head)', meaning: '', level: 'A1-B1', category: 'body-family', source: '[[family-vocabulary]]' }
+- { id: 'kr_family_002', display: '눈동자 (Eyes & Vision)', input: '눈동자 (Eyes & Vision)', meaning: '', level: 'A1-B1', category: 'body-family', source: '[[family-vocabulary]]' }
+- { id: 'kr_family_003', display: '코와 입 (Nose and Mouth)', input: '코와 입 (Nose and Mouth)', meaning: '', level: 'A1-B1', category: 'body-family', source: '[[family-vocabulary]]' }
+- { id: 'kr_family_004', display: '귀 (Ear)', input: '귀 (Ear)', meaning: '', level: 'A1-B1', category: 'body-family', source: '[[family-vocabulary]]' }
+- { id: 'kr_family_005', display: '얼굴 전체 (Full Face)', input: '얼굴 전체 (Full Face)', meaning: '', level: 'A1-B1', category: 'body-family', source: '[[family-vocabulary]]' }
+- { id: 'kr_family_006', display: '목과 어깨 (Neck and Shoulders)', input: '목과 어깨 (Neck and Shoulders)', meaning: '', level: 'A1-B1', category: 'body-family', source: '[[family-vocabulary]]' }
+- { id: 'kr_family_007', display: '팔 (Arms)', input: '팔 (Arms)', meaning: '', level: 'A1-B1', category: 'body-family', source: '[[family-vocabulary]]' }
+- { id: 'kr_family_008', display: '다리 (Legs)', input: '다리 (Legs)', meaning: '', level: 'A1-B1', category: 'body-family', source: '[[family-vocabulary]]' }
+- { id: 'kr_family_009', display: '몸통 (Torso)', input: '몸통 (Torso)', meaning: '', level: 'A1-B1', category: 'body-family', source: '[[family-vocabulary]]' }
+- { id: 'kr_family_010', display: '장기 (Internal Organs)', input: '장기 (Internal Organs)', meaning: '', level: 'A1-B1', category: 'body-family', source: '[[family-vocabulary]]' }
+- { id: 'kr_family_011', display: '뼈와 근육 (Bones and Muscles)', input: '뼈와 근육 (Bones and Muscles)', meaning: '', level: 'A1-B1', category: 'body-family', source: '[[family-vocabulary]]' }
+- { id: 'kr_family_012', display: '부모 (Parents)', input: '부모 (Parents)', meaning: '', level: 'A1-B1', category: 'body-family', source: '[[family-vocabulary]]' }
+- { id: 'kr_family_013', display: '자녀 (Children)', input: '자녀 (Children)', meaning: '', level: 'A1-B1', category: 'body-family', source: '[[family-vocabulary]]' }
+- { id: 'kr_family_014', display: '형제자매 (Siblings)', input: '형제자매 (Siblings)', meaning: '', level: 'A1-B1', category: 'body-family', source: '[[family-vocabulary]]' }
+- { id: 'kr_family_015', display: '친척 (Extended Family)', input: '친척 (Extended Family)', meaning: '', level: 'A1-B1', category: 'body-family', source: '[[family-vocabulary]]' }
+- { id: 'kr_family_016', display: '배우자 (Spouse)', input: '배우자 (Spouse)', meaning: '', level: 'A1-B1', category: 'body-family', source: '[[family-vocabulary]]' }
+- { id: 'kr_family_017', display: '나이/세대 (Age/Generation)', input: '나이/세대 (Age/Generation)', meaning: '', level: 'A1-B1', category: 'body-family', source: '[[family-vocabulary]]' }
+- { id: 'kr_family_018', display: '얼굴 (Face)', input: '얼굴 (Face)', meaning: '', level: 'A1-B1', category: 'body-family', source: '[[family-vocabulary]]' }
+- { id: 'kr_family_019', display: '머리카락 (Hair)', input: '머리카락 (Hair)', meaning: '', level: 'A1-B1', category: 'body-family', source: '[[family-vocabulary]]' }
+- { id: 'kr_family_020', display: '키 (Stature)', input: '키 (Stature)', meaning: '', level: 'A1-B1', category: 'body-family', source: '[[family-vocabulary]]' }
+- { id: 'kr_family_021', display: '체형 (Body Type)', input: '체형 (Body Type)', meaning: '', level: 'A1-B1', category: 'body-family', source: '[[family-vocabulary]]' }
+- { id: 'kr_family_022', display: '외모 형용사 (Appearance Adjectives)', input: '외모 형용사 (Appearance Adjectives)', meaning: '', level: 'A1-B1', category: 'body-family', source: '[[family-vocabulary]]' }
+- { id: 'kr_family_023', display: '성격 형용사 (Personality Adjectives)', input: '성격 형용사 (Personality Adjectives)', meaning: '', level: 'A1-B1', category: 'body-family', source: '[[family-vocabulary]]' }
+- { id: 'kr_family_024', display: '성격 비교 (Personality Comparisons)', input: '성격 비교 (Personality Comparisons)', meaning: '', level: 'A1-B1', category: 'body-family', source: '[[family-vocabulary]]' }
 ```

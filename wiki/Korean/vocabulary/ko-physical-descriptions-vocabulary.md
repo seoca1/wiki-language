@@ -792,33 +792,33 @@ theme: "physical-descriptions"
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/kr_words.md`).
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: ko_phys_001, display: "키가 크다 (tall, kiga keuda)", input: "키가 크다", meaning: "to be tall", level: "TOPIK 1", category: "physical-descriptions", source: "[[ko-physical-descriptions-vocabulary]]" }
-- { id: ko_phys_002, display: "키가 작다 (short, kiga jakda)", input: "키가 작다", meaning: "to be short (height)", level: "TOPIK 1", category: "physical-descriptions", source: "[[ko-physical-descriptions-vocabulary]]" }
-- { id: ko_phys_003, display: "키 (height, ki)", input: "키", meaning: "height, stature", level: "TOPIK 1", category: "physical-descriptions", source: "[[ko-physical-descriptions-vocabulary]]" }
-- { id: ko_phys_004, display: "날씬하다 (slim, nalsseunhada)", input: "날씬하다", meaning: "to be slim, slender", level: "TOPIK 2", category: "physical-descriptions", source: "[[ko-physical-descriptions-vocabulary]]" }
-- { id: ko_phys_005, display: "통통하다 (chubby, tongtonghada)", input: "통통하다", meaning: "to be chubby (cute sense)", level: "TOPIK 2", category: "physical-descriptions", source: "[[ko-physical-descriptions-vocabulary]]" }
-- { id: ko_phys_006, display: "마르다 (thin, mareuda)", input: "마르다", meaning: "to be thin, skinny", level: "TOPIK 2", category: "physical-descriptions", source: "[[ko-physical-descriptions-vocabulary]]" }
-- { id: ko_phys_007, display: "뚱뚱하다 (fat, ttungttunghada)", input: "뚱뚱하다", meaning: "to be fat", level: "TOPIK 2", category: "physical-descriptions", source: "[[ko-physical-descriptions-vocabulary]]" }
-- { id: ko_phys_008, display: "얼굴 (face, eolgul)", input: "얼굴", meaning: "face", level: "TOPIK 1", category: "physical-descriptions", source: "[[ko-physical-descriptions-vocabulary]]" }
-- { id: ko_phys_009, display: "눈 (eye, nun)", input: "눈", meaning: "eye", level: "TOPIK 1", category: "physical-descriptions", source: "[[ko-physical-descriptions-vocabulary]]" }
-- { id: ko_phys_010, display: "코 (nose, ko)", input: "코", meaning: "nose", level: "TOPIK 1", category: "physical-descriptions", source: "[[ko-physical-descriptions-vocabulary]]" }
-- { id: ko_phys_011, display: "입 (mouth, ip)", input: "입", meaning: "mouth", level: "TOPIK 1", category: "physical-descriptions", source: "[[ko-physical-descriptions-vocabulary]]" }
-- { id: ko_phys_012, display: "머리카락 (hair, meorikarak)", input: "머리카락", meaning: "hair (on head)", level: "TOPIK 1", category: "physical-descriptions", source: "[[ko-physical-descriptions-vocabulary]]" }
-- { id: ko_phys_013, display: "머리가 길다 (long hair, meoriga gilda)", input: "머리가 길다", meaning: "to have long hair", level: "TOPIK 1", category: "physical-descriptions", source: "[[ko-physical-descriptions-vocabulary]]" }
-- { id: ko_phys_014, display: "머리가 짧다 (short hair, meoriga jjalda)", input: "머리가 짧다", meaning: "to have short hair", level: "TOPIK 1", category: "physical-descriptions", source: "[[ko-physical-descriptions-vocabulary]]" }
-- { id: ko_phys_015, display: "피부가 하얗다 (fair skin, pibuga hayata)", input: "피부가 하얗다", meaning: "to have fair/white skin", level: "TOPIK 2", category: "physical-descriptions", source: "[[ko-physical-descriptions-vocabulary]]" }
-- { id: ko_phys_016, display: "피부가 까맣다 (dark skin, pibuga kkamata)", input: "피부가 까맣다", meaning: "to have dark skin", level: "TOPIK 2", category: "physical-descriptions", source: "[[ko-physical-descriptions-vocabulary]]" }
-- { id: ko_phys_017, display: "예쁘다 (pretty, yeppeuda)", input: "예쁘다", meaning: "to be pretty, beautiful", level: "TOPIK 1", category: "physical-descriptions", source: "[[ko-physical-descriptions-vocabulary]]" }
-- { id: ko_phys_018, display: "잘생기다 (handsome, jalsaenggida)", input: "잘생기다", meaning: "to be handsome", level: "TOPIK 1", category: "physical-descriptions", source: "[[ko-physical-descriptions-vocabulary]]" }
-- { id: ko_phys_019, display: "귀엽다 (cute, gwiyeopda)", input: "귀엽다", meaning: "to be cute, adorable", level: "TOPIK 1", category: "physical-descriptions", source: "[[ko-physical-descriptions-vocabulary]]" }
-- { id: ko_phys_020, display: "멋있다 (cool, meosisda)", input: "멋있다", meaning: "to be cool, stylish", level: "TOPIK 1", category: "physical-descriptions", source: "[[ko-physical-descriptions-vocabulary]]" }
-- { id: ko_phys_021, display: "젊다 (young, jeomda)", input: "젊다", meaning: "to be young", level: "TOPIK 2", category: "physical-descriptions", source: "[[ko-physical-descriptions-vocabulary]]" }
-- { id: ko_phys_022, display: "나이가 많다 (old, naiga manta)", input: "나이가 많다", meaning: "to be old (in age)", level: "TOPIK 2", category: "physical-descriptions", source: "[[ko-physical-descriptions-vocabulary]]" }
-- { id: ko_phys_023, display: "살이 빠지다 (lose weight, sari ppajida)", input: "살이 빠지다", meaning: "to lose weight", level: "TOPIK 2", category: "physical-descriptions", source: "[[ko-physical-descriptions-vocabulary]]" }
-- { id: ko_phys_024, display: "살이 쪄다 (gain weight, sari jjweoda)", input: "살이 쪄다", meaning: "to gain weight", level: "TOPIK 2", category: "physical-descriptions", source: "[[ko-physical-descriptions-vocabulary]]" }
+- { id: 'kr_physical_descriptions_001', display: '키가 크다 (kiga keuda)', input: '키가 크다 (kiga keuda)', meaning: 'to be tall', level: 'TOPIK 1-3', category: 'physical-descriptions', source: '[[ko-physical-descriptions-vocabulary]]' }
+- { id: 'kr_physical_descriptions_002', display: '키가 작다 (kiga jakda)', input: '키가 작다 (kiga jakda)', meaning: 'to be short (height)', level: 'TOPIK 1-3', category: 'physical-descriptions', source: '[[ko-physical-descriptions-vocabulary]]' }
+- { id: 'kr_physical_descriptions_003', display: '키 (ki)', input: '키 (ki)', meaning: 'height, stature', level: 'TOPIK 1-3', category: 'physical-descriptions', source: '[[ko-physical-descriptions-vocabulary]]' }
+- { id: 'kr_physical_descriptions_004', display: '날씬하다 (nalsseunhada)', input: '날씬하다 (nalsseunhada)', meaning: 'to be slim, slender', level: 'TOPIK 1-3', category: 'physical-descriptions', source: '[[ko-physical-descriptions-vocabulary]]' }
+- { id: 'kr_physical_descriptions_005', display: '통통하다 (tongtonghada)', input: '통통하다 (tongtonghada)', meaning: 'to be chubby, plump (cute sense)', level: 'TOPIK 1-3', category: 'physical-descriptions', source: '[[ko-physical-descriptions-vocabulary]]' }
+- { id: 'kr_physical_descriptions_006', display: '마르다 (mareuda)', input: '마르다 (mareuda)', meaning: 'to be thin, skinny', level: 'TOPIK 1-3', category: 'physical-descriptions', source: '[[ko-physical-descriptions-vocabulary]]' }
+- { id: 'kr_physical_descriptions_007', display: '뚱뚱하다 (ttungttunghada)', input: '뚱뚱하다 (ttungttunghada)', meaning: 'to be fat, obese', level: 'TOPIK 1-3', category: 'physical-descriptions', source: '[[ko-physical-descriptions-vocabulary]]' }
+- { id: 'kr_physical_descriptions_008', display: '얼굴 (eolgul)', input: '얼굴 (eolgul)', meaning: 'face', level: 'TOPIK 1-3', category: 'physical-descriptions', source: '[[ko-physical-descriptions-vocabulary]]' }
+- { id: 'kr_physical_descriptions_009', display: '눈 (nun)', input: '눈 (nun)', meaning: 'eye', level: 'TOPIK 1-3', category: 'physical-descriptions', source: '[[ko-physical-descriptions-vocabulary]]' }
+- { id: 'kr_physical_descriptions_010', display: '코 (ko)', input: '코 (ko)', meaning: 'nose', level: 'TOPIK 1-3', category: 'physical-descriptions', source: '[[ko-physical-descriptions-vocabulary]]' }
+- { id: 'kr_physical_descriptions_011', display: '입 (ip)', input: '입 (ip)', meaning: 'mouth', level: 'TOPIK 1-3', category: 'physical-descriptions', source: '[[ko-physical-descriptions-vocabulary]]' }
+- { id: 'kr_physical_descriptions_012', display: '머리카락 (meorikarak)', input: '머리카락 (meorikarak)', meaning: 'hair (on head)', level: 'TOPIK 1-3', category: 'physical-descriptions', source: '[[ko-physical-descriptions-vocabulary]]' }
+- { id: 'kr_physical_descriptions_013', display: '머리가 길다 (meoriga gilda)', input: '머리가 길다 (meoriga gilda)', meaning: 'to have long hair', level: 'TOPIK 1-3', category: 'physical-descriptions', source: '[[ko-physical-descriptions-vocabulary]]' }
+- { id: 'kr_physical_descriptions_014', display: '머리가 짧다 (meoriga jjalda)', input: '머리가 짧다 (meoriga jjalda)', meaning: 'to have short hair', level: 'TOPIK 1-3', category: 'physical-descriptions', source: '[[ko-physical-descriptions-vocabulary]]' }
+- { id: 'kr_physical_descriptions_015', display: '피부가 하얗다 (pibuga hayata)', input: '피부가 하얗다 (pibuga hayata)', meaning: 'to have white/fair skin', level: 'TOPIK 1-3', category: 'physical-descriptions', source: '[[ko-physical-descriptions-vocabulary]]' }
+- { id: 'kr_physical_descriptions_016', display: '피부가 까맣다 (pibuga kkamata)', input: '피부가 까맣다 (pibuga kkamata)', meaning: 'to have dark skin (from sun/tanning)', level: 'TOPIK 1-3', category: 'physical-descriptions', source: '[[ko-physical-descriptions-vocabulary]]' }
+- { id: 'kr_physical_descriptions_017', display: '예쁘다 (yeppeuda)', input: '예쁘다 (yeppeuda)', meaning: 'to be pretty, beautiful', level: 'TOPIK 1-3', category: 'physical-descriptions', source: '[[ko-physical-descriptions-vocabulary]]' }
+- { id: 'kr_physical_descriptions_018', display: '잘생기다 (jalsaenggida)', input: '잘생기다 (jalsaenggida)', meaning: 'to be handsome', level: 'TOPIK 1-3', category: 'physical-descriptions', source: '[[ko-physical-descriptions-vocabulary]]' }
+- { id: 'kr_physical_descriptions_019', display: '귀엽다 (gwiyeopda)', input: '귀엽다 (gwiyeopda)', meaning: 'to be cute, adorable', level: 'TOPIK 1-3', category: 'physical-descriptions', source: '[[ko-physical-descriptions-vocabulary]]' }
+- { id: 'kr_physical_descriptions_020', display: '멋있다 (meosisda)', input: '멋있다 (meosisda)', meaning: 'to be cool, stylish', level: 'TOPIK 1-3', category: 'physical-descriptions', source: '[[ko-physical-descriptions-vocabulary]]' }
+- { id: 'kr_physical_descriptions_021', display: '젊다 (jeomda)', input: '젊다 (jeomda)', meaning: 'to be young', level: 'TOPIK 1-3', category: 'physical-descriptions', source: '[[ko-physical-descriptions-vocabulary]]' }
+- { id: 'kr_physical_descriptions_022', display: '나이가 많다 (naiga manta)', input: '나이가 많다 (naiga manta)', meaning: 'to be old (in age)', level: 'TOPIK 1-3', category: 'physical-descriptions', source: '[[ko-physical-descriptions-vocabulary]]' }
+- { id: 'kr_physical_descriptions_023', display: '살이 빠지다 (sari ppajida)', input: '살이 빠지다 (sari ppajida)', meaning: 'to lose weight', level: 'TOPIK 1-3', category: 'physical-descriptions', source: '[[ko-physical-descriptions-vocabulary]]' }
+- { id: 'kr_physical_descriptions_024', display: '살이 쪄다 (sari jjweoda)', input: '살이 쪄다 (sari jjweoda)', meaning: 'to gain weight', level: 'TOPIK 1-3', category: 'physical-descriptions', source: '[[ko-physical-descriptions-vocabulary]]' }
 ```

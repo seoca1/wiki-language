@@ -394,3 +394,24 @@ El número de emergencias en España y la UE es 112. En Latinoamérica varía (9
 > - primeros auxilios = 응급처치
 > - aventura = 모험
 > - viaje = 여행
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'es_adventure_001', display: 'pasaporte', input: 'pasaporte', meaning: 'Documento oficial de identidad para viajes internacionales.', level: 'A2-B1', category: 'adventure', source: '[[travel-adventure-es]]' }
+- { id: 'es_adventure_002', display: 'itinerario', input: 'itinerario', meaning: 'Plan detallado con las rutas y actividades de un viaje.', level: 'A2-B1', category: 'adventure', source: '[[travel-adventure-es]]' }
+- { id: 'es_adventure_003', display: 'reserva', input: 'reserva', meaning: 'Solicitud previa para garantizar un servicio (hotel, vuelo, restaurante).', level: 'A2-B1', category: 'adventure', source: '[[travel-adventure-es]]' }
+- { id: 'es_adventure_004', display: 'avión', input: 'avión', meaning: 'Aeronave de transporte aéreo de pasajeros.', level: 'A2-B1', category: 'adventure', source: '[[travel-adventure-es]]' }
+- { id: 'es_adventure_005', display: 'tren', input: 'tren', meaning: 'Medio de transporte ferroviario de pasajeros.', level: 'A2-B1', category: 'adventure', source: '[[travel-adventure-es]]' }
+- { id: 'es_adventure_006', display: 'mochila', input: 'mochila', meaning: 'Bolsa con correas para llevar en la espalda, usada por viajeros y excursionistas.', level: 'A2-B1', category: 'adventure', source: '[[travel-adventure-es]]' }
+- { id: 'es_adventure_007', display: 'hotel', input: 'hotel', meaning: 'Establecimiento que ofrece alojamiento y servicios a viajeros.', level: 'A2-B1', category: 'adventure', source: '[[travel-adventure-es]]' }
+- { id: 'es_adventure_008', display: 'camping', input: 'camping', meaning: 'Actividad de acampar al aire libre, generalmente con tienda de campaña.', level: 'A2-B1', category: 'adventure', source: '[[travel-adventure-es]]' }
+- { id: 'es_adventure_009', display: 'senderismo', input: 'senderismo', meaning: 'Actividad de caminar por la naturaleza, generalmente en montañas o senderos marcados.', level: 'A2-B1', category: 'adventure', source: '[[travel-adventure-es]]' }
+- { id: 'es_adventure_010', display: 'escalada', input: 'escalada', meaning: 'Actividad de subir por paredes rocosas o montañas usando equipo técnico.', level: 'A2-B1', category: 'adventure', source: '[[travel-adventure-es]]' }
+- { id: 'es_adventure_011', display: 'emergencia', input: 'emergencia', meaning: 'Situación urgente que requiere acción inmediata.', level: 'A2-B1', category: 'adventure', source: '[[travel-adventure-es]]' }
+- { id: 'es_adventure_012', display: 'primeros auxilios', input: 'primeros auxilios', meaning: 'Atención inmediata brindada a una persona herida o enferma antes de atención médica profesional.', level: 'A2-B1', category: 'adventure', source: '[[travel-adventure-es]]' }
+```

@@ -10,6 +10,9 @@ language_level: "JLPT N4-N5"
 **Theme:** 食べ物
 **Level:** JLPT N4-N5
 
+
+## Summary
+
 日本語食物語彙: 基本食物、飲み物、食事、日本料理.
 
 ## Vocabulary Extracted

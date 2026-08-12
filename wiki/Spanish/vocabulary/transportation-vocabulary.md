@@ -297,14 +297,14 @@ Spanish transportation 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: es_transportation_001, display: "coche", input: "coche", meaning: "자동차", level: "A1", category: "transportation", source: "[[transportation-vocabulary]]" }
-- { id: es_transportation_002, display: "autobús", input: "autobús", meaning: "버스", level: "A1", category: "transportation", source: "[[transportation-vocabulary]]" }
-- { id: es_transportation_003, display: "tren", input: "tren", meaning: "기차", level: "A1", category: "transportation", source: "[[transportation-vocabulary]]" }
-- { id: es_transportation_004, display: "avión", input: "avión", meaning: "비행기", level: "A1", category: "transportation", source: "[[transportation-vocabulary]]" }
-- { id: es_transportation_005, display: "barco", input: "barco", meaning: "배", level: "A2", category: "transportation", source: "[[transportation-vocabulary]]" }
-- { id: es_transportation_006, display: "bicicleta", input: "bicicleta", meaning: "자전거", level: "A1", category: "transportation", source: "[[transportation-vocabulary]]" }
-- { id: es_transportation_007, display: "taxi", input: "taxi", meaning: "택시", level: "A1", category: "transportation", source: "[[transportation-vocabulary]]" }
-- { id: es_transportation_008, display: "metro", input: "metro", meaning: "지하철", level: "A1", category: "transportation", source: "[[transportation-vocabulary]]" }
-- { id: es_transportation_009, display: "estación", input: "estación", meaning: "역", level: "A1", category: "transportation", source: "[[transportation-vocabulary]]" }
-- { id: es_transportation_010, display: "billete", input: "billete", meaning: "표", level: "A1", category: "transportation", source: "[[transportation-vocabulary]]" }
+- { id: 'es_transportation_001', display: 'coche', input: 'coche', meaning: '자동차', level: 'A1', category: 'transportation', source: '[[transportation-vocabulary]]' }
+- { id: 'es_transportation_002', display: 'autobús', input: 'autobús', meaning: '버스', level: 'A1', category: 'transportation', source: '[[transportation-vocabulary]]' }
+- { id: 'es_transportation_003', display: 'tren', input: 'tren', meaning: '기차', level: 'A1', category: 'transportation', source: '[[transportation-vocabulary]]' }
+- { id: 'es_transportation_004', display: 'avión', input: 'avión', meaning: '비행기', level: 'A1', category: 'transportation', source: '[[transportation-vocabulary]]' }
+- { id: 'es_transportation_005', display: 'barco', input: 'barco', meaning: '배', level: 'A2', category: 'transportation', source: '[[transportation-vocabulary]]' }
+- { id: 'es_transportation_006', display: 'bicicleta', input: 'bicicleta', meaning: '자전거', level: 'A1', category: 'transportation', source: '[[transportation-vocabulary]]' }
+- { id: 'es_transportation_007', display: 'taxi', input: 'taxi', meaning: '택시', level: 'A1', category: 'transportation', source: '[[transportation-vocabulary]]' }
+- { id: 'es_transportation_008', display: 'metro', input: 'metro', meaning: '지하철', level: 'A1', category: 'transportation', source: '[[transportation-vocabulary]]' }
+- { id: 'es_transportation_009', display: 'estación', input: 'estación', meaning: '역', level: 'A1', category: 'transportation', source: '[[transportation-vocabulary]]' }
+- { id: 'es_transportation_010', display: 'billete', input: 'billete', meaning: '표', level: 'A1', category: 'transportation', source: '[[transportation-vocabulary]]' }
 ```

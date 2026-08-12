@@ -1377,56 +1377,54 @@ España: "colega" = compañero Y amigo (coloquial). LatAm: "colega" casi solo pr
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: es_business_001, display: "correo", input: "correo", meaning: "이메일", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_002, display: "correo electrónico", input: "correo electrónico", meaning: "이메일", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_003, display: "dirección", input: "dirección", meaning: "주소", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_004, display: "remitente", input: "remitente", meaning: "보낸 사람", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_005, display: "destinatario", input: "destinatario", meaning: "받는 사람", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_006, display: "asunto", input: "asunto", meaning: "제목", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_007, display: "adjunto", input: "adjunto", meaning: "첨부", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_008, display: "enviar", input: "enviar", meaning: "보내다", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_009, display: "recibir", input: "recibir", meaning: "받다", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_010, display: "responder", input: "responder", meaning: "답장", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_011, display: "guardar", input: "guardar", meaning: "저장", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_012, display: "eliminar", input: "eliminar", meaning: "삭제", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_013, display: "borrador", input: "borrador", meaning: "임시 저장", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_014, display: "reunión", input: "reunión", meaning: "회의", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_015, display: "conferencia", input: "conferencia", meaning: "학술대회", level: "B2", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_016, display: "presentación", input: "presentación", meaning: "발표", level: "B2", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_017, display: "horario", input: "horario", meaning: "일정", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_018, display: "agenda", input: "agenda", meaning: "안건", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_019, display: "acta", input: "acta", meaning: "회의록", level: "B2", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_020, display: "fecha límite", input: "fecha límite", meaning: "마감", level: "B2", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_021, display: "proyecto", input: "proyecto", meaning: "프로젝트", level: "B2", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_022, display: "informe", input: "informe", meaning: "보고서", level: "B2", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_023, display: "propuesta", input: "propuesta", meaning: "제안서", level: "B2", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_024, display: "opinión", input: "opinión", meaning: "의견", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_025, display: "decisión", input: "decisión", meaning: "결정", level: "B2", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_026, display: "acuerdo", input: "acuerdo", meaning: "합의", level: "B2", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_027, display: "registro", input: "registro", meaning: "기록", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_028, display: "ubicación", input: "ubicación", meaning: "장소", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_029, display: "aplazar", input: "aplazar", meaning: "연기", level: "B2", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_030, display: "empresa", input: "empresa", meaning: "회사", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_031, display: "departamento", input: "departamento", meaning: "부서", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_032, display: "oficina", input: "oficina", meaning: "사무실", level: "A2", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_033, display: "compañero", input: "compañero", meaning: "동료", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_034, display: "colega", input: "colega", meaning: "동료", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_035, display: "jefe", input: "jefe", meaning: "상사", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_036, display: "empleado", input: "empleado", meaning: "직원", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_037, display: "cliente", input: "cliente", meaning: "고객", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_038, display: "contrato", input: "contrato", meaning: "계약", level: "B2", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_039, display: "negociación", input: "negociación", meaning: "협상", level: "B2", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_040, display: "inversión", input: "inversión", meaning: "투자", level: "B2", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_041, display: "corporativo", input: "corporativo", meaning: "기업", level: "B2", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_042, display: "representante", input: "representante", meaning: "대표", level: "B2", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_043, display: "líder de equipo", input: "líder de equipo", meaning: "팀장", level: "B2", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_044, display: "trabajo", input: "trabajo", meaning: "업무", level: "A2", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_045, display: "llamada", input: "llamada", meaning: "전화", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_046, display: "mensaje", input: "mensaje", meaning: "메시지", level: "A2", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_047, display: "número de teléfono", input: "número de teléfono", meaning: "전화번호", level: "A2", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_048, display: "conexión", input: "conexión", meaning: "연결", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_049, display: "revisión", input: "revisión", meaning: "검토", level: "B2", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_050, display: "cooperación", input: "cooperación", meaning: "협조", level: "B2", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_051, display: "por favor revise", input: "por favor revise", meaning: "검토 부탁드립니다", level: "B1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
-- { id: es_business_052, display: "gracias", input: "gracias", meaning: "감사합니다", level: "A1", category: "business-vocabulary", source: "[[business-vocabulary-es]]" }
+- { id: 'es_business_001', display: 'correo / correo electrónico', input: 'correo / correo electrónico', meaning: 'Mensaje digital enviado vía internet.', level: 'B1-B2', category: 'business', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_002', display: 'dirección', input: 'dirección', meaning: '주소', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_003', display: 'remitente', input: 'remitente', meaning: '보낸 사람', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_004', display: 'destinatario', input: 'destinatario', meaning: '받는 사람', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_005', display: 'asunto', input: 'asunto', meaning: '제목', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_006', display: 'adjunto', input: 'adjunto', meaning: '첨부', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_007', display: 'enviar', input: 'enviar', meaning: '보내다', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_008', display: 'recibir', input: 'recibir', meaning: '받다', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_009', display: 'responder', input: 'responder', meaning: '답장', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_010', display: 'guardar', input: 'guardar', meaning: '저장', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_011', display: 'eliminar / borrar', input: 'eliminar / borrar', meaning: 'Quitar un correo o archivo permanentemente.', level: 'B1-B2', category: 'business', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_012', display: 'borrador', input: 'borrador', meaning: '임시 저장', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_013', display: 'reunión', input: 'reunión', meaning: '회의', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_014', display: 'conferencia', input: 'conferencia', meaning: '학술대회', level: 'B2', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_015', display: 'presentación', input: 'presentación', meaning: '발표', level: 'B2', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_016', display: 'horario', input: 'horario', meaning: '일정', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_017', display: 'agenda', input: 'agenda', meaning: '안건', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_018', display: 'acta / minutes', input: 'acta / minutes', meaning: 'Registro escrito de lo tratado en una reunión.', level: 'B1-B2', category: 'business', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_019', display: 'fecha límite / plazo', input: 'fecha límite / plazo', meaning: 'Fecha/hora tope para entregar o completar algo.', level: 'B1-B2', category: 'business', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_020', display: 'proyecto', input: 'proyecto', meaning: '프로젝트', level: 'B2', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_021', display: 'informe', input: 'informe', meaning: '보고서', level: 'B2', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_022', display: 'propuesta', input: 'propuesta', meaning: '제안서', level: 'B2', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_023', display: 'opinión', input: 'opinión', meaning: '의견', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_024', display: 'decisión', input: 'decisión', meaning: '결정', level: 'B2', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_025', display: 'acuerdo', input: 'acuerdo', meaning: '합의', level: 'B2', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_026', display: 'registro', input: 'registro', meaning: '기록', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_027', display: 'ubicación', input: 'ubicación', meaning: '장소', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_028', display: 'aplazar', input: 'aplazar', meaning: '연기', level: 'B2', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_029', display: 'empresa', input: 'empresa', meaning: '회사', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_030', display: 'departamento', input: 'departamento', meaning: '부서', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_031', display: 'oficina', input: 'oficina', meaning: '사무실', level: 'A2', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_032', display: 'compañero / colega', input: 'compañero / colega', meaning: 'Persona con quien trabajas; colega.', level: 'B1-B2', category: 'business', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_033', display: 'jefe / jefa', input: 'jefe / jefa', meaning: 'Persona a cargo; supervisor o gerente.', level: 'B1-B2', category: 'business', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_034', display: 'empleado / empleada', input: 'empleado / empleada', meaning: 'Persona contratada para trabajar en una organización.', level: 'B1-B2', category: 'business', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_035', display: 'cliente', input: 'cliente', meaning: '고객', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_036', display: 'contrato', input: 'contrato', meaning: '계약', level: 'B2', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_037', display: 'negociación', input: 'negociación', meaning: '협상', level: 'B2', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_038', display: 'inversión', input: 'inversión', meaning: '투자', level: 'B2', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_039', display: 'corporativo / corporativa', input: 'corporativo / corporativa', meaning: 'Relativo a una corporación o gran empresa.', level: 'B1-B2', category: 'business', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_040', display: 'representante', input: 'representante', meaning: '대표', level: 'B2', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_041', display: 'líder de equipo', input: 'líder de equipo', meaning: '팀장', level: 'B2', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_042', display: 'trabajo', input: 'trabajo', meaning: '업무', level: 'A2', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_043', display: 'llamada', input: 'llamada', meaning: '전화', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_044', display: 'mensaje', input: 'mensaje', meaning: '메시지', level: 'A2', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_045', display: 'número de teléfono', input: 'número de teléfono', meaning: '전화번호', level: 'A2', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_046', display: 'conexión', input: 'conexión', meaning: '연결', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_047', display: 'revisión', input: 'revisión', meaning: '검토', level: 'B2', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_048', display: 'cooperación', input: 'cooperación', meaning: '협조', level: 'B2', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_049', display: 'por favor revise', input: 'por favor revise', meaning: '검토 부탁드립니다', level: 'B1', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
+- { id: 'es_business_050', display: 'gracias', input: 'gracias', meaning: '감사합니다', level: 'A1', category: 'business-vocabulary', source: '[[business-vocabulary-es]]' }
 ```

@@ -575,3 +575,32 @@ theme: "career"
 > - 이력서 = 이력서 (resume)
 > - 면접 = 면접 (interview)
 > - 연봉 = 연봉 (annual salary)
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'kr_career_001', display: '의사', input: '의사', meaning: '', level: 'TOPIK 3-4', category: 'career', source: '[[career-vocabulary]]' }
+- { id: 'kr_career_002', display: '변호사', input: '변호사', meaning: '', level: 'TOPIK 3-4', category: 'career', source: '[[career-vocabulary]]' }
+- { id: 'kr_career_003', display: '엔지니어', input: '엔지니어', meaning: '', level: 'TOPIK 3-4', category: 'career', source: '[[career-vocabulary]]' }
+- { id: 'kr_career_004', display: '교사', input: '교사', meaning: '', level: 'TOPIK 3-4', category: 'career', source: '[[career-vocabulary]]' }
+- { id: 'kr_career_005', display: '매니저', input: '매니저', meaning: '', level: 'TOPIK 3-4', category: 'career', source: '[[career-vocabulary]]' }
+- { id: 'kr_career_006', display: '직장', input: '직장', meaning: '', level: 'TOPIK 3-4', category: 'career', source: '[[career-vocabulary]]' }
+- { id: 'kr_career_007', display: '회사', input: '회사', meaning: '', level: 'TOPIK 3-4', category: 'career', source: '[[career-vocabulary]]' }
+- { id: 'kr_career_008', display: '사무실', input: '사무실', meaning: '', level: 'TOPIK 3-4', category: 'career', source: '[[career-vocabulary]]' }
+- { id: 'kr_career_009', display: '회의', input: '회의', meaning: '', level: 'TOPIK 3-4', category: 'career', source: '[[career-vocabulary]]' }
+- { id: 'kr_career_010', display: '이메일', input: '이메일', meaning: '', level: 'TOPIK 3-4', category: 'career', source: '[[career-vocabulary]]' }
+- { id: 'kr_career_011', display: '보고서', input: '보고서', meaning: '', level: 'TOPIK 3-4', category: 'career', source: '[[career-vocabulary]]' }
+- { id: 'kr_career_012', display: '프로젝트', input: '프로젝트', meaning: '', level: 'TOPIK 3-4', category: 'career', source: '[[career-vocabulary]]' }
+- { id: 'kr_career_013', display: '마감', input: '마감', meaning: '', level: 'TOPIK 3-4', category: 'career', source: '[[career-vocabulary]]' }
+- { id: 'kr_career_014', display: '사장', input: '사장', meaning: '', level: 'TOPIK 3-4', category: 'career', source: '[[career-vocabulary]]' }
+- { id: 'kr_career_015', display: '부장', input: '부장', meaning: '', level: 'TOPIK 3-4', category: 'career', source: '[[career-vocabulary]]' }
+- { id: 'kr_career_016', display: '사원', input: '사원', meaning: '', level: 'TOPIK 3-4', category: 'career', source: '[[career-vocabulary]]' }
+- { id: 'kr_career_017', display: '구직', input: '구직', meaning: '', level: 'TOPIK 3-4', category: 'career', source: '[[career-vocabulary]]' }
+- { id: 'kr_career_018', display: '이력서', input: '이력서', meaning: '', level: 'TOPIK 3-4', category: 'career', source: '[[career-vocabulary]]' }
+- { id: 'kr_career_019', display: '면접', input: '면접', meaning: '', level: 'TOPIK 3-4', category: 'career', source: '[[career-vocabulary]]' }
+- { id: 'kr_career_020', display: '연봉', input: '연봉', meaning: '', level: 'TOPIK 3-4', category: 'career', source: '[[career-vocabulary]]' }
+```

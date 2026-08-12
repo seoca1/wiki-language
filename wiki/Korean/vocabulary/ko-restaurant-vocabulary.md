@@ -464,23 +464,23 @@ theme: "restaurant"
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/kr_words.md`).
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: ko_rest_001, display: "주문하다 (注文, jumunhada)", input: "주문하다", meaning: "to order", level: "TOPIK 1", category: "restaurant", source: "[[ko-restaurant-vocabulary]]" }
-- { id: ko_rest_002, display: "메뉴 (menu, menyu)", input: "메뉴", meaning: "menu", level: "TOPIK 1", category: "restaurant", source: "[[ko-restaurant-vocabulary]]" }
-- { id: ko_rest_003, display: "추천 (推薦, chucheon)", input: "추천", meaning: "recommendation", level: "TOPIK 2", category: "restaurant", source: "[[ko-restaurant-vocabulary]]" }
-- { id: ko_rest_004, display: "예약하다 (豫約, yeyakada)", input: "예약하다", meaning: "to reserve", level: "TOPIK 2", category: "restaurant", source: "[[ko-restaurant-vocabulary]]" }
-- { id: ko_rest_005, display: "계산하다 (計算, gyesanhada)", input: "계산하다", meaning: "to pay the bill", level: "TOPIK 1", category: "restaurant", source: "[[ko-restaurant-vocabulary]]" }
-- { id: ko_rest_006, display: "더치페이 (Dutch pay, deoichipei)", input: "더치페이", meaning: "split the bill", level: "TOPIK 2", category: "restaurant", source: "[[ko-restaurant-vocabulary]]" }
-- { id: ko_rest_007, display: "카드 (card, kadeu)", input: "카드", meaning: "credit card", level: "TOPIK 1", category: "restaurant", source: "[[ko-restaurant-vocabulary]]" }
-- { id: ko_rest_008, display: "배달 (配達, baedal)", input: "배달", meaning: "delivery", level: "TOPIK 1", category: "restaurant", source: "[[ko-restaurant-vocabulary]]" }
-- { id: ko_rest_009, display: "배달앱 (baedalap)", input: "배달앱", meaning: "delivery app", level: "TOPIK 2", category: "restaurant", source: "[[ko-restaurant-vocabulary]]" }
-- { id: ko_rest_010, display: "맛있다 (masitda)", input: "맛있다", meaning: "delicious", level: "TOPIK 1", category: "restaurant", source: "[[ko-restaurant-vocabulary]]" }
-- { id: ko_rest_011, display: "맵다 (辛, maepda)", input: "맵다", meaning: "spicy", level: "TOPIK 1", category: "restaurant", source: "[[ko-restaurant-vocabulary]]" }
-- { id: ko_rest_012, display: "짜다 (鹹, jada)", input: "짜다", meaning: "salty", level: "TOPIK 1", category: "restaurant", source: "[[ko-restaurant-vocabulary]]" }
-- { id: ko_rest_013, display: "종업원 (從業員, jongeopwon)", input: "종업원", meaning: "restaurant staff", level: "TOPIK 2", category: "restaurant", source: "[[ko-restaurant-vocabulary]]" }
-- { id: ko_rest_014, display: "손님 (sonnim)", input: "손님", meaning: "customer", level: "TOPIK 1", category: "restaurant", source: "[[ko-restaurant-vocabulary]]" }
+- { id: 'kr_restaurant_001', display: '주문하다 (jumunhada)', input: '주문하다 (jumunhada)', meaning: 'to order (food)', level: 'TOPIK 1-2', category: 'restaurant', source: '[[ko-restaurant-vocabulary]]' }
+- { id: 'kr_restaurant_002', display: '메뉴 (menyu)', input: '메뉴 (menyu)', meaning: 'menu', level: 'TOPIK 1-2', category: 'restaurant', source: '[[ko-restaurant-vocabulary]]' }
+- { id: 'kr_restaurant_003', display: '추천 (chucheon)', input: '추천 (chucheon)', meaning: 'recommendation, to recommend', level: 'TOPIK 1-2', category: 'restaurant', source: '[[ko-restaurant-vocabulary]]' }
+- { id: 'kr_restaurant_004', display: '예약하다 (yeyakada)', input: '예약하다 (yeyakada)', meaning: 'to reserve, make a reservation', level: 'TOPIK 1-2', category: 'restaurant', source: '[[ko-restaurant-vocabulary]]' }
+- { id: 'kr_restaurant_005', display: '계산하다 (gyesanhada)', input: '계산하다 (gyesanhada)', meaning: 'to pay the bill, calculate', level: 'TOPIK 1-2', category: 'restaurant', source: '[[ko-restaurant-vocabulary]]' }
+- { id: 'kr_restaurant_006', display: '더치페이 (deoichipei)', input: '더치페이 (deoichipei)', meaning: 'going Dutch, splitting the bill', level: 'TOPIK 1-2', category: 'restaurant', source: '[[ko-restaurant-vocabulary]]' }
+- { id: 'kr_restaurant_007', display: '카드 (kadeu)', input: '카드 (kadeu)', meaning: 'credit card, payment card', level: 'TOPIK 1-2', category: 'restaurant', source: '[[ko-restaurant-vocabulary]]' }
+- { id: 'kr_restaurant_008', display: '배달 (baedal)', input: '배달 (baedal)', meaning: 'delivery, to deliver', level: 'TOPIK 1-2', category: 'restaurant', source: '[[ko-restaurant-vocabulary]]' }
+- { id: 'kr_restaurant_009', display: '배달앱 (baedalap)', input: '배달앱 (baedalap)', meaning: 'delivery app', level: 'TOPIK 2', category: 'restaurant', source: '[[ko-restaurant-vocabulary]]' }
+- { id: 'kr_restaurant_010', display: '맛있다 (masitda)', input: '맛있다 (masitda)', meaning: 'delicious', level: 'TOPIK 1', category: 'restaurant', source: '[[ko-restaurant-vocabulary]]' }
+- { id: 'kr_restaurant_011', display: '맵다 (maepda)', input: '맵다 (maepda)', meaning: 'to be spicy', level: 'TOPIK 1-2', category: 'restaurant', source: '[[ko-restaurant-vocabulary]]' }
+- { id: 'kr_restaurant_012', display: '짜다 (jada)', input: '짜다 (jada)', meaning: 'to be salty', level: 'TOPIK 1-2', category: 'restaurant', source: '[[ko-restaurant-vocabulary]]' }
+- { id: 'kr_restaurant_013', display: '종업원 (jongeopwon)', input: '종업원 (jongeopwon)', meaning: 'restaurant staff, server', level: 'TOPIK 1-2', category: 'restaurant', source: '[[ko-restaurant-vocabulary]]' }
+- { id: 'kr_restaurant_014', display: '손님 (sonnim)', input: '손님 (sonnim)', meaning: 'customer', level: 'TOPIK 1', category: 'restaurant', source: '[[ko-restaurant-vocabulary]]' }
 ```

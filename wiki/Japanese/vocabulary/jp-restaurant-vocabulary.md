@@ -423,23 +423,22 @@ level: "JLPT N5-N4"
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/jp_words.md`).
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: jp_rest_001, display: "注文する", input: "chuumon suru", meaning: "to order", level: "JLPT N5", category: "jp-restaurant-vocabulary", source: "[[jp-restaurant-vocabulary]]" }
-- { id: jp_rest_002, display: "おすすめ", input: "osusume", meaning: "recommendation", level: "JLPT N5", category: "jp-restaurant-vocabulary", source: "[[jp-restaurant-vocabulary]]" }
-- { id: jp_rest_003, display: "辛くしないでください", input: "karaku shinaide kudasai", meaning: "please make it less spicy", level: "JLPT N5", category: "jp-restaurant-vocabulary", source: "[[jp-restaurant-vocabulary]]" }
-- { id: jp_rest_004, display: "持ち帰り", input: "mochikaeri", meaning: "takeout", level: "JLPT N5", category: "jp-restaurant-vocabulary", source: "[[jp-restaurant-vocabulary]]" }
-- { id: jp_rest_005, display: "席", input: "seki", meaning: "seat", level: "JLPT N5", category: "jp-restaurant-vocabulary", source: "[[jp-restaurant-vocabulary]]" }
-- { id: jp_rest_006, display: "会計", input: "kaikei", meaning: "the bill", level: "JLPT N5", category: "jp-restaurant-vocabulary", source: "[[jp-restaurant-vocabulary]]" }
-- { id: jp_rest_007, display: "割り勘", input: "warikan", meaning: "splitting the bill", level: "JLPT N4", category: "jp-restaurant-vocabulary", source: "[[jp-restaurant-vocabulary]]" }
-- { id: jp_rest_008, display: "現金", input: "genkin", meaning: "cash", level: "JLPT N5", category: "jp-restaurant-vocabulary", source: "[[jp-restaurant-vocabulary]]" }
-- { id: jp_rest_009, display: "カード", input: "kaado", meaning: "card (payment)", level: "JLPT N5", category: "jp-restaurant-vocabulary", source: "[[jp-restaurant-vocabulary]]" }
-- { id: jp_rest_010, display: "予約", input: "yoyaku", meaning: "reservation", level: "JLPT N5", category: "jp-restaurant-vocabulary", source: "[[jp-restaurant-vocabulary]]" }
-- { id: jp_rest_011, display: "予約する", input: "yoyaku suru", meaning: "to make a reservation", level: "JLPT N5", category: "jp-restaurant-vocabulary", source: "[[jp-restaurant-vocabulary]]" }
-- { id: jp_rest_012, display: "いらっしゃいませ", input: "irasshaimase", meaning: "welcome (shop greeting)", level: "JLPT N5", category: "jp-restaurant-vocabulary", source: "[[jp-restaurant-vocabulary]]" }
-- { id: jp_rest_013, display: "お会計になります", input: "okaikei ni narimasu", meaning: "your bill is ready", level: "JLPT N4", category: "jp-restaurant-vocabulary", source: "[[jp-restaurant-vocabulary]]" }
-- { id: jp_rest_014, display: "ありがとうございました", input: "arigatou gozaimashita", meaning: "thank you very much (past)", level: "JLPT N5", category: "jp-restaurant-vocabulary", source: "[[jp-restaurant-vocabulary]]" }
+- { id: 'jp_jp_restaurant_vocabulary_001', display: '注文する', input: '注文する', meaning: 'to order', level: 'JLPT N5', category: 'jp-restaurant-vocabulary', source: '[[jp-restaurant-vocabulary]]' }
+- { id: 'jp_jp_restaurant_vocabulary_002', display: 'おすすめ', input: 'おすすめ', meaning: 'recommendation', level: 'JLPT N5', category: 'jp-restaurant-vocabulary', source: '[[jp-restaurant-vocabulary]]' }
+- { id: 'jp_jp_restaurant_vocabulary_003', display: '辛くしないでください', input: '辛くしないでください', meaning: 'please make it less spicy', level: 'JLPT N5', category: 'jp-restaurant-vocabulary', source: '[[jp-restaurant-vocabulary]]' }
+- { id: 'jp_jp_restaurant_vocabulary_004', display: '持ち帰り', input: '持ち帰り', meaning: 'takeout', level: 'JLPT N5', category: 'jp-restaurant-vocabulary', source: '[[jp-restaurant-vocabulary]]' }
+- { id: 'jp_jp_restaurant_vocabulary_005', display: '席', input: '席', meaning: 'seat', level: 'JLPT N5', category: 'jp-restaurant-vocabulary', source: '[[jp-restaurant-vocabulary]]' }
+- { id: 'jp_jp_restaurant_vocabulary_006', display: '会計', input: '会計', meaning: 'the bill', level: 'JLPT N5', category: 'jp-restaurant-vocabulary', source: '[[jp-restaurant-vocabulary]]' }
+- { id: 'jp_jp_restaurant_vocabulary_007', display: '割り勘', input: '割り勘', meaning: 'splitting the bill', level: 'JLPT N4', category: 'jp-restaurant-vocabulary', source: '[[jp-restaurant-vocabulary]]' }
+- { id: 'jp_jp_restaurant_vocabulary_008', display: '現金 / カード', input: '現金 / カード', meaning: 'cash / card (payment method)', level: 'JLPT N5-N4', category: 'jp-restaurant-vocabulary', source: '[[jp-restaurant-vocabulary]]' }
+- { id: 'jp_jp_restaurant_vocabulary_009', display: '予約', input: '予約', meaning: 'reservation', level: 'JLPT N5', category: 'jp-restaurant-vocabulary', source: '[[jp-restaurant-vocabulary]]' }
+- { id: 'jp_jp_restaurant_vocabulary_010', display: '予約する', input: '予約する', meaning: 'to make a reservation', level: 'JLPT N5', category: 'jp-restaurant-vocabulary', source: '[[jp-restaurant-vocabulary]]' }
+- { id: 'jp_jp_restaurant_vocabulary_011', display: 'いらっしゃいませ', input: 'いらっしゃいませ', meaning: 'welcome (shop greeting)', level: 'JLPT N5', category: 'jp-restaurant-vocabulary', source: '[[jp-restaurant-vocabulary]]' }
+- { id: 'jp_jp_restaurant_vocabulary_012', display: 'お会計になります', input: 'お会計になります', meaning: 'your bill is ready', level: 'JLPT N4', category: 'jp-restaurant-vocabulary', source: '[[jp-restaurant-vocabulary]]' }
+- { id: 'jp_jp_restaurant_vocabulary_013', display: 'ありがとうございました', input: 'ありがとうございました', meaning: 'thank you very much (past)', level: 'JLPT N5', category: 'jp-restaurant-vocabulary', source: '[[jp-restaurant-vocabulary]]' }
 ```

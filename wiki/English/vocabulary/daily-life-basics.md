@@ -606,27 +606,27 @@ Everyday English for daily routines — greetings, time, weather, family, hobbie
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: en_daily_001, display: "hello", input: "hello", meaning: "안녕", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: en_daily_002, display: "goodbye", input: "goodbye", meaning: "잘 가", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: en_daily_003, display: "good morning", input: "good morning", meaning: "좋은 아침", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: en_daily_004, display: "thank you", input: "thank you", meaning: "감사", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: en_daily_005, display: "please", input: "please", meaning: "부디", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: en_daily_006, display: "sorry", input: "sorry", meaning: "미안", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: en_daily_007, display: "yes", input: "yes", meaning: "네", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: en_daily_008, display: "no", input: "no", meaning: "아니요", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: en_daily_009, display: "family", input: "family", meaning: "가족", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: en_daily_010, display: "friend", input: "friend", meaning: "친구", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: en_daily_011, display: "mother", input: "mother", meaning: "어머니", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: en_daily_012, display: "father", input: "father", meaning: "아버지", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: en_daily_013, display: "go", input: "go", meaning: "가다", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: en_daily_014, display: "come", input: "come", meaning: "오다", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: en_daily_015, display: "eat", input: "eat", meaning: "먹다", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: en_daily_016, display: "drink", input: "drink", meaning: "마시다", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: en_daily_017, display: "sleep", input: "sleep", meaning: "자다", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: en_daily_018, display: "work", input: "work", meaning: "일하다", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: en_daily_019, display: "good", input: "good", meaning: "좋은", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: en_daily_020, display: "bad", input: "bad", meaning: "나쁜", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: en_daily_021, display: "today", input: "today", meaning: "오늘", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: en_daily_022, display: "tomorrow", input: "tomorrow", meaning: "내일", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: en_daily_023, display: "yesterday", input: "yesterday", meaning: "어제", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
+- { id: 'en_daily_life_001', display: 'hello', input: 'hello', meaning: '안녕', level: 'A1', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'en_daily_life_002', display: 'goodbye', input: 'goodbye', meaning: '잘 가', level: 'A1', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'en_daily_life_003', display: 'good morning', input: 'good morning', meaning: '좋은 아침', level: 'A1', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'en_daily_life_004', display: 'thank you', input: 'thank you', meaning: '감사', level: 'A1', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'en_daily_life_005', display: 'please', input: 'please', meaning: '부디', level: 'A1', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'en_daily_life_006', display: 'sorry', input: 'sorry', meaning: '미안', level: 'A1', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'en_daily_life_007', display: 'yes', input: 'yes', meaning: '네', level: 'A1', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'en_daily_life_008', display: 'no', input: 'no', meaning: '아니요', level: 'A1', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'en_daily_life_009', display: 'family', input: 'family', meaning: '가족', level: 'A1', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'en_daily_life_010', display: 'friend', input: 'friend', meaning: '친구', level: 'A1', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'en_daily_life_011', display: 'mother', input: 'mother', meaning: '어머니', level: 'A1', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'en_daily_life_012', display: 'father', input: 'father', meaning: '아버지', level: 'A1', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'en_daily_life_013', display: 'go', input: 'go', meaning: '가다', level: 'A1', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'en_daily_life_014', display: 'come', input: 'come', meaning: '오다', level: 'A1', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'en_daily_life_015', display: 'eat', input: 'eat', meaning: '먹다', level: 'A1', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'en_daily_life_016', display: 'drink', input: 'drink', meaning: '마시다', level: 'A1', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'en_daily_life_017', display: 'sleep', input: 'sleep', meaning: '자다', level: 'A1', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'en_daily_life_018', display: 'work', input: 'work', meaning: '일하다', level: 'A1', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'en_daily_life_019', display: 'good', input: 'good', meaning: '좋은', level: 'A1', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'en_daily_life_020', display: 'bad', input: 'bad', meaning: '나쁜', level: 'A1', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'en_daily_life_021', display: 'today', input: 'today', meaning: '오늘', level: 'A1', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'en_daily_life_022', display: 'tomorrow', input: 'tomorrow', meaning: '내일', level: 'A1', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'en_daily_life_023', display: 'yesterday', input: 'yesterday', meaning: '어제', level: 'A1', category: 'daily-life', source: '[[daily-life-basics]]' }
 ```

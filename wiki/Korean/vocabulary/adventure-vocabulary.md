@@ -419,3 +419,26 @@ theme: "adventure"
 > - 응급 = 응급 (emergency)
 > - 안전 = 안전 (safety)
 > - 모험 = 모험 (adventure)
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'kr_adventure_001', display: '여권', input: '여권', meaning: '', level: 'TOPIK 2-3', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'kr_adventure_002', display: '비자', input: '비자', meaning: '', level: 'TOPIK 2-3', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'kr_adventure_003', display: '일정', input: '일정', meaning: '', level: 'TOPIK 2-3', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'kr_adventure_004', display: '예약', input: '예약', meaning: '', level: 'TOPIK 2-3', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'kr_adventure_005', display: '비행기', input: '비행기', meaning: '', level: 'TOPIK 2-3', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'kr_adventure_006', display: '기차', input: '기차', meaning: '', level: 'TOPIK 2-3', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'kr_adventure_007', display: '배낭', input: '배낭', meaning: '', level: 'TOPIK 2-3', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'kr_adventure_008', display: '호텔', input: '호텔', meaning: '', level: 'TOPIK 2-3', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'kr_adventure_009', display: '캠핑', input: '캠핑', meaning: '', level: 'TOPIK 2-3', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'kr_adventure_010', display: '등산', input: '등산', meaning: '', level: 'TOPIK 2-3', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'kr_adventure_011', display: '트레킹', input: '트레킹', meaning: '', level: 'TOPIK 2-3', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'kr_adventure_012', display: '수영', input: '수영', meaning: '', level: 'TOPIK 2-3', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'kr_adventure_013', display: '응급', input: '응급', meaning: '', level: 'TOPIK 2-3', category: 'adventure', source: '[[adventure-vocabulary]]' }
+- { id: 'kr_adventure_014', display: '안전', input: '안전', meaning: '', level: 'TOPIK 2-3', category: 'adventure', source: '[[adventure-vocabulary]]' }
+```

@@ -10,6 +10,9 @@ language_level: "TOPIK 1-2"
 **Theme:** 감정·성격
 **Level:** TOPIK 1-2
 
+
+## Summary
+
 한국어 감정/성격 어휘: 기본 감정, 긍정/부정 성격 특성, 감정 동사.
 
 ## Vocabulary Extracted

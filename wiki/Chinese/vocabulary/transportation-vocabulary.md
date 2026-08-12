@@ -297,14 +297,14 @@ Chinese transportation 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: zh_transportation_001, display: "汽车 (qìchē, 汽車)", input: "汽车 (qìchē, 汽車)", meaning: "car", level: "HSK 1", category: "transportation", source: "[[transportation-vocabulary]]" }
-- { id: zh_transportation_002, display: "公共汽车 (gōnggòng qìchē, 公共汽車)", input: "公共汽车 (gōnggòng qìchē, 公共汽車)", meaning: "bus", level: "HSK 3", category: "transportation", source: "[[transportation-vocabulary]]" }
-- { id: zh_transportation_003, display: "火车 (huǒchē, 火車)", input: "火车 (huǒchē, 火車)", meaning: "train", level: "HSK 1", category: "transportation", source: "[[transportation-vocabulary]]" }
-- { id: zh_transportation_004, display: "飞机 (fēijī, 飛機)", input: "飞机 (fēijī, 飛機)", meaning: "airplane", level: "HSK 1", category: "transportation", source: "[[transportation-vocabulary]]" }
-- { id: zh_transportation_005, display: "船 (chuán, 船)", input: "船 (chuán, 船)", meaning: "ship", level: "HSK 2", category: "transportation", source: "[[transportation-vocabulary]]" }
-- { id: zh_transportation_006, display: "自行车 (zìxíngchē, 自行車)", input: "自行车 (zìxíngchē, 自行車)", meaning: "bicycle", level: "HSK 2", category: "transportation", source: "[[transportation-vocabulary]]" }
-- { id: zh_transportation_007, display: "出租车 (chūzūchē, 出租車)", input: "出租车 (chūzūchē, 出租車)", meaning: "taxi", level: "HSK 2", category: "transportation", source: "[[transportation-vocabulary]]" }
-- { id: zh_transportation_008, display: "地铁 (dìtiě, 地鐵)", input: "地铁 (dìtiě, 地鐵)", meaning: "subway", level: "HSK 1", category: "transportation", source: "[[transportation-vocabulary]]" }
-- { id: zh_transportation_009, display: "站 (zhàn, 站)", input: "站 (zhàn, 站)", meaning: "station", level: "HSK 1", category: "transportation", source: "[[transportation-vocabulary]]" }
-- { id: zh_transportation_010, display: "票 (piào, 票)", input: "票 (piào, 票)", meaning: "ticket", level: "HSK 1", category: "transportation", source: "[[transportation-vocabulary]]" }
+- { id: 'zh_transportation_001', display: '汽车 (qìchē, 汽車)', input: '汽车 (qìchē, 汽車)', meaning: 'car', level: 'HSK 1', category: 'transportation', source: '[[transportation-vocabulary]]' }
+- { id: 'zh_transportation_002', display: '公共汽车 (gōnggòng qìchē, 公共汽車)', input: '公共汽车 (gōnggòng qìchē, 公共汽車)', meaning: 'bus', level: 'HSK 3', category: 'transportation', source: '[[transportation-vocabulary]]' }
+- { id: 'zh_transportation_003', display: '火车 (huǒchē, 火車)', input: '火车 (huǒchē, 火車)', meaning: 'train', level: 'HSK 1', category: 'transportation', source: '[[transportation-vocabulary]]' }
+- { id: 'zh_transportation_004', display: '飞机 (fēijī, 飛機)', input: '飞机 (fēijī, 飛機)', meaning: 'airplane', level: 'HSK 1', category: 'transportation', source: '[[transportation-vocabulary]]' }
+- { id: 'zh_transportation_005', display: '船 (chuán, 船)', input: '船 (chuán, 船)', meaning: 'ship', level: 'HSK 2', category: 'transportation', source: '[[transportation-vocabulary]]' }
+- { id: 'zh_transportation_006', display: '自行车 (zìxíngchē, 自行車)', input: '自行车 (zìxíngchē, 自行車)', meaning: 'bicycle', level: 'HSK 2', category: 'transportation', source: '[[transportation-vocabulary]]' }
+- { id: 'zh_transportation_007', display: '出租车 (chūzūchē, 出租車)', input: '出租车 (chūzūchē, 出租車)', meaning: 'taxi', level: 'HSK 2', category: 'transportation', source: '[[transportation-vocabulary]]' }
+- { id: 'zh_transportation_008', display: '地铁 (dìtiě, 地鐵)', input: '地铁 (dìtiě, 地鐵)', meaning: 'subway', level: 'HSK 1', category: 'transportation', source: '[[transportation-vocabulary]]' }
+- { id: 'zh_transportation_009', display: '站 (zhàn, 站)', input: '站 (zhàn, 站)', meaning: 'station', level: 'HSK 1', category: 'transportation', source: '[[transportation-vocabulary]]' }
+- { id: 'zh_transportation_010', display: '票 (piào, 票)', input: '票 (piào, 票)', meaning: 'ticket', level: 'HSK 1', category: 'transportation', source: '[[transportation-vocabulary]]' }
 ```

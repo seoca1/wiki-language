@@ -10,6 +10,9 @@ language_level: "DELE B1-B2"
 **Theme:** Negocios
 **Level:** DELE B1-B2
 
+
+## Summary
+
 Vocabulario español de negocios: correo electrónico, reuniones, presentaciones, trabajo/oficina, números/contratos, teléfono/comunicación, expresiones de negocios. Incluye terminología profesional hispana.
 
 ## Vocabulary Extracted

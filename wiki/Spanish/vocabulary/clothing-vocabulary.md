@@ -891,34 +891,34 @@ Lana = aislante natural. "Lana" en México = dinero (jerga). "Lana de acero" = e
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: es_clothing_001, display: "camisa", input: "camisa", meaning: "셔츠", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary-es]]" }
-- { id: es_clothing_002, display: "pantalones", input: "pantalones", meaning: "바지", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary-es]]" }
-- { id: es_clothing_003, display: "vestido", input: "vestido", meaning: "드레스", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary-es]]" }
-- { id: es_clothing_004, display: "zapatos", input: "zapatos", meaning: "구두", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary-es]]" }
-- { id: es_clothing_005, display: "sombrero", input: "sombrero", meaning: "모자", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary-es]]" }
-- { id: es_clothing_006, display: "abrigo", input: "abrigo", meaning: "코트", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary-es]]" }
-- { id: es_clothing_007, display: "falda", input: "falda", meaning: "스커트", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary-es]]" }
-- { id: es_clothing_008, display: "calcetines", input: "calcetines", meaning: "양말", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary-es]]" }
-- { id: es_clothing_009, display: "guantes", input: "guantes", meaning: "장갑", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary-es]]" }
-- { id: es_clothing_010, display: "bufanda", input: "bufanda", meaning: "목도리", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary-es]]" }
-- { id: es_clothing_011, display: "vestido rojo", input: "vestido rojo", meaning: "빨간 드레스", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary-es]]" }
-- { id: es_clothing_012, display: "camisa azul", input: "camisa azul", meaning: "파란 셔츠", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary-es]]" }
-- { id: es_clothing_013, display: "pantalones blancos", input: "pantalones blancos", meaning: "하얀 바지", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary-es]]" }
-- { id: es_clothing_014, display: "zapatos negros", input: "zapatos negros", meaning: "검은 구두", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary-es]]" }
-- { id: es_clothing_015, display: "algodón", input: "algodón", meaning: "면", level: "A2", category: "clothing-vocabulary", source: "[[clothing-vocabulary-es]]" }
-- { id: es_clothing_016, display: "seda", input: "seda", meaning: "실크", level: "A2", category: "clothing-vocabulary", source: "[[clothing-vocabulary-es]]" }
-- { id: es_clothing_017, display: "cuero", input: "cuero", meaning: "가죽", level: "A2", category: "clothing-vocabulary", source: "[[clothing-vocabulary-es]]" }
-- { id: es_clothing_018, display: "lana", input: "lana", meaning: "양모", level: "A2", category: "clothing-vocabulary", source: "[[clothing-vocabulary-es]]" }
-- { id: es_clothing_019, display: "usar", input: "usar", meaning: "입다", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary-es]]" }
-- { id: es_clothing_020, display: "quitar", input: "quitar", meaning: "벗다", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary-es]]" }
-- { id: es_clothing_021, display: "lavar", input: "lavar", meaning: "세탁하다", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary-es]]" }
-- { id: es_clothing_022, display: "nuevo", input: "nuevo", meaning: "새로운", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary-es]]" }
-- { id: es_clothing_023, display: "viejo", input: "viejo", meaning: "오래된", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary-es]]" }
-- { id: es_clothing_024, display: "caro", input: "caro", meaning: "비싼", level: "A2", category: "clothing-vocabulary", source: "[[clothing-vocabulary-es]]" }
-- { id: es_clothing_025, display: "barato", input: "barato", meaning: "저렴한", level: "A1", category: "clothing-vocabulary", source: "[[clothing-vocabulary-es]]" }
-- { id: es_clothing_026, display: "hermoso", input: "hermoso", meaning: "아름다운", level: "A2", category: "clothing-vocabulary", source: "[[clothing-vocabulary-es]]" }
-- { id: es_clothing_027, display: "ajustado", input: "ajustado", meaning: "꼬인", level: "A2", category: "clothing-vocabulary", source: "[[clothing-vocabulary-es]]" }
-- { id: es_clothing_028, display: "suelto", input: "suelto", meaning: "넓은", level: "A2", category: "clothing-vocabulary", source: "[[clothing-vocabulary-es]]" }
-- { id: es_clothing_029, display: "manga larga", input: "manga larga", meaning: "긴소매", level: "A2", category: "clothing-vocabulary", source: "[[clothing-vocabulary-es]]" }
-- { id: es_clothing_030, display: "manga corta", input: "manga corta", meaning: "반소매", level: "A2", category: "clothing-vocabulary", source: "[[clothing-vocabulary-es]]" }
+- { id: 'es_clothing_001', display: 'camisa', input: 'camisa', meaning: '셔츠', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary-es]]' }
+- { id: 'es_clothing_002', display: 'pantalones', input: 'pantalones', meaning: '바지', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary-es]]' }
+- { id: 'es_clothing_003', display: 'vestido', input: 'vestido', meaning: '드레스', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary-es]]' }
+- { id: 'es_clothing_004', display: 'zapatos', input: 'zapatos', meaning: '구두', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary-es]]' }
+- { id: 'es_clothing_005', display: 'sombrero', input: 'sombrero', meaning: '모자', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary-es]]' }
+- { id: 'es_clothing_006', display: 'abrigo', input: 'abrigo', meaning: '코트', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary-es]]' }
+- { id: 'es_clothing_007', display: 'falda', input: 'falda', meaning: '스커트', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary-es]]' }
+- { id: 'es_clothing_008', display: 'calcetines', input: 'calcetines', meaning: '양말', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary-es]]' }
+- { id: 'es_clothing_009', display: 'guantes', input: 'guantes', meaning: '장갑', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary-es]]' }
+- { id: 'es_clothing_010', display: 'bufanda', input: 'bufanda', meaning: '목도리', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary-es]]' }
+- { id: 'es_clothing_011', display: 'vestido rojo', input: 'vestido rojo', meaning: '빨간 드레스', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary-es]]' }
+- { id: 'es_clothing_012', display: 'camisa azul', input: 'camisa azul', meaning: '파란 셔츠', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary-es]]' }
+- { id: 'es_clothing_013', display: 'pantalones blancos', input: 'pantalones blancos', meaning: '하얀 바지', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary-es]]' }
+- { id: 'es_clothing_014', display: 'zapatos negros', input: 'zapatos negros', meaning: '검은 구두', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary-es]]' }
+- { id: 'es_clothing_015', display: 'algodón', input: 'algodón', meaning: '면', level: 'A2', category: 'clothing-vocabulary', source: '[[clothing-vocabulary-es]]' }
+- { id: 'es_clothing_016', display: 'seda', input: 'seda', meaning: '실크', level: 'A2', category: 'clothing-vocabulary', source: '[[clothing-vocabulary-es]]' }
+- { id: 'es_clothing_017', display: 'cuero', input: 'cuero', meaning: '가죽', level: 'A2', category: 'clothing-vocabulary', source: '[[clothing-vocabulary-es]]' }
+- { id: 'es_clothing_018', display: 'lana', input: 'lana', meaning: '양모', level: 'A2', category: 'clothing-vocabulary', source: '[[clothing-vocabulary-es]]' }
+- { id: 'es_clothing_019', display: 'usar', input: 'usar', meaning: '입다', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary-es]]' }
+- { id: 'es_clothing_020', display: 'quitar / quitarse', input: 'quitar / quitarse', meaning: 'Quitar ropa del cuerpo.', level: 'A1-B1', category: 'clothing', source: '[[clothing-vocabulary-es]]' }
+- { id: 'es_clothing_021', display: 'lavar', input: 'lavar', meaning: '세탁하다', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary-es]]' }
+- { id: 'es_clothing_022', display: 'nuevo', input: 'nuevo', meaning: '새로운', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary-es]]' }
+- { id: 'es_clothing_023', display: 'viejo', input: 'viejo', meaning: '오래된', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary-es]]' }
+- { id: 'es_clothing_024', display: 'caro', input: 'caro', meaning: '비싼', level: 'A2', category: 'clothing-vocabulary', source: '[[clothing-vocabulary-es]]' }
+- { id: 'es_clothing_025', display: 'barato', input: 'barato', meaning: '저렴한', level: 'A1', category: 'clothing-vocabulary', source: '[[clothing-vocabulary-es]]' }
+- { id: 'es_clothing_026', display: 'hermoso / bonito', input: 'hermoso / bonito', meaning: 'Que agrada a los sentidos o mente estéticamente.', level: 'A1-B1', category: 'clothing', source: '[[clothing-vocabulary-es]]' }
+- { id: 'es_clothing_027', display: 'ajustado', input: 'ajustado', meaning: '꼬인', level: 'A2', category: 'clothing-vocabulary', source: '[[clothing-vocabulary-es]]' }
+- { id: 'es_clothing_028', display: 'suelto', input: 'suelto', meaning: '넓은', level: 'A2', category: 'clothing-vocabulary', source: '[[clothing-vocabulary-es]]' }
+- { id: 'es_clothing_029', display: 'manga larga', input: 'manga larga', meaning: '긴소매', level: 'A2', category: 'clothing-vocabulary', source: '[[clothing-vocabulary-es]]' }
+- { id: 'es_clothing_030', display: 'manga corta', input: 'manga corta', meaning: '반소매', level: 'A2', category: 'clothing-vocabulary', source: '[[clothing-vocabulary-es]]' }
 ```

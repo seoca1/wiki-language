@@ -348,21 +348,21 @@ theme: "art-crafts"
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/kr_words.md`).
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: ko_art_001, display: "그림 (圖畵)", input: "그림", meaning: "picture, drawing", level: "TOPIK 2", category: "art-crafts", source: "[[ko-art-crafts-vocabulary]]" }
-- { id: ko_art_002, display: "채색 (彩色)", input: "채색", meaning: "coloring", level: "TOPIK 3", category: "art-crafts", source: "[[ko-art-crafts-vocabulary]]" }
-- { id: ko_art_003, display: "조각하다 (彫刻-)", input: "조각하다", meaning: "to sculpt", level: "TOPIK 3", category: "art-crafts", source: "[[ko-art-crafts-vocabulary]]" }
-- { id: ko_art_004, display: "도자기 (陶器)", input: "도자기", meaning: "pottery, ceramics", level: "TOPIK 2", category: "art-crafts", source: "[[ko-art-crafts-vocabulary]]" }
-- { id: ko_art_005, display: "글씨", input: "글씨", meaning: "handwriting, calligraphy", level: "TOPIK 2", category: "art-crafts", source: "[[ko-art-crafts-vocabulary]]" }
-- { id: ko_art_006, display: "디자인 (design)", input: "디자인", meaning: "design", level: "TOPIK 2", category: "art-crafts", source: "[[ko-art-crafts-vocabulary]]" }
-- { id: ko_art_007, display: "미술관 (美術館)", input: "미술관", meaning: "art museum", level: "TOPIK 2", category: "art-crafts", source: "[[ko-art-crafts-vocabulary]]" }
-- { id: ko_art_008, display: "전시회 (展示會)", input: "전시회", meaning: "exhibition", level: "TOPIK 2", category: "art-crafts", source: "[[ko-art-crafts-vocabulary]]" }
-- { id: ko_art_009, display: "자수 (刺繡)", input: "자수", meaning: "embroidery", level: "TOPIK 3", category: "art-crafts", source: "[[ko-art-crafts-vocabulary]]" }
-- { id: ko_art_010, display: "칠기 (漆器)", input: "칠기", meaning: "lacquerware", level: "TOPIK 3", category: "art-crafts", source: "[[ko-art-crafts-vocabulary]]" }
-- { id: ko_art_011, display: "사진 (寫眞)", input: "사진", meaning: "photograph", level: "TOPIK 1", category: "art-crafts", source: "[[ko-art-crafts-vocabulary]]" }
-- { id: ko_art_012, display: "만화 (漫畵)", input: "만화", meaning: "comic, manhwa", level: "TOPIK 2", category: "art-crafts", source: "[[ko-art-crafts-vocabulary]]" }
+- { id: 'kr_art_crafts_001', display: '그림 (geurim)', input: '그림 (geurim)', meaning: 'picture, drawing, painting', level: 'TOPIK 2-3', category: 'art-crafts', source: '[[ko-art-crafts-vocabulary]]' }
+- { id: 'kr_art_crafts_002', display: '채색 (chaesaek)', input: '채색 (chaesaek)', meaning: 'coloring, coloration', level: 'TOPIK 2-3', category: 'art-crafts', source: '[[ko-art-crafts-vocabulary]]' }
+- { id: 'kr_art_crafts_003', display: '조각하다 (jogakhada)', input: '조각하다 (jogakhada)', meaning: 'to sculpt, carve', level: 'TOPIK 2-3', category: 'art-crafts', source: '[[ko-art-crafts-vocabulary]]' }
+- { id: 'kr_art_crafts_004', display: '도자기 (dojagi)', input: '도자기 (dojagi)', meaning: 'pottery, ceramics', level: 'TOPIK 2-3', category: 'art-crafts', source: '[[ko-art-crafts-vocabulary]]' }
+- { id: 'kr_art_crafts_005', display: '글씨 (geulssi)', input: '글씨 (geulssi)', meaning: 'handwriting, calligraphy', level: 'TOPIK 2-3', category: 'art-crafts', source: '[[ko-art-crafts-vocabulary]]' }
+- { id: 'kr_art_crafts_006', display: '디자인 (dijain)', input: '디자인 (dijain)', meaning: 'design', level: 'TOPIK 2-3', category: 'art-crafts', source: '[[ko-art-crafts-vocabulary]]' }
+- { id: 'kr_art_crafts_007', display: '미술관 (misulgwan)', input: '미술관 (misulgwan)', meaning: 'art museum, gallery', level: 'TOPIK 2-3', category: 'art-crafts', source: '[[ko-art-crafts-vocabulary]]' }
+- { id: 'kr_art_crafts_008', display: '전시회 (jeshihoe)', input: '전시회 (jeshihoe)', meaning: 'exhibition, exhibit', level: 'TOPIK 2-3', category: 'art-crafts', source: '[[ko-art-crafts-vocabulary]]' }
+- { id: 'kr_art_crafts_009', display: '자수 (jasu)', input: '자수 (jasu)', meaning: 'embroidery', level: 'TOPIK 2-3', category: 'art-crafts', source: '[[ko-art-crafts-vocabulary]]' }
+- { id: 'kr_art_crafts_010', display: '칠기 (chilgi)', input: '칠기 (chilgi)', meaning: 'lacquerware', level: 'TOPIK 2-3', category: 'art-crafts', source: '[[ko-art-crafts-vocabulary]]' }
+- { id: 'kr_art_crafts_011', display: '사진 (sajin)', input: '사진 (sajin)', meaning: 'photo, photograph', level: 'TOPIK 2-3', category: 'art-crafts', source: '[[ko-art-crafts-vocabulary]]' }
+- { id: 'kr_art_crafts_012', display: '만화 (manhwa)', input: '만화 (manhwa)', meaning: 'comic, cartoon, manhwa', level: 'TOPIK 2-3', category: 'art-crafts', source: '[[ko-art-crafts-vocabulary]]' }
 ```

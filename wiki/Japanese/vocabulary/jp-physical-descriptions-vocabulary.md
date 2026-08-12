@@ -546,26 +546,26 @@ level: "JLPT N5-N3"
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/jp_words.md`).
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: jp_physdesc_001, display: "背が高い", input: "se ga takai", meaning: "tall", level: "JLPT N5", category: "jp-physical-descriptions-vocabulary", source: "[[jp-physical-descriptions-vocabulary]]" }
-- { id: jp_physdesc_002, display: "背が低い", input: "se ga hikui", meaning: "short (height)", level: "JLPT N5", category: "jp-physical-descriptions-vocabulary", source: "[[jp-physical-descriptions-vocabulary]]" }
-- { id: jp_physdesc_003, display: "太い", input: "futoi", meaning: "thick", level: "JLPT N5", category: "jp-physical-descriptions-vocabulary", source: "[[jp-physical-descriptions-vocabulary]]" }
-- { id: jp_physdesc_004, display: "細い", input: "hosoi", meaning: "thin / slender", level: "JLPT N5", category: "jp-physical-descriptions-vocabulary", source: "[[jp-physical-descriptions-vocabulary]]" }
-- { id: jp_physdesc_005, display: "痩せている", input: "yasete iru", meaning: "to be thin / skinny", level: "JLPT N4", category: "jp-physical-descriptions-vocabulary", source: "[[jp-physical-descriptions-vocabulary]]" }
-- { id: jp_physdesc_006, display: "髪が長い", input: "kami ga nagai", meaning: "long hair", level: "JLPT N5", category: "jp-physical-descriptions-vocabulary", source: "[[jp-physical-descriptions-vocabulary]]" }
-- { id: jp_physdesc_007, display: "髪が短い", input: "kami ga mijikai", meaning: "short hair", level: "JLPT N5", category: "jp-physical-descriptions-vocabulary", source: "[[jp-physical-descriptions-vocabulary]]" }
-- { id: jp_physdesc_008, display: "二重", input: "futae", meaning: "double eyelid", level: "JLPT N4", category: "jp-physical-descriptions-vocabulary", source: "[[jp-physical-descriptions-vocabulary]]" }
-- { id: jp_physdesc_009, display: "一重", input: "hitoe", meaning: "single eyelid", level: "JLPT N4", category: "jp-physical-descriptions-vocabulary", source: "[[jp-physical-descriptions-vocabulary]]" }
-- { id: jp_physdesc_010, display: "濃い", input: "koi", meaning: "thick / dark", level: "JLPT N5", category: "jp-physical-descriptions-vocabulary", source: "[[jp-physical-descriptions-vocabulary]]" }
-- { id: jp_physdesc_011, display: "薄い", input: "usui", meaning: "thin / light", level: "JLPT N5", category: "jp-physical-descriptions-vocabulary", source: "[[jp-physical-descriptions-vocabulary]]" }
-- { id: jp_physdesc_012, display: "目が大きい", input: "me ga ookii", meaning: "big eyes", level: "JLPT N5", category: "jp-physical-descriptions-vocabulary", source: "[[jp-physical-descriptions-vocabulary]]" }
-- { id: jp_physdesc_013, display: "目が小さい", input: "me ga chiisai", meaning: "small eyes", level: "JLPT N5", category: "jp-physical-descriptions-vocabulary", source: "[[jp-physical-descriptions-vocabulary]]" }
-- { id: jp_physdesc_014, display: "茶色い目", input: "chairoi me", meaning: "brown eyes", level: "JLPT N4", category: "jp-physical-descriptions-vocabulary", source: "[[jp-physical-descriptions-vocabulary]]" }
-- { id: jp_physdesc_015, display: "美人", input: "bijin", meaning: "beautiful woman", level: "JLPT N4", category: "jp-physical-descriptions-vocabulary", source: "[[jp-physical-descriptions-vocabulary]]" }
-- { id: jp_physdesc_016, display: "ハンサム", input: "hansamu", meaning: "handsome", level: "JLPT N4", category: "jp-physical-descriptions-vocabulary", source: "[[jp-physical-descriptions-vocabulary]]" }
-- { id: jp_physdesc_017, display: "優しい顔", input: "yasashii kao", meaning: "kind-looking face", level: "JLPT N5", category: "jp-physical-descriptions-vocabulary", source: "[[jp-physical-descriptions-vocabulary]]" }
+- { id: 'jp_jp_physical_descriptions_vocabulary_001', display: '背が高い', input: '背が高い', meaning: 'tall', level: 'JLPT N5', category: 'jp-physical-descriptions-vocabulary', source: '[[jp-physical-descriptions-vocabulary]]' }
+- { id: 'jp_jp_physical_descriptions_vocabulary_002', display: '背が低い', input: '背が低い', meaning: 'short (height)', level: 'JLPT N5', category: 'jp-physical-descriptions-vocabulary', source: '[[jp-physical-descriptions-vocabulary]]' }
+- { id: 'jp_jp_physical_descriptions_vocabulary_003', display: '太い', input: '太い', meaning: 'thick', level: 'JLPT N5', category: 'jp-physical-descriptions-vocabulary', source: '[[jp-physical-descriptions-vocabulary]]' }
+- { id: 'jp_jp_physical_descriptions_vocabulary_004', display: '細い', input: '細い', meaning: 'thin / slender', level: 'JLPT N5', category: 'jp-physical-descriptions-vocabulary', source: '[[jp-physical-descriptions-vocabulary]]' }
+- { id: 'jp_jp_physical_descriptions_vocabulary_005', display: '痩せている', input: '痩せている', meaning: 'to be thin / skinny', level: 'JLPT N4', category: 'jp-physical-descriptions-vocabulary', source: '[[jp-physical-descriptions-vocabulary]]' }
+- { id: 'jp_jp_physical_descriptions_vocabulary_006', display: '髪が長い', input: '髪が長い', meaning: 'long hair', level: 'JLPT N5', category: 'jp-physical-descriptions-vocabulary', source: '[[jp-physical-descriptions-vocabulary]]' }
+- { id: 'jp_jp_physical_descriptions_vocabulary_007', display: '髪が短い', input: '髪が短い', meaning: 'short hair', level: 'JLPT N5', category: 'jp-physical-descriptions-vocabulary', source: '[[jp-physical-descriptions-vocabulary]]' }
+- { id: 'jp_jp_physical_descriptions_vocabulary_008', display: '二重', input: '二重', meaning: 'double eyelid', level: 'JLPT N4', category: 'jp-physical-descriptions-vocabulary', source: '[[jp-physical-descriptions-vocabulary]]' }
+- { id: 'jp_jp_physical_descriptions_vocabulary_009', display: '一重', input: '一重', meaning: 'single eyelid', level: 'JLPT N4', category: 'jp-physical-descriptions-vocabulary', source: '[[jp-physical-descriptions-vocabulary]]' }
+- { id: 'jp_jp_physical_descriptions_vocabulary_010', display: '濃い', input: '濃い', meaning: 'thick / dark', level: 'JLPT N5', category: 'jp-physical-descriptions-vocabulary', source: '[[jp-physical-descriptions-vocabulary]]' }
+- { id: 'jp_jp_physical_descriptions_vocabulary_011', display: '薄い', input: '薄い', meaning: 'thin / light', level: 'JLPT N5', category: 'jp-physical-descriptions-vocabulary', source: '[[jp-physical-descriptions-vocabulary]]' }
+- { id: 'jp_jp_physical_descriptions_vocabulary_012', display: '目が大きい', input: '目が大きい', meaning: 'big eyes', level: 'JLPT N5', category: 'jp-physical-descriptions-vocabulary', source: '[[jp-physical-descriptions-vocabulary]]' }
+- { id: 'jp_jp_physical_descriptions_vocabulary_013', display: '目が小さい', input: '目が小さい', meaning: 'small eyes', level: 'JLPT N5', category: 'jp-physical-descriptions-vocabulary', source: '[[jp-physical-descriptions-vocabulary]]' }
+- { id: 'jp_jp_physical_descriptions_vocabulary_014', display: '茶色い目', input: '茶色い目', meaning: 'brown eyes', level: 'JLPT N4', category: 'jp-physical-descriptions-vocabulary', source: '[[jp-physical-descriptions-vocabulary]]' }
+- { id: 'jp_jp_physical_descriptions_vocabulary_015', display: '美人', input: '美人', meaning: 'beautiful woman', level: 'JLPT N4', category: 'jp-physical-descriptions-vocabulary', source: '[[jp-physical-descriptions-vocabulary]]' }
+- { id: 'jp_jp_physical_descriptions_vocabulary_016', display: 'ハンサム', input: 'ハンサム', meaning: 'handsome', level: 'JLPT N4', category: 'jp-physical-descriptions-vocabulary', source: '[[jp-physical-descriptions-vocabulary]]' }
+- { id: 'jp_jp_physical_descriptions_vocabulary_017', display: '優しい顔', input: '優しい顔', meaning: 'kind-looking face', level: 'JLPT N5', category: 'jp-physical-descriptions-vocabulary', source: '[[jp-physical-descriptions-vocabulary]]' }
 ```

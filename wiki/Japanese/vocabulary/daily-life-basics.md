@@ -28,6 +28,48 @@ theme: "daily-life"
 | いただきます | (before eating) | 잘 먹겠습니다 |
 | ごちそうさま | (after eating) | 잘 먹었습니다 |
 
+
+
+### おはようございます
+
+**Translation:** good morning
+**Note 1:** 좋은 아침입니다
+
+### こんにちは
+
+**Translation:** good afternoon
+**Note 1:** 안녕하세요
+
+### こんばんは
+
+**Translation:** good evening
+**Note 1:** 안녕하세요 (저녁)
+
+### おやすみなさい
+
+**Translation:** good night
+**Note 1:** 안녕히 주무세요
+
+### ありがとう
+
+**Translation:** thank you
+**Note 1:** 감사합니다
+
+### すみません
+
+**Translation:** excuse me
+**Note 1:** 죄송합니다
+
+### いただきます
+
+**Translation:** (before eating)
+**Note 1:** 잘 먹겠습니다
+
+### ごちそうさま
+
+**Translation:** (after eating)
+**Note 1:** 잘 먹었습니다
+
 ## 2. 家族 (Family)
 
 | 日本語 | 英語 | 韓国語 |
@@ -40,6 +82,48 @@ theme: "daily-life"
 | お姉さん | older sister | 언니/누나 |
 | 弟 (おとうと) | younger brother | 남동생 |
 | 妹 (いもうと) | younger sister | 여동생 |
+
+
+
+### 家族
+
+**Translation:** family
+**Note 1:** 가족
+
+### 友達 (ともだち)
+
+**Translation:** friend
+**Note 1:** 친구
+
+### お母さん
+
+**Translation:** mother
+**Note 1:** 어머니
+
+### お父さん
+
+**Translation:** father
+**Note 1:** 아버지
+
+### お兄さん
+
+**Translation:** older brother
+**Note 1:** 오빠/형
+
+### お姉さん
+
+**Translation:** older sister
+**Note 1:** 언니/누나
+
+### 弟 (おとうと)
+
+**Translation:** younger brother
+**Note 1:** 남동생
+
+### 妹 (いもうと)
+
+**Translation:** younger sister
+**Note 1:** 여동생
 
 ## 3. 動詞 (Common Verbs)
 
@@ -54,6 +138,48 @@ theme: "daily-life"
 | ある | to have/exist | 있다 |
 | する | to do | 하다 |
 
+
+
+### 行く (いく)
+
+**Translation:** to go
+**Note 1:** 가다
+
+### 来る (くる)
+
+**Translation:** to come
+**Note 1:** 오다
+
+### 食べる (たべる)
+
+**Translation:** to eat
+**Note 1:** 먹다
+
+### 飲む (のむ)
+
+**Translation:** to drink
+**Note 1:** 마시다
+
+### 寝る (ねる)
+
+**Translation:** to sleep
+**Note 1:** 자다
+
+### 働く (はたらく)
+
+**Translation:** to work
+**Note 1:** 일하다
+
+### ある
+
+**Translation:** to have/exist
+**Note 1:** 있다
+
+### する
+
+**Translation:** to do
+**Note 1:** 하다
+
 ## 4. 形容詞 (Adjectives)
 
 | 日本語 | 英語 | 韓国語 |
@@ -64,6 +190,38 @@ theme: "daily-life"
 | 小さい (ちいさい) | small | 작은 |
 | 熱い (あつい) | hot (temperature) | 뜨거운 |
 | 寒い (さむい) | cold (temperature) | 차가운 |
+
+
+
+### いい
+
+**Translation:** good
+**Note 1:** 좋은
+
+### 悪い (わるい)
+
+**Translation:** bad
+**Note 1:** 나쁜
+
+### 大きい (おおきい)
+
+**Translation:** big
+**Note 1:** 큰
+
+### 小さい (ちいさい)
+
+**Translation:** small
+**Note 1:** 작은
+
+### 熱い (あつい)
+
+**Translation:** hot (temperature)
+**Note 1:** 뜨거운
+
+### 寒い (さむい)
+
+**Translation:** cold (temperature)
+**Note 1:** 차가운
 
 ## 5. 時間 (Time)
 
@@ -77,6 +235,43 @@ theme: "daily-life"
 | 午後 (ごご) | afternoon | 오후 |
 | 夜 (よる) | night | 밤 |
 
+
+
+### 今日 (きょう)
+
+**Translation:** today
+**Note 1:** 오늘
+
+### 明日 (あした)
+
+**Translation:** tomorrow
+**Note 1:** 내일
+
+### 昨日 (きのう)
+
+**Translation:** yesterday
+**Note 1:** 어제
+
+### 今 (いま)
+
+**Translation:** now
+**Note 1:** 지금
+
+### 朝 (あさ)
+
+**Translation:** morning
+**Note 1:** 아침
+
+### 午後 (ごご)
+
+**Translation:** afternoon
+**Note 1:** 오후
+
+### 夜 (よる)
+
+**Translation:** night
+**Note 1:** 밤
+
 ## 6. 数字 (Numbers)
 
 | 日本語 | 英語 | 韓国語 |
@@ -89,6 +284,48 @@ theme: "daily-life"
 | 十 (じゅう) | ten | 열 |
 | 百 (ひゃく) | one hundred | 백 |
 | 千 (せん) | one thousand | 천 |
+
+
+
+### 一 (いち)
+
+**Translation:** one
+**Note 1:** 하나
+
+### 二 (に)
+
+**Translation:** two
+**Note 1:** 둘
+
+### 三 (さん)
+
+**Translation:** three
+**Note 1:** 셋
+
+### 四 (よん/し)
+
+**Translation:** four
+**Note 1:** 넷
+
+### 五 (ご)
+
+**Translation:** five
+**Note 1:** 다섯
+
+### 十 (じゅう)
+
+**Translation:** ten
+**Note 1:** 열
+
+### 百 (ひゃく)
+
+**Translation:** one hundred
+**Note 1:** 백
+
+### 千 (せん)
+
+**Translation:** one thousand
+**Note 1:** 천
 
 ## Sources
 
@@ -115,34 +352,49 @@ theme: "daily-life"
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: jp_daily_001, display: "おはようございます", input: "おはようございます", meaning: "좋은 아침입니다", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: jp_daily_002, display: "こんにちは", input: "こんにちは", meaning: "안녕하세요 (낮)", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: jp_daily_003, display: "こんばんは", input: "こんばんは", meaning: "안녕하세요 (저녁)", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: jp_daily_004, display: "ありがとう", input: "ありがとう", meaning: "감사합니다", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: jp_daily_005, display: "すみません", input: "すみません", meaning: "죄송합니다", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: jp_daily_006, display: "いただきます", input: "いただきます", meaning: "잘 먹겠습니다", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: jp_daily_007, display: "家族", input: "家族", meaning: "가족", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: jp_daily_008, display: "友達", input: "友達", meaning: "친구", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: jp_daily_009, display: "お母さん", input: "お母さん", meaning: "어머니", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: jp_daily_010, display: "お父さん", input: "お父さん", meaning: "아버지", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: jp_daily_011, display: "行く", input: "行く", meaning: "가다", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: jp_daily_012, display: "来る", input: "来る", meaning: "오다", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: jp_daily_013, display: "食べる", input: "食べる", meaning: "먹다", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: jp_daily_014, display: "飲む", input: "飲む", meaning: "마시다", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: jp_daily_015, display: "寝る", input: "寝る", meaning: "자다", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: jp_daily_016, display: "働く", input: "働く", meaning: "일하다", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: jp_daily_017, display: "いい", input: "いい", meaning: "좋은", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: jp_daily_018, display: "悪い", input: "悪い", meaning: "나쁜", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: jp_daily_019, display: "大きい", input: "大きい", meaning: "큰", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: jp_daily_020, display: "小さい", input: "小さい", meaning: "작은", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: jp_daily_021, display: "暑い", input: "暑い", meaning: "덥다 (날씨)", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: jp_daily_022, display: "寒い", input: "寒い", meaning: "춥다 (날씨)", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: jp_daily_023, display: "今日", input: "今日", meaning: "오늘", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: jp_daily_024, display: "明日", input: "明日", meaning: "내일", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: jp_daily_025, display: "昨日", input: "昨日", meaning: "어제", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: jp_daily_026, display: "一", input: "一", meaning: "하나", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: jp_daily_027, display: "二", input: "二", meaning: "둘", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: jp_daily_028, display: "三", input: "三", meaning: "셋", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: jp_daily_029, display: "今日", input: "今日", meaning: "오늘", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
-- { id: jp_daily_030, display: "十", input: "十", meaning: "열", level: "A1", category: "daily-life", source: "[[daily-life-basics]]" }
+- { id: 'jp_daily_life_001', display: 'おはようございます', input: 'おはようございます', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_002', display: 'こんにちは', input: 'こんにちは', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_003', display: 'こんばんは', input: 'こんばんは', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_004', display: 'おやすみなさい', input: 'おやすみなさい', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_005', display: 'ありがとう', input: 'ありがとう', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_006', display: 'すみません', input: 'すみません', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_007', display: 'いただきます', input: 'いただきます', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_008', display: 'ごちそうさま', input: 'ごちそうさま', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_009', display: '家族', input: '家族', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_010', display: '友達 (ともだち)', input: '友達 (ともだち)', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_011', display: 'お母さん', input: 'お母さん', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_012', display: 'お父さん', input: 'お父さん', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_013', display: 'お兄さん', input: 'お兄さん', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_014', display: 'お姉さん', input: 'お姉さん', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_015', display: '弟 (おとうと)', input: '弟 (おとうと)', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_016', display: '妹 (いもうと)', input: '妹 (いもうと)', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_017', display: '行く (いく)', input: '行く (いく)', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_018', display: '来る (くる)', input: '来る (くる)', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_019', display: '食べる (たべる)', input: '食べる (たべる)', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_020', display: '飲む (のむ)', input: '飲む (のむ)', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_021', display: '寝る (ねる)', input: '寝る (ねる)', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_022', display: '働く (はたらく)', input: '働く (はたらく)', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_023', display: 'ある', input: 'ある', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_024', display: 'する', input: 'する', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_025', display: 'いい', input: 'いい', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_026', display: '悪い (わるい)', input: '悪い (わるい)', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_027', display: '大きい (おおきい)', input: '大きい (おおきい)', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_028', display: '小さい (ちいさい)', input: '小さい (ちいさい)', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_029', display: '熱い (あつい)', input: '熱い (あつい)', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_030', display: '寒い (さむい)', input: '寒い (さむい)', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_031', display: '今日 (きょう)', input: '今日 (きょう)', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_032', display: '明日 (あした)', input: '明日 (あした)', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_033', display: '昨日 (きのう)', input: '昨日 (きのう)', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_034', display: '今 (いま)', input: '今 (いま)', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_035', display: '朝 (あさ)', input: '朝 (あさ)', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_036', display: '午後 (ごご)', input: '午後 (ごご)', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_037', display: '夜 (よる)', input: '夜 (よる)', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_038', display: '一 (いち)', input: '一 (いち)', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_039', display: '二 (に)', input: '二 (に)', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_040', display: '三 (さん)', input: '三 (さん)', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_041', display: '四 (よん/し)', input: '四 (よん/し)', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_042', display: '五 (ご)', input: '五 (ご)', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_043', display: '十 (じゅう)', input: '十 (じゅう)', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_044', display: '百 (ひゃく)', input: '百 (ひゃく)', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
+- { id: 'jp_daily_life_045', display: '千 (せん)', input: '千 (せん)', meaning: '', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-basics]]' }
 ```

@@ -297,14 +297,14 @@ Korean numbers 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: kr_numbers_001, display: "하나 (hana, 하나)", input: "하나 (hana, 하나)", meaning: "1", level: "TOPIK 1", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: kr_numbers_002, display: "둘 (dul, 둘)", input: "둘 (dul, 둘)", meaning: "2", level: "TOPIK 1", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: kr_numbers_003, display: "셋 (set, 셋)", input: "셋 (set, 셋)", meaning: "3", level: "TOPIK 1", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: kr_numbers_004, display: "넷 (net, 넷)", input: "넷 (net, 넷)", meaning: "4", level: "TOPIK 1", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: kr_numbers_005, display: "다섯 (daseot, 다섯)", input: "다섯 (daseot, 다섯)", meaning: "5", level: "TOPIK 1", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: kr_numbers_006, display: "여섯 (yeoseot, 여섯)", input: "여섯 (yeoseot, 여섯)", meaning: "6", level: "TOPIK 1", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: kr_numbers_007, display: "일곱 (ilgop, 일곱)", input: "일곱 (ilgop, 일곱)", meaning: "7", level: "TOPIK 1", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: kr_numbers_008, display: "여덟 (yeodeol, 여덟)", input: "여덟 (yeodeol, 여덟)", meaning: "8", level: "TOPIK 1", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: kr_numbers_009, display: "아홉 (ahop, 아홉)", input: "아홉 (ahop, 아홉)", meaning: "9", level: "TOPIK 1", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: kr_numbers_010, display: "열 (yeol, 열)", input: "열 (yeol, 열)", meaning: "10", level: "TOPIK 1", category: "numbers", source: "[[numbers-vocabulary]]" }
+- { id: 'kr_numbers_001', display: '하나 (hana, 하나)', input: '하나 (hana, 하나)', meaning: '1', level: 'TOPIK 1', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'kr_numbers_002', display: '둘 (dul, 둘)', input: '둘 (dul, 둘)', meaning: '2', level: 'TOPIK 1', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'kr_numbers_003', display: '셋 (set, 셋)', input: '셋 (set, 셋)', meaning: '3', level: 'TOPIK 1', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'kr_numbers_004', display: '넷 (net, 넷)', input: '넷 (net, 넷)', meaning: '4', level: 'TOPIK 1', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'kr_numbers_005', display: '다섯 (daseot, 다섯)', input: '다섯 (daseot, 다섯)', meaning: '5', level: 'TOPIK 1', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'kr_numbers_006', display: '여섯 (yeoseot, 여섯)', input: '여섯 (yeoseot, 여섯)', meaning: '6', level: 'TOPIK 1', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'kr_numbers_007', display: '일곱 (ilgop, 일곱)', input: '일곱 (ilgop, 일곱)', meaning: '7', level: 'TOPIK 1', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'kr_numbers_008', display: '여덟 (yeodeol, 여덟)', input: '여덟 (yeodeol, 여덟)', meaning: '8', level: 'TOPIK 1', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'kr_numbers_009', display: '아홉 (ahop, 아홉)', input: '아홉 (ahop, 아홉)', meaning: '9', level: 'TOPIK 1', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'kr_numbers_010', display: '열 (yeol, 열)', input: '열 (yeol, 열)', meaning: '10', level: 'TOPIK 1', category: 'numbers', source: '[[numbers-vocabulary]]' }
 ```

@@ -375,23 +375,23 @@ K-POP 산업: SM/YG/JYP/HYBE (BTS). 2024년 기준 BTS, BLACKPINK, NewJeans 등�
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/kr_words.md`).
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: ko_music_001, display: "피아노 (piano)", input: "피아노", meaning: "piano", level: "TOPIK 2", category: "music", source: "[[ko-music-vocabulary]]" }
-- { id: ko_music_002, display: "기타 (guitar)", input: "기타", meaning: "guitar", level: "TOPIK 2", category: "music", source: "[[ko-music-vocabulary]]" }
-- { id: ko_music_003, display: "북 (鼓)", input: "북", meaning: "drum (Korean)", level: "TOPIK 3", category: "music", source: "[[ko-music-vocabulary]]" }
-- { id: ko_music_004, display: "팝송 (pop song)", input: "팝송", meaning: "pop song", level: "TOPIK 1", category: "music", source: "[[ko-music-vocabulary]]" }
-- { id: ko_music_005, display: "클래식 (classical)", input: "클래식", meaning: "classical music", level: "TOPIK 2", category: "music", source: "[[ko-music-vocabulary]]" }
-- { id: ko_music_006, display: "케이팝 (K-POP)", input: "케이팝", meaning: "Korean pop music", level: "TOPIK 1", category: "music", source: "[[ko-music-vocabulary]]" }
-- { id: ko_music_007, display: "멜로디 (melody)", input: "멜로디", meaning: "melody", level: "TOPIK 2", category: "music", source: "[[ko-music-vocabulary]]" }
-- { id: ko_music_008, display: "가사 (歌詞)", input: "가사", meaning: "song lyrics", level: "TOPIK 2", category: "music", source: "[[ko-music-vocabulary]]" }
-- { id: ko_music_009, display: "음 (音)", input: "음", meaning: "musical note", level: "TOPIK 3", category: "music", source: "[[ko-music-vocabulary]]" }
-- { id: ko_music_010, display: "음악가 (音樂家)", input: "음악가", meaning: "musician", level: "TOPIK 2", category: "music", source: "[[ko-music-vocabulary]]" }
-- { id: ko_music_011, display: "콘서트 (concert)", input: "콘서트", meaning: "concert", level: "TOPIK 2", category: "music", source: "[[ko-music-vocabulary]]" }
-- { id: ko_music_012, display: "앨범 (album)", input: "앨범", meaning: "album", level: "TOPIK 1", category: "music", source: "[[ko-music-vocabulary]]" }
-- { id: ko_music_013, display: "판소리", input: "판소리", meaning: "pansori (Korean traditional singing)", level: "TOPIK 3", category: "music", source: "[[ko-music-vocabulary]]" }
-- { id: ko_music_014, display: "가야금 (伽倻琴)", input: "가야금", meaning: "gayageum (Korean zither)", level: "TOPIK 3", category: "music", source: "[[ko-music-vocabulary]]" }
+- { id: 'kr_music_001', display: '피아노 (piano)', input: '피아노 (piano)', meaning: 'piano', level: 'TOPIK 2', category: 'music', source: '[[ko-music-vocabulary]]' }
+- { id: 'kr_music_002', display: '기타 (gita)', input: '기타 (gita)', meaning: 'guitar', level: 'TOPIK 1-3', category: 'music', source: '[[ko-music-vocabulary]]' }
+- { id: 'kr_music_003', display: '북 (buk)', input: '북 (buk)', meaning: 'drum (Korean traditional)', level: 'TOPIK 1-3', category: 'music', source: '[[ko-music-vocabulary]]' }
+- { id: 'kr_music_004', display: '팝송 (pap-song)', input: '팝송 (pap-song)', meaning: 'pop song', level: 'TOPIK 1-3', category: 'music', source: '[[ko-music-vocabulary]]' }
+- { id: 'kr_music_005', display: '클래식 (keullaesik)', input: '클래식 (keullaesik)', meaning: 'classical music', level: 'TOPIK 1-3', category: 'music', source: '[[ko-music-vocabulary]]' }
+- { id: 'kr_music_006', display: 'K-POP (kei-pop)', input: 'K-POP (kei-pop)', meaning: 'Korean pop music', level: 'TOPIK 1-3', category: 'music', source: '[[ko-music-vocabulary]]' }
+- { id: 'kr_music_007', display: '멜로디 (mellodi)', input: '멜로디 (mellodi)', meaning: 'melody', level: 'TOPIK 1-3', category: 'music', source: '[[ko-music-vocabulary]]' }
+- { id: 'kr_music_008', display: '가사 (gasa)', input: '가사 (gasa)', meaning: 'lyrics, words (of a song)', level: 'TOPIK 1-3', category: 'music', source: '[[ko-music-vocabulary]]' }
+- { id: 'kr_music_009', display: '음 (eum)', input: '음 (eum)', meaning: 'musical note, sound', level: 'TOPIK 1-3', category: 'music', source: '[[ko-music-vocabulary]]' }
+- { id: 'kr_music_010', display: '음악가 (eumakga)', input: '음악가 (eumakga)', meaning: 'musician', level: 'TOPIK 1-3', category: 'music', source: '[[ko-music-vocabulary]]' }
+- { id: 'kr_music_011', display: '콘서트 (konseoteu)', input: '콘서트 (konseoteu)', meaning: 'concert', level: 'TOPIK 1-3', category: 'music', source: '[[ko-music-vocabulary]]' }
+- { id: 'kr_music_012', display: '앨범 (aellbeom)', input: '앨범 (aellbeom)', meaning: 'album', level: 'TOPIK 1-3', category: 'music', source: '[[ko-music-vocabulary]]' }
+- { id: 'kr_music_013', display: '판소리 (pansori)', input: '판소리 (pansori)', meaning: 'pansori (Korean traditional narrative singing)', level: 'TOPIK 1-3', category: 'music', source: '[[ko-music-vocabulary]]' }
+- { id: 'kr_music_014', display: '가야금 (gayageum)', input: '가야금 (gayageum)', meaning: 'gayageum (12-string Korean zither)', level: 'TOPIK 1-3', category: 'music', source: '[[ko-music-vocabulary]]' }
 ```

@@ -297,10 +297,10 @@ English colors 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: en_colors_001, display: "red", input: "red", meaning: "빨강", level: "A1", category: "colors", source: "[[colors-vocabulary]]" }
-- { id: en_colors_002, display: "blue", input: "blue", meaning: "파랑", level: "A1", category: "colors", source: "[[colors-vocabulary]]" }
-- { id: en_colors_003, display: "green", input: "green", meaning: "초록", level: "A1", category: "colors", source: "[[colors-vocabulary]]" }
-- { id: en_colors_004, display: "yellow", input: "yellow", meaning: "노랑", level: "A1", category: "colors", source: "[[colors-vocabulary]]" }
-- { id: en_colors_005, display: "black", input: "black", meaning: "검정", level: "A1", category: "colors", source: "[[colors-vocabulary]]" }
-- { id: en_colors_006, display: "white", input: "white", meaning: "하양", level: "A1", category: "colors", source: "[[colors-vocabulary]]" }
+- { id: 'en_colors_001', display: 'red', input: 'red', meaning: '빨강', level: 'A1', category: 'colors', source: '[[colors-vocabulary]]' }
+- { id: 'en_colors_002', display: 'blue', input: 'blue', meaning: '파랑', level: 'A1', category: 'colors', source: '[[colors-vocabulary]]' }
+- { id: 'en_colors_003', display: 'green', input: 'green', meaning: '초록', level: 'A1', category: 'colors', source: '[[colors-vocabulary]]' }
+- { id: 'en_colors_004', display: 'yellow', input: 'yellow', meaning: '노랑', level: 'A1', category: 'colors', source: '[[colors-vocabulary]]' }
+- { id: 'en_colors_005', display: 'black', input: 'black', meaning: '검정', level: 'A1', category: 'colors', source: '[[colors-vocabulary]]' }
+- { id: 'en_colors_006', display: 'white', input: 'white', meaning: '하양', level: 'A1', category: 'colors', source: '[[colors-vocabulary]]' }
 ```

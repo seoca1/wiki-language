@@ -297,14 +297,14 @@ Chinese numbers 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: zh_numbers_001, display: "一 (yī, 一)", input: "一 (yī, 一)", meaning: "1", level: "HSK 1", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: zh_numbers_002, display: "二 (èr, 二)", input: "二 (èr, 二)", meaning: "2", level: "HSK 1", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: zh_numbers_003, display: "三 (sān, 三)", input: "三 (sān, 三)", meaning: "3", level: "HSK 1", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: zh_numbers_004, display: "四 (sì, 四)", input: "四 (sì, 四)", meaning: "4", level: "HSK 1", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: zh_numbers_005, display: "五 (wǔ, 五)", input: "五 (wǔ, 五)", meaning: "5", level: "HSK 1", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: zh_numbers_006, display: "六 (liù, 六)", input: "六 (liù, 六)", meaning: "6", level: "HSK 1", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: zh_numbers_007, display: "七 (qī, 七)", input: "七 (qī, 七)", meaning: "7", level: "HSK 1", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: zh_numbers_008, display: "八 (bā, 八)", input: "八 (bā, 八)", meaning: "8", level: "HSK 1", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: zh_numbers_009, display: "九 (jiǔ, 九)", input: "九 (jiǔ, 九)", meaning: "9", level: "HSK 1", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: zh_numbers_010, display: "十 (shí, 十)", input: "十 (shí, 十)", meaning: "10", level: "HSK 1", category: "numbers", source: "[[numbers-vocabulary]]" }
+- { id: 'zh_numbers_001', display: '一 (yī, 一)', input: '一 (yī, 一)', meaning: '1', level: 'HSK 1', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'zh_numbers_002', display: '二 (èr, 二)', input: '二 (èr, 二)', meaning: '2', level: 'HSK 1', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'zh_numbers_003', display: '三 (sān, 三)', input: '三 (sān, 三)', meaning: '3', level: 'HSK 1', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'zh_numbers_004', display: '四 (sì, 四)', input: '四 (sì, 四)', meaning: '4', level: 'HSK 1', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'zh_numbers_005', display: '五 (wǔ, 五)', input: '五 (wǔ, 五)', meaning: '5', level: 'HSK 1', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'zh_numbers_006', display: '六 (liù, 六)', input: '六 (liù, 六)', meaning: '6', level: 'HSK 1', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'zh_numbers_007', display: '七 (qī, 七)', input: '七 (qī, 七)', meaning: '7', level: 'HSK 1', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'zh_numbers_008', display: '八 (bā, 八)', input: '八 (bā, 八)', meaning: '8', level: 'HSK 1', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'zh_numbers_009', display: '九 (jiǔ, 九)', input: '九 (jiǔ, 九)', meaning: '9', level: 'HSK 1', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'zh_numbers_010', display: '十 (shí, 十)', input: '十 (shí, 十)', meaning: '10', level: 'HSK 1', category: 'numbers', source: '[[numbers-vocabulary]]' }
 ```

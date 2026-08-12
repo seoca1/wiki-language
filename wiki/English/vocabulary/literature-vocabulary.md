@@ -447,24 +447,24 @@ English vocabulary for discussing literature: genres (novel, short story, poetry
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: en_literature_001, display: "novel", input: "novel", meaning: "소설(장편)", level: "A2", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: en_literature_002, display: "short story", input: "short story", meaning: "단편 소설", level: "A2", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: en_literature_003, display: "poetry", input: "poetry", meaning: "시(장르)", level: "A2", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: en_literature_004, display: "poem", input: "poem", meaning: "시(한 편)", level: "A1", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: en_literature_005, display: "chapter", input: "chapter", meaning: "챕터/장", level: "A2", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: en_literature_006, display: "protagonist", input: "protagonist", meaning: "주인공", level: "B2", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: en_literature_007, display: "narrator", input: "narrator", meaning: "화자/서술자", level: "B2", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: en_literature_008, display: "character", input: "character", meaning: "등장인물", level: "A2", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: en_literature_009, display: "plot", input: "plot", meaning: "줄거리/플롯", level: "B1", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: en_literature_010, display: "theme", input: "theme", meaning: "주제/테마", level: "A2", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: en_literature_011, display: "setting", input: "setting", meaning: "배경/시대적 환경", level: "B2", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: en_literature_012, display: "passage", input: "passage", meaning: "문장/문단 발췌", level: "B1", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: en_literature_013, display: "genre", input: "genre", meaning: "장르", level: "B1", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: en_literature_014, display: "author", input: "author", meaning: "작가/저자", level: "A1", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: en_literature_015, display: "writer", input: "writer", meaning: "작가(직업)", level: "A1", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: en_literature_016, display: "classic", input: "classic", meaning: "고전/클래식", level: "A2", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: en_literature_017, display: "opening", input: "opening", meaning: "첫 부분/도입부", level: "A2", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: en_literature_018, display: "metaphor", input: "metaphor", meaning: "은유/메타포", level: "B2", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: en_literature_019, display: "symbol", input: "symbol", meaning: "상징/심볼", level: "B1", category: "literature", source: "[[literature-vocabulary]]" }
-- { id: en_literature_020, display: "satire", input: "satire", meaning: "풍자", level: "C1", category: "literature", source: "[[literature-vocabulary]]" }
+- { id: 'en_literature_001', display: 'novel', input: 'novel', meaning: '소설(장편)', level: 'A2', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'en_literature_002', display: 'short story', input: 'short story', meaning: '단편 소설', level: 'A2', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'en_literature_003', display: 'poetry', input: 'poetry', meaning: '시(장르)', level: 'A2', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'en_literature_004', display: 'poem', input: 'poem', meaning: '시(한 편)', level: 'A1', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'en_literature_005', display: 'chapter', input: 'chapter', meaning: '챕터/장', level: 'A2', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'en_literature_006', display: 'protagonist', input: 'protagonist', meaning: '주인공', level: 'B2', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'en_literature_007', display: 'narrator', input: 'narrator', meaning: '화자/서술자', level: 'B2', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'en_literature_008', display: 'character', input: 'character', meaning: '등장인물', level: 'A2', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'en_literature_009', display: 'plot', input: 'plot', meaning: '줄거리/플롯', level: 'B1', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'en_literature_010', display: 'theme', input: 'theme', meaning: '주제/테마', level: 'A2', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'en_literature_011', display: 'setting', input: 'setting', meaning: '배경/시대적 환경', level: 'B2', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'en_literature_012', display: 'passage', input: 'passage', meaning: '문장/문단 발췌', level: 'B1', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'en_literature_013', display: 'genre', input: 'genre', meaning: '장르', level: 'B1', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'en_literature_014', display: 'author', input: 'author', meaning: '작가/저자', level: 'A1', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'en_literature_015', display: 'writer', input: 'writer', meaning: '작가(직업)', level: 'A1', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'en_literature_016', display: 'classic', input: 'classic', meaning: '고전/클래식', level: 'A2', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'en_literature_017', display: 'opening', input: 'opening', meaning: '첫 부분/도입부', level: 'A2', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'en_literature_018', display: 'metaphor', input: 'metaphor', meaning: '은유/메타포', level: 'B2', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'en_literature_019', display: 'symbol', input: 'symbol', meaning: '상징/심볼', level: 'B1', category: 'literature', source: '[[literature-vocabulary]]' }
+- { id: 'en_literature_020', display: 'satire', input: 'satire', meaning: '풍자', level: 'C1', category: 'literature', source: '[[literature-vocabulary]]' }
 ```

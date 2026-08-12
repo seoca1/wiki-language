@@ -8,10 +8,10 @@ Last updated: 2026-08-11 (3 new KR vocabulary theme files: ko-physical-descripti
 
 ### Core Theme Files (theme-anchor)
 
-- [[여행]] - 여행 (Travel) — 공항, 호텔, 식당, 교통, 방향
-- [[동물 어휘]] - 동물 어휘 (Animals) — 宠物, 야생동물, 곤충
-- [[자연・날씨 어휘]] - 자연・날씨 어휘 (Nature & Weather) — 현상, 지형, 식물
-- [[의류・패션 어휘]] - 의류·패션 어휘 (Clothing & Fashion) — 의류, 재료, 색상 (7/13 재정렬: 23 entries)
+- [[travel]] - 여행 (Travel) — 공항, 호텔, 식당, 교통, 관광, 길 묻기 (2026-08-11 신규, first-travel-japan + travel-basics-kr source)
+- [[animals-vocabulary]] - 동물 어휘 (Animals) — 반려동물, 야생동물, 곤충 (TOPIK 1-2)
+- [[weather-nature]] - 자연・날씨 어휘 (Nature & Weather) — 기상 현상, 지형, 식물 (TOPIK 1-2)
+- [[clothing-vocabulary]] - 의류·패션 어휘 (Clothing & Fashion) — 의류, 재료, 색상 (23 entries)
 - [[business-vocabulary]] - 비즈니스 어휘 (Business) — 이메일, 회의, 직장, 계약 (TOPIK 2~3)
 - [[food-vocabulary]] - 음식 어휘 (Food & Restaurant) — 기본 식재료, 요리, 한국 음식, 식당 표현 (TOPIK 1~2)
 - [[emotions-personality-vocabulary]] - 감정·성격 어휘 (Emotions & Personality) — 기본/복합 감정, 성격 표현 (TOPIK 2~3)

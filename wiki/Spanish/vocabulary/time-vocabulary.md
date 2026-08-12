@@ -297,13 +297,13 @@ Spanish time 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: es_time_001, display: "hoy", input: "hoy", meaning: "오늘", level: "A1", category: "time", source: "[[time-vocabulary]]" }
-- { id: es_time_002, display: "mañana", input: "mañana", meaning: "아침", level: "A1", category: "time", source: "[[time-vocabulary]]" }
-- { id: es_time_003, display: "ayer", input: "ayer", meaning: "어제", level: "A1", category: "time", source: "[[time-vocabulary]]" }
-- { id: es_time_004, display: "tarde", input: "tarde", meaning: "오후", level: "A1", category: "time", source: "[[time-vocabulary]]" }
-- { id: es_time_005, display: "noche", input: "noche", meaning: "밤", level: "A1", category: "time", source: "[[time-vocabulary]]" }
-- { id: es_time_006, display: "mediodía", input: "mediodía", meaning: "정오", level: "A2", category: "time", source: "[[time-vocabulary]]" }
-- { id: es_time_007, display: "medianoche", input: "medianoche", meaning: "자정", level: "A2", category: "time", source: "[[time-vocabulary]]" }
-- { id: es_time_008, display: "fin de semana", input: "fin de semana", meaning: "주말", level: "A2", category: "time", source: "[[time-vocabulary]]" }
-- { id: es_time_009, display: "hora", input: "hora", meaning: "시간", level: "A1", category: "time", source: "[[time-vocabulary]]" }
+- { id: 'es_time_001', display: 'hoy', input: 'hoy', meaning: '오늘', level: 'A1', category: 'time', source: '[[time-vocabulary]]' }
+- { id: 'es_time_002', display: 'mañana', input: 'mañana', meaning: '아침', level: 'A1', category: 'time', source: '[[time-vocabulary]]' }
+- { id: 'es_time_003', display: 'ayer', input: 'ayer', meaning: '어제', level: 'A1', category: 'time', source: '[[time-vocabulary]]' }
+- { id: 'es_time_004', display: 'tarde', input: 'tarde', meaning: '오후', level: 'A1', category: 'time', source: '[[time-vocabulary]]' }
+- { id: 'es_time_005', display: 'noche', input: 'noche', meaning: '밤', level: 'A1', category: 'time', source: '[[time-vocabulary]]' }
+- { id: 'es_time_006', display: 'mediodía', input: 'mediodía', meaning: '정오', level: 'A2', category: 'time', source: '[[time-vocabulary]]' }
+- { id: 'es_time_007', display: 'medianoche', input: 'medianoche', meaning: '자정', level: 'A2', category: 'time', source: '[[time-vocabulary]]' }
+- { id: 'es_time_008', display: 'fin de semana', input: 'fin de semana', meaning: '주말', level: 'A2', category: 'time', source: '[[time-vocabulary]]' }
+- { id: 'es_time_009', display: 'hora', input: 'hora', meaning: '시간', level: 'A1', category: 'time', source: '[[time-vocabulary]]' }
 ```

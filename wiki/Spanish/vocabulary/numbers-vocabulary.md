@@ -297,14 +297,14 @@ Spanish numbers 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: es_numbers_001, display: "uno", input: "uno", meaning: "1", level: "A1", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: es_numbers_002, display: "dos", input: "dos", meaning: "2", level: "A1", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: es_numbers_003, display: "tres", input: "tres", meaning: "3", level: "A1", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: es_numbers_004, display: "cuatro", input: "cuatro", meaning: "4", level: "A1", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: es_numbers_005, display: "cinco", input: "cinco", meaning: "5", level: "A1", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: es_numbers_006, display: "seis", input: "seis", meaning: "6", level: "A1", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: es_numbers_007, display: "siete", input: "siete", meaning: "7", level: "A1", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: es_numbers_008, display: "ocho", input: "ocho", meaning: "8", level: "A1", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: es_numbers_009, display: "nueve", input: "nueve", meaning: "9", level: "A1", category: "numbers", source: "[[numbers-vocabulary]]" }
-- { id: es_numbers_010, display: "diez", input: "diez", meaning: "10", level: "A1", category: "numbers", source: "[[numbers-vocabulary]]" }
+- { id: 'es_numbers_001', display: 'uno', input: 'uno', meaning: '1', level: 'A1', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'es_numbers_002', display: 'dos', input: 'dos', meaning: '2', level: 'A1', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'es_numbers_003', display: 'tres', input: 'tres', meaning: '3', level: 'A1', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'es_numbers_004', display: 'cuatro', input: 'cuatro', meaning: '4', level: 'A1', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'es_numbers_005', display: 'cinco', input: 'cinco', meaning: '5', level: 'A1', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'es_numbers_006', display: 'seis', input: 'seis', meaning: '6', level: 'A1', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'es_numbers_007', display: 'siete', input: 'siete', meaning: '7', level: 'A1', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'es_numbers_008', display: 'ocho', input: 'ocho', meaning: '8', level: 'A1', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'es_numbers_009', display: 'nueve', input: 'nueve', meaning: '9', level: 'A1', category: 'numbers', source: '[[numbers-vocabulary]]' }
+- { id: 'es_numbers_010', display: 'diez', input: 'diez', meaning: '10', level: 'A1', category: 'numbers', source: '[[numbers-vocabulary]]' }
 ```

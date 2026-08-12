@@ -423,3 +423,27 @@ theme: "quotes"
 > - 용기 = 용기 (courage)
 > - 꿈 = 꿈 (dream)
 > - 희망 = 희망 (hope)
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'kr_quotes_001', display: '공자', input: '공자', meaning: '', level: 'TOPIK 4-6', category: 'quotes', source: '[[quotes-vocabulary]]' }
+- { id: 'kr_quotes_002', display: '명언', input: '명언', meaning: '', level: 'TOPIK 4-6', category: 'quotes', source: '[[quotes-vocabulary]]' }
+- { id: 'kr_quotes_003', display: '격언', input: '격언', meaning: '', level: 'TOPIK 4-6', category: 'quotes', source: '[[quotes-vocabulary]]' }
+- { id: 'kr_quotes_004', display: '속담', input: '속담', meaning: '', level: 'TOPIK 4-6', category: 'quotes', source: '[[quotes-vocabulary]]' }
+- { id: 'kr_quotes_005', display: '성어', input: '성어', meaning: '', level: 'TOPIK 4-6', category: 'quotes', source: '[[quotes-vocabulary]]' }
+- { id: 'kr_quotes_006', display: '이승만', input: '이승만', meaning: '', level: 'TOPIK 4-6', category: 'quotes', source: '[[quotes-vocabulary]]' }
+- { id: 'kr_quotes_007', display: '박경리', input: '박경리', meaning: '', level: 'TOPIK 4-6', category: 'quotes', source: '[[quotes-vocabulary]]' }
+- { id: 'kr_quotes_008', display: '힘내', input: '힘내', meaning: '', level: 'TOPIK 4-6', category: 'quotes', source: '[[quotes-vocabulary]]' }
+- { id: 'kr_quotes_009', display: '응원', input: '응원', meaning: '', level: 'TOPIK 4-6', category: 'quotes', source: '[[quotes-vocabulary]]' }
+- { id: 'kr_quotes_010', display: '노력', input: '노력', meaning: '', level: 'TOPIK 4-6', category: 'quotes', source: '[[quotes-vocabulary]]' }
+- { id: 'kr_quotes_011', display: '용기', input: '용기', meaning: '', level: 'TOPIK 4-6', category: 'quotes', source: '[[quotes-vocabulary]]' }
+- { id: 'kr_quotes_012', display: '꿈', input: '꿈', meaning: '', level: 'TOPIK 4-6', category: 'quotes', source: '[[quotes-vocabulary]]' }
+- { id: 'kr_quotes_013', display: '인용하다', input: '인용하다', meaning: '', level: 'TOPIK 4-6', category: 'quotes', source: '[[quotes-vocabulary]]' }
+- { id: 'kr_quotes_014', display: '말씀하다', input: '말씀하다', meaning: '', level: 'TOPIK 4-6', category: 'quotes', source: '[[quotes-vocabulary]]' }
+- { id: 'kr_quotes_015', display: '쓰다', input: '쓰다', meaning: '', level: 'TOPIK 4-6', category: 'quotes', source: '[[quotes-vocabulary]]' }
+```

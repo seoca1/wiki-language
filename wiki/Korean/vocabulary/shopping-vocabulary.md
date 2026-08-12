@@ -417,22 +417,22 @@ theme: "shopping"
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: kr_shopping_001, display: "가게 (gage)", input: "가게 (gage)", meaning: "가게 / 상점", level: "TOPIK I 1-2", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: kr_shopping_002, display: "돈 (don)", input: "돈 (don)", meaning: "돈", level: "TOPIK I 1-2", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: kr_shopping_003, display: "현금 (hyeongeum)", input: "현금 (hyeongeum)", meaning: "현금", level: "TOPIK I 1-2", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: kr_shopping_004, display: "카드 (kadeu)", input: "카드 (kadeu)", meaning: "카드", level: "TOPIK I 1-2", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: kr_shopping_005, display: "가격 (gagyeok)", input: "가격 (gagyeok)", meaning: "가격", level: "TOPIK I 1-2", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: kr_shopping_006, display: "싸다 (ssada)", input: "싸다 (ssada)", meaning: "싸다", level: "TOPIK I 1-2", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: kr_shopping_007, display: "비싸다 (bissada)", input: "비싸다 (bissada)", meaning: "비싸다", level: "TOPIK I 1-2", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: kr_shopping_008, display: "할인 (harin)", input: "할인 (harin)", meaning: "할인", level: "TOPIK I 1-2", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: kr_shopping_009, display: "영수증 (yeongsujeung)", input: "영수증 (yeongsujeung)", meaning: "영수증", level: "TOPIK I 1-2", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: kr_shopping_010, display: "환불 (hwanbul)", input: "환불 (hwanbul)", meaning: "환불", level: "TOPIK I 1-2", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: kr_shopping_011, display: "사다 (sada)", input: "사다 (sada)", meaning: "사다", level: "TOPIK I 1-2", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: kr_shopping_012, display: "팔다 (palda)", input: "팔다 (palda)", meaning: "팔다", level: "TOPIK I 1-2", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: kr_shopping_013, display: "입어보다 (ibeoboda)", input: "입어보다 (ibeoboda)", meaning: "입어보다", level: "TOPIK I 1-2", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: kr_shopping_014, display: "탈의실 (t'aleuisil)", input: "탈의실 (t'aleuisil)", meaning: "탈의실 / 피팅룸", level: "TOPIK I 1-2", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: kr_shopping_015, display: "편의점 (pyeonuijeom)", input: "편의점 (pyeonuijeom)", meaning: "편의점", level: "TOPIK I 1-2", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: kr_shopping_016, display: "사이즈 (saijeu)", input: "사이즈 (saijeu)", meaning: "사이즈", level: "TOPIK I 1-2", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: kr_shopping_017, display: "세일 (seil)", input: "세일 (seil)", meaning: "세일", level: "TOPIK I 1-2", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: kr_shopping_018, display: "거스름돈 (geoseureumdon)", input: "거스름돈 (geoseureumdon)", meaning: "거스름돈", level: "TOPIK I 1-2", category: "shopping", source: "[[shopping-vocabulary]]" }
+- { id: 'kr_shopping_001', display: '가게 (gage)', input: '가게 (gage)', meaning: '가게 / 상점', level: 'TOPIK I 1-2', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'kr_shopping_002', display: '돈 (don)', input: '돈 (don)', meaning: '돈', level: 'TOPIK I 1-2', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'kr_shopping_003', display: '현금 (hyeongeum)', input: '현금 (hyeongeum)', meaning: '현금', level: 'TOPIK I 1-2', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'kr_shopping_004', display: '카드 (kadeu)', input: '카드 (kadeu)', meaning: '카드', level: 'TOPIK I 1-2', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'kr_shopping_005', display: '가격 (gagyeok)', input: '가격 (gagyeok)', meaning: '가격', level: 'TOPIK I 1-2', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'kr_shopping_006', display: '싸다 (ssada)', input: '싸다 (ssada)', meaning: '싸다', level: 'TOPIK I 1-2', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'kr_shopping_007', display: '비싸다 (bissada)', input: '비싸다 (bissada)', meaning: '비싸다', level: 'TOPIK I 1-2', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'kr_shopping_008', display: '할인 (harin)', input: '할인 (harin)', meaning: '할인', level: 'TOPIK I 1-2', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'kr_shopping_009', display: '영수증 (yeongsujeung)', input: '영수증 (yeongsujeung)', meaning: '영수증', level: 'TOPIK I 1-2', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'kr_shopping_010', display: '환불 (hwanbul)', input: '환불 (hwanbul)', meaning: '환불', level: 'TOPIK I 1-2', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'kr_shopping_011', display: '사다 (sada)', input: '사다 (sada)', meaning: '사다', level: 'TOPIK I 1-2', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'kr_shopping_012', display: '팔다 (palda)', input: '팔다 (palda)', meaning: '팔다', level: 'TOPIK I 1-2', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'kr_shopping_013', display: '입어보다 (ibeoboda)', input: '입어보다 (ibeoboda)', meaning: '입어보다', level: 'TOPIK I 1-2', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'kr_shopping_014', display: '탈의실 (t''aleuisil)', input: '탈의실 (t''aleuisil)', meaning: '탈의실 / 피팅룸', level: 'TOPIK I 1-2', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'kr_shopping_015', display: '편의점 (pyeonuijeom)', input: '편의점 (pyeonuijeom)', meaning: '편의점', level: 'TOPIK I 1-2', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'kr_shopping_016', display: '사이즈 (saijeu)', input: '사이즈 (saijeu)', meaning: '사이즈', level: 'TOPIK I 1-2', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'kr_shopping_017', display: '세일 (seil)', input: '세일 (seil)', meaning: '세일', level: 'TOPIK I 1-2', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'kr_shopping_018', display: '거스름돈 (geoseureumdon)', input: '거스름돈 (geoseureumdon)', meaning: '거스름돈', level: 'TOPIK I 1-2', category: 'shopping', source: '[[shopping-vocabulary]]' }
 ```

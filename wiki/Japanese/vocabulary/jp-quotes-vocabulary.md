@@ -444,23 +444,23 @@ level: "JLPT N3-N1"
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/jp_words.md`).
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: jp_quotes_001, display: "一期一会", input: "ichigo ichie", meaning: "one encounter, one chance", level: "JLPT N3", category: "jp-quotes-vocabulary", source: "[[jp-quotes-vocabulary]]" }
-- { id: jp_quotes_002, display: "七転び八起き", input: "nanakorobi yaoki", meaning: "fall seven times, stand up eight", level: "JLPT N3", category: "jp-quotes-vocabulary", source: "[[jp-quotes-vocabulary]]" }
-- { id: jp_quotes_003, display: "花鳥風月", input: "kachou fuugetsu", meaning: "beauties of nature", level: "JLPT N3", category: "jp-quotes-vocabulary", source: "[[jp-quotes-vocabulary]]" }
-- { id: jp_quotes_004, display: "三十六計", input: "sanjuu rokkei", meaning: "the 36 stratagems", level: "JLPT N1", category: "jp-quotes-vocabulary", source: "[[jp-quotes-vocabulary]]" }
-- { id: jp_quotes_005, display: "失敗は成功のもと", input: "shippai wa seikou no moto", meaning: "failure is the foundation of success", level: "JLPT N3", category: "jp-quotes-vocabulary", source: "[[jp-quotes-vocabulary]]" }
-- { id: jp_quotes_006, display: "猿も木から落ちる", input: "saru mo ki kara ochiru", meaning: "even monkeys fall from trees", level: "JLPT N3", category: "jp-quotes-vocabulary", source: "[[jp-quotes-vocabulary]]" }
-- { id: jp_quotes_007, display: "石の上にも三年", input: "ishi no ue ni mo san nen", meaning: "three years on a stone (perseverance)", level: "JLPT N3", category: "jp-quotes-vocabulary", source: "[[jp-quotes-vocabulary]]" }
-- { id: jp_quotes_008, display: "二度あることは三度ある", input: "nido aru koto wa sando aru", meaning: "what happens twice happens thrice", level: "JLPT N3", category: "jp-quotes-vocabulary", source: "[[jp-quotes-vocabulary]]" }
-- { id: jp_quotes_009, display: "一石二鳥", input: "isseki nichou", meaning: "kill two birds with one stone", level: "JLPT N4", category: "jp-quotes-vocabulary", source: "[[jp-quotes-vocabulary]]" }
-- { id: jp_quotes_010, display: "魚と熊掌", input: "gyo to yuushou", meaning: "fish and bear's paw (can't have both)", level: "JLPT N1", category: "jp-quotes-vocabulary", source: "[[jp-quotes-vocabulary]]" }
-- { id: jp_quotes_011, display: "雨降って地固まる", input: "ame futte ji katamaru", meaning: "rain falls and ground hardens (discord to unity)", level: "JLPT N3", category: "jp-quotes-vocabulary", source: "[[jp-quotes-vocabulary]]" }
-- { id: jp_quotes_012, display: "十人十色", input: "juunin toiro", meaning: "ten people ten colors (diversity)", level: "JLPT N3", category: "jp-quotes-vocabulary", source: "[[jp-quotes-vocabulary]]" }
-- { id: jp_quotes_013, display: "塵も積もれば山となる", input: "chiri mo tsumoreba yama to naru", meaning: "many mickles make a muckle", level: "JLPT N3", category: "jp-quotes-vocabulary", source: "[[jp-quotes-vocabulary]]" }
-- { id: jp_quotes_014, display: "備えあれば憂いなし", input: "sonae areba urei nashi", meaning: "preparation prevents worry", level: "JLPT N3", category: "jp-quotes-vocabulary", source: "[[jp-quotes-vocabulary]]" }
+- { id: 'jp_jp_quotes_vocabulary_001', display: '一期一会', input: '一期一会', meaning: 'one encounter, one chance', level: 'JLPT N3', category: 'jp-quotes-vocabulary', source: '[[jp-quotes-vocabulary]]' }
+- { id: 'jp_jp_quotes_vocabulary_002', display: '七転び八起き', input: '七転び八起き', meaning: 'fall seven times, stand up eight', level: 'JLPT N3', category: 'jp-quotes-vocabulary', source: '[[jp-quotes-vocabulary]]' }
+- { id: 'jp_jp_quotes_vocabulary_003', display: '花鳥風月', input: '花鳥風月', meaning: 'beauties of nature', level: 'JLPT N3', category: 'jp-quotes-vocabulary', source: '[[jp-quotes-vocabulary]]' }
+- { id: 'jp_jp_quotes_vocabulary_004', display: '三十六計', input: '三十六計', meaning: 'the 36 stratagems', level: 'JLPT N1', category: 'jp-quotes-vocabulary', source: '[[jp-quotes-vocabulary]]' }
+- { id: 'jp_jp_quotes_vocabulary_005', display: '失敗は成功のもと', input: '失敗は成功のもと', meaning: 'failure is the foundation of success', level: 'JLPT N3', category: 'jp-quotes-vocabulary', source: '[[jp-quotes-vocabulary]]' }
+- { id: 'jp_jp_quotes_vocabulary_006', display: '猿も木から落ちる', input: '猿も木から落ちる', meaning: 'even monkeys fall from trees', level: 'JLPT N3', category: 'jp-quotes-vocabulary', source: '[[jp-quotes-vocabulary]]' }
+- { id: 'jp_jp_quotes_vocabulary_007', display: '石の上にも三年', input: '石の上にも三年', meaning: 'three years on a stone (perseverance)', level: 'JLPT N3', category: 'jp-quotes-vocabulary', source: '[[jp-quotes-vocabulary]]' }
+- { id: 'jp_jp_quotes_vocabulary_008', display: '二度あることは三度ある', input: '二度あることは三度ある', meaning: 'what happens twice happens thrice', level: 'JLPT N3', category: 'jp-quotes-vocabulary', source: '[[jp-quotes-vocabulary]]' }
+- { id: 'jp_jp_quotes_vocabulary_009', display: '一石二鳥', input: '一石二鳥', meaning: 'kill two birds with one stone', level: 'JLPT N4', category: 'jp-quotes-vocabulary', source: '[[jp-quotes-vocabulary]]' }
+- { id: 'jp_jp_quotes_vocabulary_010', display: '魚と熊掌', input: '魚と熊掌', meaning: 'fish and bear''s paw (can''t have both)', level: 'JLPT N1', category: 'jp-quotes-vocabulary', source: '[[jp-quotes-vocabulary]]' }
+- { id: 'jp_jp_quotes_vocabulary_011', display: '雨降って地固まる', input: '雨降って地固まる', meaning: 'rain falls and ground hardens (discord to unity)', level: 'JLPT N3', category: 'jp-quotes-vocabulary', source: '[[jp-quotes-vocabulary]]' }
+- { id: 'jp_jp_quotes_vocabulary_012', display: '十人十色', input: '十人十色', meaning: 'ten people ten colors (diversity)', level: 'JLPT N3', category: 'jp-quotes-vocabulary', source: '[[jp-quotes-vocabulary]]' }
+- { id: 'jp_jp_quotes_vocabulary_013', display: '塵も積もれば山となる', input: '塵も積もれば山となる', meaning: 'many mickles make a muckle', level: 'JLPT N3', category: 'jp-quotes-vocabulary', source: '[[jp-quotes-vocabulary]]' }
+- { id: 'jp_jp_quotes_vocabulary_014', display: '備えあれば憂いなし', input: '備えあれば憂いなし', meaning: 'preparation prevents worry', level: 'JLPT N3', category: 'jp-quotes-vocabulary', source: '[[jp-quotes-vocabulary]]' }
 ```

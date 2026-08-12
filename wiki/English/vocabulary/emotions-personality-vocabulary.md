@@ -1286,45 +1286,45 @@ Strictly: *jealous* = fear of losing what you have; *envious* = wanting what oth
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: en_emotion_001, display: "happy", input: "happy", meaning: "기쁜", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_002, display: "sad", input: "sad", meaning: "슬픈", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_003, display: "angry", input: "angry", meaning: "화난", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_004, display: "afraid", input: "afraid", meaning: "두려운", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_005, display: "surprised", input: "surprised", meaning: "놀란", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_006, display: "disliked", input: "disliked", meaning: "싫은", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_007, display: "regret", input: "regret", meaning: "후회", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_008, display: "anxious", input: "anxious", meaning: "불안한", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_009, display: "embarrassed", input: "embarrassed", meaning: "당황한", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_010, display: "touched", input: "touched", meaning: "감동한", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_011, display: "lonely", input: "lonely", meaning: "외로운", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_012, display: "kind", input: "kind", meaning: "착한", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_013, display: "pretty", input: "pretty", meaning: "예쁜", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_014, display: "cute", input: "cute", meaning: "귀여운", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_015, display: "cool", input: "cool", meaning: "멋진", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_016, display: "handsome", input: "handsome", meaning: "잘생긴", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_017, display: "splendid", input: "splendid", meaning: "훌륭한", level: "B2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_018, display: "great", input: "great", meaning: "대단한", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_019, display: "affectionate", input: "affectionate", meaning: "다정한", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_020, display: "warm", input: "warm", meaning: "따뜻한", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_021, display: "diligent", input: "diligent", meaning: "성실한", level: "B2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_022, display: "bright", input: "bright", meaning: "밝은", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_023, display: "lively", input: "lively", meaning: "활발한", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_024, display: "calm", input: "calm", meaning: "침착한", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_025, display: "bad", input: "bad", meaning: "나쁜", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_026, display: "lazy", input: "lazy", meaning: "게으른", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_027, display: "rude", input: "rude", meaning: "무례한", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_028, display: "unkind", input: "unkind", meaning: "불친절한", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_029, display: "greedy", input: "greedy", meaning: "욕심 많은", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_030, display: "jealous", input: "jealous", meaning: "질투하는", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_031, display: "to be happy", input: "to be happy", meaning: "행복하다", level: "A1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_032, display: "to miss someone", input: "to miss someone", meaning: "보고 싶다", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_033, display: "to feel sorry", input: "to feel sorry", meaning: "미안하다", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_034, display: "to be upset", input: "to be upset", meaning: "속상하다", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_035, display: "to envy", input: "to envy", meaning: "부럽다", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_036, display: "to be grateful", input: "to be grateful", meaning: "감사하다", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_037, display: "to be ordinary", input: "to be ordinary", meaning: "평범하다", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_038, display: "to flutter", input: "to flutter", meaning: "설레다", level: "B1", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_039, display: "to be nervous", input: "to be nervous", meaning: "긴장하다", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_040, display: "to be comfortable", input: "to be comfortable", meaning: "편안하다", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
-- { id: en_emotion_041, display: "to be worried", input: "to be worried", meaning: "걱정하다", level: "A2", category: "emotions-personality-vocabulary", source: "[[emotions-personality-vocabulary]]" }
+- { id: 'en_emotion_001', display: 'happy', input: 'happy', meaning: '기쁜', level: 'A1', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_002', display: 'sad', input: 'sad', meaning: '슬픈', level: 'A1', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_003', display: 'angry', input: 'angry', meaning: '화난', level: 'A2', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_004', display: 'afraid', input: 'afraid', meaning: '두려운', level: 'A2', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_005', display: 'surprised', input: 'surprised', meaning: '놀란', level: 'A2', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_006', display: 'disliked', input: 'disliked', meaning: '싫은', level: 'B1', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_007', display: 'regret', input: 'regret', meaning: '후회', level: 'B1', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_008', display: 'anxious', input: 'anxious', meaning: '불안한', level: 'B1', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_009', display: 'embarrassed', input: 'embarrassed', meaning: '당황한', level: 'B1', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_010', display: 'touched', input: 'touched', meaning: '감동한', level: 'B1', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_011', display: 'lonely', input: 'lonely', meaning: '외로운', level: 'A2', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_012', display: 'kind', input: 'kind', meaning: '착한', level: 'A1', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_013', display: 'pretty', input: 'pretty', meaning: '예쁜', level: 'A1', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_014', display: 'cute', input: 'cute', meaning: '귀여운', level: 'A1', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_015', display: 'cool', input: 'cool', meaning: '멋진', level: 'A1', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_016', display: 'handsome', input: 'handsome', meaning: '잘생긴', level: 'A2', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_017', display: 'splendid', input: 'splendid', meaning: '훌륭한', level: 'B2', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_018', display: 'great', input: 'great', meaning: '대단한', level: 'A1', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_019', display: 'affectionate', input: 'affectionate', meaning: '다정한', level: 'B1', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_020', display: 'warm', input: 'warm', meaning: '따뜻한', level: 'A2', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_021', display: 'diligent', input: 'diligent', meaning: '성실한', level: 'B2', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_022', display: 'bright', input: 'bright', meaning: '밝은', level: 'A2', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_023', display: 'lively', input: 'lively', meaning: '활발한', level: 'A2', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_024', display: 'calm', input: 'calm', meaning: '침착한', level: 'B1', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_025', display: 'bad', input: 'bad', meaning: '나쁜', level: 'A1', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_026', display: 'lazy', input: 'lazy', meaning: '게으른', level: 'A2', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_027', display: 'rude', input: 'rude', meaning: '무례한', level: 'A2', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_028', display: 'unkind', input: 'unkind', meaning: '불친절한', level: 'B1', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_029', display: 'greedy', input: 'greedy', meaning: '욕심 많은', level: 'B1', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_030', display: 'jealous', input: 'jealous', meaning: '질투하는', level: 'B1', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_031', display: 'to be happy', input: 'to be happy', meaning: '행복하다', level: 'A1', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_032', display: 'to miss someone', input: 'to miss someone', meaning: '보고 싶다', level: 'A2', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_033', display: 'to feel sorry', input: 'to feel sorry', meaning: '미안하다', level: 'A2', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_034', display: 'to be upset', input: 'to be upset', meaning: '속상하다', level: 'A2', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_035', display: 'to envy', input: 'to envy', meaning: '부럽다', level: 'B1', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_036', display: 'to be grateful', input: 'to be grateful', meaning: '감사하다', level: 'A2', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_037', display: 'to be ordinary', input: 'to be ordinary', meaning: '평범하다', level: 'A2', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_038', display: 'to flutter', input: 'to flutter', meaning: '설레다', level: 'B1', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_039', display: 'to be nervous', input: 'to be nervous', meaning: '긴장하다', level: 'A2', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_040', display: 'to be comfortable', input: 'to be comfortable', meaning: '편안하다', level: 'A2', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
+- { id: 'en_emotion_041', display: 'to be worried', input: 'to be worried', meaning: '걱정하다', level: 'A2', category: 'emotions-personality-vocabulary', source: '[[emotions-personality-vocabulary]]' }
 ```

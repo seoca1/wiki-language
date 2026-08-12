@@ -368,3 +368,23 @@ El horario de oficina en España suele ser de 9h-18h con pausa para comer (13h-1
 > - profesión = 직업
 > - empleado = 직원
 > - jefe = 상사
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'es_career_001', display: 'médico/médica', input: 'médico/médica', meaning: 'Profesional de la salud que diagnostica y trata enfermedades.', level: 'A2-B2', category: 'career', source: '[[work-and-career-es]]' }
+- { id: 'es_career_002', display: 'abogado/abogada', input: 'abogado/abogada', meaning: 'Profesional licenciado en derecho que asesora legalmente y representa clientes en juicios.', level: 'A2-B2', category: 'career', source: '[[work-and-career-es]]' }
+- { id: 'es_career_003', display: 'ingeniero/ingeniera', input: 'ingeniero/ingeniera', meaning: 'Profesional que aplica conocimientos científicos y matemáticos para diseñar estructuras, máquinas o sistemas.', level: 'A2-B2', category: 'career', source: '[[work-and-career-es]]' }
+- { id: 'es_career_004', display: 'profesor/profesora', input: 'profesor/profesora', meaning: 'Persona que enseña en una institución educativa.', level: 'A2-B2', category: 'career', source: '[[work-and-career-es]]' }
+- { id: 'es_career_005', display: 'gerente', input: 'gerente', meaning: 'Persona responsable de dirigir y administrar una empresa o departamento.', level: 'A2-B2', category: 'career', source: '[[work-and-career-es]]' }
+- { id: 'es_career_006', display: 'oficina', input: 'oficina', meaning: 'Lugar de trabajo donde se realizan tareas administrativas o profesionales.', level: 'A2-B2', category: 'career', source: '[[work-and-career-es]]' }
+- { id: 'es_career_007', display: 'empresa', input: 'empresa', meaning: 'Organización dedicada a actividades comerciales, industriales o de servicios.', level: 'A2-B2', category: 'career', source: '[[work-and-career-es]]' }
+- { id: 'es_career_008', display: 'reunión', input: 'reunión', meaning: 'Encuentro de varias personas para tratar un asunto.', level: 'A2-B2', category: 'career', source: '[[work-and-career-es]]' }
+- { id: 'es_career_009', display: 'correo electrónico', input: 'correo electrónico', meaning: 'Mensaje enviado a través de internet a una dirección electrónica.', level: 'A2-B2', category: 'career', source: '[[work-and-career-es]]' }
+- { id: 'es_career_010', display: 'informe', input: 'informe', meaning: 'Documento que presenta información detallada sobre un tema.', level: 'A2-B2', category: 'career', source: '[[work-and-career-es]]' }
+- { id: 'es_career_011', display: 'propuesta', input: 'propuesta', meaning: 'Plan o sugerencia presentada para su aprobación.', level: 'A2-B2', category: 'career', source: '[[work-and-career-es]]' }
+```

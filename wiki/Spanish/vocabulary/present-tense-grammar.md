@@ -50,7 +50,7 @@ vivir 살다 — vivo / vives / vive / vivimos / vivís / viven
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: es_present_tense_001, display: "-ar", input: "-ar", meaning: "", level: "A1-B1", category: "present-tense", source: "[[present-tense-grammar]]" }
-- { id: es_present_tense_002, display: "-er", input: "-er", meaning: "", level: "A1-B1", category: "present-tense", source: "[[present-tense-grammar]]" }
-- { id: es_present_tense_003, display: "-ir", input: "-ir", meaning: "", level: "A1-B1", category: "present-tense", source: "[[present-tense-grammar]]" }
+- { id: 'es_present_tense_001', display: '-ar', input: '-ar', meaning: '', level: 'A1-B1', category: 'present-tense', source: '[[present-tense-grammar]]' }
+- { id: 'es_present_tense_002', display: '-er', input: '-er', meaning: '', level: 'A1-B1', category: 'present-tense', source: '[[present-tense-grammar]]' }
+- { id: 'es_present_tense_003', display: '-ir', input: '-ir', meaning: '', level: 'A1-B1', category: 'present-tense', source: '[[present-tense-grammar]]' }
 ```

@@ -2821,100 +2821,100 @@ theme: "food"
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: kr_food_001, display: "밥", input: "밥", meaning: "rice/meal", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_002, display: "물", input: "물", meaning: "water", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_003, display: "고기", input: "고기", meaning: "meat", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_004, display: "생선", input: "생선", meaning: "fish", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_005, display: "야채", input: "야채", meaning: "vegetables", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_006, display: "과일", input: "과일", meaning: "fruit", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_007, display: "달걀", input: "달걀", meaning: "egg", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_008, display: "우유", input: "우유", meaning: "milk", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_009, display: "빵", input: "빵", meaning: "bread", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_010, display: "치즈", input: "치즈", meaning: "cheese", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_011, display: "버터", input: "버터", meaning: "butter", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_012, display: "쌀", input: "쌀", meaning: "uncooked rice", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_013, display: "밀가루", input: "밀가루", meaning: "flour", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_014, display: "설탕", input: "설탕", meaning: "sugar", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_015, display: "소금", input: "소금", meaning: "salt", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_016, display: "후추", input: "후추", meaning: "pepper", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_017, display: "기름", input: "기름", meaning: "oil", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_018, display: "간장", input: "간장", meaning: "soy sauce", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_019, display: "참기름", input: "참기름", meaning: "sesame oil", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_020, display: "식초", input: "식초", meaning: "vinegar", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_021, display: "찌개", input: "찌개", meaning: "stew", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_022, display: "전", input: "전", meaning: "Korean pancake", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_023, display: "구이", input: "구이", meaning: "grilled food", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_024, display: "나물", input: "나물", meaning: "seasoned vegetables", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_025, display: "반찬", input: "반찬", meaning: "side dish", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_026, display: "국", input: "국", meaning: "soup", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_027, display: "탕", input: "탕", meaning: "soup/broth", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_028, display: "면", input: "면", meaning: "noodles", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_029, display: "죽", input: "죽", meaning: "porridge", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_030, display: "덮밥", input: "덮밥", meaning: "rice bowl", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_031, display: "볶음밥", input: "볶음밥", meaning: "fried rice", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_032, display: "만두", input: "만두", meaning: "mandu/dumplings", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_033, display: "어묵", input: "어묵", meaning: "fish cake", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_034, display: "떡", input: "떡", meaning: "rice cake", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_035, display: "김치", input: "김치", meaning: "fermented vegetables", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_036, display: "젓갈", input: "젓갈", meaning: "salted seafood", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_037, display: "장아찌", input: "장아찌", meaning: "pickled food", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_038, display: "김치찌개", input: "김치찌개", meaning: "kimchi stew", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_039, display: "된장찌개", input: "된장찌개", meaning: "soybean paste stew", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_040, display: "순두부찌개", input: "순두부찌개", meaning: "soft tofu stew", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_041, display: "삼겹살", input: "삼겹살", meaning: "grilled pork belly", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_042, display: "불고기", input: "불고기", meaning: "marinated grilled beef", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_043, display: "비빔밥", input: "비빔밥", meaning: "mixed rice bowl", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_044, display: "냉면", input: "냉면", meaning: "cold noodles", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_045, display: "라면", input: "라면", meaning: "instant noodles", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_046, display: "떡국", input: "떡국", meaning: "rice cake soup", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_047, display: "국밥", input: "국밥", meaning: "soup rice", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_048, display: "카레라이스", input: "카레라이스", meaning: "curry rice", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_049, display: "짬뽕", input: "짬뽕", meaning: "spicy seafood noodles", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_050, display: "순대", input: "순대", meaning: "blood sausage", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_051, display: "치킨", input: "치킨", meaning: "chicken", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_052, display: "피자", input: "피자", meaning: "pizza", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_053, display: "햄버거", input: "햄버거", meaning: "hamburger", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_054, display: "커피", input: "커피", meaning: "coffee", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_055, display: "녹차", input: "녹차", meaning: "green tea", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_056, display: "홍차", input: "홍차", meaning: "black tea", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_057, display: "주스", input: "주스", meaning: "juice", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_058, display: "콜라", input: "콜라", meaning: "cola", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_059, display: "사이다", input: "사이다", meaning: "cider/soda", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_060, display: "맥주", input: "맥주", meaning: "beer", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_061, display: "소주", input: "소주", meaning: "Korean spirits", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_062, display: "보리차", input: "보리차", meaning: "barley tea", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_063, display: "유자차", input: "유자차", meaning: "citron tea", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_064, display: "Gingertea", input: "Gingertea", meaning: "fresh ginger tea", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_065, display: "밀크티", input: "밀크티", meaning: "milk tea", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_066, display: "Smoothie", input: "Smoothie", meaning: "smoothie", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_067, display: "메뉴", input: "메뉴", meaning: "menu", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_068, display: "주문하다", input: "주문하다", meaning: "to order", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_069, display: "계산하다", input: "계산하다", meaning: "to pay", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_070, display: "계산서", input: "계산서", meaning: "bill/check", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_071, display: "주방", input: "주방", meaning: "kitchen", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_072, display: "식당", input: "식당", meaning: "restaurant", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_073, display: "카페", input: "카페", meaning: "cafe", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_074, display: "배달", input: "배달", meaning: "delivery", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_075, display: "포장", input: "포장", meaning: "takeout", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_076, display: "맛있다", input: "맛있다", meaning: "delicious", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_077, display: "맛없다", input: "맛없다", meaning: "not delicious", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_078, display: "매워요", input: "매워요", meaning: "it's spicy", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_079, display: "달다", input: "달다", meaning: "sweet", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_080, display: "짜다", input: "짜다", meaning: "salty", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_081, display: "시다", input: "시다", meaning: "sour", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_082, display: "쓰다", input: "쓰다", meaning: "bitter", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_083, display: "고프다", input: "고프다", meaning: "hungry", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_084, display: "배부르다", input: "배부르다", meaning: "full", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_085, display: "비었다", input: "비었다", meaning: "empty", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_086, display: "맛집", input: "맛집", meaning: "famous delicious restaurant", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_087, display: "잘 먹겠습니다", input: "잘 먹겠습니다", meaning: "I will eat well (before meal)", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_088, display: "잘 먹었습니다", input: "잘 먹었습니다", meaning: "I ate well (after meal)", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_089, display: "밥 먹었어요?", input: "밥 먹었어요?", meaning: "Have you eaten?", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_090, display: "뭐 먹을래?", input: "뭐 먹을래?", meaning: "What do you want to eat?", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_091, display: "같이 먹어요", input: "같이 먹어요", meaning: "Let's eat together", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_092, display: "아침", input: "아침", meaning: "breakfast", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_093, display: "점심", input: "점심", meaning: "lunch", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_094, display: "저녁", input: "저녁", meaning: "dinner/evening", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_095, display: "배고파요", input: "배고파요", meaning: "I'm hungry", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
-- { id: kr_food_096, display: "목이 말라요", input: "목이 말라요", meaning: "I'm thirsty", level: "TOPIK 1", category: "food-vocabulary", source: "[[food-vocabulary]]" }
+- { id: 'kr_food_001', display: '밥', input: '밥', meaning: 'rice/meal', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_002', display: '물', input: '물', meaning: 'water', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_003', display: '고기', input: '고기', meaning: 'meat', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_004', display: '생선', input: '생선', meaning: 'fish', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_005', display: '야채', input: '야채', meaning: 'vegetables', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_006', display: '과일', input: '과일', meaning: 'fruit', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_007', display: '달걀', input: '달걀', meaning: 'egg', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_008', display: '우유', input: '우유', meaning: 'milk', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_009', display: '빵', input: '빵', meaning: 'bread', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_010', display: '치즈', input: '치즈', meaning: 'cheese', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_011', display: '버터', input: '버터', meaning: 'butter', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_012', display: '쌀', input: '쌀', meaning: 'uncooked rice', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_013', display: '밀가루', input: '밀가루', meaning: 'flour', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_014', display: '설탕', input: '설탕', meaning: 'sugar', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_015', display: '소금', input: '소금', meaning: 'salt', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_016', display: '후추', input: '후추', meaning: 'pepper', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_017', display: '기름', input: '기름', meaning: 'oil', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_018', display: '간장', input: '간장', meaning: 'soy sauce', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_019', display: '참기름', input: '참기름', meaning: 'sesame oil', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_020', display: '식초', input: '식초', meaning: 'vinegar', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_021', display: '찌개', input: '찌개', meaning: 'stew', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_022', display: '전', input: '전', meaning: 'Korean pancake', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_023', display: '구이', input: '구이', meaning: 'grilled food', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_024', display: '나물', input: '나물', meaning: 'seasoned vegetables', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_025', display: '반찬', input: '반찬', meaning: 'side dish', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_026', display: '국', input: '국', meaning: 'soup', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_027', display: '탕', input: '탕', meaning: 'soup/broth', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_028', display: '면', input: '면', meaning: 'noodles', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_029', display: '죽', input: '죽', meaning: 'porridge', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_030', display: '덮밥', input: '덮밥', meaning: 'rice bowl', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_031', display: '볶음밥', input: '볶음밥', meaning: 'fried rice', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_032', display: '만두', input: '만두', meaning: 'mandu/dumplings', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_033', display: '어묵', input: '어묵', meaning: 'fish cake', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_034', display: '떡', input: '떡', meaning: 'rice cake', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_035', display: '김치', input: '김치', meaning: 'fermented vegetables', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_036', display: '젓갈', input: '젓갈', meaning: 'salted seafood', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_037', display: '장아찌', input: '장아찌', meaning: 'pickled food', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_038', display: '김치찌개', input: '김치찌개', meaning: 'kimchi stew', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_039', display: '된장찌개', input: '된장찌개', meaning: 'soybean paste stew', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_040', display: '순두부찌개', input: '순두부찌개', meaning: 'soft tofu stew', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_041', display: '삼겹살', input: '삼겹살', meaning: 'grilled pork belly', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_042', display: '불고기', input: '불고기', meaning: 'marinated grilled beef', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_043', display: '비빔밥', input: '비빔밥', meaning: 'mixed rice bowl', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_044', display: '냉면', input: '냉면', meaning: 'cold noodles', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_045', display: '라면', input: '라면', meaning: 'instant noodles', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_046', display: '떡국', input: '떡국', meaning: 'rice cake soup', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_047', display: '국밥', input: '국밥', meaning: 'soup rice', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_048', display: '카레라이스', input: '카레라이스', meaning: 'curry rice', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_049', display: '짬뽕', input: '짬뽕', meaning: 'spicy seafood noodles', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_050', display: '순대', input: '순대', meaning: 'blood sausage', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_051', display: '치킨', input: '치킨', meaning: 'chicken', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_052', display: '피자', input: '피자', meaning: 'pizza', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_053', display: '햄버거', input: '햄버거', meaning: 'hamburger', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_054', display: '커피', input: '커피', meaning: 'coffee', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_055', display: '녹차', input: '녹차', meaning: 'green tea', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_056', display: '홍차', input: '홍차', meaning: 'black tea', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_057', display: '주스', input: '주스', meaning: 'juice', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_058', display: '콜라', input: '콜라', meaning: 'cola', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_059', display: '사이다', input: '사이다', meaning: 'cider/soda', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_060', display: '맥주', input: '맥주', meaning: 'beer', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_061', display: '소주', input: '소주', meaning: 'Korean spirits', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_062', display: '보리차', input: '보리차', meaning: 'barley tea', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_063', display: '유자차', input: '유자차', meaning: 'citron tea', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_064', display: 'Gingertea', input: 'Gingertea', meaning: 'fresh ginger tea', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_065', display: '밀크티', input: '밀크티', meaning: 'milk tea', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_066', display: 'Smoothie', input: 'Smoothie', meaning: 'smoothie', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_067', display: '메뉴', input: '메뉴', meaning: 'menu', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_068', display: '주문하다', input: '주문하다', meaning: 'to order', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_069', display: '계산하다', input: '계산하다', meaning: 'to pay', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_070', display: '계산서', input: '계산서', meaning: 'bill/check', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_071', display: '주방', input: '주방', meaning: 'kitchen', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_072', display: '식당', input: '식당', meaning: 'restaurant', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_073', display: '카페', input: '카페', meaning: 'cafe', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_074', display: '배달', input: '배달', meaning: 'delivery', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_075', display: '포장', input: '포장', meaning: 'takeout', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_076', display: '맛있다', input: '맛있다', meaning: 'delicious', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_077', display: '맛없다', input: '맛없다', meaning: 'not delicious', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_078', display: '매워요', input: '매워요', meaning: 'it''s spicy', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_079', display: '달다', input: '달다', meaning: 'sweet', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_080', display: '짜다', input: '짜다', meaning: 'salty', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_081', display: '시다', input: '시다', meaning: 'sour', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_082', display: '쓰다', input: '쓰다', meaning: 'bitter', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_083', display: '고프다', input: '고프다', meaning: 'hungry', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_084', display: '배부르다', input: '배부르다', meaning: 'full', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_085', display: '비었다', input: '비었다', meaning: 'empty', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_086', display: '맛집', input: '맛집', meaning: 'famous delicious restaurant', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_087', display: '잘 먹겠습니다', input: '잘 먹겠습니다', meaning: 'I will eat well (before meal)', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_088', display: '잘 먹었습니다', input: '잘 먹었습니다', meaning: 'I ate well (after meal)', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_089', display: '밥 먹었어요?', input: '밥 먹었어요?', meaning: 'Have you eaten?', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_090', display: '뭐 먹을래?', input: '뭐 먹을래?', meaning: 'What do you want to eat?', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_091', display: '같이 먹어요', input: '같이 먹어요', meaning: 'Let''s eat together', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_092', display: '아침', input: '아침', meaning: 'breakfast', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_093', display: '점심', input: '점심', meaning: 'lunch', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_094', display: '저녁', input: '저녁', meaning: 'dinner/evening', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_095', display: '배고파요', input: '배고파요', meaning: 'I''m hungry', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
+- { id: 'kr_food_096', display: '목이 말라요', input: '목이 말라요', meaning: 'I''m thirsty', level: 'TOPIK 1', category: 'food-vocabulary', source: '[[food-vocabulary]]' }
 ```

@@ -440,19 +440,19 @@ Korean "가슴" can mean both "chest" and "breast" — English distinguishes. Fo
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: en_body_001, display: "head", input: "head", meaning: "머리", level: "A1-A2", category: "body", source: "[[oxford-3000]]" }
-- { id: en_body_002, display: "face", input: "face", meaning: "얼굴", level: "A1-A2", category: "body", source: "[[oxford-3000]]" }
-- { id: en_body_003, display: "eye", input: "eye", meaning: "눈", level: "A1-A2", category: "body", source: "[[oxford-3000]]" }
-- { id: en_body_004, display: "ear", input: "ear", meaning: "귀", level: "A1-A2", category: "body", source: "[[oxford-3000]]" }
-- { id: en_body_005, display: "nose", input: "nose", meaning: "코", level: "A1-A2", category: "body", source: "[[oxford-3000]]" }
-- { id: en_body_006, display: "mouth", input: "mouth", meaning: "입", level: "A1-A2", category: "body", source: "[[oxford-3000]]" }
-- { id: en_body_007, display: "chest", input: "chest", meaning: "가슴", level: "A1-A2", category: "body", source: "[[oxford-3000]]" }
-- { id: en_body_008, display: "back", input: "back", meaning: "등", level: "A1-A2", category: "body", source: "[[oxford-3000]]" }
-- { id: en_body_009, display: "stomach", input: "stomach", meaning: "배", level: "A1-A2", category: "body", source: "[[oxford-3000]]" }
-- { id: en_body_010, display: "arm", input: "arm", meaning: "팔", level: "A1-A2", category: "body", source: "[[oxford-3000]]" }
-- { id: en_body_011, display: "hand", input: "hand", meaning: "손", level: "A1-A2", category: "body", source: "[[oxford-3000]]" }
-- { id: en_body_012, display: "leg", input: "leg", meaning: "다리", level: "A1-A2", category: "body", source: "[[oxford-3000]]" }
-- { id: en_body_013, display: "foot", input: "foot", meaning: "발", level: "A1-A2", category: "body", source: "[[oxford-3000]]" }
-- { id: en_body_014, display: "finger", input: "finger", meaning: "손가락", level: "A1-A2", category: "body", source: "[[oxford-3000]]" }
-- { id: en_body_015, display: "neck", input: "neck", meaning: "목", level: "A1-A2", category: "body", source: "[[oxford-3000]]" }
+- { id: 'en_body_001', display: 'head', input: 'head', meaning: '머리', level: 'A1-A2', category: 'body', source: '[[oxford-3000]]' }
+- { id: 'en_body_002', display: 'face', input: 'face', meaning: '얼굴', level: 'A1-A2', category: 'body', source: '[[oxford-3000]]' }
+- { id: 'en_body_003', display: 'eye', input: 'eye', meaning: '눈', level: 'A1-A2', category: 'body', source: '[[oxford-3000]]' }
+- { id: 'en_body_004', display: 'ear', input: 'ear', meaning: '귀', level: 'A1-A2', category: 'body', source: '[[oxford-3000]]' }
+- { id: 'en_body_005', display: 'nose', input: 'nose', meaning: '코', level: 'A1-A2', category: 'body', source: '[[oxford-3000]]' }
+- { id: 'en_body_006', display: 'mouth', input: 'mouth', meaning: '입', level: 'A1-A2', category: 'body', source: '[[oxford-3000]]' }
+- { id: 'en_body_007', display: 'chest', input: 'chest', meaning: '가슴', level: 'A1-A2', category: 'body', source: '[[oxford-3000]]' }
+- { id: 'en_body_008', display: 'back', input: 'back', meaning: '등', level: 'A1-A2', category: 'body', source: '[[oxford-3000]]' }
+- { id: 'en_body_009', display: 'stomach', input: 'stomach', meaning: '배', level: 'A1-A2', category: 'body', source: '[[oxford-3000]]' }
+- { id: 'en_body_010', display: 'arm', input: 'arm', meaning: '팔', level: 'A1-A2', category: 'body', source: '[[oxford-3000]]' }
+- { id: 'en_body_011', display: 'hand', input: 'hand', meaning: '손', level: 'A1-A2', category: 'body', source: '[[oxford-3000]]' }
+- { id: 'en_body_012', display: 'leg', input: 'leg', meaning: '다리', level: 'A1-A2', category: 'body', source: '[[oxford-3000]]' }
+- { id: 'en_body_013', display: 'foot', input: 'foot', meaning: '발', level: 'A1-A2', category: 'body', source: '[[oxford-3000]]' }
+- { id: 'en_body_014', display: 'finger', input: 'finger', meaning: '손가락', level: 'A1-A2', category: 'body', source: '[[oxford-3000]]' }
+- { id: 'en_body_015', display: 'neck', input: 'neck', meaning: '목', level: 'A1-A2', category: 'body', source: '[[oxford-3000]]' }
 ```

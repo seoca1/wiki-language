@@ -509,3 +509,30 @@ theme: "entertainment"
 > - 게임 = 게임 (game)
 > - 스트리밍 = 스트리밍 (streaming)
 > - 팬 = 팬 (fan)
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'kr_entertainment_001', display: '영화', input: '영화', meaning: '', level: 'TOPIK 3-4', category: 'entertainment', source: '[[entertainment-vocabulary]]' }
+- { id: 'kr_entertainment_002', display: '배우', input: '배우', meaning: '', level: 'TOPIK 3-4', category: 'entertainment', source: '[[entertainment-vocabulary]]' }
+- { id: 'kr_entertainment_003', display: '드라마', input: '드라마', meaning: '', level: 'TOPIK 3-4', category: 'entertainment', source: '[[entertainment-vocabulary]]' }
+- { id: 'kr_entertainment_004', display: '예능', input: '예능', meaning: '', level: 'TOPIK 3-4', category: 'entertainment', source: '[[entertainment-vocabulary]]' }
+- { id: 'kr_entertainment_005', display: '음악', input: '음악', meaning: '', level: 'TOPIK 3-4', category: 'entertainment', source: '[[entertainment-vocabulary]]' }
+- { id: 'kr_entertainment_006', display: '노래', input: '노래', meaning: '', level: 'TOPIK 3-4', category: 'entertainment', source: '[[entertainment-vocabulary]]' }
+- { id: 'kr_entertainment_007', display: '가수', input: '가수', meaning: '', level: 'TOPIK 3-4', category: 'entertainment', source: '[[entertainment-vocabulary]]' }
+- { id: 'kr_entertainment_008', display: '콘서트', input: '콘서트', meaning: '', level: 'TOPIK 3-4', category: 'entertainment', source: '[[entertainment-vocabulary]]' }
+- { id: 'kr_entertainment_009', display: 'K-pop', input: 'K-pop', meaning: '', level: 'TOPIK 3-4', category: 'entertainment', source: '[[entertainment-vocabulary]]' }
+- { id: 'kr_entertainment_010', display: '애니메이션', input: '애니메이션', meaning: '', level: 'TOPIK 3-4', category: 'entertainment', source: '[[entertainment-vocabulary]]' }
+- { id: 'kr_entertainment_011', display: '웹툰', input: '웹툰', meaning: '', level: 'TOPIK 3-4', category: 'entertainment', source: '[[entertainment-vocabulary]]' }
+- { id: 'kr_entertainment_012', display: '만화', input: '만화', meaning: '', level: 'TOPIK 3-4', category: 'entertainment', source: '[[entertainment-vocabulary]]' }
+- { id: 'kr_entertainment_013', display: '게임', input: '게임', meaning: '', level: 'TOPIK 3-4', category: 'entertainment', source: '[[entertainment-vocabulary]]' }
+- { id: 'kr_entertainment_014', display: '스트리밍', input: '스트리밍', meaning: '', level: 'TOPIK 3-4', category: 'entertainment', source: '[[entertainment-vocabulary]]' }
+- { id: 'kr_entertainment_015', display: '팬', input: '팬', meaning: '', level: 'TOPIK 3-4', category: 'entertainment', source: '[[entertainment-vocabulary]]' }
+- { id: 'kr_entertainment_016', display: '팬덤', input: '팬덤', meaning: '', level: 'TOPIK 3-4', category: 'entertainment', source: '[[entertainment-vocabulary]]' }
+- { id: 'kr_entertainment_017', display: '아이돌', input: '아이돌', meaning: '', level: 'TOPIK 3-4', category: 'entertainment', source: '[[entertainment-vocabulary]]' }
+- { id: 'kr_entertainment_018', display: '굿즈', input: '굿즈', meaning: '', level: 'TOPIK 3-4', category: 'entertainment', source: '[[entertainment-vocabulary]]' }
+```

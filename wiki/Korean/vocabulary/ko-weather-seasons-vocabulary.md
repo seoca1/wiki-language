@@ -738,32 +738,33 @@ theme: "weather-seasons"
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/kr_words.md`).
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: ko_weather_001, display: "봄 (春, bom)", input: "봄", meaning: "spring", level: "TOPIK 1", category: "weather-seasons", source: "[[ko-weather-seasons-vocabulary]]" }
-- { id: ko_weather_002, display: "여름 (夏, yeoreum)", input: "여름", meaning: "summer", level: "TOPIK 1", category: "weather-seasons", source: "[[ko-weather-seasons-vocabulary]]" }
-- { id: ko_weather_003, display: "가을 (秋, ga-eul)", input: "가을", meaning: "autumn, fall", level: "TOPIK 1", category: "weather-seasons", source: "[[ko-weather-seasons-vocabulary]]" }
-- { id: ko_weather_004, display: "겨울 (冬, gyeoul)", input: "겨울", meaning: "winter", level: "TOPIK 1", category: "weather-seasons", source: "[[ko-weather-seasons-vocabulary]]" }
-- { id: ko_weather_005, display: "벚꽃 (櫻花, beotkkot)", input: "벚꽃", meaning: "cherry blossom", level: "TOPIK 1", category: "weather-seasons", source: "[[ko-weather-seasons-vocabulary]]" }
-- { id: ko_weather_006, display: "단풍 (丹楓, danpung)", input: "단풍", meaning: "autumn foliage, maple", level: "TOPIK 1", category: "weather-seasons", source: "[[ko-weather-seasons-vocabulary]]" }
-- { id: ko_weather_007, display: "장마 (長雨, jangma)", input: "장마", meaning: "monsoon, rainy season", level: "TOPIK 2", category: "weather-seasons", source: "[[ko-weather-seasons-vocabulary]]" }
-- { id: ko_weather_008, display: "태풍 (颱風, taepung)", input: "태풍", meaning: "typhoon", level: "TOPIK 1", category: "weather-seasons", source: "[[ko-weather-seasons-vocabulary]]" }
-- { id: ko_weather_009, display: "황사 (黃沙, hwangsa)", input: "황사", meaning: "yellow dust", level: "TOPIK 2", category: "weather-seasons", source: "[[ko-weather-seasons-vocabulary]]" }
-- { id: ko_weather_010, display: "비 (雨, bi)", input: "비", meaning: "rain", level: "TOPIK 1", category: "weather-seasons", source: "[[ko-weather-seasons-vocabulary]]" }
-- { id: ko_weather_011, display: "눈 (雪, nun)", input: "눈", meaning: "snow", level: "TOPIK 1", category: "weather-seasons", source: "[[ko-weather-seasons-vocabulary]]" }
-- { id: ko_weather_012, display: "우박 (雹, ubak)", input: "우박", meaning: "hail", level: "TOPIK 3", category: "weather-seasons", source: "[[ko-weather-seasons-vocabulary]]" }
-- { id: ko_weather_013, display: "바람 (風, baram)", input: "바람", meaning: "wind", level: "TOPIK 1", category: "weather-seasons", source: "[[ko-weather-seasons-vocabulary]]" }
-- { id: ko_weather_014, display: "미세먼지 (微細塵, misemyeonji)", input: "미세먼지", meaning: "fine dust, PM2.5", level: "TOPIK 2", category: "weather-seasons", source: "[[ko-weather-seasons-vocabulary]]" }
-- { id: ko_weather_015, display: "맑다 (clear, makda)", input: "맑다", meaning: "to be clear, sunny", level: "TOPIK 1", category: "weather-seasons", source: "[[ko-weather-seasons-vocabulary]]" }
-- { id: ko_weather_016, display: "흐리다 (cloudy, heurida)", input: "흐리다", meaning: "to be cloudy, overcast", level: "TOPIK 1", category: "weather-seasons", source: "[[ko-weather-seasons-vocabulary]]" }
-- { id: ko_weather_017, display: "덥다 (hot, deopda)", input: "덥다", meaning: "to be hot (weather)", level: "TOPIK 1", category: "weather-seasons", source: "[[ko-weather-seasons-vocabulary]]" }
-- { id: ko_weather_018, display: "춥다 (cold, chupda)", input: "춥다", meaning: "to be cold (weather)", level: "TOPIK 1", category: "weather-seasons", source: "[[ko-weather-seasons-vocabulary]]" }
-- { id: ko_weather_019, display: "무지개 (虹, mujigae)", input: "무지개", meaning: "rainbow", level: "TOPIK 2", category: "weather-seasons", source: "[[ko-weather-seasons-vocabulary]]" }
-- { id: ko_weather_020, display: "천둥 (雷, cheondung)", input: "천둥", meaning: "thunder", level: "TOPIK 2", category: "weather-seasons", source: "[[ko-weather-seasons-vocabulary]]" }
-- { id: ko_weather_021, display: "번개 (電氣, beon-gae)", input: "번개", meaning: "lightning", level: "TOPIK 2", category: "weather-seasons", source: "[[ko-weather-seasons-vocabulary]]" }
-- { id: ko_weather_022, display: "한여름 (midsummer, hanyeoreum)", input: "한여름", meaning: "midsummer", level: "TOPIK 2", category: "weather-seasons", source: "[[ko-weather-seasons-vocabulary]]" }
-- { id: ko_weather_023, display: "환절기 (換節期, hwanjolgi)", input: "환절기", meaning: "change of seasons", level: "TOPIK 3", category: "weather-seasons", source: "[[ko-weather-seasons-vocabulary]]" }
+- { id: 'kr_weather_seasons_001', display: '봄 (bom)', input: '봄 (bom)', meaning: 'spring', level: 'TOPIK 1-2', category: 'weather-seasons', source: '[[ko-weather-seasons-vocabulary]]' }
+- { id: 'kr_weather_seasons_002', display: '여름 (yeoreum)', input: '여름 (yeoreum)', meaning: 'summer', level: 'TOPIK 1-2', category: 'weather-seasons', source: '[[ko-weather-seasons-vocabulary]]' }
+- { id: 'kr_weather_seasons_003', display: '가을 (ga-eul)', input: '가을 (ga-eul)', meaning: 'autumn, fall', level: 'TOPIK 1-2', category: 'weather-seasons', source: '[[ko-weather-seasons-vocabulary]]' }
+- { id: 'kr_weather_seasons_004', display: '겨울 (gyeoul)', input: '겨울 (gyeoul)', meaning: 'winter', level: 'TOPIK 1-2', category: 'weather-seasons', source: '[[ko-weather-seasons-vocabulary]]' }
+- { id: 'kr_weather_seasons_005', display: '벚꽃 (beotkkot)', input: '벚꽃 (beotkkot)', meaning: 'cherry blossom', level: 'TOPIK 1-2', category: 'weather-seasons', source: '[[ko-weather-seasons-vocabulary]]' }
+- { id: 'kr_weather_seasons_006', display: '단풍 (danpung)', input: '단풍 (danpung)', meaning: 'autumn foliage, maple', level: 'TOPIK 1-2', category: 'weather-seasons', source: '[[ko-weather-seasons-vocabulary]]' }
+- { id: 'kr_weather_seasons_007', display: '장마 (jangma)', input: '장마 (jangma)', meaning: 'monsoon, rainy season (Korea: late June - late July)', level: 'TOPIK 1-2', category: 'weather-seasons', source: '[[ko-weather-seasons-vocabulary]]' }
+- { id: 'kr_weather_seasons_008', display: '태풍 (taepung)', input: '태풍 (taepung)', meaning: 'typhoon', level: 'TOPIK 1-2', category: 'weather-seasons', source: '[[ko-weather-seasons-vocabulary]]' }
+- { id: 'kr_weather_seasons_009', display: '황사 (hwangsa)', input: '황사 (hwangsa)', meaning: 'yellow dust (from China/Mongolia deserts)', level: 'TOPIK 1-2', category: 'weather-seasons', source: '[[ko-weather-seasons-vocabulary]]' }
+- { id: 'kr_weather_seasons_010', display: '비 (bi)', input: '비 (bi)', meaning: 'rain', level: 'TOPIK 1-2', category: 'weather-seasons', source: '[[ko-weather-seasons-vocabulary]]' }
+- { id: 'kr_weather_seasons_011', display: '눈 (nun)', input: '눈 (nun)', meaning: 'snow', level: 'TOPIK 1-2', category: 'weather-seasons', source: '[[ko-weather-seasons-vocabulary]]' }
+- { id: 'kr_weather_seasons_012', display: '우박 (ubak)', input: '우박 (ubak)', meaning: 'hail', level: 'TOPIK 1-2', category: 'weather-seasons', source: '[[ko-weather-seasons-vocabulary]]' }
+- { id: 'kr_weather_seasons_013', display: '바람 (baram)', input: '바람 (baram)', meaning: 'wind', level: 'TOPIK 1-2', category: 'weather-seasons', source: '[[ko-weather-seasons-vocabulary]]' }
+- { id: 'kr_weather_seasons_014', display: '미세먼지 (misemyeonji)', input: '미세먼지 (misemyeonji)', meaning: 'fine dust, PM2.5 (fine particulate matter)', level: 'TOPIK 1-2', category: 'weather-seasons', source: '[[ko-weather-seasons-vocabulary]]' }
+- { id: 'kr_weather_seasons_015', display: '맑다 (makda)', input: '맑다 (makda)', meaning: 'to be clear, sunny', level: 'TOPIK 1-2', category: 'weather-seasons', source: '[[ko-weather-seasons-vocabulary]]' }
+- { id: 'kr_weather_seasons_016', display: '흐리다 (heurida)', input: '흐리다 (heurida)', meaning: 'to be cloudy, overcast', level: 'TOPIK 1-2', category: 'weather-seasons', source: '[[ko-weather-seasons-vocabulary]]' }
+- { id: 'kr_weather_seasons_017', display: '덥다 (deopda)', input: '덥다 (deopda)', meaning: 'to be hot (weather)', level: 'TOPIK 1-2', category: 'weather-seasons', source: '[[ko-weather-seasons-vocabulary]]' }
+- { id: 'kr_weather_seasons_018', display: '춥다 (chupda)', input: '춥다 (chupda)', meaning: 'to be cold (weather)', level: 'TOPIK 1-2', category: 'weather-seasons', source: '[[ko-weather-seasons-vocabulary]]' }
+- { id: 'kr_weather_seasons_019', display: '무지개 (mujigae)', input: '무지개 (mujigae)', meaning: 'rainbow', level: 'TOPIK 1-2', category: 'weather-seasons', source: '[[ko-weather-seasons-vocabulary]]' }
+- { id: 'kr_weather_seasons_020', display: '천둥 (cheondung)', input: '천둥 (cheondung)', meaning: 'thunder', level: 'TOPIK 1-2', category: 'weather-seasons', source: '[[ko-weather-seasons-vocabulary]]' }
+- { id: 'kr_weather_seasons_021', display: '번개 (beon-gae)', input: '번개 (beon-gae)', meaning: 'lightning', level: 'TOPIK 1-2', category: 'weather-seasons', source: '[[ko-weather-seasons-vocabulary]]' }
+- { id: 'kr_weather_seasons_022', display: '봄 (bom) - 계절 반복 참조', input: '봄 (bom) - 계절 반복 참조', meaning: '', level: 'TOPIK 1-2', category: 'weather-seasons', source: '[[ko-weather-seasons-vocabulary]]' }
+- { id: 'kr_weather_seasons_023', display: '한여름 (hanyeoreum)', input: '한여름 (hanyeoreum)', meaning: 'midsummer (peak of summer)', level: 'TOPIK 1-2', category: 'weather-seasons', source: '[[ko-weather-seasons-vocabulary]]' }
+- { id: 'kr_weather_seasons_024', display: '환절기 (hwanjolgi)', input: '환절기 (hwanjolgi)', meaning: 'change of seasons, transitional period', level: 'TOPIK 1-2', category: 'weather-seasons', source: '[[ko-weather-seasons-vocabulary]]' }
 ```

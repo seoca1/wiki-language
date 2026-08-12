@@ -440,21 +440,21 @@ theme: "entertainment"
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: jp_entertainment_001, display: "仲間 (nakama)", input: "仲間 (nakama)", meaning: "동료 / 동료", level: "N3-N1", category: "entertainment", source: "[[entertainment-vocabulary]]" }
-- { id: jp_entertainment_002, display: "夢 (yume)", input: "夢 (yume)", meaning: "꿈", level: "N3-N1", category: "entertainment", source: "[[entertainment-vocabulary]]" }
-- { id: jp_entertainment_003, display: "諦める (akirameru)", input: "諦める (akirameru)", meaning: "단념하다 / 포기하다", level: "N3-N1", category: "entertainment", source: "[[entertainment-vocabulary]]" }
-- { id: jp_entertainment_004, display: "自由 (jiyū)", input: "自由 (jiyū)", meaning: "자유", level: "N3-N1", category: "entertainment", source: "[[entertainment-vocabulary]]" }
-- { id: jp_entertainment_005, display: "正義 (seigi)", input: "正義 (seigi)", meaning: "정의", level: "N3-N1", category: "entertainment", source: "[[entertainment-vocabulary]]" }
-- { id: jp_entertainment_006, display: "絆 (kizuna)", input: "絆 (kizuna)", meaning: "인연 / 유대", level: "N3-N1", category: "entertainment", source: "[[entertainment-vocabulary]]" }
-- { id: jp_entertainment_007, display: "鬼 (oni)", input: "鬼 (oni)", meaning: "귀신 / 무시무시한 것", level: "N3-N1", category: "entertainment", source: "[[entertainment-vocabulary]]" }
-- { id: jp_entertainment_008, display: "等価交換 (tōka kōkan)", input: "等価交換 (tōka kōkan)", meaning: "등가 교환", level: "N3-N1", category: "entertainment", source: "[[entertainment-vocabulary]]" }
-- { id: jp_entertainment_009, display: "英雄 (eiyū)", input: "英雄 (eiyū)", meaning: "영웅", level: "N3-N1", category: "entertainment", source: "[[entertainment-vocabulary]]" }
-- { id: jp_entertainment_010, display: "成長 (seichō)", input: "成長 (seichō)", meaning: "성장", level: "N3-N1", category: "entertainment", source: "[[entertainment-vocabulary]]" }
-- { id: jp_entertainment_011, display: "戦う (tatakau)", input: "戦う (tatakau)", meaning: "싸우다", level: "N3-N1", category: "entertainment", source: "[[entertainment-vocabulary]]" }
-- { id: jp_entertainment_012, display: "勇気 (yūki)", input: "勇気 (yūki)", meaning: "용기", level: "N3-N1", category: "entertainment", source: "[[entertainment-vocabulary]]" }
-- { id: jp_entertainment_013, display: "運命 (unmei)", input: "運命 (unmei)", meaning: "운명", level: "N3-N1", category: "entertainment", source: "[[entertainment-vocabulary]]" }
-- { id: jp_entertainment_014, display: "努力 (doryoku)", input: "努力 (doryoku)", meaning: "노력 / 노력하다", level: "N3-N1", category: "entertainment", source: "[[entertainment-vocabulary]]" }
-- { id: jp_entertainment_015, display: "生きる (ikiru)", input: "生きる (ikiru)", meaning: "살다", level: "N3-N1", category: "entertainment", source: "[[entertainment-vocabulary]]" }
-- { id: jp_entertainment_016, display: "守る (mamoru)", input: "守る (mamoru)", meaning: "지키다", level: "N3-N1", category: "entertainment", source: "[[entertainment-vocabulary]]" }
-- { id: jp_entertainment_017, display: "心 (kokoro)", input: "心 (kokoro)", meaning: "마음 / 심장", level: "N3-N1", category: "entertainment", source: "[[entertainment-vocabulary]]" }
+- { id: 'jp_entertainment_001', display: '仲間 (nakama)', input: '仲間 (nakama)', meaning: '동료 / 동료', level: 'N3-N1', category: 'entertainment', source: '[[entertainment-vocabulary]]' }
+- { id: 'jp_entertainment_002', display: '夢 (yume)', input: '夢 (yume)', meaning: '꿈', level: 'N3-N1', category: 'entertainment', source: '[[entertainment-vocabulary]]' }
+- { id: 'jp_entertainment_003', display: '諦める (akirameru)', input: '諦める (akirameru)', meaning: '단념하다 / 포기하다', level: 'N3-N1', category: 'entertainment', source: '[[entertainment-vocabulary]]' }
+- { id: 'jp_entertainment_004', display: '自由 (jiyū)', input: '自由 (jiyū)', meaning: '자유', level: 'N3-N1', category: 'entertainment', source: '[[entertainment-vocabulary]]' }
+- { id: 'jp_entertainment_005', display: '正義 (seigi)', input: '正義 (seigi)', meaning: '정의', level: 'N3-N1', category: 'entertainment', source: '[[entertainment-vocabulary]]' }
+- { id: 'jp_entertainment_006', display: '絆 (kizuna)', input: '絆 (kizuna)', meaning: '인연 / 유대', level: 'N3-N1', category: 'entertainment', source: '[[entertainment-vocabulary]]' }
+- { id: 'jp_entertainment_007', display: '鬼 (oni)', input: '鬼 (oni)', meaning: '귀신 / 무시무시한 것', level: 'N3-N1', category: 'entertainment', source: '[[entertainment-vocabulary]]' }
+- { id: 'jp_entertainment_008', display: '等価交換 (tōka kōkan)', input: '等価交換 (tōka kōkan)', meaning: '등가 교환', level: 'N3-N1', category: 'entertainment', source: '[[entertainment-vocabulary]]' }
+- { id: 'jp_entertainment_009', display: '英雄 (eiyū)', input: '英雄 (eiyū)', meaning: '영웅', level: 'N3-N1', category: 'entertainment', source: '[[entertainment-vocabulary]]' }
+- { id: 'jp_entertainment_010', display: '成長 (seichō)', input: '成長 (seichō)', meaning: '성장', level: 'N3-N1', category: 'entertainment', source: '[[entertainment-vocabulary]]' }
+- { id: 'jp_entertainment_011', display: '戦う (tatakau)', input: '戦う (tatakau)', meaning: '싸우다', level: 'N3-N1', category: 'entertainment', source: '[[entertainment-vocabulary]]' }
+- { id: 'jp_entertainment_012', display: '勇気 (yūki)', input: '勇気 (yūki)', meaning: '용기', level: 'N3-N1', category: 'entertainment', source: '[[entertainment-vocabulary]]' }
+- { id: 'jp_entertainment_013', display: '運命 (unmei)', input: '運命 (unmei)', meaning: '운명', level: 'N3-N1', category: 'entertainment', source: '[[entertainment-vocabulary]]' }
+- { id: 'jp_entertainment_014', display: '努力 (doryoku)', input: '努力 (doryoku)', meaning: '노력 / 노력하다', level: 'N3-N1', category: 'entertainment', source: '[[entertainment-vocabulary]]' }
+- { id: 'jp_entertainment_015', display: '生きる (ikiru)', input: '生きる (ikiru)', meaning: '살다', level: 'N3-N1', category: 'entertainment', source: '[[entertainment-vocabulary]]' }
+- { id: 'jp_entertainment_016', display: '守る (mamoru)', input: '守る (mamoru)', meaning: '지키다', level: 'N3-N1', category: 'entertainment', source: '[[entertainment-vocabulary]]' }
+- { id: 'jp_entertainment_017', display: '心 (kokoro)', input: '心 (kokoro)', meaning: '마음 / 심장', level: 'N3-N1', category: 'entertainment', source: '[[entertainment-vocabulary]]' }
 ```

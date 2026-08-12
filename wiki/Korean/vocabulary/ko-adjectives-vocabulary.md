@@ -409,21 +409,21 @@ theme: "adjectives"
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/kr_words.md`).
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: ko_adj_001, display: "크다 (大, keuda)", input: "크다", meaning: "big, large", level: "TOPIK 1", category: "adjectives", source: "[[ko-adjectives-vocabulary]]" }
-- { id: ko_adj_002, display: "작다 (小, jakda)", input: "작다", meaning: "small", level: "TOPIK 1", category: "adjectives", source: "[[ko-adjectives-vocabulary]]" }
-- { id: ko_adj_003, display: "새롭다 (新, saeropda)", input: "새롭다", meaning: "new", level: "TOPIK 2", category: "adjectives", source: "[[ko-adjectives-vocabulary]]" }
-- { id: ko_adj_004, display: "낡다 (舊, nakda)", input: "낡다", meaning: "old, worn", level: "TOPIK 2", category: "adjectives", source: "[[ko-adjectives-vocabulary]]" }
-- { id: ko_adj_005, display: "좋다 (好, jota)", input: "좋다", meaning: "good, nice", level: "TOPIK 1", category: "adjectives", source: "[[ko-adjectives-vocabulary]]" }
-- { id: ko_adj_006, display: "나쁘다 (惡, nappeuda)", input: "나쁘다", meaning: "bad", level: "TOPIK 1", category: "adjectives", source: "[[ko-adjectives-vocabulary]]" }
-- { id: ko_adj_007, display: "예쁘다 (麗, yeppeuda)", input: "예쁘다", meaning: "pretty", level: "TOPIK 1", category: "adjectives", source: "[[ko-adjectives-vocabulary]]" }
-- { id: ko_adj_008, display: "멋있다 (cool, meosisda)", input: "멋있다", meaning: "cool, stylish", level: "TOPIK 2", category: "adjectives", source: "[[ko-adjectives-vocabulary]]" }
-- { id: ko_adj_009, display: "어렵다 (難, eoryeopda)", input: "어렵다", meaning: "difficult", level: "TOPIK 1", category: "adjectives", source: "[[ko-adjectives-vocabulary]]" }
-- { id: ko_adj_010, display: "쉽다 (易, swipda)", input: "쉽다", meaning: "easy", level: "TOPIK 1", category: "adjectives", source: "[[ko-adjectives-vocabulary]]" }
-- { id: ko_adj_011, display: "슬프다 (悲, seulpeuda)", input: "슬프다", meaning: "sad", level: "TOPIK 2", category: "adjectives", source: "[[ko-adjectives-vocabulary]]" }
-- { id: ko_adj_012, display: "기쁘다 (喜, gippeuda)", input: "기쁘다", meaning: "happy, glad", level: "TOPIK 2", category: "adjectives", source: "[[ko-adjectives-vocabulary]]" }
+- { id: 'kr_adjectives_001', display: '크다 (keuda)', input: '크다 (keuda)', meaning: 'to be big, large', level: 'TOPIK 1-2', category: 'adjectives', source: '[[ko-adjectives-vocabulary]]' }
+- { id: 'kr_adjectives_002', display: '작다 (jakda)', input: '작다 (jakda)', meaning: 'to be small, little', level: 'TOPIK 1-2', category: 'adjectives', source: '[[ko-adjectives-vocabulary]]' }
+- { id: 'kr_adjectives_003', display: '새롭다 (saeropda)', input: '새롭다 (saeropda)', meaning: 'to be new, novel', level: 'TOPIK 1-2', category: 'adjectives', source: '[[ko-adjectives-vocabulary]]' }
+- { id: 'kr_adjectives_004', display: '낡다 (nakda)', input: '낡다 (nakda)', meaning: 'to be old, worn-out, shabby', level: 'TOPIK 1-2', category: 'adjectives', source: '[[ko-adjectives-vocabulary]]' }
+- { id: 'kr_adjectives_005', display: '좋다 (jota)', input: '좋다 (jota)', meaning: 'to be good, nice, like', level: 'TOPIK 1-2', category: 'adjectives', source: '[[ko-adjectives-vocabulary]]' }
+- { id: 'kr_adjectives_006', display: '나쁘다 (nappeuda)', input: '나쁘다 (nappeuda)', meaning: 'to be bad, wrong', level: 'TOPIK 1-2', category: 'adjectives', source: '[[ko-adjectives-vocabulary]]' }
+- { id: 'kr_adjectives_007', display: '예쁘다 (yeppeuda)', input: '예쁘다 (yeppeuda)', meaning: 'to be pretty, beautiful', level: 'TOPIK 1-2', category: 'adjectives', source: '[[ko-adjectives-vocabulary]]' }
+- { id: 'kr_adjectives_008', display: '멋있다 (meosisda)', input: '멋있다 (meosisda)', meaning: 'to be cool, stylish, handsome', level: 'TOPIK 1-2', category: 'adjectives', source: '[[ko-adjectives-vocabulary]]' }
+- { id: 'kr_adjectives_009', display: '어렵다 (eoryeopda)', input: '어렵다 (eoryeopda)', meaning: 'to be difficult, hard', level: 'TOPIK 1-2', category: 'adjectives', source: '[[ko-adjectives-vocabulary]]' }
+- { id: 'kr_adjectives_010', display: '쉽다 (swipda)', input: '쉽다 (swipda)', meaning: 'to be easy, simple', level: 'TOPIK 1-2', category: 'adjectives', source: '[[ko-adjectives-vocabulary]]' }
+- { id: 'kr_adjectives_011', display: '슬프다 (seulpeuda)', input: '슬프다 (seulpeuda)', meaning: 'to be sad', level: 'TOPIK 1-2', category: 'adjectives', source: '[[ko-adjectives-vocabulary]]' }
+- { id: 'kr_adjectives_012', display: '기쁘다 (gippeuda)', input: '기쁘다 (gippeuda)', meaning: 'to be happy, glad', level: 'TOPIK 1-2', category: 'adjectives', source: '[[ko-adjectives-vocabulary]]' }
 ```

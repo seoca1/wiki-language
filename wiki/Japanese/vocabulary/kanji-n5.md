@@ -59,5 +59,5 @@ OpenClaw의 N5 한자 목록에서 숫자, 시간, 위치, 신체, 가족, 자�
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: jp_kanji_n5_001, display: "一", input: "一", meaning: "하나", level: "** JLPT N5", category: "kanji-n5", source: "[[kanji-n5]]" }
+- { id: 'jp_kanji_n5_001', display: '一', input: '一', meaning: '하나', level: '** JLPT N5', category: 'kanji-n5', source: '[[kanji-n5]]' }
 ```

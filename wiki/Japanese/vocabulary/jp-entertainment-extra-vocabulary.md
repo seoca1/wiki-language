@@ -483,24 +483,24 @@ Netflix、Amazon Prime、U-NEXT、ABEMA、TVer 等のサブスクリプション
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/jp_words.md`).
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: jp_entextra_001, display: "監督", input: "kantoku", meaning: "director", level: "JLPT N4", category: "jp-entertainment-extra-vocabulary", source: "[[jp-entertainment-extra-vocabulary]]" }
-- { id: jp_entextra_002, display: "脚本", input: "kyakuhon", meaning: "screenplay", level: "JLPT N4", category: "jp-entertainment-extra-vocabulary", source: "[[jp-entertainment-extra-vocabulary]]" }
-- { id: jp_entextra_003, display: "脚本家", input: "kyakuhonka", meaning: "screenwriter", level: "JLPT N4", category: "jp-entertainment-extra-vocabulary", source: "[[jp-entertainment-extra-vocabulary]]" }
-- { id: jp_entextra_004, display: "プロデューサー", input: "purodyuusaa", meaning: "producer", level: "JLPT N4", category: "jp-entertainment-extra-vocabulary", source: "[[jp-entertainment-extra-vocabulary]]" }
-- { id: jp_entextra_005, display: "声優", input: "seiyuu", meaning: "voice actor", level: "JLPT N4", category: "jp-entertainment-extra-vocabulary", source: "[[jp-entertainment-extra-vocabulary]]" }
-- { id: jp_entextra_006, display: "アフレコ", input: "afureko", meaning: "ADR / post-recording", level: "JLPT N3", category: "jp-entertainment-extra-vocabulary", source: "[[jp-entertainment-extra-vocabulary]]" }
-- { id: jp_entextra_007, display: "主題歌", input: "shudaika", meaning: "theme song", level: "JLPT N4", category: "jp-entertainment-extra-vocabulary", source: "[[jp-entertainment-extra-vocabulary]]" }
-- { id: jp_entextra_008, display: "主題曲", input: "shudaikyoku", meaning: "main theme", level: "JLPT N4", category: "jp-entertainment-extra-vocabulary", source: "[[jp-entertainment-extra-vocabulary]]" }
-- { id: jp_entextra_009, display: "挿入歌", input: "sounyuuka", meaning: "insert song", level: "JLPT N3", category: "jp-entertainment-extra-vocabulary", source: "[[jp-entertainment-extra-vocabulary]]" }
-- { id: jp_entextra_010, display: "エンドロール", input: "endorooru", meaning: "end credits", level: "JLPT N4", category: "jp-entertainment-extra-vocabulary", source: "[[jp-entertainment-extra-vocabulary]]" }
-- { id: jp_entextra_011, display: "放送", input: "housou", meaning: "broadcast", level: "JLPT N4", category: "jp-entertainment-extra-vocabulary", source: "[[jp-entertainment-extra-vocabulary]]" }
-- { id: jp_entextra_012, display: "配信", input: "haishin", meaning: "streaming", level: "JLPT N4", category: "jp-entertainment-extra-vocabulary", source: "[[jp-entertainment-extra-vocabulary]]" }
-- { id: jp_entextra_013, display: "アイドル", input: "aidoru", meaning: "idol", level: "JLPT N4", category: "jp-entertainment-extra-vocabulary", source: "[[jp-entertainment-extra-vocabulary]]" }
-- { id: jp_entextra_014, display: "タレント", input: "tarento", meaning: "TV personality", level: "JLPT N4", category: "jp-entertainment-extra-vocabulary", source: "[[jp-entertainment-extra-vocabulary]]" }
-- { id: jp_entextra_015, display: "推し", input: "oshi", meaning: "favorite (performer)", level: "JLPT N3", category: "jp-entertainment-extra-vocabulary", source: "[[jp-entertainment-extra-vocabulary]]" }
+- { id: 'jp_jp_entertainment_extra_vocabulary_001', display: '監督', input: '監督', meaning: 'director', level: 'JLPT N4', category: 'jp-entertainment-extra-vocabulary', source: '[[jp-entertainment-extra-vocabulary]]' }
+- { id: 'jp_jp_entertainment_extra_vocabulary_002', display: '脚本', input: '脚本', meaning: 'screenplay', level: 'JLPT N4', category: 'jp-entertainment-extra-vocabulary', source: '[[jp-entertainment-extra-vocabulary]]' }
+- { id: 'jp_jp_entertainment_extra_vocabulary_003', display: '脚本家', input: '脚本家', meaning: 'screenwriter', level: 'JLPT N4', category: 'jp-entertainment-extra-vocabulary', source: '[[jp-entertainment-extra-vocabulary]]' }
+- { id: 'jp_jp_entertainment_extra_vocabulary_004', display: 'プロデューサー', input: 'プロデューサー', meaning: 'producer', level: 'JLPT N4', category: 'jp-entertainment-extra-vocabulary', source: '[[jp-entertainment-extra-vocabulary]]' }
+- { id: 'jp_jp_entertainment_extra_vocabulary_005', display: '声優', input: '声優', meaning: 'voice actor', level: 'JLPT N4', category: 'jp-entertainment-extra-vocabulary', source: '[[jp-entertainment-extra-vocabulary]]' }
+- { id: 'jp_jp_entertainment_extra_vocabulary_006', display: 'アフレコ', input: 'アフレコ', meaning: 'ADR / post-recording', level: 'JLPT N3', category: 'jp-entertainment-extra-vocabulary', source: '[[jp-entertainment-extra-vocabulary]]' }
+- { id: 'jp_jp_entertainment_extra_vocabulary_007', display: '主題歌', input: '主題歌', meaning: 'theme song', level: 'JLPT N4', category: 'jp-entertainment-extra-vocabulary', source: '[[jp-entertainment-extra-vocabulary]]' }
+- { id: 'jp_jp_entertainment_extra_vocabulary_008', display: '主題曲', input: '主題曲', meaning: 'main theme', level: 'JLPT N4', category: 'jp-entertainment-extra-vocabulary', source: '[[jp-entertainment-extra-vocabulary]]' }
+- { id: 'jp_jp_entertainment_extra_vocabulary_009', display: '挿入歌', input: '挿入歌', meaning: 'insert song', level: 'JLPT N3', category: 'jp-entertainment-extra-vocabulary', source: '[[jp-entertainment-extra-vocabulary]]' }
+- { id: 'jp_jp_entertainment_extra_vocabulary_010', display: 'エンドロール', input: 'エンドロール', meaning: 'end credits', level: 'JLPT N4', category: 'jp-entertainment-extra-vocabulary', source: '[[jp-entertainment-extra-vocabulary]]' }
+- { id: 'jp_jp_entertainment_extra_vocabulary_011', display: '放送', input: '放送', meaning: 'broadcast', level: 'JLPT N4', category: 'jp-entertainment-extra-vocabulary', source: '[[jp-entertainment-extra-vocabulary]]' }
+- { id: 'jp_jp_entertainment_extra_vocabulary_012', display: '配信', input: '配信', meaning: 'streaming', level: 'JLPT N4', category: 'jp-entertainment-extra-vocabulary', source: '[[jp-entertainment-extra-vocabulary]]' }
+- { id: 'jp_jp_entertainment_extra_vocabulary_013', display: 'アイドル', input: 'アイドル', meaning: 'idol', level: 'JLPT N4', category: 'jp-entertainment-extra-vocabulary', source: '[[jp-entertainment-extra-vocabulary]]' }
+- { id: 'jp_jp_entertainment_extra_vocabulary_014', display: 'タレント', input: 'タレント', meaning: 'TV personality', level: 'JLPT N4', category: 'jp-entertainment-extra-vocabulary', source: '[[jp-entertainment-extra-vocabulary]]' }
+- { id: 'jp_jp_entertainment_extra_vocabulary_015', display: '推し', input: '推し', meaning: 'favorite (performer)', level: 'JLPT N3', category: 'jp-entertainment-extra-vocabulary', source: '[[jp-entertainment-extra-vocabulary]]' }
 ```

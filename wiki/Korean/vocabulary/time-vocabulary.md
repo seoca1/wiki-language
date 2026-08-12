@@ -297,14 +297,14 @@ Korean time 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: kr_time_001, display: "오늘 (오늘, oneul)", input: "오늘 (오늘, oneul)", meaning: "today", level: "TOPIK 1", category: "time", source: "[[time-vocabulary]]" }
-- { id: kr_time_002, display: "내일 (內日, naeil)", input: "내일 (內日, naeil)", meaning: "tomorrow", level: "TOPIK 1", category: "time", source: "[[time-vocabulary]]" }
-- { id: kr_time_003, display: "어제 (어제, eoje)", input: "어제 (어제, eoje)", meaning: "yesterday", level: "TOPIK 1", category: "time", source: "[[time-vocabulary]]" }
-- { id: kr_time_004, display: "아침 (朝, achim)", input: "아침 (朝, achim)", meaning: "morning", level: "TOPIK 1", category: "time", source: "[[time-vocabulary]]" }
-- { id: kr_time_005, display: "오후 (午後, ohu)", input: "오후 (午後, ohu)", meaning: "afternoon", level: "TOPIK 1", category: "time", source: "[[time-vocabulary]]" }
-- { id: kr_time_006, display: "저녁 (夕, jeonyeok)", input: "저녁 (夕, jeonyeok)", meaning: "evening", level: "TOPIK 1", category: "time", source: "[[time-vocabulary]]" }
-- { id: kr_time_007, display: "밤 (夜, bam)", input: "밤 (夜, bam)", meaning: "night", level: "TOPIK 1", category: "time", source: "[[time-vocabulary]]" }
-- { id: kr_time_008, display: "점심 (昼食, jeomsim)", input: "점심 (昼食, jeomsim)", meaning: "lunch", level: "TOPIK 2", category: "time", source: "[[time-vocabulary]]" }
-- { id: kr_time_009, display: "주말 (週末, jumal)", input: "주말 (週末, jumal)", meaning: "weekend", level: "TOPIK 1", category: "time", source: "[[time-vocabulary]]" }
-- { id: kr_time_010, display: "시간 (時間, sigan)", input: "시간 (時間, sigan)", meaning: "hour/time", level: "TOPIK 1", category: "time", source: "[[time-vocabulary]]" }
+- { id: 'kr_time_001', display: '오늘 (오늘, oneul)', input: '오늘 (오늘, oneul)', meaning: 'today', level: 'TOPIK 1', category: 'time', source: '[[time-vocabulary]]' }
+- { id: 'kr_time_002', display: '내일 (內日, naeil)', input: '내일 (內日, naeil)', meaning: 'tomorrow', level: 'TOPIK 1', category: 'time', source: '[[time-vocabulary]]' }
+- { id: 'kr_time_003', display: '어제 (어제, eoje)', input: '어제 (어제, eoje)', meaning: 'yesterday', level: 'TOPIK 1', category: 'time', source: '[[time-vocabulary]]' }
+- { id: 'kr_time_004', display: '아침 (朝, achim)', input: '아침 (朝, achim)', meaning: 'morning', level: 'TOPIK 1', category: 'time', source: '[[time-vocabulary]]' }
+- { id: 'kr_time_005', display: '오후 (午後, ohu)', input: '오후 (午後, ohu)', meaning: 'afternoon', level: 'TOPIK 1', category: 'time', source: '[[time-vocabulary]]' }
+- { id: 'kr_time_006', display: '저녁 (夕, jeonyeok)', input: '저녁 (夕, jeonyeok)', meaning: 'evening', level: 'TOPIK 1', category: 'time', source: '[[time-vocabulary]]' }
+- { id: 'kr_time_007', display: '밤 (夜, bam)', input: '밤 (夜, bam)', meaning: 'night', level: 'TOPIK 1', category: 'time', source: '[[time-vocabulary]]' }
+- { id: 'kr_time_008', display: '점심 (昼食, jeomsim)', input: '점심 (昼食, jeomsim)', meaning: 'lunch', level: 'TOPIK 2', category: 'time', source: '[[time-vocabulary]]' }
+- { id: 'kr_time_009', display: '주말 (週末, jumal)', input: '주말 (週末, jumal)', meaning: 'weekend', level: 'TOPIK 1', category: 'time', source: '[[time-vocabulary]]' }
+- { id: 'kr_time_010', display: '시간 (時間, sigan)', input: '시간 (時間, sigan)', meaning: 'hour/time', level: 'TOPIK 1', category: 'time', source: '[[time-vocabulary]]' }
 ```

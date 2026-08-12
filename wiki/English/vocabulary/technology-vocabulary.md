@@ -297,14 +297,14 @@ English technology 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: en_technology_001, display: "computer", input: "computer", meaning: "컴퓨터", level: "A1", category: "technology", source: "[[technology-vocabulary]]" }
-- { id: en_technology_002, display: "phone", input: "phone", meaning: "전화", level: "A1", category: "technology", source: "[[technology-vocabulary]]" }
-- { id: en_technology_003, display: "internet", input: "internet", meaning: "인터넷", level: "A1", category: "technology", source: "[[technology-vocabulary]]" }
-- { id: en_technology_004, display: "email", input: "email", meaning: "이메일", level: "A1", category: "technology", source: "[[technology-vocabulary]]" }
-- { id: en_technology_005, display: "website", input: "website", meaning: "웹사이트", level: "A2", category: "technology", source: "[[technology-vocabulary]]" }
-- { id: en_technology_006, display: "app", input: "app", meaning: "앱", level: "A1", category: "technology", source: "[[technology-vocabulary]]" }
-- { id: en_technology_007, display: "password", input: "password", meaning: "비밀번호", level: "A2", category: "technology", source: "[[technology-vocabulary]]" }
-- { id: en_technology_008, display: "mouse", input: "mouse", meaning: "마우스", level: "A1", category: "technology", source: "[[technology-vocabulary]]" }
-- { id: en_technology_009, display: "keyboard", input: "keyboard", meaning: "키보드", level: "A2", category: "technology", source: "[[technology-vocabulary]]" }
-- { id: en_technology_010, display: "screen", input: "screen", meaning: "화면", level: "A2", category: "technology", source: "[[technology-vocabulary]]" }
+- { id: 'en_technology_001', display: 'computer', input: 'computer', meaning: '컴퓨터', level: 'A1', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'en_technology_002', display: 'phone', input: 'phone', meaning: '전화', level: 'A1', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'en_technology_003', display: 'internet', input: 'internet', meaning: '인터넷', level: 'A1', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'en_technology_004', display: 'email', input: 'email', meaning: '이메일', level: 'A1', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'en_technology_005', display: 'website', input: 'website', meaning: '웹사이트', level: 'A2', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'en_technology_006', display: 'app', input: 'app', meaning: '앱', level: 'A1', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'en_technology_007', display: 'password', input: 'password', meaning: '비밀번호', level: 'A2', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'en_technology_008', display: 'mouse', input: 'mouse', meaning: '마우스', level: 'A1', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'en_technology_009', display: 'keyboard', input: 'keyboard', meaning: '키보드', level: 'A2', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'en_technology_010', display: 'screen', input: 'screen', meaning: '화면', level: 'A2', category: 'technology', source: '[[technology-vocabulary]]' }
 ```

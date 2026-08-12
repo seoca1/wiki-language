@@ -297,14 +297,14 @@ Japanese months 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: jp_months_001, display: "一月 (いちがつ)", input: "一月 (いちがつ)", meaning: "1월", level: "N5", category: "months", source: "[[months-vocabulary]]" }
-- { id: jp_months_002, display: "二月 (にがつ)", input: "二月 (にがつ)", meaning: "2월", level: "N5", category: "months", source: "[[months-vocabulary]]" }
-- { id: jp_months_003, display: "三月 (さんがつ)", input: "三月 (さんがつ)", meaning: "3월", level: "N5", category: "months", source: "[[months-vocabulary]]" }
-- { id: jp_months_004, display: "四月 (しがつ)", input: "四月 (しがつ)", meaning: "4월", level: "N5", category: "months", source: "[[months-vocabulary]]" }
-- { id: jp_months_005, display: "五月 (ごがつ)", input: "五月 (ごがつ)", meaning: "5월", level: "N5", category: "months", source: "[[months-vocabulary]]" }
-- { id: jp_months_006, display: "六月 (ろくがつ)", input: "六月 (ろくがつ)", meaning: "6월", level: "N5", category: "months", source: "[[months-vocabulary]]" }
-- { id: jp_months_007, display: "七月 (しちがつ)", input: "七月 (しちがつ)", meaning: "7월", level: "N5", category: "months", source: "[[months-vocabulary]]" }
-- { id: jp_months_008, display: "八月 (はちがつ)", input: "八月 (はちがつ)", meaning: "8월", level: "N5", category: "months", source: "[[months-vocabulary]]" }
-- { id: jp_months_009, display: "九月 (くがつ)", input: "九月 (くがつ)", meaning: "9월", level: "N5", category: "months", source: "[[months-vocabulary]]" }
-- { id: jp_months_010, display: "十月 (じゅうがつ)", input: "十月 (じゅうがつ)", meaning: "10월", level: "N5", category: "months", source: "[[months-vocabulary]]" }
+- { id: 'jp_months_001', display: '一月 (いちがつ)', input: '一月 (いちがつ)', meaning: '1월', level: 'N5', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'jp_months_002', display: '二月 (にがつ)', input: '二月 (にがつ)', meaning: '2월', level: 'N5', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'jp_months_003', display: '三月 (さんがつ)', input: '三月 (さんがつ)', meaning: '3월', level: 'N5', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'jp_months_004', display: '四月 (しがつ)', input: '四月 (しがつ)', meaning: '4월', level: 'N5', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'jp_months_005', display: '五月 (ごがつ)', input: '五月 (ごがつ)', meaning: '5월', level: 'N5', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'jp_months_006', display: '六月 (ろくがつ)', input: '六月 (ろくがつ)', meaning: '6월', level: 'N5', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'jp_months_007', display: '七月 (しちがつ)', input: '七月 (しちがつ)', meaning: '7월', level: 'N5', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'jp_months_008', display: '八月 (はちがつ)', input: '八月 (はちがつ)', meaning: '8월', level: 'N5', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'jp_months_009', display: '九月 (くがつ)', input: '九月 (くがつ)', meaning: '9월', level: 'N5', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'jp_months_010', display: '十月 (じゅうがつ)', input: '十月 (じゅうがつ)', meaning: '10월', level: 'N5', category: 'months', source: '[[months-vocabulary]]' }
 ```

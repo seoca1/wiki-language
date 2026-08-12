@@ -221,3 +221,31 @@ theme: "time"
 | 早上 (zǎo shàng) | 3성 + 4성 | 아침+위 |
 | 晚上 (wǎn shàng) | 3성 + 4성 | 저녁+위 |
 | 中午 (zhōng wǔ) | 1성 + 3성 | 중간+낮 |
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'zh_time_001', display: '요일 (Weekdays)', input: '요일 (Weekdays)', meaning: '', level: 'HSK 1-2', category: 'time', source: '[[time-zh]]' }
+- { id: 'zh_time_002', display: '날짜 표현 (Date Expressions)', input: '날짜 표현 (Date Expressions)', meaning: '', level: 'HSK 1-2', category: 'time', source: '[[time-zh]]' }
+- { id: 'zh_time_003', display: '상대적 날짜 (Relative Dates)', input: '상대적 날짜 (Relative Dates)', meaning: '', level: 'HSK 1-2', category: 'time', source: '[[time-zh]]' }
+- { id: 'zh_time_004', display: '시각 묻기/말하기 (Asking/Telling Time)', input: '시각 묻기/말하기 (Asking/Telling Time)', meaning: '', level: 'HSK 1-2', category: 'time', source: '[[time-zh]]' }
+- { id: 'zh_time_005', display: '오전/오후/저녁 (AM/PM/Evening)', input: '오전/오후/저녁 (AM/PM/Evening)', meaning: '', level: 'HSK 1-2', category: 'time', source: '[[time-zh]]' }
+- { id: 'zh_time_006', display: '시간 전치사 (Time Prepositions)', input: '시간 전치사 (Time Prepositions)', meaning: '', level: 'HSK 1-2', category: 'time', source: '[[time-zh]]' }
+- { id: 'zh_time_007', display: '1. 시간 단위 카운터 (Time Counters)', input: '1. 시간 단위 카운터 (Time Counters)', meaning: '', level: 'HSK 1-2', category: 'time', source: '[[time-zh]]' }
+- { id: 'zh_time_008', display: '2. 시/분/초 표현 (Time Format)', input: '2. 시/분/초 표현 (Time Format)', meaning: '', level: 'HSK 1-2', category: 'time', source: '[[time-zh]]' }
+- { id: 'zh_time_009', display: '3. 상대적 시간 표현 (Relative Time)', input: '3. 상대적 시간 표현 (Relative Time)', meaning: '', level: 'HSK 1-2', category: 'time', source: '[[time-zh]]' }
+- { id: 'zh_time_010', display: '4. "시간" 단어 구별 (Time Word Distinctions)', input: '4. "시간" 단어 구별 (Time Word Distinctions)', meaning: '', level: 'HSK 1-2', category: 'time', source: '[[time-zh]]' }
+- { id: 'zh_time_011', display: '시간 묻기/말하기', input: '시간 묻기/말하기', meaning: '', level: 'HSK 1-2', category: 'time', source: '[[time-zh]]' }
+- { id: 'zh_time_012', display: '약속 시간 잡기', input: '약속 시간 잡기', meaning: '', level: 'HSK 1-2', category: 'time', source: '[[time-zh]]' }
+- { id: 'zh_time_013', display: '지속 시간', input: '지속 시간', meaning: '', level: 'HSK 1-2', category: 'time', source: '[[time-zh]]' }
+- { id: 'zh_time_014', display: '빈도 표현', input: '빈도 표현', meaning: '', level: 'HSK 1-2', category: 'time', source: '[[time-zh]]' }
+- { id: 'zh_time_015', display: '1. 点 (diǎn) vs 小时 (xiǎo shí)', input: '1. 点 (diǎn) vs 小时 (xiǎo shí)', meaning: '', level: 'HSK 1-2', category: 'time', source: '[[time-zh]]' }
+- { id: 'zh_time_016', display: '2. 分 (fēn) vs 分钟 (fēn zhōng)', input: '2. 分 (fēn) vs 分钟 (fēn zhōng)', meaning: '', level: 'HSK 1-2', category: 'time', source: '[[time-zh]]' }
+- { id: 'zh_time_017', display: '3. 天 (tiān) vs 日 (rì)', input: '3. 天 (tiān) vs 日 (rì)', meaning: '', level: 'HSK 1-2', category: 'time', source: '[[time-zh]]' }
+- { id: 'zh_time_018', display: '4. 个 (gè) 카운터 필수', input: '4. 个 (gè) 카운터 필수', meaning: '', level: 'HSK 1-2', category: 'time', source: '[[time-zh]]' }
+- { id: 'zh_time_019', display: '5. 반(半) 표현', input: '5. 반(半) 표현', meaning: '', level: 'HSK 1-2', category: 'time', source: '[[time-zh]]' }
+```

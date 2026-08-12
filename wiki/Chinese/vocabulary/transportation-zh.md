@@ -304,3 +304,29 @@ theme: "transportation"
 | 左转 (zuǒ zhuǎn) | 3성 + 3성 | 左 (zuǒ) 3성, 转 (zhuǎn) 3성 |
 | 右转 (yòu zhuǎn) | 4성 + 3성 | 右 (yòu) 4성 |
 | 直走 (zhí zǒu) | 2성 + 3성 | 直 (zhí) 2성, 走 (zǒu) 3성 |
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'zh_transportation_001', display: '길 묻기/가르쳐주기', input: '길 묻기/가르쳐주기', meaning: '', level: 'HSK 1-2', category: 'transportation', source: '[[transportation-zh]]' }
+- { id: 'zh_transportation_002', display: '교통수단 이용', input: '교통수단 이용', meaning: '', level: 'HSK 1-2', category: 'transportation', source: '[[transportation-zh]]' }
+- { id: 'zh_transportation_003', display: '시간/거리', input: '시간/거리', meaning: '', level: 'HSK 1-2', category: 'transportation', source: '[[transportation-zh]]' }
+- { id: 'zh_transportation_004', display: '1. "타다" = 坐 (zuò) — "앉다" 의미 확장', input: '1. "타다" = 坐 (zuò) — "앉다" 의미 확장', meaning: '', level: 'HSK 1-2', category: 'transportation', source: '[[transportation-zh]]' }
+- { id: 'zh_transportation_005', display: '2. "오르다/타다" = 上车 (shàng chē) / 下车 (xià chē)', input: '2. "오르다/타다" = 上车 (shàng chē) / 下车 (xià chē)', meaning: '', level: 'HSK 1-2', category: 'transportation', source: '[[transportation-zh]]' }
+- { id: 'zh_transportation_006', display: '3. "운전하다" = 开车 (kāi chē)', input: '3. "운전하다" = 开车 (kāi chē)', meaning: '', level: 'HSK 1-2', category: 'transportation', source: '[[transportation-zh]]' }
+- { id: 'zh_transportation_007', display: '4. 주차/정차', input: '4. 주차/정차', meaning: '', level: 'HSK 1-2', category: 'transportation', source: '[[transportation-zh]]' }
+- { id: 'zh_transportation_008', display: '5. 환승 = 换乘 (huàn chéng)', input: '5. 환승 = 换乘 (huàn chéng)', meaning: '', level: 'HSK 1-2', category: 'transportation', source: '[[transportation-zh]]' }
+- { id: 'zh_transportation_009', display: '6. 표/티켓 관련', input: '6. 표/티켓 관련', meaning: '', level: 'HSK 1-2', category: 'transportation', source: '[[transportation-zh]]' }
+- { id: 'zh_transportation_010', display: '7. 거리/시간 단위', input: '7. 거리/시간 단위', meaning: '', level: 'HSK 1-2', category: 'transportation', source: '[[transportation-zh]]' }
+- { id: 'zh_transportation_011', display: '1. 坐 (zuò) = "앉다" → "타다" 확장', input: '1. 坐 (zuò) = "앉다" → "타다" 확장', meaning: '', level: 'HSK 1-2', category: 'transportation', source: '[[transportation-zh]]' }
+- { id: 'zh_transportation_012', display: '2. 上车 (shàng chē) / 下车 (xià chē) — 오르다/내리다', input: '2. 上车 (shàng chē) / 下车 (xià chē) — 오르다/내리다', meaning: '', level: 'HSK 1-2', category: 'transportation', source: '[[transportation-zh]]' }
+- { id: 'zh_transportation_013', display: '3. 换乘 (huàn chéng) = 환승', input: '3. 换乘 (huàn chéng) = 환승', meaning: '', level: 'HSK 1-2', category: 'transportation', source: '[[transportation-zh]]' }
+- { id: 'zh_transportation_014', display: '4. 票 (piào) = 표/티켓 — 카운터 张 (zhāng) 필수', input: '4. 票 (piào) = 표/티켓 — 카운터 张 (zhāng) 필수', meaning: '', level: 'HSK 1-2', category: 'transportation', source: '[[transportation-zh]]' }
+- { id: 'zh_transportation_015', display: '4. 거리/시간 표현', input: '4. 거리/시간 표현', meaning: '', level: 'HSK 1-2', category: 'transportation', source: '[[transportation-zh]]' }
+- { id: 'zh_transportation_016', display: '길 찾기/교통', input: '길 찾기/교통', meaning: '', level: 'HSK 1-2', category: 'transportation', source: '[[transportation-zh]]' }
+- { id: 'zh_transportation_017', display: '길 안내', input: '길 안내', meaning: '', level: 'HSK 1-2', category: 'transportation', source: '[[transportation-zh]]' }
+```

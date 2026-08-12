@@ -297,14 +297,14 @@ Korean directions 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: kr_directions_001, display: "왼쪽 (왼쪽, oenjjok)", input: "왼쪽 (왼쪽, oenjjok)", meaning: "left", level: "TOPIK 1", category: "directions", source: "[[directions-vocabulary]]" }
-- { id: kr_directions_002, display: "오른쪽 (orentjok, 오른쪽)", input: "오른쪽 (orentjok, 오른쪽)", meaning: "right", level: "TOPIK 1", category: "directions", source: "[[directions-vocabulary]]" }
-- { id: kr_directions_003, display: "직진 (直進, jikjin)", input: "직진 (直進, jikjin)", meaning: "straight", level: "TOPIK 1", category: "directions", source: "[[directions-vocabulary]]" }
-- { id: kr_directions_004, display: "위 (wi, 上)", input: "위 (wi, 上)", meaning: "up", level: "TOPIK 1", category: "directions", source: "[[directions-vocabulary]]" }
-- { id: kr_directions_005, display: "아래 (arae, 下)", input: "아래 (arae, 下)", meaning: "down", level: "TOPIK 1", category: "directions", source: "[[directions-vocabulary]]" }
-- { id: kr_directions_006, display: "여기 (yeogi, 여기)", input: "여기 (yeogi, 여기)", meaning: "here", level: "TOPIK 1", category: "directions", source: "[[directions-vocabulary]]" }
-- { id: kr_directions_007, display: "저기 (jeogi, 저기)", input: "저기 (jeogi, 저기)", meaning: "there", level: "TOPIK 1", category: "directions", source: "[[directions-vocabulary]]" }
-- { id: kr_directions_008, display: "가까이 (gakkai, 가까이)", input: "가까이 (gakkai, 가까이)", meaning: "near", level: "TOPIK 2", category: "directions", source: "[[directions-vocabulary]]" }
-- { id: kr_directions_009, display: "멀리 (meolli, 멀리)", input: "멀리 (meolli, 멀리)", meaning: "far", level: "TOPIK 1", category: "directions", source: "[[directions-vocabulary]]" }
-- { id: kr_directions_010, display: "사이 (sai, 사이)", input: "사이 (sai, 사이)", meaning: "between", level: "TOPIK 2", category: "directions", source: "[[directions-vocabulary]]" }
+- { id: 'kr_directions_001', display: '왼쪽 (왼쪽, oenjjok)', input: '왼쪽 (왼쪽, oenjjok)', meaning: 'left', level: 'TOPIK 1', category: 'directions', source: '[[directions-vocabulary]]' }
+- { id: 'kr_directions_002', display: '오른쪽 (orentjok, 오른쪽)', input: '오른쪽 (orentjok, 오른쪽)', meaning: 'right', level: 'TOPIK 1', category: 'directions', source: '[[directions-vocabulary]]' }
+- { id: 'kr_directions_003', display: '직진 (直進, jikjin)', input: '직진 (直進, jikjin)', meaning: 'straight', level: 'TOPIK 1', category: 'directions', source: '[[directions-vocabulary]]' }
+- { id: 'kr_directions_004', display: '위 (wi, 上)', input: '위 (wi, 上)', meaning: 'up', level: 'TOPIK 1', category: 'directions', source: '[[directions-vocabulary]]' }
+- { id: 'kr_directions_005', display: '아래 (arae, 下)', input: '아래 (arae, 下)', meaning: 'down', level: 'TOPIK 1', category: 'directions', source: '[[directions-vocabulary]]' }
+- { id: 'kr_directions_006', display: '여기 (yeogi, 여기)', input: '여기 (yeogi, 여기)', meaning: 'here', level: 'TOPIK 1', category: 'directions', source: '[[directions-vocabulary]]' }
+- { id: 'kr_directions_007', display: '저기 (jeogi, 저기)', input: '저기 (jeogi, 저기)', meaning: 'there', level: 'TOPIK 1', category: 'directions', source: '[[directions-vocabulary]]' }
+- { id: 'kr_directions_008', display: '가까이 (gakkai, 가까이)', input: '가까이 (gakkai, 가까이)', meaning: 'near', level: 'TOPIK 2', category: 'directions', source: '[[directions-vocabulary]]' }
+- { id: 'kr_directions_009', display: '멀리 (meolli, 멀리)', input: '멀리 (meolli, 멀리)', meaning: 'far', level: 'TOPIK 1', category: 'directions', source: '[[directions-vocabulary]]' }
+- { id: 'kr_directions_010', display: '사이 (sai, 사이)', input: '사이 (sai, 사이)', meaning: 'between', level: 'TOPIK 2', category: 'directions', source: '[[directions-vocabulary]]' }
 ```

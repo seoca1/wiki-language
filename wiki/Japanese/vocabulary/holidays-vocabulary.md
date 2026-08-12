@@ -445,22 +445,22 @@ theme: "holidays"
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: jp_holidays_001, display: "祝日 (shukujitsu)", input: "祝日 (shukujitsu)", meaning: "공휴일", level: "N4-N3", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: jp_holidays_002, display: "誕生日 (tanjōbi)", input: "誕生日 (tanjōbi)", meaning: "생일", level: "N4-N3", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: jp_holidays_003, display: "クリスマス (kurisumasu)", input: "クリスマス (kurisumasu)", meaning: "크리스마스", level: "N4-N3", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: jp_holidays_004, display: "正月 (shōgatsu)", input: "正月 (shōgatsu)", meaning: "설날 / 새해", level: "N4-N3", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: jp_holidays_005, display: "結婚式 (kekkonshiki)", input: "結婚式 (kekkonshiki)", meaning: "결혼식", level: "N4-N3", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: jp_holidays_006, display: "パーティー (pātī)", input: "パーティー (pātī)", meaning: "파티", level: "N4-N3", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: jp_holidays_007, display: "プレゼント (purezento)", input: "プレゼント (purezento)", meaning: "선물", level: "N4-N3", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: jp_holidays_008, display: "ケーキ (kēki)", input: "ケーキ (kēki)", meaning: "케이크", level: "N4-N3", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: jp_holidays_009, display: "花火 (hanabi)", input: "花火 (hanabi)", meaning: "불꽃놀이", level: "N4-N3", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: jp_holidays_010, display: "祭り (matsuri)", input: "祭り (matsuri)", meaning: "축제", level: "N4-N3", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: jp_holidays_011, display: "バレンタイン (barentain)", input: "バレンタイン (barentain)", meaning: "발렌타인", level: "N4-N3", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: jp_holidays_012, display: "ホワイトデー (howaitodē)", input: "ホワイトデー (howaitodē)", meaning: "화이트데이", level: "N4-N3", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: jp_holidays_013, display: "お正月 (oshōgatsu)", input: "お正月 (oshōgatsu)", meaning: "설날 (정중형)", level: "N4-N3", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: jp_holidays_014, display: "お年玉 (otoshidama)", input: "お年玉 (otoshidama)", meaning: "세뱃돈 (일본식)", level: "N4-N3", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: jp_holidays_015, display: "お祝い (oiwai)", input: "お祝い (oiwai)", meaning: "경사 / 축하", level: "N4-N3", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: jp_holidays_016, display: "招待状 (shōtaijō)", input: "招待状 (shōtaijō)", meaning: "초대장", level: "N4-N3", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: jp_holidays_017, display: "ゴールデンウィーク (gōrudenwīku)", input: "ゴールデンウィーク (gōrudenwīku)", meaning: "골든위크 (일본의 5월 연휴)", level: "N4-N3", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: jp_holidays_018, display: "お盆 (Obon)", input: "お盆 (Obon)", meaning: "오본 (일본의 추석 같은 명절)", level: "N4-N3", category: "holidays", source: "[[holidays-vocabulary]]" }
+- { id: 'jp_holidays_001', display: '祝日 (shukujitsu)', input: '祝日 (shukujitsu)', meaning: '공휴일', level: 'N4-N3', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'jp_holidays_002', display: '誕生日 (tanjōbi)', input: '誕生日 (tanjōbi)', meaning: '생일', level: 'N4-N3', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'jp_holidays_003', display: 'クリスマス (kurisumasu)', input: 'クリスマス (kurisumasu)', meaning: '크리스마스', level: 'N4-N3', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'jp_holidays_004', display: '正月 (shōgatsu)', input: '正月 (shōgatsu)', meaning: '설날 / 새해', level: 'N4-N3', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'jp_holidays_005', display: '結婚式 (kekkonshiki)', input: '結婚式 (kekkonshiki)', meaning: '결혼식', level: 'N4-N3', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'jp_holidays_006', display: 'パーティー (pātī)', input: 'パーティー (pātī)', meaning: '파티', level: 'N4-N3', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'jp_holidays_007', display: 'プレゼント (purezento)', input: 'プレゼント (purezento)', meaning: '선물', level: 'N4-N3', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'jp_holidays_008', display: 'ケーキ (kēki)', input: 'ケーキ (kēki)', meaning: '케이크', level: 'N4-N3', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'jp_holidays_009', display: '花火 (hanabi)', input: '花火 (hanabi)', meaning: '불꽃놀이', level: 'N4-N3', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'jp_holidays_010', display: '祭り (matsuri)', input: '祭り (matsuri)', meaning: '축제', level: 'N4-N3', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'jp_holidays_011', display: 'バレンタイン (barentain)', input: 'バレンタイン (barentain)', meaning: '발렌타인', level: 'N4-N3', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'jp_holidays_012', display: 'ホワイトデー (howaitodē)', input: 'ホワイトデー (howaitodē)', meaning: '화이트데이', level: 'N4-N3', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'jp_holidays_013', display: 'お正月 (oshōgatsu)', input: 'お正月 (oshōgatsu)', meaning: '설날 (정중형)', level: 'N4-N3', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'jp_holidays_014', display: 'お年玉 (otoshidama)', input: 'お年玉 (otoshidama)', meaning: '세뱃돈 (일본식)', level: 'N4-N3', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'jp_holidays_015', display: 'お祝い (oiwai)', input: 'お祝い (oiwai)', meaning: '경사 / 축하', level: 'N4-N3', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'jp_holidays_016', display: '招待状 (shōtaijō)', input: '招待状 (shōtaijō)', meaning: '초대장', level: 'N4-N3', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'jp_holidays_017', display: 'ゴールデンウィーク (gōrudenwīku)', input: 'ゴールデンウィーク (gōrudenwīku)', meaning: '골든위크 (일본의 5월 연휴)', level: 'N4-N3', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'jp_holidays_018', display: 'お盆 (Obon)', input: 'お盆 (Obon)', meaning: '오본 (일본의 추석 같은 명절)', level: 'N4-N3', category: 'holidays', source: '[[holidays-vocabulary]]' }
 ```

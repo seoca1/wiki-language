@@ -297,14 +297,14 @@ Japanese transportation 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: jp_transportation_001, display: "車 (くるま)", input: "車 (くるま)", meaning: "자동차", level: "N5", category: "transportation", source: "[[transportation-vocabulary]]" }
-- { id: jp_transportation_002, display: "バス", input: "バス", meaning: "버스", level: "N5", category: "transportation", source: "[[transportation-vocabulary]]" }
-- { id: jp_transportation_003, display: "電車 (でんしゃ)", input: "電車 (でんしゃ)", meaning: "기차", level: "N5", category: "transportation", source: "[[transportation-vocabulary]]" }
-- { id: jp_transportation_004, display: "飛行機 (ひこうき)", input: "飛行機 (ひこうき)", meaning: "비행기", level: "N5", category: "transportation", source: "[[transportation-vocabulary]]" }
-- { id: jp_transportation_005, display: "船 (ふね)", input: "船 (ふね)", meaning: "배", level: "N5", category: "transportation", source: "[[transportation-vocabulary]]" }
-- { id: jp_transportation_006, display: "自転車 (じてんしゃ)", input: "自転車 (じてんしゃ)", meaning: "자전거", level: "N5", category: "transportation", source: "[[transportation-vocabulary]]" }
-- { id: jp_transportation_007, display: "タクシー", input: "タクシー", meaning: "택시", level: "N5", category: "transportation", source: "[[transportation-vocabulary]]" }
-- { id: jp_transportation_008, display: "地下鉄 (ちかてつ)", input: "地下鉄 (ちかてつ)", meaning: "지하철", level: "N5", category: "transportation", source: "[[transportation-vocabulary]]" }
-- { id: jp_transportation_009, display: "駅 (えき)", input: "駅 (えき)", meaning: "역", level: "N5", category: "transportation", source: "[[transportation-vocabulary]]" }
-- { id: jp_transportation_010, display: "切符 (きっぷ)", input: "切符 (きっぷ)", meaning: "표", level: "N5", category: "transportation", source: "[[transportation-vocabulary]]" }
+- { id: 'jp_transportation_001', display: '車 (くるま)', input: '車 (くるま)', meaning: '자동차', level: 'N5', category: 'transportation', source: '[[transportation-vocabulary]]' }
+- { id: 'jp_transportation_002', display: 'バス', input: 'バス', meaning: '버스', level: 'N5', category: 'transportation', source: '[[transportation-vocabulary]]' }
+- { id: 'jp_transportation_003', display: '電車 (でんしゃ)', input: '電車 (でんしゃ)', meaning: '기차', level: 'N5', category: 'transportation', source: '[[transportation-vocabulary]]' }
+- { id: 'jp_transportation_004', display: '飛行機 (ひこうき)', input: '飛行機 (ひこうき)', meaning: '비행기', level: 'N5', category: 'transportation', source: '[[transportation-vocabulary]]' }
+- { id: 'jp_transportation_005', display: '船 (ふね)', input: '船 (ふね)', meaning: '배', level: 'N5', category: 'transportation', source: '[[transportation-vocabulary]]' }
+- { id: 'jp_transportation_006', display: '自転車 (じてんしゃ)', input: '自転車 (じてんしゃ)', meaning: '자전거', level: 'N5', category: 'transportation', source: '[[transportation-vocabulary]]' }
+- { id: 'jp_transportation_007', display: 'タクシー', input: 'タクシー', meaning: '택시', level: 'N5', category: 'transportation', source: '[[transportation-vocabulary]]' }
+- { id: 'jp_transportation_008', display: '地下鉄 (ちかてつ)', input: '地下鉄 (ちかてつ)', meaning: '지하철', level: 'N5', category: 'transportation', source: '[[transportation-vocabulary]]' }
+- { id: 'jp_transportation_009', display: '駅 (えき)', input: '駅 (えき)', meaning: '역', level: 'N5', category: 'transportation', source: '[[transportation-vocabulary]]' }
+- { id: 'jp_transportation_010', display: '切符 (きっぷ)', input: '切符 (きっぷ)', meaning: '표', level: 'N5', category: 'transportation', source: '[[transportation-vocabulary]]' }
 ```

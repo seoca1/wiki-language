@@ -234,3 +234,32 @@ theme: "weekdays"
 | 上周 (shàng zhōu) | 4성 + 1성 | 上 (shàng) 4성 |
 | 下周 (xià zhōu) | 4성 + 1성 | 下 (xià) 4성 |
 | 周末 (zhōu mò) | 1성 + 4성 | 末 (mò) 4성 |
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'zh_weekdays_001', display: '요일 묻기/말하기', input: '요일 묻기/말하기', meaning: '', level: 'HSK 1', category: 'weekdays', source: '[[weekdays-zh]]' }
+- { id: 'zh_weekdays_002', display: '요일 + 시간 표현', input: '요일 + 시간 표현', meaning: '', level: 'HSK 1', category: 'weekdays', source: '[[weekdays-zh]]' }
+- { id: 'zh_weekdays_003', display: '이번 주/다음 주/지난 주', input: '이번 주/다음 주/지난 주', meaning: '', level: 'HSK 1', category: 'weekdays', source: '[[weekdays-zh]]' }
+- { id: 'zh_weekdays_004', display: '1. 요일 체계 — 숫자 기반 (Number-based)', input: '1. 요일 체계 — 숫자 기반 (Number-based)', meaning: '', level: 'HSK 1', category: 'weekdays', source: '[[weekdays-zh]]' }
+- { id: 'zh_weekdays_005', display: '2. 일요일 두 가지 표기', input: '2. 일요일 두 가지 표기', meaning: '', level: 'HSK 1', category: 'weekdays', source: '[[weekdays-zh]]' }
+- { id: 'zh_weekdays_006', display: '3. "주" 단어 두 가지', input: '3. "주" 단어 두 가지', meaning: '', level: 'HSK 1', category: 'weekdays', source: '[[weekdays-zh]]' }
+- { id: 'zh_weekdays_007', display: '4. 주말 표현', input: '4. 주말 표현', meaning: '', level: 'HSK 1', category: 'weekdays', source: '[[weekdays-zh]]' }
+- { id: 'zh_weekdays_008', display: '5. 평일/주중 표현', input: '5. 평일/주중 표현', meaning: '', level: 'HSK 1', category: 'weekdays', source: '[[weekdays-zh]]' }
+- { id: 'zh_weekdays_009', display: '요일 묻기/대답', input: '요일 묻기/대답', meaning: '', level: 'HSK 1', category: 'weekdays', source: '[[weekdays-zh]]' }
+- { id: 'zh_weekdays_010', display: '요일 + 일정', input: '요일 + 일정', meaning: '', level: 'HSK 1', category: 'weekdays', source: '[[weekdays-zh]]' }
+- { id: 'zh_weekdays_011', display: '반복 일정', input: '반복 일정', meaning: '', level: 'HSK 1', category: 'weekdays', source: '[[weekdays-zh]]' }
+- { id: 'zh_weekdays_012', display: '약속 잡기', input: '약속 잡기', meaning: '', level: 'HSK 1', category: 'weekdays', source: '[[weekdays-zh]]' }
+- { id: 'zh_weekdays_013', display: '1. 星期 (xīng qí) = "주/요일" — 핵심 단어', input: '1. 星期 (xīng qí) = "주/요일" — 핵심 단어', meaning: '', level: 'HSK 1', category: 'weekdays', source: '[[weekdays-zh]]' }
+- { id: 'zh_weekdays_014', display: '2. 周 (zhōu) = "주" 약어', input: '2. 周 (zhōu) = "주" 약어', meaning: '', level: 'HSK 1', category: 'weekdays', source: '[[weekdays-zh]]' }
+- { id: 'zh_weekdays_015', display: '3. 일요일 두 가지 표기', input: '3. 일요일 두 가지 표기', meaning: '', level: 'HSK 1', category: 'weekdays', source: '[[weekdays-zh]]' }
+- { id: 'zh_weekdays_016', display: '4. 요일 + 시간 조합', input: '4. 요일 + 시간 조합', meaning: '', level: 'HSK 1', category: 'weekdays', source: '[[weekdays-zh]]' }
+- { id: 'zh_weekdays_017', display: '5. 반복 표현', input: '5. 반복 표현', meaning: '', level: 'HSK 1', category: 'weekdays', source: '[[weekdays-zh]]' }
+- { id: 'zh_weekdays_018', display: '1. 주 5일제/주 6일제', input: '1. 주 5일제/주 6일제', meaning: '', level: 'HSK 1', category: 'weekdays', source: '[[weekdays-zh]]' }
+- { id: 'zh_weekdays_019', display: '2. 주말 문화', input: '2. 주말 문화', meaning: '', level: 'HSK 1', category: 'weekdays', source: '[[weekdays-zh]]' }
+- { id: 'zh_weekdays_020', display: '3. 달력 표기', input: '3. 달력 표기', meaning: '', level: 'HSK 1', category: 'weekdays', source: '[[weekdays-zh]]' }
+```

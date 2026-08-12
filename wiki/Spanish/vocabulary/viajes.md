@@ -327,7 +327,7 @@ Contexto cultural por añadir
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: es_viajes_001, display: "Sustantivos", input: "Sustantivos", meaning: "**Pronunciation / IPA:**", level: "** A1-A2", category: "viajes", source: "[[viajes]]" }
-- { id: es_viajes_002, display: "Verbos", input: "Verbos", meaning: "**Pronunciation / IPA:**", level: "** A1-A2", category: "viajes", source: "[[viajes]]" }
-- { id: es_viajes_003, display: "Frases clave", input: "Frases clave", meaning: "**Pronunciation / IPA:**", level: "** A1-A2", category: "viajes", source: "[[viajes]]" }
+- { id: 'es_viajes_001', display: 'Sustantivos', input: 'Sustantivos', meaning: '**Pronunciation / IPA:**', level: '** A1-A2', category: 'viajes', source: '[[viajes]]' }
+- { id: 'es_viajes_002', display: 'Verbos', input: 'Verbos', meaning: '**Pronunciation / IPA:**', level: '** A1-A2', category: 'viajes', source: '[[viajes]]' }
+- { id: 'es_viajes_003', display: 'Frases clave', input: 'Frases clave', meaning: '**Pronunciation / IPA:**', level: '** A1-A2', category: 'viajes', source: '[[viajes]]' }
 ```

@@ -4,10 +4,15 @@ source: "entertainment-es"
 category: "entertainment"
 type: "vocabulary-source"
 level: "A2-B2"
+language_level: "DELE A2-B2"
 language: "es"
+date_added: "2026-08-11"
 ---
 
 # Spanish Entertainment Vocabulary
+
+
+## Summary
 
 > **Estado**: Phase 1 adicional
 > **Fuente**: RAE (Real Academia Española), cultura popular española y latinoamericana

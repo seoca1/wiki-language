@@ -297,14 +297,14 @@ Chinese weather 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: zh_weather_001, display: "晴 (qíng)", input: "晴 (qíng)", meaning: "맑음", level: "HSK 1", category: "weather", source: "[[weather-vocabulary]]" }
-- { id: zh_weather_002, display: "阴 (yīn)", input: "阴 (yīn)", meaning: "흐림", level: "HSK 2", category: "weather", source: "[[weather-vocabulary]]" }
-- { id: zh_weather_003, display: "雨 (yǔ)", input: "雨 (yǔ)", meaning: "비", level: "HSK 1", category: "weather", source: "[[weather-vocabulary]]" }
-- { id: zh_weather_004, display: "雪 (xuě)", input: "雪 (xuě)", meaning: "눈", level: "HSK 1", category: "weather", source: "[[weather-vocabulary]]" }
-- { id: zh_weather_005, display: "热 (rè)", input: "热 (rè)", meaning: "덥다", level: "HSK 1", category: "weather", source: "[[weather-vocabulary]]" }
-- { id: zh_weather_006, display: "冷 (lěng)", input: "冷 (lěng)", meaning: "춥다", level: "HSK 1", category: "weather", source: "[[weather-vocabulary]]" }
-- { id: zh_weather_007, display: "暖和 (nuǎnhuo)", input: "暖和 (nuǎnhuo)", meaning: "따뜻하다", level: "HSK 2", category: "weather", source: "[[weather-vocabulary]]" }
-- { id: zh_weather_008, display: "凉爽 (liángshuǎng)", input: "凉爽 (liángshuǎng)", meaning: "서늘하다", level: "HSK 3", category: "weather", source: "[[weather-vocabulary]]" }
-- { id: zh_weather_009, display: "风 (fēng)", input: "风 (fēng)", meaning: "바람", level: "HSK 1", category: "weather", source: "[[weather-vocabulary]]" }
-- { id: zh_weather_010, display: "台风 (táifēng)", input: "台风 (táifēng)", meaning: "태풍", level: "HSK 3", category: "weather", source: "[[weather-vocabulary]]" }
+- { id: 'zh_weather_001', display: '晴 (qíng)', input: '晴 (qíng)', meaning: '맑음', level: 'HSK 1', category: 'weather', source: '[[weather-vocabulary]]' }
+- { id: 'zh_weather_002', display: '阴 (yīn)', input: '阴 (yīn)', meaning: '흐림', level: 'HSK 2', category: 'weather', source: '[[weather-vocabulary]]' }
+- { id: 'zh_weather_003', display: '雨 (yǔ)', input: '雨 (yǔ)', meaning: '비', level: 'HSK 1', category: 'weather', source: '[[weather-vocabulary]]' }
+- { id: 'zh_weather_004', display: '雪 (xuě)', input: '雪 (xuě)', meaning: '눈', level: 'HSK 1', category: 'weather', source: '[[weather-vocabulary]]' }
+- { id: 'zh_weather_005', display: '热 (rè)', input: '热 (rè)', meaning: '덥다', level: 'HSK 1', category: 'weather', source: '[[weather-vocabulary]]' }
+- { id: 'zh_weather_006', display: '冷 (lěng)', input: '冷 (lěng)', meaning: '춥다', level: 'HSK 1', category: 'weather', source: '[[weather-vocabulary]]' }
+- { id: 'zh_weather_007', display: '暖和 (nuǎnhuo)', input: '暖和 (nuǎnhuo)', meaning: '따뜻하다', level: 'HSK 2', category: 'weather', source: '[[weather-vocabulary]]' }
+- { id: 'zh_weather_008', display: '凉爽 (liángshuǎng)', input: '凉爽 (liángshuǎng)', meaning: '서늘하다', level: 'HSK 3', category: 'weather', source: '[[weather-vocabulary]]' }
+- { id: 'zh_weather_009', display: '风 (fēng)', input: '风 (fēng)', meaning: '바람', level: 'HSK 1', category: 'weather', source: '[[weather-vocabulary]]' }
+- { id: 'zh_weather_010', display: '台风 (táifēng)', input: '台风 (táifēng)', meaning: '태풍', level: 'HSK 3', category: 'weather', source: '[[weather-vocabulary]]' }
 ```

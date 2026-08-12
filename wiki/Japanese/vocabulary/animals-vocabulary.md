@@ -1137,42 +1137,42 @@ theme: "animals"
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: jp_animals_001, display: "犬", input: "犬", meaning: "개", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_002, display: "猫", input: "猫", meaning: "고양이", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_003, display: "鳥", input: "鳥", meaning: "새", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_004, display: "魚", input: "魚", meaning: "물고기", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_005, display: "兎", input: "兎", meaning: "토끼", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_006, display: "馬", input: "馬", meaning: "말", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_007, display: "牛", input: "牛", meaning: "소", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_008, display: "豚", input: "豚", meaning: "돼지", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_009, display: "鶏", input: "鶏", meaning: "닭", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_010, display: "羊", input: "羊", meaning: "양", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_011, display: "ライオン", input: "ライオン", meaning: "사자", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_012, display: "トラ", input: "トラ", meaning: "호랑이", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_013, display: "象", input: "象", meaning: "코끼리", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_014, display: "猿", input: "猿", meaning: "원숭이", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_015, display: "熊", input: "熊", meaning: "곰", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_016, display: "狼", input: "狼", meaning: "늑대", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_017, display: "狐", input: "狐", meaning: "여우", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_018, display: "鹿", input: "鹿", meaning: "사슴", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_019, display: "蛇", input: "蛇", meaning: "뱀", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_020, display: "亀", input: "亀", meaning: "거북이", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_021, display: "蛙", input: "蛙", meaning: "개구리", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_022, display: "蝶", input: "蝶", meaning: "나비", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_023, display: "蜂", input: "蜂", meaning: "벌", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_024, display: "蟻", input: "蟻", meaning: "개미", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_025, display: "鯨", input: "鯨", meaning: "고래", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_026, display: "イルカ", input: "イルカ", meaning: "돌고래", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_027, display: "鮫", input: "鮫", meaning: "상어", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_028, display: "走る", input: "走る", meaning: "달리다", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_029, display: "飛ぶ", input: "飛ぶ", meaning: "날다", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_030, display: "泳ぐ", input: "泳ぐ", meaning: "헤엄치다", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_031, display: "狩る", input: "狩る", meaning: "사냥하다", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_032, display: "吠える", input: "吠える", meaning: "짖다", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_033, display: "野生", input: "野生", meaning: "야생의", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_034, display: "大きい", input: "大きい", meaning: "큰", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_035, display: "小さい", input: "小さい", meaning: "작은", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_036, display: "速い", input: "速い", meaning: "빠른", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_037, display: "遅い", input: "遅い", meaning: "느린", level: "N5", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
-- { id: jp_animals_038, display: "龍/竜", input: "龍/竜", meaning: "용", level: "N4", category: "animals-vocabulary", source: "[[animals-vocabulary-jp]]" }
+- { id: 'jp_animals_001', display: '犬 (いぬ)', input: '犬 (いぬ)', meaning: '', level: 'JLPT N4-N5', category: 'animals', source: '[[animals-vocabulary-jp]]' }
+- { id: 'jp_animals_002', display: '猫 (ねこ)', input: '猫 (ねこ)', meaning: '', level: 'JLPT N4-N5', category: 'animals', source: '[[animals-vocabulary-jp]]' }
+- { id: 'jp_animals_003', display: '鳥 (とり)', input: '鳥 (とり)', meaning: '', level: 'JLPT N4-N5', category: 'animals', source: '[[animals-vocabulary-jp]]' }
+- { id: 'jp_animals_004', display: '魚 (さかな)', input: '魚 (さかな)', meaning: '', level: 'JLPT N4-N5', category: 'animals', source: '[[animals-vocabulary-jp]]' }
+- { id: 'jp_animals_005', display: '兎 (うさぎ)', input: '兎 (うさぎ)', meaning: '', level: 'JLPT N4-N5', category: 'animals', source: '[[animals-vocabulary-jp]]' }
+- { id: 'jp_animals_006', display: '馬 (うま)', input: '馬 (うま)', meaning: '', level: 'JLPT N4-N5', category: 'animals', source: '[[animals-vocabulary-jp]]' }
+- { id: 'jp_animals_007', display: '牛 (うし)', input: '牛 (うし)', meaning: '', level: 'JLPT N4-N5', category: 'animals', source: '[[animals-vocabulary-jp]]' }
+- { id: 'jp_animals_008', display: '豚 (ぶた)', input: '豚 (ぶた)', meaning: '', level: 'JLPT N4-N5', category: 'animals', source: '[[animals-vocabulary-jp]]' }
+- { id: 'jp_animals_009', display: '鶏 (にわとり)', input: '鶏 (にわとり)', meaning: '', level: 'JLPT N4-N5', category: 'animals', source: '[[animals-vocabulary-jp]]' }
+- { id: 'jp_animals_010', display: '羊 (ひつじ)', input: '羊 (ひつじ)', meaning: '', level: 'JLPT N4-N5', category: 'animals', source: '[[animals-vocabulary-jp]]' }
+- { id: 'jp_animals_011', display: '狮子 (ライオン)', input: '狮子 (ライオン)', meaning: '', level: 'JLPT N4-N5', category: 'animals', source: '[[animals-vocabulary-jp]]' }
+- { id: 'jp_animals_012', display: '虎 (トラ)', input: '虎 (トラ)', meaning: '', level: 'JLPT N4-N5', category: 'animals', source: '[[animals-vocabulary-jp]]' }
+- { id: 'jp_animals_013', display: '象 (ゾウ)', input: '象 (ゾウ)', meaning: '', level: 'JLPT N4-N5', category: 'animals', source: '[[animals-vocabulary-jp]]' }
+- { id: 'jp_animals_014', display: '猿 (さる)', input: '猿 (さる)', meaning: '', level: 'JLPT N4-N5', category: 'animals', source: '[[animals-vocabulary-jp]]' }
+- { id: 'jp_animals_015', display: '熊 (くま)', input: '熊 (くま)', meaning: '', level: 'JLPT N4-N5', category: 'animals', source: '[[animals-vocabulary-jp]]' }
+- { id: 'jp_animals_016', display: '狼 (おおかみ)', input: '狼 (おおかみ)', meaning: '', level: 'JLPT N4-N5', category: 'animals', source: '[[animals-vocabulary-jp]]' }
+- { id: 'jp_animals_017', display: '狐 (きつね)', input: '狐 (きつね)', meaning: '', level: 'JLPT N4-N5', category: 'animals', source: '[[animals-vocabulary-jp]]' }
+- { id: 'jp_animals_018', display: '鹿 (しか)', input: '鹿 (しか)', meaning: '蹄を持つ草食哺乳類。雄は通常角を持つ。', level: 'JLPT N4-N5', category: 'animals', source: '[[animals-vocabulary-jp]]' }
+- { id: 'jp_animals_019', display: '蛇 (へび)', input: '蛇 (へび)', meaning: '', level: 'JLPT N4-N5', category: 'animals', source: '[[animals-vocabulary-jp]]' }
+- { id: 'jp_animals_020', display: '亀 (かめ)', input: '亀 (かめ)', meaning: '', level: 'JLPT N4-N5', category: 'animals', source: '[[animals-vocabulary-jp]]' }
+- { id: 'jp_animals_021', display: '蛙 (かえる)', input: '蛙 (かえる)', meaning: '', level: 'JLPT N4-N5', category: 'animals', source: '[[animals-vocabulary-jp]]' }
+- { id: 'jp_animals_022', display: '蝶 (ちょう)', input: '蝶 (ちょう)', meaning: '', level: 'JLPT N4-N5', category: 'animals', source: '[[animals-vocabulary-jp]]' }
+- { id: 'jp_animals_023', display: '蜂 (はち)', input: '蜂 (はち)', meaning: '', level: 'JLPT N4-N5', category: 'animals', source: '[[animals-vocabulary-jp]]' }
+- { id: 'jp_animals_024', display: '蟻 (あり)', input: '蟻 (あり)', meaning: '', level: 'JLPT N4-N5', category: 'animals', source: '[[animals-vocabulary-jp]]' }
+- { id: 'jp_animals_025', display: '鯨 (くじら)', input: '鯨 (くじら)', meaning: '', level: 'JLPT N4-N5', category: 'animals', source: '[[animals-vocabulary-jp]]' }
+- { id: 'jp_animals_026', display: '海豚 (イルカ)', input: '海豚 (イルカ)', meaning: '', level: 'JLPT N4-N5', category: 'animals', source: '[[animals-vocabulary-jp]]' }
+- { id: 'jp_animals_027', display: '鮫 (さめ)', input: '鮫 (さめ)', meaning: '', level: 'JLPT N4-N5', category: 'animals', source: '[[animals-vocabulary-jp]]' }
+- { id: 'jp_animals_028', display: '走る (はしる)', input: '走る (はしる)', meaning: '', level: 'JLPT N4-N5', category: 'animals', source: '[[animals-vocabulary-jp]]' }
+- { id: 'jp_animals_029', display: '飛ぶ (とぶ)', input: '飛ぶ (とぶ)', meaning: '', level: 'JLPT N4-N5', category: 'animals', source: '[[animals-vocabulary-jp]]' }
+- { id: 'jp_animals_030', display: '泳ぐ (およぐ)', input: '泳ぐ (およぐ)', meaning: '', level: 'JLPT N4-N5', category: 'animals', source: '[[animals-vocabulary-jp]]' }
+- { id: 'jp_animals_031', display: '狩る (かる)', input: '狩る (かる)', meaning: '', level: 'JLPT N4-N5', category: 'animals', source: '[[animals-vocabulary-jp]]' }
+- { id: 'jp_animals_032', display: '吠える (ほえる)', input: '吠える (ほえる)', meaning: '', level: 'JLPT N4-N5', category: 'animals', source: '[[animals-vocabulary-jp]]' }
+- { id: 'jp_animals_033', display: '野生 (やせい)', input: '野生 (やせい)', meaning: '', level: 'JLPT N4-N5', category: 'animals', source: '[[animals-vocabulary-jp]]' }
+- { id: 'jp_animals_034', display: '大きい (おおきい)', input: '大きい (おおきい)', meaning: '', level: 'JLPT N4-N5', category: 'animals', source: '[[animals-vocabulary-jp]]' }
+- { id: 'jp_animals_035', display: '小さい (ちいさい)', input: '小さい (ちいさい)', meaning: '', level: 'JLPT N4-N5', category: 'animals', source: '[[animals-vocabulary-jp]]' }
+- { id: 'jp_animals_036', display: '速い (はやい)', input: '速い (はやい)', meaning: '', level: 'JLPT N4-N5', category: 'animals', source: '[[animals-vocabulary-jp]]' }
+- { id: 'jp_animals_037', display: '遅い (おそい)', input: '遅い (おそい)', meaning: '', level: 'JLPT N4-N5', category: 'animals', source: '[[animals-vocabulary-jp]]' }
+- { id: 'jp_animals_038', display: '龍/竜 (りゅう)', input: '龍/竜 (りゅう)', meaning: '', level: 'JLPT N4-N5', category: 'animals', source: '[[animals-vocabulary-jp]]' }
 ```

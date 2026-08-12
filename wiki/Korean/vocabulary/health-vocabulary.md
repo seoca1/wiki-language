@@ -297,14 +297,14 @@ Korean health 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: kr_health_001, display: "병원 (病院, byeongwon)", input: "병원 (病院, byeongwon)", meaning: "hospital", level: "TOPIK 1", category: "health", source: "[[health-vocabulary]]" }
-- { id: kr_health_002, display: "의사 (醫師, uisa)", input: "의사 (醫師, uisa)", meaning: "doctor", level: "TOPIK 1", category: "health", source: "[[health-vocabulary]]" }
-- { id: kr_health_003, display: "약 (藥, yak)", input: "약 (藥, yak)", meaning: "medicine", level: "TOPIK 1", category: "health", source: "[[health-vocabulary]]" }
-- { id: kr_health_004, display: "두통 (頭痛, dutong)", input: "두통 (頭痛, dutong)", meaning: "headache", level: "TOPIK 2", category: "health", source: "[[health-vocabulary]]" }
-- { id: kr_health_005, display: "열 (熱, yeol)", input: "열 (熱, yeol)", meaning: "fever", level: "TOPIK 1", category: "health", source: "[[health-vocabulary]]" }
-- { id: kr_health_006, display: "감기 (感氣, gamgi)", input: "감기 (感氣, gamgi)", meaning: "cold", level: "TOPIK 1", category: "health", source: "[[health-vocabulary]]" }
-- { id: kr_health_007, display: "머리 (頭, meori)", input: "머리 (頭, meori)", meaning: "head", level: "TOPIK 1", category: "health", source: "[[health-vocabulary]]" }
-- { id: kr_health_008, display: "배 (腹, bae)", input: "배 (腹, bae)", meaning: "stomach", level: "TOPIK 1", category: "health", source: "[[health-vocabulary]]" }
-- { id: kr_health_009, display: "약국 (藥局, yakguk)", input: "약국 (藥局, yakguk)", meaning: "pharmacy", level: "TOPIK 2", category: "health", source: "[[health-vocabulary]]" }
-- { id: kr_health_010, display: "예약 (豫約, yeyak)", input: "예약 (豫約, yeyak)", meaning: "appointment", level: "TOPIK 2", category: "health", source: "[[health-vocabulary]]" }
+- { id: 'kr_health_001', display: '병원 (病院, byeongwon)', input: '병원 (病院, byeongwon)', meaning: 'hospital', level: 'TOPIK 1', category: 'health', source: '[[health-vocabulary]]' }
+- { id: 'kr_health_002', display: '의사 (醫師, uisa)', input: '의사 (醫師, uisa)', meaning: 'doctor', level: 'TOPIK 1', category: 'health', source: '[[health-vocabulary]]' }
+- { id: 'kr_health_003', display: '약 (藥, yak)', input: '약 (藥, yak)', meaning: 'medicine', level: 'TOPIK 1', category: 'health', source: '[[health-vocabulary]]' }
+- { id: 'kr_health_004', display: '두통 (頭痛, dutong)', input: '두통 (頭痛, dutong)', meaning: 'headache', level: 'TOPIK 2', category: 'health', source: '[[health-vocabulary]]' }
+- { id: 'kr_health_005', display: '열 (熱, yeol)', input: '열 (熱, yeol)', meaning: 'fever', level: 'TOPIK 1', category: 'health', source: '[[health-vocabulary]]' }
+- { id: 'kr_health_006', display: '감기 (感氣, gamgi)', input: '감기 (感氣, gamgi)', meaning: 'cold', level: 'TOPIK 1', category: 'health', source: '[[health-vocabulary]]' }
+- { id: 'kr_health_007', display: '머리 (頭, meori)', input: '머리 (頭, meori)', meaning: 'head', level: 'TOPIK 1', category: 'health', source: '[[health-vocabulary]]' }
+- { id: 'kr_health_008', display: '배 (腹, bae)', input: '배 (腹, bae)', meaning: 'stomach', level: 'TOPIK 1', category: 'health', source: '[[health-vocabulary]]' }
+- { id: 'kr_health_009', display: '약국 (藥局, yakguk)', input: '약국 (藥局, yakguk)', meaning: 'pharmacy', level: 'TOPIK 2', category: 'health', source: '[[health-vocabulary]]' }
+- { id: 'kr_health_010', display: '예약 (豫約, yeyak)', input: '예약 (豫約, yeyak)', meaning: 'appointment', level: 'TOPIK 2', category: 'health', source: '[[health-vocabulary]]' }
 ```

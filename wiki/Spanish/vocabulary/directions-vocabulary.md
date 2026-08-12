@@ -297,14 +297,14 @@ Spanish directions 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: es_directions_001, display: "izquierda", input: "izquierda", meaning: "왼쪽", level: "A1", category: "directions", source: "[[directions-vocabulary]]" }
-- { id: es_directions_002, display: "derecha", input: "derecha", meaning: "오른쪽", level: "A1", category: "directions", source: "[[directions-vocabulary]]" }
-- { id: es_directions_003, display: "recto", input: "recto", meaning: "직진", level: "A1", category: "directions", source: "[[directions-vocabulary]]" }
-- { id: es_directions_004, display: "arriba", input: "arriba", meaning: "위", level: "A1", category: "directions", source: "[[directions-vocabulary]]" }
-- { id: es_directions_005, display: "abajo", input: "abajo", meaning: "아래", level: "A1", category: "directions", source: "[[directions-vocabulary]]" }
-- { id: es_directions_006, display: "aquí", input: "aquí", meaning: "여기", level: "A1", category: "directions", source: "[[directions-vocabulary]]" }
-- { id: es_directions_007, display: "allí", input: "allí", meaning: "저기", level: "A1", category: "directions", source: "[[directions-vocabulary]]" }
-- { id: es_directions_008, display: "cerca", input: "cerca", meaning: "가까이", level: "A2", category: "directions", source: "[[directions-vocabulary]]" }
-- { id: es_directions_009, display: "lejos", input: "lejos", meaning: "멀리", level: "A2", category: "directions", source: "[[directions-vocabulary]]" }
-- { id: es_directions_010, display: "entre", input: "entre", meaning: "사이에", level: "A2", category: "directions", source: "[[directions-vocabulary]]" }
+- { id: 'es_directions_001', display: 'izquierda', input: 'izquierda', meaning: '왼쪽', level: 'A1', category: 'directions', source: '[[directions-vocabulary]]' }
+- { id: 'es_directions_002', display: 'derecha', input: 'derecha', meaning: '오른쪽', level: 'A1', category: 'directions', source: '[[directions-vocabulary]]' }
+- { id: 'es_directions_003', display: 'recto', input: 'recto', meaning: '직진', level: 'A1', category: 'directions', source: '[[directions-vocabulary]]' }
+- { id: 'es_directions_004', display: 'arriba', input: 'arriba', meaning: '위', level: 'A1', category: 'directions', source: '[[directions-vocabulary]]' }
+- { id: 'es_directions_005', display: 'abajo', input: 'abajo', meaning: '아래', level: 'A1', category: 'directions', source: '[[directions-vocabulary]]' }
+- { id: 'es_directions_006', display: 'aquí', input: 'aquí', meaning: '여기', level: 'A1', category: 'directions', source: '[[directions-vocabulary]]' }
+- { id: 'es_directions_007', display: 'allí', input: 'allí', meaning: '저기', level: 'A1', category: 'directions', source: '[[directions-vocabulary]]' }
+- { id: 'es_directions_008', display: 'cerca', input: 'cerca', meaning: '가까이', level: 'A2', category: 'directions', source: '[[directions-vocabulary]]' }
+- { id: 'es_directions_009', display: 'lejos', input: 'lejos', meaning: '멀리', level: 'A2', category: 'directions', source: '[[directions-vocabulary]]' }
+- { id: 'es_directions_010', display: 'entre', input: 'entre', meaning: '사이에', level: 'A2', category: 'directions', source: '[[directions-vocabulary]]' }
 ```

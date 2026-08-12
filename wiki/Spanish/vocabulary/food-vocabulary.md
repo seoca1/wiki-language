@@ -3363,37 +3363,37 @@ La cultura de **tapas** varía radicalmente por regiones: en Andalucía (Granada
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: es_food_001, display: "carne", input: "carne", meaning: "Meat (animal flesh).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary-es]]" }
-- { id: es_food_002, display: "Examples", input: "Examples", meaning: "**Pronunciation / IPA:**", level: "A1-B1", category: "food", source: "[[food-vocabulary-es]]" }
-- { id: es_food_003, display: "Related Terms", input: "Related Terms", meaning: "**Pronunciation / IPA:**", level: "A1-B1", category: "food", source: "[[food-vocabulary-es]]" }
-- { id: es_food_004, display: "Cultural Notes", input: "Cultural Notes", meaning: "**Pronunciation / IPA:**", level: "A1-B1", category: "food", source: "[[food-vocabulary-es]]" }
-- { id: es_food_005, display: "Sources", input: "Sources", meaning: "**Pronunciation / IPA:**", level: "A1-B1", category: "food", source: "[[food-vocabulary-es]]" }
-- { id: es_food_006, display: "pollo", input: "pollo", meaning: "Chicken (poultry).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary-es]]" }
-- { id: es_food_007, display: "huevo", input: "huevo", meaning: "Egg (food item).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary-es]]" }
-- { id: es_food_008, display: "queso", input: "queso", meaning: "Cheese (dairy product).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary-es]]" }
-- { id: es_food_009, display: "pan", input: "pan", meaning: "Bread (baked grain food).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary-es]]" }
-- { id: es_food_010, display: "pasta", input: "pasta", meaning: "Pasta / Paste (Italian-style noodles).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary-es]]" }
-- { id: es_food_011, display: "cebolla", input: "cebolla", meaning: "Onion (vegetable).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary-es]]" }
-- { id: es_food_012, display: "agua", input: "agua", meaning: "Water (H₂O).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary-es]]" }
-- { id: es_food_013, display: "café", input: "café", meaning: "Coffee (beverage and plant).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary-es]]" }
-- { id: es_food_014, display: "té", input: "té", meaning: "Tea (beverage).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary-es]]" }
-- { id: es_food_015, display: "vino", input: "vino", meaning: "Wine (fermented grape beverage).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary-es]]" }
-- { id: es_food_016, display: "cerveza", input: "cerveza", meaning: "Beer (fermented beverage).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary-es]]" }
-- { id: es_food_017, display: "menú", input: "menú", meaning: "Menu (list of dishes).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary-es]]" }
-- { id: es_food_018, display: "pedido", input: "pedido", meaning: "Order (request for food/service).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary-es]]" }
-- { id: es_food_019, display: "cuenta", input: "cuenta", meaning: "Bill / Check (restaurant).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary-es]]" }
-- { id: es_food_020, display: "desayuno", input: "desayuno", meaning: "Breakfast (morning meal).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary-es]]" }
-- { id: es_food_021, display: "almuerzo", input: "almuerzo", meaning: "Lunch (midday meal).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary-es]]" }
-- { id: es_food_022, display: "cena", input: "cena", meaning: "Dinner / Supper (evening meal).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary-es]]" }
-- { id: es_food_023, display: "restaurante", input: "restaurante", meaning: "Restaurant (dining establishment).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary-es]]" }
-- { id: es_food_024, display: "deliciosa", input: "deliciosa", meaning: "Delicious (feminine adjective).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary-es]]" }
-- { id: es_food_025, display: "dulce", input: "dulce", meaning: "Sweet (taste, also candy).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary-es]]" }
-- { id: es_food_026, display: "picante", input: "picante", meaning: "Spicy / Hot (taste).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary-es]]" }
-- { id: es_food_027, display: "receta", input: "receta", meaning: "Recipe (cooking instructions).", level: "A1", category: "food-vocabulary", source: "[[food-vocabulary-es]]" }
-- { id: es_food_028, display: "masa", input: "masa", meaning: "Masa / Dough (corn or flour base for tortillas, tamales, etc.). Fundamental to Mexican cuisine.", level: "A1-B1", category: "food", source: "[[food-vocabulary-es]]" }
-- { id: es_food_029, display: "molcajete", input: "molcajete", meaning: "Molcajete / Stone mortar (traditional Mexican mortar made from volcanic rock). Used for grinding salsas, spices, guacamole.", level: "A1-B1", category: "food", source: "[[food-vocabulary-es]]" }
-- { id: es_food_030, display: "tapas", input: "tapas", meaning: "Tapas / Small savory dishes served with drinks. En España, tradición de aperitivo gratuito o de bajo coste que acompaña la bebida.", level: "A1-B1", category: "food", source: "[[food-vocabulary-es]]" }
-- { id: es_food_031, display: "cafe", input: "cafe", meaning: "Café / Coffee. Bebida de granos de café tostados y molidos. "Café" = grano, planta, bebida, establecimiento (cafetería).", level: "A1-B1", category: "food", source: "[[food-vocabulary-es]]" }
-- { id: es_food_032, display: "te", input: "te", meaning: "Té / Tea. Infusión de hojas de Camellia sinensis. Tipos: negro, verde, blanco, rojo, oolong.", level: "A1-B1", category: "food", source: "[[food-vocabulary-es]]" }
-- { id: es_food_033, display: "delicioso", input: "delicioso", meaning: "Delicioso / Delicious, exquisite. Sabor muy agradable, exquisito. "Está delicioso" = "It's delicious".", level: "A1-B1", category: "food", source: "[[food-vocabulary-es]]" }
+- { id: 'es_food_001', display: 'carne', input: 'carne', meaning: 'Meat (animal flesh).', level: 'A1', category: 'food-vocabulary', source: '[[food-vocabulary-es]]' }
+- { id: 'es_food_002', display: 'Examples', input: 'Examples', meaning: '**Pronunciation / IPA:**', level: 'A1-B1', category: 'food', source: '[[food-vocabulary-es]]' }
+- { id: 'es_food_003', display: 'Related Terms', input: 'Related Terms', meaning: '**Pronunciation / IPA:**', level: 'A1-B1', category: 'food', source: '[[food-vocabulary-es]]' }
+- { id: 'es_food_004', display: 'Cultural Notes', input: 'Cultural Notes', meaning: '**Pronunciation / IPA:**', level: 'A1-B1', category: 'food', source: '[[food-vocabulary-es]]' }
+- { id: 'es_food_005', display: 'Sources', input: 'Sources', meaning: '**Pronunciation / IPA:**', level: 'A1-B1', category: 'food', source: '[[food-vocabulary-es]]' }
+- { id: 'es_food_006', display: 'pollo', input: 'pollo', meaning: 'Chicken (poultry).', level: 'A1', category: 'food-vocabulary', source: '[[food-vocabulary-es]]' }
+- { id: 'es_food_007', display: 'huevo', input: 'huevo', meaning: 'Egg (food item).', level: 'A1', category: 'food-vocabulary', source: '[[food-vocabulary-es]]' }
+- { id: 'es_food_008', display: 'queso', input: 'queso', meaning: 'Cheese (dairy product).', level: 'A1', category: 'food-vocabulary', source: '[[food-vocabulary-es]]' }
+- { id: 'es_food_009', display: 'pan', input: 'pan', meaning: 'Bread (baked grain food).', level: 'A1', category: 'food-vocabulary', source: '[[food-vocabulary-es]]' }
+- { id: 'es_food_010', display: 'pasta', input: 'pasta', meaning: 'Pasta / Paste (Italian-style noodles).', level: 'A1', category: 'food-vocabulary', source: '[[food-vocabulary-es]]' }
+- { id: 'es_food_011', display: 'cebolla', input: 'cebolla', meaning: 'Onion (vegetable).', level: 'A1', category: 'food-vocabulary', source: '[[food-vocabulary-es]]' }
+- { id: 'es_food_012', display: 'agua', input: 'agua', meaning: 'Water (H₂O).', level: 'A1', category: 'food-vocabulary', source: '[[food-vocabulary-es]]' }
+- { id: 'es_food_013', display: 'café', input: 'café', meaning: 'Coffee (beverage and plant).', level: 'A1', category: 'food-vocabulary', source: '[[food-vocabulary-es]]' }
+- { id: 'es_food_014', display: 'té', input: 'té', meaning: 'Tea (beverage).', level: 'A1', category: 'food-vocabulary', source: '[[food-vocabulary-es]]' }
+- { id: 'es_food_015', display: 'vino', input: 'vino', meaning: 'Wine (fermented grape beverage).', level: 'A1', category: 'food-vocabulary', source: '[[food-vocabulary-es]]' }
+- { id: 'es_food_016', display: 'cerveza', input: 'cerveza', meaning: 'Beer (fermented beverage).', level: 'A1', category: 'food-vocabulary', source: '[[food-vocabulary-es]]' }
+- { id: 'es_food_017', display: 'menú', input: 'menú', meaning: 'Menu (list of dishes).', level: 'A1', category: 'food-vocabulary', source: '[[food-vocabulary-es]]' }
+- { id: 'es_food_018', display: 'pedido', input: 'pedido', meaning: 'Order (request for food/service).', level: 'A1', category: 'food-vocabulary', source: '[[food-vocabulary-es]]' }
+- { id: 'es_food_019', display: 'cuenta', input: 'cuenta', meaning: 'Bill / Check (restaurant).', level: 'A1', category: 'food-vocabulary', source: '[[food-vocabulary-es]]' }
+- { id: 'es_food_020', display: 'desayuno', input: 'desayuno', meaning: 'Breakfast (morning meal).', level: 'A1', category: 'food-vocabulary', source: '[[food-vocabulary-es]]' }
+- { id: 'es_food_021', display: 'almuerzo', input: 'almuerzo', meaning: 'Lunch (midday meal).', level: 'A1', category: 'food-vocabulary', source: '[[food-vocabulary-es]]' }
+- { id: 'es_food_022', display: 'cena', input: 'cena', meaning: 'Dinner / Supper (evening meal).', level: 'A1', category: 'food-vocabulary', source: '[[food-vocabulary-es]]' }
+- { id: 'es_food_023', display: 'restaurante', input: 'restaurante', meaning: 'Restaurant (dining establishment).', level: 'A1', category: 'food-vocabulary', source: '[[food-vocabulary-es]]' }
+- { id: 'es_food_024', display: 'deliciosa', input: 'deliciosa', meaning: 'Delicious (feminine adjective).', level: 'A1', category: 'food-vocabulary', source: '[[food-vocabulary-es]]' }
+- { id: 'es_food_025', display: 'dulce', input: 'dulce', meaning: 'Sweet (taste, also candy).', level: 'A1', category: 'food-vocabulary', source: '[[food-vocabulary-es]]' }
+- { id: 'es_food_026', display: 'picante', input: 'picante', meaning: 'Spicy / Hot (taste).', level: 'A1', category: 'food-vocabulary', source: '[[food-vocabulary-es]]' }
+- { id: 'es_food_027', display: 'receta', input: 'receta', meaning: 'Recipe (cooking instructions).', level: 'A1', category: 'food-vocabulary', source: '[[food-vocabulary-es]]' }
+- { id: 'es_food_028', display: 'masa', input: 'masa', meaning: 'Masa / Dough (corn or flour base for tortillas, tamales, etc.). Fundamental to Mexican cuisine.', level: 'A1-B1', category: 'food', source: '[[food-vocabulary-es]]' }
+- { id: 'es_food_029', display: 'molcajete', input: 'molcajete', meaning: 'Molcajete / Stone mortar (traditional Mexican mortar made from volcanic rock). Used for grinding salsas, spices, guacamole.', level: 'A1-B1', category: 'food', source: '[[food-vocabulary-es]]' }
+- { id: 'es_food_030', display: 'tapas', input: 'tapas', meaning: 'Tapas / Small savory dishes served with drinks. En España, tradición de aperitivo gratuito o de bajo coste que acompaña la bebida.', level: 'A1-B1', category: 'food', source: '[[food-vocabulary-es]]' }
+- { id: 'es_food_031', display: 'cafe', input: 'cafe', meaning: 'Café / Coffee. Bebida de granos de café tostados y molidos. ', level: 'A1-B1', category: 'food', source: '[[food-vocabulary-es]]' }
+- { id: 'es_food_032', display: 'te', input: 'te', meaning: 'Té / Tea. Infusión de hojas de Camellia sinensis. Tipos: negro, verde, blanco, rojo, oolong.', level: 'A1-B1', category: 'food', source: '[[food-vocabulary-es]]' }
+- { id: 'es_food_033', display: 'delicioso', input: 'delicioso', meaning: 'Delicioso / Delicious, exquisite. Sabor muy agradable, exquisito. ', level: 'A1-B1', category: 'food', source: '[[food-vocabulary-es]]' }
 ```

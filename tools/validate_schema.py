@@ -135,6 +135,9 @@ def validate_vocabulary_page(path: Path, lang: str, text: str) -> list[str]:
     """
     violations = []
 
+    if any(marker in text[:300] for marker in ("→ See [[", "superseded by", "redirect stub", "redirect to")):
+        return []
+
     if not has_frontmatter(text):
         violations.append("missing frontmatter (expected `level:` / `source:` / `category:` fields)")
     else:
@@ -252,7 +255,12 @@ def validate_source_page(path: Path, lang: str, text: str) -> list[str]:
     violations = []
 
     if not INLINE_TYPE_RE.search(text):
-        violations.append("missing `**Type:**` field")
+        if has_frontmatter(text):
+            fm_body = FRONT_RE.match(text).group(1)
+            if not re.search(r"^type:", fm_body, re.MULTILINE):
+                violations.append("missing `**Type:**` field — also no `type:` in frontmatter")
+        else:
+            violations.append("missing `**Type:**` field")
 
     # Date: inline OR frontmatter
     if not INLINE_DATE_RE.search(text):

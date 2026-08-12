@@ -297,14 +297,14 @@ Spanish family 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: es_family_001, display: "madre", input: "madre", meaning: "어머니", level: "A1", category: "family", source: "[[family-vocabulary]]" }
-- { id: es_family_002, display: "padre", input: "padre", meaning: "아버지", level: "A1", category: "family", source: "[[family-vocabulary]]" }
-- { id: es_family_003, display: "hermana", input: "hermana", meaning: "여자 형제", level: "A1", category: "family", source: "[[family-vocabulary]]" }
-- { id: es_family_004, display: "hermano", input: "hermano", meaning: "남자 형제", level: "A1", category: "family", source: "[[family-vocabulary]]" }
-- { id: es_family_005, display: "abuela", input: "abuela", meaning: "할머니", level: "A1", category: "family", source: "[[family-vocabulary]]" }
-- { id: es_family_006, display: "abuelo", input: "abuelo", meaning: "할아버지", level: "A1", category: "family", source: "[[family-vocabulary]]" }
-- { id: es_family_007, display: "tía", input: "tía", meaning: "고모/이모", level: "A2", category: "family", source: "[[family-vocabulary]]" }
-- { id: es_family_008, display: "tío", input: "tío", meaning: "삼촌/외삼촌", level: "A2", category: "family", source: "[[family-vocabulary]]" }
-- { id: es_family_009, display: "primo/prima", input: "primo/prima", meaning: "사촌", level: "A2", category: "family", source: "[[family-vocabulary]]" }
-- { id: es_family_010, display: "familia", input: "familia", meaning: "가족", level: "A1", category: "family", source: "[[family-vocabulary]]" }
+- { id: 'es_family_001', display: 'madre', input: 'madre', meaning: '어머니', level: 'A1', category: 'family', source: '[[family-vocabulary]]' }
+- { id: 'es_family_002', display: 'padre', input: 'padre', meaning: '아버지', level: 'A1', category: 'family', source: '[[family-vocabulary]]' }
+- { id: 'es_family_003', display: 'hermana', input: 'hermana', meaning: '여자 형제', level: 'A1', category: 'family', source: '[[family-vocabulary]]' }
+- { id: 'es_family_004', display: 'hermano', input: 'hermano', meaning: '남자 형제', level: 'A1', category: 'family', source: '[[family-vocabulary]]' }
+- { id: 'es_family_005', display: 'abuela', input: 'abuela', meaning: '할머니', level: 'A1', category: 'family', source: '[[family-vocabulary]]' }
+- { id: 'es_family_006', display: 'abuelo', input: 'abuelo', meaning: '할아버지', level: 'A1', category: 'family', source: '[[family-vocabulary]]' }
+- { id: 'es_family_007', display: 'tía', input: 'tía', meaning: '고모/이모', level: 'A2', category: 'family', source: '[[family-vocabulary]]' }
+- { id: 'es_family_008', display: 'tío', input: 'tío', meaning: '삼촌/외삼촌', level: 'A2', category: 'family', source: '[[family-vocabulary]]' }
+- { id: 'es_family_009', display: 'primo/prima', input: 'primo/prima', meaning: '사촌', level: 'A2', category: 'family', source: '[[family-vocabulary]]' }
+- { id: 'es_family_010', display: 'familia', input: 'familia', meaning: '가족', level: 'A1', category: 'family', source: '[[family-vocabulary]]' }
 ```

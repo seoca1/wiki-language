@@ -683,26 +683,26 @@ En *Notes in Spanish*, "escapada" es el plan veraniego por excelencia: fin de se
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: es_daily_life_001, display: "levantarse", input: "levantarse", meaning: "일어나다", level: "A1", category: "daily-life-vocabulary", source: "[[daily-life-vocabulary]]" }
-- { id: es_daily_life_002, display: "ducharse", input: "ducharse", meaning: "샤워하다", level: "A1", category: "daily-life-vocabulary", source: "[[daily-life-vocabulary]]" }
-- { id: es_daily_life_003, display: "vestirse", input: "vestirse", meaning: "옷", level: "A1", category: "daily-life-vocabulary", source: "[[daily-life-vocabulary]]" }
-- { id: es_daily_life_004, display: "acostarse", input: "acostarse", meaning: "잠자리에", level: "A1", category: "daily-life-vocabulary", source: "[[daily-life-vocabulary]]" }
-- { id: es_daily_life_005, display: "irse", input: "irse", meaning: "떠나다", level: "A1", category: "daily-life-vocabulary", source: "[[daily-life-vocabulary]]" }
-- { id: es_daily_life_006, display: "desayunar", input: "desayunar", meaning: "아침을", level: "A1", category: "daily-life-vocabulary", source: "[[daily-life-vocabulary]]" }
-- { id: es_daily_life_007, display: "almorzar", input: "almorzar", meaning: "점심을", level: "A1", category: "daily-life-vocabulary", source: "[[daily-life-vocabulary]]" }
-- { id: es_daily_life_008, display: "cenar", input: "cenar", meaning: "저녁을", level: "A1", category: "daily-life-vocabulary", source: "[[daily-life-vocabulary]]" }
-- { id: es_daily_life_009, display: "trabajar", input: "trabajar", meaning: "일하다", level: "A1", category: "daily-life-vocabulary", source: "[[daily-life-vocabulary]]" }
-- { id: es_daily_life_010, display: "estudiar", input: "estudiar", meaning: "공부하다", level: "A1", category: "daily-life-vocabulary", source: "[[daily-life-vocabulary]]" }
-- { id: es_daily_life_011, display: "pedir", input: "pedir", meaning: "주문하다", level: "A1", category: "daily-life-vocabulary", source: "[[daily-life-vocabulary]]" }
-- { id: es_daily_life_012, display: "querer", input: "querer", meaning: "원하다", level: "A1", category: "daily-life-vocabulary", source: "[[daily-life-vocabulary]]" }
-- { id: es_daily_life_013, display: "probar", input: "probar", meaning: "맛보다", level: "A1", category: "daily-life-vocabulary", source: "[[daily-life-vocabulary]]" }
-- { id: es_daily_life_014, display: "reservar", input: "reservar", meaning: "예약하다", level: "A1", category: "daily-life-vocabulary", source: "[[daily-life-vocabulary]]" }
-- { id: es_daily_life_015, display: "siesta", input: "siesta", meaning: "Siesta / Midday nap or rest period. Tradición española de descanso tras la comida principal (14:00-17:00 aprox).", level: "A1-A2", category: "daily-life", source: "[[daily-life-vocabulary]]" }
-- { id: es_daily_life_016, display: "currar", input: "currar", meaning: "Currar / Trabajar, currar. Verbo coloquial peninsular para "trabajar" (equivalente a "chambear" en México, "laburar" en Argentina).", level: "A1-A2", category: "daily-life", source: "[[daily-life-vocabulary]]" }
-- { id: es_daily_life_017, display: "botellon", input: "botellon", meaning: "Botellón / Reunión de jóvenes en espacios públicos (plazas, parques) para beber alcohol comprado en supermercado, previa a discotecas o como plan principal.", level: "A1-A2", category: "daily-life", source: "[[daily-life-vocabulary]]" }
-- { id: es_daily_life_018, display: "escapada", input: "escapada", meaning: "Escapada / Getaway, short trip. Viaje corto (fin de semana, 2-3 días) para desconectar. "Hacer una escapada".", level: "A1-A2", category: "daily-life", source: "[[daily-life-vocabulary]]" }
-- { id: es_daily_life_019, display: "pillar", input: "pillar", meaning: "Pillar / To catch, grab, take (transport). Verbo coloquial peninsular para "coger", "tomar", "agarrar". "Pillar el tren", "pillar el bus".", level: "A1-A2", category: "daily-life", source: "[[daily-life-vocabulary]]" }
-- { id: es_daily_life_020, display: "apuntarse", input: "apuntarse", meaning: "Apuntarse / To sign up, join, commit to. Inscribirse en una actividad, comprometerse a un plan. "Me apunto a la excursión".", level: "A1-A2", category: "daily-life", source: "[[daily-life-vocabulary]]" }
-- { id: es_daily_life_021, display: "animarse", input: "animarse", meaning: "Animarse / To pluck up courage, decide to do something. Vencer la pereza/duda y decidirse. "¿Te animas a venir?"", level: "A1-A2", category: "daily-life", source: "[[daily-life-vocabulary]]" }
-- { id: es_daily_life_022, display: "veranear", input: "veranear", meaning: "Veranear / To summer, spend the summer (at a destination). Pasar el verano en un lugar de vacaciones (playa, pueblo, sierra).", level: "A1-A2", category: "daily-life", source: "[[daily-life-vocabulary]]" }
+- { id: 'es_daily_life_001', display: 'levantarse', input: 'levantarse', meaning: '일어나다', level: 'A1', category: 'daily-life-vocabulary', source: '[[daily-life-vocabulary]]' }
+- { id: 'es_daily_life_002', display: 'ducharse', input: 'ducharse', meaning: '샤워하다', level: 'A1', category: 'daily-life-vocabulary', source: '[[daily-life-vocabulary]]' }
+- { id: 'es_daily_life_003', display: 'vestirse', input: 'vestirse', meaning: '옷', level: 'A1', category: 'daily-life-vocabulary', source: '[[daily-life-vocabulary]]' }
+- { id: 'es_daily_life_004', display: 'acostarse', input: 'acostarse', meaning: '잠자리에', level: 'A1', category: 'daily-life-vocabulary', source: '[[daily-life-vocabulary]]' }
+- { id: 'es_daily_life_005', display: 'irse', input: 'irse', meaning: '떠나다', level: 'A1', category: 'daily-life-vocabulary', source: '[[daily-life-vocabulary]]' }
+- { id: 'es_daily_life_006', display: 'desayunar', input: 'desayunar', meaning: '아침을', level: 'A1', category: 'daily-life-vocabulary', source: '[[daily-life-vocabulary]]' }
+- { id: 'es_daily_life_007', display: 'almorzar', input: 'almorzar', meaning: '점심을', level: 'A1', category: 'daily-life-vocabulary', source: '[[daily-life-vocabulary]]' }
+- { id: 'es_daily_life_008', display: 'cenar', input: 'cenar', meaning: '저녁을', level: 'A1', category: 'daily-life-vocabulary', source: '[[daily-life-vocabulary]]' }
+- { id: 'es_daily_life_009', display: 'trabajar', input: 'trabajar', meaning: '일하다', level: 'A1', category: 'daily-life-vocabulary', source: '[[daily-life-vocabulary]]' }
+- { id: 'es_daily_life_010', display: 'estudiar', input: 'estudiar', meaning: '공부하다', level: 'A1', category: 'daily-life-vocabulary', source: '[[daily-life-vocabulary]]' }
+- { id: 'es_daily_life_011', display: 'pedir', input: 'pedir', meaning: '주문하다', level: 'A1', category: 'daily-life-vocabulary', source: '[[daily-life-vocabulary]]' }
+- { id: 'es_daily_life_012', display: 'querer', input: 'querer', meaning: '원하다', level: 'A1', category: 'daily-life-vocabulary', source: '[[daily-life-vocabulary]]' }
+- { id: 'es_daily_life_013', display: 'probar', input: 'probar', meaning: '맛보다', level: 'A1', category: 'daily-life-vocabulary', source: '[[daily-life-vocabulary]]' }
+- { id: 'es_daily_life_014', display: 'reservar', input: 'reservar', meaning: '예약하다', level: 'A1', category: 'daily-life-vocabulary', source: '[[daily-life-vocabulary]]' }
+- { id: 'es_daily_life_015', display: 'siesta', input: 'siesta', meaning: 'Siesta / Midday nap or rest period. Tradición española de descanso tras la comida principal (14:00-17:00 aprox).', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-vocabulary]]' }
+- { id: 'es_daily_life_016', display: 'currar', input: 'currar', meaning: 'Currar / Trabajar, currar. Verbo coloquial peninsular para ', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-vocabulary]]' }
+- { id: 'es_daily_life_017', display: 'botellon', input: 'botellon', meaning: 'Botellón / Reunión de jóvenes en espacios públicos (plazas, parques) para beber alcohol comprado en supermercado, previa a discotecas o como plan principal.', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-vocabulary]]' }
+- { id: 'es_daily_life_018', display: 'escapada', input: 'escapada', meaning: 'Escapada / Getaway, short trip. Viaje corto (fin de semana, 2-3 días) para desconectar. ', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-vocabulary]]' }
+- { id: 'es_daily_life_019', display: 'pillar', input: 'pillar', meaning: 'Pillar / To catch, grab, take (transport). Verbo coloquial peninsular para ', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-vocabulary]]' }
+- { id: 'es_daily_life_020', display: 'apuntarse', input: 'apuntarse', meaning: 'Apuntarse / To sign up, join, commit to. Inscribirse en una actividad, comprometerse a un plan. ', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-vocabulary]]' }
+- { id: 'es_daily_life_021', display: 'animarse', input: 'animarse', meaning: 'Animarse / To pluck up courage, decide to do something. Vencer la pereza/duda y decidirse. ', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-vocabulary]]' }
+- { id: 'es_daily_life_022', display: 'veranear', input: 'veranear', meaning: 'Veranear / To summer, spend the summer (at a destination). Pasar el verano en un lugar de vacaciones (playa, pueblo, sierra).', level: 'A1-A2', category: 'daily-life', source: '[[daily-life-vocabulary]]' }
 ```

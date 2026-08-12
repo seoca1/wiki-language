@@ -217,10 +217,10 @@ theme: "greetings"
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: kr_greeting_001, display: "안녕하세요", input: "안녕하세요", meaning: "hello (polite)", level: "TOPIK 1", category: "greeting", source: "[[topik1-starter]]" }
-- { id: kr_greeting_002, display: "안녕히 가세요", input: "안녕히 가세요", meaning: "goodbye (to person leaving)", level: "TOPIK 1", category: "greeting", source: "[[topik1-starter]]" }
-- { id: kr_greeting_003, display: "감사합니다", input: "감사합니다", meaning: "thank you (polite)", level: "TOPIK 1", category: "greeting", source: "[[topik1-starter]]" }
-- { id: kr_greeting_004, display: "죄송합니다", input: "죄송합니다", meaning: "I'm sorry (formal)", level: "TOPIK 1", category: "greeting", source: "[[topik1-starter]]" }
-- { id: kr_greeting_005, display: "네", input: "네", meaning: "yes", level: "TOPIK 1", category: "response", source: "[[topik1-starter]]" }
-- { id: kr_greeting_006, display: "아니요", input: "아니요", meaning: "no", level: "TOPIK 1", category: "response", source: "[[topik1-starter]]" }
+- { id: 'kr_greeting_001', display: '안녕하세요', input: '안녕하세요', meaning: 'hello (polite)', level: 'TOPIK 1', category: 'greeting', source: '[[topik1-starter]]' }
+- { id: 'kr_greeting_002', display: '안녕히 가세요', input: '안녕히 가세요', meaning: 'goodbye (to person leaving)', level: 'TOPIK 1', category: 'greeting', source: '[[topik1-starter]]' }
+- { id: 'kr_greeting_003', display: '감사합니다', input: '감사합니다', meaning: 'thank you (polite)', level: 'TOPIK 1', category: 'greeting', source: '[[topik1-starter]]' }
+- { id: 'kr_greeting_004', display: '죄송합니다', input: '죄송합니다', meaning: 'I''m sorry (formal)', level: 'TOPIK 1', category: 'greeting', source: '[[topik1-starter]]' }
+- { id: 'kr_greeting_005', display: '네', input: '네', meaning: 'yes', level: 'TOPIK 1', category: 'response', source: '[[topik1-starter]]' }
+- { id: 'kr_greeting_006', display: '아니요', input: '아니요', meaning: 'no', level: 'TOPIK 1', category: 'response', source: '[[topik1-starter]]' }
 ```

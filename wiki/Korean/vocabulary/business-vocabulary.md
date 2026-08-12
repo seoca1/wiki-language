@@ -2772,105 +2772,104 @@ theme: "business"
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: ko_business_001, display: "이메일", input: "이메일", meaning: "email", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_002, display: "주소", input: "주소", meaning: "address", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_003, display: "보낸 사람", input: "보낸 사람", meaning: "sender", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_004, display: "받는 사람", input: "받는 사람", meaning: "recipient", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_005, display: "제목", input: "제목", meaning: "subject", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_006, display: "본문", input: "본문", meaning: "body text", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_007, display: "첨부", input: "첨부", meaning: "attachment", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_008, display: "보내다", input: "보내다", meaning: "to send", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_009, display: "받다", input: "받다", meaning: "to receive", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_010, display: "답장", input: "답장", meaning: "reply", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_011, display: "전달하다", input: "전달하다", meaning: "forward", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_012, display: "읽다", input: "읽다", meaning: "to read", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_013, display: "저장하다", input: "저장하다", meaning: "save", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_014, display: "삭제하다", input: "삭제하다", meaning: "delete", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_015, display: "취소하다", input: "취소하다", meaning: "cancel", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_016, display: "회의", input: "회의", meaning: "meeting", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_017, display: "일정", input: "일정", meaning: "schedule", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_018, display: "안건", input: "안건", meaning: "agenda", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_019, display: "참석자", input: "참석자", meaning: "participants", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_020, display: "발표", input: "발표", meaning: "presentation", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_021, display: "발언", input: "발언", meaning: "speech/statement", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_022, display: "토론", input: "토론", meaning: "discussion/debate", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_023, display: "의견", input: "의견", meaning: "opinion", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_024, display: "결정", input: "결정", meaning: "decision", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_025, display: "찬성", input: "찬성", meaning: "approval", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_026, display: "반대", input: "반대", meaning: "opposition", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_027, display: "합의", input: "합의", meaning: "agreement", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_028, display: "기록", input: "기록", meaning: "record/minutes", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_029, display: "시간", input: "시간", meaning: "time", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_030, display: "장소", input: "장소", meaning: "location", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_031, display: "연기하다", input: "연기하다", meaning: "postpone", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_032, display: "취소하다", input: "취소하다", meaning: "cancel", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_033, display: "발표자", input: "발표자", meaning: "presenter", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_034, display: "슬라이드", input: "슬라이드", meaning: "slide", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_035, display: "자료", input: "자료", meaning: "materials/data", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_036, display: "차트", input: "차트", meaning: "chart", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_037, display: "그래프", input: "그래프", meaning: "graph", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_038, display: "표", input: "표", meaning: "table/form", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_039, display: "설명", input: "설명", meaning: "explanation", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_040, display: "요약", input: "요약", meaning: "summary", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_041, display: "결론", input: "결론", meaning: "conclusion", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_042, display: "질문", input: "질문", meaning: "question", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_043, display: "답변", input: "답변", meaning: "answer", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_044, display: "리허설", input: "리허설", meaning: "rehearsal", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_045, display: "회사", input: "회사", meaning: "company", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_046, display: "사무실", input: "사무실", meaning: "office", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_047, display: "동료", input: "동료", meaning: "colleague", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_048, display: "상사", input: "상사", meaning: "superior/boss", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_049, display: "부하", input: "부하", meaning: "subordinate", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_050, display: "직원", input: "직원", meaning: "employee", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_051, display: "대표", input: "대표", meaning: "representative/CEO", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_052, display: "팀장", input: "팀장", meaning: "team leader", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_053, display: "프로젝트", input: "프로젝트", meaning: "project", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_054, display: "업무", input: "업무", meaning: "work/tasks", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_055, display: "계약", input: "계약", meaning: "contract", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_056, display: "체결하다", input: "체결하다", meaning: "to sign contract", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_057, display: "매출", input: "매출", meaning: "sales revenue", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_058, display: "목표", input: "목표", meaning: "goal/target", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_059, display: "달성하다", input: "달성하다", meaning: "achieve", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_060, display: "보고서", input: "보고서", meaning: "report", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_061, display: "제출하다", input: "제출하다", meaning: "submit", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_062, display: "처리하다", input: "처리하다", meaning: "process", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_063, display: "확인하다", input: "확인하다", meaning: "confirm", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_064, display: "승인하다", input: "승인하다", meaning: "approve", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_065, display: "거절하다", input: "거절하다", meaning: "refuse/reject", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_066, display: "가격", input: "가격", meaning: "price", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_067, display: "비용", input: "비용", meaning: "cost/expense", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_068, display: "예산", input: "예산", meaning: "budget", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_069, display: "지출", input: "지출", meaning: "expenditure", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_070, display: "수입", input: "수입", meaning: "income/revenue", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_071, display: "이익", input: "이익", meaning: "profit", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_072, display: "손실", input: "손실", meaning: "loss", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_073, display: "투자", input: "투자", meaning: "investment", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_074, display: "협력", input: "협력", meaning: "cooperation/collaboration", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_075, display: "파트너", input: "파트너", meaning: "partner", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_076, display: "계약금", input: "계약금", meaning: "deposit/down payment", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_077, display: "분할납부", input: "분할납부", meaning: "installment payment", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_078, display: "이자", input: "이자", meaning: "interest", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_079, display: "환율", input: "환율", meaning: "exchange rate", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_080, display: "세금", input: "세금", meaning: "tax", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_081, display: "신고하다", input: "신고하다", meaning: "to file/report", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_082, display: "전화", input: "전화", meaning: "telephone/phone call", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_083, display: "전화하다", input: "전화하다", meaning: "to call", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_084, display: "메시지", input: "메시지", meaning: "message", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_085, display: "문자", input: "문자", meaning: "text message", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_086, display: "연결", input: "연결", meaning: "connection", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_087, display: "끊다", input: "끊다", meaning: "to hang up", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_088, display: "통화중", input: "통화중", meaning: "busy (line)", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_089, display: "전화번호", input: "전화번호", meaning: "phone number", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_090, display: "안내", input: "안내", meaning: "guidance/information", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_091, display: "재통화", input: "재통화", meaning: "callback", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_092, display: "____님께", input: "____님께", meaning: "To Mr./Ms. ____", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_093, display: "회신 바랍니다", input: "회신 바랍니다", meaning: "Please reply", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_094, display: "확인 부탁드립니다", input: "확인 부탁드립니다", meaning: "Please confirm", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_095, display: "검토 부탁드립니다", input: "검토 부탁드립니다", meaning: "Please review", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_096, display: "협조 부탁드립니다", input: "협조 부탁드립니다", meaning: "Please cooperate", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_097, display: "죄송합니다만", input: "죄송합니다만", meaning: "I apologize, but...", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_098, display: "감사합니다", input: "감사합니다", meaning: "Thank you", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_099, display: "수고하세요", input: "수고하세요", meaning: "You worked hard (casual)", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_100, display: "열공하세요", input: "열공하세요", meaning: "Keep studying/working hard", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
-- { id: ko_business_101, display: "오늘 잘 부탁드립니다", input: "오늘 잘 부탁드립니다", meaning: "Please take care of today", level: "TOPIK 2", category: "business-vocabulary", source: "[[business-vocabulary]]" }
+- { id: 'kr_business_001', display: '이메일', input: '이메일', meaning: 'email', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_002', display: '주소', input: '주소', meaning: 'address', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_003', display: '보낸 사람', input: '보낸 사람', meaning: 'sender', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_004', display: '받는 사람', input: '받는 사람', meaning: 'recipient', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_005', display: '제목', input: '제목', meaning: 'subject', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_006', display: '본문', input: '본문', meaning: 'body text', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_007', display: '첨부', input: '첨부', meaning: 'attachment', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_008', display: '보내다', input: '보내다', meaning: 'to send', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_009', display: '받다', input: '받다', meaning: 'to receive', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_010', display: '답장', input: '답장', meaning: 'reply', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_011', display: '전달하다', input: '전달하다', meaning: 'forward', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_012', display: '읽다', input: '읽다', meaning: 'to read', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_013', display: '저장하다', input: '저장하다', meaning: 'save', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_014', display: '삭제하다', input: '삭제하다', meaning: 'delete', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_015', display: '취소하다', input: '취소하다', meaning: 'cancel', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_016', display: '회의', input: '회의', meaning: 'meeting', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_017', display: '일정', input: '일정', meaning: 'schedule', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_018', display: '안건', input: '안건', meaning: 'agenda', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_019', display: '참석자', input: '참석자', meaning: 'participants', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_020', display: '발표', input: '발표', meaning: 'presentation', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_021', display: '발언', input: '발언', meaning: 'speech/statement', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_022', display: '토론', input: '토론', meaning: 'discussion/debate', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_023', display: '의견', input: '의견', meaning: 'opinion', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_024', display: '결정', input: '결정', meaning: 'decision', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_025', display: '찬성', input: '찬성', meaning: 'approval', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_026', display: '반대', input: '반대', meaning: 'opposition', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_027', display: '합의', input: '합의', meaning: 'agreement', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_028', display: '기록', input: '기록', meaning: 'record/minutes', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_029', display: '시간', input: '시간', meaning: 'time', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_030', display: '장소', input: '장소', meaning: 'location', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_031', display: '연기하다', input: '연기하다', meaning: 'postpone', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_032', display: '발표자', input: '발표자', meaning: 'presenter', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_033', display: '슬라이드', input: '슬라이드', meaning: 'slide', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_034', display: '자료', input: '자료', meaning: 'materials/data', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_035', display: '차트', input: '차트', meaning: 'chart', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_036', display: '그래프', input: '그래프', meaning: 'graph', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_037', display: '표', input: '표', meaning: 'table/form', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_038', display: '설명', input: '설명', meaning: 'explanation', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_039', display: '요약', input: '요약', meaning: 'summary', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_040', display: '결론', input: '결론', meaning: 'conclusion', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_041', display: '질문', input: '질문', meaning: 'question', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_042', display: '답변', input: '답변', meaning: 'answer', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_043', display: '리허설', input: '리허설', meaning: 'rehearsal', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_044', display: '회사', input: '회사', meaning: 'company', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_045', display: '사무실', input: '사무실', meaning: 'office', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_046', display: '동료', input: '동료', meaning: 'colleague', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_047', display: '상사', input: '상사', meaning: 'superior/boss', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_048', display: '부하', input: '부하', meaning: 'subordinate', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_049', display: '직원', input: '직원', meaning: 'employee', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_050', display: '대표', input: '대표', meaning: 'representative/CEO', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_051', display: '팀장', input: '팀장', meaning: 'team leader', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_052', display: '프로젝트', input: '프로젝트', meaning: 'project', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_053', display: '업무', input: '업무', meaning: 'work/tasks', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_054', display: '계약', input: '계약', meaning: 'contract', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_055', display: '체결하다', input: '체결하다', meaning: 'to sign contract', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_056', display: '매출', input: '매출', meaning: 'sales revenue', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_057', display: '목표', input: '목표', meaning: 'goal/target', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_058', display: '달성하다', input: '달성하다', meaning: 'achieve', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_059', display: '보고서', input: '보고서', meaning: 'report', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_060', display: '제출하다', input: '제출하다', meaning: 'submit', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_061', display: '처리하다', input: '처리하다', meaning: 'process', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_062', display: '확인하다', input: '확인하다', meaning: 'confirm', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_063', display: '승인하다', input: '승인하다', meaning: 'approve', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_064', display: '거절하다', input: '거절하다', meaning: 'refuse/reject', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_065', display: '가격', input: '가격', meaning: 'price', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_066', display: '비용', input: '비용', meaning: 'cost/expense', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_067', display: '예산', input: '예산', meaning: 'budget', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_068', display: '지출', input: '지출', meaning: 'expenditure', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_069', display: '수입', input: '수입', meaning: 'income/revenue', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_070', display: '이익', input: '이익', meaning: 'profit', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_071', display: '손실', input: '손실', meaning: 'loss', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_072', display: '투자', input: '투자', meaning: 'investment', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_073', display: '협력', input: '협력', meaning: 'cooperation/collaboration', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_074', display: '파트너', input: '파트너', meaning: 'partner', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_075', display: '계약금', input: '계약금', meaning: 'deposit/down payment', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_076', display: '분할납부', input: '분할납부', meaning: 'installment payment', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_077', display: '이자', input: '이자', meaning: 'interest', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_078', display: '환율', input: '환율', meaning: 'exchange rate', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_079', display: '세금', input: '세금', meaning: 'tax', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_080', display: '신고하다', input: '신고하다', meaning: 'to file/report', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_081', display: '전화', input: '전화', meaning: 'telephone/phone call', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_082', display: '전화하다', input: '전화하다', meaning: 'to call', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_083', display: '메시지', input: '메시지', meaning: 'message', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_084', display: '문자', input: '문자', meaning: 'text message', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_085', display: '연결', input: '연결', meaning: 'connection', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_086', display: '끊다', input: '끊다', meaning: 'to hang up', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_087', display: '통화중', input: '통화중', meaning: 'busy (line)', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_088', display: '전화번호', input: '전화번호', meaning: 'phone number', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_089', display: '안내', input: '안내', meaning: 'guidance/information', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_090', display: '재통화', input: '재통화', meaning: 'callback', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_091', display: '____님께', input: '____님께', meaning: 'To Mr./Ms. ____', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_092', display: '회신 바랍니다', input: '회신 바랍니다', meaning: 'Please reply', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_093', display: '확인 부탁드립니다', input: '확인 부탁드립니다', meaning: 'Please confirm', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_094', display: '검토 부탁드립니다', input: '검토 부탁드립니다', meaning: 'Please review', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_095', display: '협조 부탁드립니다', input: '협조 부탁드립니다', meaning: 'Please cooperate', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_096', display: '죄송합니다만', input: '죄송합니다만', meaning: 'I apologize, but...', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_097', display: '감사합니다', input: '감사합니다', meaning: 'Thank you', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_098', display: '수고하세요', input: '수고하세요', meaning: 'You worked hard (casual)', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_099', display: '열공하세요', input: '열공하세요', meaning: 'Keep studying/working hard', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
+- { id: 'kr_business_100', display: '오늘 잘 부탁드립니다', input: '오늘 잘 부탁드립니다', meaning: 'Please take care of today', level: 'TOPIK 2', category: 'business-vocabulary', source: '[[business-vocabulary]]' }
 ```

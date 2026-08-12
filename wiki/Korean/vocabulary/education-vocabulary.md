@@ -297,14 +297,14 @@ Korean 교육문화: 학교 시스템, 학습방식, 학업 표현 등.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: kr_education_001, display: "학교 (學校, hakgyo)", input: "학교 (學校, hakgyo)", meaning: "school", level: "TOPIK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: kr_education_002, display: "학생 (學生, haksaeng)", input: "학생 (學生, haksaeng)", meaning: "student", level: "TOPIK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: kr_education_003, display: "선생님 (先生님, seonsaengnim)", input: "선생님 (先生님, seonsaengnim)", meaning: "teacher", level: "TOPIK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: kr_education_004, display: "책 (冊, chaek)", input: "책 (冊, chaek)", meaning: "book", level: "TOPIK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: kr_education_005, display: "펜 (pen)", input: "펜 (pen)", meaning: "pen", level: "TOPIK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: kr_education_006, display: "연필 (鉛筆, yeonpil)", input: "연필 (鉛筆, yeonpil)", meaning: "pencil", level: "TOPIK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: kr_education_007, display: "숙제 (宿題, sukje)", input: "숙제 (宿題, sukje)", meaning: "homework", level: "TOPIK 2", category: "education", source: "[[education-vocabulary]]" }
-- { id: kr_education_008, display: "시험 (試驗, siheom)", input: "시험 (試驗, siheom)", meaning: "test/exam", level: "TOPIK 1", category: "education", source: "[[education-vocabulary]]" }
-- { id: kr_education_009, display: "도서관 (圖書館, doseogwan)", input: "도서관 (圖書館, doseogwan)", meaning: "library", level: "TOPIK 2", category: "education", source: "[[education-vocabulary]]" }
-- { id: kr_education_010, display: "대학교 (大學校, daehakgyo)", input: "대학교 (大學校, daehakgyo)", meaning: "university", level: "TOPIK 2", category: "education", source: "[[education-vocabulary]]" }
+- { id: 'kr_education_001', display: '학교 (學校, hakgyo)', input: '학교 (學校, hakgyo)', meaning: 'school', level: 'TOPIK 1', category: 'education', source: '[[education-vocabulary]]' }
+- { id: 'kr_education_002', display: '학생 (學生, haksaeng)', input: '학생 (學生, haksaeng)', meaning: 'student', level: 'TOPIK 1', category: 'education', source: '[[education-vocabulary]]' }
+- { id: 'kr_education_003', display: '선생님 (先生님, seonsaengnim)', input: '선생님 (先生님, seonsaengnim)', meaning: 'teacher', level: 'TOPIK 1', category: 'education', source: '[[education-vocabulary]]' }
+- { id: 'kr_education_004', display: '책 (冊, chaek)', input: '책 (冊, chaek)', meaning: 'book', level: 'TOPIK 1', category: 'education', source: '[[education-vocabulary]]' }
+- { id: 'kr_education_005', display: '펜 (pen)', input: '펜 (pen)', meaning: 'pen', level: 'TOPIK 1', category: 'education', source: '[[education-vocabulary]]' }
+- { id: 'kr_education_006', display: '연필 (鉛筆, yeonpil)', input: '연필 (鉛筆, yeonpil)', meaning: 'pencil', level: 'TOPIK 1', category: 'education', source: '[[education-vocabulary]]' }
+- { id: 'kr_education_007', display: '숙제 (宿題, sukje)', input: '숙제 (宿題, sukje)', meaning: 'homework', level: 'TOPIK 2', category: 'education', source: '[[education-vocabulary]]' }
+- { id: 'kr_education_008', display: '시험 (試驗, siheom)', input: '시험 (試驗, siheom)', meaning: 'test/exam', level: 'TOPIK 1', category: 'education', source: '[[education-vocabulary]]' }
+- { id: 'kr_education_009', display: '도서관 (圖書館, doseogwan)', input: '도서관 (圖書館, doseogwan)', meaning: 'library', level: 'TOPIK 2', category: 'education', source: '[[education-vocabulary]]' }
+- { id: 'kr_education_010', display: '대학교 (大學校, daehakgyo)', input: '대학교 (大學校, daehakgyo)', meaning: 'university', level: 'TOPIK 2', category: 'education', source: '[[education-vocabulary]]' }
 ```

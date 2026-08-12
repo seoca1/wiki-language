@@ -297,14 +297,14 @@ Korean technology 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: kr_technology_001, display: "컴퓨터 (computer)", input: "컴퓨터 (computer)", meaning: "computer", level: "TOPIK 1", category: "technology", source: "[[technology-vocabulary]]" }
-- { id: kr_technology_002, display: "전화 (電話, jeonhwa)", input: "전화 (電話, jeonhwa)", meaning: "phone", level: "TOPIK 1", category: "technology", source: "[[technology-vocabulary]]" }
-- { id: kr_technology_003, display: "인터넷 (internet)", input: "인터넷 (internet)", meaning: "internet", level: "TOPIK 1", category: "technology", source: "[[technology-vocabulary]]" }
-- { id: kr_technology_004, display: "이메일 (email)", input: "이메일 (email)", meaning: "email", level: "TOPIK 1", category: "technology", source: "[[technology-vocabulary]]" }
-- { id: kr_technology_005, display: "웹사이트 (website)", input: "웹사이트 (website)", meaning: "website", level: "TOPIK 2", category: "technology", source: "[[technology-vocabulary]]" }
-- { id: kr_technology_006, display: "앱 (app)", input: "앱 (app)", meaning: "app", level: "TOPIK 1", category: "technology", source: "[[technology-vocabulary]]" }
-- { id: kr_technology_007, display: "비밀번호 (秘密番號, bimilbeonho)", input: "비밀번호 (秘密番號, bimilbeonho)", meaning: "password", level: "TOPIK 2", category: "technology", source: "[[technology-vocabulary]]" }
-- { id: kr_technology_008, display: "마우스 (mouse)", input: "마우스 (mouse)", meaning: "mouse", level: "TOPIK 1", category: "technology", source: "[[technology-vocabulary]]" }
-- { id: kr_technology_009, display: "키보드 (keyboard)", input: "키보드 (keyboard)", meaning: "keyboard", level: "TOPIK 2", category: "technology", source: "[[technology-vocabulary]]" }
-- { id: kr_technology_010, display: "화면 (畫面, hwamyeon)", input: "화면 (畫面, hwamyeon)", meaning: "screen", level: "TOPIK 1", category: "technology", source: "[[technology-vocabulary]]" }
+- { id: 'kr_technology_001', display: '컴퓨터 (computer)', input: '컴퓨터 (computer)', meaning: 'computer', level: 'TOPIK 1', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'kr_technology_002', display: '전화 (電話, jeonhwa)', input: '전화 (電話, jeonhwa)', meaning: 'phone', level: 'TOPIK 1', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'kr_technology_003', display: '인터넷 (internet)', input: '인터넷 (internet)', meaning: 'internet', level: 'TOPIK 1', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'kr_technology_004', display: '이메일 (email)', input: '이메일 (email)', meaning: 'email', level: 'TOPIK 1', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'kr_technology_005', display: '웹사이트 (website)', input: '웹사이트 (website)', meaning: 'website', level: 'TOPIK 2', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'kr_technology_006', display: '앱 (app)', input: '앱 (app)', meaning: 'app', level: 'TOPIK 1', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'kr_technology_007', display: '비밀번호 (秘密番號, bimilbeonho)', input: '비밀번호 (秘密番號, bimilbeonho)', meaning: 'password', level: 'TOPIK 2', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'kr_technology_008', display: '마우스 (mouse)', input: '마우스 (mouse)', meaning: 'mouse', level: 'TOPIK 1', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'kr_technology_009', display: '키보드 (keyboard)', input: '키보드 (keyboard)', meaning: 'keyboard', level: 'TOPIK 2', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'kr_technology_010', display: '화면 (畫面, hwamyeon)', input: '화면 (畫面, hwamyeon)', meaning: 'screen', level: 'TOPIK 1', category: 'technology', source: '[[technology-vocabulary]]' }
 ```

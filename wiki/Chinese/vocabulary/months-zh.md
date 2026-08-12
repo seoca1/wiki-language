@@ -250,3 +250,31 @@ theme: "months"
 | 阳历 (yáng lì) | 2성 + 4성 | 阳 (yáng) 2성, 历 (lì) 4성 |
 | 公历 (gōng lì) | 1성 + 4성 | 公 (gōng) 1성, 历 (lì) 4성 |
 | 春节 (chūn jié) | 1성 + 2성 | 春 (chūn) 1성, 节 (jié) 2성 |
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'zh_months_001', display: '월 묻기/말하기', input: '월 묻기/말하기', meaning: '', level: 'HSK 1', category: 'months', source: '[[months-zh]]' }
+- { id: 'zh_months_002', display: '월 + 년도 (Month + Year)', input: '월 + 년도 (Month + Year)', meaning: '', level: 'HSK 1', category: 'months', source: '[[months-zh]]' }
+- { id: 'zh_months_003', display: '월 + 일 (Month + Day)', input: '월 + 일 (Month + Day)', meaning: '', level: 'HSK 1', category: 'months', source: '[[months-zh]]' }
+- { id: 'zh_months_004', display: '1. 월 이름 — 숫자 + 月 (Number + Month) — 매우 체계적', input: '1. 월 이름 — 숫자 + 月 (Number + Month) — 매우 체계적', meaning: '', level: 'HSK 1', category: 'months', source: '[[months-zh]]' }
+- { id: 'zh_months_005', display: '2. 월 + 일 표현 (Month + Day)', input: '2. 월 + 일 표현 (Month + Day)', meaning: '', level: 'HSK 1', category: 'months', source: '[[months-zh]]' }
+- { id: 'zh_months_006', display: '3. 년-월-일 순서 (Year-Month-Day)', input: '3. 년-월-일 순서 (Year-Month-Day)', meaning: '', level: 'HSK 1', category: 'months', source: '[[months-zh]]' }
+- { id: 'zh_months_007', display: '4. 월 단위 카운터 (Month Counter)', input: '4. 월 단위 카운터 (Month Counter)', meaning: '', level: 'HSK 1', category: 'months', source: '[[months-zh]]' }
+- { id: 'zh_months_008', display: '1. 月 (yuè) = "월/달" — 핵심 단어', input: '1. 月 (yuè) = "월/달" — 핵심 단어', meaning: '', level: 'HSK 1', category: 'months', source: '[[months-zh]]' }
+- { id: 'zh_months_009', display: '2. 월 + 일 순서 동일 (Month + Day Order Same)', input: '2. 월 + 일 순서 동일 (Month + Day Order Same)', meaning: '', level: 'HSK 1', category: 'months', source: '[[months-zh]]' }
+- { id: 'zh_months_010', display: '3. 년-월-일 순서 동일 (Year-Month-Day Order Same)', input: '3. 년-월-일 순서 동일 (Year-Month-Day Order Same)', meaning: '', level: 'HSK 1', category: 'months', source: '[[months-zh]]' }
+- { id: 'zh_months_011', display: '4. 월 카운터 个 (gè) 필수', input: '4. 월 카운터 个 (gè) 필수', meaning: '', level: 'HSK 1', category: 'months', source: '[[months-zh]]' }
+- { id: 'zh_months_012', display: '5. 음력/양력 구별 필수 (Lunar/Solar Distinction Critical)', input: '5. 음력/양력 구별 필수 (Lunar/Solar Distinction Critical)', meaning: '', level: 'HSK 1', category: 'months', source: '[[months-zh]]' }
+- { id: 'zh_months_013', display: '월 묻기/대답', input: '월 묻기/대답', meaning: '', level: 'HSK 1', category: 'months', source: '[[months-zh]]' }
+- { id: 'zh_months_014', display: '생일/기념일', input: '생일/기념일', meaning: '', level: 'HSK 1', category: 'months', source: '[[months-zh]]' }
+- { id: 'zh_months_015', display: '계절/달 관련', input: '계절/달 관련', meaning: '', level: 'HSK 1', category: 'months', source: '[[months-zh]]' }
+- { id: 'zh_months_016', display: '날짜 예약/약속', input: '날짜 예약/약속', meaning: '', level: 'HSK 1', category: 'months', source: '[[months-zh]]' }
+- { id: 'zh_months_017', display: '1. 24절기 (24 Solar Terms)', input: '1. 24절기 (24 Solar Terms)', meaning: '', level: 'HSK 1', category: 'months', source: '[[months-zh]]' }
+- { id: 'zh_months_018', display: '2. 주요 명절과 월', input: '2. 주요 명절과 월', meaning: '', level: 'HSK 1', category: 'months', source: '[[months-zh]]' }
+- { id: 'zh_months_019', display: '3. 월별 별칭 (Traditional Month Names)', input: '3. 월별 별칭 (Traditional Month Names)', meaning: '', level: 'HSK 1', category: 'months', source: '[[months-zh]]' }
+```

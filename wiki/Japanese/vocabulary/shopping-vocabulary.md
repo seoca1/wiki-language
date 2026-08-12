@@ -413,22 +413,22 @@ theme: "shopping"
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: jp_shopping_001, display: "店 (mise)", input: "店 (mise)", meaning: "가게", level: "N5-N4", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: jp_shopping_002, display: "お金 (okane)", input: "お金 (okane)", meaning: "돈", level: "N5-N4", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: jp_shopping_003, display: "現金 (genkin)", input: "現金 (genkin)", meaning: "현금", level: "N5-N4", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: jp_shopping_004, display: "カード (kādo)", input: "カード (kādo)", meaning: "카드", level: "N5-N4", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: jp_shopping_005, display: "価格 (kakaku)", input: "価格 (kakaku)", meaning: "가격", level: "N5-N4", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: jp_shopping_006, display: "安い (yasui)", input: "安い (yasui)", meaning: "싼", level: "N5-N4", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: jp_shopping_007, display: "高い (takai)", input: "高い (takai)", meaning: "비싼", level: "N5-N4", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: jp_shopping_008, display: "割引 (waribiki)", input: "割引 (waribiki)", meaning: "할인", level: "N5-N4", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: jp_shopping_009, display: "レシート (reshīto)", input: "レシート (reshīto)", meaning: "영수증", level: "N5-N4", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: jp_shopping_010, display: "返品 (henpin)", input: "返品 (henpin)", meaning: "반품 / 반품하다", level: "N5-N4", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: jp_shopping_011, display: "買う (kau)", input: "買う (kau)", meaning: "사다", level: "N5-N4", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: jp_shopping_012, display: "売る (uru)", input: "売る (uru)", meaning: "팔다", level: "N5-N4", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: jp_shopping_013, display: "試着 (shichaku)", input: "試着 (shichaku)", meaning: "입어보기 / 입어보다", level: "N5-N4", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: jp_shopping_014, display: "試着室 (shichakushitsu)", input: "試着室 (shichakushitsu)", meaning: "탈의실", level: "N5-N4", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: jp_shopping_015, display: "コンビニ (konbini)", input: "コンビニ (konbini)", meaning: "편의점", level: "N5-N4", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: jp_shopping_016, display: "サイズ (saizu)", input: "サイズ (saizu)", meaning: "사이즈", level: "N5-N4", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: jp_shopping_017, display: "セール (sēru)", input: "セール (sēru)", meaning: "세일", level: "N5-N4", category: "shopping", source: "[[shopping-vocabulary]]" }
-- { id: jp_shopping_018, display: "お釣り (otsuri)", input: "お釣り (otsuri)", meaning: "거스름돈", level: "N5-N4", category: "shopping", source: "[[shopping-vocabulary]]" }
+- { id: 'jp_shopping_001', display: '店 (mise)', input: '店 (mise)', meaning: '가게', level: 'N5-N4', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'jp_shopping_002', display: 'お金 (okane)', input: 'お金 (okane)', meaning: '돈', level: 'N5-N4', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'jp_shopping_003', display: '現金 (genkin)', input: '現金 (genkin)', meaning: '현금', level: 'N5-N4', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'jp_shopping_004', display: 'カード (kādo)', input: 'カード (kādo)', meaning: '카드', level: 'N5-N4', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'jp_shopping_005', display: '価格 (kakaku)', input: '価格 (kakaku)', meaning: '가격', level: 'N5-N4', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'jp_shopping_006', display: '安い (yasui)', input: '安い (yasui)', meaning: '싼', level: 'N5-N4', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'jp_shopping_007', display: '高い (takai)', input: '高い (takai)', meaning: '비싼', level: 'N5-N4', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'jp_shopping_008', display: '割引 (waribiki)', input: '割引 (waribiki)', meaning: '할인', level: 'N5-N4', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'jp_shopping_009', display: 'レシート (reshīto)', input: 'レシート (reshīto)', meaning: '영수증', level: 'N5-N4', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'jp_shopping_010', display: '返品 (henpin)', input: '返品 (henpin)', meaning: '반품 / 반품하다', level: 'N5-N4', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'jp_shopping_011', display: '買う (kau)', input: '買う (kau)', meaning: '사다', level: 'N5-N4', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'jp_shopping_012', display: '売る (uru)', input: '売る (uru)', meaning: '팔다', level: 'N5-N4', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'jp_shopping_013', display: '試着 (shichaku)', input: '試着 (shichaku)', meaning: '입어보기 / 입어보다', level: 'N5-N4', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'jp_shopping_014', display: '試着室 (shichakushitsu)', input: '試着室 (shichakushitsu)', meaning: '탈의실', level: 'N5-N4', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'jp_shopping_015', display: 'コンビニ (konbini)', input: 'コンビニ (konbini)', meaning: '편의점', level: 'N5-N4', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'jp_shopping_016', display: 'サイズ (saizu)', input: 'サイズ (saizu)', meaning: '사이즈', level: 'N5-N4', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'jp_shopping_017', display: 'セール (sēru)', input: 'セール (sēru)', meaning: '세일', level: 'N5-N4', category: 'shopping', source: '[[shopping-vocabulary]]' }
+- { id: 'jp_shopping_018', display: 'お釣り (otsuri)', input: 'お釣り (otsuri)', meaning: '거스름돈', level: 'N5-N4', category: 'shopping', source: '[[shopping-vocabulary]]' }
 ```

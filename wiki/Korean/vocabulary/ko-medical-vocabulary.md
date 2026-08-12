@@ -1029,42 +1029,42 @@ theme: "medical"
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/kr_words.md`).
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: ko_med_001, display: "병원 (病院, byeongwon)", input: "병원", meaning: "hospital, clinic", level: "TOPIK 2", category: "medical", source: "[[ko-medical-vocabulary]]" }
-- { id: ko_med_002, display: "한의원 (韓醫院, hanuiwon)", input: "한의원", meaning: "Korean traditional medicine clinic", level: "TOPIK 3", category: "medical", source: "[[ko-medical-vocabulary]]" }
-- { id: ko_med_003, display: "약국 (藥局, yakguk)", input: "약국", meaning: "pharmacy, drugstore", level: "TOPIK 2", category: "medical", source: "[[ko-medical-vocabulary]]" }
-- { id: ko_med_004, display: "의사 (醫師, uisa)", input: "의사", meaning: "doctor, physician (western medicine)", level: "TOPIK 1", category: "medical", source: "[[ko-medical-vocabulary]]" }
-- { id: ko_med_005, display: "간호사 (看護師, ganhosa)", input: "간호사", meaning: "nurse", level: "TOPIK 2", category: "medical", source: "[[ko-medical-vocabulary]]" }
-- { id: ko_med_006, display: "약사 (藥師, yaksa)", input: "약사", meaning: "pharmacist", level: "TOPIK 2", category: "medical", source: "[[ko-medical-vocabulary]]" }
-- { id: ko_med_007, display: "한의사 (韓醫師, hanuisa)", input: "한의사", meaning: "Korean medicine doctor", level: "TOPIK 3", category: "medical", source: "[[ko-medical-vocabulary]]" }
-- { id: ko_med_008, display: "내과 (內科, naegwa)", input: "내과", meaning: "internal medicine", level: "TOPIK 2", category: "medical", source: "[[ko-medical-vocabulary]]" }
-- { id: ko_med_009, display: "외과 (外科, oegwa)", input: "외과", meaning: "surgery department", level: "TOPIK 2", category: "medical", source: "[[ko-medical-vocabulary]]" }
-- { id: ko_med_010, display: "소아과 (小兒科, soagwa)", input: "소아과", meaning: "pediatrics", level: "TOPIK 2", category: "medical", source: "[[ko-medical-vocabulary]]" }
-- { id: ko_med_011, display: "산부인과 (産婦人科, sanbuingwa)", input: "산부인과", meaning: "obstetrics and gynecology (OB/GYN)", level: "TOPIK 3", category: "medical", source: "[[ko-medical-vocabulary]]" }
-- { id: ko_med_012, display: "이비인후과 (耳鼻咽喉科, ibiinhugwa)", input: "이비인후과", meaning: "ENT (ear, nose, throat)", level: "TOPIK 3", category: "medical", source: "[[ko-medical-vocabulary]]" }
-- { id: ko_med_013, display: "안과 (眼科, angwa)", input: "안과", meaning: "ophthalmology, eye clinic", level: "TOPIK 2", category: "medical", source: "[[ko-medical-vocabulary]]" }
-- { id: ko_med_014, display: "치과 (齒科, chigwa)", input: "치과", meaning: "dental clinic, dentistry", level: "TOPIK 2", category: "medical", source: "[[ko-medical-vocabulary]]" }
-- { id: ko_med_015, display: "정형외과 (整形外科, jeonghyeongoegwa)", input: "정형외과", meaning: "orthopedics", level: "TOPIK 3", category: "medical", source: "[[ko-medical-vocabulary]]" }
-- { id: ko_med_016, display: "피부과 (皮膚科, pibugwa)", input: "피부과", meaning: "dermatology", level: "TOPIK 2", category: "medical", source: "[[ko-medical-vocabulary]]" }
-- { id: ko_med_017, display: "정신과 (精神科, jeongsingwa)", input: "정신과", meaning: "psychiatry", level: "TOPIK 3", category: "medical", source: "[[ko-medical-vocabulary]]" }
-- { id: ko_med_018, display: "아프다 (痛, apeuda)", input: "아프다", meaning: "to be sick, to hurt", level: "TOPIK 1", category: "medical", source: "[[ko-medical-vocabulary]]" }
-- { id: ko_med_019, display: "열 (熱, yeol)", input: "열", meaning: "fever, temperature", level: "TOPIK 1", category: "medical", source: "[[ko-medical-vocabulary]]" }
-- { id: ko_med_020, display: "기침 (咳嗽, gichim)", input: "기침", meaning: "cough, to cough", level: "TOPIK 2", category: "medical", source: "[[ko-medical-vocabulary]]" }
-- { id: ko_med_021, display: "감기 (感氣, gamgi)", input: "감기", meaning: "cold (common cold)", level: "TOPIK 1", category: "medical", source: "[[ko-medical-vocabulary]]" }
-- { id: ko_med_022, display: "두통 (頭痛, dutung)", input: "두통", meaning: "headache", level: "TOPIK 2", category: "medical", source: "[[ko-medical-vocabulary]]" }
-- { id: ko_med_023, display: "구토 (嘔吐, guto)", input: "구토", meaning: "vomiting, to vomit", level: "TOPIK 3", category: "medical", source: "[[ko-medical-vocabulary]]" }
-- { id: ko_med_024, display: "진단 (診斷, jindan)", input: "진단", meaning: "diagnosis, to diagnose", level: "TOPIK 3", category: "medical", source: "[[ko-medical-vocabulary]]" }
-- { id: ko_med_025, display: "수술 (手術, susul)", input: "수술", meaning: "surgery, operation", level: "TOPIK 2", category: "medical", source: "[[ko-medical-vocabulary]]" }
-- { id: ko_med_026, display: "주사 (注射, jusa)", input: "주사", meaning: "injection, shot", level: "TOPIK 2", category: "medical", source: "[[ko-medical-vocabulary]]" }
-- { id: ko_med_027, display: "수액 (輸液, suaek)", input: "수액", meaning: "IV drip, intravenous infusion", level: "TOPIK 3", category: "medical", source: "[[ko-medical-vocabulary]]" }
-- { id: ko_med_028, display: "처방전 (處方箋, cheobangjeon)", input: "처방전", meaning: "prescription (paper)", level: "TOPIK 3", category: "medical", source: "[[ko-medical-vocabulary]]" }
-- { id: ko_med_029, display: "입원 (入院, ibwon)", input: "입원", meaning: "hospitalization", level: "TOPIK 3", category: "medical", source: "[[ko-medical-vocabulary]]" }
-- { id: ko_med_030, display: "약 (藥, yak)", input: "약", meaning: "medicine, drug", level: "TOPIK 1", category: "medical", source: "[[ko-medical-vocabulary]]" }
-- { id: ko_med_031, display: "한약 (韓藥, hanyak)", input: "한약", meaning: "Korean herbal medicine", level: "TOPIK 3", category: "medical", source: "[[ko-medical-vocabulary]]" }
-- { id: ko_med_032, display: "침 (針, chim)", input: "침", meaning: "acupuncture", level: "TOPIK 3", category: "medical", source: "[[ko-medical-vocabulary]]" }
-- { id: ko_med_033, display: "건강하다 (健康, geonganghada)", input: "건강하다", meaning: "to be healthy", level: "TOPIK 2", category: "medical", source: "[[ko-medical-vocabulary]]" }
+- { id: 'kr_medical_001', display: '병원 (byeongwon)', input: '병원 (byeongwon)', meaning: 'hospital, clinic', level: 'TOPIK 2-4', category: 'medical', source: '[[ko-medical-vocabulary]]' }
+- { id: 'kr_medical_002', display: '한의원 (hanuiwon)', input: '한의원 (hanuiwon)', meaning: 'Korean traditional medicine clinic (한의학)', level: 'TOPIK 2-4', category: 'medical', source: '[[ko-medical-vocabulary]]' }
+- { id: 'kr_medical_003', display: '약국 (yakguk)', input: '약국 (yakguk)', meaning: 'pharmacy, drugstore', level: 'TOPIK 2-4', category: 'medical', source: '[[ko-medical-vocabulary]]' }
+- { id: 'kr_medical_004', display: '의사 (uisa)', input: '의사 (uisa)', meaning: 'doctor, physician (western medicine)', level: 'TOPIK 2-4', category: 'medical', source: '[[ko-medical-vocabulary]]' }
+- { id: 'kr_medical_005', display: '간호사 (ganhosa)', input: '간호사 (ganhosa)', meaning: 'nurse', level: 'TOPIK 2-4', category: 'medical', source: '[[ko-medical-vocabulary]]' }
+- { id: 'kr_medical_006', display: '약사 (yaksa)', input: '약사 (yaksa)', meaning: 'pharmacist', level: 'TOPIK 2-4', category: 'medical', source: '[[ko-medical-vocabulary]]' }
+- { id: 'kr_medical_007', display: '한의사 (hanuisa)', input: '한의사 (hanuisa)', meaning: 'Korean medicine doctor (한의학)', level: 'TOPIK 2-4', category: 'medical', source: '[[ko-medical-vocabulary]]' }
+- { id: 'kr_medical_008', display: '내과 (naegwa)', input: '내과 (naegwa)', meaning: 'internal medicine', level: 'TOPIK 2-4', category: 'medical', source: '[[ko-medical-vocabulary]]' }
+- { id: 'kr_medical_009', display: '외과 (oegwa)', input: '외과 (oegwa)', meaning: 'surgery, surgical department', level: 'TOPIK 2-4', category: 'medical', source: '[[ko-medical-vocabulary]]' }
+- { id: 'kr_medical_010', display: '소아과 (soagwa)', input: '소아과 (soagwa)', meaning: 'pediatrics', level: 'TOPIK 2-4', category: 'medical', source: '[[ko-medical-vocabulary]]' }
+- { id: 'kr_medical_011', display: '산부인과 (sanbuingwa)', input: '산부인과 (sanbuingwa)', meaning: 'obstetrics and gynecology (OB/GYN)', level: 'TOPIK 2-4', category: 'medical', source: '[[ko-medical-vocabulary]]' }
+- { id: 'kr_medical_012', display: '이비인후과 (ibiinhugwa)', input: '이비인후과 (ibiinhugwa)', meaning: 'ENT (ear, nose, throat)', level: 'TOPIK 2-4', category: 'medical', source: '[[ko-medical-vocabulary]]' }
+- { id: 'kr_medical_013', display: '안과 (angwa)', input: '안과 (angwa)', meaning: 'ophthalmology, eye clinic', level: 'TOPIK 2-4', category: 'medical', source: '[[ko-medical-vocabulary]]' }
+- { id: 'kr_medical_014', display: '치과 (chigwa)', input: '치과 (chigwa)', meaning: 'dental clinic, dentistry', level: 'TOPIK 2-4', category: 'medical', source: '[[ko-medical-vocabulary]]' }
+- { id: 'kr_medical_015', display: '정형외과 (jeonghyeongoegwa)', input: '정형외과 (jeonghyeongoegwa)', meaning: 'orthopedics', level: 'TOPIK 2-4', category: 'medical', source: '[[ko-medical-vocabulary]]' }
+- { id: 'kr_medical_016', display: '피부과 (pibugwa)', input: '피부과 (pibugwa)', meaning: 'dermatology', level: 'TOPIK 2-4', category: 'medical', source: '[[ko-medical-vocabulary]]' }
+- { id: 'kr_medical_017', display: '정신과 (jeongsingwa)', input: '정신과 (jeongsingwa)', meaning: 'psychiatry', level: 'TOPIK 2-4', category: 'medical', source: '[[ko-medical-vocabulary]]' }
+- { id: 'kr_medical_018', display: '아프다 (apeuda)', input: '아프다 (apeuda)', meaning: 'to be sick, to hurt, to be painful', level: 'TOPIK 2-4', category: 'medical', source: '[[ko-medical-vocabulary]]' }
+- { id: 'kr_medical_019', display: '열 (yeol)', input: '열 (yeol)', meaning: 'fever, temperature', level: 'TOPIK 2-4', category: 'medical', source: '[[ko-medical-vocabulary]]' }
+- { id: 'kr_medical_020', display: '기침 (gichim)', input: '기침 (gichim)', meaning: 'cough, to cough', level: 'TOPIK 2-4', category: 'medical', source: '[[ko-medical-vocabulary]]' }
+- { id: 'kr_medical_021', display: '감기 (gamgi)', input: '감기 (gamgi)', meaning: 'cold (common cold), flu-like illness', level: 'TOPIK 2-4', category: 'medical', source: '[[ko-medical-vocabulary]]' }
+- { id: 'kr_medical_022', display: '두통 (dutung)', input: '두통 (dutung)', meaning: 'headache', level: 'TOPIK 2-4', category: 'medical', source: '[[ko-medical-vocabulary]]' }
+- { id: 'kr_medical_023', display: '구토 (guto)', input: '구토 (guto)', meaning: 'vomiting, to vomit', level: 'TOPIK 2-4', category: 'medical', source: '[[ko-medical-vocabulary]]' }
+- { id: 'kr_medical_024', display: '진단 (jindan)', input: '진단 (jindan)', meaning: 'diagnosis, to diagnose', level: 'TOPIK 2-4', category: 'medical', source: '[[ko-medical-vocabulary]]' }
+- { id: 'kr_medical_025', display: '수술 (susul)', input: '수술 (susul)', meaning: 'surgery, operation', level: 'TOPIK 2-4', category: 'medical', source: '[[ko-medical-vocabulary]]' }
+- { id: 'kr_medical_026', display: '주사 (jusa)', input: '주사 (jusa)', meaning: 'injection, shot', level: 'TOPIK 2-4', category: 'medical', source: '[[ko-medical-vocabulary]]' }
+- { id: 'kr_medical_027', display: '수액 (suaek)', input: '수액 (suaek)', meaning: 'IV drip, intravenous infusion', level: 'TOPIK 2-4', category: 'medical', source: '[[ko-medical-vocabulary]]' }
+- { id: 'kr_medical_028', display: '처방전 (cheobangjeon)', input: '처방전 (cheobangjeon)', meaning: 'prescription (paper)', level: 'TOPIK 2-4', category: 'medical', source: '[[ko-medical-vocabulary]]' }
+- { id: 'kr_medical_029', display: '입원 (ibwon)', input: '입원 (ibwon)', meaning: 'hospitalization, to be hospitalized', level: 'TOPIK 2-4', category: 'medical', source: '[[ko-medical-vocabulary]]' }
+- { id: 'kr_medical_030', display: '약 (yak)', input: '약 (yak)', meaning: 'medicine, drug', level: 'TOPIK 2-4', category: 'medical', source: '[[ko-medical-vocabulary]]' }
+- { id: 'kr_medical_031', display: '한약 (hanyak)', input: '한약 (hanyak)', meaning: 'Korean traditional medicine, herbal medicine', level: 'TOPIK 2-4', category: 'medical', source: '[[ko-medical-vocabulary]]' }
+- { id: 'kr_medical_032', display: '침 (chim)', input: '침 (chim)', meaning: 'acupuncture', level: 'TOPIK 2-4', category: 'medical', source: '[[ko-medical-vocabulary]]' }
+- { id: 'kr_medical_033', display: '건강하다 (geonganghada)', input: '건강하다 (geonganghada)', meaning: 'to be healthy', level: 'TOPIK 2-4', category: 'medical', source: '[[ko-medical-vocabulary]]' }
 ```

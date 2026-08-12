@@ -297,14 +297,14 @@ Spanish health 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: es_health_001, display: "hospital", input: "hospital", meaning: "병원", level: "A1", category: "health", source: "[[health-vocabulary]]" }
-- { id: es_health_002, display: "médico", input: "médico", meaning: "의사", level: "A1", category: "health", source: "[[health-vocabulary]]" }
-- { id: es_health_003, display: "medicina", input: "medicina", meaning: "약", level: "A1", category: "health", source: "[[health-vocabulary]]" }
-- { id: es_health_004, display: "dolor de cabeza", input: "dolor de cabeza", meaning: "두통", level: "A2", category: "health", source: "[[health-vocabulary]]" }
-- { id: es_health_005, display: "fiebre", input: "fiebre", meaning: "열", level: "A2", category: "health", source: "[[health-vocabulary]]" }
-- { id: es_health_006, display: "resfriado", input: "resfriado", meaning: "감기", level: "A1", category: "health", source: "[[health-vocabulary]]" }
-- { id: es_health_007, display: "cabeza", input: "cabeza", meaning: "머리", level: "A1", category: "health", source: "[[health-vocabulary]]" }
-- { id: es_health_008, display: "estómago", input: "estómago", meaning: "위", level: "A1", category: "health", source: "[[health-vocabulary]]" }
-- { id: es_health_009, display: "farmacia", input: "farmacia", meaning: "약국", level: "A2", category: "health", source: "[[health-vocabulary]]" }
-- { id: es_health_010, display: "cita", input: "cita", meaning: "예약", level: "A2", category: "health", source: "[[health-vocabulary]]" }
+- { id: 'es_health_001', display: 'hospital', input: 'hospital', meaning: '병원', level: 'A1', category: 'health', source: '[[health-vocabulary]]' }
+- { id: 'es_health_002', display: 'médico', input: 'médico', meaning: '의사', level: 'A1', category: 'health', source: '[[health-vocabulary]]' }
+- { id: 'es_health_003', display: 'medicina', input: 'medicina', meaning: '약', level: 'A1', category: 'health', source: '[[health-vocabulary]]' }
+- { id: 'es_health_004', display: 'dolor de cabeza', input: 'dolor de cabeza', meaning: '두통', level: 'A2', category: 'health', source: '[[health-vocabulary]]' }
+- { id: 'es_health_005', display: 'fiebre', input: 'fiebre', meaning: '열', level: 'A2', category: 'health', source: '[[health-vocabulary]]' }
+- { id: 'es_health_006', display: 'resfriado', input: 'resfriado', meaning: '감기', level: 'A1', category: 'health', source: '[[health-vocabulary]]' }
+- { id: 'es_health_007', display: 'cabeza', input: 'cabeza', meaning: '머리', level: 'A1', category: 'health', source: '[[health-vocabulary]]' }
+- { id: 'es_health_008', display: 'estómago', input: 'estómago', meaning: '위', level: 'A1', category: 'health', source: '[[health-vocabulary]]' }
+- { id: 'es_health_009', display: 'farmacia', input: 'farmacia', meaning: '약국', level: 'A2', category: 'health', source: '[[health-vocabulary]]' }
+- { id: 'es_health_010', display: 'cita', input: 'cita', meaning: '예약', level: 'A2', category: 'health', source: '[[health-vocabulary]]' }
 ```

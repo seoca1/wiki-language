@@ -40,6 +40,6 @@ Vocabulary extracted from .openclaw card_news archive slot [2]. Each entry is ge
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: es_gustar_verb_001, display: "encantar", input: "encantar", meaning: "", level: "A1-B1", category: "gustar-verb", source: "[[gustar-verb-grammar]]" }
-- { id: es_gustar_verb_002, display: "interesar", input: "interesar", meaning: "", level: "A1-B1", category: "gustar-verb", source: "[[gustar-verb-grammar]]" }
+- { id: 'es_gustar_verb_001', display: 'encantar', input: 'encantar', meaning: '', level: 'A1-B1', category: 'gustar-verb', source: '[[gustar-verb-grammar]]' }
+- { id: 'es_gustar_verb_002', display: 'interesar', input: 'interesar', meaning: '', level: 'A1-B1', category: 'gustar-verb', source: '[[gustar-verb-grammar]]' }
 ```

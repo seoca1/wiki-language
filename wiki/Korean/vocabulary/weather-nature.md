@@ -546,27 +546,27 @@ See also: `[[food-vocabulary]]`, `[[emotions-personality-vocabulary]]`, `[[busin
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: kr_weather_nature_001, display: "기본 날씨 (Basic Weather)", input: "기본 날씨 (Basic Weather)", meaning: "", level: "A1-B1", category: "weather-nature", source: "[[weather-nature]]" }
-- { id: kr_weather_nature_002, display: "날씨 상태 (Weather Conditions)", input: "날씨 상태 (Weather Conditions)", meaning: "", level: "A1-B1", category: "weather-nature", source: "[[weather-nature]]" }
-- { id: kr_weather_nature_003, display: "강수량 (Precipitation)", input: "강수량 (Precipitation)", meaning: "", level: "A1-B1", category: "weather-nature", source: "[[weather-nature]]" }
-- { id: kr_weather_nature_004, display: "바람 (Wind)", input: "바람 (Wind)", meaning: "", level: "A1-B1", category: "weather-nature", source: "[[weather-nature]]" }
-- { id: kr_weather_nature_005, display: "날씨 동사 (Weather Verbs)", input: "날씨 동사 (Weather Verbs)", meaning: "", level: "A1-B1", category: "weather-nature", source: "[[weather-nature]]" }
-- { id: kr_weather_nature_006, display: "날씨 명사 (Weather Nouns)", input: "날씨 명사 (Weather Nouns)", meaning: "", level: "A1-B1", category: "weather-nature", source: "[[weather-nature]]" }
-- { id: kr_weather_nature_007, display: "봄 (Spring)", input: "봄 (Spring)", meaning: "", level: "A1-B1", category: "weather-nature", source: "[[weather-nature]]" }
-- { id: kr_weather_nature_008, display: "여름 (Summer)", input: "여름 (Summer)", meaning: "", level: "A1-B1", category: "weather-nature", source: "[[weather-nature]]" }
-- { id: kr_weather_nature_009, display: "가을 (Autumn)", input: "가을 (Autumn)", meaning: "", level: "A1-B1", category: "weather-nature", source: "[[weather-nature]]" }
-- { id: kr_weather_nature_010, display: "겨울 (Winter)", input: "겨울 (Winter)", meaning: "", level: "A1-B1", category: "weather-nature", source: "[[weather-nature]]" }
-- { id: kr_weather_nature_011, display: "일출/일몰 (Sunrise/Sunset)", input: "일출/일몰 (Sunrise/Sunset)", meaning: "", level: "A1-B1", category: "weather-nature", source: "[[weather-nature]]" }
-- { id: kr_weather_nature_012, display: "달 (Moon)", input: "달 (Moon)", meaning: "", level: "A1-B1", category: "weather-nature", source: "[[weather-nature]]" }
-- { id: kr_weather_nature_013, display: "별 (Stars)", input: "별 (Stars)", meaning: "", level: "A1-B1", category: "weather-nature", source: "[[weather-nature]]" }
-- { id: kr_weather_nature_014, display: "천체 (Celestial Bodies)", input: "천체 (Celestial Bodies)", meaning: "", level: "A1-B1", category: "weather-nature", source: "[[weather-nature]]" }
-- { id: kr_weather_nature_015, display: "산과 들 (Mountains and Fields)", input: "산과 들 (Mountains and Fields)", meaning: "", level: "A1-B1", category: "weather-nature", source: "[[weather-nature]]" }
-- { id: kr_weather_nature_016, display: "물 (Water)", input: "물 (Water)", meaning: "", level: "A1-B1", category: "weather-nature", source: "[[weather-nature]]" }
-- { id: kr_weather_nature_017, display: "나무와 숲 (Trees and Forest)", input: "나무와 숲 (Trees and Forest)", meaning: "", level: "A1-B1", category: "weather-nature", source: "[[weather-nature]]" }
-- { id: kr_weather_nature_018, display: "동물 (Animals - Common)", input: "동물 (Animals - Common)", meaning: "", level: "A1-B1", category: "weather-nature", source: "[[weather-nature]]" }
-- { id: kr_weather_nature_019, display: "상태 표현 (State Expressions)", input: "상태 표현 (State Expressions)", meaning: "", level: "A1-B1", category: "weather-nature", source: "[[weather-nature]]" }
-- { id: kr_weather_nature_020, display: "감상 표현 (Feeling Expressions)", input: "감상 표현 (Feeling Expressions)", meaning: "", level: "A1-B1", category: "weather-nature", source: "[[weather-nature]]" }
-- { id: kr_weather_nature_021, display: "계절 관련 (Seasonal)", input: "계절 관련 (Seasonal)", meaning: "", level: "A1-B1", category: "weather-nature", source: "[[weather-nature]]" }
-- { id: kr_weather_nature_022, display: "날씨 도구 (Weather Tools)", input: "날씨 도구 (Weather Tools)", meaning: "", level: "A1-B1", category: "weather-nature", source: "[[weather-nature]]" }
-- { id: kr_weather_nature_023, display: "날씨 표현 동사 (Weather Verbs)", input: "날씨 표현 동사 (Weather Verbs)", meaning: "", level: "A1-B1", category: "weather-nature", source: "[[weather-nature]]" }
+- { id: 'kr_nature_001', display: '기본 날씨 (Basic Weather)', input: '기본 날씨 (Basic Weather)', meaning: '', level: 'A1-B1', category: 'weather-nature', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_002', display: '날씨 상태 (Weather Conditions)', input: '날씨 상태 (Weather Conditions)', meaning: '', level: 'A1-B1', category: 'weather-nature', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_003', display: '강수량 (Precipitation)', input: '강수량 (Precipitation)', meaning: '', level: 'A1-B1', category: 'weather-nature', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_004', display: '바람 (Wind)', input: '바람 (Wind)', meaning: '', level: 'A1-B1', category: 'weather-nature', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_005', display: '날씨 동사 (Weather Verbs)', input: '날씨 동사 (Weather Verbs)', meaning: '', level: 'A1-B1', category: 'weather-nature', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_006', display: '날씨 명사 (Weather Nouns)', input: '날씨 명사 (Weather Nouns)', meaning: '', level: 'A1-B1', category: 'weather-nature', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_007', display: '봄 (Spring)', input: '봄 (Spring)', meaning: '', level: 'A1-B1', category: 'weather-nature', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_008', display: '여름 (Summer)', input: '여름 (Summer)', meaning: '', level: 'A1-B1', category: 'weather-nature', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_009', display: '가을 (Autumn)', input: '가을 (Autumn)', meaning: '', level: 'A1-B1', category: 'weather-nature', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_010', display: '겨울 (Winter)', input: '겨울 (Winter)', meaning: '', level: 'A1-B1', category: 'weather-nature', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_011', display: '일출/일몰 (Sunrise/Sunset)', input: '일출/일몰 (Sunrise/Sunset)', meaning: '', level: 'A1-B1', category: 'weather-nature', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_012', display: '달 (Moon)', input: '달 (Moon)', meaning: '', level: 'A1-B1', category: 'weather-nature', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_013', display: '별 (Stars)', input: '별 (Stars)', meaning: '', level: 'A1-B1', category: 'weather-nature', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_014', display: '천체 (Celestial Bodies)', input: '천체 (Celestial Bodies)', meaning: '', level: 'A1-B1', category: 'weather-nature', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_015', display: '산과 들 (Mountains and Fields)', input: '산과 들 (Mountains and Fields)', meaning: '', level: 'A1-B1', category: 'weather-nature', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_016', display: '물 (Water)', input: '물 (Water)', meaning: '', level: 'A1-B1', category: 'weather-nature', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_017', display: '나무와 숲 (Trees and Forest)', input: '나무와 숲 (Trees and Forest)', meaning: '', level: 'A1-B1', category: 'weather-nature', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_018', display: '동물 (Animals - Common)', input: '동물 (Animals - Common)', meaning: '', level: 'A1-B1', category: 'weather-nature', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_019', display: '상태 표현 (State Expressions)', input: '상태 표현 (State Expressions)', meaning: '', level: 'A1-B1', category: 'weather-nature', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_020', display: '감상 표현 (Feeling Expressions)', input: '감상 표현 (Feeling Expressions)', meaning: '', level: 'A1-B1', category: 'weather-nature', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_021', display: '계절 관련 (Seasonal)', input: '계절 관련 (Seasonal)', meaning: '', level: 'A1-B1', category: 'weather-nature', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_022', display: '날씨 도구 (Weather Tools)', input: '날씨 도구 (Weather Tools)', meaning: '', level: 'A1-B1', category: 'weather-nature', source: '[[nature-vocabulary]]' }
+- { id: 'kr_nature_023', display: '날씨 표현 동사 (Weather Verbs)', input: '날씨 표현 동사 (Weather Verbs)', meaning: '', level: 'A1-B1', category: 'weather-nature', source: '[[nature-vocabulary]]' }
 ```

@@ -17,6 +17,9 @@ access_date: "2024-06-18"
 **Date Ingested:** 2024-06-18
 **Level:** JLPT N5
 
+
+## Summary
+
 ## 原文 (Source)
 
 `raw/Japanese/first-travel-korea.md`

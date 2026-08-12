@@ -10,6 +10,9 @@ language_level: "TOPIK 2-3"
 **Theme:** 비즈니스
 **Level:** TOPIK 2-3
 
+
+## Summary
+
 한국어 비즈니스 어휘: 이메일/서신, 회의/미팅, 프레젠테이션, 직장/업무, 숫자/계약, 전화/커뮤니케이션, 비즈니스 표현. 출처: 국립국어원 표준국어대사전, TOPIK 2~3급 어휘 목록.
 
 ## Vocabulary Extracted

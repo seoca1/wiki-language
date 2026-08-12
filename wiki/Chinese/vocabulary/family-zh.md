@@ -846,15 +846,41 @@ theme: "family"
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: zh_family_001, display: "爸爸 (bàba)", input: "爸爸 (bàba)", meaning: "아빠", level: "HSK 1-2", category: "family-zh", source: "[[family-zh]]" }
-- { id: zh_family_002, display: "妈妈 (māma)", input: "妈妈 (māma)", meaning: "엄마", level: "HSK 1-2", category: "family-zh", source: "[[family-zh]]" }
-- { id: zh_family_003, display: "哥哥 (gēge)", input: "哥哥 (gēge)", meaning: "형/오빠", level: "HSK 1-2", category: "family-zh", source: "[[family-zh]]" }
-- { id: zh_family_004, display: "姐姐 (jiějie)", input: "姐姐 (jiějie)", meaning: "누나/언니", level: "HSK 1-2", category: "family-zh", source: "[[family-zh]]" }
-- { id: zh_family_005, display: "弟弟 (dìdi)", input: "弟弟 (dìdi)", meaning: "남동생", level: "HSK 1-2", category: "family-zh", source: "[[family-zh]]" }
-- { id: zh_family_006, display: "妹妹 (mèimei)", input: "妹妹 (mèimei)", meaning: "여동생", level: "HSK 1-2", category: "family-zh", source: "[[family-zh]]" }
-- { id: zh_family_007, display: "爷爷 (yéye)", input: "爷爷 (yéye)", meaning: "할아버지 (친 paternal)", level: "HSK 1-2", category: "family-zh", source: "[[family-zh]]" }
-- { id: zh_family_008, display: "奶奶 (nǎinai)", input: "奶奶 (nǎinai)", meaning: "할머니 (친 paternal)", level: "HSK 1-2", category: "family-zh", source: "[[family-zh]]" }
-- { id: zh_family_009, display: "儿子 (érzi)", input: "儿子 (érzi)", meaning: "아들", level: "HSK 1-2", category: "family-zh", source: "[[family-zh]]" }
-- { id: zh_family_010, display: "女儿 (nǚ'ér)", input: "女儿 (nǚ'ér)", meaning: "딸", level: "HSK 1-2", category: "family-zh", source: "[[family-zh]]" }
-- { id: zh_family_011, display: "老公 (lǎogōng)", input: "老公 (lǎogōng)", meaning: "남편 (구어)", level: "HSK 1-2", category: "family-zh", source: "[[family-zh]]" }
+- { id: 'zh_family_001', display: '爸爸 (bàba)', input: '爸爸 (bàba)', meaning: '아빠', level: 'HSK 1-2', category: 'family-zh', source: '[[family-zh]]' }
+- { id: 'zh_family_002', display: '妈妈 (māma)', input: '妈妈 (māma)', meaning: '엄마', level: 'HSK 1-2', category: 'family-zh', source: '[[family-zh]]' }
+- { id: 'zh_family_003', display: '父亲 (fùqīn)', input: '父亲 (fùqīn)', meaning: '', level: 'HSK 1-2', category: 'family', source: '[[family-zh]]' }
+- { id: 'zh_family_004', display: '母亲 (mǔqīn)', input: '母亲 (mǔqīn)', meaning: '', level: 'HSK 1-2', category: 'family', source: '[[family-zh]]' }
+- { id: 'zh_family_005', display: '老公 (lǎogōng)', input: '老公 (lǎogōng)', meaning: '남편 (구어)', level: 'HSK 1-2', category: 'family-zh', source: '[[family-zh]]' }
+- { id: 'zh_family_006', display: '老婆 (lǎopó)', input: '老婆 (lǎopó)', meaning: '', level: 'HSK 1-2', category: 'family', source: '[[family-zh]]' }
+- { id: 'zh_family_007', display: '丈夫 (zhàngfu)', input: '丈夫 (zhàngfu)', meaning: '', level: 'HSK 1-2', category: 'family', source: '[[family-zh]]' }
+- { id: 'zh_family_008', display: '妻子 (qīzi)', input: '妻子 (qīzi)', meaning: '', level: 'HSK 1-2', category: 'family', source: '[[family-zh]]' }
+- { id: 'zh_family_009', display: '儿子 (érzi)', input: '儿子 (érzi)', meaning: '아들', level: 'HSK 1-2', category: 'family-zh', source: '[[family-zh]]' }
+- { id: 'zh_family_010', display: '女儿 (nǚ''ér)', input: '女儿 (nǚ''ér)', meaning: '딸', level: 'HSK 1-2', category: 'family-zh', source: '[[family-zh]]' }
+- { id: 'zh_family_011', display: '哥哥 (gēge)', input: '哥哥 (gēge)', meaning: '형/오빠', level: 'HSK 1-2', category: 'family-zh', source: '[[family-zh]]' }
+- { id: 'zh_family_012', display: '姐姐 (jiějie)', input: '姐姐 (jiějie)', meaning: '누나/언니', level: 'HSK 1-2', category: 'family-zh', source: '[[family-zh]]' }
+- { id: 'zh_family_013', display: '弟弟 (dìdi)', input: '弟弟 (dìdi)', meaning: '남동생', level: 'HSK 1-2', category: 'family-zh', source: '[[family-zh]]' }
+- { id: 'zh_family_014', display: '妹妹 (mèimei)', input: '妹妹 (mèimei)', meaning: '여동생', level: 'HSK 1-2', category: 'family-zh', source: '[[family-zh]]' }
+- { id: 'zh_family_015', display: '爷爷 (yéye)', input: '爷爷 (yéye)', meaning: '할아버지 (친 paternal)', level: 'HSK 1-2', category: 'family-zh', source: '[[family-zh]]' }
+- { id: 'zh_family_016', display: '奶奶 (nǎinai)', input: '奶奶 (nǎinai)', meaning: '할머니 (친 paternal)', level: 'HSK 1-2', category: 'family-zh', source: '[[family-zh]]' }
+- { id: 'zh_family_017', display: '外公 (wàigōng)', input: '外公 (wàigōng)', meaning: '', level: 'HSK 1-2', category: 'family', source: '[[family-zh]]' }
+- { id: 'zh_family_018', display: '外婆 (wàipó)', input: '外婆 (wàipó)', meaning: '', level: 'HSK 1-2', category: 'family', source: '[[family-zh]]' }
+- { id: 'zh_family_019', display: '叔叔 (shūshu)', input: '叔叔 (shūshu)', meaning: '', level: 'HSK 1-2', category: 'family', source: '[[family-zh]]' }
+- { id: 'zh_family_020', display: '阿姨 (āyí)', input: '阿姨 (āyí)', meaning: '', level: 'HSK 1-2', category: 'family', source: '[[family-zh]]' }
+- { id: 'zh_family_021', display: '堂哥/表哥 (táng gē / biǎo gē)', input: '堂哥/表哥 (táng gē / biǎo gē)', meaning: '', level: 'HSK 1-2', category: 'family', source: '[[family-zh]]' }
+- { id: 'zh_family_022', display: '堂姐/表姐 (táng jiě / biǎo jiě)', input: '堂姐/表姐 (táng jiě / biǎo jiě)', meaning: '', level: 'HSK 1-2', category: 'family', source: '[[family-zh]]' }
+- { id: 'zh_family_023', display: '堂弟/表弟 (táng dì / biǎo dì)', input: '堂弟/表弟 (táng dì / biǎo dì)', meaning: '', level: 'HSK 1-2', category: 'family', source: '[[family-zh]]' }
+- { id: 'zh_family_024', display: '堂妹/表妹 (táng mèi / biǎo mèi)', input: '堂妹/表妹 (táng mèi / biǎo mèi)', meaning: '', level: 'HSK 1-2', category: 'family', source: '[[family-zh]]' }
+- { id: 'zh_family_025', display: '舅舅 (jiùjiu)', input: '舅舅 (jiùjiu)', meaning: '', level: 'HSK 1-2', category: 'family', source: '[[family-zh]]' }
+- { id: 'zh_family_026', display: '姨夫/姑父 (yí fū / gū fù)', input: '姨夫/姑父 (yí fū / gū fù)', meaning: '', level: 'HSK 1-2', category: 'family', source: '[[family-zh]]' }
+- { id: 'zh_family_027', display: '孙子/外孙 (sūn zi / wài sūn)', input: '孙子/外孙 (sūn zi / wài sūn)', meaning: '', level: 'HSK 1-2', category: 'family', source: '[[family-zh]]' }
+- { id: 'zh_family_028', display: '孙女/外孙女 (sūn nǚ / wài sūn nǚ)', input: '孙女/外孙女 (sūn nǚ / wài sūn nǚ)', meaning: '', level: 'HSK 1-2', category: 'family', source: '[[family-zh]]' }
+- { id: 'zh_family_029', display: '1. 친/외가 완전 분리 (Paternal vs Maternal Complete Separation)', input: '1. 친/외가 완전 분리 (Paternal vs Maternal Complete Separation)', meaning: '', level: 'HSK 1-2', category: 'family', source: '[[family-zh]]' }
+- { id: 'zh_family_030', display: '2. 형제자매 호칭 — 성별 + 연령 모두 표시', input: '2. 형제자매 호칭 — 성별 + 연령 모두 표시', meaning: '', level: 'HSK 1-2', category: 'family', source: '[[family-zh]]' }
+- { id: 'zh_family_031', display: '3. 격식/구어 호칭 구분 (Register Distinction)', input: '3. 격식/구어 호칭 구분 (Register Distinction)', meaning: '', level: 'HSK 1-2', category: 'family', source: '[[family-zh]]' }
+- { id: 'zh_family_032', display: '3. 사촌 호칭 — 친가(堂) vs 외가(表) 접두사', input: '3. 사촌 호칭 — 친가(堂) vs 외가(表) 접두사', meaning: '', level: 'HSK 1-2', category: 'family', source: '[[family-zh]]' }
+- { id: 'zh_family_033', display: '가족 소개 (Introducing Family)', input: '가족 소개 (Introducing Family)', meaning: '', level: 'HSK 1-2', category: 'family', source: '[[family-zh]]' }
+- { id: 'zh_family_034', display: '나이 묻기/말하기', input: '나이 묻기/말하기', meaning: '', level: 'HSK 1-2', category: 'family', source: '[[family-zh]]' }
+- { id: 'zh_family_035', display: '호칭 사용', input: '호칭 사용', meaning: '', level: 'HSK 1-2', category: 'family', source: '[[family-zh]]' }
+- { id: 'zh_family_036', display: '반드시 암기해야 할 친/외 쌍 (Must-Memorize Paternal/Maternal Pairs)', input: '반드시 암기해야 할 친/외 쌍 (Must-Memorize Paternal/Maternal Pairs)', meaning: '', level: 'HSK 1-2', category: 'family', source: '[[family-zh]]' }
+- { id: 'zh_family_037', display: '발음 주의 (Pronunciation Alerts)', input: '발음 주의 (Pronunciation Alerts)', meaning: '', level: 'HSK 1-2', category: 'family', source: '[[family-zh]]' }
 ```

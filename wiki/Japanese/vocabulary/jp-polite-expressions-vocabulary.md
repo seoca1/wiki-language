@@ -443,23 +443,23 @@ level: "JLPT N4-N3"
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/jp_words.md`).
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: jp_polite_001, display: "お願いします", input: "onegai shimasu", meaning: "please, best regards", level: "JLPT N5", category: "jp-polite-expressions-vocabulary", source: "[[jp-polite-expressions-vocabulary]]" }
-- { id: jp_polite_002, display: "すみません", input: "sumimasen", meaning: "excuse me, sorry", level: "JLPT N5", category: "jp-polite-expressions-vocabulary", source: "[[jp-polite-expressions-vocabulary]]" }
-- { id: jp_polite_003, display: "申し訳ございません", input: "moushiwake gozaimasen", meaning: "I'm very sorry (formal)", level: "JLPT N4", category: "jp-polite-expressions-vocabulary", source: "[[jp-polite-expressions-vocabulary]]" }
-- { id: jp_polite_004, display: "恐れ入ります", input: "osoreirimasu", meaning: "sorry to trouble you", level: "JLPT N3", category: "jp-polite-expressions-vocabulary", source: "[[jp-polite-expressions-vocabulary]]" }
-- { id: jp_polite_005, display: "お疲れ様です", input: "otsukaresama desu", meaning: "thanks for your hard work", level: "JLPT N4", category: "jp-polite-expressions-vocabulary", source: "[[jp-polite-expressions-vocabulary]]" }
-- { id: jp_polite_006, display: "お世話になっております", input: "osewa ni natte orimasu", meaning: "thank you for your continued support", level: "JLPT N4", category: "jp-polite-expressions-vocabulary", source: "[[jp-polite-expressions-vocabulary]]" }
-- { id: jp_polite_007, display: "よろしくお願いします", input: "yoroshiku onegai shimasu", meaning: "please, best regards", level: "JLPT N5", category: "jp-polite-expressions-vocabulary", source: "[[jp-polite-expressions-vocabulary]]" }
-- { id: jp_polite_008, display: "失礼します", input: "shitsurei shimasu", meaning: "excuse me (leaving/interrupting)", level: "JLPT N4", category: "jp-polite-expressions-vocabulary", source: "[[jp-polite-expressions-vocabulary]]" }
-- { id: jp_polite_009, display: "承知しました", input: "shouchi shimashita", meaning: "understood (humble)", level: "JLPT N4", category: "jp-polite-expressions-vocabulary", source: "[[jp-polite-expressions-vocabulary]]" }
-- { id: jp_polite_010, display: "お邪魔します", input: "ojama shimasu", meaning: "sorry for the intrusion", level: "JLPT N4", category: "jp-polite-expressions-vocabulary", source: "[[jp-polite-expressions-vocabulary]]" }
-- { id: jp_polite_011, display: "少々お待ちください", input: "shoushou omachi kudasai", meaning: "please wait a moment", level: "JLPT N4", category: "jp-polite-expressions-vocabulary", source: "[[jp-polite-expressions-vocabulary]]" }
-- { id: jp_polite_012, display: "お越しいただきありがとうございます", input: "okoshi itadaki arigatou gozaimasu", meaning: "thank you for coming", level: "JLPT N3", category: "jp-polite-expressions-vocabulary", source: "[[jp-polite-expressions-vocabulary]]" }
-- { id: jp_polite_013, display: "いただきます", input: "itadakimasu", meaning: "said before eating", level: "JLPT N5", category: "jp-polite-expressions-vocabulary", source: "[[jp-polite-expressions-vocabulary]]" }
-- { id: jp_polite_014, display: "ごちそうさまでした", input: "gochisousama deshita", meaning: "said after eating", level: "JLPT N5", category: "jp-polite-expressions-vocabulary", source: "[[jp-polite-expressions-vocabulary]]" }
+- { id: 'jp_jp_polite_expressions_vocabulary_001', display: 'お願いします', input: 'お願いします', meaning: 'please, best regards', level: 'JLPT N5', category: 'jp-polite-expressions-vocabulary', source: '[[jp-polite-expressions-vocabulary]]' }
+- { id: 'jp_jp_polite_expressions_vocabulary_002', display: 'すみません', input: 'すみません', meaning: 'excuse me, sorry', level: 'JLPT N5', category: 'jp-polite-expressions-vocabulary', source: '[[jp-polite-expressions-vocabulary]]' }
+- { id: 'jp_jp_polite_expressions_vocabulary_003', display: '申し訳ございません', input: '申し訳ございません', meaning: 'I''m very sorry (formal)', level: 'JLPT N4', category: 'jp-polite-expressions-vocabulary', source: '[[jp-polite-expressions-vocabulary]]' }
+- { id: 'jp_jp_polite_expressions_vocabulary_004', display: '恐れ入ります', input: '恐れ入ります', meaning: 'sorry to trouble you', level: 'JLPT N3', category: 'jp-polite-expressions-vocabulary', source: '[[jp-polite-expressions-vocabulary]]' }
+- { id: 'jp_jp_polite_expressions_vocabulary_005', display: 'お疲れ様です', input: 'お疲れ様です', meaning: 'thanks for your hard work', level: 'JLPT N4', category: 'jp-polite-expressions-vocabulary', source: '[[jp-polite-expressions-vocabulary]]' }
+- { id: 'jp_jp_polite_expressions_vocabulary_006', display: 'お世話になっております', input: 'お世話になっております', meaning: 'thank you for your continued support', level: 'JLPT N4', category: 'jp-polite-expressions-vocabulary', source: '[[jp-polite-expressions-vocabulary]]' }
+- { id: 'jp_jp_polite_expressions_vocabulary_007', display: 'よろしくお願いします', input: 'よろしくお願いします', meaning: 'please, best regards', level: 'JLPT N5', category: 'jp-polite-expressions-vocabulary', source: '[[jp-polite-expressions-vocabulary]]' }
+- { id: 'jp_jp_polite_expressions_vocabulary_008', display: '失礼します', input: '失礼します', meaning: 'excuse me (leaving/interrupting)', level: 'JLPT N4', category: 'jp-polite-expressions-vocabulary', source: '[[jp-polite-expressions-vocabulary]]' }
+- { id: 'jp_jp_polite_expressions_vocabulary_009', display: '承知しました', input: '承知しました', meaning: 'understood (humble)', level: 'JLPT N4', category: 'jp-polite-expressions-vocabulary', source: '[[jp-polite-expressions-vocabulary]]' }
+- { id: 'jp_jp_polite_expressions_vocabulary_010', display: 'お邪魔します', input: 'お邪魔します', meaning: 'sorry for the intrusion', level: 'JLPT N4', category: 'jp-polite-expressions-vocabulary', source: '[[jp-polite-expressions-vocabulary]]' }
+- { id: 'jp_jp_polite_expressions_vocabulary_011', display: '少々お待ちください', input: '少々お待ちください', meaning: 'please wait a moment', level: 'JLPT N4', category: 'jp-polite-expressions-vocabulary', source: '[[jp-polite-expressions-vocabulary]]' }
+- { id: 'jp_jp_polite_expressions_vocabulary_012', display: 'お越しいただきありがとうございます', input: 'お越しいただきありがとうございます', meaning: 'thank you for coming', level: 'JLPT N3', category: 'jp-polite-expressions-vocabulary', source: '[[jp-polite-expressions-vocabulary]]' }
+- { id: 'jp_jp_polite_expressions_vocabulary_013', display: 'いただきます', input: 'いただきます', meaning: 'said before eating', level: 'JLPT N5', category: 'jp-polite-expressions-vocabulary', source: '[[jp-polite-expressions-vocabulary]]' }
+- { id: 'jp_jp_polite_expressions_vocabulary_014', display: 'ごちそうさまでした', input: 'ごちそうさまでした', meaning: 'said after eating', level: 'JLPT N5', category: 'jp-polite-expressions-vocabulary', source: '[[jp-polite-expressions-vocabulary]]' }
 ```

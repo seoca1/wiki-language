@@ -297,14 +297,14 @@ Korean months 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: kr_months_001, display: "일월 (一月, irwol)", input: "일월 (一月, irwol)", meaning: "January", level: "TOPIK 1", category: "months", source: "[[months-vocabulary]]" }
-- { id: kr_months_002, display: "이월 (二月, iwol)", input: "이월 (二月, iwol)", meaning: "February", level: "TOPIK 1", category: "months", source: "[[months-vocabulary]]" }
-- { id: kr_months_003, display: "삼월 (三月, samwol)", input: "삼월 (三月, samwol)", meaning: "March", level: "TOPIK 1", category: "months", source: "[[months-vocabulary]]" }
-- { id: kr_months_004, display: "사월 (四月, sawol)", input: "사월 (四月, sawol)", meaning: "April", level: "TOPIK 1", category: "months", source: "[[months-vocabulary]]" }
-- { id: kr_months_005, display: "오월 (五月, owol)", input: "오월 (五月, owol)", meaning: "May", level: "TOPIK 1", category: "months", source: "[[months-vocabulary]]" }
-- { id: kr_months_006, display: "유월 (六月, yuwol)", input: "유월 (六月, yuwol)", meaning: "June", level: "TOPIK 1", category: "months", source: "[[months-vocabulary]]" }
-- { id: kr_months_007, display: "칠월 (七月, chirwol)", input: "칠월 (七月, chirwol)", meaning: "July", level: "TOPIK 1", category: "months", source: "[[months-vocabulary]]" }
-- { id: kr_months_008, display: "팔월 (八月, palwol)", input: "팔월 (八月, palwol)", meaning: "August", level: "TOPIK 1", category: "months", source: "[[months-vocabulary]]" }
-- { id: kr_months_009, display: "구월 (九月, guwol)", input: "구월 (九月, guwol)", meaning: "September", level: "TOPIK 1", category: "months", source: "[[months-vocabulary]]" }
-- { id: kr_months_010, display: "시월 (十月, siwol)", input: "시월 (十月, siwol)", meaning: "October", level: "TOPIK 1", category: "months", source: "[[months-vocabulary]]" }
+- { id: 'kr_months_001', display: '일월 (一月, irwol)', input: '일월 (一月, irwol)', meaning: 'January', level: 'TOPIK 1', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'kr_months_002', display: '이월 (二月, iwol)', input: '이월 (二月, iwol)', meaning: 'February', level: 'TOPIK 1', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'kr_months_003', display: '삼월 (三月, samwol)', input: '삼월 (三月, samwol)', meaning: 'March', level: 'TOPIK 1', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'kr_months_004', display: '사월 (四月, sawol)', input: '사월 (四月, sawol)', meaning: 'April', level: 'TOPIK 1', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'kr_months_005', display: '오월 (五月, owol)', input: '오월 (五月, owol)', meaning: 'May', level: 'TOPIK 1', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'kr_months_006', display: '유월 (六月, yuwol)', input: '유월 (六月, yuwol)', meaning: 'June', level: 'TOPIK 1', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'kr_months_007', display: '칠월 (七月, chirwol)', input: '칠월 (七月, chirwol)', meaning: 'July', level: 'TOPIK 1', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'kr_months_008', display: '팔월 (八月, palwol)', input: '팔월 (八月, palwol)', meaning: 'August', level: 'TOPIK 1', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'kr_months_009', display: '구월 (九月, guwol)', input: '구월 (九月, guwol)', meaning: 'September', level: 'TOPIK 1', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'kr_months_010', display: '시월 (十月, siwol)', input: '시월 (十月, siwol)', meaning: 'October', level: 'TOPIK 1', category: 'months', source: '[[months-vocabulary]]' }
 ```

@@ -10,6 +10,9 @@ language_level: "JLPT N4-N5"
 **Theme:** 衣服・ファッション
 **Level:** JLPT N4-N5
 
+
+## Summary
+
 日本語衣服・ファッション語彙: 基本服, 素材, 色, 衣服関連動詞.
 
 ## Vocabulary Extracted

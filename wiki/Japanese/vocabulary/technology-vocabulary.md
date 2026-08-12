@@ -297,14 +297,14 @@ Japanese technology 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: jp_technology_001, display: "コンピュータ", input: "コンピュータ", meaning: "컴퓨터", level: "N5", category: "technology", source: "[[technology-vocabulary]]" }
-- { id: jp_technology_002, display: "電話 (でんわ)", input: "電話 (でんわ)", meaning: "전화", level: "N5", category: "technology", source: "[[technology-vocabulary]]" }
-- { id: jp_technology_003, display: "インターネット", input: "インターネット", meaning: "인터넷", level: "N5", category: "technology", source: "[[technology-vocabulary]]" }
-- { id: jp_technology_004, display: "メール", input: "メール", meaning: "이메일", level: "N5", category: "technology", source: "[[technology-vocabulary]]" }
-- { id: jp_technology_005, display: "ウェブサイト", input: "ウェブサイト", meaning: "웹사이트", level: "N5", category: "technology", source: "[[technology-vocabulary]]" }
-- { id: jp_technology_006, display: "アプリ", input: "アプリ", meaning: "앱", level: "N5", category: "technology", source: "[[technology-vocabulary]]" }
-- { id: jp_technology_007, display: "パスワード", input: "パスワード", meaning: "비밀번호", level: "N5", category: "technology", source: "[[technology-vocabulary]]" }
-- { id: jp_technology_008, display: "マウス", input: "マウス", meaning: "마우스", level: "N5", category: "technology", source: "[[technology-vocabulary]]" }
-- { id: jp_technology_009, display: "キーボード", input: "キーボード", meaning: "키보드", level: "N5", category: "technology", source: "[[technology-vocabulary]]" }
-- { id: jp_technology_010, display: "画面 (がめん)", input: "画面 (がめん)", meaning: "화면", level: "N5", category: "technology", source: "[[technology-vocabulary]]" }
+- { id: 'jp_technology_001', display: 'コンピュータ', input: 'コンピュータ', meaning: '컴퓨터', level: 'N5', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'jp_technology_002', display: '電話 (でんわ)', input: '電話 (でんわ)', meaning: '전화', level: 'N5', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'jp_technology_003', display: 'インターネット', input: 'インターネット', meaning: '인터넷', level: 'N5', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'jp_technology_004', display: 'メール', input: 'メール', meaning: '이메일', level: 'N5', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'jp_technology_005', display: 'ウェブサイト', input: 'ウェブサイト', meaning: '웹사이트', level: 'N5', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'jp_technology_006', display: 'アプリ', input: 'アプリ', meaning: '앱', level: 'N5', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'jp_technology_007', display: 'パスワード', input: 'パスワード', meaning: '비밀번호', level: 'N5', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'jp_technology_008', display: 'マウス', input: 'マウス', meaning: '마우스', level: 'N5', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'jp_technology_009', display: 'キーボード', input: 'キーボード', meaning: '키보드', level: 'N5', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'jp_technology_010', display: '画面 (がめん)', input: '画面 (がめん)', meaning: '화면', level: 'N5', category: 'technology', source: '[[technology-vocabulary]]' }
 ```

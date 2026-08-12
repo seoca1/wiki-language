@@ -297,14 +297,14 @@ Korean transportation 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: kr_transportation_001, display: "자동차 (自動車, jadongcha)", input: "자동차 (自動車, jadongcha)", meaning: "car", level: "TOPIK 1", category: "transportation", source: "[[transportation-vocabulary]]" }
-- { id: kr_transportation_002, display: "버스 (bus)", input: "버스 (bus)", meaning: "bus", level: "TOPIK 1", category: "transportation", source: "[[transportation-vocabulary]]" }
-- { id: kr_transportation_003, display: "기차 (汽車, gicha)", input: "기차 (汽車, gicha)", meaning: "train", level: "TOPIK 1", category: "transportation", source: "[[transportation-vocabulary]]" }
-- { id: kr_transportation_004, display: "비행기 (飛行機, bihaenggi)", input: "비행기 (飛行機, bihaenggi)", meaning: "airplane", level: "TOPIK 1", category: "transportation", source: "[[transportation-vocabulary]]" }
-- { id: kr_transportation_005, display: "배 (bae)", input: "배 (bae)", meaning: "ship", level: "TOPIK 2", category: "transportation", source: "[[transportation-vocabulary]]" }
-- { id: kr_transportation_006, display: "자전거 (自轉車, jageonjjae)", input: "자전거 (自轉車, jageonjjae)", meaning: "bicycle", level: "TOPIK 1", category: "transportation", source: "[[transportation-vocabulary]]" }
-- { id: kr_transportation_007, display: "택시 (taxi)", input: "택시 (taxi)", meaning: "taxi", level: "TOPIK 1", category: "transportation", source: "[[transportation-vocabulary]]" }
-- { id: kr_transportation_008, display: "지하철 (地下鐵, jihacheol)", input: "지하철 (地下鐵, jihacheol)", meaning: "subway", level: "TOPIK 1", category: "transportation", source: "[[transportation-vocabulary]]" }
-- { id: kr_transportation_009, display: "역 (驛, yeok)", input: "역 (驛, yeok)", meaning: "station", level: "TOPIK 1", category: "transportation", source: "[[transportation-vocabulary]]" }
-- { id: kr_transportation_010, display: "표 (票, pyo)", input: "표 (票, pyo)", meaning: "ticket", level: "TOPIK 1", category: "transportation", source: "[[transportation-vocabulary]]" }
+- { id: 'kr_transportation_001', display: '자동차 (自動車, jadongcha)', input: '자동차 (自動車, jadongcha)', meaning: 'car', level: 'TOPIK 1', category: 'transportation', source: '[[transportation-vocabulary]]' }
+- { id: 'kr_transportation_002', display: '버스 (bus)', input: '버스 (bus)', meaning: 'bus', level: 'TOPIK 1', category: 'transportation', source: '[[transportation-vocabulary]]' }
+- { id: 'kr_transportation_003', display: '기차 (汽車, gicha)', input: '기차 (汽車, gicha)', meaning: 'train', level: 'TOPIK 1', category: 'transportation', source: '[[transportation-vocabulary]]' }
+- { id: 'kr_transportation_004', display: '비행기 (飛行機, bihaenggi)', input: '비행기 (飛行機, bihaenggi)', meaning: 'airplane', level: 'TOPIK 1', category: 'transportation', source: '[[transportation-vocabulary]]' }
+- { id: 'kr_transportation_005', display: '배 (bae)', input: '배 (bae)', meaning: 'ship', level: 'TOPIK 2', category: 'transportation', source: '[[transportation-vocabulary]]' }
+- { id: 'kr_transportation_006', display: '자전거 (自轉車, jageonjjae)', input: '자전거 (自轉車, jageonjjae)', meaning: 'bicycle', level: 'TOPIK 1', category: 'transportation', source: '[[transportation-vocabulary]]' }
+- { id: 'kr_transportation_007', display: '택시 (taxi)', input: '택시 (taxi)', meaning: 'taxi', level: 'TOPIK 1', category: 'transportation', source: '[[transportation-vocabulary]]' }
+- { id: 'kr_transportation_008', display: '지하철 (地下鐵, jihacheol)', input: '지하철 (地下鐵, jihacheol)', meaning: 'subway', level: 'TOPIK 1', category: 'transportation', source: '[[transportation-vocabulary]]' }
+- { id: 'kr_transportation_009', display: '역 (驛, yeok)', input: '역 (驛, yeok)', meaning: 'station', level: 'TOPIK 1', category: 'transportation', source: '[[transportation-vocabulary]]' }
+- { id: 'kr_transportation_010', display: '표 (票, pyo)', input: '표 (票, pyo)', meaning: 'ticket', level: 'TOPIK 1', category: 'transportation', source: '[[transportation-vocabulary]]' }
 ```

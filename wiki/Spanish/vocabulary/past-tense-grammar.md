@@ -30,5 +30,5 @@ Vocabulary extracted from .openclaw card_news archive slot [2]. Each entry is ge
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: es_past_tense_001, display: "ayer, anoche, la semana pasada, en 1492", input: "ayer, anoche, la semana pasada, en 1492", meaning: "", level: "A1-B1", category: "past-tense", source: "[[past-tense-grammar]]" }
+- { id: 'es_past_tense_001', display: 'ayer, anoche, la semana pasada, en 1492', input: 'ayer, anoche, la semana pasada, en 1492', meaning: '', level: 'A1-B1', category: 'past-tense', source: '[[past-tense-grammar]]' }
 ```

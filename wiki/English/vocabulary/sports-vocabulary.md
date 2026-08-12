@@ -425,22 +425,22 @@ Hiking is very popular in Colorado, California, and the Pacific Northwest. Natio
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: en_sports_001, display: "sport", input: "sport", meaning: "스포츠", level: "A1", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: en_sports_002, display: "football", input: "football", meaning: "미식축구(US)/축구(UK)", level: "A1", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: en_sports_003, display: "soccer", input: "soccer", meaning: "축구", level: "A1", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: en_sports_004, display: "basketball", input: "basketball", meaning: "농구", level: "A1", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: en_sports_005, display: "tennis", input: "tennis", meaning: "테니스", level: "A1", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: en_sports_006, display: "swimming", input: "swimming", meaning: "수영", level: "A1", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: en_sports_007, display: "running", input: "running", meaning: "달리기", level: "A1", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: en_sports_008, display: "yoga", input: "yoga", meaning: "요가", level: "A2", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: en_sports_009, display: "hiking", input: "hiking", meaning: "하이킹/등산", level: "A2", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: en_sports_010, display: "camping", input: "camping", meaning: "캠핑", level: "A2", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: en_sports_011, display: "cycling", input: "cycling", meaning: "자전거 타기", level: "A2", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: en_sports_012, display: "fishing", input: "fishing", meaning: "낚시", level: "A2", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: en_sports_013, display: "gym", input: "gym", meaning: "헬스장", level: "A1", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: en_sports_014, display: "workout", input: "workout", meaning: "운동(한 세션)", level: "A2", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: en_sports_015, display: "team", input: "team", meaning: "팀", level: "A1", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: en_sports_016, display: "score", input: "score", meaning: "점수/득점하다", level: "A1", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: en_sports_017, display: "champion", input: "champion", meaning: "챔피언/우승자", level: "A2", category: "sports", source: "[[sports-vocabulary]]" }
-- { id: en_sports_018, display: "fan", input: "fan", meaning: "팬", level: "A1", category: "sports", source: "[[sports-vocabulary]]" }
+- { id: 'en_sports_001', display: 'sport', input: 'sport', meaning: '스포츠', level: 'A1', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'en_sports_002', display: 'football', input: 'football', meaning: '미식축구(US)/축구(UK)', level: 'A1', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'en_sports_003', display: 'soccer', input: 'soccer', meaning: '축구', level: 'A1', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'en_sports_004', display: 'basketball', input: 'basketball', meaning: '농구', level: 'A1', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'en_sports_005', display: 'tennis', input: 'tennis', meaning: '테니스', level: 'A1', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'en_sports_006', display: 'swimming', input: 'swimming', meaning: '수영', level: 'A1', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'en_sports_007', display: 'running', input: 'running', meaning: '달리기', level: 'A1', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'en_sports_008', display: 'yoga', input: 'yoga', meaning: '요가', level: 'A2', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'en_sports_009', display: 'hiking', input: 'hiking', meaning: '하이킹/등산', level: 'A2', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'en_sports_010', display: 'camping', input: 'camping', meaning: '캠핑', level: 'A2', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'en_sports_011', display: 'cycling', input: 'cycling', meaning: '자전거 타기', level: 'A2', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'en_sports_012', display: 'fishing', input: 'fishing', meaning: '낚시', level: 'A2', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'en_sports_013', display: 'gym', input: 'gym', meaning: '헬스장', level: 'A1', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'en_sports_014', display: 'workout', input: 'workout', meaning: '운동(한 세션)', level: 'A2', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'en_sports_015', display: 'team', input: 'team', meaning: '팀', level: 'A1', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'en_sports_016', display: 'score', input: 'score', meaning: '점수/득점하다', level: 'A1', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'en_sports_017', display: 'champion', input: 'champion', meaning: '챔피언/우승자', level: 'A2', category: 'sports', source: '[[sports-vocabulary]]' }
+- { id: 'en_sports_018', display: 'fan', input: 'fan', meaning: '팬', level: 'A1', category: 'sports', source: '[[sports-vocabulary]]' }
 ```

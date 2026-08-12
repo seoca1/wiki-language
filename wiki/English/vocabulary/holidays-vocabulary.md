@@ -475,24 +475,24 @@ Independence Day (July 4) and New Year's Eve are the biggest US fireworks events
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: en_holidays_001, display: "holiday", input: "holiday", meaning: "휴일", level: "A1", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: en_holidays_002, display: "birthday", input: "birthday", meaning: "생일", level: "A1", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: en_holidays_003, display: "Christmas", input: "Christmas", meaning: "크리스마스", level: "A1", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: en_holidays_004, display: "Halloween", input: "Halloween", meaning: "할로윈", level: "A2", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: en_holidays_005, display: "Thanksgiving", input: "Thanksgiving", meaning: "추수감사절", level: "A2", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: en_holidays_006, display: "Easter", input: "Easter", meaning: "부활절", level: "A2", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: en_holidays_007, display: "wedding", input: "wedding", meaning: "결혼식", level: "A2", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: en_holidays_008, display: "party", input: "party", meaning: "파티", level: "A1", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: en_holidays_009, display: "gift", input: "gift", meaning: "선물", level: "A1", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: en_holidays_010, display: "cake", input: "cake", meaning: "케이크", level: "A1", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: en_holidays_011, display: "candle", input: "candle", meaning: "초(양초)", level: "A2", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: en_holidays_012, display: "decoration", input: "decoration", meaning: "장식/데코", level: "A2", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: en_holidays_013, display: "fireworks", input: "fireworks", meaning: "불꽃놀이", level: "A2", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: en_holidays_014, display: "costume", input: "costume", meaning: "의상/코스튬", level: "A2", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: en_holidays_015, display: "surprise", input: "surprise", meaning: "서프라이즈/깜짝", level: "A2", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: en_holidays_016, display: "celebration", input: "celebration", meaning: "축하/기념 행사", level: "A2", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: en_holidays_017, display: "festival", input: "festival", meaning: "축제/페스티벌", level: "A2", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: en_holidays_018, display: "bride", input: "bride", meaning: "신부", level: "A2", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: en_holidays_019, display: "groom", input: "groom", meaning: "신랑", level: "A2", category: "holidays", source: "[[holidays-vocabulary]]" }
-- { id: en_holidays_020, display: "invitation", input: "invitation", meaning: "초대장", level: "A2", category: "holidays", source: "[[holidays-vocabulary]]" }
+- { id: 'en_holidays_001', display: 'holiday', input: 'holiday', meaning: '휴일', level: 'A1', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'en_holidays_002', display: 'birthday', input: 'birthday', meaning: '생일', level: 'A1', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'en_holidays_003', display: 'Christmas', input: 'Christmas', meaning: '크리스마스', level: 'A1', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'en_holidays_004', display: 'Halloween', input: 'Halloween', meaning: '할로윈', level: 'A2', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'en_holidays_005', display: 'Thanksgiving', input: 'Thanksgiving', meaning: '추수감사절', level: 'A2', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'en_holidays_006', display: 'Easter', input: 'Easter', meaning: '부활절', level: 'A2', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'en_holidays_007', display: 'wedding', input: 'wedding', meaning: '결혼식', level: 'A2', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'en_holidays_008', display: 'party', input: 'party', meaning: '파티', level: 'A1', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'en_holidays_009', display: 'gift', input: 'gift', meaning: '선물', level: 'A1', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'en_holidays_010', display: 'cake', input: 'cake', meaning: '케이크', level: 'A1', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'en_holidays_011', display: 'candle', input: 'candle', meaning: '초(양초)', level: 'A2', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'en_holidays_012', display: 'decoration', input: 'decoration', meaning: '장식/데코', level: 'A2', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'en_holidays_013', display: 'fireworks', input: 'fireworks', meaning: '불꽃놀이', level: 'A2', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'en_holidays_014', display: 'costume', input: 'costume', meaning: '의상/코스튬', level: 'A2', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'en_holidays_015', display: 'surprise', input: 'surprise', meaning: '서프라이즈/깜짝', level: 'A2', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'en_holidays_016', display: 'celebration', input: 'celebration', meaning: '축하/기념 행사', level: 'A2', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'en_holidays_017', display: 'festival', input: 'festival', meaning: '축제/페스티벌', level: 'A2', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'en_holidays_018', display: 'bride', input: 'bride', meaning: '신부', level: 'A2', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'en_holidays_019', display: 'groom', input: 'groom', meaning: '신랑', level: 'A2', category: 'holidays', source: '[[holidays-vocabulary]]' }
+- { id: 'en_holidays_020', display: 'invitation', input: 'invitation', meaning: '초대장', level: 'A2', category: 'holidays', source: '[[holidays-vocabulary]]' }
 ```

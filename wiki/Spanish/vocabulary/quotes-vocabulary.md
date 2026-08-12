@@ -239,3 +239,23 @@ Vocabulario español de frases célebres: literatura clásica (Cervantes/Calder�
 > - literatura = 문학
 > - imaginación = 상상력
 > - conocimiento = 지식
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'es_quotes_001', display: '"En un lugar de la Mancha, de cuyo nombre no quiero acordarme..."', input: '"En un lugar de la Mancha, de cuyo nombre no quiero acordarme..."', meaning: '', level: 'B2-C1', category: 'quotes', source: '[[movie-quotes-es]]' }
+- { id: 'es_quotes_002', display: '"La vida es sueño."', input: '"La vida es sueño."', meaning: '', level: 'B2-C1', category: 'quotes', source: '[[movie-quotes-es]]' }
+- { id: 'es_quotes_003', display: '"El silencio es un amigo que nunca traiciona."', input: '"El silencio es un amigo que nunca traiciona."', meaning: '', level: 'B2-C1', category: 'quotes', source: '[[movie-quotes-es]]' }
+- { id: 'es_quotes_004', display: '"Volver" (título de película)', input: '"Volver" (título de película)', meaning: '', level: 'B2-C1', category: 'quotes', source: '[[movie-quotes-es]]' }
+- { id: 'es_quotes_005', display: '"Los otros" (título de película)', input: '"Los otros" (título de película)', meaning: '', level: 'B2-C1', category: 'quotes', source: '[[movie-quotes-es]]' }
+- { id: 'es_quotes_006', display: '"A quien madruga, Dios le ayuda."', input: '"A quien madruga, Dios le ayuda."', meaning: '', level: 'B2-C1', category: 'quotes', source: '[[movie-quotes-es]]' }
+- { id: 'es_quotes_007', display: '"Más vale tarde que nunca."', input: '"Más vale tarde que nunca."', meaning: '', level: 'B2-C1', category: 'quotes', source: '[[movie-quotes-es]]' }
+- { id: 'es_quotes_008', display: '"No hay mal que por bien no venga."', input: '"No hay mal que por bien no venga."', meaning: '', level: 'B2-C1', category: 'quotes', source: '[[movie-quotes-es]]' }
+- { id: 'es_quotes_009', display: '"El que mucho abarca, poco aprieta."', input: '"El que mucho abarca, poco aprieta."', meaning: '', level: 'B2-C1', category: 'quotes', source: '[[movie-quotes-es]]' }
+- { id: 'es_quotes_010', display: '"El éxito es ir de fracaso en fracaso sin perder el entusiasmo."', input: '"El éxito es ir de fracaso en fracaso sin perder el entusiasmo."', meaning: '', level: 'B2-C1', category: 'quotes', source: '[[movie-quotes-es]]' }
+- { id: 'es_quotes_011', display: '"La imaginación es más importante que el conocimiento."', input: '"La imaginación es más importante que el conocimiento."', meaning: '', level: 'B2-C1', category: 'quotes', source: '[[movie-quotes-es]]' }
+```

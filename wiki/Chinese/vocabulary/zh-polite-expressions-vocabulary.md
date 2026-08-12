@@ -407,21 +407,25 @@ theme: "polite-expressions"
 
 > Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: zh_polite_001, display: "您 (nín)", input: "nin2", meaning: "당신 (존칭)", level: "HSK 2", category: "polite-zh", source: "[[zh-polite-expressions-vocabulary]]" }
-- { id: zh_polite_002, display: "你好 (nǐ hǎo)", input: "ni3 hao3", meaning: "안녕하세요", level: "HSK 1", category: "polite-zh", source: "[[zh-polite-expressions-vocabulary]]" }
-- { id: zh_polite_003, display: "请 (qǐng)", input: "qing3", meaning: "해주세요 (부탁)", level: "HSK 1", category: "polite-zh", source: "[[zh-polite-expressions-vocabulary]]" }
-- { id: zh_polite_004, display: "请稍等 (qǐng shāo děng)", input: "qing3 shao1 deng3", meaning: "잠시만 기다려주세요", level: "HSK 3", category: "polite-zh", source: "[[zh-polite-expressions-vocabulary]]" }
-- { id: zh_polite_005, display: "谢谢 (xièxie)", input: "xie4 xie", meaning: "감사합니다", level: "HSK 1", category: "polite-zh", source: "[[zh-polite-expressions-vocabulary]]" }
-- { id: zh_polite_006, display: "非常感谢 (fēicháng gǎnxiè)", input: "fei1 chang2 gan3 xie4", meaning: "대단히 감사합니다", level: "HSK 3", category: "polite-zh", source: "[[zh-polite-expressions-vocabulary]]" }
-- { id: zh_polite_007, display: "不客气 (bú kèqi)", input: "bu2 ke4 qi", meaning: "천만에요", level: "HSK 1", category: "polite-zh", source: "[[zh-polite-expressions-vocabulary]]" }
-- { id: zh_polite_008, display: "对不起 (duìbuqǐ)", input: "dui4 bu qi3", meaning: "죄송합니다", level: "HSK 1", category: "polite-zh", source: "[[zh-polite-expressions-vocabulary]]" }
-- { id: zh_polite_009, display: "抱歉 (bàoqiàn)", input: "bao4 qian4", meaning: "죄송합니다 (격식)", level: "HSK 3", category: "polite-zh", source: "[[zh-polite-expressions-vocabulary]]" }
-- { id: zh_polite_010, display: "没关系 (méi guānxi)", input: "mei2 guan1 xi", meaning: "괜찮아요", level: "HSK 1", category: "polite-zh", source: "[[zh-polite-expressions-vocabulary]]" }
-- { id: zh_polite_011, display: "麻烦 (máfan)", input: "ma2 fan", meaning: "번거롭다/실례하지만", level: "HSK 3", category: "polite-zh", source: "[[zh-polite-expressions-vocabulary]]" }
-- { id: zh_polite_012, display: "拜托 (bàituō)", input: "bai4 tuo1", meaning: "부탁해요", level: "HSK 3", category: "polite-zh", source: "[[zh-polite-expressions-vocabulary]]" }
-- { id: zh_polite_013, display: "欢迎 (huānyíng)", input: "huan1 ying2", meaning: "환영합니다", level: "HSK 2", category: "polite-zh", source: "[[zh-polite-expressions-vocabulary]]" }
-- { id: zh_polite_014, display: "再见 (zàijiàn)", input: "zai4 jian4", meaning: "안녕히 가세요", level: "HSK 1", category: "polite-zh", source: "[[zh-polite-expressions-vocabulary]]" }
-- { id: zh_polite_015, display: "请问 (qǐng wèn)", input: "qing3 wen4", meaning: "실례지만 여쭤봐도...", level: "HSK 2", category: "polite-zh", source: "[[zh-polite-expressions-vocabulary]]" }
+- { id: 'zh_polite_expressions_001', display: '您 (nín)', input: '您 (nín)', meaning: '당신 (존칭)', level: 'HSK 2', category: 'polite-zh', source: '[[zh-polite-expressions-vocabulary]]' }
+- { id: 'zh_polite_expressions_002', display: '你好 (nǐ hǎo)', input: '你好 (nǐ hǎo)', meaning: '안녕하세요', level: 'HSK 1', category: 'polite-zh', source: '[[zh-polite-expressions-vocabulary]]' }
+- { id: 'zh_polite_expressions_003', display: '请 (qǐng)', input: '请 (qǐng)', meaning: '해주세요 (부탁)', level: 'HSK 1', category: 'polite-zh', source: '[[zh-polite-expressions-vocabulary]]' }
+- { id: 'zh_polite_expressions_004', display: '请稍等 (qǐng shāo děng)', input: '请稍等 (qǐng shāo děng)', meaning: '잠시만 기다려주세요', level: 'HSK 3', category: 'polite-zh', source: '[[zh-polite-expressions-vocabulary]]' }
+- { id: 'zh_polite_expressions_005', display: '谢谢 (xièxie)', input: '谢谢 (xièxie)', meaning: '감사합니다', level: 'HSK 1', category: 'polite-zh', source: '[[zh-polite-expressions-vocabulary]]' }
+- { id: 'zh_polite_expressions_006', display: '非常感谢 (fēicháng gǎnxiè)', input: '非常感谢 (fēicháng gǎnxiè)', meaning: '대단히 감사합니다', level: 'HSK 3', category: 'polite-zh', source: '[[zh-polite-expressions-vocabulary]]' }
+- { id: 'zh_polite_expressions_007', display: '不客气 (bú kèqi)', input: '不客气 (bú kèqi)', meaning: '천만에요', level: 'HSK 1', category: 'polite-zh', source: '[[zh-polite-expressions-vocabulary]]' }
+- { id: 'zh_polite_expressions_008', display: '对不起 (duìbuqǐ)', input: '对不起 (duìbuqǐ)', meaning: '죄송합니다', level: 'HSK 1', category: 'polite-zh', source: '[[zh-polite-expressions-vocabulary]]' }
+- { id: 'zh_polite_expressions_009', display: '抱歉 (bàoqiàn)', input: '抱歉 (bàoqiàn)', meaning: '죄송합니다 (격식)', level: 'HSK 3', category: 'polite-zh', source: '[[zh-polite-expressions-vocabulary]]' }
+- { id: 'zh_polite_expressions_010', display: '没关系 (méi guānxi)', input: '没关系 (méi guānxi)', meaning: '괜찮아요', level: 'HSK 1', category: 'polite-zh', source: '[[zh-polite-expressions-vocabulary]]' }
+- { id: 'zh_polite_expressions_011', display: '麻烦 (máfan)', input: '麻烦 (máfan)', meaning: '번거롭다/실례하지만', level: 'HSK 3', category: 'polite-zh', source: '[[zh-polite-expressions-vocabulary]]' }
+- { id: 'zh_polite_expressions_012', display: '拜托 (bàituō)', input: '拜托 (bàituō)', meaning: '부탁해요', level: 'HSK 3', category: 'polite-zh', source: '[[zh-polite-expressions-vocabulary]]' }
+- { id: 'zh_polite_expressions_013', display: '欢迎 (huānyíng)', input: '欢迎 (huānyíng)', meaning: '환영합니다', level: 'HSK 2', category: 'polite-zh', source: '[[zh-polite-expressions-vocabulary]]' }
+- { id: 'zh_polite_expressions_014', display: '再见 (zàijiàn)', input: '再见 (zàijiàn)', meaning: '안녕히 가세요', level: 'HSK 1', category: 'polite-zh', source: '[[zh-polite-expressions-vocabulary]]' }
+- { id: 'zh_polite_expressions_015', display: '请问 (qǐng wèn)', input: '请问 (qǐng wèn)', meaning: '실례지만 여쭤봐도...', level: 'HSK 2', category: 'polite-zh', source: '[[zh-polite-expressions-vocabulary]]' }
+- { id: 'zh_polite_expressions_016', display: '1. 不 (bù) tone sandhi', input: '1. 不 (bù) tone sandhi', meaning: '', level: 'HSK 1-3', category: 'polite-expressions', source: '[[zh-polite-expressions-vocabulary]]' }
+- { id: 'zh_polite_expressions_017', display: '2. 격식/비격식 호칭', input: '2. 격식/비격식 호칭', meaning: '', level: 'HSK 1-3', category: 'polite-expressions', source: '[[zh-polite-expressions-vocabulary]]' }
+- { id: 'zh_polite_expressions_018', display: '3. 사과/감사 표현', input: '3. 사과/감사 표현', meaning: '', level: 'HSK 1-3', category: 'polite-expressions', source: '[[zh-polite-expressions-vocabulary]]' }
 ```
