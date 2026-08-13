@@ -103,3 +103,31 @@ Two new comprehensive Japanese culture pages added, bringing Japanese to 4 cultu
 - [[japanese-traditions]] - 日本の伝統文化 — お辞儀・お箸・お正月・お葬式・お寺・神社・冠婚葬祭 (2026-07-19 신규)
 
 Index.md updated (Culture: 2 → 4 entries)
+
+## [2026-08-13] expand | Phase 4.3 — Japanese Expressions Expansion (8 new theme files)
+
+**Scope**: Add 8 new Japanese expression theme files to expand the expressions section beyond the existing 13 theme files.
+
+**Files created** (8 new theme files):
+
+| File | Theme | Level | Sections |
+|------|-------|-------|---:|
+| [[travel-expressions]] | 旅行 (上級) | B1-C1 | 8 expressions |
+| [[restaurant-expressions]] | 食事 (上級) | A2-B2 | 8 expressions |
+| [[business-expressions]] | ビジネス (上級) | B2-C1 | 8 expressions |
+| [[dating-expressions]] | 恋愛 (上級) | B1-C1 | 8 expressions |
+| [[technology-expressions]] | テクノロジー (上級) | A2-C1 | 8 expressions |
+| [[slang-colloquial]] | スラング・口語 | B2-C2 | 8 expressions |
+| [[idioms-proverbs]] | 慣用句・ことわざ | B2-C2 | 8 expressions |
+| [[polite-expressions]] | 敬語・丁寧表現 | A1-C1 | 8 expressions |
+
+**Total**: 64 new expression entries across 8 themes. Each theme file includes Korean glosses, Romaji + Hiragana/Kanji, Japanese cultural notes, sample conversations, and Sources section cross-linking to comparative pages.
+
+**Schema**: All files follow theme-file convention. 敬語 (keigo) honorifics noted where relevant.
+
+**Index.md updated** with 8 new entries (Expressions: 13 → 21 theme files).
+
+**Vault state**: 0 broken links introduced by new files.
+
+**Next phases**:
+- Phase 4.4 — Korean expressions expansion (8 files)

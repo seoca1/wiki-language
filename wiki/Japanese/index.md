@@ -50,6 +50,14 @@ Last updated: 2026-08-11 (+10 vocabulary theme files: jp-adjectives-vocabulary /
 - [[complaints]] - 苦情・改善依頼表現 — 申し訳ございませんが、困っております、ご検討いただけませんか、苦情を申し上げます、問題がございまして (10 entries, B1-B2; polite/humble/kenjougo registers noted)
 - [[emotions-reactions]] - 感情反応表現 — すごい！、やった！、まあ！、残念、信じられない、まさか、困ったね、嬉しい、よかった、うわー (10 entries, A1-A2 casual; pitch accent notation included)
 - [[small-talk]] - 世間話表現 — いい天気ですね、お元気ですか、最近の調子はどうですか、趣味は何ですか、どこか行きましたか、季節ですね (10 entries, A2-B1; safe topics: weather/health/hobbies/travel/seasons)
+- [[travel-expressions]] - 旅行 (上級) — 予約、切符、WiFi、英語ガイド、道に迷いました (8 entries, B1-C1)
+- [[restaurant-expressions]] - 食事 (上級) — メニュー、アレルギー、お会計、持ち帰り、美味しい (8 entries, A2-B2)
+- [[business-expressions]] - ビジネス (上級) — メール、契約、見積書、領収書、お休み、打ち合わせ (8 entries, B2-C1; 敬語使用)
+- [[dating-expressions]] - 恋愛 (上級) — 好きです、付き合ってください、愛してる、別れましょう、お見合い、同棲 (8 entries, B1-C1)
+- [[technology-expressions]] - テクノロジー (上級) — WiFi、LINE、DM、やばい、配車アプリ、ライブコマース (8 entries, A2-C1)
+- [[slang-colloquial]] - スラング・口語 — すごい、頑張って、草、フラれる、ググる、限界、大人になる、ダチ (8 entries, B2-C2; 若者言葉)
+- [[idioms-proverbs]] - 慣用句・ことわざ — 一石二鳥、蛇足、馬の耳に念仏、七転び八起き (8 entries, B2-C2; 四字熟語含む)
+- [[polite-expressions]] - 敬語・丁寧表現 — ありがとうございます、お願いします、すみません、どういたしまして、お世話になっております (8 entries, A1-C1; 敬語レベル別)
 
 ## Culture (43 entries; 23 added 2026-08-11)
 
