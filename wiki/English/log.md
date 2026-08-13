@@ -145,3 +145,31 @@ Two new comprehensive English culture pages added, bringing English to 5 culture
 - [[english-holidays]] - English-Speaking Holidays — Thanksgiving, Christmas, Halloween, July 4, ANZAC, Remembrance, Black Friday, religious observances (2026-07-19 신규)
 
 Index.md updated (Culture: 2 → 5 entries)
+## [2026-08-13] expand | Phase 4.1 — English Expressions Expansion (8 new theme files)
+
+**Scope**: Add 8 new English expression theme files to expand the expressions section beyond the existing 13 theme files (agreement, apologies, business-basics, common-phrases, complaints, daily-basics, daily-life, dating-romance, emotions-reactions, greetings, requests, small-talk, travel-basics). Each file follows the theme-file convention (## expression sections with Parts of Speech / Definition / Form / Usage / Variations / Sample Conversations / Cultural Notes / Sources) per `Language/schema/AGENTS.md` lines 146-200.
+
+**Files created** (8 new theme files):
+
+| File | Theme | Level | Sections |
+|------|-------|-------|---:|
+| [[travel-expressions]] | Travel (advanced) | B1-C1 | 8 expressions |
+| [[restaurant-expressions]] | Restaurant (advanced) | A2-B2 | 8 expressions |
+| [[business-expressions]] | Business (advanced) | B2-C1 | 8 expressions |
+| [[dating-expressions]] | Dating (advanced) | B1-C1 | 8 expressions |
+| [[technology-expressions]] | Technology (advanced) | A2-C1 | 8 expressions |
+| [[slang-colloquial]] | Slang & Colloquial | B2-C2 | 8 expressions |
+| [[idioms-proverbs]] | Idioms & Proverbs | B2-C2 | 8 expressions |
+| [[polite-expressions]] | Politeness (advanced) | A1-C1 | 8 expressions |
+
+**Total**: 64 new expression entries across 8 themes. Each theme file includes Korean glosses, English cultural notes (US/UK/AU regional variants noted where relevant), sample conversations, and Sources section cross-linking to comparative pages.
+
+**Schema**: All files follow theme-file convention. Cross-references to existing expressions (food-dining, travel-basics, business-basics, dating-romance, daily-life, emotions-reactions, greetings, apologies, etc.) and comparative wiki pages.
+
+**Index.md updated** with new expression entries (Expressions: 13 → 21 theme files, ~88 → 152 entries).
+
+**Vault state**: 0 broken links introduced by new files.
+
+**Next phases**:
+- Phase 4.2-4.4 — Expressions Expansion for ES/JP/KR (8 files each, ~24 total)
+- Phase 5 — Comparative Wiki Expansion (already largely complete with 65 files in comparative wiki)

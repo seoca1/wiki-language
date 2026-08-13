@@ -56,6 +56,14 @@ Last updated: 2026-08-11 (index sync: +23 American culture pages + 4 new express
 - [[complaints]] - Complaint expressions — I'd like to speak with the manager, This isn't what I ordered, Could you fix this (8 entries)
 - [[emotions-reactions]] - Emotional reactions — Wow, Oh my God, That's amazing, How awful, I can't believe it, Are you serious (8 entries)
 - [[small-talk]] - Small talk topics — Nice weather, What do you do for work, Where are you from, Have you seen any good movies (8 entries)
+- [[travel-expressions]] - Travel (advanced) — reservations, ticket issues, hidden gems, bargaining, English-speaking guides (8 entries, B1-C1)
+- [[restaurant-expressions]] - Restaurant (advanced) — menu, ordering, allergies, takeaway, etiquette (8 entries, A2-B2)
+- [[business-expressions]] - Business (advanced) — emails, contracts, invoices, time off, scheduling (8 entries, B2-C1)
+- [[dating-expressions]] - Dating (advanced) — DTR, online dating, exclusivity, meeting parents (8 entries, B1-C1)
+- [[technology-expressions]] - Tech (advanced) — WiFi, DMs, social media, rideshare, live-stream shopping (8 entries, A2-C1)
+- [[slang-colloquial]] - Slang & Colloquial — Gen Z, no cap, ghosting, spill the tea, burnout, adulting (8 entries, B2-C2)
+- [[idioms-proverbs]] - Idioms & Proverbs — kill two birds, Rome wasn't built, actions speak louder (8 entries, B2-C2)
+- [[polite-expressions]] - Politeness (advanced) — please, excuse me, you're welcome, may I, appreciate (8 entries, A1-C1)
 
 ## Culture (43 entries; 23 added 2026-08-11)
 
