@@ -255,3 +255,54 @@ Per `Game/typing_language/AGENTS.md` §2: `raw/` is **READ-ONLY** (절대 수정
 - Or (b) create typing_language ADR-0010 to move header documentation to `wiki/korean.md` corpus-format reference, leaving `raw/kr_words.md` with only active data
 
 This is documentation cleanup, not data fix. Corpus is healthy.
+
+## [2026-08-13] verify | Cross-language ADR-0001 compliance audit (5 languages)
+
+Per ADR-0001 vocabulary schema, all language vocab files should use `### {word}` headings with bullet points for pinyin/HSK/measure word/English.
+
+**Coverage check across all 5 languages:**
+
+| Language | Total Vocab Files | ADR-0001 Compliant | Non-Compliant |
+|----------|---:|---:|---:|
+| English | 62 | 57 | 5 |
+| Spanish | 76 | 76 | 0 ✅ |
+| Japanese | 69 | 69 | 0 ✅ |
+| Korean | 81 | 58 | 23 |
+| Chinese | 65 | 65 | 0 ✅ |
+| **Total** | **353** | **325 (92%)** | **28** |
+
+**The 28 "non-compliant" files are intentional non-conforming patterns:**
+
+### 9 Redirect stubs (English 5 + Korean 4)
+These files intentionally don't have ### headings — they redirect to canonical English-stem files:
+- English: food-and-dining → food-vocabulary
+- English: health-and-body → health-vocabulary
+- English: holidays-and-celebrations → holidays-vocabulary
+- English: shopping-and-money → shopping-vocabulary
+- English: technology-and-internet → technology-vocabulary
+- Korean: 동물 어휘 → animals-vocabulary (legacy Korean filename)
+- Korean: 여행 → transportation-vocabulary/directions-vocabulary
+- Korean: 의류・패션 어휘 → clothing-vocabulary (legacy Korean filename)
+- Korean: 자연・날씨 어휘 → weather-nature (legacy Korean filename)
+
+These redirect stubs are required for backward compatibility with old wikilinks. Converting them to ### headings would break the redirect purpose.
+
+### 19 Korean perspective translation comparison files (ko suffix)
+These files use `translation_kind: korean_perspective_jp_translation` or `korean_aggregator_jp_translation` in frontmatter. Their TABLE format (한국어 | 일어 | 일어 IPA columns) is INTENTIONAL for showing ko/jp pairs side-by-side. Examples:
+- health-vocabulary.ko.md
+- holidays-vocabulary.ko.md
+- literature-vocabulary.ko.md
+- (etc., 19 files total)
+
+Converting these to ### headings would destroy the side-by-side ko/jp comparison that is their core purpose.
+
+**Verdict**: All language vocab files are correctly conformant. The 28 "non-compliant" files follow intentional alternative patterns (redirects + translation comparisons) that should NOT be converted.
+
+**ADR-0001 real violations**: **0** (zero) across all 5 languages.
+
+**Schema coverage summary**:
+- Phase 1.5 fix (77c82bc): 11 Chinese vocab files
+- Phase 1.5 stub fix (0fe91e1): 6 additional Chinese stub files (adventure-vocabulary, shopping-and-money, sports-and-hobbies, technology-and-internet, travel-adventure, work-and-career)
+- Total files converted to ADR-0001: **17**
+
+Final coverage: **All 325 standalone vocabulary theme files across 5 languages now use ### {word} headings per ADR-0001.**
