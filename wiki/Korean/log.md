@@ -184,3 +184,32 @@ Index.md updated (Vocabulary theme files: 8 → 9 total theme files with consoli
 **Next phases**:
 - Phase 2 — Korean raw sources (work-and-career-kr.md missing)
 - Phase 6 — Pipeline validation
+
+## [2026-08-13] verify | Phase 2.5 + 6.1 — Korean work-and-career raw source confirmed + Pipeline validation
+
+**Phase 2.5 Status**: `raw/Korean/work-and-career-kr.md` exists (24KB, 2026-08-12). Contains 70+ entries across 7 sections:
+- 고용 형태 (대기업/중견/중소/스타트업/공기업/공무원/정규직/계약직/파견직/프리랜서/인턴/일용직/주52시간)
+- 채용 프로세스 (이력서/자기소개서/포트폴리오/1차-2차-최종면접/인성면접/필기시험/AI면접/합격불합격/수습기간)
+- 채용 플랫폼 (사람인/잡코리아/원티드/링크드인/블라인드/잡플래닛/인크루트)
+- 복리후생 (4대보험/연차/병가/경조사휴가/출산휴가/배우자출산휴가/육아휴직/식대/자가운전보조금/복지포인트/퇴직금)
+- 직장 문화 (회식/2차/3차/워크샵/MT/야근/특근/연봉제/인사고과/직급/호칭)
+- 근무 형태 (출퇴근/지각/조퇴/결근/재택근무/유연근무제/시차출퇴근)
+- 이직/퇴사 (이직/사직서/인수인계/퇴직금/실업급여)
+
+**Phase 6.1 — Pipeline validation (Language→typing_language sync)**:
+
+| Corpus File | Unique Sources | Resolved | Broken |
+|-------------|---:|---:|---:|
+| `Game/typing_language/raw/en_words.md` | 21 | 21 (100%) | 0 |
+| `Game/typing_language/raw/es_words.md` | 5 | 5 (100%) | 0 |
+| `Game/typing_language/raw/jp_words.md` | 3 | 3 (100%) | 0 |
+| `Game/typing_language/raw/kr_words.md` | 19 | 10 (53%) | 9 |
+
+**KR corpus 9 broken citations** (pre-existing, not from Phase 1-4 work):
+- `[[annyeonghaseyo]]`, `[[annyeonghi-gaseyo]]`, `[[baek]]`, `[[dul]]`, `[[gamsahamnida]]`, `[[joesonghamnida]]`, `[[set]]`, `[[yeol]]`, `[[hana]]`
+
+These are romanized Korean words that don't have exact stem matches. The corpus uses `[[annyeonghaseyo]]` (안녕하세요) but no `annyeonghaseyo.md` file exists. This is a pre-existing issue from earlier corpus ingestion (likely stemmed from raw/Korean/ files with different naming).
+
+**Recommended fix**: Either (a) update corpus to use valid stems (e.g., `[[greetings-kr]]`), or (b) create stub files for these romanized stems. This is a separate maintenance task and not part of Phase 1-4.
+
+**Vault state**: 0 broken Language→typing_language links introduced by Phase 1-4 work. Pre-existing KR corpus broken citations documented above.
