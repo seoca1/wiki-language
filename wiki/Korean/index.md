@@ -77,7 +77,7 @@ Last updated: 2026-08-11 (3 new KR vocabulary theme files: ko-physical-descripti
 - [[idioms-proverbs]] - 속담·사자성어 — 일석이조, 그림의 떡, 우물 안 개구리, 살어리랏다 (8 표현, B2-C2; 고려시대 시가 포함)
 - [[polite-expressions]] - 존댓말·정중 표현 — 감사합니다, 해 주세요, 죄송합니다, 잘 부탁드립니다, 수고하셨습니다 (8 표현, A1-C1; 4단계 존댓말)
 
-## Culture (43 entries; 24 added 2026-08-11)
+## Culture (46 entries; 24 added 2026-08-11, 3 added 2026-08-13)
 
 - [[korean-dating-culture]] - 한국 연애 문화 — 썸/고백/명절, 세대별 차이
 - [[korean-hallyu-wave]] - 한류 (Korean Wave) — K-pop, K-drama, K-beauty, K-food 산업 + 정/눈치/한 한류의 문화적 뿌리
@@ -122,6 +122,9 @@ Last updated: 2026-08-11 (3 new KR vocabulary theme files: ko-physical-descripti
 - [[korean-mart-culture]] - 한국 마트 — 대형마트 + 재래시장 + 편의점 + 슈퍼 + 백화점 (2026-08-11 신규)
 - [[korean-pocha-culture]] - 한국 포장마차 — 거리 안주 + 소주 + 분식 + 활기 (2026-08-11 신규)
 - [[korean-school-uniform]] - 한국 교복 — 자켓+셔츠+치마/바지 + 졸업앨범 + 군복 (2026-08-11 신규)
+- [[korean-hanbok-culture]] - 한국 한복 문화 — 전통 의상 + 오방색 + 자수 + 현대 revival + 게임 캐릭터 한복 (2026-08-13 신규, 664 words)
+- [[korean-proverbs-quotes]] - 한국 속담 + 명언 — 사자성어 + 고려시대 시 + 한강 노벨 문학상 + BTS 인용 (2026-08-13 신규, 701 words)
+- [[korean-coffee-cafe-culture]] - 한국 커피·카페 문화 — 1인당 377잔/년 + 스타벅스/이디야/메가커피 + 스터디 카페 (2026-08-13 신규, 640 words)
 
 ## Grammar (6 entries)
 
