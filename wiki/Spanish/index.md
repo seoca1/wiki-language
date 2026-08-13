@@ -162,6 +162,14 @@ Comprehensive cultural analysis pages organized into 7 thematic categories:
 - [[complaints]] - Expresiones de queja — reclamaciones, devoluciones, problemas de servicio (10 entries, incl. quiero-reclamar, esto-no-es-lo-que-pedi, no-estoy-satisfecho, puede-arreglar-esto, hay-un-problema-con, quiero-hablar-con-el-encargado, quiero-devolver, no-me-parece-justo, quiero-un-reembolso)
 - [[business-basics]] - Expresiones profesionales — saludos, aperturas y cierres de correo formal (10 entries, incl. estimado, atentamente, adjunto, por-favor-confirme, quedo-a-la-espera, le-saluda-atentamente, a-quien-corresponda, por-medio-de-la-presente, sin-otro-particular, quedando-a-su-disposicion)
 - [[food-dining]] - Expresiones de restaurante — pedir, recomendar, restricciones alimentarias (10 entries, incl. que-recomienda, la-cuenta-por-favor, para-mi, sin-picante, soy-alergico-a, tienen-menu-del-dia, para-llevar, que-tiene-de-beber, estaba-delicioso, carta-de-vinos)
+- [[viaje-expressions]] - Viaje (avanzado) — reservas, billetes, direcciones, descuentos, WiFi, guías (8 entries, B1-C1)
+- [[restaurante-expressions]] - Restaurante (avanzado) — carta, pedidos, alergias, cuenta, takeaway, etiqueta (8 entries, A2-B2)
+- [[negocios-expressions]] - Negocios (avanzado) — emails, reuniones, presupuestos, contratos, facturas, RRHH (8 entries, B2-C1)
+- [[citas-expressions]] - Citas (avanzado) — confesiones, romance, exclusividad, conocer padres, apps (8 entries, B1-C1)
+- [[tecnologia-expressions]] - Tecnología (avanzado) — WiFi, contacto, DMs, redes sociales, rideshare, live shopping (8 entries, A2-C1)
+- [[slang-colloquial]] - Slang y coloquial — guay/chévere, ánimo, jaja, ghosting, chismoso, burnout (8 entries, B2-C2; regional: España/México/Argentina)
+- [[modismos-refranes]] - Modismos y refranes — matar dos pájaros, no cuentes pollos, perro que ladra (8 entries, B2-C2)
+- [[cortesia-expressions]] - Cortesía (avanzado) — gracias, por favor, lo siento, de nada, ¿puedo? (8 entries, A1-C1)
 
 ## Sources (36 processed; 11 added 2026-08-10)
 

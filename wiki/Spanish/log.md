@@ -88,3 +88,31 @@
 - Old Phase 14 closure noted 90 broken; actual broken count grew to 620 with later ingestions. Phase A & B fully cleaned.
 
 **다음 단계**: stub pages are content-empty scaffolding; future ingestion by theme-anchor migration (per comparative scaffold pattern) will fill content. Stub frontmatter includes `ingested_from: "auto-stub-gen 2026-07-19 (Phase A & B)"` for tracking.
+## [2026-08-13] expand | Phase 4.2 — Spanish Expressions Expansion (8 new theme files)
+
+**Scope**: Add 8 new Spanish expression theme files to expand the expressions section beyond the existing 13 theme files (agreement, apologies, business-basics, common-phrases, complaints, cultural-idioms, daily-life, emotions-reactions, food-dining, greetings, requests, romance-relationships, subjunctive-patterns).
+
+**Files created** (8 new theme files):
+
+| File | Theme | Level | Sections |
+|------|-------|-------|---:|
+| [[viaje-expressions]] | Viaje (avanzado) | B1-C1 | 8 expresiones |
+| [[restaurante-expressions]] | Restaurante (avanzado) | A2-B2 | 8 expresiones |
+| [[negocios-expressions]] | Negocios (avanzado) | B2-C1 | 8 expresiones |
+| [[citas-expressions]] | Citas (avanzado) | B1-C1 | 8 expresiones |
+| [[tecnologia-expressions]] | Tecnología (avanzado) | A2-C1 | 8 expresiones |
+| [[slang-colloquial]] | Slang y coloquial | B2-C2 | 8 expresiones |
+| [[modismos-refranes]] | Modismos y refranes | B2-C2 | 8 expresiones |
+| [[cortesia-expressions]] | Cortesía (avanzado) | A1-C1 | 8 expresiones |
+
+**Total**: 64 new expression entries across 8 themes. Each theme file includes Korean glosses, Spanish regional variants (España/México/Argentina/Colombia/Chile where relevant), sample conversations, and Sources section cross-linking to comparative pages.
+
+**Schema**: All files follow theme-file convention. Cross-references to existing expressions and comparative wiki pages.
+
+**Index.md updated** with new expression entries (Expressions: 13 → 21 theme files).
+
+**Vault state**: 0 broken links introduced by new files.
+
+**Next phases**:
+- Phase 4.3-4.4 — Expressions Expansion for JP/KR (8 files each, ~16 total)
+- Phase 5 — Comparative Wiki Expansion (already largely complete)
