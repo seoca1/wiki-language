@@ -15,304 +15,1416 @@ theme: "clothing"
 
 ## 1. 上衣 (Tops)
 
-| 中文 | 拼音 | HSK | 量词 | 英文 |
-|------|------|-----|------|------|
-| T恤 | T xù | 1 | 件 | T-shirt |
-| 衬衫 | chènshān | 1 | 件 | Shirt |
-| 外套 | wàitào | 1 | 件 | Jacket |
-| 夹克 | jiákè | 1 | 件 | Jacket |
-| 毛衣 | máoyī | 1 | 件 | Sweater |
-| 大衣 | dàyī | 1 | 件 | Coat |
-| 风衣 | fēngyī | 2 | 件 | Windbreaker |
-| 夹克衫 | jiákè shān | 1 | 件 | Jacket |
-| 羽绒服 | yǔróngfú | 1 | 件 | Down jacket |
-| 棉袄 | mián'ǎo | 2 | 件 | Cotton-padded jacket |
-| 马甲 | mǎjiǎ | 2 | 件 | Vest |
-| 背带 | bēidài | 2 | 条/根 | Suspenders |
-| 衬衫 | chènshān | 1 | 件 | Shirt |
-| 罩衫 | zhàoshān | 3 | 件 | Coverall |
-| 工作服 | gōngzuòfú | 3 | 件/套 | Work clothes |
-| 制服 | zhìfú | 2 | 件/套 | Uniform |
+### T恤
+- **拼音:** T xù
+- **HSK:** 1
+- **量词:** 件
+- **英文:** T-shirt
+
+### 衬衫
+- **拼音:** chènshān
+- **HSK:** 1
+- **量词:** 件
+- **英文:** Shirt
+
+### 外套
+- **拼音:** wàitào
+- **HSK:** 1
+- **量词:** 件
+- **英文:** Jacket
+
+### 夹克
+- **拼音:** jiákè
+- **HSK:** 1
+- **量词:** 件
+- **英文:** Jacket
+
+### 毛衣
+- **拼音:** máoyī
+- **HSK:** 1
+- **量词:** 件
+- **英文:** Sweater
+
+### 大衣
+- **拼音:** dàyī
+- **HSK:** 1
+- **量词:** 件
+- **英文:** Coat
+
+### 风衣
+- **拼音:** fēngyī
+- **HSK:** 2
+- **量词:** 件
+- **英文:** Windbreaker
+
+### 夹克衫
+- **拼音:** jiákè shān
+- **HSK:** 1
+- **量词:** 件
+- **英文:** Jacket
+
+### 羽绒服
+- **拼音:** yǔróngfú
+- **HSK:** 1
+- **量词:** 件
+- **英文:** Down jacket
+
+### 棉袄
+- **拼音:** mián'ǎo
+- **HSK:** 2
+- **量词:** 件
+- **英文:** Cotton-padded jacket
+
+### 马甲
+- **拼音:** mǎjiǎ
+- **HSK:** 2
+- **量词:** 件
+- **英文:** Vest
+
+### 背带
+- **拼音:** bēidài
+- **HSK:** 2
+- **量词:** 条/根
+- **英文:** Suspenders
+
+### 衬衫
+- **拼音:** chènshān
+- **HSK:** 1
+- **量词:** 件
+- **英文:** Shirt
+
+### 罩衫
+- **拼音:** zhàoshān
+- **HSK:** 3
+- **量词:** 件
+- **英文:** Coverall
+
+### 工作服
+- **拼音:** gōngzuòfú
+- **HSK:** 3
+- **量词:** 件/套
+- **英文:** Work clothes
+
+### 制服
+- **拼音:** zhìfú
+- **HSK:** 2
+- **量词:** 件/套
+- **英文:** Uniform
+
 
 ## 2. 裤子 (Pants)
 
-| 中文 | 拼音 | HSK | 量词 | 英文 |
-|------|------|-----|------|------|
-| 裤子 | kùzi | 1 | 条 | Pants |
-| 牛仔裤 | niúzǎi | 1 | 条 | Jeans |
-| 长裤 | chángkù | 2 | 条 | Long pants |
-| 短裤 | duǎnkù | 1 | 条 | Shorts |
-| 七分裤 | qīfēnkù | 3 | 条 | Capri pants |
-| 九分裤 | jiǔfēnkù | 3 | 条 | Ankle pants |
-| 运动裤 | yùndòngkù | 2 | 条 | Sweatpants |
-| 休闲裤 | xiūxiánkù | 2 | 条 | Casual pants |
-| 西裤 | xīkù | 2 | 条 | Dress pants |
-| 棉裤 | miánkù | 3 | 条 | Cotton pants |
-| 羽绒裤 | yǔróngkù | 3 | 条 | Down pants |
-| 灯笼裤 | dēnglóngkù | 4 | 条 | Bloomers |
-| 裙裤 | qúnkù | 3 | 条 | Culottes |
-| 喇叭裤 | lǎbākù | 3 | 条 | Bell-bottoms |
-| 阔腿裤 | kuòtuǐkù | 3 | 条 | Wide-leg pants |
+### 裤子
+- **拼音:** kùzi
+- **HSK:** 1
+- **量词:** 条
+- **英文:** Pants
+
+### 牛仔裤
+- **拼音:** niúzǎi
+- **HSK:** 1
+- **量词:** 条
+- **英文:** Jeans
+
+### 长裤
+- **拼音:** chángkù
+- **HSK:** 2
+- **量词:** 条
+- **英文:** Long pants
+
+### 短裤
+- **拼音:** duǎnkù
+- **HSK:** 1
+- **量词:** 条
+- **英文:** Shorts
+
+### 七分裤
+- **拼音:** qīfēnkù
+- **HSK:** 3
+- **量词:** 条
+- **英文:** Capri pants
+
+### 九分裤
+- **拼音:** jiǔfēnkù
+- **HSK:** 3
+- **量词:** 条
+- **英文:** Ankle pants
+
+### 运动裤
+- **拼音:** yùndòngkù
+- **HSK:** 2
+- **量词:** 条
+- **英文:** Sweatpants
+
+### 休闲裤
+- **拼音:** xiūxiánkù
+- **HSK:** 2
+- **量词:** 条
+- **英文:** Casual pants
+
+### 西裤
+- **拼音:** xīkù
+- **HSK:** 2
+- **量词:** 条
+- **英文:** Dress pants
+
+### 棉裤
+- **拼音:** miánkù
+- **HSK:** 3
+- **量词:** 条
+- **英文:** Cotton pants
+
+### 羽绒裤
+- **拼音:** yǔróngkù
+- **HSK:** 3
+- **量词:** 条
+- **英文:** Down pants
+
+### 灯笼裤
+- **拼音:** dēnglóngkù
+- **HSK:** 4
+- **量词:** 条
+- **英文:** Bloomers
+
+### 裙裤
+- **拼音:** qúnkù
+- **HSK:** 3
+- **量词:** 条
+- **英文:** Culottes
+
+### 喇叭裤
+- **拼音:** lǎbākù
+- **HSK:** 3
+- **量词:** 条
+- **英文:** Bell-bottoms
+
+### 阔腿裤
+- **拼音:** kuòtuǐkù
+- **HSK:** 3
+- **量词:** 条
+- **英文:** Wide-leg pants
+
 
 ## 3. 裙子/连衣裙 (Skirts/Dresses)
 
-| 中文 | 拼音 | HSK | 量词 | 英文 |
-|------|------|-----|------|------|
-| 裙子 | qúnzi | 1 | 条 | Skirt |
-| 连衣裙 | liányīqún | 2 | 条 | Dress |
-| 短裙 | duǎnqún | 1 | 条 | Short skirt |
-| 长裙 | chángqún | 2 | 条 | Long skirt |
-| 百褶裙 | bǎizhěqún | 3 | 条 | Pleated skirt |
-| A字裙 | A zì qún | 3 | 条 | A-line skirt |
-| 蓬蓬裙 | péngpéngqún | 3 | 条 | Puffy skirt |
-| 鱼尾裙 | yúwěiqún | 4 | 条 | Mermaid skirt |
-| 半身裙 | bànshēnqún | 3 | 条 | Half skirt |
-| 旗袍 | qípáo | 3 | 件 | Qipao/Cheongsam |
-| 晚礼服 | wǎnlǐfú | 3 | 件 | Evening gown |
-| 婚纱 | hūnshā | 2 | 件 | Wedding dress |
-| 礼服 | lǐfú | 2 | 件 | Formal dress |
+### 裙子
+- **拼音:** qúnzi
+- **HSK:** 1
+- **量词:** 条
+- **英文:** Skirt
+
+### 连衣裙
+- **拼音:** liányīqún
+- **HSK:** 2
+- **量词:** 条
+- **英文:** Dress
+
+### 短裙
+- **拼音:** duǎnqún
+- **HSK:** 1
+- **量词:** 条
+- **英文:** Short skirt
+
+### 长裙
+- **拼音:** chángqún
+- **HSK:** 2
+- **量词:** 条
+- **英文:** Long skirt
+
+### 百褶裙
+- **拼音:** bǎizhěqún
+- **HSK:** 3
+- **量词:** 条
+- **英文:** Pleated skirt
+
+### A字裙
+- **拼音:** A zì qún
+- **HSK:** 3
+- **量词:** 条
+- **英文:** A-line skirt
+
+### 蓬蓬裙
+- **拼音:** péngpéngqún
+- **HSK:** 3
+- **量词:** 条
+- **英文:** Puffy skirt
+
+### 鱼尾裙
+- **拼音:** yúwěiqún
+- **HSK:** 4
+- **量词:** 条
+- **英文:** Mermaid skirt
+
+### 半身裙
+- **拼音:** bànshēnqún
+- **HSK:** 3
+- **量词:** 条
+- **英文:** Half skirt
+
+### 旗袍
+- **拼音:** qípáo
+- **HSK:** 3
+- **量词:** 件
+- **英文:** Qipao/Cheongsam
+
+### 晚礼服
+- **拼音:** wǎnlǐfú
+- **HSK:** 3
+- **量词:** 件
+- **英文:** Evening gown
+
+### 婚纱
+- **拼音:** hūnshā
+- **HSK:** 2
+- **量词:** 件
+- **英文:** Wedding dress
+
+### 礼服
+- **拼音:** lǐfú
+- **HSK:** 2
+- **量词:** 件
+- **英文:** Formal dress
+
 
 ## 4. 内衣/睡衣 (Underwear/Sleepwear)
 
-| 中文 | 拼音 | HSK | 量词 | 英文 |
-|------|------|-----|------|------|
-| 内衣 | nèiyī | 2 | 件 | Underwear |
-| 内裤 | nèikù | 2 | 条 | Underpants |
-| 文胸 | wénxiōng | 3 | 件 | Bra |
-| 内裤 | nèikù | 2 | 条 | Underpants |
-| 睡衣 | shuìyī | 1 | 件/套 | Pajamas |
-| 睡裙 | shuìqún | 3 | 件 | Nightgown |
-| 家居服 | jiājūfú | 3 | 件/套 | Home wear |
-| 秋衣秋裤 | qiūyī qiūkù | 3 | 件/套 | Thermal underwear |
-| 保暖内衣 | bǎonuǎn nèiyī | 3 | 件 | Thermal underwear |
-| 塑身衣 | sùshēnyī | 4 | 件 | Shapewear |
-| 束腰带 | shùyāodài | 4 | 条/根 | Waist trainer |
-| 袜 | wà | 1 | 只/双 | Sock |
-| 连裤袜 | liánkùwà | 3 | 条 | Pantyhose |
-| 丝袜 | sīwà | 2 | 条/双 | Silk stockings |
-| 棉袜 | miánwà | 2 | 双 | Cotton socks |
-| 运动袜 | yùndòngwà | 3 | 双 | Sports socks |
-| 船袜 | chuánwà | 3 | 双 | No-show socks |
-| 短袜 | duǎnwà | 2 | 双 | Short socks |
-| 长袜 | chángwà | 2 | 双 | Long socks |
-| 丝袜 | sīwà | 2 | 双 | Silk stockings |
-| 网袜 | wǎngwà | 4 | 双 | Fishnet stockings |
-| 棉袜 | miánwà | 2 | 双 | Cotton socks |
-| 羊毛袜 | yángmáowà | 4 | 双 | Wool socks |
-| 棉袜 | miánwà | 2 | 双 | Cotton socks |
-| 长筒袜 | chángtǒngwà | 3 | 双 | Thigh-high socks |
-| 短袜 | duǎnwà | 2 | 双 | Ankle socks |
-| 棉袜 | miánwà | 2 | 双 | Cotton socks |
+### 内衣
+- **拼音:** nèiyī
+- **HSK:** 2
+- **量词:** 件
+- **英文:** Underwear
+
+### 内裤
+- **拼音:** nèikù
+- **HSK:** 2
+- **量词:** 条
+- **英文:** Underpants
+
+### 文胸
+- **拼音:** wénxiōng
+- **HSK:** 3
+- **量词:** 件
+- **英文:** Bra
+
+### 内裤
+- **拼音:** nèikù
+- **HSK:** 2
+- **量词:** 条
+- **英文:** Underpants
+
+### 睡衣
+- **拼音:** shuìyī
+- **HSK:** 1
+- **量词:** 件/套
+- **英文:** Pajamas
+
+### 睡裙
+- **拼音:** shuìqún
+- **HSK:** 3
+- **量词:** 件
+- **英文:** Nightgown
+
+### 家居服
+- **拼音:** jiājūfú
+- **HSK:** 3
+- **量词:** 件/套
+- **英文:** Home wear
+
+### 秋衣秋裤
+- **拼音:** qiūyī qiūkù
+- **HSK:** 3
+- **量词:** 件/套
+- **英文:** Thermal underwear
+
+### 保暖内衣
+- **拼音:** bǎonuǎn nèiyī
+- **HSK:** 3
+- **量词:** 件
+- **英文:** Thermal underwear
+
+### 塑身衣
+- **拼音:** sùshēnyī
+- **HSK:** 4
+- **量词:** 件
+- **英文:** Shapewear
+
+### 束腰带
+- **拼音:** shùyāodài
+- **HSK:** 4
+- **量词:** 条/根
+- **英文:** Waist trainer
+
+### 袜
+- **拼音:** wà
+- **HSK:** 1
+- **量词:** 只/双
+- **英文:** Sock
+
+### 连裤袜
+- **拼音:** liánkùwà
+- **HSK:** 3
+- **量词:** 条
+- **英文:** Pantyhose
+
+### 丝袜
+- **拼音:** sīwà
+- **HSK:** 2
+- **量词:** 条/双
+- **英文:** Silk stockings
+
+### 棉袜
+- **拼音:** miánwà
+- **HSK:** 2
+- **量词:** 双
+- **英文:** Cotton socks
+
+### 运动袜
+- **拼音:** yùndòngwà
+- **HSK:** 3
+- **量词:** 双
+- **英文:** Sports socks
+
+### 船袜
+- **拼音:** chuánwà
+- **HSK:** 3
+- **量词:** 双
+- **英文:** No-show socks
+
+### 短袜
+- **拼音:** duǎnwà
+- **HSK:** 2
+- **量词:** 双
+- **英文:** Short socks
+
+### 长袜
+- **拼音:** chángwà
+- **HSK:** 2
+- **量词:** 双
+- **英文:** Long socks
+
+### 丝袜
+- **拼音:** sīwà
+- **HSK:** 2
+- **量词:** 双
+- **英文:** Silk stockings
+
+### 网袜
+- **拼音:** wǎngwà
+- **HSK:** 4
+- **量词:** 双
+- **英文:** Fishnet stockings
+
+### 棉袜
+- **拼音:** miánwà
+- **HSK:** 2
+- **量词:** 双
+- **英文:** Cotton socks
+
+### 羊毛袜
+- **拼音:** yángmáowà
+- **HSK:** 4
+- **量词:** 双
+- **英文:** Wool socks
+
+### 棉袜
+- **拼音:** miánwà
+- **HSK:** 2
+- **量词:** 双
+- **英文:** Cotton socks
+
+### 长筒袜
+- **拼音:** chángtǒngwà
+- **HSK:** 3
+- **量词:** 双
+- **英文:** Thigh-high socks
+
+### 短袜
+- **拼音:** duǎnwà
+- **HSK:** 2
+- **量词:** 双
+- **英文:** Ankle socks
+
+### 棉袜
+- **拼音:** miánwà
+- **HSK:** 2
+- **量词:** 双
+- **英文:** Cotton socks
+
 
 ## 5. 鞋 (Shoes)
 
-| 中文 | 拼音 | HSK | 量词 | 英文 |
-|------|------|-----|------|------|
-| 鞋 | xié | 1 | 只/双 | Shoe |
-| 运动鞋 | yùndòngxié | 1 | 双 | Sneakers |
-| 皮鞋 | píxié | 1 | 双 | Leather shoes |
-| 凉鞋 | liángxié | 1 | 双 | Sandals |
-| 拖鞋 | tuōxié | 1 | 双 | Slippers |
-| 靴子 | xuēzi | 2 | 双 | Boots |
-| 高跟鞋 | gāogēnxié | 1 | 双 | High heels |
-| 帆布鞋 | fānbùxié | 2 | 双 | Canvas shoes |
-| 跑鞋 | pǎoxié | 2 | 双 | Running shoes |
-| 篮球鞋 | lánqiúxié | 2 | 双 | Basketball shoes |
-| 足球鞋 | zúqiúxié | 3 | 双 | Soccer shoes/Football boots |
-| 靴子 | xuēzi | 2 | 双 | Boots |
-| 雪地靴 | xuědìxuē | 3 | 双 | Snow boots |
-| 雨靴 | yǔxuē | 3 | 双 | Rain boots |
-| 布鞋 | bùxié | 2 | 双 | Cloth shoes |
-| 草鞋 | cǎoxié | 4 | 双 | Straw sandals |
-| 凉鞋 | liángxié | 1 | 双 | Sandals |
-| 人字拖 | rénzìtuō | 3 | 双 | Flip-flops |
-| 拖鞋 | tuōxié | 1 | 双 | Slippers |
-| 棉拖 | miántuō | 3 | 双 | Cotton slippers |
+### 鞋
+- **拼音:** xié
+- **HSK:** 1
+- **量词:** 只/双
+- **英文:** Shoe
+
+### 运动鞋
+- **拼音:** yùndòngxié
+- **HSK:** 1
+- **量词:** 双
+- **英文:** Sneakers
+
+### 皮鞋
+- **拼音:** píxié
+- **HSK:** 1
+- **量词:** 双
+- **英文:** Leather shoes
+
+### 凉鞋
+- **拼音:** liángxié
+- **HSK:** 1
+- **量词:** 双
+- **英文:** Sandals
+
+### 拖鞋
+- **拼音:** tuōxié
+- **HSK:** 1
+- **量词:** 双
+- **英文:** Slippers
+
+### 靴子
+- **拼音:** xuēzi
+- **HSK:** 2
+- **量词:** 双
+- **英文:** Boots
+
+### 高跟鞋
+- **拼音:** gāogēnxié
+- **HSK:** 1
+- **量词:** 双
+- **英文:** High heels
+
+### 帆布鞋
+- **拼音:** fānbùxié
+- **HSK:** 2
+- **量词:** 双
+- **英文:** Canvas shoes
+
+### 跑鞋
+- **拼音:** pǎoxié
+- **HSK:** 2
+- **量词:** 双
+- **英文:** Running shoes
+
+### 篮球鞋
+- **拼音:** lánqiúxié
+- **HSK:** 2
+- **量词:** 双
+- **英文:** Basketball shoes
+
+### 足球鞋
+- **拼音:** zúqiúxié
+- **HSK:** 3
+- **量词:** 双
+- **英文:** Soccer shoes/Football boots
+
+### 靴子
+- **拼音:** xuēzi
+- **HSK:** 2
+- **量词:** 双
+- **英文:** Boots
+
+### 雪地靴
+- **拼音:** xuědìxuē
+- **HSK:** 3
+- **量词:** 双
+- **英文:** Snow boots
+
+### 雨靴
+- **拼音:** yǔxuē
+- **HSK:** 3
+- **量词:** 双
+- **英文:** Rain boots
+
+### 布鞋
+- **拼音:** bùxié
+- **HSK:** 2
+- **量词:** 双
+- **英文:** Cloth shoes
+
+### 草鞋
+- **拼音:** cǎoxié
+- **HSK:** 4
+- **量词:** 双
+- **英文:** Straw sandals
+
+### 凉鞋
+- **拼音:** liángxié
+- **HSK:** 1
+- **量词:** 双
+- **英文:** Sandals
+
+### 人字拖
+- **拼音:** rénzìtuō
+- **HSK:** 3
+- **量词:** 双
+- **英文:** Flip-flops
+
+### 拖鞋
+- **拼音:** tuōxié
+- **HSK:** 1
+- **量词:** 双
+- **英文:** Slippers
+
+### 棉拖
+- **拼音:** miántuō
+- **HSK:** 3
+- **量词:** 双
+- **英文:** Cotton slippers
+
 
 ## 6. 帽子/配饰 (Hats/Accessories)
 
-| 中文 | 拼音 | HSK | 量词 | 英文 |
-|------|------|-----|------|------|
-| 帽子 | màozi | 1 | 顶 | Hat |
-| 鸭舌帽 | yāshémào | 3 | 顶 | Baseball cap |
-| 棒球帽 | bàngqiúmào | 3 | 顶 | Baseball cap |
-| 草帽 | cǎomào | 2 | 顶 | Straw hat |
-| 礼帽 | lǐmào | 3 | 顶 | Top hat |
-| 太阳帽 | tàiyángmào | 2 | 顶 | Sun hat |
-| 渔夫帽 | yúfūmào | 3 | 顶 | Bucket hat |
-| 贝雷帽 | bèilèimào | 4 | 顶 | Beret |
-| 头巾 | tóujīn | 2 | 条 | Headscarf |
-| 发卡 | fàkǎ | 2 | 个 | Hair clip |
-| 发圈 | fàquān | 2 | 个 | Hair tie |
-| 发带 | fàdài | 2 | 条/根 | Headband |
-| 发簪 | fàzān | 4 | 个/支 | Hairpin |
-| 项链 | xiàngliàn | 1 | 条/根 | Necklace |
-| 耳环 | ěrhuán | 2 | 对/只/副 | Earrings |
-| 耳钉 | ěrdīng | 2 | 对/只/副 | Stud earrings |
-| 手链 | shǒuliàn | 1 | 条/只 | Bracelet |
-| 戒指 | jièzhǐ | 1 | 枚/只 | Ring |
-| 手表 | shǒubiǎo | 1 | 块/只 | Watch |
-| 眼镜 | yǎnjìng | 1 | 副/只 | Glasses |
-| 太阳镜 | tàiyángjìng | 2 | 副/只 | Sunglasses |
-| 隐形眼镜 | yǐnxíng yǎnjìng | 3 | 副/只 | Contact lenses |
-| 围巾 | wéijīn | 2 | 条 | Scarf |
-| 手套 | shǒutào | 2 | 副/只 | Gloves |
-| 皮带 | pídài | 2 | 条 | Belt |
-| 钱包 | qiánbāo | 1 | 个 | Wallet |
-| 钥匙扣 | yàochikòu | 3 | 个 | Keychain |
-| 太阳伞 | tàiyángsǎn | 2 | 把 | Sun umbrella |
-| 雨伞 | yǔsǎn | 1 | 把 | Umbrella |
-| 背包 | bèibāo | 1 | 个 | Backpack |
-| 手提包 | shǒutíbāo | 2 | 个 | Handbag |
-| 双肩包 | shuāngjiānbāo | 2 | 个 | Backpack |
-| 旅行箱 | lǚxíngxiāng | 2 | 个 | Suitcase |
-| 行李箱 | xínglǐxiāng | 2 | 个 | Luggage |
-| 手提箱 | shǒutíxiāng | 3 | 个 | Suitcase |
-| 书包 | shūbāo | 1 | 个 | School bag |
-| 学生书包 | xuéshēng shūbāo | 3 | 个 | Student schoolbag |
+### 帽子
+- **拼音:** màozi
+- **HSK:** 1
+- **量词:** 顶
+- **英文:** Hat
+
+### 鸭舌帽
+- **拼音:** yāshémào
+- **HSK:** 3
+- **量词:** 顶
+- **英文:** Baseball cap
+
+### 棒球帽
+- **拼音:** bàngqiúmào
+- **HSK:** 3
+- **量词:** 顶
+- **英文:** Baseball cap
+
+### 草帽
+- **拼音:** cǎomào
+- **HSK:** 2
+- **量词:** 顶
+- **英文:** Straw hat
+
+### 礼帽
+- **拼音:** lǐmào
+- **HSK:** 3
+- **量词:** 顶
+- **英文:** Top hat
+
+### 太阳帽
+- **拼音:** tàiyángmào
+- **HSK:** 2
+- **量词:** 顶
+- **英文:** Sun hat
+
+### 渔夫帽
+- **拼音:** yúfūmào
+- **HSK:** 3
+- **量词:** 顶
+- **英文:** Bucket hat
+
+### 贝雷帽
+- **拼音:** bèilèimào
+- **HSK:** 4
+- **量词:** 顶
+- **英文:** Beret
+
+### 头巾
+- **拼音:** tóujīn
+- **HSK:** 2
+- **量词:** 条
+- **英文:** Headscarf
+
+### 发卡
+- **拼音:** fàkǎ
+- **HSK:** 2
+- **量词:** 个
+- **英文:** Hair clip
+
+### 发圈
+- **拼音:** fàquān
+- **HSK:** 2
+- **量词:** 个
+- **英文:** Hair tie
+
+### 发带
+- **拼音:** fàdài
+- **HSK:** 2
+- **量词:** 条/根
+- **英文:** Headband
+
+### 发簪
+- **拼音:** fàzān
+- **HSK:** 4
+- **量词:** 个/支
+- **英文:** Hairpin
+
+### 项链
+- **拼音:** xiàngliàn
+- **HSK:** 1
+- **量词:** 条/根
+- **英文:** Necklace
+
+### 耳环
+- **拼音:** ěrhuán
+- **HSK:** 2
+- **量词:** 对/只/副
+- **英文:** Earrings
+
+### 耳钉
+- **拼音:** ěrdīng
+- **HSK:** 2
+- **量词:** 对/只/副
+- **英文:** Stud earrings
+
+### 手链
+- **拼音:** shǒuliàn
+- **HSK:** 1
+- **量词:** 条/只
+- **英文:** Bracelet
+
+### 戒指
+- **拼音:** jièzhǐ
+- **HSK:** 1
+- **量词:** 枚/只
+- **英文:** Ring
+
+### 手表
+- **拼音:** shǒubiǎo
+- **HSK:** 1
+- **量词:** 块/只
+- **英文:** Watch
+
+### 眼镜
+- **拼音:** yǎnjìng
+- **HSK:** 1
+- **量词:** 副/只
+- **英文:** Glasses
+
+### 太阳镜
+- **拼音:** tàiyángjìng
+- **HSK:** 2
+- **量词:** 副/只
+- **英文:** Sunglasses
+
+### 隐形眼镜
+- **拼音:** yǐnxíng yǎnjìng
+- **HSK:** 3
+- **量词:** 副/只
+- **英文:** Contact lenses
+
+### 围巾
+- **拼音:** wéijīn
+- **HSK:** 2
+- **量词:** 条
+- **英文:** Scarf
+
+### 手套
+- **拼音:** shǒutào
+- **HSK:** 2
+- **量词:** 副/只
+- **英文:** Gloves
+
+### 皮带
+- **拼音:** pídài
+- **HSK:** 2
+- **量词:** 条
+- **英文:** Belt
+
+### 钱包
+- **拼音:** qiánbāo
+- **HSK:** 1
+- **量词:** 个
+- **英文:** Wallet
+
+### 钥匙扣
+- **拼音:** yàochikòu
+- **HSK:** 3
+- **量词:** 个
+- **英文:** Keychain
+
+### 太阳伞
+- **拼音:** tàiyángsǎn
+- **HSK:** 2
+- **量词:** 把
+- **英文:** Sun umbrella
+
+### 雨伞
+- **拼音:** yǔsǎn
+- **HSK:** 1
+- **量词:** 把
+- **英文:** Umbrella
+
+### 背包
+- **拼音:** bèibāo
+- **HSK:** 1
+- **量词:** 个
+- **英文:** Backpack
+
+### 手提包
+- **拼音:** shǒutíbāo
+- **HSK:** 2
+- **量词:** 个
+- **英文:** Handbag
+
+### 双肩包
+- **拼音:** shuāngjiānbāo
+- **HSK:** 2
+- **量词:** 个
+- **英文:** Backpack
+
+### 旅行箱
+- **拼音:** lǚxíngxiāng
+- **HSK:** 2
+- **量词:** 个
+- **英文:** Suitcase
+
+### 行李箱
+- **拼音:** xínglǐxiāng
+- **HSK:** 2
+- **量词:** 个
+- **英文:** Luggage
+
+### 手提箱
+- **拼音:** shǒutíxiāng
+- **HSK:** 3
+- **量词:** 个
+- **英文:** Suitcase
+
+### 书包
+- **拼音:** shūbāo
+- **HSK:** 1
+- **量词:** 个
+- **英文:** School bag
+
+### 学生书包
+- **拼音:** xuéshēng shūbāo
+- **HSK:** 3
+- **量词:** 个
+- **英文:** Student schoolbag
+
 
 ## 7. 面料/材质 (Fabrics/Materials)
 
-| 中文 | 拼音 | HSK | 英文 |
-|------|------|-----|------|
-| 棉 | mián | 1 | Cotton |
-| 麻 | má | 2 | Linen/Hemp |
-| 丝 | sī | 2 | Silk |
-| 羊毛 | yángmáo | 1 | Wool |
-| 羊绒 | yángróng | 2 | Cashmere |
-| 涤纶 | dílún | 3 | Polyester |
-| 尼纶 | nílún | 4 | Nylon |
-| 腈纶 | jīnglún | 4 | Acrylic |
-| 莫代尔 | mòdài'ěr | 5 | Modal |
-| 莱赛尔 | láisài'ěr | 5 | Lyocell/Tencel |
-| 棉麻 | miánmá | 4 | Cotton-linen blend |
-| 真丝 | zhēnsī | 3 | Pure silk |
-| 天丝 | tiānsī | 5 | Tencel |
-| 雪纺 | xuěfǎng | 4 | Chiffon |
-| 纱 | shā | 2 | Gauze/Yarn |
-| 呢绒 | níróng | 4 | Woolen cloth |
-| 灯芯绒 | dēngxīnróng | 4 | Corduroy |
-| 麂皮绒 | jǐpíóng | 4 | Suede |
-| 皮革 | pígé | 2 | Leather |
-| 仿皮 | fǎngpí | 4 | Faux leather |
-| PU皮 | PU pí | 2 | PU leather |
-| PVC皮 | PVC pí | 3 | PVC leather |
-| 帆布 | fānbù | 2 | Canvas |
-| 牛仔布 | niúzǎibù | 2 | Denim |
-| 呢子 | nízi | 3 | Woolen cloth |
-| 绒布 | róngbù | 3 | Velvet |
-| 丝绸 | sīchóu | 2 | Silk |
-| 锦缎 | jǐnduàn | 4 | Brocade |
-| 棉麻混纺 | miánmá hùnfǎng | 4 | Cotton-linen blend |
-| 涤棉混纺 | dǐmián hùnfǎng | 4 | Polyester-cotton blend |
-| 莫代尔棉 | mòdài'ěr mián | 4 | Modal-cotton blend |
-| 竹纤维 | zhúxiānwéi | 4 | Bamboo fiber |
-| 大豆纤维 | dàdòu xiānwéi | 4 | Soy fiber |
-| 玉米纤维 | yùmǐ xiānwéi | 4 | Corn fiber |
-| 竹炭纤维 | zhútàn xiānwéi | 4 | Bamboo charcoal fiber |
-| 椰碳纤维 | yētàn xiānwéi | 4 | Coconut charcoal fiber |
-| 草本纤维 | cǎoběn xiānwéi | 4 | Herbal fiber |
-| 玉米纤维 | yùmǐ xiānwéi | 4 | Corn fiber |
-| 竹纤维 | zhúxiānwéi | 4 | Bamboo fiber |
-| 大豆纤维 | dàdòu xiānwéi | 4 | Soy fiber |
-| 玉米纤维 | yùmǐ xiānwéi | 4 | Corn fiber |
+### 棉
+- **拼音:** mián
+- **HSK:** 1
+- **英文:** Cotton
+
+### 麻
+- **拼音:** má
+- **HSK:** 2
+- **英文:** Linen/Hemp
+
+### 丝
+- **拼音:** sī
+- **HSK:** 2
+- **英文:** Silk
+
+### 羊毛
+- **拼音:** yángmáo
+- **HSK:** 1
+- **英文:** Wool
+
+### 羊绒
+- **拼音:** yángróng
+- **HSK:** 2
+- **英文:** Cashmere
+
+### 涤纶
+- **拼音:** dílún
+- **HSK:** 3
+- **英文:** Polyester
+
+### 尼纶
+- **拼音:** nílún
+- **HSK:** 4
+- **英文:** Nylon
+
+### 腈纶
+- **拼音:** jīnglún
+- **HSK:** 4
+- **英文:** Acrylic
+
+### 莫代尔
+- **拼音:** mòdài'ěr
+- **HSK:** 5
+- **英文:** Modal
+
+### 莱赛尔
+- **拼音:** láisài'ěr
+- **HSK:** 5
+- **英文:** Lyocell/Tencel
+
+### 棉麻
+- **拼音:** miánmá
+- **HSK:** 4
+- **英文:** Cotton-linen blend
+
+### 真丝
+- **拼音:** zhēnsī
+- **HSK:** 3
+- **英文:** Pure silk
+
+### 天丝
+- **拼音:** tiānsī
+- **HSK:** 5
+- **英文:** Tencel
+
+### 雪纺
+- **拼音:** xuěfǎng
+- **HSK:** 4
+- **英文:** Chiffon
+
+### 纱
+- **拼音:** shā
+- **HSK:** 2
+- **英文:** Gauze/Yarn
+
+### 呢绒
+- **拼音:** níróng
+- **HSK:** 4
+- **英文:** Woolen cloth
+
+### 灯芯绒
+- **拼音:** dēngxīnróng
+- **HSK:** 4
+- **英文:** Corduroy
+
+### 麂皮绒
+- **拼音:** jǐpíóng
+- **HSK:** 4
+- **英文:** Suede
+
+### 皮革
+- **拼音:** pígé
+- **HSK:** 2
+- **英文:** Leather
+
+### 仿皮
+- **拼音:** fǎngpí
+- **HSK:** 4
+- **英文:** Faux leather
+
+### PU皮
+- **拼音:** PU pí
+- **HSK:** 2
+- **英文:** PU leather
+
+### PVC皮
+- **拼音:** PVC pí
+- **HSK:** 3
+- **英文:** PVC leather
+
+### 帆布
+- **拼音:** fānbù
+- **HSK:** 2
+- **英文:** Canvas
+
+### 牛仔布
+- **拼音:** niúzǎibù
+- **HSK:** 2
+- **英文:** Denim
+
+### 呢子
+- **拼音:** nízi
+- **HSK:** 3
+- **英文:** Woolen cloth
+
+### 绒布
+- **拼音:** róngbù
+- **HSK:** 3
+- **英文:** Velvet
+
+### 丝绸
+- **拼音:** sīchóu
+- **HSK:** 2
+- **英文:** Silk
+
+### 锦缎
+- **拼音:** jǐnduàn
+- **HSK:** 4
+- **英文:** Brocade
+
+### 棉麻混纺
+- **拼音:** miánmá hùnfǎng
+- **HSK:** 4
+- **英文:** Cotton-linen blend
+
+### 涤棉混纺
+- **拼音:** dǐmián hùnfǎng
+- **HSK:** 4
+- **英文:** Polyester-cotton blend
+
+### 莫代尔棉
+- **拼音:** mòdài'ěr mián
+- **HSK:** 4
+- **英文:** Modal-cotton blend
+
+### 竹纤维
+- **拼音:** zhúxiānwéi
+- **HSK:** 4
+- **英文:** Bamboo fiber
+
+### 大豆纤维
+- **拼音:** dàdòu xiānwéi
+- **HSK:** 4
+- **英文:** Soy fiber
+
+### 玉米纤维
+- **拼音:** yùmǐ xiānwéi
+- **HSK:** 4
+- **英文:** Corn fiber
+
+### 竹炭纤维
+- **拼音:** zhútàn xiānwéi
+- **HSK:** 4
+- **英文:** Bamboo charcoal fiber
+
+### 椰碳纤维
+- **拼音:** yētàn xiānwéi
+- **HSK:** 4
+- **英文:** Coconut charcoal fiber
+
+### 草本纤维
+- **拼音:** cǎoběn xiānwéi
+- **HSK:** 4
+- **英文:** Herbal fiber
+
+### 玉米纤维
+- **拼音:** yùmǐ xiānwéi
+- **HSK:** 4
+- **英文:** Corn fiber
+
+### 竹纤维
+- **拼音:** zhúxiānwéi
+- **HSK:** 4
+- **英文:** Bamboo fiber
+
+### 大豆纤维
+- **拼音:** dàdòu xiānwéi
+- **HSK:** 4
+- **英文:** Soy fiber
+
+### 玉米纤维
+- **拼音:** yùmǐ xiānwéi
+- **HSK:** 4
+- **英文:** Corn fiber
+
 
 ## 8. 季节/场合 (Seasons/Occasions)
 
-| 中文 | 拼音 | HSK | 英文 |
-|------|------|-----|------|
-| 春装 | chūnzhuāng | 2 | Spring clothes |
-| 夏装 | xiàzhuāng | 2 | Summer clothes |
-| 秋装 | qiūzhuāng | 2 | Autumn clothes |
-| 冬装 | dōngzhuāng | 2 | Winter clothes |
-| 泳装 | yǒngzhuāng | 2 | Swimsuit |
-| 晚装 | wǎnzhuāng | 2 | Evening dress |
-| 婚纱 | hūnshā | 2 | Wedding dress |
-| 礼服 | lǐfú | 2 | Formal dress |
-| 休闲装 | xiūxiánzhuāng | 2 | Casual wear |
-| 运动装 | yùndòngzhuāng | 2 | Sportswear |
-| 工作装 | gōngzuòzhuāng | 2 | Work wear |
-| 校服 | xiàofú | 2 | School uniform |
-| 制服 | zhìfú | 2 | Uniform |
-| 睡衣 | shuìyī | 1 | Pajamas |
-| 家居服 | jiājūfú | 2 | Home wear |
+### 春装
+- **拼音:** chūnzhuāng
+- **HSK:** 2
+- **英文:** Spring clothes
+
+### 夏装
+- **拼音:** xiàzhuāng
+- **HSK:** 2
+- **英文:** Summer clothes
+
+### 秋装
+- **拼音:** qiūzhuāng
+- **HSK:** 2
+- **英文:** Autumn clothes
+
+### 冬装
+- **拼音:** dōngzhuāng
+- **HSK:** 2
+- **英文:** Winter clothes
+
+### 泳装
+- **拼音:** yǒngzhuāng
+- **HSK:** 2
+- **英文:** Swimsuit
+
+### 晚装
+- **拼音:** wǎnzhuāng
+- **HSK:** 2
+- **英文:** Evening dress
+
+### 婚纱
+- **拼音:** hūnshā
+- **HSK:** 2
+- **英文:** Wedding dress
+
+### 礼服
+- **拼音:** lǐfú
+- **HSK:** 2
+- **英文:** Formal dress
+
+### 休闲装
+- **拼音:** xiūxiánzhuāng
+- **HSK:** 2
+- **英文:** Casual wear
+
+### 运动装
+- **拼音:** yùndòngzhuāng
+- **HSK:** 2
+- **英文:** Sportswear
+
+### 工作装
+- **拼音:** gōngzuòzhuāng
+- **HSK:** 2
+- **英文:** Work wear
+
+### 校服
+- **拼音:** xiàofú
+- **HSK:** 2
+- **英文:** School uniform
+
+### 制服
+- **拼音:** zhìfú
+- **HSK:** 2
+- **英文:** Uniform
+
+### 睡衣
+- **拼音:** shuìyī
+- **HSK:** 1
+- **英文:** Pajamas
+
+### 家居服
+- **拼音:** jiājūfú
+- **HSK:** 2
+- **英文:** Home wear
+
 
 ## 9. 颜色/图案 (Colors/Patterns)
 
-| 中文 | 拼音 | HSK | 英文 |
-|------|------|-----|------|
-| 纯色 | chúnsè | 2 | Solid color |
-| 花色 | huāsè | 2 | Patterned |
-| 条纹 | tiáowén | 2 | Striped |
-| 格子 | gézi | 1 | Plaid/Checkered |
-| 印花 | yìnhuā | 2 | Printed |
-| 刺绣 | cìxiù | 2 | Embroidered |
-| 镂空 | lòukōng | 3 | Hollowed out |
-| 蕾丝 | lěisī | 2 | Lace |
-| 亮片 | liàngpiàn | 3 | Sequins |
-| 拼接 | pīnjiē | 3 | Patchwork |
-| 渐变 | jiànbiàn | 3 | Gradient |
-| 撞色 | zhuàngsè | 3 | Color-blocking |
+### 纯色
+- **拼音:** chúnsè
+- **HSK:** 2
+- **英文:** Solid color
+
+### 花色
+- **拼音:** huāsè
+- **HSK:** 2
+- **英文:** Patterned
+
+### 条纹
+- **拼音:** tiáowén
+- **HSK:** 2
+- **英文:** Striped
+
+### 格子
+- **拼音:** gézi
+- **HSK:** 1
+- **英文:** Plaid/Checkered
+
+### 印花
+- **拼音:** yìnhuā
+- **HSK:** 2
+- **英文:** Printed
+
+### 刺绣
+- **拼音:** cìxiù
+- **HSK:** 2
+- **英文:** Embroidered
+
+### 镂空
+- **拼音:** lòukōng
+- **HSK:** 3
+- **英文:** Hollowed out
+
+### 蕾丝
+- **拼音:** lěisī
+- **HSK:** 2
+- **英文:** Lace
+
+### 亮片
+- **拼音:** liàngpiàn
+- **HSK:** 3
+- **英文:** Sequins
+
+### 拼接
+- **拼音:** pīnjiē
+- **HSK:** 3
+- **英文:** Patchwork
+
+### 渐变
+- **拼音:** jiànbiàn
+- **HSK:** 3
+- **英文:** Gradient
+
+### 撞色
+- **拼音:** zhuàngsè
+- **HSK:** 3
+- **英文:** Color-blocking
+
 
 ## 10. 试穿/购买 (Trying/Buying)
 
-| 中文 | 拼音 | HSK | 英文 |
-|------|------|-----|------|
-| 试穿 | shìchuān | 2 | Try on |
-| 试衣间 | shìyījiān | 2 | Fitting room |
-| 尺码 | chǐmǎ | 2 | Size |
-| 大号 | dàhào | 1 | Large |
-| 中号 | zhōnghào | 1 | Medium |
-| 小号 | xiǎohào | 1 | Small |
-| 大码 | dàmǎ | 1 | Plus size |
-| 加大码 | jiādàmǎ | 1 | Extra large |
-| 均码 | jūnmǎ | 1 | One size |
-| 颜色 | yánsè | 1 | Color |
-| 款式 | kuǎnshì | 1 | Style |
-| 面料 | miànliào | 2 | Fabric |
-| 材质 | cáizhì | 2 | Material |
-| 价格 | jiàgé | 1 | Price |
-| 折扣 | zhékòu | 1 | Discount |
-| 满减 | mǎnjiǎn | 3 | Full reduction |
-| 优惠券 | yōuhuìquàn | 2 | Coupon |
-| 换货 | huànhuò | 2 | Exchange |
-| 退货 | tuìhuò | 1 | Return |
-| 发票 | fāpiào | 2 | Receipt/Invoice |
-| 保修 | bǎoxiū | 2 | Warranty |
-| 维修 | wéixiū | 2 | Repair |
-| 干洗 | gānxǐ | 2 | Dry clean |
-| 水洗 | shuǐxǐ | 2 | Hand wash |
-| 机洗 | jīxǐ | 2 | Machine wash |
-| 漂白 | piǎobái | 3 | Bleach |
-| 熨烫 | yùntàng | 3 | Iron |
-| 烘干 | hōnggān | 3 | Tumble dry |
-| 晾干 | liànggān | 2 | Hang dry |
-| 阴干 | yīngān | 2 | Dry in shade |
-| 晾晒 | liàngshài | 2 | Hang to dry |
-| 折叠 | zhédié | 2 | Fold |
-| 收纳 | shōunà | 2 | Store |
-| 整理 | zhěnglǐ | 1 | Organize |
-| 搭配 | dāpèi | 2 | Match/Coordinate |
-| 混搭 | hùndā | 2 | Mix and match |
-| 时尚 | shíshàng | 2 | Fashion |
-| 流行 | liúxíng | 2 | Trendy |
-| 经典 | jīngdiǎn | 2 | Classic |
-| 复古 | fùgǔ | 2 | Retro |
-| 简约 | jiǎnyuē | 2 | Minimalist |
-| 时尚 | shíshàng | 2 | Fashionable |
-| 个性 | gèxìng | 2 | Personal/Unique |
-| 大方 | dàfāng | 1 | Generous/Elegant |
-| 得体 | détǐ | 2 | Appropriate/Decent |
-| 合适 | héshì | 1 | Suitable |
-| 合身 | héshēn | 2 | Fitted |
-| 宽松 | kuānsōng | 1 | Loose |
-| 紧身 | jǐnshēn | 2 | Tight |
-| 透气 | tòuqì | 2 | Breathable |
-| 吸汗 | xīhàn | 2 | Sweat-absorbing |
-| 防水 | fángshuǐ | 2 | Waterproof |
-| 防风 | fángfēng | 2 | Windproof |
-| 保暖 | bǎonuǎn | 2 | Warm |
-| 凉爽 | liángshuǎng | 2 | Cool |
+### 试穿
+- **拼音:** shìchuān
+- **HSK:** 2
+- **英文:** Try on
+
+### 试衣间
+- **拼音:** shìyījiān
+- **HSK:** 2
+- **英文:** Fitting room
+
+### 尺码
+- **拼音:** chǐmǎ
+- **HSK:** 2
+- **英文:** Size
+
+### 大号
+- **拼音:** dàhào
+- **HSK:** 1
+- **英文:** Large
+
+### 中号
+- **拼音:** zhōnghào
+- **HSK:** 1
+- **英文:** Medium
+
+### 小号
+- **拼音:** xiǎohào
+- **HSK:** 1
+- **英文:** Small
+
+### 大码
+- **拼音:** dàmǎ
+- **HSK:** 1
+- **英文:** Plus size
+
+### 加大码
+- **拼音:** jiādàmǎ
+- **HSK:** 1
+- **英文:** Extra large
+
+### 均码
+- **拼音:** jūnmǎ
+- **HSK:** 1
+- **英文:** One size
+
+### 颜色
+- **拼音:** yánsè
+- **HSK:** 1
+- **英文:** Color
+
+### 款式
+- **拼音:** kuǎnshì
+- **HSK:** 1
+- **英文:** Style
+
+### 面料
+- **拼音:** miànliào
+- **HSK:** 2
+- **英文:** Fabric
+
+### 材质
+- **拼音:** cáizhì
+- **HSK:** 2
+- **英文:** Material
+
+### 价格
+- **拼音:** jiàgé
+- **HSK:** 1
+- **英文:** Price
+
+### 折扣
+- **拼音:** zhékòu
+- **HSK:** 1
+- **英文:** Discount
+
+### 满减
+- **拼音:** mǎnjiǎn
+- **HSK:** 3
+- **英文:** Full reduction
+
+### 优惠券
+- **拼音:** yōuhuìquàn
+- **HSK:** 2
+- **英文:** Coupon
+
+### 换货
+- **拼音:** huànhuò
+- **HSK:** 2
+- **英文:** Exchange
+
+### 退货
+- **拼音:** tuìhuò
+- **HSK:** 1
+- **英文:** Return
+
+### 发票
+- **拼音:** fāpiào
+- **HSK:** 2
+- **英文:** Receipt/Invoice
+
+### 保修
+- **拼音:** bǎoxiū
+- **HSK:** 2
+- **英文:** Warranty
+
+### 维修
+- **拼音:** wéixiū
+- **HSK:** 2
+- **英文:** Repair
+
+### 干洗
+- **拼音:** gānxǐ
+- **HSK:** 2
+- **英文:** Dry clean
+
+### 水洗
+- **拼音:** shuǐxǐ
+- **HSK:** 2
+- **英文:** Hand wash
+
+### 机洗
+- **拼音:** jīxǐ
+- **HSK:** 2
+- **英文:** Machine wash
+
+### 漂白
+- **拼音:** piǎobái
+- **HSK:** 3
+- **英文:** Bleach
+
+### 熨烫
+- **拼音:** yùntàng
+- **HSK:** 3
+- **英文:** Iron
+
+### 烘干
+- **拼音:** hōnggān
+- **HSK:** 3
+- **英文:** Tumble dry
+
+### 晾干
+- **拼音:** liànggān
+- **HSK:** 2
+- **英文:** Hang dry
+
+### 阴干
+- **拼音:** yīngān
+- **HSK:** 2
+- **英文:** Dry in shade
+
+### 晾晒
+- **拼音:** liàngshài
+- **HSK:** 2
+- **英文:** Hang to dry
+
+### 折叠
+- **拼音:** zhédié
+- **HSK:** 2
+- **英文:** Fold
+
+### 收纳
+- **拼音:** shōunà
+- **HSK:** 2
+- **英文:** Store
+
+### 整理
+- **拼音:** zhěnglǐ
+- **HSK:** 1
+- **英文:** Organize
+
+### 搭配
+- **拼音:** dāpèi
+- **HSK:** 2
+- **英文:** Match/Coordinate
+
+### 混搭
+- **拼音:** hùndā
+- **HSK:** 2
+- **英文:** Mix and match
+
+### 时尚
+- **拼音:** shíshàng
+- **HSK:** 2
+- **英文:** Fashion
+
+### 流行
+- **拼音:** liúxíng
+- **HSK:** 2
+- **英文:** Trendy
+
+### 经典
+- **拼音:** jīngdiǎn
+- **HSK:** 2
+- **英文:** Classic
+
+### 复古
+- **拼音:** fùgǔ
+- **HSK:** 2
+- **英文:** Retro
+
+### 简约
+- **拼音:** jiǎnyuē
+- **HSK:** 2
+- **英文:** Minimalist
+
+### 时尚
+- **拼音:** shíshàng
+- **HSK:** 2
+- **英文:** Fashionable
+
+### 个性
+- **拼音:** gèxìng
+- **HSK:** 2
+- **英文:** Personal/Unique
+
+### 大方
+- **拼音:** dàfāng
+- **HSK:** 1
+- **英文:** Generous/Elegant
+
+### 得体
+- **拼音:** détǐ
+- **HSK:** 2
+- **英文:** Appropriate/Decent
+
+### 合适
+- **拼音:** héshì
+- **HSK:** 1
+- **英文:** Suitable
+
+### 合身
+- **拼音:** héshēn
+- **HSK:** 2
+- **英文:** Fitted
+
+### 宽松
+- **拼音:** kuānsōng
+- **HSK:** 1
+- **英文:** Loose
+
+### 紧身
+- **拼音:** jǐnshēn
+- **HSK:** 2
+- **英文:** Tight
+
+### 透气
+- **拼音:** tòuqì
+- **HSK:** 2
+- **英文:** Breathable
+
+### 吸汗
+- **拼音:** xīhàn
+- **HSK:** 2
+- **英文:** Sweat-absorbing
+
+### 防水
+- **拼音:** fángshuǐ
+- **HSK:** 2
+- **英文:** Waterproof
+
+### 防风
+- **拼音:** fángfēng
+- **HSK:** 2
+- **英文:** Windproof
+
+### 保暖
+- **拼音:** bǎonuǎn
+- **HSK:** 2
+- **英文:** Warm
+
+### 凉爽
+- **拼音:** liángshuǎng
+- **HSK:** 2
+- **英文:** Cool
+
 
 ---
 

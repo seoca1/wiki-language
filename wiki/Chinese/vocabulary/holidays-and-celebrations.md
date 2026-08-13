@@ -15,211 +15,983 @@ theme: "holidays"
 
 ## 1. 传统节日 (Traditional Holidays)
 
-| 中文 | 拼音 | HSK | 英文 | 备注 |
-|------|------|-----|------|------|
-| 春节 | chūnjié | 2 | Spring Festival | 农历正月初一 |
-| 元宵节 | yuánxiāo jié | 3 | Lantern Festival | 农历正月十五 |
-| 清明节 | qīngmíng jié | 3 | Qingming Festival | 公历4月4-6日 |
-| 端午节 | duānwǔ jié | 3 | Dragon Boat Festival | 农历五月初五 |
-| 七夕节 | qīxī jié | 3 | Qixi Festival | 农历七月初七 |
-| 中元节 | zhōngyuán jié | 3 | Ghost Festival | 农历七月十五 |
-| 中秋节 | zhōngqiū jié | 3 | Mid-Autumn Festival | 农历八月十五 |
-| 重阳节 | chóngyáng jié | 3 | Double Ninth Festival | 农历九月初九 |
-| 腊八节 | làbā jié | 3 | Laba Festival | 农历十二月初八 |
-| 小年 | xiǎonián | 2 | Little New Year | 农历腊月二十三 |
-| 除夕 | chúxì | 2 | Lunar New Year's Eve | 农历腊月最后一天 |
+### 春节
+- **拼音:** chūnjié
+- **HSK:** 2
+- **英文:** Spring Festival
+- **备注:** 农历正月初一
+
+### 元宵节
+- **拼音:** yuánxiāo jié
+- **HSK:** 3
+- **英文:** Lantern Festival
+- **备注:** 农历正月十五
+
+### 清明节
+- **拼音:** qīngmíng jié
+- **HSK:** 3
+- **英文:** Qingming Festival
+- **备注:** 公历4月4-6日
+
+### 端午节
+- **拼音:** duānwǔ jié
+- **HSK:** 3
+- **英文:** Dragon Boat Festival
+- **备注:** 农历五月初五
+
+### 七夕节
+- **拼音:** qīxī jié
+- **HSK:** 3
+- **英文:** Qixi Festival
+- **备注:** 农历七月初七
+
+### 中元节
+- **拼音:** zhōngyuán jié
+- **HSK:** 3
+- **英文:** Ghost Festival
+- **备注:** 农历七月十五
+
+### 中秋节
+- **拼音:** zhōngqiū jié
+- **HSK:** 3
+- **英文:** Mid-Autumn Festival
+- **备注:** 农历八月十五
+
+### 重阳节
+- **拼音:** chóngyáng jié
+- **HSK:** 3
+- **英文:** Double Ninth Festival
+- **备注:** 农历九月初九
+
+### 腊八节
+- **拼音:** làbā jié
+- **HSK:** 3
+- **英文:** Laba Festival
+- **备注:** 农历十二月初八
+
+### 小年
+- **拼音:** xiǎonián
+- **HSK:** 2
+- **英文:** Little New Year
+- **备注:** 农历腊月二十三
+
+### 除夕
+- **拼音:** chúxì
+- **HSK:** 2
+- **英文:** Lunar New Year's Eve
+- **备注:** 农历腊月最后一天
+
 
 ## 2. 法定假日 (National Holidays)
 
-| 中文 | 拼音 | HSK | 英文 |
-|------|------|-----|------|
-| 元旦 | yuándàn | 2 | New Year's Day |
-| 春节 | chūnjié | 2 | Spring Festival |
-| 清明节 | qīngmíng jié | 3 | Qingming Festival |
-| 劳动节 | láodòng jié | 3 | Labor Day |
-| 端午节 | duānwǔ jié | 3 | Dragon Boat Festival |
-| 中秋节 | zhōngqiū jié | 3 | Mid-Autumn Festival |
-| 国庆节 | guóqìng jié | 2 | National Day |
+### 元旦
+- **拼音:** yuándàn
+- **HSK:** 2
+- **英文:** New Year's Day
+
+### 春节
+- **拼音:** chūnjié
+- **HSK:** 2
+- **英文:** Spring Festival
+
+### 清明节
+- **拼音:** qīngmíng jié
+- **HSK:** 3
+- **英文:** Qingming Festival
+
+### 劳动节
+- **拼音:** láodòng jié
+- **HSK:** 3
+- **英文:** Labor Day
+
+### 端午节
+- **拼音:** duānwǔ jié
+- **HSK:** 3
+- **英文:** Dragon Boat Festival
+
+### 中秋节
+- **拼音:** zhōngqiū jié
+- **HSK:** 3
+- **英文:** Mid-Autumn Festival
+
+### 国庆节
+- **拼音:** guóqìng jié
+- **HSK:** 2
+- **英文:** National Day
+
 
 ## 3. 纪念日 (Memorial Days)
 
-| 中文 | 拼音 | HSK | 英文 |
-|------|------|-----|------|
-| 妇女节 | fùnǚ jié | 2 | Women's Day |
-| 劳动节 | láodòng jié | 3 | Labor Day |
-| 青年节 | qīngnián jié | 3 | Youth Day |
-| 儿童节 | értóng jié | 2 | Children's Day |
-| 教师节 | jiàoshī jié | 2 | Teacher's Day |
-| 国庆节 | guóqìng jié | 2 | National Day |
-| 建党节 | jiàndǎng jié | 4 | Party Founding Day |
-| 建军节 | jiànjūn jié | 3 | Army Day |
-| 抗战胜利纪念日 | kàngzhàn shènglì jìniànrì | 5 | Victory of War Day |
+### 妇女节
+- **拼音:** fùnǚ jié
+- **HSK:** 2
+- **英文:** Women's Day
+
+### 劳动节
+- **拼音:** láodòng jié
+- **HSK:** 3
+- **英文:** Labor Day
+
+### 青年节
+- **拼音:** qīngnián jié
+- **HSK:** 3
+- **英文:** Youth Day
+
+### 儿童节
+- **拼音:** értóng jié
+- **HSK:** 2
+- **英文:** Children's Day
+
+### 教师节
+- **拼音:** jiàoshī jié
+- **HSK:** 2
+- **英文:** Teacher's Day
+
+### 国庆节
+- **拼音:** guóqìng jié
+- **HSK:** 2
+- **英文:** National Day
+
+### 建党节
+- **拼音:** jiàndǎng jié
+- **HSK:** 4
+- **英文:** Party Founding Day
+
+### 建军节
+- **拼音:** jiànjūn jié
+- **HSK:** 3
+- **英文:** Army Day
+
+### 抗战胜利纪念日
+- **拼音:** kàngzhàn shènglì jìniànrì
+- **HSK:** 5
+- **英文:** Victory of War Day
+
 
 ## 4. 现代节日 (Modern Holidays)
 
-| 中文 | 拼音 | HSK | 英文 |
-|------|------|-----|------|
-| 情人节 | qíngrén jié | 2 | Valentine's Day |
-| 白色情人节 | báisè qíngrén jié | 3 | White Day |
-| 愚人节 | yúrén jié | 3 | April Fools' Day |
-| 万圣节 | wànshèng jié | 3 | Halloween |
-| 感恩节 | gǎn'ēn jié | 3 | Thanksgiving |
-| 圣诞节 | shèngdàn jié | 2 | Christmas |
-| 母亲节 | mǔqīn jié | 2 | Mother's Day |
-| 父亲节 | fùqīn jié | 2 | Father's Day |
-| 复活节 | fùhuó jié | 3 | Easter |
-| 万圣节前夜 | wànshèng jié qiányè | 4 | Halloween Eve |
-| 感恩节 | gǎn'ēn jié | 3 | Thanksgiving |
-| 圣诞节夜 | shèngdàn jié yè | 3 | Christmas Eve |
-| 平安夜 | píng'ān yè | 3 | Christmas Eve (Silent Night) |
-| 跨年夜 | kuàinián yè | 3 | New Year's Eve |
-| 元旦 | yuándàn | 2 | New Year's Day |
-| 情人节 | qíngrén jié | 2 | Valentine's Day |
-| 母亲节 | mǔqīn jié | 2 | Mother's Day |
-| 父亲节 | fùqīn jié | 2 | Father's Day |
+### 情人节
+- **拼音:** qíngrén jié
+- **HSK:** 2
+- **英文:** Valentine's Day
+
+### 白色情人节
+- **拼音:** báisè qíngrén jié
+- **HSK:** 3
+- **英文:** White Day
+
+### 愚人节
+- **拼音:** yúrén jié
+- **HSK:** 3
+- **英文:** April Fools' Day
+
+### 万圣节
+- **拼音:** wànshèng jié
+- **HSK:** 3
+- **英文:** Halloween
+
+### 感恩节
+- **拼音:** gǎn'ēn jié
+- **HSK:** 3
+- **英文:** Thanksgiving
+
+### 圣诞节
+- **拼音:** shèngdàn jié
+- **HSK:** 2
+- **英文:** Christmas
+
+### 母亲节
+- **拼音:** mǔqīn jié
+- **HSK:** 2
+- **英文:** Mother's Day
+
+### 父亲节
+- **拼音:** fùqīn jié
+- **HSK:** 2
+- **英文:** Father's Day
+
+### 复活节
+- **拼音:** fùhuó jié
+- **HSK:** 3
+- **英文:** Easter
+
+### 万圣节前夜
+- **拼音:** wànshèng jié qiányè
+- **HSK:** 4
+- **英文:** Halloween Eve
+
+### 感恩节
+- **拼音:** gǎn'ēn jié
+- **HSK:** 3
+- **英文:** Thanksgiving
+
+### 圣诞节夜
+- **拼音:** shèngdàn jié yè
+- **HSK:** 3
+- **英文:** Christmas Eve
+
+### 平安夜
+- **拼音:** píng'ān yè
+- **HSK:** 3
+- **英文:** Christmas Eve (Silent Night)
+
+### 跨年夜
+- **拼音:** kuàinián yè
+- **HSK:** 3
+- **英文:** New Year's Eve
+
+### 元旦
+- **拼音:** yuándàn
+- **HSK:** 2
+- **英文:** New Year's Day
+
+### 情人节
+- **拼音:** qíngrén jié
+- **HSK:** 2
+- **英文:** Valentine's Day
+
+### 母亲节
+- **拼音:** mǔqīn jié
+- **HSK:** 2
+- **英文:** Mother's Day
+
+### 父亲节
+- **拼音:** fùqīn jié
+- **HSK:** 2
+- **英文:** Father's Day
+
 
 ## 5. 少数民族节日 (Ethnic Minority Holidays)
 
-| 中文 | 拼音 | HSK | 民族 | 节日 |
-|------|------|-----|------|------|
-| 那达慕 | nàdámù | 4 | 蒙古族 | 那达慕大会 |
-| 古尔邦节 | gǔ'ěrbāng jié | 3 | 维吾尔族 | 古尔邦节 |
-| 开斋节 | kāizhāi jié | 3 | 回族/维吾尔族等 | 开斋节 |
-| 圣纪节 | shèngjì jié | 3 | 回族/维吾尔族等 | 圣纪节 |
-| 泼水节 | pōshuǐ jié | 3 | 傣族 | 泼水节 |
-| 雪顿节 | xuědùn jié | 3 | 藏族 | 雪顿节 |
-| 望果节 | wàngguǒ jié | 3 | 藏族 | 望果节 |
-| 三月三 | sānyuèsān | 3 | 壮族 | 三月三 |
-| 火把节 | huǒbǎ jié | 3 | 彝族 | 火把节 |
-| 苗年 | miáonián | 3 | 苗族 | 苗年 |
-| 侗年 | dòngnián | 3 | 侗族 | 侗年 |
-| 傈僳年 | lìsùnián | 3 | 傈僳族 | 傈僳年 |
-| 哈尼年 | hā'nínián | 3 | 哈尼族 | 哈尼年 |
-| 拉祜年 | lāhùnián | 3 | 拉祜族 | 拉祜年 |
-| 景颇年 | jǐngpōnián | 3 | 景颇族 | 景颇年 |
-| 佤年 | wǎnián | 3 | 佤族 | 佤年 |
-| 苗年 | miáonián | 3 | 苗族 | 苗年 |
-| 彝年 | yínián | 3 | 彝族 | 彝年 |
-| 傣年 | dǎinián | 3 | 傣族 | 傣年 |
-| 黎年 | línián | 3 | 黎族 | 黎年 |
-| 藏年 | zàngnián | 3 | 藏族 | 藏年 |
-| 蒙古年 | ménggǔnián | 3 | 蒙古族 | 蒙古年 |
-| 回族年 | huízúnián | 3 | 回族 | 回族年 |
-| 满族年 | mǎnzúnián | 3 | 满族 | 满族年 |
-| 朝鲜族年 | cháoxiǎnzúnián | 4 | 朝鲜族 | 朝鲜族年 |
-| 达斡尔年 | dáwò'ěrnián | 4 | 达斡尔族 | 达斡尔年 |
-| 鄂温克年 | èwēnkènián | 4 | 鄂温克族 | 鄂温克年 |
-| 鄂伦春年 | èlúnchūnnián | 4 | 鄂伦春族 | 鄂伦春年 |
-| 赫哲年 | hèzhénián | 4 | 赫哲族 | 赫哲年 |
-| 锡伯年 | xībónián | 4 | 锡伯族 | 锡伯年 |
-| 塔吉克年 | tǎjíkènián | 4 | 塔吉克族 | 塔吉克年 |
-| 柯尔克孜年 | kē'ěrkèzīnián | 4 | 柯尔克孜族 | 柯尔克孜年 |
-| 乌孜别克年 | wūzībiéckènián | 4 | 乌孜别克族 | 乌孜别克年 |
-| 塔塔尔年 | tǎtǎ'ěrnián | 4 | 塔塔尔族 | 塔塔尔年 |
-| 俄罗斯年 | éluósīnián | 3 | 俄罗斯族 | 俄罗斯年 |
-| 塔吉克年 | tǎjíkènián | 4 | 塔吉克族 | 塔吉克年 |
-| 裕固年 | yùgùnián | 4 | 裕固族 | 裕固年 |
-| 保安年 | bǎo'ānnián | 4 | 保安族 | 保安年 |
-| 东乡年 | dōngxiāngnián | 4 | 东乡族 | 东乡族 |
-| 土族年 | tǔzúnián | 4 | 土族 | 土族 |
-| 撒拉年 | sǎlānián | 4 | 撒拉族 | 撒拉年 |
-| 仡佬年 | gēlǎonián | 4 | 仡佬族 | 仡佬年 |
-| 毛南年 | máonánnián | 4 | 毛南族 | 毛南年 |
-| 仫佬年 | mùlǎonián | 4 | 仫佬族 | 仫佬年 |
-| 锡伯年 | xībónián | 4 | 锡伯族 | 锡伯年 |
-| 阿昌年 | āchāngnián | 4 | 阿昌族 | 阿昌年 |
-| 普米年 | pǔmǐnián | 4 | 普米族 | 普米年 |
-| 怒年 | nùnián | 4 | 怒族 | 怒年 |
-| 独龙年 | dúlóngnián | 4 | 独龙族 | 独龙年 |
-| 门巴年 | ménbānián | 4 | 门巴族 | 门巴年 |
-| 珞巴年 | luòbānián | 4 | 珞巴族 | 珞巴年 |
-| 基诺年 | jīnuònián | 4 | 基诺族 | 基诺年 |
-| 高山族年 | gāoshānzúnián | 4 | 高山族 | 高山族年 |
-| 塔吉克年 | tǎjíkènián | 4 | 塔吉克族 | 塔吉克年 |
-| 普米年 | pǔmǐnián | 4 | 普米族 | 普米年 |
-| 怒年 | nùnián | 4 | 怒族 | 怒年 |
-| 独龙年 | dúlóngnián | 4 | 独龙族 | 独龙年 |
-| 门巴年 | ménbānián | 4 | 门巴族 | 门巴年 |
-| 珞巴年 | luòbānián | 4 | 珞巴族 | 珞巴年 |
-| 基诺年 | jīnuònián | 4 | 基诺族 | 基诺年 |
-| 高山族年 | gāoshānzúnián | 4 | 高山族 | 高山族年 |
+### 那达慕
+- **拼音:** nàdámù
+- **HSK:** 4
+- **民族:** 蒙古族
+- **节日:** 那达慕大会
+
+### 古尔邦节
+- **拼音:** gǔ'ěrbāng jié
+- **HSK:** 3
+- **民族:** 维吾尔族
+- **节日:** 古尔邦节
+
+### 开斋节
+- **拼音:** kāizhāi jié
+- **HSK:** 3
+- **民族:** 回族/维吾尔族等
+- **节日:** 开斋节
+
+### 圣纪节
+- **拼音:** shèngjì jié
+- **HSK:** 3
+- **民族:** 回族/维吾尔族等
+- **节日:** 圣纪节
+
+### 泼水节
+- **拼音:** pōshuǐ jié
+- **HSK:** 3
+- **民族:** 傣族
+- **节日:** 泼水节
+
+### 雪顿节
+- **拼音:** xuědùn jié
+- **HSK:** 3
+- **民族:** 藏族
+- **节日:** 雪顿节
+
+### 望果节
+- **拼音:** wàngguǒ jié
+- **HSK:** 3
+- **民族:** 藏族
+- **节日:** 望果节
+
+### 三月三
+- **拼音:** sānyuèsān
+- **HSK:** 3
+- **民族:** 壮族
+- **节日:** 三月三
+
+### 火把节
+- **拼音:** huǒbǎ jié
+- **HSK:** 3
+- **民族:** 彝族
+- **节日:** 火把节
+
+### 苗年
+- **拼音:** miáonián
+- **HSK:** 3
+- **民族:** 苗族
+- **节日:** 苗年
+
+### 侗年
+- **拼音:** dòngnián
+- **HSK:** 3
+- **民族:** 侗族
+- **节日:** 侗年
+
+### 傈僳年
+- **拼音:** lìsùnián
+- **HSK:** 3
+- **民族:** 傈僳族
+- **节日:** 傈僳年
+
+### 哈尼年
+- **拼音:** hā'nínián
+- **HSK:** 3
+- **民族:** 哈尼族
+- **节日:** 哈尼年
+
+### 拉祜年
+- **拼音:** lāhùnián
+- **HSK:** 3
+- **民族:** 拉祜族
+- **节日:** 拉祜年
+
+### 景颇年
+- **拼音:** jǐngpōnián
+- **HSK:** 3
+- **民族:** 景颇族
+- **节日:** 景颇年
+
+### 佤年
+- **拼音:** wǎnián
+- **HSK:** 3
+- **民族:** 佤族
+- **节日:** 佤年
+
+### 苗年
+- **拼音:** miáonián
+- **HSK:** 3
+- **民族:** 苗族
+- **节日:** 苗年
+
+### 彝年
+- **拼音:** yínián
+- **HSK:** 3
+- **民族:** 彝族
+- **节日:** 彝年
+
+### 傣年
+- **拼音:** dǎinián
+- **HSK:** 3
+- **民族:** 傣族
+- **节日:** 傣年
+
+### 黎年
+- **拼音:** línián
+- **HSK:** 3
+- **民族:** 黎族
+- **节日:** 黎年
+
+### 藏年
+- **拼音:** zàngnián
+- **HSK:** 3
+- **民族:** 藏族
+- **节日:** 藏年
+
+### 蒙古年
+- **拼音:** ménggǔnián
+- **HSK:** 3
+- **民族:** 蒙古族
+- **节日:** 蒙古年
+
+### 回族年
+- **拼音:** huízúnián
+- **HSK:** 3
+- **民族:** 回族
+- **节日:** 回族年
+
+### 满族年
+- **拼音:** mǎnzúnián
+- **HSK:** 3
+- **民族:** 满族
+- **节日:** 满族年
+
+### 朝鲜族年
+- **拼音:** cháoxiǎnzúnián
+- **HSK:** 4
+- **民族:** 朝鲜族
+- **节日:** 朝鲜族年
+
+### 达斡尔年
+- **拼音:** dáwò'ěrnián
+- **HSK:** 4
+- **民族:** 达斡尔族
+- **节日:** 达斡尔年
+
+### 鄂温克年
+- **拼音:** èwēnkènián
+- **HSK:** 4
+- **民族:** 鄂温克族
+- **节日:** 鄂温克年
+
+### 鄂伦春年
+- **拼音:** èlúnchūnnián
+- **HSK:** 4
+- **民族:** 鄂伦春族
+- **节日:** 鄂伦春年
+
+### 赫哲年
+- **拼音:** hèzhénián
+- **HSK:** 4
+- **民族:** 赫哲族
+- **节日:** 赫哲年
+
+### 锡伯年
+- **拼音:** xībónián
+- **HSK:** 4
+- **民族:** 锡伯族
+- **节日:** 锡伯年
+
+### 塔吉克年
+- **拼音:** tǎjíkènián
+- **HSK:** 4
+- **民族:** 塔吉克族
+- **节日:** 塔吉克年
+
+### 柯尔克孜年
+- **拼音:** kē'ěrkèzīnián
+- **HSK:** 4
+- **民族:** 柯尔克孜族
+- **节日:** 柯尔克孜年
+
+### 乌孜别克年
+- **拼音:** wūzībiéckènián
+- **HSK:** 4
+- **民族:** 乌孜别克族
+- **节日:** 乌孜别克年
+
+### 塔塔尔年
+- **拼音:** tǎtǎ'ěrnián
+- **HSK:** 4
+- **民族:** 塔塔尔族
+- **节日:** 塔塔尔年
+
+### 俄罗斯年
+- **拼音:** éluósīnián
+- **HSK:** 3
+- **民族:** 俄罗斯族
+- **节日:** 俄罗斯年
+
+### 塔吉克年
+- **拼音:** tǎjíkènián
+- **HSK:** 4
+- **民族:** 塔吉克族
+- **节日:** 塔吉克年
+
+### 裕固年
+- **拼音:** yùgùnián
+- **HSK:** 4
+- **民族:** 裕固族
+- **节日:** 裕固年
+
+### 保安年
+- **拼音:** bǎo'ānnián
+- **HSK:** 4
+- **民族:** 保安族
+- **节日:** 保安年
+
+### 东乡年
+- **拼音:** dōngxiāngnián
+- **HSK:** 4
+- **民族:** 东乡族
+- **节日:** 东乡族
+
+### 土族年
+- **拼音:** tǔzúnián
+- **HSK:** 4
+- **民族:** 土族
+- **节日:** 土族
+
+### 撒拉年
+- **拼音:** sǎlānián
+- **HSK:** 4
+- **民族:** 撒拉族
+- **节日:** 撒拉年
+
+### 仡佬年
+- **拼音:** gēlǎonián
+- **HSK:** 4
+- **民族:** 仡佬族
+- **节日:** 仡佬年
+
+### 毛南年
+- **拼音:** máonánnián
+- **HSK:** 4
+- **民族:** 毛南族
+- **节日:** 毛南年
+
+### 仫佬年
+- **拼音:** mùlǎonián
+- **HSK:** 4
+- **民族:** 仫佬族
+- **节日:** 仫佬年
+
+### 锡伯年
+- **拼音:** xībónián
+- **HSK:** 4
+- **民族:** 锡伯族
+- **节日:** 锡伯年
+
+### 阿昌年
+- **拼音:** āchāngnián
+- **HSK:** 4
+- **民族:** 阿昌族
+- **节日:** 阿昌年
+
+### 普米年
+- **拼音:** pǔmǐnián
+- **HSK:** 4
+- **民族:** 普米族
+- **节日:** 普米年
+
+### 怒年
+- **拼音:** nùnián
+- **HSK:** 4
+- **民族:** 怒族
+- **节日:** 怒年
+
+### 独龙年
+- **拼音:** dúlóngnián
+- **HSK:** 4
+- **民族:** 独龙族
+- **节日:** 独龙年
+
+### 门巴年
+- **拼音:** ménbānián
+- **HSK:** 4
+- **民族:** 门巴族
+- **节日:** 门巴年
+
+### 珞巴年
+- **拼音:** luòbānián
+- **HSK:** 4
+- **民族:** 珞巴族
+- **节日:** 珞巴年
+
+### 基诺年
+- **拼音:** jīnuònián
+- **HSK:** 4
+- **民族:** 基诺族
+- **节日:** 基诺年
+
+### 高山族年
+- **拼音:** gāoshānzúnián
+- **HSK:** 4
+- **民族:** 高山族
+- **节日:** 高山族年
+
+### 塔吉克年
+- **拼音:** tǎjíkènián
+- **HSK:** 4
+- **民族:** 塔吉克族
+- **节日:** 塔吉克年
+
+### 普米年
+- **拼音:** pǔmǐnián
+- **HSK:** 4
+- **民族:** 普米族
+- **节日:** 普米年
+
+### 怒年
+- **拼音:** nùnián
+- **HSK:** 4
+- **民族:** 怒族
+- **节日:** 怒年
+
+### 独龙年
+- **拼音:** dúlóngnián
+- **HSK:** 4
+- **民族:** 独龙族
+- **节日:** 独龙年
+
+### 门巴年
+- **拼音:** ménbānián
+- **HSK:** 4
+- **民族:** 门巴族
+- **节日:** 门巴年
+
+### 珞巴年
+- **拼音:** luòbānián
+- **HSK:** 4
+- **民族:** 珞巴族
+- **节日:** 珞巴年
+
+### 基诺年
+- **拼音:** jīnuònián
+- **HSK:** 4
+- **民族:** 基诺族
+- **节日:** 基诺年
+
+### 高山族年
+- **拼音:** gāoshānzúnián
+- **HSK:** 4
+- **民族:** 高山族
+- **节日:** 高山族年
+
 
 ## 6. 节日相关 (Festival Related)
 
-| 中文 | 拼音 | HSK | 英文 |
-|------|------|-----|------|
-| 红包 | hóngbāo | 2 | Red envelope |
-| 春联 | chūnlián | 3 | Spring couplet |
-| 年糕 | niángāo | 2 | New Year cake |
-| 饺子 | jiǎozi | 1 | Dumplings |
-| 汤圆 | tāngyuán | 2 | Tangyuan (glutinous rice balls) |
-| 元宵 | yuánxiāo | 2 | Lantern (or rice ball) |
-| 月饼 | yuèbǐng | 2 | Mooncake |
-| 粽子 | zòngzi | 2 | Zongzi (rice dumpling) |
-| 艾草 | àicǎo | 3 | Mugwort |
-| 菖蒲 | chāngpú | 3 | Calamus |
-| 菊花 | júhuā | 3 | Chrysanthemum |
-| 重阳糕 | chóngyánggāo | 4 | Double Ninth cake |
-| 腊八粥 | làbāzhōu | 3 | Laba congee |
-| 年夜饭 | niányèfàn | 3 | New Year's Eve dinner |
-| 压岁钱 | yāsuìqián | 3 | Lucky money |
-| 鞭炮 | biānpào | 2 | Firecrackers |
-| 烟花 | yānhuā | 2 | Fireworks |
-| 春联 | chūnlián | 3 | Spring couplet |
-| 福字 | fúzì | 2 | "Fu" character (lucky) |
-| 年画 | niánhuà | 3 | New Year picture |
-| 窗花 | chuānghuā | 3 | Window paper-cut |
-| 对联 | duìlián | 3 | Couplet |
-| 灯笼 | dēnglóng | 2 | Lantern |
-| 鞭炮 | biānpào | 2 | Firecrackers |
-| 烟花 | yānhuā | 2 | Fireworks |
-| 龙灯 | lóngdēng | 3 | Dragon lantern |
-| 舞龙 | wǔlóng | 3 | Dragon dance |
-| 舞狮 | wǔshī | 3 | Lion dance |
-| 庙会 | miàohuì | 2 | Temple fair |
-| 灯会 | dēnghuì | 2 | Lantern fair |
-| 龙舟 | lóngzhōu | 3 | Dragon boat |
-| 粽子 | zòngzi | 2 | Zongzi |
-| 雄黄酒 | xiónghuángjiǔ | 3 | Realgar wine |
-| 香包 | xiāngbāo | 3 | Sachet |
-| 五色丝线 | wǔsè sīxiàn | 4 | Five-color silk thread |
-| 长命缕 | chángmìnglǚ | 4 | Longevity thread |
-| 月饼 | yuèbǐng | 2 | Mooncake |
-| 桂花酒 | guìhuā jiǔ | 3 | Osmanthus wine |
-| 菊花酒 | júhuā jiǔ | 3 | Chrysanthemum wine |
-| 重阳糕 | chóngyánggāo | 4 | Double Ninth cake |
-| 登高 | dēnggāo | 3 | Climb a height |
-| 赏菊 | shǎngjú | 3 | Admire chrysanthemums |
-| 茱萸 | zhūyú | 3 | Cornus (dogwood) |
-| 重阳糕 | chóngyánggāo | 4 | Double Ninth cake |
-| 腊八粥 | làbāzhōu | 3 | Laba congee |
-| 腊八蒜 | làbāsuàn | 3 | Laba garlic |
-| 祭灶 | jìzào | 3 | Worship the Kitchen God |
-| 灶王爷 | zàowángyé | 3 | Kitchen God |
-| 灶王奶奶 | zàowáng nǎinai | 3 | Kitchen God's Wife |
-| 糖瓜 | tángguā | 3 | Sugar melon (candied melon) |
-| 灶糖 | zàotáng | 3 | Kitchen sugar (malt sugar) |
-| 灶君 | zàojūn | 3 | Kitchen Lord |
-| 年夜饭 | niányèfàn | 3 | New Year's Eve dinner |
-| 团圆 | tuányuán | 2 | Reunion |
-| 团圆饭 | tuányuánfàn | 3 | Reunion dinner |
-| 守岁 | shǒusuì | 3 | Stay up late (New Year's Eve) |
-| 拜年 | bàinián | 2 | New Year visit |
-| 走亲访友 | zǒuqīn fǎngyǒu | 4 | Visit relatives and friends |
-| 压岁钱 | yāsuìqián | 3 | Lucky money |
-| 红包 | hóngbāo | 2 | Red envelope |
-| 恭喜发财 | gōngxǐ fācái | 4 | Congratulations and prosperity |
-| 新年快乐 | xīnnián kuàilè | 4 | Happy New Year |
-| 身体健康 | shēntǐ jiànkāng | 4 | Good health |
-| 万事如意 | wànshì rúyì | 4 | All wishes fulfilled |
-| 心想事成 | xīnxiǎng shìchéng | 4 | Wishes come true |
-| 招财进宝 | zhāocái jìnbǎo | 4 | Bring in wealth and treasure |
-| 步步高升 | bùbù gāoshēng | 4 | Step by step promotion |
-| 岁岁平安 | suìsuì píng'ān | 4 | Peace year after year |
-| 大吉大利 | dàjí dàlì | 4 | Great luck and great profit |
-| 财源广进 | cáiyuán guǎngjìn | 4 | Wealth flowing in |
-| 生意兴隆 | shēngyì xīnglóng | 4 | Business thriving |
-| 财源滚滚 | cáiyuán gǔngǔn | 4 | Wealth rolling in |
+### 红包
+- **拼音:** hóngbāo
+- **HSK:** 2
+- **英文:** Red envelope
+
+### 春联
+- **拼音:** chūnlián
+- **HSK:** 3
+- **英文:** Spring couplet
+
+### 年糕
+- **拼音:** niángāo
+- **HSK:** 2
+- **英文:** New Year cake
+
+### 饺子
+- **拼音:** jiǎozi
+- **HSK:** 1
+- **英文:** Dumplings
+
+### 汤圆
+- **拼音:** tāngyuán
+- **HSK:** 2
+- **英文:** Tangyuan (glutinous rice balls)
+
+### 元宵
+- **拼音:** yuánxiāo
+- **HSK:** 2
+- **英文:** Lantern (or rice ball)
+
+### 月饼
+- **拼音:** yuèbǐng
+- **HSK:** 2
+- **英文:** Mooncake
+
+### 粽子
+- **拼音:** zòngzi
+- **HSK:** 2
+- **英文:** Zongzi (rice dumpling)
+
+### 艾草
+- **拼音:** àicǎo
+- **HSK:** 3
+- **英文:** Mugwort
+
+### 菖蒲
+- **拼音:** chāngpú
+- **HSK:** 3
+- **英文:** Calamus
+
+### 菊花
+- **拼音:** júhuā
+- **HSK:** 3
+- **英文:** Chrysanthemum
+
+### 重阳糕
+- **拼音:** chóngyánggāo
+- **HSK:** 4
+- **英文:** Double Ninth cake
+
+### 腊八粥
+- **拼音:** làbāzhōu
+- **HSK:** 3
+- **英文:** Laba congee
+
+### 年夜饭
+- **拼音:** niányèfàn
+- **HSK:** 3
+- **英文:** New Year's Eve dinner
+
+### 压岁钱
+- **拼音:** yāsuìqián
+- **HSK:** 3
+- **英文:** Lucky money
+
+### 鞭炮
+- **拼音:** biānpào
+- **HSK:** 2
+- **英文:** Firecrackers
+
+### 烟花
+- **拼音:** yānhuā
+- **HSK:** 2
+- **英文:** Fireworks
+
+### 春联
+- **拼音:** chūnlián
+- **HSK:** 3
+- **英文:** Spring couplet
+
+### 福字
+- **拼音:** fúzì
+- **HSK:** 2
+- **英文:** "Fu" character (lucky)
+
+### 年画
+- **拼音:** niánhuà
+- **HSK:** 3
+- **英文:** New Year picture
+
+### 窗花
+- **拼音:** chuānghuā
+- **HSK:** 3
+- **英文:** Window paper-cut
+
+### 对联
+- **拼音:** duìlián
+- **HSK:** 3
+- **英文:** Couplet
+
+### 灯笼
+- **拼音:** dēnglóng
+- **HSK:** 2
+- **英文:** Lantern
+
+### 鞭炮
+- **拼音:** biānpào
+- **HSK:** 2
+- **英文:** Firecrackers
+
+### 烟花
+- **拼音:** yānhuā
+- **HSK:** 2
+- **英文:** Fireworks
+
+### 龙灯
+- **拼音:** lóngdēng
+- **HSK:** 3
+- **英文:** Dragon lantern
+
+### 舞龙
+- **拼音:** wǔlóng
+- **HSK:** 3
+- **英文:** Dragon dance
+
+### 舞狮
+- **拼音:** wǔshī
+- **HSK:** 3
+- **英文:** Lion dance
+
+### 庙会
+- **拼音:** miàohuì
+- **HSK:** 2
+- **英文:** Temple fair
+
+### 灯会
+- **拼音:** dēnghuì
+- **HSK:** 2
+- **英文:** Lantern fair
+
+### 龙舟
+- **拼音:** lóngzhōu
+- **HSK:** 3
+- **英文:** Dragon boat
+
+### 粽子
+- **拼音:** zòngzi
+- **HSK:** 2
+- **英文:** Zongzi
+
+### 雄黄酒
+- **拼音:** xiónghuángjiǔ
+- **HSK:** 3
+- **英文:** Realgar wine
+
+### 香包
+- **拼音:** xiāngbāo
+- **HSK:** 3
+- **英文:** Sachet
+
+### 五色丝线
+- **拼音:** wǔsè sīxiàn
+- **HSK:** 4
+- **英文:** Five-color silk thread
+
+### 长命缕
+- **拼音:** chángmìnglǚ
+- **HSK:** 4
+- **英文:** Longevity thread
+
+### 月饼
+- **拼音:** yuèbǐng
+- **HSK:** 2
+- **英文:** Mooncake
+
+### 桂花酒
+- **拼音:** guìhuā jiǔ
+- **HSK:** 3
+- **英文:** Osmanthus wine
+
+### 菊花酒
+- **拼音:** júhuā jiǔ
+- **HSK:** 3
+- **英文:** Chrysanthemum wine
+
+### 重阳糕
+- **拼音:** chóngyánggāo
+- **HSK:** 4
+- **英文:** Double Ninth cake
+
+### 登高
+- **拼音:** dēnggāo
+- **HSK:** 3
+- **英文:** Climb a height
+
+### 赏菊
+- **拼音:** shǎngjú
+- **HSK:** 3
+- **英文:** Admire chrysanthemums
+
+### 茱萸
+- **拼音:** zhūyú
+- **HSK:** 3
+- **英文:** Cornus (dogwood)
+
+### 重阳糕
+- **拼音:** chóngyánggāo
+- **HSK:** 4
+- **英文:** Double Ninth cake
+
+### 腊八粥
+- **拼音:** làbāzhōu
+- **HSK:** 3
+- **英文:** Laba congee
+
+### 腊八蒜
+- **拼音:** làbāsuàn
+- **HSK:** 3
+- **英文:** Laba garlic
+
+### 祭灶
+- **拼音:** jìzào
+- **HSK:** 3
+- **英文:** Worship the Kitchen God
+
+### 灶王爷
+- **拼音:** zàowángyé
+- **HSK:** 3
+- **英文:** Kitchen God
+
+### 灶王奶奶
+- **拼音:** zàowáng nǎinai
+- **HSK:** 3
+- **英文:** Kitchen God's Wife
+
+### 糖瓜
+- **拼音:** tángguā
+- **HSK:** 3
+- **英文:** Sugar melon (candied melon)
+
+### 灶糖
+- **拼音:** zàotáng
+- **HSK:** 3
+- **英文:** Kitchen sugar (malt sugar)
+
+### 灶君
+- **拼音:** zàojūn
+- **HSK:** 3
+- **英文:** Kitchen Lord
+
+### 年夜饭
+- **拼音:** niányèfàn
+- **HSK:** 3
+- **英文:** New Year's Eve dinner
+
+### 团圆
+- **拼音:** tuányuán
+- **HSK:** 2
+- **英文:** Reunion
+
+### 团圆饭
+- **拼音:** tuányuánfàn
+- **HSK:** 3
+- **英文:** Reunion dinner
+
+### 守岁
+- **拼音:** shǒusuì
+- **HSK:** 3
+- **英文:** Stay up late (New Year's Eve)
+
+### 拜年
+- **拼音:** bàinián
+- **HSK:** 2
+- **英文:** New Year visit
+
+### 走亲访友
+- **拼音:** zǒuqīn fǎngyǒu
+- **HSK:** 4
+- **英文:** Visit relatives and friends
+
+### 压岁钱
+- **拼音:** yāsuìqián
+- **HSK:** 3
+- **英文:** Lucky money
+
+### 红包
+- **拼音:** hóngbāo
+- **HSK:** 2
+- **英文:** Red envelope
+
+### 恭喜发财
+- **拼音:** gōngxǐ fācái
+- **HSK:** 4
+- **英文:** Congratulations and prosperity
+
+### 新年快乐
+- **拼音:** xīnnián kuàilè
+- **HSK:** 4
+- **英文:** Happy New Year
+
+### 身体健康
+- **拼音:** shēntǐ jiànkāng
+- **HSK:** 4
+- **英文:** Good health
+
+### 万事如意
+- **拼音:** wànshì rúyì
+- **HSK:** 4
+- **英文:** All wishes fulfilled
+
+### 心想事成
+- **拼音:** xīnxiǎng shìchéng
+- **HSK:** 4
+- **英文:** Wishes come true
+
+### 招财进宝
+- **拼音:** zhāocái jìnbǎo
+- **HSK:** 4
+- **英文:** Bring in wealth and treasure
+
+### 步步高升
+- **拼音:** bùbù gāoshēng
+- **HSK:** 4
+- **英文:** Step by step promotion
+
+### 岁岁平安
+- **拼音:** suìsuì píng'ān
+- **HSK:** 4
+- **英文:** Peace year after year
+
+### 大吉大利
+- **拼音:** dàjí dàlì
+- **HSK:** 4
+- **英文:** Great luck and great profit
+
+### 财源广进
+- **拼音:** cáiyuán guǎngjìn
+- **HSK:** 4
+- **英文:** Wealth flowing in
+
+### 生意兴隆
+- **拼音:** shēngyì xīnglóng
+- **HSK:** 4
+- **英文:** Business thriving
+
+### 财源滚滚
+- **拼音:** cáiyuán gǔngǔn
+- **HSK:** 4
+- **英文:** Wealth rolling in
+
 
 ---
 

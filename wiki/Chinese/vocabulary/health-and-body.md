@@ -17,288 +17,1296 @@ theme: "health"
 
 ## 1. 身体/器官 (Body/Organs)
 
-| 中文 | 拼音 | HSK | 英文 |
-|------|------|-----|------|
-| 头 | tóu | 1 | Head |
-| 脸 | liǎn | 1 | Face |
-| 眼睛 | yǎnjing | 1 | Eyes |
-| 鼻子 | bízi | 1 | Nose |
-| 嘴 | zuǐ | 1 | Mouth |
-| 耳朵 | ěrduo | 1 | Ears |
-| 牙齿 | yáchǐ | 1 | Teeth |
-| 舌头 | shétou | 1 | Tongue |
-| 脖子 | bózi | 1 | Neck |
-| 肩膀 | jiānbǎng | 2 | Shoulders |
-| 胸 | xiōng | 2 | Chest |
-| 肚子 | dùzi | 1 | Stomach |
-| 背 | bèi | 1 | Back |
-| 腰 | yāo | 1 | Waist |
-| 手 | shǒu | 1 | Hand |
-| 手臂 | shǒubì | 2 | Arm |
-| 腿 | tuǐ | 1 | Leg |
-| 脚 | jiǎo | 1 | Foot |
-| 膝盖 | xīgài | 2 | Knee |
-| 脚踝 | jiǎohuái | 3 | Ankle |
-| 肘 | zhǒu | 3 | Elbow |
-| 腕 | wàn | 2 | Wrist |
-| 手指 | shǒuzhǐ | 2 | Finger |
-| 脚趾 | jiǎozhǐ | 2 | Toe |
-| 心脏 | xīnzàng | 3 | Heart |
-| 肺 | fèi | 3 | Lungs |
-| 肝 | gān | 3 | Liver |
-| 胃 | wèi | 2 | Stomach |
-| 肾 | shèn | 3 | Kidney |
-| 脑 | nǎo | 2 | Brain |
-| 肝 | gān | 3 | Liver |
-| 心 | xīn | 1 | Heart |
-| 胆 | dǎn | 3 | Gallbladder |
-| 脾 | pí | 4 | Spleen |
-| 肠 | cháng | 2 | Intestine |
+### 头
+- **拼音:** tóu
+- **HSK:** 1
+- **英文:** Head
+
+### 脸
+- **拼音:** liǎn
+- **HSK:** 1
+- **英文:** Face
+
+### 眼睛
+- **拼音:** yǎnjing
+- **HSK:** 1
+- **英文:** Eyes
+
+### 鼻子
+- **拼音:** bízi
+- **HSK:** 1
+- **英文:** Nose
+
+### 嘴
+- **拼音:** zuǐ
+- **HSK:** 1
+- **英文:** Mouth
+
+### 耳朵
+- **拼音:** ěrduo
+- **HSK:** 1
+- **英文:** Ears
+
+### 牙齿
+- **拼音:** yáchǐ
+- **HSK:** 1
+- **英文:** Teeth
+
+### 舌头
+- **拼音:** shétou
+- **HSK:** 1
+- **英文:** Tongue
+
+### 脖子
+- **拼音:** bózi
+- **HSK:** 1
+- **英文:** Neck
+
+### 肩膀
+- **拼音:** jiānbǎng
+- **HSK:** 2
+- **英文:** Shoulders
+
+### 胸
+- **拼音:** xiōng
+- **HSK:** 2
+- **英文:** Chest
+
+### 肚子
+- **拼音:** dùzi
+- **HSK:** 1
+- **英文:** Stomach
+
+### 背
+- **拼音:** bèi
+- **HSK:** 1
+- **英文:** Back
+
+### 腰
+- **拼音:** yāo
+- **HSK:** 1
+- **英文:** Waist
+
+### 手
+- **拼音:** shǒu
+- **HSK:** 1
+- **英文:** Hand
+
+### 手臂
+- **拼音:** shǒubì
+- **HSK:** 2
+- **英文:** Arm
+
+### 腿
+- **拼音:** tuǐ
+- **HSK:** 1
+- **英文:** Leg
+
+### 脚
+- **拼音:** jiǎo
+- **HSK:** 1
+- **英文:** Foot
+
+### 膝盖
+- **拼音:** xīgài
+- **HSK:** 2
+- **英文:** Knee
+
+### 脚踝
+- **拼音:** jiǎohuái
+- **HSK:** 3
+- **英文:** Ankle
+
+### 肘
+- **拼音:** zhǒu
+- **HSK:** 3
+- **英文:** Elbow
+
+### 腕
+- **拼音:** wàn
+- **HSK:** 2
+- **英文:** Wrist
+
+### 手指
+- **拼音:** shǒuzhǐ
+- **HSK:** 2
+- **英文:** Finger
+
+### 脚趾
+- **拼音:** jiǎozhǐ
+- **HSK:** 2
+- **英文:** Toe
+
+### 心脏
+- **拼音:** xīnzàng
+- **HSK:** 3
+- **英文:** Heart
+
+### 肺
+- **拼音:** fèi
+- **HSK:** 3
+- **英文:** Lungs
+
+### 肝
+- **拼音:** gān
+- **HSK:** 3
+- **英文:** Liver
+
+### 胃
+- **拼音:** wèi
+- **HSK:** 2
+- **英文:** Stomach
+
+### 肾
+- **拼音:** shèn
+- **HSK:** 3
+- **英文:** Kidney
+
+### 脑
+- **拼音:** nǎo
+- **HSK:** 2
+- **英文:** Brain
+
+### 肝
+- **拼音:** gān
+- **HSK:** 3
+- **英文:** Liver
+
+### 心
+- **拼音:** xīn
+- **HSK:** 1
+- **英文:** Heart
+
+### 胆
+- **拼音:** dǎn
+- **HSK:** 3
+- **英文:** Gallbladder
+
+### 脾
+- **拼音:** pí
+- **HSK:** 4
+- **英文:** Spleen
+
+### 肠
+- **拼音:** cháng
+- **HSK:** 2
+- **英文:** Intestine
+
 
 ## 2. 运动/锻炼 (Exercise)
 
-| 中文 | 拼音 | HSK | 英文 |
-|------|------|-----|------|
-| 运动 | yùndòng | 1 | Exercise |
-| 跑步 | pǎobù | 1 | Run |
-| 散步 | sànbù | 1 | Walk |
-| 游泳 | yóuyǒng | 2 | Swim |
-| 骑车 | qíchē | 1 | Bike |
-| 健身 | jiànshēn | 2 | Work out |
-| 瑜伽 | yújiā | 2 | Yoga |
-| 跳舞 | tiàowǔ | 1 | Dance |
-| 爬山 | páshān | 2 | Hike |
-| 跳绳 | tiàoshéng | 3 | Jump rope |
-| 举重 | jǔzhòng | 3 | Weightlifting |
-| 瑜伽 | yújiā | 2 | Yoga |
-| 普拉提 | pǔlātí | 3 | Pilates |
-| 太极 | tàijí | 3 | Tai Chi |
-| 武术 | wǔshù | 3 | Martial arts |
-| 拳击 | quánjī | 3 | Boxing |
-| 跆拳道 | táiquándào | 3 | Taekwondo |
-| 空手道 | kōngshǒudào | 3 | Karate |
-| 剑道 | jiàndào | 3 | Kendo |
-| 柔道 | róudào | 3 | Judo |
-| 拳击 | quánjī | 3 | Boxing |
-| 摔跤 | shuāijiāo | 3 | Wrestling |
-| 滑雪 | huáxuě | 2 | Ski |
-| 滑冰 | huábīng | 2 | Ice skating |
-| 滑板 | huábǎn | 2 | Skateboard |
-| 滑板车 | huábǎnchē | 3 | Scooter |
-| 轮滑 | lúnhuá | 3 | Roller skating |
-| 滑冰鞋 | huábīngxié | 3 | Ice skates |
-| 滑雪板 | huáxuěbǎn | 3 | Snowboard |
-| 滑雪杖 | huáxuězhàng | 3 | Ski poles |
-| 滑雪服 | huáxuěfú | 3 | Ski suit |
-| 潜水服 | qiánshuǐfú | 3 | Wetsuit |
-| 泳衣 | yǒngyī | 2 | Swimsuit |
-| 泳镜 | yǒngjìng | 3 | Swimming goggles |
-| 泳帽 | yǒngmào | 3 | Swimming cap |
-| 篮球 | lánqiú | 2 | Basketball |
-| 足球 | zúqiú | 2 | Soccer |
-| 网球 | wǎngqiú | 2 | Tennis |
-| 羽毛球 | yǔmáoqiú | 2 | Badminton |
-| 乒乓球 | pīngpāngqiú | 3 | Table tennis |
-| 排球 | páiqiú | 3 | Volleyball |
-| 羽毛球 | yǔmáoqiú | 2 | Badminton |
-| 网球 | wǎngqiú | 2 | Tennis |
-| 高尔夫 | gāo'ěrfū | 3 | Golf |
-| 棒球 | bàngqiú | 2 | Baseball |
-| 橄榄球 | gǎnlǎnqiú | 3 | Rugby |
-| 壁球 | bìqiú | 3 | Squash |
-| 台球 | táiqiú | 2 | Billiards |
-| 保龄球 | bǎolíngqiú | 3 | Bowling |
-| 乒乓球 | pīngpāngqiú | 3 | Table tennis |
-| 羽毛球 | yǔmáoqiú | 2 | Badminton |
-| 网球 | wǎngqiú | 2 | Tennis |
-| 棒球 | bàngqiú | 2 | Baseball |
-| 高尔夫 | gāo'ěrfū | 3 | Golf |
-| 游泳 | yóuyǒng | 2 | Swimming |
-| 潜水 | qiánshuǐ | 3 | Diving |
-| 冲浪 | chōnglàng | 3 | Surf |
-| 帆船 | fānchuán | 3 | Sailing |
-| 划船 | huáchuán | 3 | Rowing |
-| 皮划艇 | píhuáting | 3 | Kayak |
-| 滑水 | huáshuǐ | 3 | Water skiing |
-| 蹦极 | bèngjí | 3 | Bungee jumping |
-| 跳伞 | tiàosǎn | 3 | Parachuting |
-| 攀岩 | pānyán | 3 | Rock climbing |
-| 登山 | dēngshān | 2 | Mountaineering |
-| 徒步 | túbù | 2 | Hiking |
-| 露营 | lùyíng | 3 | Camping |
-| 钓鱼 | diàoyú | 2 | Fishing |
-| 射箭 | shèjiàn | 3 | Archery |
-| 击剑 | jījiàn | 3 | Fencing |
-| 马术 | mǎshù | 3 | Equestrian |
-| 高尔夫 | gāo'ěrfū | 3 | Golf |
-| 保龄球 | bǎolíngqiú | 3 | Bowling |
-| 飞镖 | fēibiāo | 3 | Darts |
-| 壁球 | bìqiú | 3 | Squash |
-| 攀岩 | pānyán | 3 | Rock climbing |
-| 蹦极 | bèngjí | 3 | Bungee jumping |
-| 跳伞 | tiàosǎn | 3 | Parachuting |
-| 滑翔伞 | huáxiángsǎn | 3 | Paraglider |
-| 热气球 | rèqìqiú | 3 | Hot air balloon |
-| 跳楼机 | tiàolóujī | 3 | Drop tower |
-| 过山车 | guòshānchē | 3 | Roller coaster |
-| 摩天轮 | mótiānlún | 3 | Ferris wheel |
-| 旋转木马 | xuánzhuǎn-mùmǎ | 3 | Merry-go-round |
-| 鬼屋 | guǐwū | 3 | Haunted house |
-| 碰碰车 | pèngpèngchē | 3 | Bumper car |
-| 旋转飞椅 | xuánzhuǎn-fēiyǐ | 3 | Rotating chairs |
-| 海盗船 | hǎidàochuán | 3 | Pirate ship ride |
-| 过山车 | guòshānchē | 3 | Roller coaster |
-| 跳楼机 | tiàolóujī | 3 | Drop tower |
-| 跳楼机 | tiàolóujī | 3 | Drop tower |
+### 运动
+- **拼音:** yùndòng
+- **HSK:** 1
+- **英文:** Exercise
+
+### 跑步
+- **拼音:** pǎobù
+- **HSK:** 1
+- **英文:** Run
+
+### 散步
+- **拼音:** sànbù
+- **HSK:** 1
+- **英文:** Walk
+
+### 游泳
+- **拼音:** yóuyǒng
+- **HSK:** 2
+- **英文:** Swim
+
+### 骑车
+- **拼音:** qíchē
+- **HSK:** 1
+- **英文:** Bike
+
+### 健身
+- **拼音:** jiànshēn
+- **HSK:** 2
+- **英文:** Work out
+
+### 瑜伽
+- **拼音:** yújiā
+- **HSK:** 2
+- **英文:** Yoga
+
+### 跳舞
+- **拼音:** tiàowǔ
+- **HSK:** 1
+- **英文:** Dance
+
+### 爬山
+- **拼音:** páshān
+- **HSK:** 2
+- **英文:** Hike
+
+### 跳绳
+- **拼音:** tiàoshéng
+- **HSK:** 3
+- **英文:** Jump rope
+
+### 举重
+- **拼音:** jǔzhòng
+- **HSK:** 3
+- **英文:** Weightlifting
+
+### 瑜伽
+- **拼音:** yújiā
+- **HSK:** 2
+- **英文:** Yoga
+
+### 普拉提
+- **拼音:** pǔlātí
+- **HSK:** 3
+- **英文:** Pilates
+
+### 太极
+- **拼音:** tàijí
+- **HSK:** 3
+- **英文:** Tai Chi
+
+### 武术
+- **拼音:** wǔshù
+- **HSK:** 3
+- **英文:** Martial arts
+
+### 拳击
+- **拼音:** quánjī
+- **HSK:** 3
+- **英文:** Boxing
+
+### 跆拳道
+- **拼音:** táiquándào
+- **HSK:** 3
+- **英文:** Taekwondo
+
+### 空手道
+- **拼音:** kōngshǒudào
+- **HSK:** 3
+- **英文:** Karate
+
+### 剑道
+- **拼音:** jiàndào
+- **HSK:** 3
+- **英文:** Kendo
+
+### 柔道
+- **拼音:** róudào
+- **HSK:** 3
+- **英文:** Judo
+
+### 拳击
+- **拼音:** quánjī
+- **HSK:** 3
+- **英文:** Boxing
+
+### 摔跤
+- **拼音:** shuāijiāo
+- **HSK:** 3
+- **英文:** Wrestling
+
+### 滑雪
+- **拼音:** huáxuě
+- **HSK:** 2
+- **英文:** Ski
+
+### 滑冰
+- **拼音:** huábīng
+- **HSK:** 2
+- **英文:** Ice skating
+
+### 滑板
+- **拼音:** huábǎn
+- **HSK:** 2
+- **英文:** Skateboard
+
+### 滑板车
+- **拼音:** huábǎnchē
+- **HSK:** 3
+- **英文:** Scooter
+
+### 轮滑
+- **拼音:** lúnhuá
+- **HSK:** 3
+- **英文:** Roller skating
+
+### 滑冰鞋
+- **拼音:** huábīngxié
+- **HSK:** 3
+- **英文:** Ice skates
+
+### 滑雪板
+- **拼音:** huáxuěbǎn
+- **HSK:** 3
+- **英文:** Snowboard
+
+### 滑雪杖
+- **拼音:** huáxuězhàng
+- **HSK:** 3
+- **英文:** Ski poles
+
+### 滑雪服
+- **拼音:** huáxuěfú
+- **HSK:** 3
+- **英文:** Ski suit
+
+### 潜水服
+- **拼音:** qiánshuǐfú
+- **HSK:** 3
+- **英文:** Wetsuit
+
+### 泳衣
+- **拼音:** yǒngyī
+- **HSK:** 2
+- **英文:** Swimsuit
+
+### 泳镜
+- **拼音:** yǒngjìng
+- **HSK:** 3
+- **英文:** Swimming goggles
+
+### 泳帽
+- **拼音:** yǒngmào
+- **HSK:** 3
+- **英文:** Swimming cap
+
+### 篮球
+- **拼音:** lánqiú
+- **HSK:** 2
+- **英文:** Basketball
+
+### 足球
+- **拼音:** zúqiú
+- **HSK:** 2
+- **英文:** Soccer
+
+### 网球
+- **拼音:** wǎngqiú
+- **HSK:** 2
+- **英文:** Tennis
+
+### 羽毛球
+- **拼音:** yǔmáoqiú
+- **HSK:** 2
+- **英文:** Badminton
+
+### 乒乓球
+- **拼音:** pīngpāngqiú
+- **HSK:** 3
+- **英文:** Table tennis
+
+### 排球
+- **拼音:** páiqiú
+- **HSK:** 3
+- **英文:** Volleyball
+
+### 羽毛球
+- **拼音:** yǔmáoqiú
+- **HSK:** 2
+- **英文:** Badminton
+
+### 网球
+- **拼音:** wǎngqiú
+- **HSK:** 2
+- **英文:** Tennis
+
+### 高尔夫
+- **拼音:** gāo'ěrfū
+- **HSK:** 3
+- **英文:** Golf
+
+### 棒球
+- **拼音:** bàngqiú
+- **HSK:** 2
+- **英文:** Baseball
+
+### 橄榄球
+- **拼音:** gǎnlǎnqiú
+- **HSK:** 3
+- **英文:** Rugby
+
+### 壁球
+- **拼音:** bìqiú
+- **HSK:** 3
+- **英文:** Squash
+
+### 台球
+- **拼音:** táiqiú
+- **HSK:** 2
+- **英文:** Billiards
+
+### 保龄球
+- **拼音:** bǎolíngqiú
+- **HSK:** 3
+- **英文:** Bowling
+
+### 乒乓球
+- **拼音:** pīngpāngqiú
+- **HSK:** 3
+- **英文:** Table tennis
+
+### 羽毛球
+- **拼音:** yǔmáoqiú
+- **HSK:** 2
+- **英文:** Badminton
+
+### 网球
+- **拼音:** wǎngqiú
+- **HSK:** 2
+- **英文:** Tennis
+
+### 棒球
+- **拼音:** bàngqiú
+- **HSK:** 2
+- **英文:** Baseball
+
+### 高尔夫
+- **拼音:** gāo'ěrfū
+- **HSK:** 3
+- **英文:** Golf
+
+### 游泳
+- **拼音:** yóuyǒng
+- **HSK:** 2
+- **英文:** Swimming
+
+### 潜水
+- **拼音:** qiánshuǐ
+- **HSK:** 3
+- **英文:** Diving
+
+### 冲浪
+- **拼音:** chōnglàng
+- **HSK:** 3
+- **英文:** Surf
+
+### 帆船
+- **拼音:** fānchuán
+- **HSK:** 3
+- **英文:** Sailing
+
+### 划船
+- **拼音:** huáchuán
+- **HSK:** 3
+- **英文:** Rowing
+
+### 皮划艇
+- **拼音:** píhuáting
+- **HSK:** 3
+- **英文:** Kayak
+
+### 滑水
+- **拼音:** huáshuǐ
+- **HSK:** 3
+- **英文:** Water skiing
+
+### 蹦极
+- **拼音:** bèngjí
+- **HSK:** 3
+- **英文:** Bungee jumping
+
+### 跳伞
+- **拼音:** tiàosǎn
+- **HSK:** 3
+- **英文:** Parachuting
+
+### 攀岩
+- **拼音:** pānyán
+- **HSK:** 3
+- **英文:** Rock climbing
+
+### 登山
+- **拼音:** dēngshān
+- **HSK:** 2
+- **英文:** Mountaineering
+
+### 徒步
+- **拼音:** túbù
+- **HSK:** 2
+- **英文:** Hiking
+
+### 露营
+- **拼音:** lùyíng
+- **HSK:** 3
+- **英文:** Camping
+
+### 钓鱼
+- **拼音:** diàoyú
+- **HSK:** 2
+- **英文:** Fishing
+
+### 射箭
+- **拼音:** shèjiàn
+- **HSK:** 3
+- **英文:** Archery
+
+### 击剑
+- **拼音:** jījiàn
+- **HSK:** 3
+- **英文:** Fencing
+
+### 马术
+- **拼音:** mǎshù
+- **HSK:** 3
+- **英文:** Equestrian
+
+### 高尔夫
+- **拼音:** gāo'ěrfū
+- **HSK:** 3
+- **英文:** Golf
+
+### 保龄球
+- **拼音:** bǎolíngqiú
+- **HSK:** 3
+- **英文:** Bowling
+
+### 飞镖
+- **拼音:** fēibiāo
+- **HSK:** 3
+- **英文:** Darts
+
+### 壁球
+- **拼音:** bìqiú
+- **HSK:** 3
+- **英文:** Squash
+
+### 攀岩
+- **拼音:** pānyán
+- **HSK:** 3
+- **英文:** Rock climbing
+
+### 蹦极
+- **拼音:** bèngjí
+- **HSK:** 3
+- **英文:** Bungee jumping
+
+### 跳伞
+- **拼音:** tiàosǎn
+- **HSK:** 3
+- **英文:** Parachuting
+
+### 滑翔伞
+- **拼音:** huáxiángsǎn
+- **HSK:** 3
+- **英文:** Paraglider
+
+### 热气球
+- **拼音:** rèqìqiú
+- **HSK:** 3
+- **英文:** Hot air balloon
+
+### 跳楼机
+- **拼音:** tiàolóujī
+- **HSK:** 3
+- **英文:** Drop tower
+
+### 过山车
+- **拼音:** guòshānchē
+- **HSK:** 3
+- **英文:** Roller coaster
+
+### 摩天轮
+- **拼音:** mótiānlún
+- **HSK:** 3
+- **英文:** Ferris wheel
+
+### 旋转木马
+- **拼音:** xuánzhuǎn-mùmǎ
+- **HSK:** 3
+- **英文:** Merry-go-round
+
+### 鬼屋
+- **拼音:** guǐwū
+- **HSK:** 3
+- **英文:** Haunted house
+
+### 碰碰车
+- **拼音:** pèngpèngchē
+- **HSK:** 3
+- **英文:** Bumper car
+
+### 旋转飞椅
+- **拼音:** xuánzhuǎn-fēiyǐ
+- **HSK:** 3
+- **英文:** Rotating chairs
+
+### 海盗船
+- **拼音:** hǎidàochuán
+- **HSK:** 3
+- **英文:** Pirate ship ride
+
+### 过山车
+- **拼音:** guòshānchē
+- **HSK:** 3
+- **英文:** Roller coaster
+
+### 跳楼机
+- **拼音:** tiàolóujī
+- **HSK:** 3
+- **英文:** Drop tower
+
+### 跳楼机
+- **拼音:** tiàolóujī
+- **HSK:** 3
+- **英文:** Drop tower
+
 
 ## 3. 营养/饮食 (Nutrition/Diet)
 
-| 中文 | 拼音 | HSK | 英文 |
-|------|------|-----|------|
-| 营养 | yíngyǎng | 2 | Nutrition |
-| 蛋白质 | dànbáizhì | 2 | Protein |
-| 维生素 | wéishēngsù | 2 | Vitamin |
-| 钙 | gài | 2 | Calcium |
-| 铁 | tiě | 2 | Iron |
-| 锌 | xīn | 2 | Zinc |
-| 碳水化合物 | tànshuǐ-huàhéwù | 4 | Carbohydrate |
-| 脂肪 | zhīfáng | 2 | Fat |
-| 蛋白质 | dànbáizhì | 2 | Protein |
-| 纤维 | xiānwéi | 2 | Fiber |
-| 维生素 | wéishēngsù | 2 | Vitamin |
-| 矿物质 | kuàngwùzhì | 4 | Mineral |
-| 热量 | rèliàng | 2 | Calories |
-| 卡路里 | kǎlùlǐ | 3 | Calorie |
-| 脂肪 | zhīfáng | 2 | Fat |
-| 糖 | táng | 1 | Sugar |
-| 盐 | yán | 1 | Salt |
-| 油 | yóu | 1 | Oil |
-| 醋 | cù | 1 | Vinegar |
-| 酱油 | jiàngyóu | 1 | Soy sauce |
-| 蛋白质 | dànbáizhì | 2 | Protein |
-| 碳水化合物 | tànshuǐ-huàhéwù | 4 | Carbohydrate |
-| 脂肪 | zhīfáng | 2 | Fat |
-| 维生素 | wéishēngsù | 2 | Vitamin |
-| 矿物质 | kuàngwùzhì | 4 | Mineral |
-| 纤维 | xiānwéi | 2 | Fiber |
-| 营养 | yíngyǎng | 2 | Nutrition |
-| 健康 | jiànkāng | 1 | Health |
-| 养生 | yǎngshēng | 2 | Health preservation |
-| 保健 | bǎojiàn | 2 | Health care |
-| 健身 | jiànshēn | 2 | Work out |
-| 减肥 | jiǎnféi | 2 | Lose weight |
-| 增肥 | zēngféi | 2 | Gain weight |
-| 瘦身 | shòushēn | 2 | Slim down |
-| 塑形 | sùxíng | 3 | Body sculpting |
-| 减脂 | jiǎnzhī | 3 | Reduce fat |
-| 增肌 | zēngjī | 3 | Build muscle |
-| 有氧 | yǒuyǎng | 3 | Aerobic |
-| 无氧 | wúyǎng | 3 | Anaerobic |
-| HIIT | HIIT | 1 | High-intensity interval training |
-| 力量训练 | lìliàng xùnliàn | 4 | Strength training |
-| 有氧运动 | yǒuyǎng yùndòng | 4 | Aerobic exercise |
-| 无氧运动 | wúyǎng yùndòng | 4 | Anaerobic exercise |
-| 拉伸 | lāshēn | 3 | Stretching |
-| 放松 | fàngsōng | 2 | Relax |
-| 热身 | rèshēn | 3 | Warm up |
-| 拉伸 | lāshēn | 3 | Stretch |
-| 放松 | fàngsōng | 2 | Relax |
-| 热身 | rèshēn | 3 | Warm up |
+### 营养
+- **拼音:** yíngyǎng
+- **HSK:** 2
+- **英文:** Nutrition
+
+### 蛋白质
+- **拼音:** dànbáizhì
+- **HSK:** 2
+- **英文:** Protein
+
+### 维生素
+- **拼音:** wéishēngsù
+- **HSK:** 2
+- **英文:** Vitamin
+
+### 钙
+- **拼音:** gài
+- **HSK:** 2
+- **英文:** Calcium
+
+### 铁
+- **拼音:** tiě
+- **HSK:** 2
+- **英文:** Iron
+
+### 锌
+- **拼音:** xīn
+- **HSK:** 2
+- **英文:** Zinc
+
+### 碳水化合物
+- **拼音:** tànshuǐ-huàhéwù
+- **HSK:** 4
+- **英文:** Carbohydrate
+
+### 脂肪
+- **拼音:** zhīfáng
+- **HSK:** 2
+- **英文:** Fat
+
+### 蛋白质
+- **拼音:** dànbáizhì
+- **HSK:** 2
+- **英文:** Protein
+
+### 纤维
+- **拼音:** xiānwéi
+- **HSK:** 2
+- **英文:** Fiber
+
+### 维生素
+- **拼音:** wéishēngsù
+- **HSK:** 2
+- **英文:** Vitamin
+
+### 矿物质
+- **拼音:** kuàngwùzhì
+- **HSK:** 4
+- **英文:** Mineral
+
+### 热量
+- **拼音:** rèliàng
+- **HSK:** 2
+- **英文:** Calories
+
+### 卡路里
+- **拼音:** kǎlùlǐ
+- **HSK:** 3
+- **英文:** Calorie
+
+### 脂肪
+- **拼音:** zhīfáng
+- **HSK:** 2
+- **英文:** Fat
+
+### 糖
+- **拼音:** táng
+- **HSK:** 1
+- **英文:** Sugar
+
+### 盐
+- **拼音:** yán
+- **HSK:** 1
+- **英文:** Salt
+
+### 油
+- **拼音:** yóu
+- **HSK:** 1
+- **英文:** Oil
+
+### 醋
+- **拼音:** cù
+- **HSK:** 1
+- **英文:** Vinegar
+
+### 酱油
+- **拼音:** jiàngyóu
+- **HSK:** 1
+- **英文:** Soy sauce
+
+### 蛋白质
+- **拼音:** dànbáizhì
+- **HSK:** 2
+- **英文:** Protein
+
+### 碳水化合物
+- **拼音:** tànshuǐ-huàhéwù
+- **HSK:** 4
+- **英文:** Carbohydrate
+
+### 脂肪
+- **拼音:** zhīfáng
+- **HSK:** 2
+- **英文:** Fat
+
+### 维生素
+- **拼音:** wéishēngsù
+- **HSK:** 2
+- **英文:** Vitamin
+
+### 矿物质
+- **拼音:** kuàngwùzhì
+- **HSK:** 4
+- **英文:** Mineral
+
+### 纤维
+- **拼音:** xiānwéi
+- **HSK:** 2
+- **英文:** Fiber
+
+### 营养
+- **拼音:** yíngyǎng
+- **HSK:** 2
+- **英文:** Nutrition
+
+### 健康
+- **拼音:** jiànkāng
+- **HSK:** 1
+- **英文:** Health
+
+### 养生
+- **拼音:** yǎngshēng
+- **HSK:** 2
+- **英文:** Health preservation
+
+### 保健
+- **拼音:** bǎojiàn
+- **HSK:** 2
+- **英文:** Health care
+
+### 健身
+- **拼音:** jiànshēn
+- **HSK:** 2
+- **英文:** Work out
+
+### 减肥
+- **拼音:** jiǎnféi
+- **HSK:** 2
+- **英文:** Lose weight
+
+### 增肥
+- **拼音:** zēngféi
+- **HSK:** 2
+- **英文:** Gain weight
+
+### 瘦身
+- **拼音:** shòushēn
+- **HSK:** 2
+- **英文:** Slim down
+
+### 塑形
+- **拼音:** sùxíng
+- **HSK:** 3
+- **英文:** Body sculpting
+
+### 减脂
+- **拼音:** jiǎnzhī
+- **HSK:** 3
+- **英文:** Reduce fat
+
+### 增肌
+- **拼音:** zēngjī
+- **HSK:** 3
+- **英文:** Build muscle
+
+### 有氧
+- **拼音:** yǒuyǎng
+- **HSK:** 3
+- **英文:** Aerobic
+
+### 无氧
+- **拼音:** wúyǎng
+- **HSK:** 3
+- **英文:** Anaerobic
+
+### HIIT
+- **拼音:** HIIT
+- **HSK:** 1
+- **英文:** High-intensity interval training
+
+### 力量训练
+- **拼音:** lìliàng xùnliàn
+- **HSK:** 4
+- **英文:** Strength training
+
+### 有氧运动
+- **拼音:** yǒuyǎng yùndòng
+- **HSK:** 4
+- **英文:** Aerobic exercise
+
+### 无氧运动
+- **拼音:** wúyǎng yùndòng
+- **HSK:** 4
+- **英文:** Anaerobic exercise
+
+### 拉伸
+- **拼音:** lāshēn
+- **HSK:** 3
+- **英文:** Stretching
+
+### 放松
+- **拼音:** fàngsōng
+- **HSK:** 2
+- **英文:** Relax
+
+### 热身
+- **拼音:** rèshēn
+- **HSK:** 3
+- **英文:** Warm up
+
+### 拉伸
+- **拼音:** lāshēn
+- **HSK:** 3
+- **英文:** Stretch
+
+### 放松
+- **拼音:** fàngsōng
+- **HSK:** 2
+- **英文:** Relax
+
+### 热身
+- **拼音:** rèshēn
+- **HSK:** 3
+- **英文:** Warm up
+
 
 ## 4. 睡眠/作息 (Sleep/Routine)
 
-| 中文 | 拼音 | HSK | 英文 |
-|------|------|-----|------|
-| 睡觉 | shuìjiào | 1 | Sleep |
-| 起床 | qǐchuáng | 1 | Wake up |
-| 午睡 | wǔshuì | 2 | Nap |
-| 午休 | wǔxiū | 2 | Lunch break |
-| 晚安 | wǎn'ān | 1 | Good night |
-| 做梦 | zuòmèng | 1 | Dream |
-| 打呼噜 | dǎ hūlū | 3 | Snore |
-| 失眠 | shīmián | 2 | Insomnia |
-| 熬夜 | áoyè | 2 | Stay up late |
-| 瞌睡 | kēshuì | 3 | Drowsy |
-| 困 | kùn | 1 | Sleepy |
-| 累 | lèi | 1 | Tired |
-| 打哈欠 | dǎ hāqiàn | 3 | Yawn |
+### 睡觉
+- **拼音:** shuìjiào
+- **HSK:** 1
+- **英文:** Sleep
+
+### 起床
+- **拼音:** qǐchuáng
+- **HSK:** 1
+- **英文:** Wake up
+
+### 午睡
+- **拼音:** wǔshuì
+- **HSK:** 2
+- **英文:** Nap
+
+### 午休
+- **拼音:** wǔxiū
+- **HSK:** 2
+- **英文:** Lunch break
+
+### 晚安
+- **拼音:** wǎn'ān
+- **HSK:** 1
+- **英文:** Good night
+
+### 做梦
+- **拼音:** zuòmèng
+- **HSK:** 1
+- **英文:** Dream
+
+### 打呼噜
+- **拼音:** dǎ hūlū
+- **HSK:** 3
+- **英文:** Snore
+
+### 失眠
+- **拼音:** shīmián
+- **HSK:** 2
+- **英文:** Insomnia
+
+### 熬夜
+- **拼音:** áoyè
+- **HSK:** 2
+- **英文:** Stay up late
+
+### 瞌睡
+- **拼音:** kēshuì
+- **HSK:** 3
+- **英文:** Drowsy
+
+### 困
+- **拼音:** kùn
+- **HSK:** 1
+- **英文:** Sleepy
+
+### 累
+- **拼音:** lèi
+- **HSK:** 1
+- **英文:** Tired
+
+### 打哈欠
+- **拼音:** dǎ hāqiàn
+- **HSK:** 3
+- **英文:** Yawn
+
 
 ## 5. 医疗/看病 (Medical)
 
-| 中文 | 拼音 | HSK | 英文 |
-|------|------|-----|------|
-| 医院 | yīyuàn | 2 | Hospital |
-| 医生 | yīshēng | 1 | Doctor |
-| 护士 | hùshì | 1 | Nurse |
-| 病人 | bìngrén | 1 | Patient |
-| 看病 | kànbìng | 1 | See a doctor |
-| 检查 | jiǎnchá | 2 | Examination |
-| 化验 | huàyàn | 3 | Lab test |
-| 诊断 | zhěnduàn | 3 | Diagnosis |
-| 治疗 | zhìliáo | 2 | Treatment |
-| 手术 | shǒushù | 1 | Surgery |
-| 处方 | chǔfāng | 2 | Prescription |
-| 药 | yào | 1 | Medicine |
-| 吃药 | chīyào | 1 | Take medicine |
-| 打针 | dǎzhēn | 1 | Get a shot |
-| 输液 | shūyè | 2 | IV drip |
-| 住院 | zhùyuàn | 1 | Hospitalization |
-| 出院 | chūyuàn | 1 | Discharge from hospital |
-| 手术 | shǒushù | 1 | Surgery |
-| 麻醉 | mázuì | 3 | Anesthesia |
-| 缝合 | fénghé | 3 | Suture |
-| 包扎 | bāozhā | 2 | Bandage |
-| 拆线 | chāixiàn | 3 | Remove stitches |
-| 复诊 | fùzhěn | 3 | Follow-up visit |
-| 转诊 | zhuǎnzhěn | 3 | Referral |
-| 急诊 | jízhěn | 3 | Emergency |
-| 门诊 | ménzhěn | 3 | Outpatient |
-| 病房 | bìngfáng | 3 | Hospital room |
-| 病床 | bìngchuáng | 3 | Hospital bed |
-| 护士站 | hùshìzhàn | 3 | Nurse station |
-| 挂号台 | guàhàotái | 3 | Registration desk |
-| 候诊区 | hòuzhěnqū | 4 | Waiting area |
-| 药房 | yàofáng | 2 | Pharmacy |
-| 收费处 | shōufèichù | 4 | Cashier |
-| 急诊室 | jízhěnshì | 4 | Emergency room |
-| 手术室 | shǒushùshì | 4 | Operating room |
-| 重症监护室 | zhòngzhèng jiānhùshì | 5 | ICU |
-| 观察室 | guāncháshì | 4 | Observation room |
-| 急诊 | jízhěn | 3 | Emergency |
-| 门诊 | ménzhěn | 3 | Outpatient |
-| 住院 | zhùyuàn | 1 | Hospitalization |
-| 出院 | chūyuàn | 1 | Discharge |
-| 复诊 | fùzhěn | 3 | Follow-up |
-| 转诊 | zhuǎnzhěn | 3 | Referral |
+### 医院
+- **拼音:** yīyuàn
+- **HSK:** 2
+- **英文:** Hospital
+
+### 医生
+- **拼音:** yīshēng
+- **HSK:** 1
+- **英文:** Doctor
+
+### 护士
+- **拼音:** hùshì
+- **HSK:** 1
+- **英文:** Nurse
+
+### 病人
+- **拼音:** bìngrén
+- **HSK:** 1
+- **英文:** Patient
+
+### 看病
+- **拼音:** kànbìng
+- **HSK:** 1
+- **英文:** See a doctor
+
+### 检查
+- **拼音:** jiǎnchá
+- **HSK:** 2
+- **英文:** Examination
+
+### 化验
+- **拼音:** huàyàn
+- **HSK:** 3
+- **英文:** Lab test
+
+### 诊断
+- **拼音:** zhěnduàn
+- **HSK:** 3
+- **英文:** Diagnosis
+
+### 治疗
+- **拼音:** zhìliáo
+- **HSK:** 2
+- **英文:** Treatment
+
+### 手术
+- **拼音:** shǒushù
+- **HSK:** 1
+- **英文:** Surgery
+
+### 处方
+- **拼音:** chǔfāng
+- **HSK:** 2
+- **英文:** Prescription
+
+### 药
+- **拼音:** yào
+- **HSK:** 1
+- **英文:** Medicine
+
+### 吃药
+- **拼音:** chīyào
+- **HSK:** 1
+- **英文:** Take medicine
+
+### 打针
+- **拼音:** dǎzhēn
+- **HSK:** 1
+- **英文:** Get a shot
+
+### 输液
+- **拼音:** shūyè
+- **HSK:** 2
+- **英文:** IV drip
+
+### 住院
+- **拼音:** zhùyuàn
+- **HSK:** 1
+- **英文:** Hospitalization
+
+### 出院
+- **拼音:** chūyuàn
+- **HSK:** 1
+- **英文:** Discharge from hospital
+
+### 手术
+- **拼音:** shǒushù
+- **HSK:** 1
+- **英文:** Surgery
+
+### 麻醉
+- **拼音:** mázuì
+- **HSK:** 3
+- **英文:** Anesthesia
+
+### 缝合
+- **拼音:** fénghé
+- **HSK:** 3
+- **英文:** Suture
+
+### 包扎
+- **拼音:** bāozhā
+- **HSK:** 2
+- **英文:** Bandage
+
+### 拆线
+- **拼音:** chāixiàn
+- **HSK:** 3
+- **英文:** Remove stitches
+
+### 复诊
+- **拼音:** fùzhěn
+- **HSK:** 3
+- **英文:** Follow-up visit
+
+### 转诊
+- **拼音:** zhuǎnzhěn
+- **HSK:** 3
+- **英文:** Referral
+
+### 急诊
+- **拼音:** jízhěn
+- **HSK:** 3
+- **英文:** Emergency
+
+### 门诊
+- **拼音:** ménzhěn
+- **HSK:** 3
+- **英文:** Outpatient
+
+### 病房
+- **拼音:** bìngfáng
+- **HSK:** 3
+- **英文:** Hospital room
+
+### 病床
+- **拼音:** bìngchuáng
+- **HSK:** 3
+- **英文:** Hospital bed
+
+### 护士站
+- **拼音:** hùshìzhàn
+- **HSK:** 3
+- **英文:** Nurse station
+
+### 挂号台
+- **拼音:** guàhàotái
+- **HSK:** 3
+- **英文:** Registration desk
+
+### 候诊区
+- **拼音:** hòuzhěnqū
+- **HSK:** 4
+- **英文:** Waiting area
+
+### 药房
+- **拼音:** yàofáng
+- **HSK:** 2
+- **英文:** Pharmacy
+
+### 收费处
+- **拼音:** shōufèichù
+- **HSK:** 4
+- **英文:** Cashier
+
+### 急诊室
+- **拼音:** jízhěnshì
+- **HSK:** 4
+- **英文:** Emergency room
+
+### 手术室
+- **拼音:** shǒushùshì
+- **HSK:** 4
+- **英文:** Operating room
+
+### 重症监护室
+- **拼音:** zhòngzhèng jiānhùshì
+- **HSK:** 5
+- **英文:** ICU
+
+### 观察室
+- **拼音:** guāncháshì
+- **HSK:** 4
+- **英文:** Observation room
+
+### 急诊
+- **拼音:** jízhěn
+- **HSK:** 3
+- **英文:** Emergency
+
+### 门诊
+- **拼音:** ménzhěn
+- **HSK:** 3
+- **英文:** Outpatient
+
+### 住院
+- **拼音:** zhùyuàn
+- **HSK:** 1
+- **英文:** Hospitalization
+
+### 出院
+- **拼音:** chūyuàn
+- **HSK:** 1
+- **英文:** Discharge
+
+### 复诊
+- **拼音:** fùzhěn
+- **HSK:** 3
+- **英文:** Follow-up
+
+### 转诊
+- **拼音:** zhuǎnzhěn
+- **HSK:** 3
+- **英文:** Referral
+
 
 ## 6. 心理健康 (Mental Health)
 
-| 中文 | 拼音 | HSK | 英文 |
-|------|------|-----|------|
-| 压力 | yālì | 2 | Stress |
-| 焦虑 | jiāolǜ | 2 | Anxiety |
-| 抑郁 | yìyù | 3 | Depression |
-| 孤独 | gūdú | 2 | Loneliness |
-| 寂寞 | jìmò | 2 | Loneliness |
-| 失眠 | shīmián | 2 | Insomnia |
-| 心理咨询 | xīnlǐ zīxún | 4 | Psychological counseling |
-| 心理医生 | xīnlǐ yīshēng | 4 | Psychiatrist |
-| 心理咨询师 | xīnlǐ zīxún shī | 4 | Psychologist |
-| 抑郁 | yìyù | 3 | Depression |
-| 焦虑 | jiāolǜ | 2 | Anxiety |
-| 压力 | yālì | 2 | Stress |
-| 孤独 | gūdú | 2 | Loneliness |
-| 寂寞 | jìmò | 2 | Loneliness |
-| 失眠 | shīmián | 2 | Insomnia |
-| 心理咨询 | xīnlǐ zīxún | 4 | Psychological counseling |
-| 心理医生 | xīnlǐ yīshēng | 4 | Psychiatrist |
-| 心理咨询师 | xīnlǐ zīxún shī | 4 | Psychologist |
-| 抑郁 | yìyù | 3 | Depression |
-| 焦虑 | jiāolǜ | 2 | Anxiety |
-| 压力 | yālì | 2 | Stress |
-| 孤独 | gūdú | 2 | Loneliness |
-| 寂寞 | jìmò | 2 | Loneliness |
-| 失眠 | shīmián | 2 | Insomnia |
+### 压力
+- **拼音:** yālì
+- **HSK:** 2
+- **英文:** Stress
+
+### 焦虑
+- **拼音:** jiāolǜ
+- **HSK:** 2
+- **英文:** Anxiety
+
+### 抑郁
+- **拼音:** yìyù
+- **HSK:** 3
+- **英文:** Depression
+
+### 孤独
+- **拼音:** gūdú
+- **HSK:** 2
+- **英文:** Loneliness
+
+### 寂寞
+- **拼音:** jìmò
+- **HSK:** 2
+- **英文:** Loneliness
+
+### 失眠
+- **拼音:** shīmián
+- **HSK:** 2
+- **英文:** Insomnia
+
+### 心理咨询
+- **拼音:** xīnlǐ zīxún
+- **HSK:** 4
+- **英文:** Psychological counseling
+
+### 心理医生
+- **拼音:** xīnlǐ yīshēng
+- **HSK:** 4
+- **英文:** Psychiatrist
+
+### 心理咨询师
+- **拼音:** xīnlǐ zīxún shī
+- **HSK:** 4
+- **英文:** Psychologist
+
+### 抑郁
+- **拼音:** yìyù
+- **HSK:** 3
+- **英文:** Depression
+
+### 焦虑
+- **拼音:** jiāolǜ
+- **HSK:** 2
+- **英文:** Anxiety
+
+### 压力
+- **拼音:** yālì
+- **HSK:** 2
+- **英文:** Stress
+
+### 孤独
+- **拼音:** gūdú
+- **HSK:** 2
+- **英文:** Loneliness
+
+### 寂寞
+- **拼音:** jìmò
+- **HSK:** 2
+- **英文:** Loneliness
+
+### 失眠
+- **拼音:** shīmián
+- **HSK:** 2
+- **英文:** Insomnia
+
+### 心理咨询
+- **拼音:** xīnlǐ zīxún
+- **HSK:** 4
+- **英文:** Psychological counseling
+
+### 心理医生
+- **拼音:** xīnlǐ yīshēng
+- **HSK:** 4
+- **英文:** Psychiatrist
+
+### 心理咨询师
+- **拼音:** xīnlǐ zīxún shī
+- **HSK:** 4
+- **英文:** Psychologist
+
+### 抑郁
+- **拼音:** yìyù
+- **HSK:** 3
+- **英文:** Depression
+
+### 焦虑
+- **拼音:** jiāolǜ
+- **HSK:** 2
+- **英文:** Anxiety
+
+### 压力
+- **拼音:** yālì
+- **HSK:** 2
+- **英文:** Stress
+
+### 孤独
+- **拼音:** gūdú
+- **HSK:** 2
+- **英文:** Loneliness
+
+### 寂寞
+- **拼音:** jìmò
+- **HSK:** 2
+- **英文:** Loneliness
+
+### 失眠
+- **拼音:** shīmián
+- **HSK:** 2
+- **英文:** Insomnia
+
 
 ---
 
