@@ -213,3 +213,45 @@ These are romanized Korean words that don't have exact stem matches. The corpus 
 **Recommended fix**: Either (a) update corpus to use valid stems (e.g., `[[greetings-kr]]`), or (b) create stub files for these romanized stems. This is a separate maintenance task and not part of Phase 1-4.
 
 **Vault state**: 0 broken Language→typing_language links introduced by Phase 1-4 work. Pre-existing KR corpus broken citations documented above.
+
+## [2026-08-13] investigate | KR corpus broken citations — refined analysis
+
+Per `Game/typing_language/AGENTS.md` §2: `raw/` is **READ-ONLY** (절대 수정 금지). Investigation confirmed:
+
+**9 broken citations in `Game/typing_language/raw/kr_words.md` are ALL in documentation/template examples, NOT in active data:**
+
+| Line | Type | Citation |
+|------|------|----------|
+| 32 | Schema example comment | `[[annyeonghaseyo]]` |
+| 46 | Commented template | `[[annyeonghaseyo]]` |
+| 47 | Commented template | `[[annyeonghi-gaseyo]]` |
+| 48 | Commented template | `[[gamsahamnida]]` |
+| 49 | Commented template | `[[joesonghamnida]]` |
+| 56 | Commented template | `[[hana]]` |
+| 57 | Commented template | `[[dul]]` |
+| 58 | Commented template | `[[set]]` |
+| 59 | Commented template | `[[yeol]]` |
+| 60 | Commented template | `[[baek]]` |
+
+**Active KR corpus data (1,287 entries total) uses VALID stems:**
+
+| Stem | Active Citations |
+|------|---:|
+| `[[basic-vocabulary]]` | 689 |
+| `[[animals-vocabulary]]` | 123 |
+| `[[travel]]` | 100 |
+| `[[body-family]]` | 84 |
+| `[[food-vocabulary]]` | 84 |
+| `[[topik1-starter]]` | 80 |
+| `[[weather-nature]]` | 74 |
+| `[[emotions-personality-vocabulary]]` | 23 |
+| `[[clothing-vocabulary]]` | 20 |
+| **Total** | **1,277** |
+
+**0 active data broken citations.** The 9 broken are documentation/template examples in header section.
+
+**Recommendation (out of session scope, requires typing_language repo edit)**:
+- Either (a) leave as-is (documentation cruft doesn't break functionality)
+- Or (b) create typing_language ADR-0010 to move header documentation to `wiki/korean.md` corpus-format reference, leaving `raw/kr_words.md` with only active data
+
+This is documentation cleanup, not data fix. Corpus is healthy.
