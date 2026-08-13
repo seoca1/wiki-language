@@ -15,78 +15,268 @@ theme: "travel"
 
 ## 1. 交通 (Transportation)
 
-| 中文 | 拼音 | HSK | 英文 |
-|------|------|-----|------|
-| 飞机 | fēijī | 1 | Airplane |
-| 火车 | huǒchē | 1 | Train |
-| 高铁 | gāotiě | 2 | High-speed rail |
-| 地铁 | dìtiě | 1 | Subway |
-| 公交 | gōngjiāo | 1 | Bus |
-| 出租车 | chūzūchē | 2 | Taxi |
-| 轮船 | lúnchuán | 3 | Ship |
-| 自驾 | zìjià | 3 | Self-drive |
-| 拼车 | pīnchē | 3 | Carpool |
-| 共享单车 | gòngxiǎng dānchē | 4 | Shared bike |
+### 飞机
+- **拼音:** fēijī
+- **HSK:** 1
+- **英文:** Airplane
+
+### 火车
+- **拼音:** huǒchē
+- **HSK:** 1
+- **英文:** Train
+
+### 高铁
+- **拼音:** gāotiě
+- **HSK:** 2
+- **英文:** High-speed rail
+
+### 地铁
+- **拼音:** dìtiě
+- **HSK:** 1
+- **英文:** Subway
+
+### 公交
+- **拼音:** gōngjiāo
+- **HSK:** 1
+- **英文:** Bus
+
+### 出租车
+- **拼音:** chūzūchē
+- **HSK:** 2
+- **英文:** Taxi
+
+### 轮船
+- **拼音:** lúnchuán
+- **HSK:** 3
+- **英文:** Ship
+
+### 自驾
+- **拼音:** zìjià
+- **HSK:** 3
+- **英文:** Self-drive
+
+### 拼车
+- **拼音:** pīnchē
+- **HSK:** 3
+- **英文:** Carpool
+
+### 共享单车
+- **拼音:** gòngxiǎng dānchē
+- **HSK:** 4
+- **英文:** Shared bike
+
 
 ## 2. 住宿 (Accommodation)
 
-| 中文 | 拼音 | HSK | 英文 |
-|------|------|-----|------|
-| 酒店 | jiǔdiàn | 2 | Hotel |
-| 民宿 | mínsù | 3 | Guesthouse |
-| 客栈 | kèzhàn | 3 | Inn |
-| 青旅 | qīnglǚ | 4 | Hostel |
-| 预订 | yùdìng | 3 | Reserve |
-| 入住 | rùzhù | 3 | Check in |
-| 退房 | tuìfáng | 3 | Check out |
-| 单人间 | dānrénjiān | 4 | Single room |
-| 双人间 | shuāngrénjiān | 4 | Double room |
-| 房费 | fángfèi | 4 | Room rate |
+### 酒店
+- **拼音:** jiǔdiàn
+- **HSK:** 2
+- **英文:** Hotel
+
+### 民宿
+- **拼音:** mínsù
+- **HSK:** 3
+- **英文:** Guesthouse
+
+### 客栈
+- **拼音:** kèzhàn
+- **HSK:** 3
+- **英文:** Inn
+
+### 青旅
+- **拼音:** qīnglǚ
+- **HSK:** 4
+- **英文:** Hostel
+
+### 预订
+- **拼音:** yùdìng
+- **HSK:** 3
+- **英文:** Reserve
+
+### 入住
+- **拼音:** rùzhù
+- **HSK:** 3
+- **英文:** Check in
+
+### 退房
+- **拼音:** tuìfáng
+- **HSK:** 3
+- **英文:** Check out
+
+### 单人间
+- **拼音:** dānrénjiān
+- **HSK:** 4
+- **英文:** Single room
+
+### 双人间
+- **拼音:** shuāngrénjiān
+- **HSK:** 4
+- **英文:** Double room
+
+### 房费
+- **拼音:** fángfèi
+- **HSK:** 4
+- **英文:** Room rate
+
 
 ## 3. 观光/游览 (Sightseeing)
 
-| 中文 | 拼音 | HSK | 英文 |
-|------|------|-----|------|
-| 景点 | jǐngdiǎn | 3 | Attraction |
-| 门票 | ménpiào | 2 | Ticket |
-| 导游 | dǎoyóu | 3 | Tour guide |
-| 旅行团 | lǚxíngtuán | 3 | Tour group |
-| 自由行 | zìyóuxíng | 3 | Independent travel |
-| 行程 | xíngchéng | 3 | Itinerary |
-| 地图 | dìtú | 1 | Map |
-| 攻略 | gōnglüè | 4 | Travel guide |
-| 网红打卡 | wǎnghóng dǎkǎ | 4 | Instagram hotspot |
-| 文化遗产 | wénhuà yíchǎn | 5 | Cultural heritage |
+### 景点
+- **拼音:** jǐngdiǎn
+- **HSK:** 3
+- **英文:** Attraction
+
+### 门票
+- **拼音:** ménpiào
+- **HSK:** 2
+- **英文:** Ticket
+
+### 导游
+- **拼音:** dǎoyóu
+- **HSK:** 3
+- **英文:** Tour guide
+
+### 旅行团
+- **拼音:** lǚxíngtuán
+- **HSK:** 3
+- **英文:** Tour group
+
+### 自由行
+- **拼音:** zìyóuxíng
+- **HSK:** 3
+- **英文:** Independent travel
+
+### 行程
+- **拼音:** xíngchéng
+- **HSK:** 3
+- **英文:** Itinerary
+
+### 地图
+- **拼音:** dìtú
+- **HSK:** 1
+- **英文:** Map
+
+### 攻略
+- **拼音:** gōnglüè
+- **HSK:** 4
+- **英文:** Travel guide
+
+### 网红打卡
+- **拼音:** wǎnghóng dǎkǎ
+- **HSK:** 4
+- **英文:** Instagram hotspot
+
+### 文化遗产
+- **拼音:** wénhuà yíchǎn
+- **HSK:** 5
+- **英文:** Cultural heritage
+
 
 ## 4. 户外/探险 (Outdoor/Adventure)
 
-| 中文 | 拼音 | HSK | 英文 |
-|------|------|-----|------|
-| 登山 | dēngshān | 2 | Mountain climbing |
-| 徒步 | túbù | 3 | Hiking |
-| 露营 | lùyíng | 3 | Camping |
-| 帐篷 | zhàngpéng | 3 | Tent |
-| 背包 | bèibāo | 2 | Backpack |
-| 徒步鞋 | túbùxié | 4 | Hiking boots |
-| 指南针 | zhǐnánzhēn | 4 | Compass |
-| 探险 | tànxiǎn | 3 | Adventure/explore |
-| 漂流 | piāoliú | 4 | Rafting |
-| 攀岩 | pānyán | 4 | Rock climbing |
+### 登山
+- **拼音:** dēngshān
+- **HSK:** 2
+- **英文:** Mountain climbing
+
+### 徒步
+- **拼音:** túbù
+- **HSK:** 3
+- **英文:** Hiking
+
+### 露营
+- **拼音:** lùyíng
+- **HSK:** 3
+- **英文:** Camping
+
+### 帐篷
+- **拼音:** zhàngpéng
+- **HSK:** 3
+- **英文:** Tent
+
+### 背包
+- **拼音:** bèibāo
+- **HSK:** 2
+- **英文:** Backpack
+
+### 徒步鞋
+- **拼音:** túbùxié
+- **HSK:** 4
+- **英文:** Hiking boots
+
+### 指南针
+- **拼音:** zhǐnánzhēn
+- **HSK:** 4
+- **英文:** Compass
+
+### 探险
+- **拼音:** tànxiǎn
+- **HSK:** 3
+- **英文:** Adventure/explore
+
+### 漂流
+- **拼音:** piāoliú
+- **HSK:** 4
+- **英文:** Rafting
+
+### 攀岩
+- **拼音:** pānyán
+- **HSK:** 4
+- **英文:** Rock climbing
+
 
 ## 5. 应急/安全 (Emergency/Safety)
 
-| 中文 | 拼音 | HSK | 英文 |
-|------|------|-----|------|
-| 紧急 | jǐnjí | 3 | Emergency |
-| 报警 | bàojǐng | 3 | Call police |
-| 救护车 | jiùhùchē | 3 | Ambulance |
-| 医院 | yīyuàn | 2 | Hospital |
-| 护照 | hùzhào | 3 | Passport |
-| 签证 | qiānzhèng | 3 | Visa |
-| 保险 | bǎoxiǎn | 3 | Insurance |
-| 迷路 | mílù | 3 | Lost |
-| 翻译 | fānyì | 3 | Translation |
-| 使馆 | shǐguǎn | 4 | Embassy |
+### 紧急
+- **拼音:** jǐnjí
+- **HSK:** 3
+- **英文:** Emergency
+
+### 报警
+- **拼音:** bàojǐng
+- **HSK:** 3
+- **英文:** Call police
+
+### 救护车
+- **拼音:** jiùhùchē
+- **HSK:** 3
+- **英文:** Ambulance
+
+### 医院
+- **拼音:** yīyuàn
+- **HSK:** 2
+- **英文:** Hospital
+
+### 护照
+- **拼音:** hùzhào
+- **HSK:** 3
+- **英文:** Passport
+
+### 签证
+- **拼音:** qiānzhèng
+- **HSK:** 3
+- **英文:** Visa
+
+### 保险
+- **拼音:** bǎoxiǎn
+- **HSK:** 3
+- **英文:** Insurance
+
+### 迷路
+- **拼音:** mílù
+- **HSK:** 3
+- **英文:** Lost
+
+### 翻译
+- **拼音:** fānyì
+- **HSK:** 3
+- **英文:** Translation
+
+### 使馆
+- **拼音:** shǐguǎn
+- **HSK:** 4
+- **英文:** Embassy
+
 
 ---
 

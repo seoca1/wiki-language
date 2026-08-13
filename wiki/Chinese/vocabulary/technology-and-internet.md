@@ -15,93 +15,321 @@ theme: "technology"
 
 ## 1. 计算机/硬件 (Computer/Hardware)
 
-| 中文 | 拼音 | HSK | 英文 |
-|------|------|-----|------|
-| 电脑 | diànnǎo | 2 | Computer |
-| 笔记本 | bǐjìběn | 2 | Laptop |
-| 手机 | shǒujī | 1 | Mobile phone |
-| 平板 | píngbǎn | 2 | Tablet |
-| 屏幕 | píngmù | 2 | Screen |
-| 键盘 | jiànpán | 3 | Keyboard |
-| 鼠标 | shǔbiāo | 3 | Mouse |
-| 打印机 | dǎyìnjī | 3 | Printer |
-| 摄像头 | shèxiàngtóu | 3 | Webcam |
-| 耳机 | ěrjī | 2 | Headphones |
+### 电脑
+- **拼音:** diànnǎo
+- **HSK:** 2
+- **英文:** Computer
+
+### 笔记本
+- **拼音:** bǐjìběn
+- **HSK:** 2
+- **英文:** Laptop
+
+### 手机
+- **拼音:** shǒujī
+- **HSK:** 1
+- **英文:** Mobile phone
+
+### 平板
+- **拼音:** píngbǎn
+- **HSK:** 2
+- **英文:** Tablet
+
+### 屏幕
+- **拼音:** píngmù
+- **HSK:** 2
+- **英文:** Screen
+
+### 键盘
+- **拼音:** jiànpán
+- **HSK:** 3
+- **英文:** Keyboard
+
+### 鼠标
+- **拼音:** shǔbiāo
+- **HSK:** 3
+- **英文:** Mouse
+
+### 打印机
+- **拼音:** dǎyìnjī
+- **HSK:** 3
+- **英文:** Printer
+
+### 摄像头
+- **拼音:** shèxiàngtóu
+- **HSK:** 3
+- **英文:** Webcam
+
+### 耳机
+- **拼音:** ěrjī
+- **HSK:** 2
+- **英文:** Headphones
+
 
 ## 2. 互联网/网络 (Internet)
 
-| 中文 | 拼音 | HSK | 英文 |
-|------|------|-----|------|
-| 互联网 | hùliánwǎng | 3 | Internet |
-| 网站 | wǎngzhàn | 2 | Website |
-| 网址 | wǎngzhǐ | 3 | URL |
-| 浏览器 | liúlǎnqì | 3 | Browser |
-| 搜索 | sōusuǒ | 2 | Search |
-| 下载 | xiàzài | 2 | Download |
-| 上传 | shàngchuán | 3 | Upload |
-| 链接 | liànjiē | 3 | Link |
-| 网址 | wǎngzhǐ | 3 | Web address |
-| 服务器 | fúwùqì | 4 | Server |
+### 互联网
+- **拼音:** hùliánwǎng
+- **HSK:** 3
+- **英文:** Internet
+
+### 网站
+- **拼音:** wǎngzhàn
+- **HSK:** 2
+- **英文:** Website
+
+### 网址
+- **拼音:** wǎngzhǐ
+- **HSK:** 3
+- **英文:** URL
+
+### 浏览器
+- **拼音:** liúlǎnqì
+- **HSK:** 3
+- **英文:** Browser
+
+### 搜索
+- **拼音:** sōusuǒ
+- **HSK:** 2
+- **英文:** Search
+
+### 下载
+- **拼音:** xiàzài
+- **HSK:** 2
+- **英文:** Download
+
+### 上传
+- **拼音:** shàngchuán
+- **HSK:** 3
+- **英文:** Upload
+
+### 链接
+- **拼音:** liànjiē
+- **HSK:** 3
+- **英文:** Link
+
+### 网址
+- **拼音:** wǎngzhǐ
+- **HSK:** 3
+- **英文:** Web address
+
+### 服务器
+- **拼音:** fúwùqì
+- **HSK:** 4
+- **英文:** Server
+
 
 ## 3. 社交媒体 (Social Media)
 
-| 中文 | 拼音 | HSK | 英文 |
-|------|------|-----|------|
-| 微信 | Wēixìn | 2 | WeChat |
-| 微博 | Wēibó | 3 | Weibo |
-| QQ | QQ | 3 | QQ |
-| 抖音 | Dǒuyīn | 3 | Douyin/TikTok |
-| 小红书 | Xiǎohóngshū | 4 | Xiaohongshu |
-| 朋友圈 | péngyou quān | 3 | Moments |
-| 公众号 | gōngzhònghào | 4 | Public account |
-| 视频号 | shìpínhào | 4 | Video channel |
-| 直播 | zhíbō | 3 | Live stream |
-| 弹幕 | dànmù | 4 | Bullet comments |
+### 微信
+- **拼音:** Wēixìn
+- **HSK:** 2
+- **英文:** WeChat
+
+### 微博
+- **拼音:** Wēibó
+- **HSK:** 3
+- **英文:** Weibo
+
+### QQ
+- **拼音:** QQ
+- **HSK:** 3
+- **英文:** QQ
+
+### 抖音
+- **拼音:** Dǒuyīn
+- **HSK:** 3
+- **英文:** Douyin/TikTok
+
+### 小红书
+- **拼音:** Xiǎohóngshū
+- **HSK:** 4
+- **英文:** Xiaohongshu
+
+### 朋友圈
+- **拼音:** péngyou quān
+- **HSK:** 3
+- **英文:** Moments
+
+### 公众号
+- **拼音:** gōngzhònghào
+- **HSK:** 4
+- **英文:** Public account
+
+### 视频号
+- **拼音:** shìpínhào
+- **HSK:** 4
+- **英文:** Video channel
+
+### 直播
+- **拼音:** zhíbō
+- **HSK:** 3
+- **英文:** Live stream
+
+### 弹幕
+- **拼音:** dànmù
+- **HSK:** 4
+- **英文:** Bullet comments
+
 
 ## 4. 通讯 (Communication)
 
-| 中文 | 拼音 | HSK | 英文 |
-|------|------|-----|------|
-| 邮件 | yóujiàn | 2 | Email |
-| 短信 | duǎnxìn | 2 | SMS |
-| 通知 | tōngzhī | 2 | Notification |
-| 信息 | xìnxī | 2 | Message |
-| 电话 | diànhuà | 1 | Phone call |
-| 视频通话 | shìpín tōnghuà | 4 | Video call |
-| 表情包 | biǎoqíngbāo | 4 | Sticker/emoji |
-| 语音 | yǔyīn | 2 | Voice message |
-| 群聊 | qúnliáo | 3 | Group chat |
-| 已读 | yǐdú | 4 | Read receipt |
+### 邮件
+- **拼音:** yóujiàn
+- **HSK:** 2
+- **英文:** Email
+
+### 短信
+- **拼音:** duǎnxìn
+- **HSK:** 2
+- **英文:** SMS
+
+### 通知
+- **拼音:** tōngzhī
+- **HSK:** 2
+- **英文:** Notification
+
+### 信息
+- **拼音:** xìnxī
+- **HSK:** 2
+- **英文:** Message
+
+### 电话
+- **拼音:** diànhuà
+- **HSK:** 1
+- **英文:** Phone call
+
+### 视频通话
+- **拼音:** shìpín tōnghuà
+- **HSK:** 4
+- **英文:** Video call
+
+### 表情包
+- **拼音:** biǎoqíngbāo
+- **HSK:** 4
+- **英文:** Sticker/emoji
+
+### 语音
+- **拼音:** yǔyīn
+- **HSK:** 2
+- **英文:** Voice message
+
+### 群聊
+- **拼音:** qúnliáo
+- **HSK:** 3
+- **英文:** Group chat
+
+### 已读
+- **拼音:** yǐdú
+- **HSK:** 4
+- **英文:** Read receipt
+
 
 ## 5. 人工智能/前沿 (AI/Frontier)
 
-| 中文 | 拼音 | HSK | 英文 |
-|------|------|-----|------|
-| 人工智能 | réngōng zhìnéng | 4 | AI |
-| 大数据 | dàshùjù | 4 | Big data |
-| 云计算 | yúnjìsuàn | 4 | Cloud computing |
-| 机器学习 | jīqì xuéxí | 4 | Machine learning |
-| 深度学习 | shēndù xuéxí | 5 | Deep learning |
-| 算法 | suànfǎ | 4 | Algorithm |
-| 神经网络 | shénjīng wǎngluò | 5 | Neural network |
-| 智能 | zhìnéng | 3 | Smart/intelligent |
-| 自动化 | zìdònghuà | 4 | Automation |
-| 机器人 | jīqìrén | 3 | Robot |
+### 人工智能
+- **拼音:** réngōng zhìnéng
+- **HSK:** 4
+- **英文:** AI
+
+### 大数据
+- **拼音:** dàshùjù
+- **HSK:** 4
+- **英文:** Big data
+
+### 云计算
+- **拼音:** yúnjìsuàn
+- **HSK:** 4
+- **英文:** Cloud computing
+
+### 机器学习
+- **拼音:** jīqì xuéxí
+- **HSK:** 4
+- **英文:** Machine learning
+
+### 深度学习
+- **拼音:** shēndù xuéxí
+- **HSK:** 5
+- **英文:** Deep learning
+
+### 算法
+- **拼音:** suànfǎ
+- **HSK:** 4
+- **英文:** Algorithm
+
+### 神经网络
+- **拼音:** shénjīng wǎngluò
+- **HSK:** 5
+- **英文:** Neural network
+
+### 智能
+- **拼音:** zhìnéng
+- **HSK:** 3
+- **英文:** Smart/intelligent
+
+### 自动化
+- **拼音:** zìdònghuà
+- **HSK:** 4
+- **英文:** Automation
+
+### 机器人
+- **拼音:** jīqìrén
+- **HSK:** 3
+- **英文:** Robot
+
 
 ## 6. 支付/电子商务 (Payment/E-commerce)
 
-| 中文 | 拼音 | HSK | 英文 |
-|------|------|-----|------|
-| 支付宝 | Zhīfùbǎo | 3 | Alipay |
-| 微信支付 | Wēixìn zhīfù | 3 | WeChat Pay |
-| 二维码 | èrwéimǎ | 3 | QR code |
-| 扫码 | sǎomǎ | 3 | Scan code |
-| 网购 | wǎnggòu | 3 | Online shopping |
-| 淘宝 | Táobǎo | 3 | Taobao |
-| 天猫 | Tiānmāo | 3 | Tmall |
-| 京东 | Jīngdōng | 3 | JD.com |
-| 拼多多 | Pīnduōduō | 4 | Pinduoduo |
-| 外卖 | wàimài | 3 | Food delivery |
+### 支付宝
+- **拼音:** Zhīfùbǎo
+- **HSK:** 3
+- **英文:** Alipay
+
+### 微信支付
+- **拼音:** Wēixìn zhīfù
+- **HSK:** 3
+- **英文:** WeChat Pay
+
+### 二维码
+- **拼音:** èrwéimǎ
+- **HSK:** 3
+- **英文:** QR code
+
+### 扫码
+- **拼音:** sǎomǎ
+- **HSK:** 3
+- **英文:** Scan code
+
+### 网购
+- **拼音:** wǎnggòu
+- **HSK:** 3
+- **英文:** Online shopping
+
+### 淘宝
+- **拼音:** Táobǎo
+- **HSK:** 3
+- **英文:** Taobao
+
+### 天猫
+- **拼音:** Tiānmāo
+- **HSK:** 3
+- **英文:** Tmall
+
+### 京东
+- **拼音:** Jīngdōng
+- **HSK:** 3
+- **英文:** JD.com
+
+### 拼多多
+- **拼音:** Pīnduōduō
+- **HSK:** 4
+- **英文:** Pinduoduo
+
+### 外卖
+- **拼音:** wàimài
+- **HSK:** 3
+- **英文:** Food delivery
+
 
 ---
 

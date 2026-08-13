@@ -15,57 +15,185 @@ theme: "sports"
 
 ## 1. 球类运动 (Ball Sports)
 
-| 中文 | 拼音 | HSK | 英文 |
-|------|------|-----|------|
-| 足球 | zúqiú | 2 | Soccer |
-| 篮球 | lánqiú | 2 | Basketball |
-| 排球 | páiqiú | 3 | Volleyball |
-| 网球 | wǎngqiú | 2 | Tennis |
-| 羽毛球 | yǔmáoqiú | 2 | Badminton |
-| 乒乓球 | pīngpāngqiú | 3 | Table tennis |
-| 高尔夫 | gāo'ěrfū | 3 | Golf |
-| 棒球 | bàngqiú | 2 | Baseball |
+### 足球
+- **拼音:** zúqiú
+- **HSK:** 2
+- **英文:** Soccer
+
+### 篮球
+- **拼音:** lánqiú
+- **HSK:** 2
+- **英文:** Basketball
+
+### 排球
+- **拼音:** páiqiú
+- **HSK:** 3
+- **英文:** Volleyball
+
+### 网球
+- **拼音:** wǎngqiú
+- **HSK:** 2
+- **英文:** Tennis
+
+### 羽毛球
+- **拼音:** yǔmáoqiú
+- **HSK:** 2
+- **英文:** Badminton
+
+### 乒乓球
+- **拼音:** pīngpāngqiú
+- **HSK:** 3
+- **英文:** Table tennis
+
+### 高尔夫
+- **拼音:** gāo'ěrfū
+- **HSK:** 3
+- **英文:** Golf
+
+### 棒球
+- **拼音:** bàngqiú
+- **HSK:** 2
+- **英文:** Baseball
+
 
 ## 2. 运动/锻炼 (Exercise)
 
-| 中文 | 拼音 | HSK | 英文 |
-|------|------|-----|------|
-| 运动 | yùndòng | 1 | Exercise |
-| 跑步 | pǎobù | 1 | Run |
-| 游泳 | yóuyǒng | 2 | Swim |
-| 骑车 | qíchē | 1 | Bike |
-| 散步 | sànbù | 1 | Walk |
-| 登山 | dēngshān | 2 | Mountain climb |
-| 健身 | jiànshēn | 2 | Workout |
-| 瑜伽 | yújiā | 2 | Yoga |
+### 运动
+- **拼音:** yùndòng
+- **HSK:** 1
+- **英文:** Exercise
+
+### 跑步
+- **拼音:** pǎobù
+- **HSK:** 1
+- **英文:** Run
+
+### 游泳
+- **拼音:** yóuyǒng
+- **HSK:** 2
+- **英文:** Swim
+
+### 骑车
+- **拼音:** qíchē
+- **HSK:** 1
+- **英文:** Bike
+
+### 散步
+- **拼音:** sànbù
+- **HSK:** 1
+- **英文:** Walk
+
+### 登山
+- **拼音:** dēngshān
+- **HSK:** 2
+- **英文:** Mountain climb
+
+### 健身
+- **拼音:** jiànshēn
+- **HSK:** 2
+- **英文:** Workout
+
+### 瑜伽
+- **拼音:** yújiā
+- **HSK:** 2
+- **英文:** Yoga
+
 
 ## 3. 比赛/赛事 (Competition)
 
-| 中文 | 拼音 | HSK | 英文 |
-|------|------|-----|------|
-| 比赛 | bǐsài | 1 | Match |
-| 冠军 | guànjūn | 3 | Champion |
-| 决赛 | juésài | 3 | Final |
-| 金牌 | jīnpái | 3 | Gold medal |
-| 奖杯 | jiǎngbēi | 3 | Trophy |
-| 奥运会 | àoyùnhuì | 3 | Olympics |
-| 世界杯 | shìjièbēi | 3 | World Cup |
+### 比赛
+- **拼音:** bǐsài
+- **HSK:** 1
+- **英文:** Match
+
+### 冠军
+- **拼音:** guànjūn
+- **HSK:** 3
+- **英文:** Champion
+
+### 决赛
+- **拼音:** juésài
+- **HSK:** 3
+- **英文:** Final
+
+### 金牌
+- **拼音:** jīnpái
+- **HSK:** 3
+- **英文:** Gold medal
+
+### 奖杯
+- **拼音:** jiǎngbēi
+- **HSK:** 3
+- **英文:** Trophy
+
+### 奥运会
+- **拼音:** àoyùnhuì
+- **HSK:** 3
+- **英文:** Olympics
+
+### 世界杯
+- **拼音:** shìjièbēi
+- **HSK:** 3
+- **英文:** World Cup
+
 
 ## 4. 爱好/收藏 (Hobbies/Collections)
 
-| 中文 | 拼音 | HSK | 英文 |
-|------|------|-----|------|
-| 爱好 | àihào | 2 | Hobby |
-| 收藏 | shōucáng | 3 | Collect |
-| 集邮 | jíyóu | 4 | Stamp collecting |
-| 摄影 | shèyǐng | 2 | Photography |
-| 绘画 | huìhuà | 2 | Painting |
-| 书法 | shūfǎ | 3 | Calligraphy |
-| 园艺 | yuányì | 3 | Gardening |
-| 钓鱼 | diàoyú | 2 | Fishing |
-| 麻将 | májiàng | 2 | Mahjong |
-| 围棋 | wéiqí | 3 | Go |
-| 国际象棋 | guójì xiàngqí | 3 | Chess |
+### 爱好
+- **拼音:** àihào
+- **HSK:** 2
+- **英文:** Hobby
+
+### 收藏
+- **拼音:** shōucáng
+- **HSK:** 3
+- **英文:** Collect
+
+### 集邮
+- **拼音:** jíyóu
+- **HSK:** 4
+- **英文:** Stamp collecting
+
+### 摄影
+- **拼音:** shèyǐng
+- **HSK:** 2
+- **英文:** Photography
+
+### 绘画
+- **拼音:** huìhuà
+- **HSK:** 2
+- **英文:** Painting
+
+### 书法
+- **拼音:** shūfǎ
+- **HSK:** 3
+- **英文:** Calligraphy
+
+### 园艺
+- **拼音:** yuányì
+- **HSK:** 3
+- **英文:** Gardening
+
+### 钓鱼
+- **拼音:** diàoyú
+- **HSK:** 2
+- **英文:** Fishing
+
+### 麻将
+- **拼音:** májiàng
+- **HSK:** 2
+- **英文:** Mahjong
+
+### 围棋
+- **拼音:** wéiqí
+- **HSK:** 3
+- **英文:** Go
+
+### 国际象棋
+- **拼音:** guójì xiàngqí
+- **HSK:** 3
+- **英文:** Chess
+
 
 ---
 

@@ -15,78 +15,268 @@ theme: "work"
 
 ## 1. 行业 (Industries)
 
-| 中文 | 拼音 | HSK | 英文 |
-|------|------|-----|------|
-| 互联网 | hùliánwǎng | 3 | Internet industry |
-| 金融 | jīnróng | 3 | Finance |
-| 教育 | jiàoyù | 2 | Education |
-| 医疗 | yīliáo | 3 | Healthcare |
-| 房地产 | fángdìchǎn | 4 | Real estate |
-| 制造业 | zhìzàoyè | 4 | Manufacturing |
-| 零售 | língshòu | 3 | Retail |
-| 咨询 | zīxún | 3 | Consulting |
-| 媒体 | méitǐ | 2 | Media |
-| 公务员 | gōngwùyuán | 3 | Civil servant |
+### 互联网
+- **拼音:** hùliánwǎng
+- **HSK:** 3
+- **英文:** Internet industry
+
+### 金融
+- **拼音:** jīnróng
+- **HSK:** 3
+- **英文:** Finance
+
+### 教育
+- **拼音:** jiàoyù
+- **HSK:** 2
+- **英文:** Education
+
+### 医疗
+- **拼音:** yīliáo
+- **HSK:** 3
+- **英文:** Healthcare
+
+### 房地产
+- **拼音:** fángdìchǎn
+- **HSK:** 4
+- **英文:** Real estate
+
+### 制造业
+- **拼音:** zhìzàoyè
+- **HSK:** 4
+- **英文:** Manufacturing
+
+### 零售
+- **拼音:** língshòu
+- **HSK:** 3
+- **英文:** Retail
+
+### 咨询
+- **拼音:** zīxún
+- **HSK:** 3
+- **英文:** Consulting
+
+### 媒体
+- **拼音:** méitǐ
+- **HSK:** 2
+- **英文:** Media
+
+### 公务员
+- **拼音:** gōngwùyuán
+- **HSK:** 3
+- **英文:** Civil servant
+
 
 ## 2. 职位 (Positions)
 
-| 中文 | 拼音 | HSK | 英文 |
-|------|------|-----|------|
-| 老板 | lǎobǎn | 2 | Boss |
-| 经理 | jīnglǐ | 2 | Manager |
-| 主管 | zhǔguǎn | 3 | Supervisor |
-| 员工 | yuángōng | 3 | Employee |
-| 同事 | tóngshì | 2 | Colleague |
-| 下属 | xiàshǔ | 4 | Subordinate |
-| 实习生 | shíxíshēng | 4 | Intern |
-| 顾问 | gùwèn | 4 | Consultant |
-| CEO | CEO | 4 | CEO |
-| 创始人 | chuàngshǐrén | 4 | Founder |
+### 老板
+- **拼音:** lǎobǎn
+- **HSK:** 2
+- **英文:** Boss
+
+### 经理
+- **拼音:** jīnglǐ
+- **HSK:** 2
+- **英文:** Manager
+
+### 主管
+- **拼音:** zhǔguǎn
+- **HSK:** 3
+- **英文:** Supervisor
+
+### 员工
+- **拼音:** yuángōng
+- **HSK:** 3
+- **英文:** Employee
+
+### 同事
+- **拼音:** tóngshì
+- **HSK:** 2
+- **英文:** Colleague
+
+### 下属
+- **拼音:** xiàshǔ
+- **HSK:** 4
+- **英文:** Subordinate
+
+### 实习生
+- **拼音:** shíxíshēng
+- **HSK:** 4
+- **英文:** Intern
+
+### 顾问
+- **拼音:** gùwèn
+- **HSK:** 4
+- **英文:** Consultant
+
+### CEO
+- **拼音:** CEO
+- **HSK:** 4
+- **英文:** CEO
+
+### 创始人
+- **拼音:** chuàngshǐrén
+- **HSK:** 4
+- **英文:** Founder
+
 
 ## 3. 招聘/求职 (Recruitment/Job Search)
 
-| 中文 | 拼音 | HSK | 英文 |
-|------|------|-----|------|
-| 简历 | jiǎnlì | 3 | Resume |
-| 面试 | miànshì | 3 | Interview |
-| 求职 | qiúzhí | 4 | Job seeking |
-| 招聘 | zhāopìn | 3 | Recruit |
-| 申请 | shēnqǐng | 3 | Apply |
-| 录用 | lùyòng | 4 | Hire |
-| 实习 | shíxí | 3 | Internship |
-| 辞职 | cízhí | 4 | Resign |
-| 离职 | lízhí | 4 | Leave job |
-| 转行 | zhuǎnháng | 5 | Career change |
+### 简历
+- **拼音:** jiǎnlì
+- **HSK:** 3
+- **英文:** Resume
+
+### 面试
+- **拼音:** miànshì
+- **HSK:** 3
+- **英文:** Interview
+
+### 求职
+- **拼音:** qiúzhí
+- **HSK:** 4
+- **英文:** Job seeking
+
+### 招聘
+- **拼音:** zhāopìn
+- **HSK:** 3
+- **英文:** Recruit
+
+### 申请
+- **拼音:** shēnqǐng
+- **HSK:** 3
+- **英文:** Apply
+
+### 录用
+- **拼音:** lùyòng
+- **HSK:** 4
+- **英文:** Hire
+
+### 实习
+- **拼音:** shíxí
+- **HSK:** 3
+- **英文:** Internship
+
+### 辞职
+- **拼音:** cízhí
+- **HSK:** 4
+- **英文:** Resign
+
+### 离职
+- **拼音:** lízhí
+- **HSK:** 4
+- **英文:** Leave job
+
+### 转行
+- **拼音:** zhuǎnháng
+- **HSK:** 5
+- **英文:** Career change
+
 
 ## 4. 薪资/福利 (Salary/Benefits)
 
-| 中文 | 拼音 | HSK | 英文 |
-|------|------|-----|------|
-| 工资 | gōngzī | 2 | Salary |
-| 薪水 | xīnshuǐ | 3 | Wage |
-| 奖金 | jiǎngjīn | 3 | Bonus |
-| 五险一金 | wǔ xiǎn yī jīn | 5 | Social insurance + housing fund |
-| 年终奖 | niánzhōngjiǎng | 4 | Year-end bonus |
-| 加班 | jiābān | 3 | Overtime |
-| 出差 | chūchāi | 3 | Business trip |
-| 年假 | niánjià | 3 | Annual leave |
-| 升职 | shēngzhí | 3 | Promotion |
-| 加薪 | jiāxīn | 3 | Salary raise |
+### 工资
+- **拼音:** gōngzī
+- **HSK:** 2
+- **英文:** Salary
+
+### 薪水
+- **拼音:** xīnshuǐ
+- **HSK:** 3
+- **英文:** Wage
+
+### 奖金
+- **拼音:** jiǎngjīn
+- **HSK:** 3
+- **英文:** Bonus
+
+### 五险一金
+- **拼音:** wǔ xiǎn yī jīn
+- **HSK:** 5
+- **英文:** Social insurance + housing fund
+
+### 年终奖
+- **拼音:** niánzhōngjiǎng
+- **HSK:** 4
+- **英文:** Year-end bonus
+
+### 加班
+- **拼音:** jiābān
+- **HSK:** 3
+- **英文:** Overtime
+
+### 出差
+- **拼音:** chūchāi
+- **HSK:** 3
+- **英文:** Business trip
+
+### 年假
+- **拼音:** niánjià
+- **HSK:** 3
+- **英文:** Annual leave
+
+### 升职
+- **拼音:** shēngzhí
+- **HSK:** 3
+- **英文:** Promotion
+
+### 加薪
+- **拼音:** jiāxīn
+- **HSK:** 3
+- **英文:** Salary raise
+
 
 ## 5. 职场文化 (Workplace Culture)
 
-| 中文 | 拼音 | HSK | 英文 |
-|------|------|-----|------|
-| 996 | 996 | 5 | 9am-9pm, 6 days work week |
-| 内卷 | nèijuǎn | 5 | Involution/rat race |
-| 躺平 | tǎngpíng | 5 | Lie flat |
-| 加班文化 | jiābān wénhuà | 5 | Overtime culture |
-| 关系 | guānxi | 3 | Connections/network |
-| 面子 | miànzi | 3 | Face/reputation |
-| 团建 | tuánjiàn | 4 | Team building |
-| 老板 | lǎobǎn | 2 | Boss (colloquial) |
-| 同事 | tóngshì | 2 | Colleague |
-| 会议 | huìyì | 2 | Meeting |
+### 996
+- **拼音:** 996
+- **HSK:** 5
+- **英文:** 9am-9pm, 6 days work week
+
+### 内卷
+- **拼音:** nèijuǎn
+- **HSK:** 5
+- **英文:** Involution/rat race
+
+### 躺平
+- **拼音:** tǎngpíng
+- **HSK:** 5
+- **英文:** Lie flat
+
+### 加班文化
+- **拼音:** jiābān wénhuà
+- **HSK:** 5
+- **英文:** Overtime culture
+
+### 关系
+- **拼音:** guānxi
+- **HSK:** 3
+- **英文:** Connections/network
+
+### 面子
+- **拼音:** miànzi
+- **HSK:** 3
+- **英文:** Face/reputation
+
+### 团建
+- **拼音:** tuánjiàn
+- **HSK:** 4
+- **英文:** Team building
+
+### 老板
+- **拼音:** lǎobǎn
+- **HSK:** 2
+- **英文:** Boss (colloquial)
+
+### 同事
+- **拼音:** tóngshì
+- **HSK:** 2
+- **英文:** Colleague
+
+### 会议
+- **拼音:** huìyì
+- **HSK:** 2
+- **英文:** Meeting
+
 
 ---
 
