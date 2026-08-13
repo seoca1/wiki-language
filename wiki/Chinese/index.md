@@ -69,6 +69,14 @@ The Chinese expressions section was expanded on 2026-07-19 from scaffold state t
 - [[emotions-reactions]] — 情绪反应 — 真的?, 哇, 太棒了!, 我不敢相信, 不会吧, 哎呀, 真的吗, 太可惜了 (10 표현, A1-A2; 4성조 modulation noted)
 - [[small-talk]] — 闲聊话题 — 今天天气真好, 你吃了吗, 你在哪儿工作, 你家是哪里的, 最近忙不忙, 周末有什么安排 (8 표현, A2-B1; safe topics: weather/food/work/regional origin)
 - [[food-dining]] — 식당 표현 (10 표현, 菜单, 买单, 不要辣, 我吃素)
+- [[travel-expressions]] — 进阶旅行表达 — 预订/票务/问路/打包/导游/紧急 (8 표현, B1-C1; 携程/12306/微信小程序)
+- [[restaurant-expressions]] — 식당 표현 (进阶) — 菜单/点菜/辣度/过敏/结账/打包 (8 표현, A2-B2; 微辣/中辣/特辣 辣度调节)
+- [[business-expressions]] — 商务表达 (进阶) — 请多关照/合同/发票/请假/微信/经理 (8 표현, B2-C1; 携程/12306/微信)
+- [[dating-expressions]] — 연애表达 (进阶) — 喜欢/缘分/老公老婆/相亲/彩礼/网恋/见家长 (8 표현, B1-C1; 缘分 = 佛教 영향 인연)
+- [[technology-expressions]] — 科技表达 — 扫码登录/微信/Moments/转发/666/共享单车/直播带货 (8 표현, A2-C1; QR code = 중국 표준)
+- [[slang-colloquial]] — 网络用语 — 厉害/加油/呵呵/打卡/吃瓜/摆烂/杠精/老铁 (8 표현, B2-C2; 90/00后 인터넷 문화)
+- [[idioms-proverbs]] — 成语/谚语 — 一石二鸟/画蛇添足/对牛弹琴/守株待兔/失败是成功之母 (8 표현, B2-C2; 老子 도덕경 유래)
+- [[polite-expressions]] — 礼貌表达 (进阶) — 谢谢/您好/请/对不起/不客气/麻烦了/没关系/久仰 (8 표현, A1-C1; 您/你 honorific 구분)
 
 ## Culture (43 entries; 34 added 2026-08-11)
 

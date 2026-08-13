@@ -253,3 +253,32 @@ All targets are in the vault (`Language/wiki/Chinese/culture/*.md`, `Language/wi
 **Next phases**:
 - Phase 4 — Expressions Expansion (5 files × 5 languages = 25 expression files)
 - Phase 5 — Comparative Wiki Expansion (8 cross-language comparison files)
+
+## [2026-08-13] expand | Phase 4.5 — Chinese Expressions Expansion (8 new theme files)
+
+**Scope**: Add 8 new Chinese expression theme files to expand the expressions section beyond the existing 13 theme files (agreement, apologies, business-basics, common-phrases, complaints, daily-basics, dating-romance, emotions-reactions, food-dining, greetings, requests, small-talk, travel-basics). Each file follows the theme-file convention (## expression sections with Parts of Speech / Definition / Form / Usage / Variations / Sample Conversations / Cultural Notes / Sources) per `Language/schema/AGENTS.md` lines 146-200.
+
+**Files created** (8 new theme files):
+
+| File | Theme | Level | Sections |
+|------|-------|-------|---:|
+| [[travel-expressions]] | Travel (advanced) | B1-C1 | 8 expressions |
+| [[restaurant-expressions]] | Restaurant (advanced) | A2-B2 | 8 expressions |
+| [[business-expressions]] | Business (advanced) | B2-C1 | 8 expressions |
+| [[dating-expressions]] | Dating (advanced) | B1-C1 | 8 expressions |
+| [[technology-expressions]] | Technology (advanced) | A2-C1 | 8 expressions |
+| [[slang-colloquial]] | Slang & Colloquial | B2-C2 | 8 expressions |
+| [[idioms-proverbs]] | 成语/谚语 | B2-C2 | 8 expressions |
+| [[polite-expressions]] | Politeness (advanced) | A1-C1 | 8 expressions |
+
+**Total**: 64 new expression entries across 8 themes. Each theme file includes Korean glosses, pinyin (tone-marked), Chinese cultural notes, sample conversations, and Sources section cross-linking to comparative pages.
+
+**Schema**: All files follow theme-file convention. Cross-references to existing expressions (food-dining, travel-basics, business-basics, dating-romance, technology-and-internet, emotions-reactions, greetings, apologies, etc.) and comparative wiki pages.
+
+**Index.md updated** with Round 4 expression entries.
+
+**Vault state**: 0 broken links introduced by new files; all wikilinks resolve via existing comparative pages or Chinese expressions.
+
+**Next phases**:
+- Phase 4.1-4.4 — Expressions Expansion for EN/ES/JP/KR (8 files each, ~32 total)
+- Phase 5 — Comparative Wiki Expansion (8 cross-language comparison pages)
