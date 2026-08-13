@@ -153,3 +153,34 @@ Consolidated fragmented per-word vocabulary stubs into 3 proper theme files per 
 - [[body-family]] - 신체·가족 어휘 (Body & Family) — 신체 부위, 가족 관계, 외모, 성격 (2026-07-19 신설, 통합 theme file)
 
 Index.md updated (Vocabulary theme files: 8 → 9 total theme files with consolidated content; ~280+ per-word stubs now point to theme files)
+
+## [2026-08-13] expand | Phase 4.4 — Korean Expressions Expansion (8 new theme files)
+
+**Scope**: Add 8 new Korean expression theme files to expand the expressions section beyond the existing 13 theme files.
+
+**Files created** (8 new theme files):
+
+| File | Theme | Level | Sections |
+|------|-------|-------|---:|
+| [[travel-expressions]] | 여행 (고급) | B1-C1 | 8 표현 |
+| [[restaurant-expressions]] | 식당 (고급) | A2-B2 | 8 표현 |
+| [[business-expressions]] | 비즈니스 (고급) | B2-C1 | 8 표현 |
+| [[dating-expressions]] | 연애 (고급) | B1-C1 | 8 표현 |
+| [[technology-expressions]] | 기술 (고급) | A2-C1 | 8 표현 |
+| [[slang-colloquial]] | 신조어/구어 | B2-C2 | 8 표현 |
+| [[idioms-proverbs]] | 속담·사자성어 | B2-C2 | 8 표현 |
+| [[polite-expressions]] | 존댓말·정중 표현 | A1-C1 | 8 표현 |
+
+**Total**: 64 new expression entries across 8 themes. Each theme file includes Korean glosses, Romaja + Hangul, Korean cultural notes, sample conversations.
+
+**Schema**: All files follow theme-file convention. 존댓말 (honorific) levels noted where relevant.
+
+**Index.md updated** with 8 new entries (Expressions: 13 → 21 theme files).
+
+**Vault state**: 0 broken links introduced by new files.
+
+**Phase 4 complete**: All 5 languages now have 21 expression theme files (parity achieved).
+
+**Next phases**:
+- Phase 2 — Korean raw sources (work-and-career-kr.md missing)
+- Phase 6 — Pipeline validation
