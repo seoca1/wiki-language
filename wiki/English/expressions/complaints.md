@@ -266,16 +266,17 @@ Asking "Could you fix this?" implies trust that the person can. The conditional 
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
-> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: en_complaints_001, display: "I'd like to speak with the manager, please", input: "I'd like to speak with the manager, please", meaning: "매니저 좀 불러주세요 (polite escalation)", level: "B1", category: "complaints", source: "[[complaints]]" }
-- { id: en_complaints_002, display: "This isn't what I ordered", input: "This isn't what I ordered", meaning: "이거 제가 주문한 게 아니에요", level: "A2", category: "complaints", source: "[[complaints]]" }
-- { id: en_complaints_003, display: "I'm not satisfied with the service", input: "I'm not satisfied with the service", meaning: "서비스에 만족하지 않습니다", level: "B1", category: "complaints", source: "[[complaints]]" }
-- { id: en_complaints_004, display: "Could you fix this?", input: "Could you fix this?", meaning: "이거 고치실 수 있나요?", level: "A2", category: "complaints", source: "[[complaints]]" }
-- { id: en_complaints_005, display: "There's a problem with my order", input: "There's a problem with my order", meaning: "주문에 문제가 있어요", level: "B1", category: "complaints", source: "[[complaints]]" }
-- { id: en_complaints_006, display: "I'd like a refund", input: "I'd like a refund", meaning: "환불 부탁드립니다", level: "A2", category: "complaints", source: "[[complaints]]" }
-- { id: en_complaints_007, display: "This is unacceptable", input: "This is unacceptable", meaning: "이건 받아들일 수 없어요", level: "B1", category: "complaints", source: "[[complaints]]" }
-- { id: en_complaints_008, display: "I'd like to file a complaint", input: "I'd like to file a complaint", meaning: "불만 접수하고 싶습니다", level: "B1", category: "complaints", source: "[[complaints]]" }
+- { id: 'en_complaints_001', display: 'I''d like to speak with the manager, please', input: 'I''d like to speak with the manager, please', meaning: '매니저 좀 불러주세요 (polite escalation)', level: 'B1', category: 'complaints', source: '[[complaints]]' }
+- { id: 'en_complaints_002', display: 'This isn''t what I ordered', input: 'This isn''t what I ordered', meaning: '이거 제가 주문한 게 아니에요', level: 'A2', category: 'complaints', source: '[[complaints]]' }
+- { id: 'en_complaints_003', display: 'I''m not satisfied with the service', input: 'I''m not satisfied with the service', meaning: '서비스에 만족하지 않습니다', level: 'B1', category: 'complaints', source: '[[complaints]]' }
+- { id: 'en_complaints_004', display: 'Could you fix this?', input: 'Could you fix this?', meaning: '이거 고치실 수 있나요?', level: 'A2', category: 'complaints', source: '[[complaints]]' }
+- { id: 'en_complaints_005', display: 'There''s a problem with my order', input: 'There''s a problem with my order', meaning: '주문에 문제가 있어요', level: 'B1', category: 'complaints', source: '[[complaints]]' }
+- { id: 'en_complaints_006', display: 'I''d like a refund', input: 'I''d like a refund', meaning: '환불 부탁드립니다', level: 'A2', category: 'complaints', source: '[[complaints]]' }
+- { id: 'en_complaints_007', display: 'This is unacceptable', input: 'This is unacceptable', meaning: '이건 받아들일 수 없어요', level: 'B1', category: 'complaints', source: '[[complaints]]' }
+- { id: 'en_complaints_008', display: 'I''d like to file a complaint', input: 'I''d like to file a complaint', meaning: '불만 접수하고 싶습니다', level: 'B1', category: 'complaints', source: '[[complaints]]' }
 ```

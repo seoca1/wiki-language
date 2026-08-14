@@ -358,10 +358,10 @@ theme: "ordinal-numbers"
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: 'zh_ordinal_numbers_001', display: '第一 (dì yī)', input: '第一 (dì yī)', meaning: '첫째, 첫 번째 (first)', level: 'HSK 1-2', category: 'ordinal-numbers-zh', source: '[[ordinal-numbers-zh]]' }
-- { id: 'zh_ordinal_numbers_002', display: '第二 (dì èr)', input: '第二 (dì èr)', meaning: '둘째, 두 번째 (second)', level: 'HSK 1-2', category: 'ordinal-numbers-zh', source: '[[ordinal-numbers-zh]]' }
-- { id: 'zh_ordinal_numbers_003', display: '第三 (dì sān)', input: '第三 (dì sān)', meaning: '셋째, 세 번째 (third)', level: 'HSK 1-2', category: 'ordinal-numbers-zh', source: '[[ordinal-numbers-zh]]' }
-- { id: 'zh_ordinal_numbers_004', display: '第四 (dì sì)', input: '第四 (dì sì)', meaning: '넷째, 네 번째 (fourth)', level: 'HSK 1-2', category: 'ordinal-numbers-zh', source: '[[ordinal-numbers-zh]]' }
+- { id: 'zh_ordinal_numbers_001', display: '第一 (dì yī)', input: '第一 (dì yī)', meaning: '첫째', level: 'HSK 1-2', category: 'ordinal-numbers-zh', source: '[[ordinal-numbers-zh]]' }
+- { id: 'zh_ordinal_numbers_002', display: '第二 (dì èr)', input: '第二 (dì èr)', meaning: '둘째', level: 'HSK 1-2', category: 'ordinal-numbers-zh', source: '[[ordinal-numbers-zh]]' }
+- { id: 'zh_ordinal_numbers_003', display: '第三 (dì sān)', input: '第三 (dì sān)', meaning: '셋째', level: 'HSK 1-2', category: 'ordinal-numbers-zh', source: '[[ordinal-numbers-zh]]' }
+- { id: 'zh_ordinal_numbers_004', display: '第四 (dì sì)', input: '第四 (dì sì)', meaning: '넷째', level: 'HSK 1-2', category: 'ordinal-numbers-zh', source: '[[ordinal-numbers-zh]]' }
 - { id: 'zh_ordinal_numbers_005', display: '第五 (dì wǔ)', input: '第五 (dì wǔ)', meaning: '다섯째 (fifth)', level: 'HSK 1-2', category: 'ordinal-numbers-zh', source: '[[ordinal-numbers-zh]]' }
 - { id: 'zh_ordinal_numbers_006', display: '第六 (dì liù)', input: '第六 (dì liù)', meaning: '여섯째 (sixth)', level: 'HSK 1-2', category: 'ordinal-numbers-zh', source: '[[ordinal-numbers-zh]]' }
 - { id: 'zh_ordinal_numbers_007', display: '第七 (dì qī)', input: '第七 (dì qī)', meaning: '일곱째 (seventh)', level: 'HSK 1-2', category: 'ordinal-numbers-zh', source: '[[ordinal-numbers-zh]]' }

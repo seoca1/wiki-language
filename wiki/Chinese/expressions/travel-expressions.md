@@ -1,3 +1,10 @@
+---
+title: "travel-expressions (Chinese) expressions"
+language: "Chinese"
+category: "travel-expressions"
+level: "B1-C1"
+---
+
 # Expressions: Travel Advanced (zh-CN)
 
 > **Theme:** Travel (Advanced)
@@ -289,3 +296,20 @@
 
 - `[[travel-basics]]`
 - `[[Language/wiki/comparative/travel-essentials]]`
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'zh_travel_expressions_001', display: '我想预订', input: '我想预订', meaning: '"I want to make a reservation" — 항공권/호텔/식당 예약.', level: 'B1-C1', category: 'travel-expressions', source: '[[travel-expressions]]' }
+- { id: 'zh_travel_expressions_002', display: '一张去...的单程/往返票', input: '一张去...的单程/往返票', meaning: '"A one-way/round-trip ticket to..." — 교통편 구매.', level: 'B1-C1', category: 'travel-expressions', source: '[[travel-expressions]]' }
+- { id: 'zh_travel_expressions_003', display: '这附近有什么好玩的', input: '这附近有什么好玩的', meaning: '"What''s fun around here?" — 관광지 추천 요청.', level: 'B1-C1', category: 'travel-expressions', source: '[[travel-expressions]]' }
+- { id: 'zh_travel_expressions_004', display: '请问洗手间在哪里', input: '请问洗手间在哪里', meaning: '"Where is the bathroom?" — 필수 표현.', level: 'B1-C1', category: 'travel-expressions', source: '[[travel-expressions]]' }
+- { id: 'zh_travel_expressions_005', display: '可以便宜一点吗', input: '可以便宜一点吗', meaning: '"Can it be a bit cheaper?" — 흥정 표현.', level: 'B1-C1', category: 'travel-expressions', source: '[[travel-expressions]]' }
+- { id: 'zh_travel_expressions_006', display: '我迷路了', input: '我迷路了', meaning: '"I''m lost" — 길을 잃었을 때.', level: 'B1-C1', category: 'travel-expressions', source: '[[travel-expressions]]' }
+- { id: 'zh_travel_expressions_007', display: '请问哪里可以上网', input: '请问哪里可以上网', meaning: '"Where can I get WiFi?" — 인터넷 접속.', level: 'B1-C1', category: 'travel-expressions', source: '[[travel-expressions]]' }
+- { id: 'zh_travel_expressions_008', display: '我需要一个会说英语的导游', input: '我需要一个会说英语的导游', meaning: '"I need an English-speaking guide" — 영문 가이드 요청.', level: 'B1-C1', category: 'travel-expressions', source: '[[travel-expressions]]' }
+```

@@ -337,19 +337,19 @@ This phrase acknowledges the listener's time as a resource. It implies "If you'r
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
-> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: en_req_001, display: "Could you (help me)?", input: "Could you", meaning: "~해 주실 수 있나요? (정중한 요청)", level: "A2", category: "requests", source: "[[requests]]" }
-- { id: en_req_002, display: "Would you mind doing...?", input: "Would you mind", meaning: "~해 주시겠어요? (매우 정중한 요청)", level: "B1", category: "requests", source: "[[requests]]" }
-- { id: en_req_003, display: "Do you mind if I...?", input: "Do you mind if I", meaning: "제가 ~해도 괜찮으시겠어요? (허가 요청)", level: "B1", category: "requests", source: "[[requests]]" }
-- { id: en_req_004, display: "Can I...?", input: "Can I", meaning: "제가 ~해도 될까요? (일상적 허가 요청)", level: "A1", category: "requests", source: "[[requests]]" }
-- { id: en_req_005, display: "May I...?", input: "May I", meaning: "제가 ~해도 되겠습니까? (격식 있는 허가 요청)", level: "A2", category: "requests", source: "[[requests]]" }
-- { id: en_req_006, display: "I'd like to...", input: "I'd like to", meaning: "저는 ~하고 싶은데요 (정중한 희망 표현)", level: "A2", category: "requests", source: "[[requests]]" }
-- { id: en_req_007, display: "I was wondering if...", input: "I was wondering if", meaning: "~해도 될지 여쭤봤습니다 (정중한 헤징 요청)", level: "B1", category: "requests", source: "[[requests]]" }
-- { id: en_req_008, display: "Excuse me, can I...?", input: "Excuse me", meaning: "실례합니다, ~해도 될까요? (주의 환기 + 요청)", level: "A2", category: "requests", source: "[[requests]]" }
-- { id: en_req_009, display: "Do you have a moment?", input: "Do you have a moment", meaning: "잠깐 시간 있으세요? (시간 요청)", level: "A2", category: "requests", source: "[[requests]]" }
-- { id: en_req_010, display: "I was hoping...", input: "I was hoping", meaning: "~을 바라고 있었습니다 (희망 표현)", level: "B1", category: "requests", source: "[[requests]]" }
+- { id: 'en_requests_001', display: 'Could you (help me)?', input: 'help me', meaning: '~해 주실 수 있나요? (정중한 요청)', level: 'A2', category: 'requests', source: '[[requests]]' }
+- { id: 'en_requests_002', display: 'Would you mind doing...?', input: 'Would you mind doing...?', meaning: '~해 주시겠어요? (매우 정중한 요청)', level: 'B1', category: 'requests', source: '[[requests]]' }
+- { id: 'en_requests_003', display: 'Do you mind if I...?', input: 'Do you mind if I...?', meaning: '제가 ~해도 괜찮으시겠어요? (허가 요청)', level: 'B1', category: 'requests', source: '[[requests]]' }
+- { id: 'en_requests_004', display: 'Can I...?', input: 'Can I...?', meaning: '제가 ~해도 될까요? (일상적 허가 요청)', level: 'A1', category: 'requests', source: '[[requests]]' }
+- { id: 'en_requests_005', display: 'May I...?', input: 'May I...?', meaning: '제가 ~해도 되겠습니까? (격식 있는 허가 요청)', level: 'A2', category: 'requests', source: '[[requests]]' }
+- { id: 'en_requests_006', display: 'I''d like to...', input: 'I''d like to...', meaning: '저는 ~하고 싶은데요 (정중한 희망 표현)', level: 'A2', category: 'requests', source: '[[requests]]' }
+- { id: 'en_requests_007', display: 'I was wondering if...', input: 'I was wondering if...', meaning: '~해도 될지 여쭤봤습니다 (정중한 헤징 요청)', level: 'B1', category: 'requests', source: '[[requests]]' }
+- { id: 'en_requests_008', display: 'Excuse me, can I...?', input: 'Excuse me, can I...?', meaning: '실례합니다, ~해도 될까요? (주의 환기 + 요청)', level: 'A2', category: 'requests', source: '[[requests]]' }
+- { id: 'en_requests_009', display: 'Do you have a moment?', input: 'Do you have a moment?', meaning: '잠깐 시간 있으세요? (시간 요청)', level: 'A2', category: 'requests', source: '[[requests]]' }
+- { id: 'en_requests_010', display: 'I was hoping...', input: 'I was hoping...', meaning: '~을 바라고 있었습니다 (희망 표현)', level: 'B1', category: 'requests', source: '[[requests]]' }
 ```

@@ -1,3 +1,10 @@
+---
+title: "travel-expressions (English) expressions"
+language: "English"
+category: "travel-expressions"
+level: "B1-C1"
+---
+
 # Expressions: Travel Advanced (English)
 
 > **Theme:** Travel (Advanced)
@@ -268,3 +275,20 @@ Tourist sites, museums, historical areas.
 
 - `[[travel-basics]]` — Basic travel
 - `[[Language/wiki/comparative/travel-essentials]]` — 5-language travel
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'en_travel_expressions_001', display: 'I''d like to make a reservation', input: 'I''d like to make a reservation', meaning: '"I''d like to make a reservation" — booking flights/hotels/restaurants.', level: 'B1-C1', category: 'travel-expressions', source: '[[travel-expressions]]' }
+- { id: 'en_travel_expressions_002', display: 'A one-way / round-trip ticket to ___', input: 'A one-way / round-trip ticket to ___', meaning: '"One-way / round-trip ticket to..." — transport purchase.', level: 'B1-C1', category: 'travel-expressions', source: '[[travel-expressions]]' }
+- { id: 'en_travel_expressions_003', display: 'What''s there to do around here?', input: 'What''s there to do around here?', meaning: '"What''s there to do around here?" — sightseeing inquiry.', level: 'B1-C1', category: 'travel-expressions', source: '[[travel-expressions]]' }
+- { id: 'en_travel_expressions_004', display: 'Where is the restroom?', input: 'Where is the restroom?', meaning: '"Where is the restroom?" — basic but essential.', level: 'B1-C1', category: 'travel-expressions', source: '[[travel-expressions]]' }
+- { id: 'en_travel_expressions_005', display: 'Can I get a discount?', input: 'Can I get a discount?', meaning: '"Can I get a discount?" — bargaining at markets .', level: 'B1-C1', category: 'travel-expressions', source: '[[travel-expressions]]' }
+- { id: 'en_travel_expressions_006', display: 'I''m lost', input: 'I''m lost', meaning: '"I''m lost" — getting help when disoriented.', level: 'B1-C1', category: 'travel-expressions', source: '[[travel-expressions]]' }
+- { id: 'en_travel_expressions_007', display: 'Is there WiFi here?', input: 'Is there WiFi here?', meaning: '"Is there WiFi here?" — internet access inquiry.', level: 'B1-C1', category: 'travel-expressions', source: '[[travel-expressions]]' }
+- { id: 'en_travel_expressions_008', display: 'I need an English-speaking guide', input: 'I need an English-speaking guide', meaning: '"I need an English-speaking guide" — guided tour request.', level: 'B1-C1', category: 'travel-expressions', source: '[[travel-expressions]]' }
+```

@@ -303,76 +303,19 @@ theme: "requests"
 
 ## Pipeline Form (machine-readable)
 
-게임 코퍼스 큐레이션용 YAML (per `wiki/pipeline-to-game.md` L33-39).
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- display: 请
-  input: qǐng
-  meaning: please (polite request particle)
-  level: A1
-  category: requests
-  source: "[[requests]]"
-
-- display: 麻烦你
-  input: máfan nǐ
-  meaning: sorry to trouble you (informal)
-  level: A2
-  category: requests
-  source: "[[requests]]"
-
-- display: 麻烦您
-  input: máfan nín
-  meaning: sorry to trouble you (formal, honorific)
-  level: A2
-  category: requests
-  source: "[[requests]]"
-
-- display: 能不能
-  input: néng bù néng
-  meaning: can or cannot (ability/possibility question)
-  level: A2
-  category: requests
-  source: "[[requests]]"
-
-- display: 可以吗
-  input: kěyǐ ma
-  meaning: may [I/he/it]? (permission question)
-  level: A1
-  category: requests
-  source: "[[requests]]"
-
-- display: 拜托
-  input: bàituō
-  meaning: please / I entrust (strong informal request)
-  level: A2
-  category: requests
-  source: "[[requests]]"
-
-- display: 您能
-  input: nín néng
-  meaning: could you (honorific + ability)
-  level: B1
-  category: requests
-  source: "[[requests]]"
-
-- display: 请帮我
-  input: qǐng bāng wǒ
-  meaning: please help me
-  level: A2
-  category: requests
-  source: "[[requests]]"
-
-- display: 劳驾
-  input: láojià
-  meaning: excuse me (formal distance-keeping request)
-  level: B1
-  category: requests
-  source: "[[requests]]"
-
-- display: 求你了
-  input: qiú nǐ le
-  meaning: I beg you (very informal emotional appeal)
-  level: B1
-  category: requests
-  source: "[[requests]]"
+- { id: 'zh_requests_001', display: '请', input: '请', meaning: '', level: 'A2-B1', category: 'requests', source: '[[requests]]' }
+- { id: 'zh_requests_002', display: '麻烦你', input: '麻烦你', meaning: '', level: 'A2-B1', category: 'requests', source: '[[requests]]' }
+- { id: 'zh_requests_003', display: '能不能', input: '能不能', meaning: '', level: 'A2-B1', category: 'requests', source: '[[requests]]' }
+- { id: 'zh_requests_004', display: '可以吗', input: '可以吗', meaning: '', level: 'A2-B1', category: 'requests', source: '[[requests]]' }
+- { id: 'zh_requests_005', display: '拜托', input: '拜托', meaning: '', level: 'A2-B1', category: 'requests', source: '[[requests]]' }
+- { id: 'zh_requests_006', display: '您能...吗', input: '您能...吗', meaning: '', level: 'A2-B1', category: 'requests', source: '[[requests]]' }
+- { id: 'zh_requests_007', display: '请帮我', input: '请帮我', meaning: '', level: 'A2-B1', category: 'requests', source: '[[requests]]' }
+- { id: 'zh_requests_008', display: '能不能麻烦你', input: '能不能麻烦你', meaning: '', level: 'A2-B1', category: 'requests', source: '[[requests]]' }
+- { id: 'zh_requests_009', display: '劳驾', input: '劳驾', meaning: '', level: 'A2-B1', category: 'requests', source: '[[requests]]' }
+- { id: 'zh_requests_010', display: '求你了', input: '求你了', meaning: '', level: 'A2-B1', category: 'requests', source: '[[requests]]' }
 ```

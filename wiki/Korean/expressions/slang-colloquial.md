@@ -1,3 +1,10 @@
+---
+title: "slang-colloquial (Korean) expressions"
+language: "Korean"
+category: "slang-colloquial"
+level: "B2-C2"
+---
+
 # Expressions: Slang & Colloquial (한국어)
 
 > **Theme:** Slang & Colloquial
@@ -239,3 +246,20 @@ Korean slang/colloquial — Gen Z, K-pop culture, modern Korean usage.
 
 - `[[emotions-reactions]]` — Emotional reactions
 - `[[Language/wiki/comparative/slang-colloquial]]` — 5-language slang
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'kr_slang_colloquial_001', display: '대박', input: '대박', meaning: '"Daebak" — "Awesome!/Amazing!" .', level: 'B2-C2', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+- { id: 'kr_slang_colloquial_002', display: '화이팅', input: '화이팅', meaning: '"Fighting!" — "Hang in there!" .', level: 'B2-C2', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+- { id: 'kr_slang_colloquial_003', display: 'ㅋㅋㅋ / ㅎㅎ', input: 'ㅋㅋㅋ / ㅎㅎ', meaning: '"kkk / hh" — Internet laugh.', level: 'B2-C2', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+- { id: 'kr_slang_colloquial_004', display: '플러팅', input: '플러팅', meaning: '"Flirting" — modern dating.', level: 'B2-C2', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+- { id: 'kr_slang_colloquial_005', display: '존맛탱 / 맛있어요', input: '존맛탱 / 맛있어요', meaning: '"Jonmattaeng / Masisseoyo" — "Delicious!" .', level: 'B2-C2', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+- { id: 'kr_slang_colloquial_006', display: '헬조선 / 탈조선', input: '헬조선 / 탈조선', meaning: '"Hell Joseon / Escape Joseon" — critique of Korean society.', level: 'B2-C2', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+- { id: 'kr_slang_colloquial_007', display: '어른 / 직장인', input: '어른 / 직장인', meaning: '"Adult / Worker" — adulting humor.', level: 'B2-C2', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+- { id: 'kr_slang_colloquial_008', display: '친 / 친구', input: '친 / 친구', meaning: '"Chin / Chinggu" — "Friend / Buddy".', level: 'B2-C2', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+```

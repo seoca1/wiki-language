@@ -1,3 +1,10 @@
+---
+title: "dating-expressions (Korean) expressions"
+language: "Korean"
+category: "dating-expressions"
+level: "B1-C1"
+---
+
 # Expressions: Dating & Romance (한국어)
 
 > **Theme:** Dating & Romance
@@ -241,3 +248,20 @@ Dating/romance expressions — confession, affection, relationship stages, break
 
 - `[[dating-romance]]` — Basic dating
 - `[[Language/wiki/comparative/dating-romance]]` — 5-language dating
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'kr_dating_expressions_001', display: '좋아해요', input: '좋아해요', meaning: '"I like you" — direct confession.', level: 'B1-C1', category: 'dating-expressions', source: '[[dating-expressions]]' }
+- { id: 'kr_dating_expressions_002', display: '사귀어 줄래요?', input: '사귀어 줄래요?', meaning: '"Will you go out with me?" — official relationship request.', level: 'B1-C1', category: 'dating-expressions', source: '[[dating-expressions]]' }
+- { id: 'kr_dating_expressions_003', display: '사랑해', input: '사랑해', meaning: '"I love you" — deep affection.', level: 'B1-C1', category: 'dating-expressions', source: '[[dating-expressions]]' }
+- { id: 'kr_dating_expressions_004', display: '헤어져요', input: '헤어져요', meaning: '"Let''s break up" — ending relationship.', level: 'B1-C1', category: 'dating-expressions', source: '[[dating-expressions]]' }
+- { id: 'kr_dating_expressions_005', display: '소개팅', input: '소개팅', meaning: '"Blind date " — setup date.', level: 'B1-C1', category: 'dating-expressions', source: '[[dating-expressions]]' }
+- { id: 'kr_dating_expressions_006', display: '동거', input: '동거', meaning: '"Cohabitation" — living together unmarried.', level: 'B1-C1', category: 'dating-expressions', source: '[[dating-expressions]]' }
+- { id: 'kr_dating_expressions_007', display: '만남 어플', input: '만남 어플', meaning: '"Dating app" — online dating.', level: 'B1-C1', category: 'dating-expressions', source: '[[dating-expressions]]' }
+- { id: 'kr_dating_expressions_008', display: '부모님 인사', input: '부모님 인사', meaning: '"Greeting to parents" — formal family introduction.', level: 'B1-C1', category: 'dating-expressions', source: '[[dating-expressions]]' }
+```

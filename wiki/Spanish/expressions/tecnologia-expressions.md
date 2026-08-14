@@ -1,3 +1,10 @@
+---
+title: "tecnologia-expressions (Spanish) expressions"
+language: "Spanish"
+category: "tecnologia-expressions"
+level: "A2-C1"
+---
+
 # Expresiones: Tecnología e Internet (Español)
 
 > **Tema:** Tecnología e Internet
@@ -235,3 +242,19 @@ E-commerce moderno.
 
 - `[[daily-life]]` — Vida diaria tech
 - `[[Language/wiki/comparative/tech-internet]]` — Comparativa 5 idiomas
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'es_tecnologia_expressions_001', display: '¿Cuál es la contraseña del WiFi?', input: '¿Cuál es la contraseña del WiFi?', meaning: '"¿Cuál es la contraseña del WiFi?" — conectar a internet.', level: 'A1', category: 'tecnologia-expressions', source: '[[tecnologia-expressions]]' }
+- { id: 'es_tecnologia_expressions_002', display: '¿Me das tu número?', input: '¿Me das tu número?', meaning: '"¿Me das tu número?" — compartir contacto.', level: 'A1', category: 'tecnologia-expressions', source: '[[tecnologia-expressions]]' }
+- { id: 'es_tecnologia_expressions_003', display: 'Mándame un DM', input: 'Mándame un DM', meaning: '"Mándame un DM" — mensaje directo en redes sociales.', level: 'A1', category: 'tecnologia-expressions', source: '[[tecnologia-expressions]]' }
+- { id: 'es_tecnologia_expressions_004', display: 'Etiquétame', input: 'Etiquétame', meaning: '"Etiquétame" — mencionar a alguien en publicación.', level: 'A1', category: 'tecnologia-expressions', source: '[[tecnologia-expressions]]' }
+- { id: 'es_tecnologia_expressions_005', display: 'Sin cap', input: 'Sin cap', meaning: '"Sin cap" — afirmación directa .', level: 'A1', category: 'tecnologia-expressions', source: '[[tecnologia-expressions]]' }
+- { id: 'es_tecnologia_expressions_006', display: 'Viaje compartido (rideshare)', input: 'rideshare', meaning: '"Viaje compartido" — servicio tipo Uber/Lyft.', level: 'A1', category: 'tecnologia-expressions', source: '[[tecnologia-expressions]]' }
+- { id: 'es_tecnologia_expressions_007', display: 'Compra en vivo', input: 'Compra en vivo', meaning: '"Compra en vivo" — comprar vía video en directo.', level: 'A1', category: 'tecnologia-expressions', source: '[[tecnologia-expressions]]' }
+```

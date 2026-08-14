@@ -1,3 +1,10 @@
+---
+title: "travel-basics (Korean) expressions"
+language: "Korean"
+category: "travel-basics"
+level: "A1-B2"
+---
+
 # Expressions: Travel Basics (한국어)
 
 > **Theme:** Travel & Tourism
@@ -323,3 +330,22 @@ Korean travel phrases — airport, hotel, transport, directions, sightseeing, em
 
 - `[Korean/vocabulary/topik1-starter]`
 - `[[Language/wiki/comparative/travel-essentials]]`
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'kr_travel_basics_001', display: '공항', input: '공항', meaning: '"Airport" — 공항.', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'kr_travel_basics_002', display: '호텔', input: '호텔', meaning: '"Hotel" — 호텔.', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'kr_travel_basics_003', display: '표 한 장 주세요', input: '표 한 장 주세요', meaning: '"One ticket, please" — 교통 티켓 구매.', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'kr_travel_basics_004', display: '역이 어디예요', input: '역이 어디예요', meaning: '', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'kr_travel_basics_005', display: '화장실 어디예요', input: '화장실 어디예요', meaning: '', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'kr_travel_basics_006', display: '길을 어떻게 가요', input: '길을 어떻게 가요', meaning: '"How do I get there?" — 길 묻기.', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'kr_travel_basics_007', display: '도와주세요', input: '도와주세요', meaning: '', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'kr_travel_basics_008', display: '119에 전화해 주세요', input: '119에 전화해 주세요', meaning: '"Please call 119" — 응급 호출.', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'kr_travel_basics_009', display: '사진 찍어 주세요', input: '사진 찍어 주세요', meaning: '"Please take a photo" — 사진 부탁.', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'kr_travel_basics_010', display: '맛집 알려주세요', input: '맛집 알려주세요', meaning: '"Please recommend a good restaurant" — 맛집 추천.', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+```

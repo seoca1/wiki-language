@@ -1,3 +1,10 @@
+---
+title: "slang-colloquial (Spanish) expressions"
+language: "Spanish"
+category: "slang-colloquial"
+level: "B2-C2"
+---
+
 # Expresiones: Slang y Coloquial (Español)
 
 > **Tema:** Slang y Coloquial
@@ -280,3 +287,20 @@ Informal, contextos amistosos.
 - `[[emotions-reactions]]` — Reacciones
 - `[[cultural-idioms]]` — Modismos
 - `[[Language/wiki/comparative/slang-colloquial]]` — Comparativa 5 idiomas
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'es_slang_colloquial_001', display: 'Guay / Chévere / Chido', input: 'Guay / Chévere / Chido', meaning: '"Guay/Chevere/Chido" — "Awesome" regional.', level: 'A1', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+- { id: 'es_slang_colloquial_002', display: '¡Ánimo!', input: '¡Ánimo!', meaning: '"¡Ánimo!" — "Fighting!" / ánimo.', level: 'A1', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+- { id: 'es_slang_colloquial_003', display: 'Jaja / LOL', input: 'Jaja / LOL', meaning: '"Jaja/LOL" — risa por internet.', level: 'A1', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+- { id: 'es_slang_colloquial_004', display: 'Ghosting', input: 'Ghosting', meaning: '"Ghosting" — desaparecer sin aviso.', level: 'A1', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+- { id: 'es_slang_colloquial_005', display: 'Chismoso / Cotilla', input: 'Chismoso / Cotilla', meaning: '"Chismoso/Cotilla" — persona que ama los chismes.', level: 'A1', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+- { id: 'es_slang_colloquial_006', display: 'Agotado / Quemado', input: 'Agotado / Quemado', meaning: '"Agotado/Quemado" — agotado por estrés/trabajo.', level: 'A1', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+- { id: 'es_slang_colloquial_007', display: 'Ser adulto', input: 'Ser adulto', meaning: '"Ser adulto" — hacer tareas de adulto.', level: 'A1', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+- { id: 'es_slang_colloquial_008', display: 'Bro / Tío / Cuate / Pana', input: 'Bro / Tío / Cuate / Pana', meaning: '"Bro/Tío/Cuate/Pana" — dirección casual masculina.', level: 'A1', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+```

@@ -63,3 +63,17 @@ level: "A1-A2"
 
 - [[daily-life]] - 일상 생활 표현
 - [[common-phrases]] - 핵심 일상 표현
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'zh_greetings_001', display: '你好! (nǐ hǎo, 你好!)', input: 'nǐ hǎo', meaning: '', level: 'A1-A2', category: 'greetings', source: '[[greetings]]' }
+- { id: 'zh_greetings_002', display: '早上好! (zǎoshang hǎo, 早上好!)', input: 'zǎoshang hǎo', meaning: '', level: 'A1-A2', category: 'greetings', source: '[[greetings]]' }
+- { id: 'zh_greetings_003', display: '下午好! (xiàwǔ hǎo, 下午好!)', input: 'xiàwǔ hǎo', meaning: '', level: 'A1-A2', category: 'greetings', source: '[[greetings]]' }
+- { id: 'zh_greetings_004', display: '晚上好! (wǎnshang hǎo, 晚上好!)', input: 'wǎnshang hǎo', meaning: '', level: 'A1-A2', category: 'greetings', source: '[[greetings]]' }
+- { id: 'zh_greetings_005', display: '晚安! (wǎnān, 晚安!)', input: 'wǎnān', meaning: '', level: 'A1-A2', category: 'greetings', source: '[[greetings]]' }
+```

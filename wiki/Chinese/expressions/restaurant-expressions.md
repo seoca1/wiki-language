@@ -1,3 +1,10 @@
+---
+title: "restaurant-expressions (Chinese) expressions"
+language: "Chinese"
+category: "restaurant-expressions"
+level: "A2-B2"
+---
+
 # Expressions: Restaurant & Dining (zh-CN)
 
 > **Theme:** Restaurant & Dining
@@ -288,3 +295,20 @@
 
 - `[[food-dining]]`
 - `[[Language/wiki/comparative/food-dining]]`
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'zh_restaurant_expressions_001', display: '菜单请看一下', input: '菜单请看一下', meaning: '"May I see the menu, please?" — 식당 입장 직후.', level: 'A2-B2', category: 'restaurant-expressions', source: '[[restaurant-expressions]]' }
+- { id: 'zh_restaurant_expressions_002', display: '我要这个/那个', input: '我要这个/那个', meaning: '"I want this/that one" — 메뉴판 가리키며.', level: 'A2-B2', category: 'restaurant-expressions', source: '[[restaurant-expressions]]' }
+- { id: 'zh_restaurant_expressions_003', display: '不要辣/微辣/中辣/特辣', input: '不要辣/微辣/中辣/特辣', meaning: '"Not spicy / mildly / medium / extra spicy" — 매운 정도 조절.', level: 'A2-B2', category: 'restaurant-expressions', source: '[[restaurant-expressions]]' }
+- { id: 'zh_restaurant_expressions_004', display: '我吃素/我对...过敏', input: '我吃素/我对...过敏', meaning: '"I''m vegetarian / I''m allergic to..." — 식이 제한.', level: 'A2-B2', category: 'restaurant-expressions', source: '[[restaurant-expressions]]' }
+- { id: 'zh_restaurant_expressions_005', display: '买单/结账', input: '买单/结账', meaning: '"Check, please" — 계산 요청.', level: 'A2-B2', category: 'restaurant-expressions', source: '[[restaurant-expressions]]' }
+- { id: 'zh_restaurant_expressions_006', display: '请给我打包', input: '请给我打包', meaning: '"Please wrap this up " — 남은 음식 포장.', level: 'A2-B2', category: 'restaurant-expressions', source: '[[restaurant-expressions]]' }
+- { id: 'zh_restaurant_expressions_007', display: '这个菜是什么', input: '这个菜是什么', meaning: '"What is this dish?" — 메뉴판/테이블 위 음식 질문.', level: 'A2-B2', category: 'restaurant-expressions', source: '[[restaurant-expressions]]' }
+- { id: 'zh_restaurant_expressions_008', display: '好吃', input: '好吃', meaning: '"Delicious!" — 음식 칭찬.', level: 'A2-B2', category: 'restaurant-expressions', source: '[[restaurant-expressions]]' }
+```

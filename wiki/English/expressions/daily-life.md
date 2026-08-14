@@ -1,3 +1,10 @@
+---
+title: "daily-life (English) expressions"
+language: "English"
+category: "daily-life"
+level: "A1-B2"
+---
+
 # Expressions: Daily Life (English)
 
 > **Theme:** Daily Life
@@ -406,3 +413,22 @@ Universal — 모든 시간, 모든 상황.
 - `[[Language/wiki/comparative/greetings]]`
 - `[[Language/wiki/comparative/politeness-honorifics]]`
 - `[[Language/wiki/comparative/cultural-values]]`
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'en_daily_life_001', display: 'Thank you', input: 'Thank you', meaning: '"Thank you" — 가장 기본 감사 표현.', level: 'A1-B2', category: 'daily-life', source: '[[daily-life]]' }
+- { id: 'en_daily_life_002', display: 'Excuse me', input: 'Excuse me', meaning: '"Pardon me" — 사과 + 주의 환기.', level: 'A1-B2', category: 'daily-life', source: '[[daily-life]]' }
+- { id: 'en_daily_life_003', display: 'Hello / Hi', input: 'Hello / Hi', meaning: '"Hello" — 표준 인사.', level: 'A1-B2', category: 'daily-life', source: '[[daily-life]]' }
+- { id: 'en_daily_life_004', display: 'How much is it?', input: 'How much is it?', meaning: '"How much does this cost?" — 가격 문의.', level: 'A1-B2', category: 'daily-life', source: '[[daily-life]]' }
+- { id: 'en_daily_life_005', display: 'Where is the bathroom?', input: 'Where is the bathroom?', meaning: '"Where is the restroom?" — 필수 표현.', level: 'A1-B2', category: 'daily-life', source: '[[daily-life]]' }
+- { id: 'en_daily_life_006', display: 'I don''t understand', input: 'I don''t understand', meaning: '"I don''t understand" — 이해 못함.', level: 'A1-B2', category: 'daily-life', source: '[[daily-life]]' }
+- { id: 'en_daily_life_007', display: 'Help!', input: 'Help!', meaning: '"Help!" — 응급 호출.', level: 'A1-B2', category: 'daily-life', source: '[[daily-life]]' }
+- { id: 'en_daily_life_008', display: 'Where is the station?', input: 'Where is the station?', meaning: '"Where is the station?" — 가장 흔한 방향 문의.', level: 'A1-B2', category: 'daily-life', source: '[[daily-life]]' }
+- { id: 'en_daily_life_009', display: 'Enjoy your meal', input: 'Enjoy your meal', meaning: '"Enjoy your meal" — 다른 사람에게 식사 전 인사.', level: 'A1-B2', category: 'daily-life', source: '[[daily-life]]' }
+- { id: 'en_daily_life_010', display: 'Yes, I understand', input: 'Yes, I understand', meaning: '"I understand" — 동의/수락.', level: 'A1-B2', category: 'daily-life', source: '[[daily-life]]' }
+```

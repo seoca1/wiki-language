@@ -1,3 +1,10 @@
+---
+title: "cortesia-expressions (Spanish) expressions"
+language: "Spanish"
+category: "cortesia-expressions"
+level: "A1-C1"
+---
+
 # Expresiones: Cortesía y Formalidad (Español)
 
 > **Tema:** Cortesía y Formalidad
@@ -272,3 +279,20 @@ Fin de reuniones de negocios, relaciones profesionales.
 - `[[apologies]]` — Disculpas
 - `[[requests]]` — Peticiones
 - `[[Language/wiki/comparative/politeness-honorifics]]` — Comparativa 5 idiomas
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'es_cortesia_expressions_001', display: 'Gracias', input: 'Gracias', meaning: '"Gracias" — agradecimiento más común.', level: 'A1', category: 'cortesia-expressions', source: '[[cortesia-expressions]]' }
+- { id: 'es_cortesia_expressions_002', display: 'Por favor', input: 'Por favor', meaning: '"Por favor" — hacer peticiones educadas.', level: 'A1', category: 'cortesia-expressions', source: '[[cortesia-expressions]]' }
+- { id: 'es_cortesia_expressions_003', display: 'Disculpe / Perdón', input: 'Disculpe / Perdón', meaning: '"Disculpe/Perdón" — llamar atención o disculparse.', level: 'A1', category: 'cortesia-expressions', source: '[[cortesia-expressions]]' }
+- { id: 'es_cortesia_expressions_004', display: 'Lo siento', input: 'Lo siento', meaning: '"Lo siento" — disculparse.', level: 'A1', category: 'cortesia-expressions', source: '[[cortesia-expressions]]' }
+- { id: 'es_cortesia_expressions_005', display: 'De nada', input: 'De nada', meaning: '"De nada" — respuesta a "gracias".', level: 'A1', category: 'cortesia-expressions', source: '[[cortesia-expressions]]' }
+- { id: 'es_cortesia_expressions_006', display: '¿Puedo ___?', input: '¿Puedo ___?', meaning: '"¿Puedo ___?" — pedir permiso cortés.', level: 'A1', category: 'cortesia-expressions', source: '[[cortesia-expressions]]' }
+- { id: 'es_cortesia_expressions_007', display: 'Se lo agradezco mucho', input: 'Se lo agradezco mucho', meaning: '"Se lo agradezco mucho" — gratitud + respeto.', level: 'A1', category: 'cortesia-expressions', source: '[[cortesia-expressions]]' }
+- { id: 'es_cortesia_expressions_008', display: 'Ha sido un placer', input: 'Ha sido un placer', meaning: '"Ha sido un placer" — cierre formal de interacción.', level: 'A1', category: 'cortesia-expressions', source: '[[cortesia-expressions]]' }
+```

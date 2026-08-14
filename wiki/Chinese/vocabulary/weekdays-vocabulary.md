@@ -297,14 +297,14 @@ Chinese weekdays 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: 'zh_weekdays_001', display: '星期一 (xīngqī yī, 星期一)', input: '星期一 (xīngqī yī, 星期一)', meaning: 'Monday', level: 'HSK 1', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
-- { id: 'zh_weekdays_002', display: '星期二 (xīngqī èr, 星期二)', input: '星期二 (xīngqī èr, 星期二)', meaning: 'Tuesday', level: 'HSK 1', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
-- { id: 'zh_weekdays_003', display: '星期三 (xīngqī sān, 星期三)', input: '星期三 (xīngqī sān, 星期三)', meaning: 'Wednesday', level: 'HSK 1', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
-- { id: 'zh_weekdays_004', display: '星期四 (xīngqī sì, 星期四)', input: '星期四 (xīngqī sì, 星期四)', meaning: 'Thursday', level: 'HSK 1', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
-- { id: 'zh_weekdays_005', display: '星期五 (xīngqī wǔ, 星期五)', input: '星期五 (xīngqī wǔ, 星期五)', meaning: 'Friday', level: 'HSK 1', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
-- { id: 'zh_weekdays_006', display: '星期六 (xīngqī liù, 星期六)', input: '星期六 (xīngqī liù, 星期六)', meaning: 'Saturday', level: 'HSK 1', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
-- { id: 'zh_weekdays_007', display: '星期日 (xīngqī rì, 星期日)', input: '星期日 (xīngqī rì, 星期日)', meaning: 'Sunday', level: 'HSK 1', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
-- { id: 'zh_weekdays_008', display: '工作日 (gōngzuòrì, 工作日)', input: '工作日 (gōngzuòrì, 工作日)', meaning: 'weekday', level: 'HSK 2', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
-- { id: 'zh_weekdays_009', display: '周末 (zhōumò, 周末)', input: '周末 (zhōumò, 周末)', meaning: 'weekend', level: 'HSK 1', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
-- { id: 'zh_weekdays_010', display: '今天 (jīntiān, 今天)', input: '今天 (jīntiān, 今天)', meaning: 'today', level: 'HSK 1', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
+- { id: 'zh_weekdays_001', display: '星期一 (xīngqī yī, 星期一)', input: '星期一 (xīngqī yī, 星期一)', meaning: 'Monday', level: 'A1-A2', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
+- { id: 'zh_weekdays_002', display: '星期二 (xīngqī èr, 星期二)', input: '星期二 (xīngqī èr, 星期二)', meaning: 'Tuesday', level: 'A1-A2', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
+- { id: 'zh_weekdays_003', display: '星期三 (xīngqī sān, 星期三)', input: '星期三 (xīngqī sān, 星期三)', meaning: 'Wednesday', level: 'A1-A2', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
+- { id: 'zh_weekdays_004', display: '星期四 (xīngqī sì, 星期四)', input: '星期四 (xīngqī sì, 星期四)', meaning: 'Thursday', level: 'A1-A2', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
+- { id: 'zh_weekdays_005', display: '星期五 (xīngqī wǔ, 星期五)', input: '星期五 (xīngqī wǔ, 星期五)', meaning: 'Friday', level: 'A1-A2', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
+- { id: 'zh_weekdays_006', display: '星期六 (xīngqī liù, 星期六)', input: '星期六 (xīngqī liù, 星期六)', meaning: 'Saturday', level: 'A1-A2', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
+- { id: 'zh_weekdays_007', display: '星期日 (xīngqī rì, 星期日)', input: '星期日 (xīngqī rì, 星期日)', meaning: 'Sunday', level: 'A1-A2', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
+- { id: 'zh_weekdays_008', display: '工作日 (gōngzuòrì, 工作日)', input: '工作日 (gōngzuòrì, 工作日)', meaning: 'weekday', level: 'A1-A2', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
+- { id: 'zh_weekdays_009', display: '周末 (zhōumò, 周末)', input: '周末 (zhōumò, 周末)', meaning: 'weekend', level: 'A1-A2', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
+- { id: 'zh_weekdays_010', display: '今天 (jīntiān, 今天)', input: '今天 (jīntiān, 今天)', meaning: 'today', level: 'A1-A2', category: 'weekdays', source: '[[weekdays-vocabulary]]' }
 ```

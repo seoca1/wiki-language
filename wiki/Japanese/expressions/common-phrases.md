@@ -63,3 +63,17 @@ level: "A1-A2"
 
 - [[daily-life]] - 일상생활 표현
 - [[business-basics]] - 비즈니스 표현
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'jp_common_phrases_001', display: 'お元気ですか? (おげんきですか)', input: 'おげんきですか', meaning: '', level: 'A1-A2', category: 'common-phrases', source: '[[common-phrases]]' }
+- { id: 'jp_common_phrases_002', display: 'わかりません (wakarimasen)', input: 'wakarimasen', meaning: '', level: 'A1-A2', category: 'common-phrases', source: '[[common-phrases]]' }
+- { id: 'jp_common_phrases_003', display: '助けてもらえますか (たすけてもらえますか)', input: 'たすけてもらえますか', meaning: '', level: 'A1-A2', category: 'common-phrases', source: '[[common-phrases]]' }
+- { id: 'jp_common_phrases_004', display: 'いくらですか (ikura desu ka)', input: 'ikura desu ka', meaning: '', level: 'A1-A2', category: 'common-phrases', source: '[[common-phrases]]' }
+- { id: 'jp_common_phrases_005', display: 'トイレはどこですか (toire wa doko desu ka)', input: 'toire wa doko desu ka', meaning: '', level: 'A1-A2', category: 'common-phrases', source: '[[common-phrases]]' }
+```

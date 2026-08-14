@@ -1,3 +1,10 @@
+---
+title: "restaurant-expressions (English) expressions"
+language: "English"
+category: "restaurant-expressions"
+level: "A2-B2"
+---
+
 # Expressions: Restaurant & Dining (English)
 
 > **Theme:** Restaurant & Dining
@@ -231,3 +238,19 @@ During or after meal.
 
 - `[[food-dining]]` — Basic food expressions
 - `[[Language/wiki/comparative/food-dining]]` — 5-language food
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'en_restaurant_expressions_001', display: 'Could I see the menu, please?', input: 'Could I see the menu, please?', meaning: '"Could I see the menu, please?" — upon sitting at restaurant.', level: 'A2-B2', category: 'restaurant-expressions', source: '[[restaurant-expressions]]' }
+- { id: 'en_restaurant_expressions_002', display: 'I''ll have ___', input: 'I''ll have ___', meaning: '"I''ll have ___" — placing an order.', level: 'A2-B2', category: 'restaurant-expressions', source: '[[restaurant-expressions]]' }
+- { id: 'en_restaurant_expressions_003', display: 'I''m allergic to ___', input: 'I''m allergic to ___', meaning: '"I''m allergic to ___" — food allergy disclosure.', level: 'A2-B2', category: 'restaurant-expressions', source: '[[restaurant-expressions]]' }
+- { id: 'en_restaurant_expressions_004', display: 'Could I have the check, please?', input: 'Could I have the check, please?', meaning: '"Could I have the check, please?" — asking for the bill.', level: 'A2-B2', category: 'restaurant-expressions', source: '[[restaurant-expressions]]' }
+- { id: 'en_restaurant_expressions_005', display: 'Can I get this to go?', input: 'Can I get this to go?', meaning: '"Can I get this to go?" — leftovers/doggy bag.', level: 'A2-B2', category: 'restaurant-expressions', source: '[[restaurant-expressions]]' }
+- { id: 'en_restaurant_expressions_006', display: 'What is in this dish?', input: 'What is in this dish?', meaning: '"What is in this dish?" — ingredient inquiry.', level: 'A2-B2', category: 'restaurant-expressions', source: '[[restaurant-expressions]]' }
+- { id: 'en_restaurant_expressions_007', display: 'This is delicious!', input: 'This is delicious!', meaning: '"This is delicious!" — praising food.', level: 'A2-B2', category: 'restaurant-expressions', source: '[[restaurant-expressions]]' }
+```

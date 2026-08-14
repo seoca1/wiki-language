@@ -302,76 +302,19 @@ theme: "emotions-reactions"
 
 ## Pipeline Form (machine-readable)
 
-게임 코퍼스 큐레이션용 YAML (per `wiki/pipeline-to-game.md` L33-39).
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- display: 真的吗
-  input: zhēn de ma
-  meaning: really? / is it true?
-  level: A1
-  category: emotions-reactions
-  source: "[[emotions-reactions]]"
-
-- display: 太棒了
-  input: tài bàng le
-  meaning: awesome! (strong positive)
-  level: A1
-  category: emotions-reactions
-  source: "[[emotions-reactions]]"
-
-- display: 不会吧
-  input: bù huì ba
-  meaning: no way / it can't be
-  level: A2
-  category: emotions-reactions
-  source: "[[emotions-reactions]]"
-
-- display: 哎呀
-  input: āiya
-  meaning: oh! / oops! / ah! (multi-use interjection)
-  level: A1
-  category: emotions-reactions
-  source: "[[emotions-reactions]]"
-
-- display: 天哪
-  input: tiān na
-  meaning: oh my god / heavens
-  level: A1
-  category: emotions-reactions
-  source: "[[emotions-reactions]]"
-
-- display: 太好了
-  input: tài hǎo le
-  meaning: great! (standard positive)
-  level: A1
-  category: emotions-reactions
-  source: "[[emotions-reactions]]"
-
-- display: 糟糕
-  input: zāogāo
-  meaning: terrible / oops (bad situation)
-  level: A2
-  category: emotions-reactions
-  source: "[[emotions-reactions]]"
-
-- display: 好极了
-  input: hǎo jí le
-  meaning: excellent! (formal positive)
-  level: A2
-  category: emotions-reactions
-  source: "[[emotions-reactions]]"
-
-- display: 受不了
-  input: shòu bù liǎo
-  meaning: can't take it anymore
-  level: B1
-  category: emotions-reactions
-  source: "[[emotions-reactions]]"
-
-- display: 真倒霉
-  input: zhēn dǎoméi
-  meaning: really unlucky
-  level: A2
-  category: emotions-reactions
-  source: "[[emotions-reactions]]"
+- { id: 'zh_emotions_reactions_001', display: '真的吗?', input: '真的吗?', meaning: '', level: 'A1-B1', category: 'emotions-reactions', source: '[[emotions-reactions]]' }
+- { id: 'zh_emotions_reactions_002', display: '太棒了!', input: '太棒了!', meaning: '', level: 'A1-B1', category: 'emotions-reactions', source: '[[emotions-reactions]]' }
+- { id: 'zh_emotions_reactions_003', display: '不会吧', input: '不会吧', meaning: '', level: 'A1-B1', category: 'emotions-reactions', source: '[[emotions-reactions]]' }
+- { id: 'zh_emotions_reactions_004', display: '哎呀', input: '哎呀', meaning: '', level: 'A1-B1', category: 'emotions-reactions', source: '[[emotions-reactions]]' }
+- { id: 'zh_emotions_reactions_005', display: '天哪', input: '天哪', meaning: '', level: 'A1-B1', category: 'emotions-reactions', source: '[[emotions-reactions]]' }
+- { id: 'zh_emotions_reactions_006', display: '太好了', input: '太好了', meaning: '', level: 'A1-B1', category: 'emotions-reactions', source: '[[emotions-reactions]]' }
+- { id: 'zh_emotions_reactions_007', display: '糟糕', input: '糟糕', meaning: '', level: 'A1-B1', category: 'emotions-reactions', source: '[[emotions-reactions]]' }
+- { id: 'zh_emotions_reactions_008', display: '好极了', input: '好极了', meaning: '', level: 'A1-B1', category: 'emotions-reactions', source: '[[emotions-reactions]]' }
+- { id: 'zh_emotions_reactions_009', display: '受不了', input: '受不了', meaning: '', level: 'A1-B1', category: 'emotions-reactions', source: '[[emotions-reactions]]' }
+- { id: 'zh_emotions_reactions_010', display: '真倒霉', input: '真倒霉', meaning: '', level: 'A1-B1', category: 'emotions-reactions', source: '[[emotions-reactions]]' }
 ```

@@ -63,3 +63,17 @@ level: "A1-A2"
 
 - [[common-phrases]] - 핵심 일상 표현
 - [[greetings]] - 인사 표현
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'zh_apologies_001', display: '对不起 (duìbuqǐ, 對不起)', input: 'duìbuqǐ', meaning: '', level: 'A1-A2', category: 'apologies', source: '[[apologies]]' }
+- { id: 'zh_apologies_002', display: '不好意思 (bùhǎoyìsi, 不好意思)', input: 'bùhǎoyìsi', meaning: '', level: 'A1-A2', category: 'apologies', source: '[[apologies]]' }
+- { id: 'zh_apologies_003', display: '抱歉 (bàoqiàn, 抱歉)', input: 'bàoqiàn', meaning: '', level: 'A1-A2', category: 'apologies', source: '[[apologies]]' }
+- { id: 'zh_apologies_004', display: '请原谅 (qǐng yuánliàng, 請原諒)', input: 'qǐng yuánliàng', meaning: '', level: 'A1-A2', category: 'apologies', source: '[[apologies]]' }
+- { id: 'zh_apologies_005', display: '是我的错 (shì wǒ de cuò, 是我的錯)', input: 'shì wǒ de cuò', meaning: '', level: 'A1-A2', category: 'apologies', source: '[[apologies]]' }
+```

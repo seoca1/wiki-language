@@ -1167,15 +1167,201 @@ theme: "food"
 
 ## Pipeline Form (machine-readable)
 
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
+
 ```yaml
-- { id: zh_food_001, display: "米饭 (mǐfàn)", input: "mǐfàn", meaning: "rice", level: "1", category: "food", source: "[[food-and-dining]]" }
-- { id: zh_food_002, display: "面条 (miàntiáo)", input: "miàntiáo", meaning: "noodles", level: "1", category: "food", source: "[[food-and-dining]]" }
-- { id: zh_food_003, display: "饺子 (jiǎozi)", input: "jiǎozi", meaning: "dumplings", level: "1", category: "food", source: "[[food-and-dining]]" }
-- { id: zh_food_004, display: "包子 (bāozi)", input: "bāozi", meaning: "steamed bun", level: "1", category: "food", source: "[[food-and-dining]]" }
-- { id: zh_food_005, display: "火锅 (huǒguō)", input: "huǒguō", meaning: "hotpot", level: "2", category: "food", source: "[[food-and-dining]]" }
-- { id: zh_food_006, display: "饺子 (jiǎozi)", input: "jiǎozi", meaning: "dumplings", level: "1", category: "food", source: "[[food-and-dining]]" }
-- { id: zh_food_007, display: "茶 (chá)", input: "chá", meaning: "tea", level: "1", category: "food", source: "[[food-and-dining]]" }
-- { id: zh_food_008, display: "咖啡 (kāfēi)", input: "kāfēi", meaning: "coffee", level: "2", category: "food", source: "[[food-and-dining]]" }
-- { id: zh_food_009, display: "啤酒 (píjiǔ)", input: "píjiǔ", meaning: "beer", level: "2", category: "food", source: "[[food-and-dining]]" }
-- { id: zh_food_010, display: "水果 (shuǐguǒ)", input: "shuǐguǒ", meaning: "fruit", level: "1", category: "food", source: "[[food-and-dining]]" }
+- { id: 'zh_food_001', display: '川菜 (chuāncài)', input: 'chuāncài', meaning: 'Sichuan', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_002', display: '粤菜 (yuècài)', input: 'yuècài', meaning: 'Cantonese', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_003', display: '鲁菜 (lǔcài)', input: 'lǔcài', meaning: 'Shandong', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_004', display: '苏菜 (sūcài)', input: 'sūcài', meaning: 'Jiangsu', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_005', display: '浙菜 (zhècài)', input: 'zhècài', meaning: 'Zhejiang', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_006', display: '闽菜 (mǐncài)', input: 'mǐncài', meaning: 'Fujian', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_007', display: '湘菜 (xiāngcài)', input: 'xiāngcài', meaning: 'Hunan', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_008', display: '徽菜 (huīcài)', input: 'huīcài', meaning: 'Anhui', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_009', display: '米饭 (mǐfàn)', input: 'mǐfàn', meaning: 'Rice', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_010', display: '面条 (miàntiáo)', input: 'miàntiáo', meaning: 'Noodles', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_011', display: '包子 (bāozi)', input: 'bāozi', meaning: 'Steamed bun', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_012', display: '饺子 (jiǎozi)', input: 'jiǎozi', meaning: 'Dumplings', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_013', display: '馒头 (mántou)', input: 'mántou', meaning: 'Steamed bun (no filling)', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_014', display: '米线 (mǐxiàn)', input: 'mǐxiàn', meaning: 'Rice noodles', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_015', display: '馄饨 (húntún)', input: 'húntún', meaning: 'Wonton', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_016', display: '油条 (yóutiáo)', input: 'yóutiáo', meaning: 'Youtiao', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_017', display: '鸡蛋 (jīdàn)', input: 'jīdàn', meaning: 'Egg', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_018', display: '牛奶 (niúnǎi)', input: 'niúnǎi', meaning: 'Milk', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_019', display: '酸奶 (suānnǎi)', input: 'suānnǎi', meaning: 'Yogurt', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_020', display: '豆浆 (dòujiāng)', input: 'dòujiāng', meaning: 'Soy milk', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_021', display: '豆腐 (dòufu)', input: 'dòufu', meaning: 'Tofu', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_022', display: '茶叶蛋 (cháyèdàn)', input: 'cháyèdàn', meaning: 'Tea egg', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_023', display: '糖葫芦 (tánghúlu)', input: 'tánghúlu', meaning: 'Candied hawthorn', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_024', display: '烤红薯 (kǎo hóngshǔ)', input: 'kǎo hóngshǔ', meaning: 'Roasted sweet potato', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_025', display: '炒栗子 (chǎo lìzi)', input: 'chǎo lìzi', meaning: 'Roasted chestnuts', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_026', display: '猪肉 (zhūròu)', input: 'zhūròu', meaning: 'Pork', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_027', display: '牛肉 (niúròu)', input: 'niúròu', meaning: 'Beef', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_028', display: '羊肉 (yángròu)', input: 'yángròu', meaning: 'Lamb', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_029', display: '鸡肉 (jīròu)', input: 'jīròu', meaning: 'Chicken', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_030', display: '鸭肉 (yāròu)', input: 'yāròu', meaning: 'Duck', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_031', display: '鱼肉 (yúròu)', input: 'yúròu', meaning: 'Fish', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_032', display: '虾 (xiā)', input: 'xiā', meaning: 'Shrimp', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_033', display: '蟹 (xiè)', input: 'xiè', meaning: 'Crab', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_034', display: '排骨 (páigǔ)', input: 'páigǔ', meaning: 'Spare ribs', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_035', display: '五花肉 (wǔhuāròu)', input: 'wǔhuāròu', meaning: 'Pork belly', level: '4', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_036', display: '烤鸭 (kǎoyā)', input: 'kǎoyā', meaning: 'Roast duck', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_037', display: '白菜 (báicài)', input: 'báicài', meaning: 'Napa cabbage', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_038', display: '土豆 (tǔdòu)', input: 'tǔdòu', meaning: 'Potato', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_039', display: '西红柿 (xīhóngshì)', input: 'xīhóngshì', meaning: 'Tomato', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_040', display: '黄瓜 (huángguā)', input: 'huángguā', meaning: 'Cucumber', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_041', display: '茄子 (qiézi)', input: 'qiézi', meaning: 'Eggplant', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_042', display: '胡萝卜 (húluóbo)', input: 'húluóbo', meaning: 'Carrot', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_043', display: '洋葱 (yángcōng)', input: 'yángcōng', meaning: 'Onion', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_044', display: '大蒜 (dàsàn)', input: 'dàsàn', meaning: 'Garlic', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_045', display: '姜 (jiāng)', input: 'jiāng', meaning: 'Ginger', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_046', display: '辣椒 (làjiāo)', input: 'làjiāo', meaning: 'Chili pepper', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_047', display: '苹果 (píngguǒ)', input: 'píngguǒ', meaning: 'Apple', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_048', display: '香蕉 (xiāngjiāo)', input: 'xiāngjiāo', meaning: 'Banana', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_049', display: '橙子 (chéngzi)', input: 'chéngzi', meaning: 'Orange', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_050', display: '梨 (lí)', input: 'lí', meaning: 'Pear', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_051', display: '葡萄 (pútáo)', input: 'pútáo', meaning: 'Grape', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_052', display: '西瓜 (xīguā)', input: 'xīguā', meaning: 'Watermelon', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_053', display: '草莓 (cǎoméi)', input: 'cǎoméi', meaning: 'Strawberry', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_054', display: '桃子 (táozi)', input: 'táozi', meaning: 'Peach', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_055', display: '樱桃 (yīngtáo)', input: 'yīngtáo', meaning: 'Cherry', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_056', display: '芒果 (mángguǒ)', input: 'mángguǒ', meaning: 'Mango', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_057', display: '菠萝 (bōluó)', input: 'bōluó', meaning: 'Pineapple', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_058', display: '炒 (chǎo)', input: 'chǎo', meaning: 'Stir-fry', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_059', display: '煮 (zhǔ)', input: 'zhǔ', meaning: 'Boil', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_060', display: '蒸 (zhēng)', input: 'zhēng', meaning: 'Steam', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_061', display: '炸 (zhá)', input: 'zhá', meaning: 'Fry', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_062', display: '煎 (jiān)', input: 'jiān', meaning: 'Pan-fry', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_063', display: '烤 (kǎo)', input: 'kǎo', meaning: 'Roast/Grill', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_064', display: '炖 (dùn)', input: 'dùn', meaning: 'Stew', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_065', display: '焖 (mèn)', input: 'mèn', meaning: 'Braise', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_066', display: '烩 (huì)', input: 'huì', meaning: 'Casserole', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_067', display: '煨 (wēi)', input: 'wēi', meaning: 'Simmer', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_068', display: '烧 (shāo)', input: 'shāo', meaning: 'Braise', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_069', display: '扒 (pá)', input: 'pá', meaning: 'Pan-fry/Braise', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_070', display: '爆 (bào)', input: 'bào', meaning: 'Quick-fry', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_071', display: '烹 (pēng)', input: 'pēng', meaning: 'Cook', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_072', display: '熏 (xūn)', input: 'xūn', meaning: 'Smoke', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_073', display: '卤 (lǔ)', input: 'lǔ', meaning: 'Brine/Marinade', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_074', display: '酱 (jiàng)', input: 'jiàng', meaning: 'Sauce/Stew in sauce', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_075', display: '煸 (biān)', input: 'biān', meaning: 'Sauté', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_076', display: '焯 (chāo)', input: 'chāo', meaning: 'Blanch', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_077', display: '焗 (jú)', input: 'jú', meaning: 'Baked in salt/cream', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_078', display: '碗 (wǎn)', input: 'wǎn', meaning: 'Bowl', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_079', display: '盘子 (pánzi)', input: 'pánzi', meaning: 'Plate', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_080', display: '杯子 (bēizi)', input: 'bēizi', meaning: 'Cup', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_081', display: '筷子 (kuàizi)', input: 'kuàizi', meaning: 'Chopsticks', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_082', display: '勺子 (sháozi)', input: 'sháozi', meaning: 'Spoon', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_083', display: '叉子 (chāzi)', input: 'chāzi', meaning: 'Fork', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_084', display: '刀子 (dāozi)', input: 'dāozi', meaning: 'Knife', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_085', display: '餐巾纸 (cānjīnzhǐ)', input: 'cānjīnzhǐ', meaning: 'Napkin', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_086', display: '围嘴 (wéizuǐ)', input: 'wéizuǐ', meaning: 'Bib', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_087', display: '围裙 (wéiqún)', input: 'wéiqún', meaning: 'Apron', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_088', display: '牙签 (yáqiān)', input: 'yáqiān', meaning: 'Toothpick', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_089', display: '餐垫 (cāndiàn)', input: 'cāndiàn', meaning: 'Placemat', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_090', display: '餐巾 (cānjīn)', input: 'cānjīn', meaning: 'Napkin/Towel', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_091', display: '餐盒 (cānhé)', input: 'cānhé', meaning: 'Lunch box', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_092', display: '保温杯 (bǎowēnbēi)', input: 'bǎowēnbēi', meaning: 'Thermos cup', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_093', display: '保温饭盒 (bǎowēn fànhé)', input: 'bǎowēn fànhé', meaning: 'Thermal lunch box', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_094', display: '饭盒 (fànhé)', input: 'fànhé', meaning: 'Lunch box', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_095', display: '微波炉 (wēibōlú)', input: 'wēibōlú', meaning: 'Microwave oven', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_096', display: '烤箱 (kǎoxiāng)', input: 'kǎoxiāng', meaning: 'Oven', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_097', display: '冰箱 (bīngxiāng)', input: 'bīngxiāng', meaning: 'Refrigerator', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_098', display: '净水器 (jìngshuǐqì)', input: 'jìngshuǐqì', meaning: 'Water purifier', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_099', display: '热水壶 (rèshuǐhú)', input: 'rèshuǐhú', meaning: 'Kettle', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_100', display: '保温瓶 (bǎowēnpíng)', input: 'bǎowēnpíng', meaning: 'Thermos', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_101', display: '锅 (guō)', input: 'guō', meaning: 'Pot/Wok', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_102', display: '蒸锅 (zhēngguō)', input: 'zhēngguō', meaning: 'Steamer', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_103', display: '高压锅 (gāoyāguō)', input: 'gāoyāguō', meaning: 'Pressure cooker', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_104', display: '平底锅 (píngdǐguō)', input: 'píngdǐguō', meaning: 'Frying pan', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_105', display: '炒锅 (chǎoguō)', input: 'chǎoguō', meaning: 'Wok', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_106', display: '砂锅 (shāguō)', input: 'shāguō', meaning: 'Clay pot', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_107', display: '蒸笼 (zhēnglóng)', input: 'zhēnglóng', meaning: 'Steamer basket', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_108', display: '餐厅 (cāntīng)', input: 'cāntīng', meaning: 'Restaurant', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_109', display: '饭店 (fàndiàn)', input: 'fàndiàn', meaning: 'Restaurant', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_110', display: '食堂 (shítáng)', input: 'shítáng', meaning: 'Canteen', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_111', display: '餐馆 (cānguǎn)', input: 'cānguǎn', meaning: 'Restaurant', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_112', display: '酒店 (jiǔdiàn)', input: 'jiǔdiàn', meaning: 'Hotel/Restaurant', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_113', display: '排档 (páidàng)', input: 'páidàng', meaning: 'Food stall', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_114', display: '大排档 (dàpáidàng)', input: 'dàpáidàng', meaning: 'Food stalls area', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_115', display: '美食街 (měishíjiē)', input: 'měishíjiē', meaning: 'Food street', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_116', display: '夜市 (yèshì)', input: 'yèshì', meaning: 'Night market', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_117', display: '早市 (zǎoshì)', input: 'zǎoshì', meaning: 'Morning market', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_118', display: '夜宵 (yèxiāo)', input: 'yèxiāo', meaning: 'Midnight snack', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_119', display: '茶馆 (cháguǎn)', input: 'cháguǎn', meaning: 'Teahouse', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_120', display: '咖啡馆 (kāfēiguǎn)', input: 'kāfēiguǎn', meaning: 'Café', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_121', display: '酒吧 (jiǔbā)', input: 'jiǔbā', meaning: 'Bar', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_122', display: '小吃店 (xiǎochīdiàn)', input: 'xiǎochīdiàn', meaning: 'Snack shop', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_123', display: '糕点店 (gāodiǎndiàn)', input: 'gāodiǎndiàn', meaning: 'Cake shop', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_124', display: '奶茶店 (nǎichádiàn)', input: 'nǎichádiàn', meaning: 'Bubble tea shop', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_125', display: '面包店 (miànbāodiàn)', input: 'miànbāodiàn', meaning: 'Bakery', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_126', display: '外卖 (wàimài)', input: 'wàimài', meaning: 'Takeout/Delivery', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_127', display: '外卖员 (wàimàiyuán)', input: 'wàimàiyuán', meaning: 'Delivery person', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_128', display: '快递员 (kuàidìyuán)', input: 'kuàidìyuán', meaning: 'Courier', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_129', display: '美团 (Měituán)', input: 'Měituán', meaning: 'Meituan', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_130', display: '饿了么 (Èleme)', input: 'Èleme', meaning: 'Ele.me', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_131', display: '大众点评 (Dàzhòng Diǎnpíng)', input: 'Dàzhòng Diǎnpíng', meaning: 'Dianping', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_132', display: '美团外卖 (Měituán wàimài)', input: 'Měituán wàimài', meaning: 'Meituan delivery', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_133', display: '饿了么外卖 (Èleme wàimài)', input: 'Èleme wàimài', meaning: 'Ele.me delivery', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_134', display: '达达 (Dádá)', input: 'Dádá', meaning: 'Dada (delivery)', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_135', display: '闪送 (Shǎnsòng)', input: 'Shǎnsòng', meaning: 'Shansong (delivery)', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_136', display: '顺丰 (Shùnfēng)', input: 'Shùnfēng', meaning: 'SF Express', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_137', display: '京东 (Jīngdōng)', input: 'Jīngdōng', meaning: 'JD', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_138', display: '淘宝 (Táobǎo)', input: 'Táobǎo', meaning: 'Taobao', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_139', display: '拼多多 (Pīnduōduō)', input: 'Pīnduōduō', meaning: 'Pinduoduo', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_140', display: '美团优选 (Měituán yōuxuǎn)', input: 'Měituán yōuxuǎn', meaning: 'Meituan Select', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_141', display: '多多买菜 (Duōduō mǎicài)', input: 'Duōduō mǎicài', meaning: 'Duoduo Maicai', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_142', display: '京东到家 (Jīngdōng dàojiā)', input: 'Jīngdōng dàojiā', meaning: 'JD Daojia', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_143', display: '淘鲜达 (Táo xiāndá)', input: 'Táo xiāndá', meaning: 'Taoxianda', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_144', display: '每日优鲜 (Měirì yōuxiān)', input: 'Měirì yōuxiān', meaning: 'Missfresh', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_145', display: '盒马 (Hémǎ)', input: 'Hémǎ', meaning: 'Hema/Freshippo', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_146', display: '叮咚买菜 (Dīngdōng mǎicài)', input: 'Dīngdōng mǎicài', meaning: 'Dingdong Maicai', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_147', display: '美团买菜 (Měituán mǎicài)', input: 'Měituán mǎicài', meaning: 'Meituan Maicai', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_148', display: '朴朴 (Pǔpǔ)', input: 'Pǔpǔ', meaning: 'Pupu', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_149', display: '7Fresh (7Fresh)', input: '7Fresh', meaning: '7Fresh', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_150', display: '永辉 (Yǒnghuī)', input: 'Yǒnghuī', meaning: 'Yonghui', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_151', display: '沃尔玛 (Wò''ěrmǎ)', input: 'Wò''ěrmǎ', meaning: 'Walmart', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_152', display: '家乐福 (Jiālèfú)', input: 'Jiālèfú', meaning: 'Carrefour', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_153', display: '麦德龙 (Màidélóng)', input: 'Màidélóng', meaning: 'Metro', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_154', display: '山姆 (Shānmǔ)', input: 'Shānmǔ', meaning: 'Sam''s Club', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_155', display: 'Costco (Costco)', input: 'Costco', meaning: 'Costco', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_156', display: 'Aldi (Aldi)', input: 'Aldi', meaning: 'Aldi', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_157', display: 'Lidl (Lidl)', input: 'Lidl', meaning: 'Lidl', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_158', display: '物美 (Wùměi)', input: 'Wùměi', meaning: 'Wumart', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_159', display: '711 (7-11)', input: '7-11', meaning: '7-Eleven', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_160', display: '罗森 (Luósēn)', input: 'Luósēn', meaning: 'Lawson', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_161', display: '全家 (Quánjiā)', input: 'Quánjiā', meaning: 'FamilyMart', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_162', display: '便利蜂 (Biànliánfēng)', input: 'Biànliánfēng', meaning: 'Bianlifeng', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_163', display: '见福 (Jiànfú)', input: 'Jiànfú', meaning: 'Jianfu', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_164', display: 'Today (Today)', input: 'Today', meaning: 'Today', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_165', display: '邻几 (Línjǐ)', input: 'Línjǐ', meaning: 'Linji', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_166', display: '水 (shuǐ)', input: 'shuǐ', meaning: 'Water', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_167', display: '茶 (chá)', input: 'chá', meaning: 'Tea', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_168', display: '绿茶 (lǜchá)', input: 'lǜchá', meaning: 'Green tea', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_169', display: '红茶 (hóngchá)', input: 'hóngchá', meaning: 'Black tea', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_170', display: '乌龙茶 (wūlóngchá)', input: 'wūlóngchá', meaning: 'Oolong tea', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_171', display: '普洱茶 (pǔ''ěrchá)', input: 'pǔ''ěrchá', meaning: 'Pu''er tea', level: '4', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_172', display: '咖啡 (kāfēi)', input: 'kāfēi', meaning: 'Coffee', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_173', display: '美式咖啡 (měishì kāfēi)', input: 'měishì kāfēi', meaning: 'Americano', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_174', display: '拿铁 (nátiě)', input: 'nátiě', meaning: 'Latte', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_175', display: '卡布奇诺 (kǎbùqínuò)', input: 'kǎbùqínuò', meaning: 'Cappuccino', level: '4', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_176', display: '果汁 (guǒzhī)', input: 'guǒzhī', meaning: 'Juice', level: '1', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_177', display: '奶茶 (nǎichá)', input: 'nǎichá', meaning: 'Milk tea', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_178', display: '啤酒 (píjiǔ)', input: 'píjiǔ', meaning: 'Beer', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_179', display: '白酒 (báijiǔ)', input: 'báijiǔ', meaning: 'Baijiu', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_180', display: '茅台 (máotái)', input: 'máotái', meaning: 'Moutai', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_181', display: '五粮液 (wǔliángyè)', input: 'wǔliángyè', meaning: 'Wuliangye', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_182', display: '红酒 (hóngjiǔ)', input: 'hóngjiǔ', meaning: 'Red wine', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_183', display: '葡萄酒 (pútáojiǔ)', input: 'pútáojiǔ', meaning: 'Wine', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_184', display: '威士忌 (wēishìjì)', input: 'wēishìjì', meaning: 'Whisky', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_185', display: '伏特加 (fútèjiā)', input: 'fútèjiā', meaning: 'Vodka', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_186', display: '黄酒 (huángjiǔ)', input: 'huángjiǔ', meaning: 'Yellow wine', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_187', display: '米酒 (mǐjiǔ)', input: 'mǐjiǔ', meaning: 'Rice wine', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_188', display: '烧酒 (shāojiǔ)', input: 'shāojiǔ', meaning: 'Soju', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_189', display: '鸡尾酒 (jīwěijiǔ)', input: 'jīwěijiǔ', meaning: 'Cocktail', level: '3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_190', display: '矿泉水 (kuàngquánshuǐ)', input: 'kuàngquánshuǐ', meaning: 'Mineral water', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_191', display: '苏打水 (sūdǎshuǐ)', input: 'sūdǎshuǐ', meaning: 'Soda water', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_192', display: '气泡水 (qìpàoshuǐ)', input: 'qìpàoshuǐ', meaning: 'Sparkling water', level: '2', category: 'food', source: '[[food-and-dining-zh]]' }
 ```

@@ -1,3 +1,10 @@
+---
+title: "dating-romance (Japanese) expressions"
+language: "Japanese"
+category: "dating-romance"
+level: "A1-B2"
+---
+
 # 表現: 연애 표현 / Expresiones sentimentales
 
 > **Theme:** Dating & Romance
@@ -340,3 +347,19 @@ Vocabulary for dating, romantic interest, confessions, and breakups.
 - 花より男子
 
 ---
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'jp_dating_romance_001', display: 'はじめまして', input: 'はじめまして', meaning: '"만나서 반갑습니다" — Standard first-time greeting.', level: 'A1-B2 (idioms)', category: 'dating-romance', source: '[[dating-romance]]' }
+- { id: 'jp_dating_romance_002', display: 'sumimasen', input: 'sumimasen', meaning: '"실례합니다" / "죄송합니다" / "감사합니다" — 세 가지 의미로 모두 쓰이는 다기능 표현.', level: 'A1-B2 (idioms)', category: 'dating-romance', source: '[[dating-romance]]' }
+- { id: 'jp_dating_romance_003', display: '今度ご飯行かない', input: '今度ご飯行かない', meaning: '"이번에 밥 먹으러 가지 않을래?" — Standard casual date invitation.', level: 'A1-B2 (idioms)', category: 'dating-romance', source: '[[dating-romance]]' }
+- { id: 'jp_dating_romance_004', display: 'また連絡する', input: 'また連絡する', meaning: '"나중에 또 연락할게" — Standard post-date follow-up promise.', level: 'A1-B2 (idioms)', category: 'dating-romance', source: '[[dating-romance]]' }
+- { id: 'jp_dating_romance_005', display: '手繋いでもいい', input: '手繋いでもいい', meaning: '"손 잡아도 돼?" — Consent request for first physical affection.', level: 'A1-B2 (idioms)', category: 'dating-romance', source: '[[dating-romance]]' }
+- { id: 'jp_dating_romance_006', display: '俺の彼女になってよ', input: '俺の彼女になってよ', meaning: '"내 여자친구가 되어줘" — Casual male-to-female confession.', level: 'A1-B2 (idioms)', category: 'dating-romance', source: '[[dating-romance]]' }
+- { id: 'jp_dating_romance_007', display: '好きです付き合ってください', input: '好きです付き合ってください', meaning: '"좋아합니다, 사귀어 주세요" — Standard formal confession.', level: 'A1-B2 (idioms)', category: 'dating-romance', source: '[[dating-romance]]' }
+```

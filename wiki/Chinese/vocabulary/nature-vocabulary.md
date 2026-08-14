@@ -1783,15 +1783,213 @@ theme: "nature"
 
 ## Pipeline Form (machine-readable)
 
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
+
 ```yaml
-- { id: zh_nature_001, display: "太阳 (tàiyáng)", input: "tàiyáng", meaning: "sun", level: "1", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: zh_nature_002, display: "月亮 (yuèliang)", input: "yuèliang", meaning: "moon", level: "1", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: zh_nature_003, display: "树 (shù)", input: "shù", meaning: "tree", level: "1", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: zh_nature_004, display: "花 (huā)", input: "huā", meaning: "flower", level: "1", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: zh_nature_005, display: "山 (shān)", input: "shān", meaning: "mountain", level: "1", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: zh_nature_006, display: "河 (hé)", input: "hé", meaning: "river", level: "1", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: zh_nature_007, display: "海 (hǎi)", input: "hǎi", meaning: "sea", level: "1", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: zh_nature_008, display: "雨 (yǔ)", input: "yǔ", meaning: "rain", level: "1", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: zh_nature_009, display: "雪 (xuě)", input: "xuě", meaning: "snow", level: "1", category: "nature", source: "[[nature-vocabulary]]" }
-- { id: zh_nature_010, display: "风 (fēng)", input: "fēng", meaning: "wind", level: "1", category: "nature", source: "[[nature-vocabulary]]" }
+- { id: 'zh_nature_001', display: '太阳 (tàiyáng)', input: 'tàiyáng', meaning: 'Sun', level: '1', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_002', display: '月亮 (yuèliang)', input: 'yuèliang', meaning: 'Moon', level: '1', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_003', display: '星星 (xīngxīng)', input: 'xīngxīng', meaning: 'Star', level: '1', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_004', display: '云 (yún)', input: 'yún', meaning: 'Cloud', level: '1', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_005', display: '雨 (yǔ)', input: 'yǔ', meaning: 'Rain', level: '1', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_006', display: '雪 (xuě)', input: 'xuě', meaning: 'Snow', level: '1', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_007', display: '风 (fēng)', input: 'fēng', meaning: 'Wind', level: '1', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_008', display: '雷 (léi)', input: 'léi', meaning: 'Thunder', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_009', display: '电 (diàn)', input: 'diàn', meaning: 'Lightning', level: '1', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_010', display: '雹 (báo)', input: 'báo', meaning: 'Hail', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_011', display: '雾 (wù)', input: 'wù', meaning: 'Fog', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_012', display: '露 (lù)', input: 'lù', meaning: 'Dew', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_013', display: '霜 (shuāng)', input: 'shuāng', meaning: 'Frost', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_014', display: '冰 (bīng)', input: 'bīng', meaning: 'Ice', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_015', display: '虹 (hóng)', input: 'hóng', meaning: 'Rainbow', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_016', display: '霞 (xiá)', input: 'xiá', meaning: 'Rosy clouds', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_017', display: '晕 (yùn)', input: 'yùn', meaning: 'Halo', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_018', display: '华 (huá)', input: 'huá', meaning: 'Corona', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_019', display: '太阳雨 (tàiyáng yǔ)', input: 'tàiyáng yǔ', meaning: 'Sunshower', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_020', display: '雨夹雪 (yǔ jiā xuě)', input: 'yǔ jiā xuě', meaning: 'Sleet', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_021', display: '冻雨 (dòng yǔ)', input: 'dòng yǔ', meaning: 'Freezing rain', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_022', display: '雷阵雨 (léi zhèn yǔ)', input: 'léi zhèn yǔ', meaning: 'Thunderstorm', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_023', display: '暴风雪 (bàofēngxuě)', input: 'bàofēngxuě', meaning: 'Blizzard', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_024', display: '沙尘暴 (shāchénbào)', input: 'shāchénbào', meaning: 'Sandstorm', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_025', display: '台风 (táifēng)', input: 'táifēng', meaning: 'Typhoon', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_026', display: '飓风 (jùfēng)', input: 'jùfēng', meaning: 'Hurricane', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_027', display: '龙卷风 (lóngjuǎnfēng)', input: 'lóngjuǎnfēng', meaning: 'Tornado', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_028', display: '旋风 (xuànfēng)', input: 'xuànfēng', meaning: 'Whirlwind', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_029', display: '季风 (jìfēng)', input: 'jìfēng', meaning: 'Monsoon', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_030', display: '信风 (xìnfēng)', input: 'xìnfēng', meaning: 'Trade wind', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_031', display: '树 (shù)', input: 'shù', meaning: 'Tree', level: '1', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_032', display: '花 (huā)', input: 'huā', meaning: 'Flower', level: '1', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_033', display: '草 (cǎo)', input: 'cǎo', meaning: 'Grass', level: '1', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_034', display: '叶 (yè)', input: 'yè', meaning: 'Leaf', level: '1', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_035', display: '根 (gēn)', input: 'gēn', meaning: 'Root', level: '1', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_036', display: '茎 (jīng)', input: 'jīng', meaning: 'Stem', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_037', display: '枝 (zhī)', input: 'zhī', meaning: 'Branch', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_038', display: '果实 (guǒshí)', input: 'guǒshí', meaning: 'Fruit', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_039', display: '种子 (zhǒngzi)', input: 'zhǒngzi', meaning: 'Seed', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_040', display: '芽 (yá)', input: 'yá', meaning: 'Bud', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_041', display: '花瓣 (huābàn)', input: 'huābàn', meaning: 'Petal', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_042', display: '花蕊 (huāruǐ)', input: 'huāruǐ', meaning: 'Stamen/Pistil', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_043', display: '花粉 (huāfěn)', input: 'huāfěn', meaning: 'Pollen', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_044', display: '树叶 (shùyè)', input: 'shùyè', meaning: 'Tree leaf', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_045', display: '树枝 (shùzhī)', input: 'shùzhī', meaning: 'Tree branch', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_046', display: '树干 (shùgàn)', input: 'shùgàn', meaning: 'Tree trunk', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_047', display: '树根 (shùgēn)', input: 'shùgēn', meaning: 'Tree root', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_048', display: '树皮 (shùpí)', input: 'shùpí', meaning: 'Tree bark', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_049', display: '松树 (sōngshù)', input: 'sōngshù', meaning: 'Pine tree', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_050', display: '柏树 (bǎishù)', input: 'bǎishù', meaning: 'Cypress', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_051', display: '杉树 (shānshù)', input: 'shānshù', meaning: 'Cedar', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_052', display: '梧桐 (wútóng)', input: 'wútóng', meaning: 'Parasol tree', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_053', display: '柳树 (liǔshù)', input: 'liǔshù', meaning: 'Willow', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_054', display: '樱花 (yīnghuā)', input: 'yīnghuā', meaning: 'Cherry blossom', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_055', display: '梅花 (méihuā)', input: 'méihuā', meaning: 'Plum blossom', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_056', display: '桃花 (táohuā)', input: 'táohuā', meaning: 'Peach blossom', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_057', display: '牡丹 (mǔdān)', input: 'mǔdān', meaning: 'Peony', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_058', display: '菊花 (júhuā)', input: 'júhuā', meaning: 'Chrysanthemum', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_059', display: '兰花 (lánhuā)', input: 'lánhuā', meaning: 'Orchid', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_060', display: '竹子 (zhúzi)', input: 'zhúzi', meaning: 'Bamboo', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_061', display: '莲花 (liánhuā)', input: 'liánhuā', meaning: 'Lotus', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_062', display: '荷花 (héhuā)', input: 'héhuā', meaning: 'Lotus', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_063', display: '桂花 (guìhuā)', input: 'guìhuā', meaning: 'Osmanthus', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_064', display: '月季 (yuèjì)', input: 'yuèjì', meaning: 'Chinese rose', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_065', display: '茉莉 (mòlì)', input: 'mòlì', meaning: 'Jasmine', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_066', display: '杜鹃 (dùjuān)', input: 'dùjuān', meaning: 'Azalea', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_067', display: '山茶 (shānchá)', input: 'shānchá', meaning: 'Camellia', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_068', display: '紫薇 (zǐwēi)', input: 'zǐwēi', meaning: 'Crape myrtle', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_069', display: '玫瑰 (méiguī)', input: 'méiguī', meaning: 'Rose', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_070', display: '百合 (bǎihé)', input: 'bǎihé', meaning: 'Lily', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_071', display: '郁金香 (yùjīnxiāng)', input: 'yùjīnxiāng', meaning: 'Tulip', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_072', display: '蔷薇 (qiángwēi)', input: 'qiángwēi', meaning: 'Rose', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_073', display: '老虎 (lǎohǔ)', input: 'lǎohǔ', meaning: 'Tiger', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_074', display: '狮子 (shīzi)', input: 'shīzi', meaning: 'Lion', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_075', display: '大象 (dàxiàng)', input: 'dàxiàng', meaning: 'Elephant', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_076', display: '熊猫 (xióngmāo)', input: 'xióngmāo', meaning: 'Panda', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_077', display: '长颈鹿 (chángjǐnglù)', input: 'chángjǐnglù', meaning: 'Giraffe', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_078', display: '河马 (hémǎ)', input: 'hémǎ', meaning: 'Hippopotamus', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_079', display: '犀牛 (xīniú)', input: 'xīniú', meaning: 'Rhinoceros', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_080', display: '斑马 (bānmǎ)', input: 'bānmǎ', meaning: 'Zebra', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_081', display: '豹 (bào)', input: 'bào', meaning: 'Leopard', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_082', display: '狼 (láng)', input: 'láng', meaning: 'Wolf', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_083', display: '狐狸 (húli)', input: 'húli', meaning: 'Fox', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_084', display: '熊 (xióng)', input: 'xióng', meaning: 'Bear', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_085', display: '猴 (hóu)', input: 'hóu', meaning: 'Monkey', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_086', display: '长臂猿 (chángbìyuán)', input: 'chángbìyuán', meaning: 'Gibbon', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_087', display: '袋鼠 (dàishǔ)', input: 'dàishǔ', meaning: 'Kangaroo', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_088', display: '考拉 (kǎolā)', input: 'kǎolā', meaning: 'Koala', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_089', display: '鸭嘴兽 (yāzuǐshòu)', input: 'yāzuǐshòu', meaning: 'Platypus', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_090', display: '鸸鹋 (érmiáo)', input: 'érmiáo', meaning: 'Emu', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_091', display: '针鼹 (zhēnyǎn)', input: 'zhēnyǎn', meaning: 'Echidna', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_092', display: '山 (shān)', input: 'shān', meaning: 'Mountain', level: '1', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_093', display: '河 (hé)', input: 'hé', meaning: 'River', level: '1', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_094', display: '湖 (hú)', input: 'hú', meaning: 'Lake', level: '1', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_095', display: '海 (hǎi)', input: 'hǎi', meaning: 'Sea', level: '1', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_096', display: '岛 (dǎo)', input: 'dǎo', meaning: 'Island', level: '1', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_097', display: '沙漠 (shāmò)', input: 'shāmò', meaning: 'Desert', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_098', display: '森林 (sēnlín)', input: 'sēnlín', meaning: 'Forest', level: '1', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_099', display: '草原 (cǎoyuán)', input: 'cǎoyuán', meaning: 'Grassland', level: '1', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_100', display: '平原 (píngyuán)', input: 'píngyuán', meaning: 'Plain', level: '1', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_101', display: '高原 (gāoyuán)', input: 'gāoyuán', meaning: 'Plateau', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_102', display: '盆地 (péndì)', input: 'péndì', meaning: 'Basin', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_103', display: '山谷 (shāngǔ)', input: 'shāngǔ', meaning: 'Valley', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_104', display: '丘陵 (qiūlíng)', input: 'qiūlíng', meaning: 'Hill', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_105', display: '火山 (huǒshān)', input: 'huǒshān', meaning: 'Volcano', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_106', display: '地震 (dìzhèn)', input: 'dìzhèn', meaning: 'Earthquake', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_107', display: '海啸 (hǎixiào)', input: 'hǎixiào', meaning: 'Tsunami', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_108', display: '泥石流 (níshíliú)', input: 'níshíliú', meaning: 'Mudslide', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_109', display: '滑坡 (huápō)', input: 'huápō', meaning: 'Landslide', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_110', display: '地球 (dìqiú)', input: 'dìqiú', meaning: 'Earth', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_111', display: '火星 (huǒxīng)', input: 'huǒxīng', meaning: 'Mars', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_112', display: '金星 (jīnxīng)', input: 'jīnxīng', meaning: 'Venus', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_113', display: '木星 (mùxīng)', input: 'mùxīng', meaning: 'Jupiter', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_114', display: '水星 (shuǐxīng)', input: 'shuǐxīng', meaning: 'Mercury', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_115', display: '土星 (tǔxīng)', input: 'tǔxīng', meaning: 'Saturn', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_116', display: '天王星 (tiānwángxīng)', input: 'tiānwángxīng', meaning: 'Uranus', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_117', display: '海王星 (hǎiwángxīng)', input: 'hǎiwángxīng', meaning: 'Neptune', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_118', display: '冥王星 (míngwángxīng)', input: 'míngwángxīng', meaning: 'Pluto', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_119', display: '月球 (yuèqiú)', input: 'yuèqiú', meaning: 'Moon', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_120', display: '太阳系 (tàiyángxì)', input: 'tàiyángxì', meaning: 'Solar System', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_121', display: '银河系 (yínhéxì)', input: 'yínhéxì', meaning: 'Milky Way', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_122', display: '宇宙 (yǔzhòu)', input: 'yǔzhòu', meaning: 'Universe', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_123', display: '黑洞 (hēidòng)', input: 'hēidòng', meaning: 'Black hole', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_124', display: '恒星 (héngxīng)', input: 'héngxīng', meaning: 'Star', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_125', display: '行星 (xíngxīng)', input: 'xíngxīng', meaning: 'Planet', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_126', display: '卫星 (wèixīng)', input: 'wèixīng', meaning: 'Satellite/Moon', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_127', display: '彗星 (huìxīng)', input: 'huìxīng', meaning: 'Comet', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_128', display: '流星 (liúxīng)', input: 'liúxīng', meaning: 'Meteor', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_129', display: '陨石 (yǔnshí)', input: 'yǔnshí', meaning: 'Meteorite', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_130', display: '星系 (xīngxì)', input: 'xīngxì', meaning: 'Galaxy', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_131', display: '星云 (xīngyún)', input: 'xīngyún', meaning: 'Nebula', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_132', display: '中子星 (zhōngzǐxīng)', input: 'zhōngzǐxīng', meaning: 'Neutron star', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_133', display: '脉冲星 (màichōngxīng)', input: 'màichōngxīng', meaning: 'Pulsar', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_134', display: '类星体 (lèixīngtǐ)', input: 'lèixīngtǐ', meaning: 'Quasar', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_135', display: '矮星 (ǎixīng)', input: 'ǎixīng', meaning: 'Dwarf star', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_136', display: '红巨星 (hóngjùxīng)', input: 'hóngjùxīng', meaning: 'Red giant', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_137', display: '白矮星 (bái''ǎixīng)', input: 'bái''ǎixīng', meaning: 'White dwarf', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_138', display: '虫洞 (chóngdòng)', input: 'chóngdòng', meaning: 'Wormhole', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_139', display: '引力波 (yǐnlìbō)', input: 'yǐnlìbō', meaning: 'Gravitational wave', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_140', display: '暗物质 (ànwùzhì)', input: 'ànwùzhì', meaning: 'Dark matter', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_141', display: '暗能量 (ànnéngliàng)', input: 'ànnéngliàng', meaning: 'Dark energy', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_142', display: '春天 (chūntiān)', input: 'chūntiān', meaning: 'Spring', level: '1', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_143', display: '夏天 (xiàtiān)', input: 'xiàtiān', meaning: 'Summer', level: '1', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_144', display: '秋天 (qiūtiān)', input: 'qiūtiān', meaning: 'Autumn', level: '1', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_145', display: '冬天 (dōngtiān)', input: 'dōngtiān', meaning: 'Winter', level: '1', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_146', display: '四季 (sìjì)', input: 'sìjì', meaning: 'Four seasons', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_147', display: '节气 (jiéqì)', input: 'jiéqì', meaning: 'Solar term', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_148', display: '立春 (lìchūn)', input: 'lìchūn', meaning: 'Beginning of Spring', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_149', display: '雨水 (yǔshuǐ)', input: 'yǔshuǐ', meaning: 'Rain Water', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_150', display: '惊蛰 (jīngzhé)', input: 'jīngzhé', meaning: 'Awakening of Insects', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_151', display: '春分 (chūnfēn)', input: 'chūnfēn', meaning: 'Spring Equinox', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_152', display: '清明 (qīngmíng)', input: 'qīngmíng', meaning: 'Clear and Bright', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_153', display: '谷雨 (gǔyǔ)', input: 'gǔyǔ', meaning: 'Grain Rain', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_154', display: '立夏 (lìxià)', input: 'lìxià', meaning: 'Beginning of Summer', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_155', display: '小满 (xiǎomǎn)', input: 'xiǎomǎn', meaning: 'Grain Buds', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_156', display: '芒种 (mángzhòng)', input: 'mángzhòng', meaning: 'Grain in Ear', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_157', display: '夏至 (xiàzhì)', input: 'xiàzhì', meaning: 'Summer Solstice', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_158', display: '小暑 (xiǎoshǔ)', input: 'xiǎoshǔ', meaning: 'Slight Heat', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_159', display: '大暑 (dàshǔ)', input: 'dàshǔ', meaning: 'Great Heat', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_160', display: '立秋 (lìqiū)', input: 'lìqiū', meaning: 'Beginning of Autumn', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_161', display: '处暑 (chǔshǔ)', input: 'chǔshǔ', meaning: 'End of Heat', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_162', display: '白露 (báilù)', input: 'báilù', meaning: 'White Dew', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_163', display: '秋分 (qiūfēn)', input: 'qiūfēn', meaning: 'Autumn Equinox', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_164', display: '寒露 (hánlù)', input: 'hánlù', meaning: 'Cold Dew', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_165', display: '霜降 (shuāngjiàng)', input: 'shuāngjiàng', meaning: 'First Frost', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_166', display: '立冬 (lìdōng)', input: 'lìdōng', meaning: 'Beginning of Winter', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_167', display: '小雪 (xiǎoxuě)', input: 'xiǎoxuě', meaning: 'Slight Snow', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_168', display: '大雪 (dàxuě)', input: 'dàxuě', meaning: 'Great Snow', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_169', display: '冬至 (dōngzhì)', input: 'dōngzhì', meaning: 'Winter Solstice', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_170', display: '小寒 (xiǎohán)', input: 'xiǎohán', meaning: 'Slight Cold', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_171', display: '大寒 (dàhán)', input: 'dàhán', meaning: 'Great Cold', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_172', display: '环境 (huánjìng)', input: 'huánjìng', meaning: 'Environment', level: '2', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_173', display: '污染 (wūrǎn)', input: 'wūrǎn', meaning: 'Pollution', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_174', display: '噪音 (zàoyīn)', input: 'zàoyīn', meaning: 'Noise', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_175', display: '空气 (kōngqì)', input: 'kōngqì', meaning: 'Air', level: '1', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_176', display: '水 (shuǐ)', input: 'shuǐ', meaning: 'Water', level: '1', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_177', display: '空气污染 (kōngqì wūrǎn)', input: 'kōngqì wūrǎn', meaning: 'Air pollution', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_178', display: '水污染 (shuǐ wūrǎn)', input: 'shuǐ wūrǎn', meaning: 'Water pollution', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_179', display: '土壤污染 (tǔrǎng wūrǎn)', input: 'tǔrǎng wūrǎn', meaning: 'Soil pollution', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_180', display: '噪音污染 (zàoyīn wūrǎn)', input: 'zàoyīn wūrǎn', meaning: 'Noise pollution', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_181', display: '光污染 (guāng wūrǎn)', input: 'guāng wūrǎn', meaning: 'Light pollution', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_182', display: '放射性污染 (fàngshèxìng wūrǎn)', input: 'fàngshèxìng wūrǎn', meaning: 'Radioactive pollution', level: '5', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_183', display: '白色污染 (báisè wūrǎn)', input: 'báisè wūrǎn', meaning: 'White pollution (plastic)', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_184', display: '温室效应 (wēnshì xiàoyìng)', input: 'wēnshì xiàoyìng', meaning: 'Greenhouse effect', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_185', display: '全球变暖 (quánqiú biànwēn)', input: 'quánqiú biànwēn', meaning: 'Global warming', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_186', display: '气候变暖 (qìhòu biànwēn)', input: 'qìhòu biànwēn', meaning: 'Climate change', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_187', display: '厄尔尼诺 (è''ěrnínuò)', input: 'è''ěrnínuò', meaning: 'El Niño', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_188', display: '拉尼娜 (lānnīnà)', input: 'lānnīnà', meaning: 'La Niña', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_189', display: '臭氧层 (chòuyǎngcéng)', input: 'chòuyǎngcéng', meaning: 'Ozone layer', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_190', display: '紫外线 (zǐwàixiàn)', input: 'zǐwàixiàn', meaning: 'UV', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_191', display: '红外线 (hóngwàixiàn)', input: 'hóngwàixiàn', meaning: 'Infrared', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_192', display: '温室气体 (wēnshì qìtǐ)', input: 'wēnshì qìtǐ', meaning: 'Greenhouse gas', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_193', display: '二氧化碳 (èryǎnghuàtàn)', input: 'èryǎnghuàtàn', meaning: 'CO2', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_194', display: '一氧化碳 (yīyǎnghuàtàn)', input: 'yīyǎnghuàtàn', meaning: 'CO', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_195', display: '臭氧 (chòuyǎng)', input: 'chòuyǎng', meaning: 'Ozone', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_196', display: '氧气 (yǎngqì)', input: 'yǎngqì', meaning: 'Oxygen', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_197', display: '氮气 (dànqì)', input: 'dànqì', meaning: 'Nitrogen', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_198', display: '氢气 (qīngqì)', input: 'qīngqì', meaning: 'Hydrogen', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_199', display: '氦气 (hàiqì)', input: 'hàiqì', meaning: 'Helium', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_200', display: '氖气 (nǎiqì)', input: 'nǎiqì', meaning: 'Neon', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_201', display: '氩气 (yàqì)', input: 'yàqì', meaning: 'Argon', level: '3', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_202', display: '氪气 (kèqì)', input: 'kèqì', meaning: 'Krypton', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_203', display: '氙气 (xiānqì)', input: 'xiānqì', meaning: 'Xenon', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
+- { id: 'zh_nature_204', display: '氡气 (dōngqì)', input: 'dōngqì', meaning: 'Radon', level: '4', category: 'nature', source: '[[nature-vocabulary]]' }
 ```

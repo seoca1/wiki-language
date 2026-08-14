@@ -229,26 +229,27 @@ theme: "dating"
 
 > Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: zh_dating_001, display: "相亲 (xiāngqīn)", input: "xiangqin", meaning: "blind date", level: "3", category: "dating", source: "[[dating]]" }
-- { id: zh_dating_002, display: "网恋 (wǎngliàn)", input: "wangliuan", meaning: "online dating", level: "3", category: "dating", source: "[[dating]]" }
-- { id: zh_dating_003, display: "异地恋 (yìdìliàn)", input: "yidilian", meaning: "long-distance relationship", level: "3", category: "dating", source: "[[dating]]" }
-- { id: zh_dating_004, display: "闪婚 (shǎnhūn)", input: "shanhun", meaning: "flash marriage", level: "4", category: "dating", source: "[[dating]]" }
-- { id: zh_dating_005, display: "裸婚 (luǒhūn)", input: "luohun", meaning: "naked marriage", level: "4", category: "dating", source: "[[dating]]" }
-- { id: zh_dating_006, display: "彩礼 (cǎilǐ)", input: "caili", meaning: "bride price", level: "4", category: "dating", source: "[[dating]]" }
-- { id: zh_dating_007, display: "表白 (biǎobái)", input: "biaobai", meaning: "confession", level: "3", category: "dating", source: "[[dating]]" }
-- { id: zh_dating_008, display: "确立关系 (quèlì guānxì)", input: "queliguanxi", meaning: "make it official", level: "3", category: "dating", source: "[[dating]]" }
-- { id: zh_dating_009, display: "见父母 (jiàn fùmǔ)", input: "jianfumu", meaning: "meet parents", level: "3", category: "dating", source: "[[dating]]" }
-- { id: zh_dating_010, display: "领证 (lǐngzhèng)", input: "lingzheng", meaning: "register marriage", level: "3", category: "dating", source: "[[dating]]" }
-- { id: zh_dating_011, display: "办酒席 (bàn jiǔxí)", input: "banjiuxi", meaning: "wedding banquet", level: "4", category: "dating", source: "[[dating]]" }
-- { id: zh_dating_012, display: "520 (wǔ èr líng)", input: "wuerling", meaning: "520 (I love you)", level: "3", category: "dating", source: "[[dating]]" }
-- { id: zh_dating_013, display: "七夕 (qīxī)", input: "qixi", meaning: "Chinese Valentine's Day", level: "3", category: "dating", source: "[[dating]]" }
-- { id: zh_dating_014, display: "冷暴力 (lěngbàolì)", input: "lengbaoli", meaning: "cold violence", level: "4", category: "dating", source: "[[dating]]" }
-- { id: zh_dating_015, display: "出轨 (chūguǐ)", input: "chugui", meaning: "cheating", level: "3", category: "dating", source: "[[dating]]" }
-- { id: zh_dating_016, display: "净身出户 (jìngshēn chūhù)", input: "jingshenchuhu", meaning: "leave with nothing", level: "5", category: "dating", source: "[[dating]]" }
-- { id: zh_dating_017, display: "妈宝男 (mābǎonán)", input: "mabaonan", meaning: "mama's boy", level: "4", category: "dating", source: "[[dating]]" }
-- { id: zh_dating_018, display: "海王 (hǎiwáng)", input: "haiwang", meaning: "player (many fish in pond)", level: "4", category: "dating", source: "[[dating]]" }
-- { id: zh_dating_019, display: "备胎 (bèitāi)", input: "beitai", meaning: "backup option", level: "4", category: "dating", source: "[[dating]]" }
-- { id: zh_dating_020, display: "避雷 (bìléi)", input: "bilei", meaning: "avoid red flags", level: "4", category: "dating", source: "[[dating]]" }
+- { id: 'zh_dating_001', display: '相亲', input: '相亲', meaning: '', level: 'HSK 2-4', category: 'dating', source: '[[dating-romance-zh]]' }
+- { id: 'zh_dating_002', display: '网恋', input: '网恋', meaning: '', level: 'HSK 2-4', category: 'dating', source: '[[dating-romance-zh]]' }
+- { id: 'zh_dating_003', display: '异地恋', input: '异地恋', meaning: '', level: 'HSK 2-4', category: 'dating', source: '[[dating-romance-zh]]' }
+- { id: 'zh_dating_004', display: '闪婚', input: '闪婚', meaning: '', level: 'HSK 2-4', category: 'dating', source: '[[dating-romance-zh]]' }
+- { id: 'zh_dating_005', display: '裸婚', input: '裸婚', meaning: '', level: 'HSK 2-4', category: 'dating', source: '[[dating-romance-zh]]' }
+- { id: 'zh_dating_006', display: '彩礼', input: '彩礼', meaning: '', level: 'HSK 2-4', category: 'dating', source: '[[dating-romance-zh]]' }
+- { id: 'zh_dating_007', display: '表白', input: '表白', meaning: '', level: 'HSK 2-4', category: 'dating', source: '[[dating-romance-zh]]' }
+- { id: 'zh_dating_008', display: '确立关系', input: '确立关系', meaning: '', level: 'HSK 2-4', category: 'dating', source: '[[dating-romance-zh]]' }
+- { id: 'zh_dating_009', display: '见父母', input: '见父母', meaning: '', level: 'HSK 2-4', category: 'dating', source: '[[dating-romance-zh]]' }
+- { id: 'zh_dating_010', display: '领证', input: '领证', meaning: '', level: 'HSK 2-4', category: 'dating', source: '[[dating-romance-zh]]' }
+- { id: 'zh_dating_011', display: '办酒席', input: '办酒席', meaning: '', level: 'HSK 2-4', category: 'dating', source: '[[dating-romance-zh]]' }
+- { id: 'zh_dating_012', display: '520', input: '520', meaning: '', level: 'HSK 2-4', category: 'dating', source: '[[dating-romance-zh]]' }
+- { id: 'zh_dating_013', display: '七夕', input: '七夕', meaning: '', level: 'HSK 2-4', category: 'dating', source: '[[dating-romance-zh]]' }
+- { id: 'zh_dating_014', display: '冷暴力', input: '冷暴力', meaning: '', level: 'HSK 2-4', category: 'dating', source: '[[dating-romance-zh]]' }
+- { id: 'zh_dating_015', display: '出轨', input: '出轨', meaning: '', level: 'HSK 2-4', category: 'dating', source: '[[dating-romance-zh]]' }
+- { id: 'zh_dating_016', display: '净身出户', input: '净身出户', meaning: '', level: 'HSK 2-4', category: 'dating', source: '[[dating-romance-zh]]' }
+- { id: 'zh_dating_017', display: '妈宝男', input: '妈宝男', meaning: '', level: 'HSK 2-4', category: 'dating', source: '[[dating-romance-zh]]' }
+- { id: 'zh_dating_018', display: '海王', input: '海王', meaning: '', level: 'HSK 2-4', category: 'dating', source: '[[dating-romance-zh]]' }
+- { id: 'zh_dating_019', display: '备胎', input: '备胎', meaning: '', level: 'HSK 2-4', category: 'dating', source: '[[dating-romance-zh]]' }
+- { id: 'zh_dating_020', display: '避雷', input: '避雷', meaning: '', level: 'HSK 2-4', category: 'dating', source: '[[dating-romance-zh]]' }
 ```

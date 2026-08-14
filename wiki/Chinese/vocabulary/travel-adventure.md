@@ -282,15 +282,59 @@ theme: "travel"
 
 ## Pipeline Form (machine-readable)
 
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
+
 ```yaml
-- { id: zh_travel_001, display: "飞机 (fēijī)", input: "fēijī", meaning: "airplane", level: "1", category: "travel", source: "[[travel-adventure]]" }
-- { id: zh_travel_002, display: "高铁 (gāotiě)", input: "gāotiě", meaning: "high-speed rail", level: "2", category: "travel", source: "[[travel-adventure]]" }
-- { id: zh_travel_003, display: "酒店 (jiǔdiàn)", input: "jiǔdiàn", meaning: "hotel", level: "2", category: "travel", source: "[[travel-adventure]]" }
-- { id: zh_travel_004, display: "门票 (ménpiào)", input: "ménpiào", meaning: "ticket", level: "2", category: "travel", source: "[[travel-adventure]]" }
-- { id: zh_travel_005, display: "登山 (dēngshān)", input: "dēngshān", meaning: "mountain climbing", level: "2", category: "travel", source: "[[travel-adventure]]" }
-- { id: zh_travel_006, display: "露营 (lùyíng)", input: "lùyíng", meaning: "camping", level: "3", category: "travel", source: "[[travel-adventure]]" }
-- { id: zh_travel_007, display: "护照 (hùzhào)", input: "hùzhào", meaning: "passport", level: "3", category: "travel", source: "[[travel-adventure]]" }
-- { id: zh_travel_008, display: "签证 (qiānzhèng)", input: "qiānzhèng", meaning: "visa", level: "3", category: "travel", source: "[[travel-adventure]]" }
-- { id: zh_travel_009, display: "自由行 (zìyóuxíng)", input: "zìyóuxíng", meaning: "independent travel", level: "3", category: "travel", source: "[[travel-adventure]]" }
-- { id: zh_travel_010, display: "探险 (tànxiǎn)", input: "tànxiǎn", meaning: "adventure", level: "3", category: "travel", source: "[[travel-adventure]]" }
+- { id: 'zh_travel_001', display: '飞机 (fēijī)', input: 'fēijī', meaning: 'Airplane', level: '1', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_002', display: '火车 (huǒchē)', input: 'huǒchē', meaning: 'Train', level: '1', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_003', display: '高铁 (gāotiě)', input: 'gāotiě', meaning: 'High-speed rail', level: '2', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_004', display: '地铁 (dìtiě)', input: 'dìtiě', meaning: 'Subway', level: '1', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_005', display: '公交 (gōngjiāo)', input: 'gōngjiāo', meaning: 'Bus', level: '1', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_006', display: '出租车 (chūzūchē)', input: 'chūzūchē', meaning: 'Taxi', level: '2', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_007', display: '轮船 (lúnchuán)', input: 'lúnchuán', meaning: 'Ship', level: '3', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_008', display: '自驾 (zìjià)', input: 'zìjià', meaning: 'Self-drive', level: '3', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_009', display: '拼车 (pīnchē)', input: 'pīnchē', meaning: 'Carpool', level: '3', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_010', display: '共享单车 (gòngxiǎng dānchē)', input: 'gòngxiǎng dānchē', meaning: 'Shared bike', level: '4', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_011', display: '酒店 (jiǔdiàn)', input: 'jiǔdiàn', meaning: 'Hotel', level: '2', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_012', display: '民宿 (mínsù)', input: 'mínsù', meaning: 'Guesthouse', level: '3', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_013', display: '客栈 (kèzhàn)', input: 'kèzhàn', meaning: 'Inn', level: '3', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_014', display: '青旅 (qīnglǚ)', input: 'qīnglǚ', meaning: 'Hostel', level: '4', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_015', display: '预订 (yùdìng)', input: 'yùdìng', meaning: 'Reserve', level: '3', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_016', display: '入住 (rùzhù)', input: 'rùzhù', meaning: 'Check in', level: '3', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_017', display: '退房 (tuìfáng)', input: 'tuìfáng', meaning: 'Check out', level: '3', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_018', display: '单人间 (dānrénjiān)', input: 'dānrénjiān', meaning: 'Single room', level: '4', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_019', display: '双人间 (shuāngrénjiān)', input: 'shuāngrénjiān', meaning: 'Double room', level: '4', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_020', display: '房费 (fángfèi)', input: 'fángfèi', meaning: 'Room rate', level: '4', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_021', display: '景点 (jǐngdiǎn)', input: 'jǐngdiǎn', meaning: 'Attraction', level: '3', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_022', display: '门票 (ménpiào)', input: 'ménpiào', meaning: 'Ticket', level: '2', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_023', display: '导游 (dǎoyóu)', input: 'dǎoyóu', meaning: 'Tour guide', level: '3', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_024', display: '旅行团 (lǚxíngtuán)', input: 'lǚxíngtuán', meaning: 'Tour group', level: '3', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_025', display: '自由行 (zìyóuxíng)', input: 'zìyóuxíng', meaning: 'Independent travel', level: '3', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_026', display: '行程 (xíngchéng)', input: 'xíngchéng', meaning: 'Itinerary', level: '3', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_027', display: '地图 (dìtú)', input: 'dìtú', meaning: 'Map', level: '1', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_028', display: '攻略 (gōnglüè)', input: 'gōnglüè', meaning: 'Travel guide', level: '4', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_029', display: '网红打卡 (wǎnghóng dǎkǎ)', input: 'wǎnghóng dǎkǎ', meaning: 'Instagram hotspot', level: '4', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_030', display: '文化遗产 (wénhuà yíchǎn)', input: 'wénhuà yíchǎn', meaning: 'Cultural heritage', level: '5', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_031', display: '登山 (dēngshān)', input: 'dēngshān', meaning: 'Mountain climbing', level: '2', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_032', display: '徒步 (túbù)', input: 'túbù', meaning: 'Hiking', level: '3', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_033', display: '露营 (lùyíng)', input: 'lùyíng', meaning: 'Camping', level: '3', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_034', display: '帐篷 (zhàngpéng)', input: 'zhàngpéng', meaning: 'Tent', level: '3', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_035', display: '背包 (bèibāo)', input: 'bèibāo', meaning: 'Backpack', level: '2', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_036', display: '徒步鞋 (túbùxié)', input: 'túbùxié', meaning: 'Hiking boots', level: '4', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_037', display: '指南针 (zhǐnánzhēn)', input: 'zhǐnánzhēn', meaning: 'Compass', level: '4', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_038', display: '探险 (tànxiǎn)', input: 'tànxiǎn', meaning: 'Adventure/explore', level: '3', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_039', display: '漂流 (piāoliú)', input: 'piāoliú', meaning: 'Rafting', level: '4', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_040', display: '攀岩 (pānyán)', input: 'pānyán', meaning: 'Rock climbing', level: '4', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_041', display: '紧急 (jǐnjí)', input: 'jǐnjí', meaning: 'Emergency', level: '3', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_042', display: '报警 (bàojǐng)', input: 'bàojǐng', meaning: 'Call police', level: '3', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_043', display: '救护车 (jiùhùchē)', input: 'jiùhùchē', meaning: 'Ambulance', level: '3', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_044', display: '医院 (yīyuàn)', input: 'yīyuàn', meaning: 'Hospital', level: '2', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_045', display: '护照 (hùzhào)', input: 'hùzhào', meaning: 'Passport', level: '3', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_046', display: '签证 (qiānzhèng)', input: 'qiānzhèng', meaning: 'Visa', level: '3', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_047', display: '保险 (bǎoxiǎn)', input: 'bǎoxiǎn', meaning: 'Insurance', level: '3', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_048', display: '迷路 (mílù)', input: 'mílù', meaning: 'Lost', level: '3', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_049', display: '翻译 (fānyì)', input: 'fānyì', meaning: 'Translation', level: '3', category: 'travel', source: '[[travel-adventure-zh]]' }
+- { id: 'zh_travel_050', display: '使馆 (shǐguǎn)', input: 'shǐguǎn', meaning: 'Embassy', level: '4', category: 'travel', source: '[[travel-adventure-zh]]' }
 ```

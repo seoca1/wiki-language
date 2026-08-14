@@ -1,3 +1,10 @@
+---
+title: "food-dining (Chinese) expressions"
+language: "Chinese"
+category: "food-dining"
+level: "A1-B2"
+---
+
 # Expressions: Food & Dining (zh-CN)
 
 > **Theme:** Food & Restaurant
@@ -393,3 +400,21 @@ B: 好的 (Hǎo de) — "OK"
 - [[greetings-zh]]
 - `[Chinese/sources/pinyin-basics-zh]`
 - `[Chinese/vocabulary/measure-words-zh]`
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'zh_food_dining_001', display: '菜单', input: '菜单', meaning: '"Menu" — 식당 메뉴판.', level: 'A1-B2', category: 'food-dining', source: '[[food-dining]]' }
+- { id: 'zh_food_dining_002', display: '我要这个', input: '我要这个', meaning: '"I want this" — 메뉴판/사진 가리키며 주문.', level: 'A1-B2', category: 'food-dining', source: '[[food-dining]]' }
+- { id: 'zh_food_dining_003', display: '不要辣', input: '不要辣', meaning: '"Not spicy" — 매운 정도 조절.', level: 'A1-B2', category: 'food-dining', source: '[[food-dining]]' }
+- { id: 'zh_food_dining_004', display: '我吃素', input: '我吃素', meaning: '"I''m vegetarian" — 채식주의자.', level: 'A1-B2', category: 'food-dining', source: '[[food-dining]]' }
+- { id: 'zh_food_dining_005', display: '买单', input: '买单', meaning: '"Check, please" — 계산 요청.', level: 'A1-B2', category: 'food-dining', source: '[[food-dining]]' }
+- { id: 'zh_food_dining_006', display: '好吃', input: '好吃', meaning: '"Delicious" — 맛있음.', level: 'A1-B2', category: 'food-dining', source: '[[food-dining]]' }
+- { id: 'zh_food_dining_007', display: '我不喝酒', input: '我不喝酒', meaning: '"I don''t drink alcohol" — 음주 거절.', level: 'A1-B2', category: 'food-dining', source: '[[food-dining]]' }
+- { id: 'zh_food_dining_008', display: '我吃素, 不要肉', input: '我吃素, 不要肉', meaning: '"I''m vegetarian, no meat" — 명확한 식단 요구.', level: 'A1-B2', category: 'food-dining', source: '[[food-dining]]' }
+- { id: 'zh_food_dining_009', display: '打包', input: '打包', meaning: '"Take away / Wrap up" — 음식 포장.', level: 'A1-B2', category: 'food-dining', source: '[[food-dining]]' }
+```

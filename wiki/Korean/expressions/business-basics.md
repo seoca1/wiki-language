@@ -1,3 +1,10 @@
+---
+title: "business-basics (Korean) expressions"
+language: "Korean"
+category: "business-basics"
+level: "B1-C1"
+---
+
 # Expressions: Business Basics (한국어)
 
 > **Theme:** Business & Professional
@@ -444,3 +451,23 @@ Korean business communication — greetings, email/meeting phrases, negotiations
 - `[Korean/vocabulary/topik1-starter]`
 - `[[Language/wiki/comparative/business-email]]`
 - `[[Language/wiki/comparative/politeness-honorifics]]`
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'kr_business_basics_001', display: '안녕하세요', input: '안녕하세요', meaning: '', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'kr_business_basics_002', display: '감사합니다', input: '감사합니다', meaning: '', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'kr_business_basics_003', display: '죄송합니다', input: '죄송합니다', meaning: '', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'kr_business_basics_004', display: '잘 부탁드립니다', input: '잘 부탁드립니다', meaning: '"Please take care of me" — 가장 격식 있는 인사와 부탁.', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'kr_business_basics_005', display: '수고하셨습니다', input: '수고하셨습니다', meaning: '"Thank you for your hard work" — 직장/동료 표준 인사.', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'kr_business_basics_006', display: '검토하겠습니다', input: '검토하겠습니다', meaning: '"I''ll review/consider it" — 부드러운 보류.', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'kr_business_basics_007', display: '알겠습니다', input: '알겠습니다', meaning: '"Understood" — 정중한 동의/수락.', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'kr_business_basics_008', display: '죄송하지만', input: '죄송하지만', meaning: '"I''m sorry but..." — 부드러운 거절/중단 표현.', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'kr_business_basics_009', display: '확인 부탁드립니다', input: '확인 부탁드립니다', meaning: '"Please confirm" — 비즈니스 확인 요청.', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'kr_business_basics_010', display: '연락 드리겠습니다', input: '연락 드리겠습니다', meaning: '"I''ll contact you" — 후속 연락 약속.', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'kr_business_basics_011', display: '업무 단어 & 표현 (Business terms & expressions)', input: 'Business terms & expressions', meaning: '"You''ve worked hard." — 직장/학교/서비스에서 마주칠 때 정중한 인사/인정 표현.', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+```

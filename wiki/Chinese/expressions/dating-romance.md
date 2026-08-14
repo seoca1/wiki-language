@@ -1,3 +1,10 @@
+---
+title: "dating-romance (Chinese) expressions"
+language: "Chinese"
+category: "dating-romance"
+level: "A2-B2"
+---
+
 # Expressions: Dating & Romance (zh-CN)
 
 > **Theme:** Romance & Relationships
@@ -456,3 +463,24 @@ Chinese dating culture expressions — confessions, terms of endearment, relatio
 - `[Chinese/sources/pinyin-basics-zh]`
 - `[Chinese/vocabulary/family-zh]`
 - `[[../../comparative/dating-romance]]`
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'zh_dating_romance_001', display: '我喜欢你', input: '我喜欢你', meaning: '"I like you" — 직접적 호감 표현.', level: 'A2-B2 (idioms)', category: 'dating-romance', source: '[[dating-romance]]' }
+- { id: 'zh_dating_romance_002', display: '愿意做我女朋友吗', input: '愿意做我女朋友吗', meaning: '"Will you be my girlfriend?" — 연인 관계 요청.', level: 'A2-B2 (idioms)', category: 'dating-romance', source: '[[dating-romance]]' }
+- { id: 'zh_dating_romance_003', display: '我也喜欢你', input: '我也喜欢你', meaning: '"I like you too" — 호감 표현 받음.', level: 'A2-B2 (idioms)', category: 'dating-romance', source: '[[dating-romance]]' }
+- { id: 'zh_dating_romance_004', display: '宝贝', input: '宝贝', meaning: '"Baby" — 가장 흔한 애칭.', level: 'A2-B2 (idioms)', category: 'dating-romance', source: '[[dating-romance]]' }
+- { id: 'zh_dating_romance_005', display: '我想你', input: '我想你', meaning: '"I miss you" — 그리움 표현.', level: 'A2-B2 (idioms)', category: 'dating-romance', source: '[[dating-romance]]' }
+- { id: 'zh_dating_romance_006', display: '晚安', input: '晚安', meaning: '"Good night" — 자기 전 인사.', level: 'A2-B2 (idioms)', category: 'dating-romance', source: '[[dating-romance]]' }
+- { id: 'zh_dating_romance_007', display: '我爱你', input: '我爱你', meaning: '"I love you" — 깊은 사랑/애정의 표현.', level: 'A2-B2 (idioms)', category: 'dating-romance', source: '[[dating-romance]]' }
+- { id: 'zh_dating_romance_008', display: '分手吧', input: '分手吧', meaning: '"Let''s break up" — 이별 통보.', level: 'A2-B2 (idioms)', category: 'dating-romance', source: '[[dating-romance]]' }
+- { id: 'zh_dating_romance_009', display: '你是我的一切', input: '你是我的一切', meaning: '"You are my everything" — 깊은 사랑 표현.', level: 'A2-B2 (idioms)', category: 'dating-romance', source: '[[dating-romance]]' }
+- { id: 'zh_dating_romance_010', display: '亲爱的', input: '亲爱的', meaning: '"Dear/Darling" — 문자/편지/친근한 부름.', level: 'A2-B2 (idioms)', category: 'dating-romance', source: '[[dating-romance]]' }
+- { id: 'zh_dating_romance_011', display: '缘分', input: '缘分', meaning: '"Fate/Destiny " — 인연, 만남의 운명.', level: 'A2-B2 (idioms)', category: 'dating-romance', source: '[[dating-romance]]' }
+- { id: 'zh_dating_romance_012', display: '相亲', input: '相亲', meaning: '"Blind date / Marriage matchmaking" — 부모/중매인이 주선한 만남.', level: 'A2-B2 (idioms)', category: 'dating-romance', source: '[[dating-romance]]' }
+```

@@ -1,3 +1,10 @@
+---
+title: "modismos-refranes (Spanish) expressions"
+language: "Spanish"
+category: "modismos-refranes"
+level: "B2-C2"
+---
+
 # Expresiones: Modismos y Refranes (Español)
 
 > **Tema:** Modismos y Refranes
@@ -171,3 +178,20 @@ Recomendar enfoque.
 
 - `[[cultural-idioms]]` — Modismos culturales
 - `[[Language/wiki/comparative/idioms-proverbs]]` — Comparativa 5 idiomas
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'es_modismos_refranes_001', display: 'Matar dos pájaros de un tiro', input: 'Matar dos pájaros de un tiro', meaning: '"Matar dos pájaros de un tiro" — lograr dos objetivos con una acción.', level: 'A1', category: 'modismos-refranes', source: '[[modismos-refranes]]' }
+- { id: 'es_modismos_refranes_002', display: 'No cuentes los pollos antes de que nazcan', input: 'No cuentes los pollos antes de que nazcan', meaning: '"No cuentes los pollos antes de que nazcan" — no des por seguro algo antes de que pase.', level: 'A1', category: 'modismos-refranes', source: '[[modismos-refranes]]' }
+- { id: 'es_modismos_refranes_003', display: 'Más vale prevenir que curar', input: 'Más vale prevenir que curar', meaning: '"Más vale prevenir que curar" — mejor prevenir que remediar.', level: 'A1', category: 'modismos-refranes', source: '[[modismos-refranes]]' }
+- { id: 'es_modismos_refranes_004', display: 'No es oro todo lo que reluce', input: 'No es oro todo lo que reluce', meaning: '"No es oro todo lo que reluce" — apariencia engañosa.', level: 'A1', category: 'modismos-refranes', source: '[[modismos-refranes]]' }
+- { id: 'es_modismos_refranes_005', display: 'A quien madruga, Dios le ayuda', input: 'A quien madruga, Dios le ayuda', meaning: '"A quien madruga, Dios le ayuda" — el que se levanta temprano tiene ventaja.', level: 'A1', category: 'modismos-refranes', source: '[[modismos-refranes]]' }
+- { id: 'es_modismos_refranes_006', display: 'Perro que ladra no muerde', input: 'Perro que ladra no muerde', meaning: '"Perro que ladra no muerde" — el que amenaza no actúa.', level: 'A1', category: 'modismos-refranes', source: '[[modismos-refranes]]' }
+- { id: 'es_modismos_refranes_007', display: 'En boca cerrada no entran moscas', input: 'En boca cerrada no entran moscas', meaning: '"En boca cerrada no entran moscas" — callar evita problemas.', level: 'A1', category: 'modismos-refranes', source: '[[modismos-refranes]]' }
+- { id: 'es_modismos_refranes_008', display: 'El que mucho abarca, poco aprieta', input: 'El que mucho abarca, poco aprieta', meaning: '"El que mucho abarca, poco aprieta" — quien intenta todo, logra poco.', level: 'A1', category: 'modismos-refranes', source: '[[modismos-refranes]]' }
+```

@@ -1,3 +1,10 @@
+---
+title: "dating-romance (English) expressions"
+language: "English"
+category: "dating-romance"
+level: "A1-B2"
+---
+
 # Expressions: Dating & Romance
 
 > **Theme:** Dating & Romance
@@ -387,3 +394,20 @@ wonder.
 - 10 Things I Hate About You (1999) — "Deal?"
 
 ---
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'en_dating_romance_001', display: 'be-my-girlfriend', input: 'be-my-girlfriend', meaning: '"내 여자친구 돼줘" — Formal proposal for exclusive relationship.', level: 'A1-B2 (idioms)', category: 'dating-romance', source: '[[dating-romance]]' }
+- { id: 'en_dating_romance_002', display: 'i-love-you', input: 'i-love-you', meaning: '"사랑해" — Deep romantic confession. Most weighted phrase in English romance.', level: 'A1-B2 (idioms)', category: 'dating-romance', source: '[[dating-romance]]' }
+- { id: 'en_dating_romance_003', display: 'really-like-you', input: 'really-like-you', meaning: '"난 정말 너를 좋아해" — Strong but not full confession.', level: 'A1-B2 (idioms)', category: 'dating-romance', source: '[[dating-romance]]' }
+- { id: 'en_dating_romance_004', display: 'want-coffee', input: 'want-coffee', meaning: '"커피 한 잔 할래요?" — Common low-pressure date invitation.', level: 'A1-B2 (idioms)', category: 'dating-romance', source: '[[dating-romance]]' }
+- { id: 'en_dating_romance_005', display: 'hold-your-hand', input: 'hold-your-hand', meaning: '"손 잡아도 돼?" — Consent request for first physical affection.', level: 'A1-B2 (idioms)', category: 'dating-romance', source: '[[dating-romance]]' }
+- { id: 'en_dating_romance_006', display: 'stay-friends', input: 'stay-friends', meaning: '"친구로 지내자" — Polite but potentially painful decline.', level: 'A1-B2 (idioms)', category: 'dating-romance', source: '[[dating-romance]]' }
+- { id: 'en_dating_romance_007', display: 'had-a-great-time', input: 'had-a-great-time', meaning: '"정말 즐거웠어" — Standard post-date appreciation phrase.', level: 'A1-B2 (idioms)', category: 'dating-romance', source: '[[dating-romance]]' }
+- { id: 'en_dating_romance_008', display: 'see-you-again', input: 'see-you-again', meaning: '"또 만나자" — Direct expression of wanting to meet again.', level: 'A1-B2 (idioms)', category: 'dating-romance', source: '[[dating-romance]]' }
+```

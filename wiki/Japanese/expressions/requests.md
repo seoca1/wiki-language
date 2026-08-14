@@ -337,19 +337,19 @@ The potential form (できる) and でしょうか softening convert a direct as
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/jp_words.md`).
-> Schema reference: `wiki/pipeline-to-game.md` L33-39.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: req_001, display: "〜てもらえますか", input: "~te moraemasu ka", meaning: "~해 주실 수 있나요 (정중한 부탁)", level: "A2", category: "requests", source: "[[requests]]" }
-- { id: req_002, display: "〜てください", input: "~te kudasai", meaning: "~해 주세요 (기본 정중 부탁)", level: "A2", category: "requests", source: "[[requests]]" }
-- { id: req_003, display: "〜ていただけますか", input: "~te itadakemasu ka", meaning: "~해 주실 수 있을까요 (공손)", level: "B1", category: "requests", source: "[[requests]]" }
-- { id: req_004, display: "〜ていただけますでしょうか", input: "~te itadakemasu deshou ka", meaning: "~해 주실 수 있을까요 (격식 비즈니스)", level: "B1", category: "requests", source: "[[requests]]" }
-- { id: req_005, display: "お願いしてもいいですか", input: "onegai shite mo ii desu ka", meaning: "부탁해도 될까요", level: "A2", category: "requests", source: "[[requests]]" }
-- { id: req_006, display: "ご都合はいかがでしょうか", input: "go-tsugou wa ikaga deshou ka", meaning: "괜찮으신가요 (시간/상황)", level: "B1", category: "requests", source: "[[requests]]" }
-- { id: req_007, display: "お時間よろしいですか", input: "o-jikan yoroshii desu ka", meaning: "시간 괜찮으세요?", level: "A2", category: "requests", source: "[[requests]]" }
-- { id: req_008, display: "〜いただければ幸いです", input: "~itadakereba saiwai desu", meaning: "~해 주시면 감사하겠습니다", level: "B2", category: "requests", source: "[[requests]]" }
-- { id: req_009, display: "〜いただければ幸いに存じます", input: "~itadakereba saiwai ni zonjimasu", meaning: "~해 주시면 다행이겠습니다 (최고 격식)", level: "B2", category: "requests", source: "[[requests]]" }
-- { id: req_010, display: "お願いできますでしょうか", input: "onegai dekimasu deshou ka", meaning: "부탁드려도 될까요 (격식)", level: "B1", category: "requests", source: "[[requests]]" }
+- { id: 'jp_requests_001', display: '〜てもらえますか', input: '〜てもらえますか', meaning: '~해 주실 수 있나요 (정중한 부탁)', level: 'A2', category: 'requests', source: '[[requests]]' }
+- { id: 'jp_requests_002', display: '〜てください', input: '〜てください', meaning: '~해 주세요 (기본 정중 부탁)', level: 'A2', category: 'requests', source: '[[requests]]' }
+- { id: 'jp_requests_003', display: '〜ていただけますか', input: '〜ていただけますか', meaning: '~해 주실 수 있을까요 (공손)', level: 'B1', category: 'requests', source: '[[requests]]' }
+- { id: 'jp_requests_004', display: '〜ていただけますでしょうか', input: '〜ていただけますでしょうか', meaning: '~해 주실 수 있을까요 (격식 비즈니스)', level: 'B1', category: 'requests', source: '[[requests]]' }
+- { id: 'jp_requests_005', display: 'お願いしてもいいですか', input: 'お願いしてもいいですか', meaning: '부탁해도 될까요', level: 'A2', category: 'requests', source: '[[requests]]' }
+- { id: 'jp_requests_006', display: 'ご都合はいかがでしょうか', input: 'ご都合はいかがでしょうか', meaning: '괜찮으신가요 (시간/상황)', level: 'B1', category: 'requests', source: '[[requests]]' }
+- { id: 'jp_requests_007', display: 'お時間よろしいですか', input: 'お時間よろしいですか', meaning: '시간 괜찮으세요?', level: 'A2', category: 'requests', source: '[[requests]]' }
+- { id: 'jp_requests_008', display: '〜いただければ幸いです', input: '〜いただければ幸いです', meaning: '~해 주시면 감사하겠습니다', level: 'B2', category: 'requests', source: '[[requests]]' }
+- { id: 'jp_requests_009', display: '〜いただければ幸いに存じます', input: '〜いただければ幸いに存じます', meaning: '~해 주시면 다행이겠습니다 (최고 격식)', level: 'B2', category: 'requests', source: '[[requests]]' }
+- { id: 'jp_requests_010', display: 'お願いできますでしょうか', input: 'お願いできますでしょうか', meaning: '부탁드려도 될까요 (격식)', level: 'B1', category: 'requests', source: '[[requests]]' }
 ```

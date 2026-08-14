@@ -1,3 +1,10 @@
+---
+title: "idioms-proverbs (Chinese) expressions"
+language: "Chinese"
+category: "idioms-proverbs"
+level: "B2-C2"
+---
+
 # Expressions: Idioms & Proverbs (zh-CN)
 
 > **Theme:** Idioms & Proverbs
@@ -182,3 +189,20 @@
 
 - `[[quotes-zh]]`
 - `[[Language/wiki/comparative/idioms-proverbs]]`
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'zh_idioms_proverbs_001', display: '一石二鸟', input: '一石二鸟', meaning: '"Kill two birds with one stone" — 일석이조.', level: 'B2-C2', category: 'idioms-proverbs', source: '[[idioms-proverbs]]' }
+- { id: 'zh_idioms_proverbs_002', display: '画蛇添足', input: '画蛇添足', meaning: '"Draw legs on a snake " — 군더더기.', level: 'B2-C2', category: 'idioms-proverbs', source: '[[idioms-proverbs]]' }
+- { id: 'zh_idioms_proverbs_003', display: '对牛弹琴', input: '对牛弹琴', meaning: '"Play the lute to a cow" — 소 몰고 난타.', level: 'B2-C2', category: 'idioms-proverbs', source: '[[idioms-proverbs]]' }
+- { id: 'zh_idioms_proverbs_004', display: '守株待兔', input: '守株待兔', meaning: '"Wait by a tree stump for a rabbit" — 소 잃고 외양간.', level: 'B2-C2', category: 'idioms-proverbs', source: '[[idioms-proverbs]]' }
+- { id: 'zh_idioms_proverbs_005', display: '失败是成功之母', input: '失败是成功之母', meaning: '"Failure is the mother of success" — 실패는 성공의 어머니.', level: 'B2-C2', category: 'idioms-proverbs', source: '[[idioms-proverbs]]' }
+- { id: 'zh_idioms_proverbs_006', display: '千里之行始于足下', input: '千里之行始于足下', meaning: '"A journey of a thousand miles begins with a single step" — 천리 길도 한 걸음부터.', level: 'B2-C2', category: 'idioms-proverbs', source: '[[idioms-proverbs]]' }
+- { id: 'zh_idioms_proverbs_007', display: '一寸光阴一寸金', input: '一寸光阴一寸金', meaning: '"An inch of time is an inch of gold" — 시간은 금.', level: 'B2-C2', category: 'idioms-proverbs', source: '[[idioms-proverbs]]' }
+- { id: 'zh_idioms_proverbs_008', display: '路遥知马力', input: '路遥知马力', meaning: '"Distance tests a horse''s strength" — 말은 길어서 능력을 안다.', level: 'B2-C2', category: 'idioms-proverbs', source: '[[idioms-proverbs]]' }
+```

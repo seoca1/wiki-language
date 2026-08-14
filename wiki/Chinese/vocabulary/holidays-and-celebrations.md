@@ -997,15 +997,154 @@ theme: "holidays"
 
 ## Pipeline Form (machine-readable)
 
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
+
 ```yaml
-- { id: zh_holiday_001, display: "春节 (chūnjié)", input: "chūnjié", meaning: "Spring Festival", level: "2", category: "holidays", source: "[[holidays-and-celebrations]]" }
-- { id: zh_holiday_002, display: "元宵节 (yuánxiāo jié)", input: "yuánxiāojié", meaning: "Lantern Festival", level: "3", category: "holidays", source: "[[holidays-and-celebrations]]" }
-- { id: zh_holiday_003, display: "清明节 (qīngmíng jié)", input: "qīngmíngjié", meaning: "Qingming Festival", level: "3", category: "holidays", source: "[[holidays-and-celebrations]]" }
-- { id: zh_holiday_004, display: "端午节 (duānwǔ jié)", input: "duānwǔjié", meaning: "Dragon Boat Festival", level: "3", category: "holidays", source: "[[holidays-and-celebrations]]" }
-- { id: zh_holiday_005, display: "七夕 (qīxī)", input: "qīxī", meaning: "Qixi Festival", level: "3", category: "holidays", source: "[[holidays-and-celebrations]]" }
-- { id: zh_holiday_006, display: "中秋节 (zhōngqiū jié)", input: "zhōngqiūjié", meaning: "Mid-Autumn Festival", level: "3", category: "holidays", source: "[[holidays-and-celebrations]]" }
-- { id: zh_holiday_007, display: "重阳节 (chóngyáng jié)", input: "chóngyángjié", meaning: "Double Ninth Festival", level: "3", category: "holidays", source: "[[holidays-and-celebrations]]" }
-- { id: zh_holiday_008, display: "国庆节 (guóqìng jié)", input: "guóqìngjié", meaning: "National Day", level: "2", category: "holidays", source: "[[holidays-and-celebrations]]" }
-- { id: zh_holiday_009, display: "红包 (hóngbāo)", input: "hóngbāo", meaning: "red envelope", level: "2", category: "holidays", source: "[[holidays-and-celebrations]]" }
-- { id: zh_holiday_010, display: "月饼 (yuèbǐng)", input: "yuèbǐng", meaning: "mooncake", level: "2", category: "holidays", source: "[[holidays-and-celebrations]]" }
+- { id: 'zh_holidays_001', display: '春节 (chūnjié)', input: 'chūnjié', meaning: 'Spring Festival', level: '2', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_002', display: '元宵节 (yuánxiāo jié)', input: 'yuánxiāo jié', meaning: 'Lantern Festival', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_003', display: '清明节 (qīngmíng jié)', input: 'qīngmíng jié', meaning: 'Qingming Festival', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_004', display: '端午节 (duānwǔ jié)', input: 'duānwǔ jié', meaning: 'Dragon Boat Festival', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_005', display: '七夕节 (qīxī jié)', input: 'qīxī jié', meaning: 'Qixi Festival', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_006', display: '中元节 (zhōngyuán jié)', input: 'zhōngyuán jié', meaning: 'Ghost Festival', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_007', display: '中秋节 (zhōngqiū jié)', input: 'zhōngqiū jié', meaning: 'Mid-Autumn Festival', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_008', display: '重阳节 (chóngyáng jié)', input: 'chóngyáng jié', meaning: 'Double Ninth Festival', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_009', display: '腊八节 (làbā jié)', input: 'làbā jié', meaning: 'Laba Festival', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_010', display: '小年 (xiǎonián)', input: 'xiǎonián', meaning: 'Little New Year', level: '2', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_011', display: '除夕 (chúxì)', input: 'chúxì', meaning: 'Lunar New Year''s Eve', level: '2', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_012', display: '元旦 (yuándàn)', input: 'yuándàn', meaning: 'New Year''s Day', level: '2', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_013', display: '劳动节 (láodòng jié)', input: 'láodòng jié', meaning: 'Labor Day', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_014', display: '国庆节 (guóqìng jié)', input: 'guóqìng jié', meaning: 'National Day', level: '2', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_015', display: '妇女节 (fùnǚ jié)', input: 'fùnǚ jié', meaning: 'Women''s Day', level: '2', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_016', display: '青年节 (qīngnián jié)', input: 'qīngnián jié', meaning: 'Youth Day', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_017', display: '儿童节 (értóng jié)', input: 'értóng jié', meaning: 'Children''s Day', level: '2', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_018', display: '教师节 (jiàoshī jié)', input: 'jiàoshī jié', meaning: 'Teacher''s Day', level: '2', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_019', display: '建党节 (jiàndǎng jié)', input: 'jiàndǎng jié', meaning: 'Party Founding Day', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_020', display: '建军节 (jiànjūn jié)', input: 'jiànjūn jié', meaning: 'Army Day', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_021', display: '抗战胜利纪念日 (kàngzhàn shènglì jìniànrì)', input: 'kàngzhàn shènglì jìniànrì', meaning: 'Victory of War Day', level: '5', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_022', display: '情人节 (qíngrén jié)', input: 'qíngrén jié', meaning: 'Valentine''s Day', level: '2', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_023', display: '白色情人节 (báisè qíngrén jié)', input: 'báisè qíngrén jié', meaning: 'White Day', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_024', display: '愚人节 (yúrén jié)', input: 'yúrén jié', meaning: 'April Fools'' Day', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_025', display: '万圣节 (wànshèng jié)', input: 'wànshèng jié', meaning: 'Halloween', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_026', display: '感恩节 (gǎn''ēn jié)', input: 'gǎn''ēn jié', meaning: 'Thanksgiving', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_027', display: '圣诞节 (shèngdàn jié)', input: 'shèngdàn jié', meaning: 'Christmas', level: '2', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_028', display: '母亲节 (mǔqīn jié)', input: 'mǔqīn jié', meaning: 'Mother''s Day', level: '2', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_029', display: '父亲节 (fùqīn jié)', input: 'fùqīn jié', meaning: 'Father''s Day', level: '2', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_030', display: '复活节 (fùhuó jié)', input: 'fùhuó jié', meaning: 'Easter', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_031', display: '万圣节前夜 (wànshèng jié qiányè)', input: 'wànshèng jié qiányè', meaning: 'Halloween Eve', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_032', display: '圣诞节夜 (shèngdàn jié yè)', input: 'shèngdàn jié yè', meaning: 'Christmas Eve', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_033', display: '平安夜 (píng''ān yè)', input: 'píng''ān yè', meaning: 'Christmas Eve (Silent Night)', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_034', display: '跨年夜 (kuàinián yè)', input: 'kuàinián yè', meaning: 'New Year''s Eve', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_035', display: '那达慕 (nàdámù)', input: 'nàdámù', meaning: '', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_036', display: '古尔邦节 (gǔ''ěrbāng jié)', input: 'gǔ''ěrbāng jié', meaning: '', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_037', display: '开斋节 (kāizhāi jié)', input: 'kāizhāi jié', meaning: '', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_038', display: '圣纪节 (shèngjì jié)', input: 'shèngjì jié', meaning: '', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_039', display: '泼水节 (pōshuǐ jié)', input: 'pōshuǐ jié', meaning: '', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_040', display: '雪顿节 (xuědùn jié)', input: 'xuědùn jié', meaning: '', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_041', display: '望果节 (wàngguǒ jié)', input: 'wàngguǒ jié', meaning: '', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_042', display: '三月三 (sānyuèsān)', input: 'sānyuèsān', meaning: '', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_043', display: '火把节 (huǒbǎ jié)', input: 'huǒbǎ jié', meaning: '', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_044', display: '苗年 (miáonián)', input: 'miáonián', meaning: '', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_045', display: '侗年 (dòngnián)', input: 'dòngnián', meaning: '', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_046', display: '傈僳年 (lìsùnián)', input: 'lìsùnián', meaning: '', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_047', display: '哈尼年 (hā''nínián)', input: 'hā''nínián', meaning: '', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_048', display: '拉祜年 (lāhùnián)', input: 'lāhùnián', meaning: '', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_049', display: '景颇年 (jǐngpōnián)', input: 'jǐngpōnián', meaning: '', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_050', display: '佤年 (wǎnián)', input: 'wǎnián', meaning: '', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_051', display: '彝年 (yínián)', input: 'yínián', meaning: '', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_052', display: '傣年 (dǎinián)', input: 'dǎinián', meaning: '', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_053', display: '黎年 (línián)', input: 'línián', meaning: '', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_054', display: '藏年 (zàngnián)', input: 'zàngnián', meaning: '', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_055', display: '蒙古年 (ménggǔnián)', input: 'ménggǔnián', meaning: '', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_056', display: '回族年 (huízúnián)', input: 'huízúnián', meaning: '', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_057', display: '满族年 (mǎnzúnián)', input: 'mǎnzúnián', meaning: '', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_058', display: '朝鲜族年 (cháoxiǎnzúnián)', input: 'cháoxiǎnzúnián', meaning: '', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_059', display: '达斡尔年 (dáwò''ěrnián)', input: 'dáwò''ěrnián', meaning: '', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_060', display: '鄂温克年 (èwēnkènián)', input: 'èwēnkènián', meaning: '', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_061', display: '鄂伦春年 (èlúnchūnnián)', input: 'èlúnchūnnián', meaning: '', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_062', display: '赫哲年 (hèzhénián)', input: 'hèzhénián', meaning: '', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_063', display: '锡伯年 (xībónián)', input: 'xībónián', meaning: '', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_064', display: '塔吉克年 (tǎjíkènián)', input: 'tǎjíkènián', meaning: '', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_065', display: '柯尔克孜年 (kē''ěrkèzīnián)', input: 'kē''ěrkèzīnián', meaning: '', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_066', display: '乌孜别克年 (wūzībiéckènián)', input: 'wūzībiéckènián', meaning: '', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_067', display: '塔塔尔年 (tǎtǎ''ěrnián)', input: 'tǎtǎ''ěrnián', meaning: '', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_068', display: '俄罗斯年 (éluósīnián)', input: 'éluósīnián', meaning: '', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_069', display: '裕固年 (yùgùnián)', input: 'yùgùnián', meaning: '', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_070', display: '保安年 (bǎo''ānnián)', input: 'bǎo''ānnián', meaning: '', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_071', display: '东乡年 (dōngxiāngnián)', input: 'dōngxiāngnián', meaning: '', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_072', display: '土族年 (tǔzúnián)', input: 'tǔzúnián', meaning: '', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_073', display: '撒拉年 (sǎlānián)', input: 'sǎlānián', meaning: '', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_074', display: '仡佬年 (gēlǎonián)', input: 'gēlǎonián', meaning: '', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_075', display: '毛南年 (máonánnián)', input: 'máonánnián', meaning: '', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_076', display: '仫佬年 (mùlǎonián)', input: 'mùlǎonián', meaning: '', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_077', display: '阿昌年 (āchāngnián)', input: 'āchāngnián', meaning: '', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_078', display: '普米年 (pǔmǐnián)', input: 'pǔmǐnián', meaning: '', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_079', display: '怒年 (nùnián)', input: 'nùnián', meaning: '', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_080', display: '独龙年 (dúlóngnián)', input: 'dúlóngnián', meaning: '', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_081', display: '门巴年 (ménbānián)', input: 'ménbānián', meaning: '', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_082', display: '珞巴年 (luòbānián)', input: 'luòbānián', meaning: '', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_083', display: '基诺年 (jīnuònián)', input: 'jīnuònián', meaning: '', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_084', display: '高山族年 (gāoshānzúnián)', input: 'gāoshānzúnián', meaning: '', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_085', display: '红包 (hóngbāo)', input: 'hóngbāo', meaning: 'Red envelope', level: '2', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_086', display: '春联 (chūnlián)', input: 'chūnlián', meaning: 'Spring couplet', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_087', display: '年糕 (niángāo)', input: 'niángāo', meaning: 'New Year cake', level: '2', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_088', display: '饺子 (jiǎozi)', input: 'jiǎozi', meaning: 'Dumplings', level: '1', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_089', display: '汤圆 (tāngyuán)', input: 'tāngyuán', meaning: 'Tangyuan (glutinous rice balls)', level: '2', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_090', display: '元宵 (yuánxiāo)', input: 'yuánxiāo', meaning: 'Lantern (or rice ball)', level: '2', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_091', display: '月饼 (yuèbǐng)', input: 'yuèbǐng', meaning: 'Mooncake', level: '2', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_092', display: '粽子 (zòngzi)', input: 'zòngzi', meaning: 'Zongzi', level: '2', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_093', display: '艾草 (àicǎo)', input: 'àicǎo', meaning: 'Mugwort', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_094', display: '菖蒲 (chāngpú)', input: 'chāngpú', meaning: 'Calamus', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_095', display: '菊花 (júhuā)', input: 'júhuā', meaning: 'Chrysanthemum', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_096', display: '重阳糕 (chóngyánggāo)', input: 'chóngyánggāo', meaning: 'Double Ninth cake', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_097', display: '腊八粥 (làbāzhōu)', input: 'làbāzhōu', meaning: 'Laba congee', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_098', display: '年夜饭 (niányèfàn)', input: 'niányèfàn', meaning: 'New Year''s Eve dinner', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_099', display: '压岁钱 (yāsuìqián)', input: 'yāsuìqián', meaning: 'Lucky money', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_100', display: '鞭炮 (biānpào)', input: 'biānpào', meaning: 'Firecrackers', level: '2', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_101', display: '烟花 (yānhuā)', input: 'yānhuā', meaning: 'Fireworks', level: '2', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_102', display: '福字 (fúzì)', input: 'fúzì', meaning: '"Fu" character (lucky)', level: '2', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_103', display: '年画 (niánhuà)', input: 'niánhuà', meaning: 'New Year picture', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_104', display: '窗花 (chuānghuā)', input: 'chuānghuā', meaning: 'Window paper-cut', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_105', display: '对联 (duìlián)', input: 'duìlián', meaning: 'Couplet', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_106', display: '灯笼 (dēnglóng)', input: 'dēnglóng', meaning: 'Lantern', level: '2', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_107', display: '龙灯 (lóngdēng)', input: 'lóngdēng', meaning: 'Dragon lantern', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_108', display: '舞龙 (wǔlóng)', input: 'wǔlóng', meaning: 'Dragon dance', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_109', display: '舞狮 (wǔshī)', input: 'wǔshī', meaning: 'Lion dance', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_110', display: '庙会 (miàohuì)', input: 'miàohuì', meaning: 'Temple fair', level: '2', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_111', display: '灯会 (dēnghuì)', input: 'dēnghuì', meaning: 'Lantern fair', level: '2', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_112', display: '龙舟 (lóngzhōu)', input: 'lóngzhōu', meaning: 'Dragon boat', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_113', display: '雄黄酒 (xiónghuángjiǔ)', input: 'xiónghuángjiǔ', meaning: 'Realgar wine', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_114', display: '香包 (xiāngbāo)', input: 'xiāngbāo', meaning: 'Sachet', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_115', display: '五色丝线 (wǔsè sīxiàn)', input: 'wǔsè sīxiàn', meaning: 'Five-color silk thread', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_116', display: '长命缕 (chángmìnglǚ)', input: 'chángmìnglǚ', meaning: 'Longevity thread', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_117', display: '桂花酒 (guìhuā jiǔ)', input: 'guìhuā jiǔ', meaning: 'Osmanthus wine', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_118', display: '菊花酒 (júhuā jiǔ)', input: 'júhuā jiǔ', meaning: 'Chrysanthemum wine', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_119', display: '登高 (dēnggāo)', input: 'dēnggāo', meaning: 'Climb a height', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_120', display: '赏菊 (shǎngjú)', input: 'shǎngjú', meaning: 'Admire chrysanthemums', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_121', display: '茱萸 (zhūyú)', input: 'zhūyú', meaning: 'Cornus (dogwood)', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_122', display: '腊八蒜 (làbāsuàn)', input: 'làbāsuàn', meaning: 'Laba garlic', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_123', display: '祭灶 (jìzào)', input: 'jìzào', meaning: 'Worship the Kitchen God', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_124', display: '灶王爷 (zàowángyé)', input: 'zàowángyé', meaning: 'Kitchen God', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_125', display: '灶王奶奶 (zàowáng nǎinai)', input: 'zàowáng nǎinai', meaning: 'Kitchen God''s Wife', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_126', display: '糖瓜 (tángguā)', input: 'tángguā', meaning: 'Sugar melon (candied melon)', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_127', display: '灶糖 (zàotáng)', input: 'zàotáng', meaning: 'Kitchen sugar (malt sugar)', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_128', display: '灶君 (zàojūn)', input: 'zàojūn', meaning: 'Kitchen Lord', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_129', display: '团圆 (tuányuán)', input: 'tuányuán', meaning: 'Reunion', level: '2', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_130', display: '团圆饭 (tuányuánfàn)', input: 'tuányuánfàn', meaning: 'Reunion dinner', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_131', display: '守岁 (shǒusuì)', input: 'shǒusuì', meaning: 'Stay up late (New Year''s Eve)', level: '3', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_132', display: '拜年 (bàinián)', input: 'bàinián', meaning: 'New Year visit', level: '2', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_133', display: '走亲访友 (zǒuqīn fǎngyǒu)', input: 'zǒuqīn fǎngyǒu', meaning: 'Visit relatives and friends', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_134', display: '恭喜发财 (gōngxǐ fācái)', input: 'gōngxǐ fācái', meaning: 'Congratulations and prosperity', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_135', display: '新年快乐 (xīnnián kuàilè)', input: 'xīnnián kuàilè', meaning: 'Happy New Year', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_136', display: '身体健康 (shēntǐ jiànkāng)', input: 'shēntǐ jiànkāng', meaning: 'Good health', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_137', display: '万事如意 (wànshì rúyì)', input: 'wànshì rúyì', meaning: 'All wishes fulfilled', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_138', display: '心想事成 (xīnxiǎng shìchéng)', input: 'xīnxiǎng shìchéng', meaning: 'Wishes come true', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_139', display: '招财进宝 (zhāocái jìnbǎo)', input: 'zhāocái jìnbǎo', meaning: 'Bring in wealth and treasure', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_140', display: '步步高升 (bùbù gāoshēng)', input: 'bùbù gāoshēng', meaning: 'Step by step promotion', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_141', display: '岁岁平安 (suìsuì píng''ān)', input: 'suìsuì píng''ān', meaning: 'Peace year after year', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_142', display: '大吉大利 (dàjí dàlì)', input: 'dàjí dàlì', meaning: 'Great luck and great profit', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_143', display: '财源广进 (cáiyuán guǎngjìn)', input: 'cáiyuán guǎngjìn', meaning: 'Wealth flowing in', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_144', display: '生意兴隆 (shēngyì xīnglóng)', input: 'shēngyì xīnglóng', meaning: 'Business thriving', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
+- { id: 'zh_holidays_145', display: '财源滚滚 (cáiyuán gǔngǔn)', input: 'cáiyuán gǔngǔn', meaning: 'Wealth rolling in', level: '4', category: 'holidays', source: '[[holidays-and-celebrations]]' }
 ```

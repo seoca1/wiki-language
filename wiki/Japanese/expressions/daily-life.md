@@ -1,3 +1,10 @@
+---
+title: "daily-life (Japanese) expressions"
+language: "Japanese"
+category: "daily-life"
+level: "A1-B2"
+---
+
 # Expressions: Daily Life (日本語)
 
 > **Theme:** Daily Life
@@ -366,3 +373,22 @@ Universal expressions for everyday situations — greetings, dining, transit, sh
 - `[[Language/wiki/comparative/greetings]]`
 - `[[Language/wiki/comparative/politeness-honorifics]]`
 - `[[Language/wiki/comparative/cultural-values]]`
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'jp_daily_life_001', display: 'ありがとう', input: 'ありがとう', meaning: '"Thank you" — 가장 기본 감사 표현.', level: 'A1-B2', category: 'daily-life', source: '[[daily-life]]' }
+- { id: 'jp_daily_life_002', display: 'すみません', input: 'すみません', meaning: '"Excuse me / Sorry" — 가장 흔한 사과/실례 표현.', level: 'A1-B2', category: 'daily-life', source: '[[daily-life]]' }
+- { id: 'jp_daily_life_003', display: 'いただきます', input: 'いただきます', meaning: '"I humbly receive" — 식사 전 감사 표현.', level: 'A1-B2', category: 'daily-life', source: '[[daily-life]]' }
+- { id: 'jp_daily_life_004', display: 'いくらですか', input: 'いくらですか', meaning: '"How much is it?" — 가격 문의.', level: 'A1-B2', category: 'daily-life', source: '[[daily-life]]' }
+- { id: 'jp_daily_life_005', display: 'トイレはどこですか', input: 'トイレはどこですか', meaning: '"Where is the bathroom?" — 필수 표현.', level: 'A1-B2', category: 'daily-life', source: '[[daily-life]]' }
+- { id: 'jp_daily_life_006', display: 'わかりません', input: 'わかりません', meaning: '"I don''t understand" — 청해 못함.', level: 'A1-B2', category: 'daily-life', source: '[[daily-life]]' }
+- { id: 'jp_daily_life_007', display: '助けて', input: '助けて', meaning: '"Help!" — 응급 호출.', level: 'A1-B2', category: 'daily-life', source: '[[daily-life]]' }
+- { id: 'jp_daily_life_008', display: '駅はどこですか', input: '駅はどこですか', meaning: '"Where is the station?" — 가장 흔한 방향 문의.', level: 'A1-B2', category: 'daily-life', source: '[[daily-life]]' }
+- { id: 'jp_daily_life_009', display: 'おはようございます', input: 'おはようございます', meaning: '"Good morning" — 일본의 일상적 아침 인사.', level: 'A1-B2', category: 'daily-life', source: '[[daily-life]]' }
+- { id: 'jp_daily_life_010', display: 'こんにちは', input: 'こんにちは', meaning: '"Good day / Hello" — 점심~오후 인사.', level: 'A1-B2', category: 'daily-life', source: '[[daily-life]]' }
+```

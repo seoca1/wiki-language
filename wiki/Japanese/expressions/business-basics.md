@@ -1,3 +1,10 @@
+---
+title: "business-basics (Japanese) expressions"
+language: "Japanese"
+category: "business-basics"
+level: "B1-C1"
+---
+
 # Expressions: Business Basics (日本語)
 
 > **Theme:** Business & Professional
@@ -376,3 +383,24 @@ Japanese business communication — greetings, email/meeting phrases, negotiatio
 - `[[index]]`
 - `[[Language/wiki/comparative/business-email]]`
 - `[[Language/wiki/comparative/politeness-honorifics]]`
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'jp_business_basics_001', display: 'お世話になっております', input: 'お世話になっております', meaning: '"I am in your care" — 가장 격식 있는 비즈니스 인사.', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'jp_business_basics_002', display: 'よろしくお願いします', input: 'よろしくお願いします', meaning: '"Please favor me" — 가장 흔한 격식 부탁 표현.', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'jp_business_basics_003', display: 'ありがとうございます', input: 'ありがとうございます', meaning: '', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'jp_business_basics_004', display: 'すみません', input: 'すみません', meaning: '', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'jp_business_basics_005', display: 'お疲れ様です', input: 'お疲れ様です', meaning: '"Thank you for your hard work" — 직장/동료 표준 인사.', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'jp_business_basics_006', display: '失礼します', input: '失礼します', meaning: '"Excuse me" / "Pardon me" — 격식 사과/실례.', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'jp_business_basics_007', display: '検討します', input: '検討します', meaning: '"I''ll consider it" — 부드러운 보류/거절.', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'jp_business_basics_008', display: '承知しました', input: '承知しました', meaning: '"Understood" — 정중한 동의/수락.', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'jp_business_basics_009', display: '申し訳ございません', input: '申し訳ございません', meaning: '"I''m very sorry" — 매우 격식 사과.', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'jp_business_basics_010', display: 'お疲れ様でした', input: 'お疲れ様でした', meaning: '"Thank you for your hard work " — 퇴근/회의 종료 인사.', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'jp_business_basics_011', display: 'お疲れ', input: 'お疲れ', meaning: '"Good work" — 캐주얼 직장 인사.', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'jp_business_basics_012', display: 'ご確認ください', input: 'ご確認ください', meaning: '"Please confirm" — 비즈니스 확인 요청.', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+```

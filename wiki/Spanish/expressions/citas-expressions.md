@@ -1,3 +1,10 @@
+---
+title: "citas-expressions (Spanish) expressions"
+language: "Spanish"
+category: "citas-expressions"
+level: "B1-C1"
+---
+
 # Expresiones: Citas y Romance (Español)
 
 > **Tema:** Citas y Romance
@@ -266,3 +273,20 @@ Hito de relación.
 
 - `[[romance-relationships]]` — Romance básico
 - `[[Language/wiki/comparative/dating-romance]]` — Comparativa 5 idiomas
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'es_citas_expressions_001', display: 'Me gustas', input: 'Me gustas', meaning: '"Me gustas" — confesión directa.', level: 'A1', category: 'citas-expressions', source: '[[citas-expressions]]' }
+- { id: 'es_citas_expressions_002', display: '¿Quieres ser mi novio/novia?', input: '¿Quieres ser mi novio/novia?', meaning: '"¿Quieres ser mi novio/novia?" — inicio oficial.', level: 'A1', category: 'citas-expressions', source: '[[citas-expressions]]' }
+- { id: 'es_citas_expressions_003', display: 'Te quiero / Te amo', input: 'Te quiero / Te amo', meaning: '"Te quiero" / "Te amo" — afecto profundo.', level: 'A1', category: 'citas-expressions', source: '[[citas-expressions]]' }
+- { id: 'es_citas_expressions_004', display: 'Quiero romper', input: 'Quiero romper', meaning: '"Quiero romper" — terminar relación.', level: 'A1', category: 'citas-expressions', source: '[[citas-expressions]]' }
+- { id: 'es_citas_expressions_005', display: 'Cita a ciegas', input: 'Cita a ciegas', meaning: '"Cita a ciegas" — conocer a alguien a través de amigos/familia.', level: 'A1', category: 'citas-expressions', source: '[[citas-expressions]]' }
+- { id: 'es_citas_expressions_006', display: 'Irse a vivir juntos', input: 'Irse a vivir juntos', meaning: '"Irse a vivir juntos" — decisión de convivencia.', level: 'A1', category: 'citas-expressions', source: '[[citas-expressions]]' }
+- { id: 'es_citas_expressions_007', display: 'Citas online', input: 'Citas online', meaning: '"Citas online" — conocer vía apps/websites.', level: 'A1', category: 'citas-expressions', source: '[[citas-expressions]]' }
+- { id: 'es_citas_expressions_008', display: 'Conocer a los padres', input: 'Conocer a los padres', meaning: '"Conocer a los padres" — presentar pareja a la familia.', level: 'A1', category: 'citas-expressions', source: '[[citas-expressions]]' }
+```

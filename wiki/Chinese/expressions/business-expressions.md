@@ -1,3 +1,10 @@
+---
+title: "business-expressions (Chinese) expressions"
+language: "Chinese"
+category: "business-expressions"
+level: "B2-C1"
+---
+
 # Expressions: Business (zh-CN)
 
 > **Theme:** Business & Workplace
@@ -290,3 +297,20 @@
 
 - `[[business-basics]]`
 - `[[Language/wiki/comparative/business-workplace]]`
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'zh_business_expressions_001', display: '请多关照', input: '请多关照', meaning: '"Please take care of me / Please look after me" — 첫 미팅.', level: 'B2-C1', category: 'business-expressions', source: '[[business-expressions]]' }
+- { id: 'zh_business_expressions_002', display: '谢谢您的宝贵时间', input: '谢谢您的宝贵时间', meaning: '"Thank you for your valuable time" — 미팅 후.', level: 'B2-C1', category: 'business-expressions', source: '[[business-expressions]]' }
+- { id: 'zh_business_expressions_003', display: '我们需要报价', input: '我们需要报价', meaning: '"We need a quote" — 견적 요청.', level: 'B2-C1', category: 'business-expressions', source: '[[business-expressions]]' }
+- { id: 'zh_business_expressions_004', display: '请问合同条款', input: '请问合同条款', meaning: '"What are the contract terms?" — 계약 협상.', level: 'B2-C1', category: 'business-expressions', source: '[[business-expressions]]' }
+- { id: 'zh_business_expressions_005', display: '请问发票怎么开', input: '请问发票怎么开', meaning: '"How do I get an invoice?" — 세금계산서 요청.', level: 'B2-C1', category: 'business-expressions', source: '[[business-expressions]]' }
+- { id: 'zh_business_expressions_006', display: '我需要请假', input: '我需要请假', meaning: '"I need to take leave" — 휴가 요청.', level: 'B2-C1', category: 'business-expressions', source: '[[business-expressions]]' }
+- { id: 'zh_business_expressions_007', display: '我们微信联系', input: '我们微信联系', meaning: '"Let''s connect on WeChat" — 연락처 교환.', level: 'B2-C1', category: 'business-expressions', source: '[[business-expressions]]' }
+- { id: 'zh_business_expressions_008', display: '请问经理在吗', input: '请问经理在吗', meaning: '"Is the manager here?" — 매니저/직장 상사 호출.', level: 'B2-C1', category: 'business-expressions', source: '[[business-expressions]]' }
+```

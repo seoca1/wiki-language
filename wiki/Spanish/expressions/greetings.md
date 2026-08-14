@@ -63,3 +63,17 @@ level: "A1-A2"
 
 - [[daily-life]] - 일상 생활 표현
 - [[common-phrases]] - 핵심 일상 표현
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'es_greetings_001', display: '¡Hola!', input: '¡Hola!', meaning: '', level: 'A1-A2', category: 'greetings', source: '[[greetings]]' }
+- { id: 'es_greetings_002', display: '¡Buenos días!', input: '¡Buenos días!', meaning: '', level: 'A1-A2', category: 'greetings', source: '[[greetings]]' }
+- { id: 'es_greetings_003', display: '¡Buenas tardes!', input: '¡Buenas tardes!', meaning: '', level: 'A1-A2', category: 'greetings', source: '[[greetings]]' }
+- { id: 'es_greetings_004', display: '¡Buenas noches! (evening)', input: 'evening', meaning: '', level: 'A1-A2', category: 'greetings', source: '[[greetings]]' }
+- { id: 'es_greetings_005', display: '¡Buenas noches! (bedtime)', input: 'bedtime', meaning: '', level: 'A1-A2', category: 'greetings', source: '[[greetings]]' }
+```

@@ -265,16 +265,17 @@ Religious-origin exclamation, but in modern usage neutral. Less intense alternat
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
-> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: en_emotions_001, display: "Wow!", input: "Wow!", meaning: "와우! (놀라움/감탄)", level: "A1", category: "emotions-reactions", source: "[[emotions-reactions]]" }
-- { id: en_emotions_002, display: "Oh my God!", input: "Oh my God!", meaning: "세상에! (강한 놀라움)", level: "A2", category: "emotions-reactions", source: "[[emotions-reactions]]" }
-- { id: en_emotions_003, display: "That's amazing!", input: "That's amazing!", meaning: "정말 대단해요!", level: "A2", category: "emotions-reactions", source: "[[emotions-reactions]]" }
-- { id: en_emotions_004, display: "How awful!", input: "How awful!", meaning: "얼마나 끔찍해요!", level: "A2", category: "emotions-reactions", source: "[[emotions-reactions]]" }
-- { id: en_emotions_005, display: "I can't believe it!", input: "I can't believe it!", meaning: "믿을 수 없어요!", level: "A2", category: "emotions-reactions", source: "[[emotions-reactions]]" }
-- { id: en_emotions_006, display: "Are you serious?", input: "Are you serious?", meaning: "진심이에요?", level: "A2", category: "emotions-reactions", source: "[[emotions-reactions]]" }
-- { id: en_emotions_007, display: "No way!", input: "No way!", meaning: "말도 안 돼!", level: "A2", category: "emotions-reactions", source: "[[emotions-reactions]]" }
-- { id: en_emotions_008, display: "Oh no!", input: "Oh no!", meaning: "이런! / 아 안돼!", level: "A1", category: "emotions-reactions", source: "[[emotions-reactions]]" }
+- { id: 'en_emotions_reactions_001', display: 'Wow!', input: 'Wow!', meaning: '와우! (놀라움/감탄)', level: 'A1', category: 'emotions-reactions', source: '[[emotions-reactions]]' }
+- { id: 'en_emotions_reactions_002', display: 'Oh my God! / OMG', input: 'Oh my God! / OMG', meaning: 'Strong exclamation of surprise, delight, or dismay. The most versatile emotional interjection.', level: 'A1-B2', category: 'emotions-reactions', source: '[[emotions-reactions]]', literal: 'Same.' }
+- { id: 'en_emotions_reactions_003', display: 'That''s amazing!', input: 'That''s amazing!', meaning: '정말 대단해요!', level: 'A2', category: 'emotions-reactions', source: '[[emotions-reactions]]' }
+- { id: 'en_emotions_reactions_004', display: 'How awful! / That''s terrible!', input: 'How awful! / That''s terrible!', meaning: 'Strong negative reaction to bad news. Sympathetic and emphatic.', level: 'A1-B2', category: 'emotions-reactions', source: '[[emotions-reactions]]', literal: 'Same.' }
+- { id: 'en_emotions_reactions_005', display: 'I can''t believe it!', input: 'I can''t believe it!', meaning: '믿을 수 없어요!', level: 'A2', category: 'emotions-reactions', source: '[[emotions-reactions]]' }
+- { id: 'en_emotions_reactions_006', display: 'Are you serious?', input: 'Are you serious?', meaning: '진심이에요?', level: 'A2', category: 'emotions-reactions', source: '[[emotions-reactions]]' }
+- { id: 'en_emotions_reactions_007', display: 'No way!', input: 'No way!', meaning: '말도 안 돼!', level: 'A2', category: 'emotions-reactions', source: '[[emotions-reactions]]' }
+- { id: 'en_emotions_reactions_008', display: 'Oh no!', input: 'Oh no!', meaning: '이런! / 아 안돼!', level: 'A1', category: 'emotions-reactions', source: '[[emotions-reactions]]' }
 ```

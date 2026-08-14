@@ -1,3 +1,10 @@
+---
+title: "emotions-reactions (Spanish) expressions"
+language: "Spanish"
+category: "emotions-reactions"
+level: "A1-B2"
+---
+
 # Expresiones: Emotions & Reactions
 
 > **Theme:** Emotions & Reactions
@@ -447,3 +454,24 @@ Ritual de origen medieval: el novio solicita permiso al padre/tutor de la novia.
 ---
 
 ---
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'es_emotions_reactions_001', display: 'estar hecho pedazos', input: 'estar hecho pedazos', meaning: 'Estar muy afectado emocionalmente, destrozado, destruido. También: estar muy cansado.', level: 'A1-B2 (idioms)', category: 'emotions-reactions', source: '[[emotions-reactions]]', literal: 'estar feito pedaços' }
+- { id: 'es_emotions_reactions_002', display: 'llorar como una Magdalena', input: 'llorar como una Magdalena', meaning: 'Llorar abundantemente, con gran sentimiento. Referencia bíblica: María Magdalena llorando a los pies de Cristo.', level: 'A1-B2 (idioms)', category: 'emotions-reactions', source: '[[emotions-reactions]]', literal: 'chorar como uma Madalena' }
+- { id: 'es_emotions_reactions_003', display: 'no poder venir a más', input: 'no poder venir a más', meaning: 'Estar en el límite de la capacidad emocional o física. "No puedo más".', level: 'A1-B2 (idioms)', category: 'emotions-reactions', source: '[[emotions-reactions]]', literal: 'não poder vir a mais' }
+- { id: 'es_emotions_reactions_004', display: 'subirse al hígado', input: 'subirse al hígado', meaning: 'Enojarse mucho, irritarse profundamente. La cólera sube desde el estómago hasta la cabeza pero se siente como si se aposentara en el hígado.', level: 'A1-B2 (idioms)', category: 'emotions-reactions', source: '[[emotions-reactions]]', literal: 'ím ao figado (subir al hígado)' }
+- { id: 'es_emotions_reactions_005', display: 'tener cara de llamarse', input: 'tener cara de llamarse', meaning: 'Tener la apariencia de quien debería tener cierto nombre. Indica que el aspecto de alguien o algo encaja perfectamente con un nombre que se le podría dar.', level: 'A1-B2 (idioms)', category: 'emotions-reactions', source: '[[emotions-reactions]]', literal: 'tener cara de llamarse' }
+- { id: 'es_emotions_reactions_006', display: 'tener el corazón en un puño', input: 'tener el corazón en un puño', meaning: 'Estar muy angustiado, ansioso o emocionado. El corazón está tan apretado que parece caber en un puño cerrado.', level: 'A1-B2 (idioms)', category: 'emotions-reactions', source: '[[emotions-reactions]]', literal: 'ter o coração na mão' }
+- { id: 'es_emotions_reactions_007', display: 'ojalá (+ subjuntivo)', input: '+ subjuntivo', meaning: 'Expresión de **deseo intenso** de que algo ocurra. Equivale a "espero que...", "ojalá y..." .', level: 'A1-B2 (idioms)', category: 'emotions-reactions', source: '[[emotions-reactions]]', literal: 'oxalá (do árabe "se Deus quiser")' }
+- { id: 'es_emotions_reactions_008', display: '¡qué fuerte!', input: '¡qué fuerte!', meaning: 'Exclamación ante algo impresionante, sorprendente o impactante. Puede ser positivo o negativo .', level: 'A1-B2 (idioms)', category: 'emotions-reactions', source: '[[emotions-reactions]]', literal: 'que forte!' }
+- { id: 'es_emotions_reactions_009', display: '¡qué pasada!', input: '¡qué pasada!', meaning: 'Exclamación de admiración o asombro ante algo impresionante, usualmente con matiz positivo. "¡Es una pasada!" = "es increíble ".', level: 'A1-B2 (idioms)', category: 'emotions-reactions', source: '[[emotions-reactions]]', literal: 'que loucura! (qué locura, qué pasada)' }
+- { id: 'es_emotions_reactions_010', display: 'yo que tú', input: 'yo que tú', meaning: 'Fórmula para dar consejo: "si yo estuviera en tu lugar, haría tal cosa". Introduce el condicional.', level: 'A1-B2 (idioms)', category: 'emotions-reactions', source: '[[emotions-reactions]]', literal: 'eu no seu lugar (yo en tu lugar)' }
+- { id: 'es_emotions_reactions_011', display: 'ponerse morado', input: 'ponerse morado', meaning: 'Comer en exceso hasta no poder más. También: comer algo con mucho gusto y abundancia.', level: 'A1-B2 (idioms)', category: 'emotions-reactions', source: '[[emotions-reactions]]', literal: 'ficar roxo (ponerse morado)' }
+- { id: 'es_emotions_reactions_012', display: 'pedir la mano', input: 'pedir la mano', meaning: 'Pedir formalmente la mano de alguien en matrimonio. El paso tradicional antes de la boda.', level: 'A1-B2 (idioms)', category: 'emotions-reactions', source: '[[emotions-reactions]]', literal: 'pedir a mão (em casamento)' }
+```

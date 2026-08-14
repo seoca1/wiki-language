@@ -364,17 +364,17 @@ theme: "colors"
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: 'zh_colors_001', display: '红色 (hóngsè)', input: '红色 (hóngsè)', meaning: '빨강, 빨간색', level: 'HSK 1-2', category: 'colors-zh', source: '[[colors-zh]]' }
-- { id: 'zh_colors_002', display: '蓝色 (lánsè)', input: '蓝色 (lánsè)', meaning: '파랑, 파란색', level: 'HSK 1-2', category: 'colors-zh', source: '[[colors-zh]]' }
-- { id: 'zh_colors_003', display: '黄色 (huángsè)', input: '黄色 (huángsè)', meaning: '노랑, 노란색', level: 'HSK 1-2', category: 'colors-zh', source: '[[colors-zh]]' }
-- { id: 'zh_colors_004', display: '绿色 (lǜsè)', input: '绿色 (lǜsè)', meaning: '초록, 초록색', level: 'HSK 1-2', category: 'colors-zh', source: '[[colors-zh]]' }
+- { id: 'zh_colors_001', display: '红色 (hóngsè)', input: '红色 (hóngsè)', meaning: '빨강', level: 'HSK 1-2', category: 'colors-zh', source: '[[colors-zh]]' }
+- { id: 'zh_colors_002', display: '蓝色 (lánsè)', input: '蓝色 (lánsè)', meaning: '파랑', level: 'HSK 1-2', category: 'colors-zh', source: '[[colors-zh]]' }
+- { id: 'zh_colors_003', display: '黄色 (huángsè)', input: '黄色 (huángsè)', meaning: '노랑', level: 'HSK 1-2', category: 'colors-zh', source: '[[colors-zh]]' }
+- { id: 'zh_colors_004', display: '绿色 (lǜsè)', input: '绿色 (lǜsè)', meaning: '초록', level: 'HSK 1-2', category: 'colors-zh', source: '[[colors-zh]]' }
 - { id: 'zh_colors_005', display: '白色 (báisè)', input: '白色 (báisè)', meaning: '흰색', level: 'HSK 1-2', category: 'colors-zh', source: '[[colors-zh]]' }
-- { id: 'zh_colors_006', display: '黑色 (hēisè)', input: '黑色 (hēisè)', meaning: '검정, 검은색', level: 'HSK 1-2', category: 'colors-zh', source: '[[colors-zh]]' }
+- { id: 'zh_colors_006', display: '黑色 (hēisè)', input: '黑色 (hēisè)', meaning: '검정', level: 'HSK 1-2', category: 'colors-zh', source: '[[colors-zh]]' }
 - { id: 'zh_colors_007', display: '灰色 (huīsè)', input: '灰色 (huīsè)', meaning: '회색', level: 'HSK 1-2', category: 'colors-zh', source: '[[colors-zh]]' }
 - { id: 'zh_colors_008', display: '橙色 (chéngsè)', input: '橙色 (chéngsè)', meaning: '주황색', level: 'HSK 1-2', category: 'colors-zh', source: '[[colors-zh]]' }
 - { id: 'zh_colors_009', display: '紫色 (zǐsè)', input: '紫色 (zǐsè)', meaning: '보라색', level: 'HSK 1-2', category: 'colors-zh', source: '[[colors-zh]]' }
 - { id: 'zh_colors_010', display: '棕色 (zōngsè)', input: '棕色 (zōngsè)', meaning: '갈색', level: 'HSK 1-2', category: 'colors-zh', source: '[[colors-zh]]' }
-- { id: 'zh_colors_011', display: '青色 (qīngsè)', input: '青色 (qīngsè)', meaning: '청록, 하늘색', level: 'HSK 1-2', category: 'colors-zh', source: '[[colors-zh]]' }
+- { id: 'zh_colors_011', display: '青色 (qīngsè)', input: '青色 (qīngsè)', meaning: '청록', level: 'HSK 1-2', category: 'colors-zh', source: '[[colors-zh]]' }
 - { id: 'zh_colors_012', display: '形容사용 시 + 的 (de) 필수', input: '形容사용 시 + 的 (de) 필수', meaning: '', level: 'HSK 1-2', category: 'colors', source: '[[colors-zh]]' }
 - { id: 'zh_colors_013', display: '명사 단독 사용 (색깔 자체 명사)', input: '명사 단독 사용 (색깔 자체 명사)', meaning: '', level: 'HSK 1-2', category: 'colors', source: '[[colors-zh]]' }
 - { id: 'zh_colors_014', display: '红色 (hóng sè) — 빨강', input: '红色 (hóng sè) — 빨강', meaning: '', level: 'HSK 1-2', category: 'colors', source: '[[colors-zh]]' }

@@ -1,3 +1,10 @@
+---
+title: "business-basics (Chinese) expressions"
+language: "Chinese"
+category: "business-basics"
+level: "B1-C1"
+---
+
 # Expressions: Business Basics (zh-CN)
 
 > **Theme:** Business & Professional
@@ -437,3 +444,22 @@ B: 没问题 (No problem)
 - `[Chinese/sources/pinyin-basics-zh]`
 - `[[Language/wiki/comparative/business-email]]`
 - `[[Language/wiki/comparative/shopping-money]]`
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'zh_business_basics_001', display: '您好', input: '您好', meaning: '"Hello " — 비즈니스/격식 인사. 您 = honorific "you".', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'zh_business_basics_002', display: '请多关照', input: '请多关照', meaning: '"Please take care of me / Please look after me" — 비즈니스 첫 만남 정중한 인사.', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'zh_business_basics_003', display: '麻烦您了', input: '麻烦您了', meaning: '"Sorry to trouble you" — 정중한 부탁/사과.', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'zh_business_basics_004', display: '您好, 请问在吗', input: '您好, 请问在吗', meaning: '"Hello, are you there?" — 비즈니스 WeChat/문자 첫 마디.', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'zh_business_basics_005', display: '报价', input: '报价', meaning: '"Quote/Quotation" — 견적.', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'zh_business_basics_006', display: '合同', input: '合同', meaning: '"Contract" — 계약서.', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'zh_business_basics_007', display: '发票', input: '发票', meaning: '"Invoice / Receipt " — 세금계산서/영수증.', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'zh_business_basics_008', display: '请问', input: '请问', meaning: '"May I ask..." / "Excuse me" — 정중한 질문 시작.', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'zh_business_basics_009', display: '请稍等', input: '请稍等', meaning: '"Please wait" — 잠시 대기 요청.', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'zh_business_basics_010', display: '没问题', input: '没问题', meaning: '"No problem" / "It''s okay" — 동의/수락/거절 완화.', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+```

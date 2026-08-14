@@ -495,31 +495,32 @@ theme: "food"
 
 > Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: zh_food_001, display: "川菜 (chuāncài)", input: "chuancai", meaning: "Sichuan cuisine", level: "3", category: "food", source: "[[food]]" }
-- { id: zh_food_002, display: "粤菜 (yuècài)", input: "yuecai", meaning: "Cantonese cuisine", level: "4", category: "food", source: "[[food]]" }
-- { id: zh_food_003, display: "火锅 (huǒguō)", input: "huoguo", meaning: "hotpot", level: "3", category: "food", source: "[[food]]" }
-- { id: zh_food_004, display: "点菜 (diǎncài)", input: "diancai", meaning: "order food", level: "2", category: "food", source: "[[food]]" }
-- { id: zh_food_005, display: "买单 (mǎidān)", input: "maidanj", meaning: "pay the bill", level: "2", category: "food", source: "[[food]]" }
-- { id: zh_food_006, display: "米饭 (mǐfàn)", input: "mifan", meaning: "rice", level: "1", category: "food", source: "[[food]]" }
-- { id: zh_food_007, display: "面条 (miàntiáo)", input: "miantiao", meaning: "noodles", level: "2", category: "food", source: "[[food]]" }
-- { id: zh_food_008, display: "饺子 (jiǎozi)", input: "jiaozi", meaning: "dumplings", level: "2", category: "food", source: "[[food]]" }
-- { id: zh_food_009, display: "包子 (bāozi)", input: "baozi", meaning: "steamed bun", level: "2", category: "food", source: "[[food]]" }
-- { id: zh_food_010, display: "宫保鸡丁 (gōngbǎo jīdīng)", input: "gongbaojiding", meaning: "Kung Pao chicken", level: "3", category: "food", source: "[[food]]" }
-- { id: zh_food_011, display: "麻婆豆腐 (mápó dòufu)", input: "mapodoufu", meaning: "Mapo tofu", level: "3", category: "food", source: "[[food]]" }
-- { id: zh_food_012, display: "红烧肉 (hóngshāo ròu)", input: "hongshaorou", meaning: "braised pork belly", level: "3", category: "food", source: "[[food]]" }
-- { id: zh_food_013, display: "番茄炒蛋 (fānqié chǎodàn)", input: "fanqiechaodan", meaning: "tomato scrambled eggs", level: "2", category: "food", source: "[[food]]" }
-- { id: zh_food_014, display: "小笼包 (xiǎolóngbāo)", input: "xiaolongbao", meaning: "soup dumplings", level: "3", category: "food", source: "[[food]]" }
-- { id: zh_food_015, display: "兰州牛肉面 (lánzhōu niúròu miàn)", input: "lanzhouniuroumian", meaning: "Lanzhou beef noodles", level: "3", category: "food", source: "[[food]]" }
-- { id: zh_food_016, display: "螺蛳粉 (luósīfěn)", input: "luosifen", meaning: "Luosifen (river snail rice noodles)", level: "4", category: "food", source: "[[food]]" }
-- { id: zh_food_017, display: "筷子 (kuàizi)", input: "kuaizi", meaning: "chopsticks", level: "2", category: "food", source: "[[food]]" }
-- { id: zh_food_018, display: "公筷 (gōngkuài)", input: "gongkuai", meaning: "serving chopsticks", level: "3", category: "food", source: "[[food]]" }
-- { id: zh_food_019, display: "敬酒 (jìngjiǔ)", input: "jingjiu", meaning: "propose a toast", level: "3", category: "food", source: "[[food]]" }
-- { id: zh_food_020, display: "支付宝 (zhīfùbǎo)", input: "zhifubao", meaning: "Alipay", level: "3", category: "food", source: "[[food]]" }
-- { id: zh_food_021, display: "微信支付 (wēixìn zhīfù)", input: "weixinfu", meaning: "WeChat Pay", level: "3", category: "food", source: "[[food]]" }
-- { id: zh_food_022, display: "美团 (měituán)", input: "meituan", meaning: "Meituan (delivery)", level: "3", category: "food", source: "[[food]]" }
-- { id: zh_food_023, display: "饿了么 (èleme)", input: "eleme", meaning: "Ele.me (delivery)", level: "3", category: "food", source: "[[food]]" }
-- { id: zh_food_024, display: "清真 (qīngzhēn)", input: "qingzhen", meaning: "halal", level: "3", category: "food", source: "[[food]]" }
-- { id: zh_food_025, display: "素食 (sùshí)", input: "sushi", meaning: "vegetarian", level: "3", category: "food", source: "[[food]]" }
+- { id: 'zh_food_001', display: '川菜', input: '川菜', meaning: '', level: 'HSK 1-3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_002', display: '粤菜', input: '粤菜', meaning: '', level: 'HSK 1-3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_003', display: '买单', input: '买单', meaning: '', level: 'HSK 1-3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_004', display: '米饭', input: '米饭', meaning: '', level: 'HSK 1-3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_005', display: '面条', input: '面条', meaning: '', level: 'HSK 1-3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_006', display: '包子', input: '包子', meaning: '', level: 'HSK 1-3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_007', display: '饺子', input: '饺子', meaning: '', level: 'HSK 1-3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_008', display: '宫保鸡丁', input: '宫保鸡丁', meaning: '', level: 'HSK 1-3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_009', display: '麻婆豆腐', input: '麻婆豆腐', meaning: '', level: 'HSK 1-3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_010', display: '红烧肉', input: '红烧肉', meaning: '', level: 'HSK 1-3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_011', display: '番茄炒蛋', input: '番茄炒蛋', meaning: '', level: 'HSK 1-3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_012', display: '小笼包', input: '小笼包', meaning: '', level: 'HSK 1-3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_013', display: '螺蛳粉', input: '螺蛳粉', meaning: '', level: 'HSK 1-3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_014', display: '美团', input: '美团', meaning: '', level: 'HSK 1-3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_015', display: '饿了么', input: '饿了么', meaning: '', level: 'HSK 1-3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_016', display: '火锅', input: '火锅', meaning: '', level: 'HSK 1-3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_017', display: '点菜', input: '点菜', meaning: '', level: 'HSK 1-3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_018', display: '兰州牛肉面', input: '兰州牛肉面', meaning: '', level: 'HSK 1-3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_019', display: '筷子', input: '筷子', meaning: '', level: 'HSK 1-3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_020', display: '公筷', input: '公筷', meaning: '', level: 'HSK 1-3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_021', display: '敬酒', input: '敬酒', meaning: '', level: 'HSK 1-3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_022', display: '支付宝', input: '支付宝', meaning: '', level: 'HSK 1-3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_023', display: '微信支付', input: '微信支付', meaning: '', level: 'HSK 1-3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_024', display: '清真', input: '清真', meaning: '', level: 'HSK 1-3', category: 'food', source: '[[food-and-dining-zh]]' }
+- { id: 'zh_food_025', display: '素食', input: '素食', meaning: '', level: 'HSK 1-3', category: 'food', source: '[[food-and-dining-zh]]' }
 ```

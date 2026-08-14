@@ -1,3 +1,10 @@
+---
+title: "business-expressions (Japanese) expressions"
+language: "Japanese"
+category: "business-expressions"
+level: "B2-C1"
+---
+
 # Expressions: Business (日本語)
 
 > **Theme:** Business & Workplace
@@ -238,3 +245,20 @@ Business expressions — emails, meetings, contracts, titles, workplace etiquett
 
 - `[[business-basics]]` — Basic business
 - `[[Language/wiki/comparative/business-workplace]]` — 5-language workplace
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'jp_business_expressions_001', display: 'お目にかかれて光栄です', input: 'お目にかかれて光栄です', meaning: '"I''m honored to meet you" — formal first meeting.', level: 'B2-C1', category: 'business-expressions', source: '[[business-expressions]]' }
+- { id: 'jp_business_expressions_002', display: 'お時間をいただきありがとうございます', input: 'お時間をいただきありがとうございます', meaning: '"Thank you for your time" — closing meeting or call.', level: 'B2-C1', category: 'business-expressions', source: '[[business-expressions]]' }
+- { id: 'jp_business_expressions_003', display: 'お見積もりをお願いします', input: 'お見積もりをお願いします', meaning: '"We''d like a quote, please" — pricing inquiry.', level: 'B2-C1', category: 'business-expressions', source: '[[business-expressions]]' }
+- { id: 'jp_business_expressions_004', display: '契約条件について伺いたいのですが', input: '契約条件について伺いたいのですが', meaning: '"I''d like to ask about the contract terms" — contract negotiation.', level: 'B2-C1', category: 'business-expressions', source: '[[business-expressions]]' }
+- { id: 'jp_business_expressions_005', display: '領収書をいただけますか?', input: '領収書をいただけますか?', meaning: '"Could I have a receipt?" — billing request.', level: 'B2-C1', category: 'business-expressions', source: '[[business-expressions]]' }
+- { id: 'jp_business_expressions_006', display: 'お休みをいただきたいのですが', input: 'お休みをいただきたいのですが', meaning: '"I''d like to take some time off" — leave request.', level: 'B2-C1', category: 'business-expressions', source: '[[business-expressions]]' }
+- { id: 'jp_business_expressions_007', display: '打ち合わせのお時間をいただいてもよろしいでしょうか', input: '打ち合わせのお時間をいただいてもよろしいでしょうか', meaning: '"Could I have a meeting time?" — scheduling.', level: 'B2-C1', category: 'business-expressions', source: '[[business-expressions]]' }
+- { id: 'jp_business_expressions_008', display: '担当者を呼んでいただけますか', input: '担当者を呼んでいただけますか', meaning: '"Could you call the person in charge?" — escalation.', level: 'B2-C1', category: 'business-expressions', source: '[[business-expressions]]' }
+```

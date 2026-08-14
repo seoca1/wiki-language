@@ -428,22 +428,22 @@ Korean emotion and reaction expressions. 일상 감탄·놀람·기쁨·슬픔·
 
 ## Pipeline Form (machine-readable)
 
-> Per `wiki/pipeline-to-game.md`. Schema: display/input/meaning/level/category/source.
-> Game consumer: `Game/typing_language/raw/kr_words.md` (emotion/reaction expressions, 반말~합쇼체 변별).
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: emo_001, display: "대박!", input: "daebak!", meaning: "Awesome! / Jackpot! (casual)", level: "A1", category: "emotions-reactions", source: "[[emotions-reactions]]" }
-- { id: emo_002, display: "진짜?", input: "jinjja?", meaning: "Really? (casual)", level: "A1", category: "emotions-reactions", source: "[[emotions-reactions]]" }
-- { id: emo_003, display: "믿을 수 없어", input: "mideul su eopseo", meaning: "I can't believe it (casual)", level: "A2", category: "emotions-reactions", source: "[[emotions-reactions]]" }
-- { id: emo_004, display: "아이고", input: "aigo", meaning: "Oh my / Oh dear (universal)", level: "A1", category: "emotions-reactions", source: "[[emotions-reactions]]" }
-- { id: emo_005, display: "야!", input: "ya!", meaning: "Hey! (casual only)", level: "A1", category: "emotions-reactions", source: "[[emotions-reactions]]" }
-- { id: emo_006, display: "정말?", input: "jeongmal?", meaning: "Really? / Truly? (universal)", level: "A1", category: "emotions-reactions", source: "[[emotions-reactions]]" }
-- { id: emo_007, display: "슬프다", input: "seulpeuda", meaning: "I'm sad (4 speech levels)", level: "A2", category: "emotions-reactions", source: "[[emotions-reactions]]" }
-- { id: emo_008, display: "기뻐", input: "gippeo", meaning: "I'm glad (4 speech levels)", level: "A2", category: "emotions-reactions", source: "[[emotions-reactions]]" }
-- { id: emo_009, display: "화가 나", input: "hwaga na", meaning: "I'm angry (4 speech levels)", level: "A2", category: "emotions-reactions", source: "[[emotions-reactions]]" }
-- { id: emo_010, display: "정말 기뻐", input: "jeongmal gippeo", meaning: "I'm really glad (4 speech levels)", level: "A2", category: "emotions-reactions", source: "[[emotions-reactions]]" }
+- { id: 'kr_emotions_reactions_001', display: '대박! (daebak! awesome! / jackpot!)', input: 'daebak! awesome! / jackpot!', meaning: '놀라움 + 기쁨의 감탄. 한국에서 가장 흔한 캐주얼 감탄사.', level: 'A1-B1', category: 'emotions-reactions', source: '[[emotions-reactions]]', literal: '"Jackpot!"', register: '반말 (casual). 친구·동료·온라인 커뮤니티 — 격식 자리에는 부적합.' }
+- { id: 'kr_emotions_reactions_002', display: '진짜? (jinjja? really?)', input: 'jinjja? really?', meaning: '가장 흔한 놀라움·의문 표현. 정보 확인 + 감탄 결합.', level: 'A1-B1', category: 'emotions-reactions', source: '[[emotions-reactions]]', literal: '"Really?"', register: '반말 (casual) + 의문형. 친구·동료·온라인 — 광범위 사용. 격식이 필요하면 "정말요?" / "진짜입니까?".' }
+- { id: 'kr_emotions_reactions_003', display: '믿을 수 없어 (mideul su eopseo, I can''t believe it)', input: 'mideul su eopseo', meaning: '강한 놀라움·충격 표현. 좋은 일·나쁜 일 모두 사용.', level: 'A1-B1', category: 'emotions-reactions', source: '[[emotions-reactions]]', literal: '"I can''t believe it."', register: '반말 (casual). 친구·동료·가족 — 격식 자리에는 부적합.' }
+- { id: 'kr_emotions_reactions_004', display: '아이고 (aigo, oh my / oh dear)', input: 'aigo', meaning: '감탄·놀라움·동정의 보편적 감탄사. 한국 고유 감탄사 중 가장 다용도.', level: 'A1-B1', category: 'emotions-reactions', source: '[[emotions-reactions]]', literal: '"Oh my / oh dear."', register: '모든 격식 (감탄사는 격식 단계 영향 적음). 캐주얼 ~ 격식 — 상황에 따라 어조 변형.' }
+- { id: 'kr_emotions_reactions_005', display: '야! (ya! hey! / wow!)', input: 'ya! hey! / wow!', meaning: '호명·놀라움·분노의 다목적 감탄사. 친구 사이에서만 사용.', level: 'A1-B1', category: 'emotions-reactions', source: '[[emotions-reactions]]', literal: '"Hey!"', register: '반말 (casual) + 호형/친구. 격식·상사·초면에는 사용 불가 (무례).' }
+- { id: 'kr_emotions_reactions_006', display: '정말? (jeongmal? really? / truly?)', input: 'jeongmal? really? / truly?', meaning: '진짜?보다 약간 더 격식 있는 놀라움·의문 표현.', level: 'A1-B1', category: 'emotions-reactions', source: '[[emotions-reactions]]', literal: '"Really? / Truly?"', register: '모든 격식. 캐주얼 + 약간의 정중함. 친구·동료·서비스 모두 사용.' }
+- { id: 'kr_emotions_reactions_007', display: '슬프다 (seulpeuda, to be sad)', input: 'seulpeuda', meaning: '기본 감정 표현 — 슬픔. 반말/해요체/합쇼체 모두 변형.', level: 'A1-B1', category: 'emotions-reactions', source: '[[emotions-reactions]]', literal: '"I''m sad."', register: '모든 격식 단계 변형 있음. 명사형 "슬픔" / 동사형 "슬프다" 모두 사용.' }
+- { id: 'kr_emotions_reactions_008', display: '기뻐 (gippeo, to be glad / I''m glad)', input: 'gippeo', meaning: '기쁨·즐거움 표현. 해요체 기본.', level: 'A1-B1', category: 'emotions-reactions', source: '[[emotions-reactions]]', literal: '"I''m glad."', register: '해요체 (polite informal) + 캐주얼 정중. 일상·친구·동료·가족에게 무난.' }
+- { id: 'kr_emotions_reactions_009', display: '화가 나 (hwaga na, to be angry / I''m angry)', input: 'hwaga na', meaning: '화남 표현. 가장 직접적이고 일상적인 분노 표현.', level: 'A1-B1', category: 'emotions-reactions', source: '[[emotions-reactions]]', literal: '"Anger comes out / I''m angry."', register: '반말 (casual). 친구·동료·가족 — 격식 자리에는 사용 부적합.' }
+- { id: 'kr_emotions_reactions_010', display: '정말 기뻐 (jeongmal gippeo, I''m really glad)', input: 'jeongmal gippeo', meaning: '강조형 기쁨 표현. 격식 변형 모두 가능.', level: 'A1-B1', category: 'emotions-reactions', source: '[[emotions-reactions]]', literal: '"I''m really glad."', register: '모든 격식 단계. 부사 "정말" + 형용사 "기뻐" — 강조·진심 표현.' }
 ```
-
 ## Sources
 
 - [[daily-life-basics]] — 일상 회화

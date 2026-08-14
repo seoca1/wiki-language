@@ -63,3 +63,17 @@ level: "A1-A2"
 
 - [[common-phrases]] - 핵심 일상 표현
 - [[greetings]] - 인사 표현
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'jp_apologies_001', display: 'すみません', input: 'すみません', meaning: '', level: 'A1-A2', category: 'apologies', source: '[[apologies]]' }
+- { id: 'jp_apologies_002', display: '申し訳ありません (もうしわけありません)', input: 'もうしわけありません', meaning: '', level: 'A1-A2', category: 'apologies', source: '[[apologies]]' }
+- { id: 'jp_apologies_003', display: 'お詫び申し上げます (おわびもうしあげます)', input: 'おわびもうしあげます', meaning: '', level: 'A1-A2', category: 'apologies', source: '[[apologies]]' }
+- { id: 'jp_apologies_004', display: '許してください (ゆるしてください)', input: 'ゆるしてください', meaning: '', level: 'A1-A2', category: 'apologies', source: '[[apologies]]' }
+- { id: 'jp_apologies_005', display: '私のせいです (わたしのせいです)', input: 'わたしのせいです', meaning: '', level: 'A1-A2', category: 'apologies', source: '[[apologies]]' }
+```

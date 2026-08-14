@@ -1,3 +1,10 @@
+---
+title: "food-dining (Korean) expressions"
+language: "Korean"
+category: "food-dining"
+level: "A1-B2"
+---
+
 # Expressions: Food & Dining (한국어)
 
 > **Theme:** Food & Restaurant
@@ -474,3 +481,23 @@ Korean food culture expressions — restaurant flow, ordering, payment, dietary 
 
 - `[Korean/vocabulary/food-vocabulary]`
 - `[[Language/wiki/comparative/food-dining]]`
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'kr_food_dining_001', display: '메뉴판 주세요', input: '메뉴판 주세요', meaning: '"Menu, please" — 메뉴판 요청.', level: 'A1-B2', category: 'food-dining', source: '[[food-dining]]' }
+- { id: 'kr_food_dining_002', display: '이거 주세요', input: '이거 주세요', meaning: '"This, please" — 메뉴판/사진 가리키며 주문.', level: 'A1-B2', category: 'food-dining', source: '[[food-dining]]' }
+- { id: 'kr_food_dining_003', display: '계산서 주세요', input: '계산서 주세요', meaning: '"Check, please" — 계산 요청.', level: 'A1-B2', category: 'food-dining', source: '[[food-dining]]' }
+- { id: 'kr_food_dining_004', display: '잘 먹겠습니다', input: '잘 먹겠습니다', meaning: '', level: 'A1-B2', category: 'food-dining', source: '[[food-dining]]' }
+- { id: 'kr_food_dining_005', display: '안 매워요', input: '안 매워요', meaning: '"Not spicy" — 매운 정도 조절.', level: 'A1-B2', category: 'food-dining', source: '[[food-dining]]' }
+- { id: 'kr_food_dining_006', display: '비건입니다', input: '비건입니다', meaning: '"I''m vegetarian/vegan" — 채식주의자.', level: 'A1-B2', category: 'food-dining', source: '[[food-dining]]' }
+- { id: 'kr_food_dining_007', display: '술 안 마셔요', input: '술 안 마셔요', meaning: '"I don''t drink alcohol" — 음주 거절.', level: 'A1-B2', category: 'food-dining', source: '[[food-dining]]' }
+- { id: 'kr_food_dining_008', display: '맛있어요', input: '맛있어요', meaning: '"Delicious" — 맛있음.', level: 'A1-B2', category: 'food-dining', source: '[[food-dining]]' }
+- { id: 'kr_food_dining_009', display: '포장해 주세요', input: '포장해 주세요', meaning: '"Please wrap it up" — 음식 포장.', level: 'A1-B2', category: 'food-dining', source: '[[food-dining]]' }
+- { id: 'kr_food_dining_010', display: '잘 먹었습니다', input: '잘 먹었습니다', meaning: '', level: 'A1-B2', category: 'food-dining', source: '[[food-dining]]' }
+- { id: 'kr_food_dining_011', display: '음식 단어 & 표현 (Food terms & expressions)', input: 'Food terms & expressions', meaning: 'Noodles . 한국 요리 전반의 면 요리 묶음.', level: 'A1-B2', category: 'food-dining', source: '[[food-dining]]' }
+```

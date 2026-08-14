@@ -1,3 +1,10 @@
+---
+title: "cultural-idioms (Spanish) expressions"
+language: "Spanish"
+category: "cultural-idioms"
+level: "A1-B2"
+---
+
 # Expresiones: Cultural & Idiomatic
 
 > **Theme:** Cultural & Idiomatic
@@ -216,3 +223,18 @@ Expresión náutica con vida metafórica constante. **Varar** originalmente es d
 - [[el-ahogado-mas-hermoso-del-mundo]]
 
 ---
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'es_cultural_idioms_001', display: 'devolverlo huérfano a las aguas', input: 'devolverlo huérfano a las aguas', meaning: 'Regresar al mar el cuerpo de un ahogado desconocido, sin familia ni dolientes que lo reclamen. Expresión ritual para el entierro marítimo de náufragos.', level: 'A1-B2 (idioms)', category: 'cultural-idioms', source: '[[cultural-idioms]]', literal: 'devolverlo huérfano às águas' }
+- { id: 'es_cultural_idioms_002', display: 'calor pegajoso', input: 'calor pegajoso', meaning: 'Calor húmedo y sofocante que se adhiere a la piel. Sensación de pegajosidad por la humedad alta combinada con temperatura elevada.', level: 'A1-B2 (idioms)', category: 'cultural-idioms', source: '[[cultural-idioms]]', literal: 'calor pegajoso' }
+- { id: 'es_cultural_idioms_003', display: 'viajes esenciales', input: 'viajes esenciales', meaning: 'Vocabulario y expresiones fundamentales para viajar: aeropuerto, hotel, restaurante, transporte, direcciones.', level: 'A1-B2 (idioms)', category: 'cultural-idioms', source: '[[cultural-idioms]]', literal: 'viagens essenciais' }
+- { id: 'es_cultural_idioms_004', display: 'a fuego lento', input: 'a fuego lento', meaning: 'Cocinar con poco calor, durante largo tiempo. Por extensión, hacer algo con calma, sin prisa.', level: 'A1-B2 (idioms)', category: 'cultural-idioms', source: '[[cultural-idioms]]', literal: 'em fogo brando' }
+- { id: 'es_cultural_idioms_005', display: 'dar la voz de alarma', input: 'dar la voz de alarma', meaning: 'Avisar de un peligro o situación urgente. Alertar a otros sobre algo que requiere atención inmediata.', level: 'A1-B2 (idioms)', category: 'cultural-idioms', source: '[[cultural-idioms]]', literal: 'dar la voz de alarma' }
+- { id: 'es_cultural_idioms_006', display: 'quedar varado', input: 'quedar varado', meaning: 'Quedarse detenido, sin poder avanzar. Aplicado a un barco, quedarse atascado en la arena. Aplicado a una persona, quedarse en un lugar sin poder salir.', level: 'A1-B2 (idioms)', category: 'cultural-idioms', source: '[[cultural-idioms]]', literal: 'quedar encallado (como un barco)' }
+```

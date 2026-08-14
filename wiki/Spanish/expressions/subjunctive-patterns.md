@@ -1,3 +1,10 @@
+---
+title: "subjunctive-patterns (Spanish) expressions"
+language: "Spanish"
+category: "subjunctive-patterns"
+level: "A1-B2"
+---
+
 # Expresiones: Subjunctive Patterns
 
 > **Theme:** Subjunctive Patterns
@@ -170,3 +177,16 @@ La regla: `cuando + subjuntivo` cuando la acción principal es **futura** y la s
 ---
 
 ---
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'es_subjunctive_patterns_001', display: 'antes de que + subjuntivo', input: 'antes de que + subjuntivo', meaning: 'Indica que la acción del verbo principal debe ocurrir **antes** de la acción del verbo subordinado . El subjuntivo es obligatorio aquí.', level: 'A1-B2 (idioms)', category: 'subjunctive-patterns', source: '[[subjunctive-patterns]]', literal: 'antes que + conjuntivo' }
+- { id: 'es_subjunctive_patterns_002', display: 'cuando + subjuntivo (cláusula temporal)', input: 'cláusula temporal', meaning: 'Estructura para acciones futuras respecto a la principal. *Cuando* funciona como conjunción temporal que activa el subjuntivo en contextos específicos.', level: 'A1-B2 (idioms)', category: 'subjunctive-patterns', source: '[[subjunctive-patterns]]', literal: 'quando + conjuntivo' }
+- { id: 'es_subjunctive_patterns_003', display: 'para que + subjuntivo', input: 'para que + subjuntivo', meaning: 'Indica la **finalidad** de la acción principal. *"Hago X **para que** Y pase."* Y debe ser una acción deseada o buscada, no un hecho.', level: 'A1-B2 (idioms)', category: 'subjunctive-patterns', source: '[[subjunctive-patterns]]', literal: 'para que + conjuntivo' }
+- { id: 'es_subjunctive_patterns_004', display: 'ojala', input: 'ojala', meaning: 'Expresión de **deseo intenso**, anhelo. Siempre lleva subjuntivo. "¡Ojalá haga sol!", "Ojalá que vengas".', level: 'A1-B2 (idioms)', category: 'subjunctive-patterns', source: '[[subjunctive-patterns]]', literal: 'ojala (del árabe *law šá lláh*, "si Dios quiere")' }
+```

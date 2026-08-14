@@ -199,15 +199,43 @@ theme: "sports"
 
 ## Pipeline Form (machine-readable)
 
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
+
 ```yaml
-- { id: zh_sports_001, display: "足球 (zúqiú)", input: "zúqiú", meaning: "soccer", level: "2", category: "sports", source: "[[sports-and-hobbies]]" }
-- { id: zh_sports_002, display: "篮球 (lánqiú)", input: "lánqiú", meaning: "basketball", level: "2", category: "sports", source: "[[sports-and-hobbies]]" }
-- { id: zh_sports_003, display: "运动 (yùndòng)", input: "yùndòng", meaning: "exercise", level: "1", category: "sports", source: "[[sports-and-hobbies]]" }
-- { id: zh_sports_004, display: "跑步 (pǎobù)", input: "pǎobù", meaning: "run", level: "1", category: "sports", source: "[[sports-and-hobbies]]" }
-- { id: zh_sports_005, display: "游泳 (yóuyǒng)", input: "yóuyǒng", meaning: "swim", level: "2", category: "sports", source: "[[sports-and-hobbies]]" }
-- { id: zh_sports_006, display: "比赛 (bǐsài)", input: "bǐsài", meaning: "match", level: "1", category: "sports", source: "[[sports-and-hobbies]]" }
-- { id: zh_sports_007, display: "爱好 (àihào)", input: "àihào", meaning: "hobby", level: "2", category: "sports", source: "[[sports-and-hobbies]]" }
-- { id: zh_sports_008, display: "摄影 (shèyǐng)", input: "shèyǐng", meaning: "photography", level: "2", category: "sports", source: "[[sports-and-hobbies]]" }
-- { id: zh_sports_009, display: "瑜伽 (yújiā)", input: "yújiā", meaning: "yoga", level: "2", category: "sports", source: "[[sports-and-hobbies]]" }
-- { id: zh_sports_010, display: "钓鱼 (diàoyú)", input: "diàoyú", meaning: "fishing", level: "2", category: "sports", source: "[[sports-and-hobbies]]" }
+- { id: 'zh_sports_001', display: '足球 (zúqiú)', input: 'zúqiú', meaning: 'Soccer', level: '2', category: 'sports', source: '[[sports-and-hobbies-zh]]' }
+- { id: 'zh_sports_002', display: '篮球 (lánqiú)', input: 'lánqiú', meaning: 'Basketball', level: '2', category: 'sports', source: '[[sports-and-hobbies-zh]]' }
+- { id: 'zh_sports_003', display: '排球 (páiqiú)', input: 'páiqiú', meaning: 'Volleyball', level: '3', category: 'sports', source: '[[sports-and-hobbies-zh]]' }
+- { id: 'zh_sports_004', display: '网球 (wǎngqiú)', input: 'wǎngqiú', meaning: 'Tennis', level: '2', category: 'sports', source: '[[sports-and-hobbies-zh]]' }
+- { id: 'zh_sports_005', display: '羽毛球 (yǔmáoqiú)', input: 'yǔmáoqiú', meaning: 'Badminton', level: '2', category: 'sports', source: '[[sports-and-hobbies-zh]]' }
+- { id: 'zh_sports_006', display: '乒乓球 (pīngpāngqiú)', input: 'pīngpāngqiú', meaning: 'Table tennis', level: '3', category: 'sports', source: '[[sports-and-hobbies-zh]]' }
+- { id: 'zh_sports_007', display: '高尔夫 (gāo''ěrfū)', input: 'gāo''ěrfū', meaning: 'Golf', level: '3', category: 'sports', source: '[[sports-and-hobbies-zh]]' }
+- { id: 'zh_sports_008', display: '棒球 (bàngqiú)', input: 'bàngqiú', meaning: 'Baseball', level: '2', category: 'sports', source: '[[sports-and-hobbies-zh]]' }
+- { id: 'zh_sports_009', display: '运动 (yùndòng)', input: 'yùndòng', meaning: 'Exercise', level: '1', category: 'sports', source: '[[sports-and-hobbies-zh]]' }
+- { id: 'zh_sports_010', display: '跑步 (pǎobù)', input: 'pǎobù', meaning: 'Run', level: '1', category: 'sports', source: '[[sports-and-hobbies-zh]]' }
+- { id: 'zh_sports_011', display: '游泳 (yóuyǒng)', input: 'yóuyǒng', meaning: 'Swim', level: '2', category: 'sports', source: '[[sports-and-hobbies-zh]]' }
+- { id: 'zh_sports_012', display: '骑车 (qíchē)', input: 'qíchē', meaning: 'Bike', level: '1', category: 'sports', source: '[[sports-and-hobbies-zh]]' }
+- { id: 'zh_sports_013', display: '散步 (sànbù)', input: 'sànbù', meaning: 'Walk', level: '1', category: 'sports', source: '[[sports-and-hobbies-zh]]' }
+- { id: 'zh_sports_014', display: '登山 (dēngshān)', input: 'dēngshān', meaning: 'Mountain climb', level: '2', category: 'sports', source: '[[sports-and-hobbies-zh]]' }
+- { id: 'zh_sports_015', display: '健身 (jiànshēn)', input: 'jiànshēn', meaning: 'Workout', level: '2', category: 'sports', source: '[[sports-and-hobbies-zh]]' }
+- { id: 'zh_sports_016', display: '瑜伽 (yújiā)', input: 'yújiā', meaning: 'Yoga', level: '2', category: 'sports', source: '[[sports-and-hobbies-zh]]' }
+- { id: 'zh_sports_017', display: '比赛 (bǐsài)', input: 'bǐsài', meaning: 'Match', level: '1', category: 'sports', source: '[[sports-and-hobbies-zh]]' }
+- { id: 'zh_sports_018', display: '冠军 (guànjūn)', input: 'guànjūn', meaning: 'Champion', level: '3', category: 'sports', source: '[[sports-and-hobbies-zh]]' }
+- { id: 'zh_sports_019', display: '决赛 (juésài)', input: 'juésài', meaning: 'Final', level: '3', category: 'sports', source: '[[sports-and-hobbies-zh]]' }
+- { id: 'zh_sports_020', display: '金牌 (jīnpái)', input: 'jīnpái', meaning: 'Gold medal', level: '3', category: 'sports', source: '[[sports-and-hobbies-zh]]' }
+- { id: 'zh_sports_021', display: '奖杯 (jiǎngbēi)', input: 'jiǎngbēi', meaning: 'Trophy', level: '3', category: 'sports', source: '[[sports-and-hobbies-zh]]' }
+- { id: 'zh_sports_022', display: '奥运会 (àoyùnhuì)', input: 'àoyùnhuì', meaning: 'Olympics', level: '3', category: 'sports', source: '[[sports-and-hobbies-zh]]' }
+- { id: 'zh_sports_023', display: '世界杯 (shìjièbēi)', input: 'shìjièbēi', meaning: 'World Cup', level: '3', category: 'sports', source: '[[sports-and-hobbies-zh]]' }
+- { id: 'zh_sports_024', display: '爱好 (àihào)', input: 'àihào', meaning: 'Hobby', level: '2', category: 'sports', source: '[[sports-and-hobbies-zh]]' }
+- { id: 'zh_sports_025', display: '收藏 (shōucáng)', input: 'shōucáng', meaning: 'Collect', level: '3', category: 'sports', source: '[[sports-and-hobbies-zh]]' }
+- { id: 'zh_sports_026', display: '集邮 (jíyóu)', input: 'jíyóu', meaning: 'Stamp collecting', level: '4', category: 'sports', source: '[[sports-and-hobbies-zh]]' }
+- { id: 'zh_sports_027', display: '摄影 (shèyǐng)', input: 'shèyǐng', meaning: 'Photography', level: '2', category: 'sports', source: '[[sports-and-hobbies-zh]]' }
+- { id: 'zh_sports_028', display: '绘画 (huìhuà)', input: 'huìhuà', meaning: 'Painting', level: '2', category: 'sports', source: '[[sports-and-hobbies-zh]]' }
+- { id: 'zh_sports_029', display: '书法 (shūfǎ)', input: 'shūfǎ', meaning: 'Calligraphy', level: '3', category: 'sports', source: '[[sports-and-hobbies-zh]]' }
+- { id: 'zh_sports_030', display: '园艺 (yuányì)', input: 'yuányì', meaning: 'Gardening', level: '3', category: 'sports', source: '[[sports-and-hobbies-zh]]' }
+- { id: 'zh_sports_031', display: '钓鱼 (diàoyú)', input: 'diàoyú', meaning: 'Fishing', level: '2', category: 'sports', source: '[[sports-and-hobbies-zh]]' }
+- { id: 'zh_sports_032', display: '麻将 (májiàng)', input: 'májiàng', meaning: 'Mahjong', level: '2', category: 'sports', source: '[[sports-and-hobbies-zh]]' }
+- { id: 'zh_sports_033', display: '围棋 (wéiqí)', input: 'wéiqí', meaning: 'Go', level: '3', category: 'sports', source: '[[sports-and-hobbies-zh]]' }
+- { id: 'zh_sports_034', display: '国际象棋 (guójì xiàngqí)', input: 'guójì xiàngqí', meaning: 'Chess', level: '3', category: 'sports', source: '[[sports-and-hobbies-zh]]' }
 ```

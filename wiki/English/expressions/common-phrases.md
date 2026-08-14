@@ -63,3 +63,17 @@ level: "A1-A2"
 
 - [[daily-life]] - 일상생활 표현
 - [[business-basics]] - 비즈니스 표현
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'en_common_phrases_001', display: 'How are you?', input: 'How are you?', meaning: '', level: 'A1-A2', category: 'common-phrases', source: '[[common-phrases]]' }
+- { id: 'en_common_phrases_002', display: 'I do not understand', input: 'I do not understand', meaning: '', level: 'A1-A2', category: 'common-phrases', source: '[[common-phrases]]' }
+- { id: 'en_common_phrases_003', display: 'Could you help me?', input: 'Could you help me?', meaning: '', level: 'A1-A2', category: 'common-phrases', source: '[[common-phrases]]' }
+- { id: 'en_common_phrases_004', display: 'How much is this?', input: 'How much is this?', meaning: '', level: 'A1-A2', category: 'common-phrases', source: '[[common-phrases]]' }
+- { id: 'en_common_phrases_005', display: 'Where is the bathroom?', input: 'Where is the bathroom?', meaning: '', level: 'A1-A2', category: 'common-phrases', source: '[[common-phrases]]' }
+```

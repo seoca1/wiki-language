@@ -432,19 +432,19 @@ Es una coletilla estándar en correos comerciales y administrativos. **No implic
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
-> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: es_business_001, display: "Estimado/a", input: "Estimado/a", meaning: "Dear (formal greeting)", level: "B1", category: "business-basics", source: "[[business-basics]]" }
-- { id: es_business_002, display: "Atentamente", input: "Atentamente", meaning: "Sincerely (closing)", level: "B1", category: "business-basics", source: "[[business-basics]]" }
-- { id: es_business_003, display: "Adjunto le envío", input: "Adjunto le envío", meaning: "I am attaching (formal)", level: "B1", category: "business-basics", source: "[[business-basics]]" }
-- { id: es_business_004, display: "Por favor, confirme", input: "Por favor, confirme", meaning: "Please confirm", level: "B1", category: "business-basics", source: "[[business-basics]]" }
-- { id: es_business_005, display: "Quedo a la espera de su respuesta", input: "Quedo a la espera de su respuesta", meaning: "I await your reply", level: "B2", category: "business-basics", source: "[[business-basics]]" }
-- { id: es_business_006, display: "Le saluda atentamente", input: "Le saluda atentamente", meaning: "Sincerely yours (verbal closing)", level: "B1", category: "business-basics", source: "[[business-basics]]" }
-- { id: es_business_007, display: "A quien corresponda", input: "A quien corresponda", meaning: "To whom it may concern", level: "B1", category: "business-basics", source: "[[business-basics]]" }
-- { id: es_business_008, display: "Por medio de la presente", input: "Por medio de la presente", meaning: "Through this letter (formal opening)", level: "B2", category: "business-basics", source: "[[business-basics]]" }
-- { id: es_business_009, display: "Sin otro particular", input: "Sin otro particular", meaning: "Without further ado (closing colotilla)", level: "B2", category: "business-basics", source: "[[business-basics]]" }
-- { id: es_business_010, display: "Quedando a su disposición", input: "Quedando a su disposición", meaning: "Remaining at your disposal", level: "B2", category: "business-basics", source: "[[business-basics]]" }
+- { id: 'es_business_basics_001', display: 'Estimado/a + nombre', input: 'Estimado/a + nombre', meaning: 'Saludo formal estándar al inicio de un correo o carta comercial. *"Estimado Sr. García"* / *"Estimada Sra. López"* / *"Estimado colega"* . Aceptable también *"Estimado/a + nombre propio"*: *"Estimado ', level: 'B1-B2', category: 'business-basics', source: '[[business-basics]]', literal: 'estimado/a + nome' }
+- { id: 'es_business_basics_002', display: 'Atentamente', input: 'Atentamente', meaning: 'Sincerely (closing)', level: 'B1', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'es_business_basics_003', display: 'Adjunto + enviar', input: 'Adjunto + enviar', meaning: 'Fórmula para indicar un **archivo adjunto** en correo electrónico. *"Adjunto le envío el presupuesto"* = "I am attaching the budget". *"Adjunto encontrarás"* es variante más suave.', level: 'B1-B2', category: 'business-basics', source: '[[business-basics]]', literal: 'anexo + enviar' }
+- { id: 'es_business_basics_004', display: 'Por favor, confirme', input: 'Por favor, confirme', meaning: 'Please confirm', level: 'B1', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'es_business_basics_005', display: 'Quedo a la espera', input: 'Quedo a la espera', meaning: 'Frase de **cierre** que indica que se espera respuesta. *"Quedo a la espera de su respuesta"* = "I await your reply" / "Looking forward to hearing from you". Estructura: **quedar + a la espera de**.', level: 'B1-B2', category: 'business-basics', source: '[[business-basics]]', literal: 'fico à espera' }
+- { id: 'es_business_basics_006', display: 'Le saluda atentamente', input: 'Le saluda atentamente', meaning: 'Sincerely yours (verbal closing)', level: 'B1', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'es_business_basics_007', display: 'A quien corresponda', input: 'A quien corresponda', meaning: 'To whom it may concern', level: 'B1', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'es_business_basics_008', display: 'Por medio de la presente', input: 'Por medio de la presente', meaning: 'Through this letter (formal opening)', level: 'B2', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'es_business_basics_009', display: 'Sin otro particular', input: 'Sin otro particular', meaning: 'Without further ado (closing colotilla)', level: 'B2', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'es_business_basics_010', display: 'Quedando a su disposición', input: 'Quedando a su disposición', meaning: 'Remaining at your disposal', level: 'B2', category: 'business-basics', source: '[[business-basics]]' }
 ```

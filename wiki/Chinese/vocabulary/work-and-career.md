@@ -282,15 +282,57 @@ theme: "work"
 
 ## Pipeline Form (machine-readable)
 
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
+
 ```yaml
-- { id: zh_work_001, display: "老板 (lǎobǎn)", input: "lǎobǎn", meaning: "boss", level: "2", category: "work", source: "[[work-and-career]]" }
-- { id: zh_work_002, display: "经理 (jīnglǐ)", input: "jīnglǐ", meaning: "manager", level: "2", category: "work", source: "[[work-and-career]]" }
-- { id: zh_work_003, display: "同事 (tóngshì)", input: "tóngshì", meaning: "colleague", level: "2", category: "work", source: "[[work-and-career]]" }
-- { id: zh_work_004, display: "面试 (miànshì)", input: "miànshì", meaning: "interview", level: "3", category: "work", source: "[[work-and-career]]" }
-- { id: zh_work_005, display: "简历 (jiǎnlì)", input: "jiǎnlì", meaning: "resume", level: "3", category: "work", source: "[[work-and-career]]" }
-- { id: zh_work_006, display: "工资 (gōngzī)", input: "gōngzī", meaning: "salary", level: "2", category: "work", source: "[[work-and-career]]" }
-- { id: zh_work_007, display: "加班 (jiābān)", input: "jiābān", meaning: "overtime", level: "3", category: "work", source: "[[work-and-career]]" }
-- { id: zh_work_008, display: "996 (jiǔ jiǔ liù)", input: "996", meaning: "996 work culture", level: "5", category: "work", source: "[[work-and-career]]" }
-- { id: zh_work_009, display: "关系 (guānxi)", input: "guānxi", meaning: "connections", level: "3", category: "work", source: "[[work-and-career]]" }
-- { id: zh_work_010, display: "升职 (shēngzhí)", input: "shēngzhí", meaning: "promotion", level: "3", category: "work", source: "[[work-and-career]]" }
+- { id: 'zh_work_001', display: '互联网 (hùliánwǎng)', input: 'hùliánwǎng', meaning: 'Internet industry', level: '3', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_002', display: '金融 (jīnróng)', input: 'jīnróng', meaning: 'Finance', level: '3', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_003', display: '教育 (jiàoyù)', input: 'jiàoyù', meaning: 'Education', level: '2', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_004', display: '医疗 (yīliáo)', input: 'yīliáo', meaning: 'Healthcare', level: '3', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_005', display: '房地产 (fángdìchǎn)', input: 'fángdìchǎn', meaning: 'Real estate', level: '4', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_006', display: '制造业 (zhìzàoyè)', input: 'zhìzàoyè', meaning: 'Manufacturing', level: '4', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_007', display: '零售 (língshòu)', input: 'língshòu', meaning: 'Retail', level: '3', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_008', display: '咨询 (zīxún)', input: 'zīxún', meaning: 'Consulting', level: '3', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_009', display: '媒体 (méitǐ)', input: 'méitǐ', meaning: 'Media', level: '2', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_010', display: '公务员 (gōngwùyuán)', input: 'gōngwùyuán', meaning: 'Civil servant', level: '3', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_011', display: '老板 (lǎobǎn)', input: 'lǎobǎn', meaning: 'Boss (colloquial)', level: '2', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_012', display: '经理 (jīnglǐ)', input: 'jīnglǐ', meaning: 'Manager', level: '2', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_013', display: '主管 (zhǔguǎn)', input: 'zhǔguǎn', meaning: 'Supervisor', level: '3', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_014', display: '员工 (yuángōng)', input: 'yuángōng', meaning: 'Employee', level: '3', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_015', display: '同事 (tóngshì)', input: 'tóngshì', meaning: 'Colleague', level: '2', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_016', display: '下属 (xiàshǔ)', input: 'xiàshǔ', meaning: 'Subordinate', level: '4', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_017', display: '实习生 (shíxíshēng)', input: 'shíxíshēng', meaning: 'Intern', level: '4', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_018', display: '顾问 (gùwèn)', input: 'gùwèn', meaning: 'Consultant', level: '4', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_019', display: 'CEO (CEO)', input: 'CEO', meaning: 'CEO', level: '4', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_020', display: '创始人 (chuàngshǐrén)', input: 'chuàngshǐrén', meaning: 'Founder', level: '4', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_021', display: '简历 (jiǎnlì)', input: 'jiǎnlì', meaning: 'Resume', level: '3', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_022', display: '面试 (miànshì)', input: 'miànshì', meaning: 'Interview', level: '3', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_023', display: '求职 (qiúzhí)', input: 'qiúzhí', meaning: 'Job seeking', level: '4', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_024', display: '招聘 (zhāopìn)', input: 'zhāopìn', meaning: 'Recruit', level: '3', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_025', display: '申请 (shēnqǐng)', input: 'shēnqǐng', meaning: 'Apply', level: '3', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_026', display: '录用 (lùyòng)', input: 'lùyòng', meaning: 'Hire', level: '4', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_027', display: '实习 (shíxí)', input: 'shíxí', meaning: 'Internship', level: '3', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_028', display: '辞职 (cízhí)', input: 'cízhí', meaning: 'Resign', level: '4', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_029', display: '离职 (lízhí)', input: 'lízhí', meaning: 'Leave job', level: '4', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_030', display: '转行 (zhuǎnháng)', input: 'zhuǎnháng', meaning: 'Career change', level: '5', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_031', display: '工资 (gōngzī)', input: 'gōngzī', meaning: 'Salary', level: '2', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_032', display: '薪水 (xīnshuǐ)', input: 'xīnshuǐ', meaning: 'Wage', level: '3', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_033', display: '奖金 (jiǎngjīn)', input: 'jiǎngjīn', meaning: 'Bonus', level: '3', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_034', display: '五险一金 (wǔ xiǎn yī jīn)', input: 'wǔ xiǎn yī jīn', meaning: 'Social insurance + housing fund', level: '5', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_035', display: '年终奖 (niánzhōngjiǎng)', input: 'niánzhōngjiǎng', meaning: 'Year-end bonus', level: '4', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_036', display: '加班 (jiābān)', input: 'jiābān', meaning: 'Overtime', level: '3', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_037', display: '出差 (chūchāi)', input: 'chūchāi', meaning: 'Business trip', level: '3', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_038', display: '年假 (niánjià)', input: 'niánjià', meaning: 'Annual leave', level: '3', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_039', display: '升职 (shēngzhí)', input: 'shēngzhí', meaning: 'Promotion', level: '3', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_040', display: '加薪 (jiāxīn)', input: 'jiāxīn', meaning: 'Salary raise', level: '3', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_041', display: '996 (996)', input: '996', meaning: '9am-9pm, 6 days work week', level: '5', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_042', display: '内卷 (nèijuǎn)', input: 'nèijuǎn', meaning: 'Involution/rat race', level: '5', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_043', display: '躺平 (tǎngpíng)', input: 'tǎngpíng', meaning: 'Lie flat', level: '5', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_044', display: '加班文化 (jiābān wénhuà)', input: 'jiābān wénhuà', meaning: 'Overtime culture', level: '5', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_045', display: '关系 (guānxi)', input: 'guānxi', meaning: 'Connections/network', level: '3', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_046', display: '面子 (miànzi)', input: 'miànzi', meaning: 'Face/reputation', level: '3', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_047', display: '团建 (tuánjiàn)', input: 'tuánjiàn', meaning: 'Team building', level: '4', category: 'work', source: '[[work-and-career-zh]]' }
+- { id: 'zh_work_048', display: '会议 (huìyì)', input: 'huìyì', meaning: 'Meeting', level: '2', category: 'work', source: '[[work-and-career-zh]]' }
 ```

@@ -337,19 +337,19 @@ The speaker frames their objection as a violation of etiquette (失礼) on their
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/jp_words.md`).
-> Schema reference: `wiki/pipeline-to-game.md` L33-39.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: com_001, display: "申し訳ございませんが", input: "moushiwake gozaimasen ga", meaning: "죄송합니다만 (격식 사과 + 불만 도입)", level: "B1", category: "complaints", source: "[[complaints]]" }
-- { id: com_002, display: "困っております", input: "komatte orimasu", meaning: "곤란합니다 (간접 호소)", level: "B1", category: "complaints", source: "[[complaints]]" }
-- { id: com_003, display: "ご検討いただけませんか", input: "go-kentou itadakemasen ka", meaning: "검토해 주시지 않겠습니까", level: "B1", category: "complaints", source: "[[complaints]]" }
-- { id: com_004, display: "〜について苦情を申し上げます", input: "~ni tsuite kujou wo moushiagemasu", meaning: "~에 대해 항의드립니다 (격식)", level: "B2", category: "complaints", source: "[[complaints]]" }
-- { id: com_005, display: "問題がございまして", input: "mondai ga gozaimashite", meaning: "문제가 있어서 (중립 도입)", level: "B1", category: "complaints", source: "[[complaints]]" }
-- { id: com_006, display: "恐れ入りますが", input: "osoreirimasu ga", meaning: "실례지만 (정중한 도입)", level: "B1", category: "complaints", source: "[[complaints]]" }
-- { id: com_007, display: "失礼ですが", input: "shitsurei desu ga", meaning: "실례지만 (정중한 반박 도입)", level: "B1", category: "complaints", source: "[[complaints]]" }
-- { id: com_008, display: "お引きたて申し訳ございませんが", input: "o-hikitate moushiwake gozaimasen ga", meaning: "폐를 끼쳐 죄송합니다만", level: "B2", category: "complaints", source: "[[complaints]]" }
-- { id: com_009, display: "ご一考いただけますでしょうか", input: "go-ikkou itadakemasu deshou ka", meaning: "다시 한번 생각해 주시겠습니까", level: "B2", category: "complaints", source: "[[complaints]]" }
-- { id: com_010, display: "改善をお願いできますでしょうか", input: "kaizen wo onegai dekimasu deshou ka", meaning: "개선을 부탁드릴 수 있을까요", level: "B1", category: "complaints", source: "[[complaints]]" }
+- { id: 'jp_complaints_001', display: '申し訳ございませんが', input: '申し訳ございませんが', meaning: '죄송합니다만 (격식 사과 + 불만 도입)', level: 'B1', category: 'complaints', source: '[[complaints]]' }
+- { id: 'jp_complaints_002', display: '困っております', input: '困っております', meaning: '곤란합니다 (간접 호소)', level: 'B1', category: 'complaints', source: '[[complaints]]' }
+- { id: 'jp_complaints_003', display: 'ご検討いただけませんか', input: 'ご検討いただけませんか', meaning: '검토해 주시지 않겠습니까', level: 'B1', category: 'complaints', source: '[[complaints]]' }
+- { id: 'jp_complaints_004', display: '〜について苦情を申し上げます', input: '〜について苦情を申し上げます', meaning: '~에 대해 항의드립니다 (격식)', level: 'B2', category: 'complaints', source: '[[complaints]]' }
+- { id: 'jp_complaints_005', display: '問題がございまして', input: '問題がございまして', meaning: '문제가 있어서 (중립 도입)', level: 'B1', category: 'complaints', source: '[[complaints]]' }
+- { id: 'jp_complaints_006', display: '恐れ入りますが', input: '恐れ入りますが', meaning: '실례지만 (정중한 도입)', level: 'B1', category: 'complaints', source: '[[complaints]]' }
+- { id: 'jp_complaints_007', display: '失礼ですが', input: '失礼ですが', meaning: '실례지만 (정중한 반박 도입)', level: 'B1', category: 'complaints', source: '[[complaints]]' }
+- { id: 'jp_complaints_008', display: 'お引きたて申し訳ございませんが', input: 'お引きたて申し訳ございませんが', meaning: '폐를 끼쳐 죄송합니다만', level: 'B2', category: 'complaints', source: '[[complaints]]' }
+- { id: 'jp_complaints_009', display: 'ご一考いただけますでしょうか', input: 'ご一考いただけますでしょうか', meaning: '다시 한번 생각해 주시겠습니까', level: 'B2', category: 'complaints', source: '[[complaints]]' }
+- { id: 'jp_complaints_010', display: '改善をお願いできますでしょうか', input: '改善をお願いできますでしょうか', meaning: '개선을 부탁드릴 수 있을까요', level: 'B1', category: 'complaints', source: '[[complaints]]' }
 ```

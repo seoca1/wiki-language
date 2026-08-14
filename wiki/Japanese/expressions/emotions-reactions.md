@@ -357,19 +357,19 @@ Both interjections are phonetically expressive — the vowel length and pitch co
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/jp_words.md`).
-> Schema reference: `wiki/pipeline-to-game.md` L33-39.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: emo_001, display: "すごい！", input: "sugoi!", meaning: "와!/대단해! (casual)", level: "A1", category: "emotions-reactions", source: "[[emotions-reactions]]" }
-- { id: emo_002, display: "やった！", input: "yatta!", meaning: "해냈다!/야호! (casual)", level: "A1", category: "emotions-reactions", source: "[[emotions-reactions]]" }
-- { id: emo_003, display: "まあ！", input: "maa!", meaning: "어머!/세상에! (feminine)", level: "A1", category: "emotions-reactions", source: "[[emotions-reactions]]" }
-- { id: emo_004, display: "残念！", input: "zannen!", meaning: "아쉽다!/유감!", level: "A1", category: "emotions-reactions", source: "[[emotions-reactions]]" }
-- { id: emo_005, display: "信じられない", input: "shinjirarenai", meaning: "믿을 수 없어", level: "A2", category: "emotions-reactions", source: "[[emotions-reactions]]" }
-- { id: emo_006, display: "まさか", input: "masaka", meaning: "설마!/말도 안 돼", level: "A2", category: "emotions-reactions", source: "[[emotions-reactions]]" }
-- { id: emo_007, display: "困ったね", input: "komatta ne", meaning: "곤란하네/큰일이다", level: "A2", category: "emotions-reactions", source: "[[emotions-reactions]]" }
-- { id: emo_008, display: "嬉しい", input: "ureshii", meaning: "기뻐/좋아", level: "A1", category: "emotions-reactions", source: "[[emotions-reactions]]" }
-- { id: emo_009, display: "よかった", input: "yokatta", meaning: "다행이다/잘 됐네", level: "A1", category: "emotions-reactions", source: "[[emotions-reactions]]" }
-- { id: emo_010, display: "うわー", input: "uwaa", meaning: "와!/헐! (casual)", level: "A1", category: "emotions-reactions", source: "[[emotions-reactions]]" }
+- { id: 'jp_emotions_reactions_001', display: 'すごい！', input: 'すごい！', meaning: '와!/대단해! (casual)', level: 'A1', category: 'emotions-reactions', source: '[[emotions-reactions]]' }
+- { id: 'jp_emotions_reactions_002', display: 'やった！', input: 'やった！', meaning: '해냈다!/야호! (casual)', level: 'A1', category: 'emotions-reactions', source: '[[emotions-reactions]]' }
+- { id: 'jp_emotions_reactions_003', display: 'まあ！', input: 'まあ！', meaning: '어머!/세상에! (feminine)', level: 'A1', category: 'emotions-reactions', source: '[[emotions-reactions]]' }
+- { id: 'jp_emotions_reactions_004', display: '残念！', input: '残念！', meaning: '아쉽다!/유감!', level: 'A1', category: 'emotions-reactions', source: '[[emotions-reactions]]' }
+- { id: 'jp_emotions_reactions_005', display: '信じられない', input: '信じられない', meaning: '믿을 수 없어', level: 'A2', category: 'emotions-reactions', source: '[[emotions-reactions]]' }
+- { id: 'jp_emotions_reactions_006', display: 'まさか', input: 'まさか', meaning: '설마!/말도 안 돼', level: 'A2', category: 'emotions-reactions', source: '[[emotions-reactions]]' }
+- { id: 'jp_emotions_reactions_007', display: '困ったね', input: '困ったね', meaning: '곤란하네/큰일이다', level: 'A2', category: 'emotions-reactions', source: '[[emotions-reactions]]' }
+- { id: 'jp_emotions_reactions_008', display: '嬉しい', input: '嬉しい', meaning: '기뻐/좋아', level: 'A1', category: 'emotions-reactions', source: '[[emotions-reactions]]' }
+- { id: 'jp_emotions_reactions_009', display: 'よかった', input: 'よかった', meaning: '다행이다/잘 됐네', level: 'A1', category: 'emotions-reactions', source: '[[emotions-reactions]]' }
+- { id: 'jp_emotions_reactions_010', display: 'うわー / わぁ', input: 'うわー / わぁ', meaning: 'Spontaneous exclamation of awe, surprise, or amazement. Among the most versatile and neutral interjections.', level: 'A1-A2', category: 'emotions-reactions', source: '[[emotions-reactions]]', literal: '"Whoa!" / "Ooh!"' }
 ```

@@ -314,31 +314,32 @@ theme: "business"
 
 > Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: zh_biz_001, display: "尊敬的 (zūnjìng de)", input: "zunjingde", meaning: "Dear (formal)", level: "4", category: "business", source: "[[business]]" }
-- { id: zh_biz_002, display: "此致敬礼 (cǐzhì jìnglǐ)", input: "cizhijingli", meaning: "Sincerely yours", level: "4", category: "business", source: "[[business]]" }
-- { id: zh_biz_003, display: "麻烦您查收附件 (máfan nín cháshōu fùjiàn)", input: "mfaninchashoufuji", meaning: "Please check attachment", level: "4", category: "business", source: "[[business]]" }
-- { id: zh_biz_004, display: "请在 [日期] 前回复 (qǐng zài [rìqī] qián huífù)", input: "qingzairiqianhuifu", meaning: "Please reply by [date]", level: "4", category: "business", source: "[[business]]" }
-- { id: zh_biz_005, display: "语音 (yǔyīn)", input: "yuyin", meaning: "Voice message", level: "3", category: "business", source: "[[business]]" }
-- { id: zh_biz_006, display: "红包 (hóngbāo)", input: "hongbao", meaning: "Red envelope", level: "3", category: "business", source: "[[business]]" }
-- { id: zh_biz_007, display: "企业微信 (qǐyè wēixìn)", input: "qiyewxin", meaning: "WeCom (Enterprise WeChat)", level: "4", category: "business", source: "[[business]]" }
-- { id: zh_biz_008, display: "收到，好的 (shōudào, hǎo de)", input: "shoudaohao", meaning: "Received, OK", level: "3", category: "business", source: "[[business]]" }
-- { id: zh_biz_009, display: "请假申请 (qǐngjià shēnqǐng)", input: "qingjiashenqing", meaning: "Leave application", level: "4", category: "business", source: "[[business]]" }
-- { id: zh_biz_010, display: "报销申请 (bàoxiāo shēnqǐng)", input: "baoxiaoshenqing", meaning: "Expense reimbursement", level: "4", category: "business", source: "[[business]]" }
-- { id: zh_biz_011, display: "周报 (zhōubào)", input: "zhoubao", meaning: "Weekly report", level: "4", category: "business", source: "[[business]]" }
-- { id: zh_biz_012, display: "会议纪要 (huìyì jìyào)", input: "huiyijiyao", meaning: "Meeting minutes", level: "4", category: "business", source: "[[business]]" }
-- { id: zh_biz_013, display: "总监 (zǒngjiān)", input: "zongjian", meaning: "Director", level: "4", category: "business", source: "[[business]]" }
-- { id: zh_biz_014, display: "经理 (jīnglǐ)", input: "jingli", meaning: "Manager", level: "3", category: "business", source: "[[business]]" }
-- { id: zh_biz_015, display: "专员 (zhuānyuán)", input: "zhuanuan", meaning: "Specialist", level: "4", category: "business", source: "[[business]]" }
-- { id: zh_biz_016, display: "您 (nín)", input: "nin", meaning: "You (respectful)", level: "3", category: "business", source: "[[business]]" }
-- { id: zh_biz_017, display: "查收 (cháshōu)", input: "chashou", meaning: "Check and receive", level: "4", category: "business", source: "[[business]]" }
-- { id: zh_biz_018, display: "协助 (xiéchù)", input: "xiezhu", meaning: "Assist", level: "4", category: "business", source: "[[business]]" }
-- { id: zh_biz_019, display: "996 (jiǔ jiǔ liù)", input: "jiujiuliu", meaning: "996 work schedule", level: "4", category: "business", source: "[[business]]" }
-- { id: zh_biz_020, display: "复盘 (fùpán)", input: "fupan", meaning: "Retrospective/Post-mortem", level: "4", category: "business", source: "[[business]]" }
-- { id: zh_biz_021, display: "闭环 (bìhuán)", input: "bihuan", meaning: "Closed loop", level: "4", category: "business", source: "[[business]]" }
-- { id: zh_biz_022, display: "对齐 (duìqí)", input: "duiqi", meaning: "Align/Sync", level: "4", category: "business", source: "[[business]]" }
-- { id: zh_biz_023, display: "入职 (rùzhí)", input: "ruzhich", meaning: "Onboarding", level: "4", category: "business", source: "[[business]]" }
-- { id: zh_biz_024, display: "离职 (lízhí)", input: "lizhich", meaning: "Resignation/Offboarding", level: "4", category: "business", source: "[[business]]" }
-- { id: zh_biz_025, display: "交接 (jiāojiē)", input: "jiaojie", meaning: "Handover", level: "4", category: "business", source: "[[business]]" }
+- { id: 'zh_business_001', display: '入职', input: '入职', meaning: '', level: 'HSK 3-5', category: 'business', source: '[[business-email-zh]]' }
+- { id: 'zh_business_002', display: '离职', input: '离职', meaning: '', level: 'HSK 3-5', category: 'business', source: '[[business-email-zh]]' }
+- { id: 'zh_business_003', display: '尊敬的', input: '尊敬的', meaning: '', level: 'HSK 3-5', category: 'business', source: '[[business-email-zh]]' }
+- { id: 'zh_business_004', display: '此致敬礼', input: '此致敬礼', meaning: '', level: 'HSK 3-5', category: 'business', source: '[[business-email-zh]]' }
+- { id: 'zh_business_005', display: '麻烦您查收附件', input: '麻烦您查收附件', meaning: '', level: 'HSK 3-5', category: 'business', source: '[[business-email-zh]]' }
+- { id: 'zh_business_006', display: '请在 [日期] 前回复', input: '请在 [日期] 前回复', meaning: '', level: 'HSK 3-5', category: 'business', source: '[[business-email-zh]]' }
+- { id: 'zh_business_007', display: '语音', input: '语音', meaning: '', level: 'HSK 3-5', category: 'business', source: '[[business-email-zh]]' }
+- { id: 'zh_business_008', display: '红包', input: '红包', meaning: '', level: 'HSK 3-5', category: 'business', source: '[[business-email-zh]]' }
+- { id: 'zh_business_009', display: '企业微信', input: '企业微信', meaning: '', level: 'HSK 3-5', category: 'business', source: '[[business-email-zh]]' }
+- { id: 'zh_business_010', display: '收到，好的', input: '收到，好的', meaning: '', level: 'HSK 3-5', category: 'business', source: '[[business-email-zh]]' }
+- { id: 'zh_business_011', display: '请假申请', input: '请假申请', meaning: '', level: 'HSK 3-5', category: 'business', source: '[[business-email-zh]]' }
+- { id: 'zh_business_012', display: '周报', input: '周报', meaning: '', level: 'HSK 3-5', category: 'business', source: '[[business-email-zh]]' }
+- { id: 'zh_business_013', display: '会议纪要', input: '会议纪要', meaning: '', level: 'HSK 3-5', category: 'business', source: '[[business-email-zh]]' }
+- { id: 'zh_business_014', display: '总监', input: '总监', meaning: '', level: 'HSK 3-5', category: 'business', source: '[[business-email-zh]]' }
+- { id: 'zh_business_015', display: '经理', input: '经理', meaning: '', level: 'HSK 3-5', category: 'business', source: '[[business-email-zh]]' }
+- { id: 'zh_business_016', display: '专员', input: '专员', meaning: '', level: 'HSK 3-5', category: 'business', source: '[[business-email-zh]]' }
+- { id: 'zh_business_017', display: '您', input: '您', meaning: '', level: 'HSK 3-5', category: 'business', source: '[[business-email-zh]]' }
+- { id: 'zh_business_018', display: '查收', input: '查收', meaning: '', level: 'HSK 3-5', category: 'business', source: '[[business-email-zh]]' }
+- { id: 'zh_business_019', display: '协助', input: '协助', meaning: '', level: 'HSK 3-5', category: 'business', source: '[[business-email-zh]]' }
+- { id: 'zh_business_020', display: '996', input: '996', meaning: '', level: 'HSK 3-5', category: 'business', source: '[[business-email-zh]]' }
+- { id: 'zh_business_021', display: '复盘', input: '复盘', meaning: '', level: 'HSK 3-5', category: 'business', source: '[[business-email-zh]]' }
+- { id: 'zh_business_022', display: '闭环', input: '闭环', meaning: '', level: 'HSK 3-5', category: 'business', source: '[[business-email-zh]]' }
+- { id: 'zh_business_023', display: '对齐', input: '对齐', meaning: '', level: 'HSK 3-5', category: 'business', source: '[[business-email-zh]]' }
+- { id: 'zh_business_024', display: '交接', input: '交接', meaning: '', level: 'HSK 3-5', category: 'business', source: '[[business-email-zh]]' }
+- { id: 'zh_business_025', display: '报销申请', input: '报销申请', meaning: '', level: 'HSK 3-5', category: 'business', source: '[[business-email-zh]]' }
 ```

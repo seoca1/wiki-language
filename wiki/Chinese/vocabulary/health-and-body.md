@@ -1312,15 +1312,207 @@ theme: "health"
 
 ## Pipeline Form (machine-readable)
 
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
+
 ```yaml
-- { id: zh_health_001, display: "健康 (jiànkāng)", input: "jiànkāng", meaning: "healthy", level: "1", category: "health", source: "[[health-and-body]]" }
-- { id: zh_health_002, display: "运动 (yùndòng)", input: "yùndòng", meaning: "exercise", level: "1", category: "health", source: "[[health-and-body]]" }
-- { id: zh_health_003, display: "医院 (yīyuàn)", input: "yīyuàn", meaning: "hospital", level: "2", category: "health", source: "[[health-and-body]]" }
-- { id: zh_health_004, display: "医生 (yīshēng)", input: "yīshēng", meaning: "doctor", level: "1", category: "health", source: "[[health-and-body]]" }
-- { id: zh_health_005, display: "护士 (hùshì)", input: "hùshì", meaning: "nurse", level: "1", category: "health", source: "[[health-and-body]]" }
-- { id: zh_health_006, display: "药 (yào)", input: "yào", meaning: "medicine", level: "1", category: "health", source: "[[health-and-body]]" }
-- { id: zh_health_007, display: "看病 (kànbìng)", input: "kànbìng", meaning: "see a doctor", level: "1", category: "health", source: "[[health-and-body]]" }
-- { id: zh_health_008, display: "身体 (shēntǐ)", input: "shēntǐ", meaning: "body", level: "1", category: "health", source: "[[health-and-body]]" }
-- { id: zh_health_009, display: "睡觉 (shuìjiào)", input: "shuìjiào", meaning: "sleep", level: "1", category: "health", source: "[[health-and-body]]" }
-- { id: zh_health_010, display: "营养 (yíngyǎng)", input: "yíngyǎng", meaning: "nutrition", level: "2", category: "health", source: "[[health-and-body]]" }
+- { id: 'zh_health_001', display: '头 (tóu)', input: 'tóu', meaning: 'Head', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_002', display: '脸 (liǎn)', input: 'liǎn', meaning: 'Face', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_003', display: '眼睛 (yǎnjing)', input: 'yǎnjing', meaning: 'Eyes', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_004', display: '鼻子 (bízi)', input: 'bízi', meaning: 'Nose', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_005', display: '嘴 (zuǐ)', input: 'zuǐ', meaning: 'Mouth', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_006', display: '耳朵 (ěrduo)', input: 'ěrduo', meaning: 'Ears', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_007', display: '牙齿 (yáchǐ)', input: 'yáchǐ', meaning: 'Teeth', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_008', display: '舌头 (shétou)', input: 'shétou', meaning: 'Tongue', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_009', display: '脖子 (bózi)', input: 'bózi', meaning: 'Neck', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_010', display: '肩膀 (jiānbǎng)', input: 'jiānbǎng', meaning: 'Shoulders', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_011', display: '胸 (xiōng)', input: 'xiōng', meaning: 'Chest', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_012', display: '肚子 (dùzi)', input: 'dùzi', meaning: 'Stomach', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_013', display: '背 (bèi)', input: 'bèi', meaning: 'Back', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_014', display: '腰 (yāo)', input: 'yāo', meaning: 'Waist', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_015', display: '手 (shǒu)', input: 'shǒu', meaning: 'Hand', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_016', display: '手臂 (shǒubì)', input: 'shǒubì', meaning: 'Arm', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_017', display: '腿 (tuǐ)', input: 'tuǐ', meaning: 'Leg', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_018', display: '脚 (jiǎo)', input: 'jiǎo', meaning: 'Foot', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_019', display: '膝盖 (xīgài)', input: 'xīgài', meaning: 'Knee', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_020', display: '脚踝 (jiǎohuái)', input: 'jiǎohuái', meaning: 'Ankle', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_021', display: '肘 (zhǒu)', input: 'zhǒu', meaning: 'Elbow', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_022', display: '腕 (wàn)', input: 'wàn', meaning: 'Wrist', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_023', display: '手指 (shǒuzhǐ)', input: 'shǒuzhǐ', meaning: 'Finger', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_024', display: '脚趾 (jiǎozhǐ)', input: 'jiǎozhǐ', meaning: 'Toe', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_025', display: '心脏 (xīnzàng)', input: 'xīnzàng', meaning: 'Heart', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_026', display: '肺 (fèi)', input: 'fèi', meaning: 'Lungs', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_027', display: '肝 (gān)', input: 'gān', meaning: 'Liver', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_028', display: '胃 (wèi)', input: 'wèi', meaning: 'Stomach', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_029', display: '肾 (shèn)', input: 'shèn', meaning: 'Kidney', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_030', display: '脑 (nǎo)', input: 'nǎo', meaning: 'Brain', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_031', display: '心 (xīn)', input: 'xīn', meaning: 'Heart', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_032', display: '胆 (dǎn)', input: 'dǎn', meaning: 'Gallbladder', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_033', display: '脾 (pí)', input: 'pí', meaning: 'Spleen', level: '4', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_034', display: '肠 (cháng)', input: 'cháng', meaning: 'Intestine', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_035', display: '运动 (yùndòng)', input: 'yùndòng', meaning: 'Exercise', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_036', display: '跑步 (pǎobù)', input: 'pǎobù', meaning: 'Run', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_037', display: '散步 (sànbù)', input: 'sànbù', meaning: 'Walk', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_038', display: '游泳 (yóuyǒng)', input: 'yóuyǒng', meaning: 'Swimming', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_039', display: '骑车 (qíchē)', input: 'qíchē', meaning: 'Bike', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_040', display: '健身 (jiànshēn)', input: 'jiànshēn', meaning: 'Work out', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_041', display: '瑜伽 (yújiā)', input: 'yújiā', meaning: 'Yoga', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_042', display: '跳舞 (tiàowǔ)', input: 'tiàowǔ', meaning: 'Dance', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_043', display: '爬山 (páshān)', input: 'páshān', meaning: 'Hike', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_044', display: '跳绳 (tiàoshéng)', input: 'tiàoshéng', meaning: 'Jump rope', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_045', display: '举重 (jǔzhòng)', input: 'jǔzhòng', meaning: 'Weightlifting', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_046', display: '普拉提 (pǔlātí)', input: 'pǔlātí', meaning: 'Pilates', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_047', display: '太极 (tàijí)', input: 'tàijí', meaning: 'Tai Chi', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_048', display: '武术 (wǔshù)', input: 'wǔshù', meaning: 'Martial arts', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_049', display: '拳击 (quánjī)', input: 'quánjī', meaning: 'Boxing', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_050', display: '跆拳道 (táiquándào)', input: 'táiquándào', meaning: 'Taekwondo', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_051', display: '空手道 (kōngshǒudào)', input: 'kōngshǒudào', meaning: 'Karate', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_052', display: '剑道 (jiàndào)', input: 'jiàndào', meaning: 'Kendo', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_053', display: '柔道 (róudào)', input: 'róudào', meaning: 'Judo', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_054', display: '摔跤 (shuāijiāo)', input: 'shuāijiāo', meaning: 'Wrestling', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_055', display: '滑雪 (huáxuě)', input: 'huáxuě', meaning: 'Ski', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_056', display: '滑冰 (huábīng)', input: 'huábīng', meaning: 'Ice skating', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_057', display: '滑板 (huábǎn)', input: 'huábǎn', meaning: 'Skateboard', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_058', display: '滑板车 (huábǎnchē)', input: 'huábǎnchē', meaning: 'Scooter', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_059', display: '轮滑 (lúnhuá)', input: 'lúnhuá', meaning: 'Roller skating', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_060', display: '滑冰鞋 (huábīngxié)', input: 'huábīngxié', meaning: 'Ice skates', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_061', display: '滑雪板 (huáxuěbǎn)', input: 'huáxuěbǎn', meaning: 'Snowboard', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_062', display: '滑雪杖 (huáxuězhàng)', input: 'huáxuězhàng', meaning: 'Ski poles', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_063', display: '滑雪服 (huáxuěfú)', input: 'huáxuěfú', meaning: 'Ski suit', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_064', display: '潜水服 (qiánshuǐfú)', input: 'qiánshuǐfú', meaning: 'Wetsuit', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_065', display: '泳衣 (yǒngyī)', input: 'yǒngyī', meaning: 'Swimsuit', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_066', display: '泳镜 (yǒngjìng)', input: 'yǒngjìng', meaning: 'Swimming goggles', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_067', display: '泳帽 (yǒngmào)', input: 'yǒngmào', meaning: 'Swimming cap', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_068', display: '篮球 (lánqiú)', input: 'lánqiú', meaning: 'Basketball', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_069', display: '足球 (zúqiú)', input: 'zúqiú', meaning: 'Soccer', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_070', display: '网球 (wǎngqiú)', input: 'wǎngqiú', meaning: 'Tennis', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_071', display: '羽毛球 (yǔmáoqiú)', input: 'yǔmáoqiú', meaning: 'Badminton', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_072', display: '乒乓球 (pīngpāngqiú)', input: 'pīngpāngqiú', meaning: 'Table tennis', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_073', display: '排球 (páiqiú)', input: 'páiqiú', meaning: 'Volleyball', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_074', display: '高尔夫 (gāo''ěrfū)', input: 'gāo''ěrfū', meaning: 'Golf', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_075', display: '棒球 (bàngqiú)', input: 'bàngqiú', meaning: 'Baseball', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_076', display: '橄榄球 (gǎnlǎnqiú)', input: 'gǎnlǎnqiú', meaning: 'Rugby', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_077', display: '壁球 (bìqiú)', input: 'bìqiú', meaning: 'Squash', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_078', display: '台球 (táiqiú)', input: 'táiqiú', meaning: 'Billiards', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_079', display: '保龄球 (bǎolíngqiú)', input: 'bǎolíngqiú', meaning: 'Bowling', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_080', display: '潜水 (qiánshuǐ)', input: 'qiánshuǐ', meaning: 'Diving', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_081', display: '冲浪 (chōnglàng)', input: 'chōnglàng', meaning: 'Surf', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_082', display: '帆船 (fānchuán)', input: 'fānchuán', meaning: 'Sailing', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_083', display: '划船 (huáchuán)', input: 'huáchuán', meaning: 'Rowing', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_084', display: '皮划艇 (píhuáting)', input: 'píhuáting', meaning: 'Kayak', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_085', display: '滑水 (huáshuǐ)', input: 'huáshuǐ', meaning: 'Water skiing', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_086', display: '蹦极 (bèngjí)', input: 'bèngjí', meaning: 'Bungee jumping', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_087', display: '跳伞 (tiàosǎn)', input: 'tiàosǎn', meaning: 'Parachuting', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_088', display: '攀岩 (pānyán)', input: 'pānyán', meaning: 'Rock climbing', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_089', display: '登山 (dēngshān)', input: 'dēngshān', meaning: 'Mountaineering', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_090', display: '徒步 (túbù)', input: 'túbù', meaning: 'Hiking', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_091', display: '露营 (lùyíng)', input: 'lùyíng', meaning: 'Camping', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_092', display: '钓鱼 (diàoyú)', input: 'diàoyú', meaning: 'Fishing', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_093', display: '射箭 (shèjiàn)', input: 'shèjiàn', meaning: 'Archery', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_094', display: '击剑 (jījiàn)', input: 'jījiàn', meaning: 'Fencing', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_095', display: '马术 (mǎshù)', input: 'mǎshù', meaning: 'Equestrian', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_096', display: '飞镖 (fēibiāo)', input: 'fēibiāo', meaning: 'Darts', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_097', display: '滑翔伞 (huáxiángsǎn)', input: 'huáxiángsǎn', meaning: 'Paraglider', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_098', display: '热气球 (rèqìqiú)', input: 'rèqìqiú', meaning: 'Hot air balloon', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_099', display: '跳楼机 (tiàolóujī)', input: 'tiàolóujī', meaning: 'Drop tower', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_100', display: '过山车 (guòshānchē)', input: 'guòshānchē', meaning: 'Roller coaster', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_101', display: '摩天轮 (mótiānlún)', input: 'mótiānlún', meaning: 'Ferris wheel', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_102', display: '旋转木马 (xuánzhuǎn-mùmǎ)', input: 'xuánzhuǎn-mùmǎ', meaning: 'Merry-go-round', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_103', display: '鬼屋 (guǐwū)', input: 'guǐwū', meaning: 'Haunted house', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_104', display: '碰碰车 (pèngpèngchē)', input: 'pèngpèngchē', meaning: 'Bumper car', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_105', display: '旋转飞椅 (xuánzhuǎn-fēiyǐ)', input: 'xuánzhuǎn-fēiyǐ', meaning: 'Rotating chairs', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_106', display: '海盗船 (hǎidàochuán)', input: 'hǎidàochuán', meaning: 'Pirate ship ride', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_107', display: '营养 (yíngyǎng)', input: 'yíngyǎng', meaning: 'Nutrition', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_108', display: '蛋白质 (dànbáizhì)', input: 'dànbáizhì', meaning: 'Protein', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_109', display: '维生素 (wéishēngsù)', input: 'wéishēngsù', meaning: 'Vitamin', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_110', display: '钙 (gài)', input: 'gài', meaning: 'Calcium', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_111', display: '铁 (tiě)', input: 'tiě', meaning: 'Iron', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_112', display: '锌 (xīn)', input: 'xīn', meaning: 'Zinc', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_113', display: '碳水化合物 (tànshuǐ-huàhéwù)', input: 'tànshuǐ-huàhéwù', meaning: 'Carbohydrate', level: '4', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_114', display: '脂肪 (zhīfáng)', input: 'zhīfáng', meaning: 'Fat', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_115', display: '纤维 (xiānwéi)', input: 'xiānwéi', meaning: 'Fiber', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_116', display: '矿物质 (kuàngwùzhì)', input: 'kuàngwùzhì', meaning: 'Mineral', level: '4', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_117', display: '热量 (rèliàng)', input: 'rèliàng', meaning: 'Calories', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_118', display: '卡路里 (kǎlùlǐ)', input: 'kǎlùlǐ', meaning: 'Calorie', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_119', display: '糖 (táng)', input: 'táng', meaning: 'Sugar', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_120', display: '盐 (yán)', input: 'yán', meaning: 'Salt', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_121', display: '油 (yóu)', input: 'yóu', meaning: 'Oil', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_122', display: '醋 (cù)', input: 'cù', meaning: 'Vinegar', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_123', display: '酱油 (jiàngyóu)', input: 'jiàngyóu', meaning: 'Soy sauce', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_124', display: '健康 (jiànkāng)', input: 'jiànkāng', meaning: 'Health', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_125', display: '养生 (yǎngshēng)', input: 'yǎngshēng', meaning: 'Health preservation', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_126', display: '保健 (bǎojiàn)', input: 'bǎojiàn', meaning: 'Health care', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_127', display: '减肥 (jiǎnféi)', input: 'jiǎnféi', meaning: 'Lose weight', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_128', display: '增肥 (zēngféi)', input: 'zēngféi', meaning: 'Gain weight', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_129', display: '瘦身 (shòushēn)', input: 'shòushēn', meaning: 'Slim down', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_130', display: '塑形 (sùxíng)', input: 'sùxíng', meaning: 'Body sculpting', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_131', display: '减脂 (jiǎnzhī)', input: 'jiǎnzhī', meaning: 'Reduce fat', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_132', display: '增肌 (zēngjī)', input: 'zēngjī', meaning: 'Build muscle', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_133', display: '有氧 (yǒuyǎng)', input: 'yǒuyǎng', meaning: 'Aerobic', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_134', display: '无氧 (wúyǎng)', input: 'wúyǎng', meaning: 'Anaerobic', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_135', display: 'HIIT (HIIT)', input: 'HIIT', meaning: 'High-intensity interval training', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_136', display: '力量训练 (lìliàng xùnliàn)', input: 'lìliàng xùnliàn', meaning: 'Strength training', level: '4', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_137', display: '有氧运动 (yǒuyǎng yùndòng)', input: 'yǒuyǎng yùndòng', meaning: 'Aerobic exercise', level: '4', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_138', display: '无氧运动 (wúyǎng yùndòng)', input: 'wúyǎng yùndòng', meaning: 'Anaerobic exercise', level: '4', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_139', display: '拉伸 (lāshēn)', input: 'lāshēn', meaning: 'Stretch', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_140', display: '放松 (fàngsōng)', input: 'fàngsōng', meaning: 'Relax', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_141', display: '热身 (rèshēn)', input: 'rèshēn', meaning: 'Warm up', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_142', display: '睡觉 (shuìjiào)', input: 'shuìjiào', meaning: 'Sleep', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_143', display: '起床 (qǐchuáng)', input: 'qǐchuáng', meaning: 'Wake up', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_144', display: '午睡 (wǔshuì)', input: 'wǔshuì', meaning: 'Nap', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_145', display: '午休 (wǔxiū)', input: 'wǔxiū', meaning: 'Lunch break', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_146', display: '晚安 (wǎn''ān)', input: 'wǎn''ān', meaning: 'Good night', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_147', display: '做梦 (zuòmèng)', input: 'zuòmèng', meaning: 'Dream', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_148', display: '打呼噜 (dǎ hūlū)', input: 'dǎ hūlū', meaning: 'Snore', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_149', display: '失眠 (shīmián)', input: 'shīmián', meaning: 'Insomnia', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_150', display: '熬夜 (áoyè)', input: 'áoyè', meaning: 'Stay up late', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_151', display: '瞌睡 (kēshuì)', input: 'kēshuì', meaning: 'Drowsy', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_152', display: '困 (kùn)', input: 'kùn', meaning: 'Sleepy', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_153', display: '累 (lèi)', input: 'lèi', meaning: 'Tired', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_154', display: '打哈欠 (dǎ hāqiàn)', input: 'dǎ hāqiàn', meaning: 'Yawn', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_155', display: '医院 (yīyuàn)', input: 'yīyuàn', meaning: 'Hospital', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_156', display: '医生 (yīshēng)', input: 'yīshēng', meaning: 'Doctor', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_157', display: '护士 (hùshì)', input: 'hùshì', meaning: 'Nurse', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_158', display: '病人 (bìngrén)', input: 'bìngrén', meaning: 'Patient', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_159', display: '看病 (kànbìng)', input: 'kànbìng', meaning: 'See a doctor', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_160', display: '检查 (jiǎnchá)', input: 'jiǎnchá', meaning: 'Examination', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_161', display: '化验 (huàyàn)', input: 'huàyàn', meaning: 'Lab test', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_162', display: '诊断 (zhěnduàn)', input: 'zhěnduàn', meaning: 'Diagnosis', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_163', display: '治疗 (zhìliáo)', input: 'zhìliáo', meaning: 'Treatment', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_164', display: '手术 (shǒushù)', input: 'shǒushù', meaning: 'Surgery', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_165', display: '处方 (chǔfāng)', input: 'chǔfāng', meaning: 'Prescription', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_166', display: '药 (yào)', input: 'yào', meaning: 'Medicine', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_167', display: '吃药 (chīyào)', input: 'chīyào', meaning: 'Take medicine', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_168', display: '打针 (dǎzhēn)', input: 'dǎzhēn', meaning: 'Get a shot', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_169', display: '输液 (shūyè)', input: 'shūyè', meaning: 'IV drip', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_170', display: '住院 (zhùyuàn)', input: 'zhùyuàn', meaning: 'Hospitalization', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_171', display: '出院 (chūyuàn)', input: 'chūyuàn', meaning: 'Discharge', level: '1', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_172', display: '麻醉 (mázuì)', input: 'mázuì', meaning: 'Anesthesia', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_173', display: '缝合 (fénghé)', input: 'fénghé', meaning: 'Suture', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_174', display: '包扎 (bāozhā)', input: 'bāozhā', meaning: 'Bandage', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_175', display: '拆线 (chāixiàn)', input: 'chāixiàn', meaning: 'Remove stitches', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_176', display: '复诊 (fùzhěn)', input: 'fùzhěn', meaning: 'Follow-up', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_177', display: '转诊 (zhuǎnzhěn)', input: 'zhuǎnzhěn', meaning: 'Referral', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_178', display: '急诊 (jízhěn)', input: 'jízhěn', meaning: 'Emergency', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_179', display: '门诊 (ménzhěn)', input: 'ménzhěn', meaning: 'Outpatient', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_180', display: '病房 (bìngfáng)', input: 'bìngfáng', meaning: 'Hospital room', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_181', display: '病床 (bìngchuáng)', input: 'bìngchuáng', meaning: 'Hospital bed', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_182', display: '护士站 (hùshìzhàn)', input: 'hùshìzhàn', meaning: 'Nurse station', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_183', display: '挂号台 (guàhàotái)', input: 'guàhàotái', meaning: 'Registration desk', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_184', display: '候诊区 (hòuzhěnqū)', input: 'hòuzhěnqū', meaning: 'Waiting area', level: '4', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_185', display: '药房 (yàofáng)', input: 'yàofáng', meaning: 'Pharmacy', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_186', display: '收费处 (shōufèichù)', input: 'shōufèichù', meaning: 'Cashier', level: '4', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_187', display: '急诊室 (jízhěnshì)', input: 'jízhěnshì', meaning: 'Emergency room', level: '4', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_188', display: '手术室 (shǒushùshì)', input: 'shǒushùshì', meaning: 'Operating room', level: '4', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_189', display: '重症监护室 (zhòngzhèng jiānhùshì)', input: 'zhòngzhèng jiānhùshì', meaning: 'ICU', level: '5', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_190', display: '观察室 (guāncháshì)', input: 'guāncháshì', meaning: 'Observation room', level: '4', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_191', display: '压力 (yālì)', input: 'yālì', meaning: 'Stress', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_192', display: '焦虑 (jiāolǜ)', input: 'jiāolǜ', meaning: 'Anxiety', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_193', display: '抑郁 (yìyù)', input: 'yìyù', meaning: 'Depression', level: '3', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_194', display: '孤独 (gūdú)', input: 'gūdú', meaning: 'Loneliness', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_195', display: '寂寞 (jìmò)', input: 'jìmò', meaning: 'Loneliness', level: '2', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_196', display: '心理咨询 (xīnlǐ zīxún)', input: 'xīnlǐ zīxún', meaning: 'Psychological counseling', level: '4', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_197', display: '心理医生 (xīnlǐ yīshēng)', input: 'xīnlǐ yīshēng', meaning: 'Psychiatrist', level: '4', category: 'health', source: '[[health-zh]]' }
+- { id: 'zh_health_198', display: '心理咨询师 (xīnlǐ zīxún shī)', input: 'xīnlǐ zīxún shī', meaning: 'Psychologist', level: '4', category: 'health', source: '[[health-zh]]' }
 ```

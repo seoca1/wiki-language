@@ -1,3 +1,10 @@
+---
+title: "restaurante-expressions (Spanish) expressions"
+language: "Spanish"
+category: "restaurante-expressions"
+level: "A2-B2"
+---
+
 # Expresiones: Restaurante y Comida (Español)
 
 > **Tema:** Restaurante y Comida
@@ -229,3 +236,19 @@ Durante o después de la comida.
 
 - `[[food-dining]]` — Comida básica
 - `[[Language/wiki/comparative/food-dining]]` — Comparativa 5 idiomas
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'es_restaurante_expressions_001', display: '¿Me trae la carta, por favor?', input: '¿Me trae la carta, por favor?', meaning: '"¿Me trae la carta, por favor?" — al sentarse en restaurante.', level: 'A1', category: 'restaurante-expressions', source: '[[restaurante-expressions]]' }
+- { id: 'es_restaurante_expressions_002', display: 'Voy a pedir ___', input: 'Voy a pedir ___', meaning: '"Voy a pedir ___" — hacer un pedido.', level: 'A1', category: 'restaurante-expressions', source: '[[restaurante-expressions]]' }
+- { id: 'es_restaurante_expressions_003', display: 'Soy alérgico a ___', input: 'Soy alérgico a ___', meaning: '"Soy alérgico a ___" — declaración de alergia.', level: 'A1', category: 'restaurante-expressions', source: '[[restaurante-expressions]]' }
+- { id: 'es_restaurante_expressions_004', display: 'La cuenta, por favor', input: 'La cuenta, por favor', meaning: '"La cuenta, por favor" — pedir la cuenta.', level: 'A1', category: 'restaurante-expressions', source: '[[restaurante-expressions]]' }
+- { id: 'es_restaurante_expressions_005', display: '¿Me lo pone para llevar?', input: '¿Me lo pone para llevar?', meaning: '"¿Me lo pone para llevar?" — sobras/comida para llevar.', level: 'A1', category: 'restaurante-expressions', source: '[[restaurante-expressions]]' }
+- { id: 'es_restaurante_expressions_006', display: '¿Qué lleva este plato?', input: '¿Qué lleva este plato?', meaning: '"¿Qué lleva este plato?" — consultar ingredientes.', level: 'A1', category: 'restaurante-expressions', source: '[[restaurante-expressions]]' }
+- { id: 'es_restaurante_expressions_007', display: '¡Está buenísimo!', input: '¡Está buenísimo!', meaning: '"¡Está buenísimo!" — elogiar la comida.', level: 'A1', category: 'restaurante-expressions', source: '[[restaurante-expressions]]' }
+```

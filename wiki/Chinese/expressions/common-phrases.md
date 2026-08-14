@@ -63,3 +63,17 @@ level: "A1-A2"
 
 - [[daily-life]] - 일상생활 표현
 - [[business-basics]] - 비즈니스 표현
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'zh_common_phrases_001', display: '你好吗? (nǐ hǎo ma, 你好嗎?)', input: 'nǐ hǎo ma', meaning: '', level: 'A1-A2', category: 'common-phrases', source: '[[common-phrases]]' }
+- { id: 'zh_common_phrases_002', display: '我不懂 (wǒ bù dǒng, 我不懂)', input: 'wǒ bù dǒng', meaning: '', level: 'A1-A2', category: 'common-phrases', source: '[[common-phrases]]' }
+- { id: 'zh_common_phrases_003', display: '你能帮我吗? (nǐ néng bāng wǒ ma, 你能幫我嗎?)', input: 'nǐ néng bāng wǒ ma', meaning: '', level: 'A1-A2', category: 'common-phrases', source: '[[common-phrases]]' }
+- { id: 'zh_common_phrases_004', display: '多少钱? (duō shǎo qián, 多少錢?)', input: 'duō shǎo qián', meaning: '', level: 'A1-A2', category: 'common-phrases', source: '[[common-phrases]]' }
+- { id: 'zh_common_phrases_005', display: '洗手间在哪里? (xǐ shǒu jiān zài nǎ lǐ, 洗手間在哪裡?)', input: 'xǐ shǒu jiān zài nǎ lǐ', meaning: '', level: 'A1-A2', category: 'common-phrases', source: '[[common-phrases]]' }
+```

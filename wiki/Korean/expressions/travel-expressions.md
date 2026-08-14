@@ -1,3 +1,10 @@
+---
+title: "travel-expressions (Korean) expressions"
+language: "Korean"
+category: "travel-expressions"
+level: "B1-C1"
+---
+
 # Expressions: Travel Advanced (한국어)
 
 > **Theme:** Travel (Advanced)
@@ -242,3 +249,20 @@ Advanced travel expressions — booking, ticket issues, directions, accommodatio
 
 - `[[travel-basics]]` — Basic travel
 - `[[Language/wiki/comparative/travel-essentials]]` — 5-language travel
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'kr_travel_expressions_001', display: '예약하고 싶은데요', input: '예약하고 싶은데요', meaning: '"I''d like to make a reservation" — booking flights/hotels/restaurants.', level: 'B1-C1', category: 'travel-expressions', source: '[[travel-expressions]]' }
+- { id: 'kr_travel_expressions_002', display: '___까지 표 한 장 주세요', input: '___까지 표 한 장 주세요', meaning: '"One ticket to..." — transport purchase.', level: 'B1-C1', category: 'travel-expressions', source: '[[travel-expressions]]' }
+- { id: 'kr_travel_expressions_003', display: '여기 근처에 뭐 볼 거 있어요?', input: '여기 근처에 뭐 볼 거 있어요?', meaning: '"Is there anything to see around here?" — sightseeing.', level: 'B1-C1', category: 'travel-expressions', source: '[[travel-expressions]]' }
+- { id: 'kr_travel_expressions_004', display: '화장실 어디예요?', input: '화장실 어디예요?', meaning: '"Where is the restroom?" — basic but essential.', level: 'B1-C1', category: 'travel-expressions', source: '[[travel-expressions]]' }
+- { id: 'kr_travel_expressions_005', display: '깎아주세요', input: '깎아주세요', meaning: '"Please give me a discount" — bargaining .', level: 'B1-C1', category: 'travel-expressions', source: '[[travel-expressions]]' }
+- { id: 'kr_travel_expressions_006', display: '길을 잃었어요', input: '길을 잃었어요', meaning: '"I''m lost" — getting help when disoriented.', level: 'B1-C1', category: 'travel-expressions', source: '[[travel-expressions]]' }
+- { id: 'kr_travel_expressions_007', display: 'Wi-Fi 있어요?', input: 'Wi-Fi 있어요?', meaning: '"Is there WiFi?" — internet access inquiry.', level: 'B1-C1', category: 'travel-expressions', source: '[[travel-expressions]]' }
+- { id: 'kr_travel_expressions_008', display: '영어 가이드 부탁해요', input: '영어 가이드 부탁해요', meaning: '"I''d like an English guide" — guided tour.', level: 'B1-C1', category: 'travel-expressions', source: '[[travel-expressions]]' }
+```

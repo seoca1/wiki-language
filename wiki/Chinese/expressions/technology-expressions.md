@@ -1,3 +1,10 @@
+---
+title: "technology-expressions (Chinese) expressions"
+language: "Chinese"
+category: "technology-expressions"
+level: "A2-C1"
+---
+
 # Expressions: Technology & Internet (zh-CN)
 
 > **Theme:** Technology & Internet
@@ -290,3 +297,20 @@
 
 - `[[technology-and-internet]]`
 - `[[Language/wiki/comparative/technology-internet]]`
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'zh_technology_expressions_001', display: '扫码登录', input: '扫码登录', meaning: '"Scan QR code to log in" — 중국 표준 로그인.', level: 'A2-C1', category: 'technology-expressions', source: '[[technology-expressions]]' }
+- { id: 'zh_technology_expressions_002', display: '加微信', input: '加微信', meaning: '"Add me on WeChat" — 연락처 교환.', level: 'A2-C1', category: 'technology-expressions', source: '[[technology-expressions]]' }
+- { id: 'zh_technology_expressions_003', display: '朋友圈', input: '朋友圈', meaning: '"WeChat Moments" — SNS 피드.', level: 'A2-C1', category: 'technology-expressions', source: '[[technology-expressions]]' }
+- { id: 'zh_technology_expressions_004', display: '转发', input: '转发', meaning: '"Share/Forward" — 콘텐츠 공유.', level: 'A2-C1', category: 'technology-expressions', source: '[[technology-expressions]]' }
+- { id: 'zh_technology_expressions_005', display: '666', input: '666', meaning: '"Awesome/Cool!" — 숫자 슬랭.', level: 'A2-C1', category: 'technology-expressions', source: '[[technology-expressions]]' }
+- { id: 'zh_technology_expressions_006', display: '共享单车', input: '共享单车', meaning: '"Shared bicycle" — 공유 자전거.', level: 'A2-C1', category: 'technology-expressions', source: '[[technology-expressions]]' }
+- { id: 'zh_technology_expressions_007', display: '充电宝', input: '充电宝', meaning: '"Portable charger/Power bank" — 보조 배터리.', level: 'A2-C1', category: 'technology-expressions', source: '[[technology-expressions]]' }
+- { id: 'zh_technology_expressions_008', display: '直播带货', input: '直播带货', meaning: '"Live-stream shopping" — 라이브 커머스.', level: 'A2-C1', category: 'technology-expressions', source: '[[technology-expressions]]' }
+```

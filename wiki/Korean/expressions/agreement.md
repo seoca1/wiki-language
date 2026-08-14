@@ -63,3 +63,17 @@ level: "A1-A2"
 
 - [[common-phrases]] - 핵심 일상 표현
 - [[greetings]] - 인사 표현
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'kr_agreement_001', display: '네, 동의해요 (ne, donguihae-yo)', input: 'ne', meaning: '', level: 'A1-A2', category: 'agreement', source: '[[agreement]]' }
+- { id: 'kr_agreement_002', display: '좋은 생각이네요 (joeun saengagi-ne-yo)', input: 'joeun saengagi-ne-yo', meaning: '', level: 'A1-A2', category: 'agreement', source: '[[agreement]]' }
+- { id: 'kr_agreement_003', display: '저도 그렇게 생각해요 (jeodo geuleohke saengakhae-yo)', input: 'jeodo geuleohke saengakhae-yo', meaning: '', level: 'A1-A2', category: 'agreement', source: '[[agreement]]' }
+- { id: 'kr_agreement_004', display: '맞아요 (majayo)', input: 'majayo', meaning: '', level: 'A1-A2', category: 'agreement', source: '[[agreement]]' }
+- { id: 'kr_agreement_005', display: '당신이 맞아요 (dangsin-i majayo)', input: 'dangsin-i majayo', meaning: '', level: 'A1-A2', category: 'agreement', source: '[[agreement]]' }
+```

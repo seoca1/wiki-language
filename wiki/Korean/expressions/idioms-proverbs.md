@@ -1,3 +1,10 @@
+---
+title: "idioms-proverbs (Korean) expressions"
+language: "Korean"
+category: "idioms-proverbs"
+level: "B2-C2"
+---
+
 # Expressions: Idioms & Proverbs (한국어)
 
 > **Theme:** Idioms & Proverbs
@@ -171,3 +178,20 @@ Encouraging humility.
 
 - `[[cultural-idioms]]` — Cultural idioms
 - `[[Language/wiki/comparative/idioms-proverbs]]` — 5-language idioms
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'kr_idioms_proverbs_001', display: '일석이조', input: '일석이조', meaning: '"One stone, two birds" — efficiency.', level: 'B2-C2', category: 'idioms-proverbs', source: '[[idioms-proverbs]]' }
+- { id: 'kr_idioms_proverbs_002', display: '그림의 떡', input: '그림의 떡', meaning: '"Rice cake in a painting" — useless thing.', level: 'B2-C2', category: 'idioms-proverbs', source: '[[idioms-proverbs]]' }
+- { id: 'kr_idioms_proverbs_003', display: '우물 안 개구리', input: '우물 안 개구리', meaning: '"Frog in a well" — narrow perspective.', level: 'B2-C2', category: 'idioms-proverbs', source: '[[idioms-proverbs]]' }
+- { id: 'kr_idioms_proverbs_004', display: '등잔 밑이 어둡다', input: '등잔 밑이 어둡다', meaning: '"It''s dark under the lamp" — closest relationships often ignored.', level: 'B2-C2', category: 'idioms-proverbs', source: '[[idioms-proverbs]]' }
+- { id: 'kr_idioms_proverbs_005', display: '살어리 살어리랏다', input: '살어리 살어리랏다', meaning: '"Live! Live!" — ancient Goryeo poem.', level: 'B2-C2', category: 'idioms-proverbs', source: '[[idioms-proverbs]]' }
+- { id: 'kr_idioms_proverbs_006', display: '가는 말이 고와야 오는 말이 곱다', input: '가는 말이 고와야 오는 말이 곱다', meaning: '"If outgoing words are beautiful, returning words are beautiful" — kindness begets kindness.', level: 'B2-C2', category: 'idioms-proverbs', source: '[[idioms-proverbs]]' }
+- { id: 'kr_idioms_proverbs_007', display: '호랑이도 제 말 하면 온다', input: '호랑이도 제 말 하면 온다', meaning: '"Speak of the tiger and it appears" — superstitious coincidence.', level: 'B2-C2', category: 'idioms-proverbs', source: '[[idioms-proverbs]]' }
+- { id: 'kr_idioms_proverbs_008', display: '벼는 익을수록 고개를 숙인다', input: '벼는 익을수록 고개를 숙인다', meaning: '"The riper the rice, the lower it bows" — humility in wisdom.', level: 'B2-C2', category: 'idioms-proverbs', source: '[[idioms-proverbs]]' }
+```

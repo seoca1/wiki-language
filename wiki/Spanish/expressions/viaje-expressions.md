@@ -1,3 +1,10 @@
+---
+title: "viaje-expressions (Spanish) expressions"
+language: "Spanish"
+category: "viaje-expressions"
+level: "B1-C1"
+---
+
 # Expresiones: Viaje Avanzado (Español)
 
 > **Tema:** Viaje (Avanzado)
@@ -266,3 +273,20 @@ Sitios turísticos, museos, zonas históricas.
 
 - `[[Language/wiki/comparative/travel-essentials]]` — Comparativa 5 idiomas
 - `[[daily-life]]` — Vida diaria en español
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'es_viaje_expressions_001', display: 'Quisiera hacer una reserva', input: 'Quisiera hacer una reserva', meaning: '"Quisiera hacer una reserva" — reservar vuelos/hoteles/restaurantes.', level: 'A1', category: 'viaje-expressions', source: '[[viaje-expressions]]' }
+- { id: 'es_viaje_expressions_002', display: 'Un billete de ida / ida y vuelta a ___', input: 'Un billete de ida / ida y vuelta a ___', meaning: '"Billete de ida/ida y vuelta a..." — compra de transporte.', level: 'A1', category: 'viaje-expressions', source: '[[viaje-expressions]]' }
+- { id: 'es_viaje_expressions_003', display: '¿Qué hay para hacer por aquí?', input: '¿Qué hay para hacer por aquí?', meaning: '"¿Qué hay para hacer por aquí?" — consulta turística.', level: 'A1', category: 'viaje-expressions', source: '[[viaje-expressions]]' }
+- { id: 'es_viaje_expressions_004', display: '¿Dónde está el baño?', input: '¿Dónde está el baño?', meaning: '"¿Dónde está el baño?" — básico pero esencial.', level: 'A1', category: 'viaje-expressions', source: '[[viaje-expressions]]' }
+- { id: 'es_viaje_expressions_005', display: '¿Me hace descuento?', input: '¿Me hace descuento?', meaning: '"¿Me hace descuento?" — regateo en mercados.', level: 'A1', category: 'viaje-expressions', source: '[[viaje-expressions]]' }
+- { id: 'es_viaje_expressions_006', display: 'Estoy perdido', input: 'Estoy perdido', meaning: '"Estoy perdido" — pedir ayuda cuando desorientado.', level: 'A1', category: 'viaje-expressions', source: '[[viaje-expressions]]' }
+- { id: 'es_viaje_expressions_007', display: '¿Hay WiFi aquí?', input: '¿Hay WiFi aquí?', meaning: '"¿Hay WiFi aquí?" — consulta de internet.', level: 'A1', category: 'viaje-expressions', source: '[[viaje-expressions]]' }
+- { id: 'es_viaje_expressions_008', display: 'Necesito un guía que hable inglés', input: 'Necesito un guía que hable inglés', meaning: '"Necesito un guía que hable inglés" — solicitud de tour guiado.', level: 'A1', category: 'viaje-expressions', source: '[[viaje-expressions]]' }
+```

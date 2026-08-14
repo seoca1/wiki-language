@@ -1,3 +1,10 @@
+---
+title: "business-basics (English) expressions"
+language: "English"
+category: "business-basics"
+level: "B1-C1"
+---
+
 # Expressions: Business Basics (English)
 
 > **Theme:** Business & Professional
@@ -431,3 +438,22 @@ Email: john.smith@company.com
 - `[English/vocabulary/business-vocabulary]`
 - `[[Language/wiki/comparative/business-email]]`
 - `[[Language/wiki/comparative/politeness-honorifics]]`
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'en_business_basics_001', display: 'Thank you for your email', input: 'Thank you for your email', meaning: '"Thanks for your email" — 정중한 이메일/문자 시작 인사.', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'en_business_basics_002', display: 'I would appreciate it if...', input: 'I would appreciate it if...', meaning: '"I would appreciate if..." — 정중한 부탁 표현.', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'en_business_basics_003', display: 'Best regards', input: 'Best regards', meaning: '"Best regards" — 정중한 이메일 마무리 인사.', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'en_business_basics_004', display: 'I''ll follow up next week', input: 'I''ll follow up next week', meaning: '"I''ll follow up next week" — 후속 조치.', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'en_business_basics_005', display: 'I''ll get back to you on that', input: 'I''ll get back to you on that', meaning: '"I''ll get back to you on that" — 부드러운 보류.', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'en_business_basics_006', display: 'Thank you for your time', input: 'Thank you for your time', meaning: '"Thanks for your time" — 시간/노력 감사.', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'en_business_basics_007', display: 'Per our discussion', input: 'Per our discussion', meaning: '"Per our discussion" — 이전 논의 참조.', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'en_business_basics_008', display: 'I''d like to schedule a meeting', input: 'I''d like to schedule a meeting', meaning: '"I''d like to schedule a meeting" — 미팅 요청.', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'en_business_basics_009', display: 'Thanks for the update', input: 'Thanks for the update', meaning: '"Thanks for the update" — 정보 업데이트 감사.', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+- { id: 'en_business_basics_010', display: 'Could you please...', input: 'Could you please...', meaning: '"Could you please..." — 정중한 부탁.', level: 'B1-C1 (formal)', category: 'business-basics', source: '[[business-basics]]' }
+```

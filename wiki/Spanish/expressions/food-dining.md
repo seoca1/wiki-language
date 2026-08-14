@@ -436,19 +436,19 @@ En Argentina, **Malbec** es uva emblemática; en Chile, **Carmenère**; en Espa�
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
-> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: es_fooddining_001, display: "¿Qué recomienda?", input: "¿Qué recomienda?", meaning: "What do you recommend?", level: "A2", category: "food-dining", source: "[[food-dining]]" }
-- { id: es_fooddining_002, display: "La cuenta, por favor", input: "La cuenta, por favor", meaning: "The check, please", level: "A1-A2", category: "food-dining", source: "[[food-dining]]" }
-- { id: es_fooddining_003, display: "Para mí...", input: "Para mí...", meaning: "For me... / I'll have...", level: "A1-A2", category: "food-dining", source: "[[food-dining]]" }
-- { id: es_fooddining_004, display: "Sin picante, por favor", input: "Sin picante, por favor", meaning: "Not spicy, please", level: "A1-A2", category: "food-dining", source: "[[food-dining]]" }
-- { id: es_fooddining_005, display: "Soy alérgico/a a", input: "Soy alérgico/a a", meaning: "I'm allergic to", level: "A2", category: "food-dining", source: "[[food-dining]]" }
-- { id: es_fooddining_006, display: "¿Tienen menú del día?", input: "¿Tienen menú del día?", meaning: "Do you have a lunch menu?", level: "A2", category: "food-dining", source: "[[food-dining]]" }
-- { id: es_fooddining_007, display: "Para llevar", input: "Para llevar", meaning: "To go", level: "A1-A2", category: "food-dining", source: "[[food-dining]]" }
-- { id: es_fooddining_008, display: "¿Qué tiene de beber?", input: "¿Qué tiene de beber?", meaning: "What do you have to drink?", level: "A2", category: "food-dining", source: "[[food-dining]]" }
-- { id: es_fooddining_009, display: "Estaba todo delicioso", input: "Estaba todo delicioso", meaning: "Everything was delicious", level: "A2", category: "food-dining", source: "[[food-dining]]" }
-- { id: es_fooddining_010, display: "¿Puedo ver la carta de vinos?", input: "¿Puedo ver la carta de vinos?", meaning: "Can I see the wine list?", level: "A2-B1", category: "food-dining", source: "[[food-dining]]" }
+- { id: 'es_food_dining_001', display: '¿Qué recomienda?', input: '¿Qué recomienda?', meaning: 'What do you recommend?', level: 'A2', category: 'food-dining', source: '[[food-dining]]' }
+- { id: 'es_food_dining_002', display: 'La cuenta, por favor', input: 'La cuenta, por favor', meaning: 'The check, please', level: 'A1-A2', category: 'food-dining', source: '[[food-dining]]' }
+- { id: 'es_food_dining_003', display: 'Para mí...', input: 'Para mí...', meaning: 'For me... / I''ll have...', level: 'A1-A2', category: 'food-dining', source: '[[food-dining]]' }
+- { id: 'es_food_dining_004', display: 'Sin picante, por favor', input: 'Sin picante, por favor', meaning: 'Not spicy, please', level: 'A1-A2', category: 'food-dining', source: '[[food-dining]]' }
+- { id: 'es_food_dining_005', display: 'Soy alérgico/a a', input: 'Soy alérgico/a a', meaning: 'I''m allergic to', level: 'A2', category: 'food-dining', source: '[[food-dining]]' }
+- { id: 'es_food_dining_006', display: '¿Tienen menú del día?', input: '¿Tienen menú del día?', meaning: 'Do you have a lunch menu?', level: 'A2', category: 'food-dining', source: '[[food-dining]]' }
+- { id: 'es_food_dining_007', display: 'Para llevar / Para consumir aquí', input: 'Para llevar / Para consumir aquí', meaning: 'Especifica si el pedido es **para llevar** o **en el local**. *"¿Es para llevar?"* = "Is it to go?". En España: *"para llevar"*; en México: *"para llevar"* / *"para pasar a recoger"*; en Argentina: *"', level: 'A1-B1', category: 'food-dining', source: '[[food-dining]]', literal: 'para levar / para consumir aqui' }
+- { id: 'es_food_dining_008', display: '¿Qué tiene de beber?', input: '¿Qué tiene de beber?', meaning: 'What do you have to drink?', level: 'A2', category: 'food-dining', source: '[[food-dining]]' }
+- { id: 'es_food_dining_009', display: 'Estaba todo delicioso', input: 'Estaba todo delicioso', meaning: 'Everything was delicious', level: 'A2', category: 'food-dining', source: '[[food-dining]]' }
+- { id: 'es_food_dining_010', display: '¿Puedo ver la carta de vinos?', input: '¿Puedo ver la carta de vinos?', meaning: 'Can I see the wine list?', level: 'A2-B1', category: 'food-dining', source: '[[food-dining]]' }
 ```

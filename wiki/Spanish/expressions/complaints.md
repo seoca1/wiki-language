@@ -347,19 +347,18 @@ En España y la UE, los consumidores tienen **derecho de desistimiento** (devolu
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
-> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: es_complaints_001, display: "Quiero reclamar", input: "Quiero reclamar", meaning: "I want to file a complaint", level: "A2-B1", category: "complaints", source: "[[complaints]]" }
-- { id: es_complaints_002, display: "Esto no es lo que pedí", input: "Esto no es lo que pedí", meaning: "This isn't what I ordered", level: "A2", category: "complaints", source: "[[complaints]]" }
-- { id: es_complaints_003, display: "No estoy satisfecho/a con", input: "No estoy satisfecho/a con", meaning: "I am not satisfied with", level: "B1", category: "complaints", source: "[[complaints]]" }
-- { id: es_complaints_004, display: "¿Puede arreglar esto?", input: "¿Puede arreglar esto?", meaning: "Can you fix this?", level: "A2-B1", category: "complaints", source: "[[complaints]]" }
-- { id: es_complaints_005, display: "Hay un problema con...", input: "Hay un problema con...", meaning: "There is a problem with...", level: "A2", category: "complaints", source: "[[complaints]]" }
-- { id: es_complaints_006, display: "Quiero hablar con el encargado", input: "Quiero hablar con el encargado", meaning: "I want to speak to the manager", level: "A2", category: "complaints", source: "[[complaints]]" }
-- { id: es_complaints_007, display: "Quiero devolver esto", input: "Quiero devolver esto", meaning: "I want to return this", level: "A2", category: "complaints", source: "[[complaints]]" }
-- { id: es_complaints_008, display: "No me parece justo", input: "No me parece justo", meaning: "That doesn't seem fair to me", level: "B1", category: "complaints", source: "[[complaints]]" }
-- { id: es_complaints_009, display: "Quiero un reembolso", input: "Quiero un reembolso", meaning: "I want a refund", level: "A2-B1", category: "complaints", source: "[[complaints]]" }
-- { id: es_complaints_010, display: "Vengo a poner una queja", input: "Vengo a poner una queja", meaning: "I'm here to file a complaint", level: "A2-B1", category: "complaints", source: "[[complaints]]" }
+- { id: 'es_complaints_001', display: 'Quiero reclamar', input: 'Quiero reclamar', meaning: 'I want to file a complaint', level: 'A2-B1', category: 'complaints', source: '[[complaints]]' }
+- { id: 'es_complaints_002', display: 'Esto no es lo que pedí', input: 'Esto no es lo que pedí', meaning: 'This isn''t what I ordered', level: 'A2', category: 'complaints', source: '[[complaints]]' }
+- { id: 'es_complaints_003', display: 'No estoy satisfecho/a con', input: 'No estoy satisfecho/a con', meaning: 'I am not satisfied with', level: 'B1', category: 'complaints', source: '[[complaints]]' }
+- { id: 'es_complaints_004', display: '¿Puede arreglar esto?', input: '¿Puede arreglar esto?', meaning: 'Can you fix this?', level: 'A2-B1', category: 'complaints', source: '[[complaints]]' }
+- { id: 'es_complaints_005', display: 'Hay un problema con...', input: 'Hay un problema con...', meaning: 'There is a problem with...', level: 'A2', category: 'complaints', source: '[[complaints]]' }
+- { id: 'es_complaints_006', display: 'Quiero hablar con el encargado', input: 'Quiero hablar con el encargado', meaning: 'I want to speak to the manager', level: 'A2', category: 'complaints', source: '[[complaints]]' }
+- { id: 'es_complaints_007', display: 'Quiero devolver esto', input: 'Quiero devolver esto', meaning: 'I want to return this', level: 'A2', category: 'complaints', source: '[[complaints]]' }
+- { id: 'es_complaints_008', display: 'No me parece justo', input: 'No me parece justo', meaning: 'That doesn''t seem fair to me', level: 'B1', category: 'complaints', source: '[[complaints]]' }
+- { id: 'es_complaints_009', display: 'Quiero un reembolso', input: 'Quiero un reembolso', meaning: 'I want a refund', level: 'A2-B1', category: 'complaints', source: '[[complaints]]' }
 ```

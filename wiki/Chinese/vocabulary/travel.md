@@ -546,35 +546,35 @@ theme: "travel"
 
 > Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
-> The body above remains the human-readable form and the source of truth.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: zh_travel_001, display: "机场 (jīchǎng)", input: "jichang", meaning: "airport", level: "2", category: "travel", source: "[[travel]]" }
-- { id: zh_travel_002, display: "护照 (hùzhào)", input: "huzhao", meaning: "passport", level: "2", category: "travel", source: "[[travel]]" }
-- { id: zh_travel_003, display: "行李 (xíngli)", input: "xingli", meaning: "luggage", level: "2", category: "travel", source: "[[travel]]" }
-- { id: zh_travel_004, display: "登机口 (dēngjīkǒu)", input: "dengjikou", meaning: "gate", level: "3", category: "travel", source: "[[travel]]" }
-- { id: zh_travel_005, display: "值机 (zhíjī)", input: "zhiji", meaning: "check-in", level: "3", category: "travel", source: "[[travel]]" }
-- { id: zh_travel_006, display: "酒店 (jiǔdiàn)", input: "jiudian", meaning: "hotel", level: "2", category: "travel", source: "[[travel]]" }
-- { id: zh_travel_007, display: "预订 (yùdìng)", input: "yuding", meaning: "reservation", level: "3", category: "travel", source: "[[travel]]" }
-- { id: zh_travel_008, display: "房间 (fángjiān)", input: "fangjian", meaning: "room", level: "1", category: "travel", source: "[[travel]]" }
-- { id: zh_travel_009, display: "入住 (rùzhù)", input: "ruzhuj", meaning: "check-in", level: "3", category: "travel", source: "[[travel]]" }
-- { id: zh_travel_010, display: "餐厅 (cāntīng)", input: "canting", meaning: "restaurant", level: "2", category: "travel", source: "[[travel]]" }
-- { id: zh_travel_011, display: "菜单 (càidān)", input: "caidan", meaning: "menu", level: "2", category: "travel", source: "[[travel]]" }
-- { id: zh_travel_012, display: "点菜 (diǎncài)", input: "diancai", meaning: "order", level: "2", category: "travel", source: "[[travel]]" }
-- { id: zh_travel_013, display: "买单 (mǎidān)", input: "maidanj", meaning: "pay the bill", level: "2", category: "travel", source: "[[travel]]" }
-- { id: zh_travel_014, display: "地铁 (dìtiě)", input: "ditie", meaning: "subway", level: "2", category: "travel", source: "[[travel]]" }
-- { id: zh_travel_015, display: "高铁 (gāotiě)", input: "gaotie", meaning: "high-speed rail", level: "3", category: "travel", source: "[[travel]]" }
-- { id: zh_travel_016, display: "出租车 (chūzūchē)", input: "chuzuche", meaning: "taxi", level: "2", category: "travel", source: "[[travel]]" }
-- { id: zh_travel_017, display: "车站 (chēzhàn)", input: "chezhan", meaning: "station", level: "2", category: "travel", source: "[[travel]]" }
-- { id: zh_travel_018, display: "换乘 (huànchéng)", input: "huancheng", meaning: "transfer", level: "3", category: "travel", source: "[[travel]]" }
-- { id: zh_travel_019, display: "景点 (jǐngdiǎn)", input: "jingdian", meaning: "attraction", level: "3", category: "travel", source: "[[travel]]" }
-- { id: zh_travel_020, display: "地图 (dìtú)", input: "ditu", meaning: "map", level: "2", category: "travel", source: "[[travel]]" }
-- { id: zh_travel_021, display: "门票 (ménpiào)", input: "menpiao", meaning: "admission ticket", level: "3", category: "travel", source: "[[travel]]" }
-- { id: zh_travel_022, display: "左边 (zuǒbiān)", input: "zuobian", meaning: "left", level: "1", category: "travel", source: "[[travel]]" }
-- { id: zh_travel_023, display: "右边 (yòubiān)", input: "youbian", meaning: "right", level: "1", category: "travel", source: "[[travel]]" }
-- { id: zh_travel_024, display: "直走 (zhízǒu)", input: "zhizou", meaning: "go straight", level: "2", category: "travel", source: "[[travel]]" }
-- { id: zh_travel_025, display: "附近 (fùjìn)", input: "fujin", meaning: "nearby", level: "2", category: "travel", source: "[[travel]]" }
-- { id: zh_travel_026, display: "支付宝 (zhīfùbǎo)", input: "zhifubao", meaning: "Alipay", level: "3", category: "travel", source: "[[travel]]" }
-- { id: zh_travel_027, display: "微信支付 (wēixìn zhīfù)", input: "weixinfu", meaning: "WeChat Pay", level: "3", category: "travel", source: "[[travel]]" }
-- { id: zh_travel_028, display: "滴滴 (dīdī)", input: "didi", meaning: "DiDi (ride-hailing)", level: "3", category: "travel", source: "[[travel]]" }
+- { id: 'zh_travel_001', display: '机场', input: '机场', meaning: '', level: 'HSK 1-3', category: 'travel', source: '[[first-travel-china]]' }
+- { id: 'zh_travel_002', display: '护照', input: '护照', meaning: '', level: 'HSK 1-3', category: 'travel', source: '[[first-travel-china]]' }
+- { id: 'zh_travel_003', display: '行李', input: '行李', meaning: '', level: 'HSK 1-3', category: 'travel', source: '[[first-travel-china]]' }
+- { id: 'zh_travel_004', display: '登机口', input: '登机口', meaning: '', level: 'HSK 1-3', category: 'travel', source: '[[first-travel-china]]' }
+- { id: 'zh_travel_005', display: '值机', input: '值机', meaning: '', level: 'HSK 1-3', category: 'travel', source: '[[first-travel-china]]' }
+- { id: 'zh_travel_006', display: '酒店', input: '酒店', meaning: '', level: 'HSK 1-3', category: 'travel', source: '[[first-travel-china]]' }
+- { id: 'zh_travel_007', display: '预订', input: '预订', meaning: '', level: 'HSK 1-3', category: 'travel', source: '[[first-travel-china]]' }
+- { id: 'zh_travel_008', display: '入住', input: '入住', meaning: '', level: 'HSK 1-3', category: 'travel', source: '[[first-travel-china]]' }
+- { id: 'zh_travel_009', display: '房间', input: '房间', meaning: '', level: 'HSK 1-3', category: 'travel', source: '[[first-travel-china]]' }
+- { id: 'zh_travel_010', display: '餐厅', input: '餐厅', meaning: '', level: 'HSK 1-3', category: 'travel', source: '[[first-travel-china]]' }
+- { id: 'zh_travel_011', display: '菜单', input: '菜单', meaning: '', level: 'HSK 1-3', category: 'travel', source: '[[first-travel-china]]' }
+- { id: 'zh_travel_012', display: '点菜', input: '点菜', meaning: '', level: 'HSK 1-3', category: 'travel', source: '[[first-travel-china]]' }
+- { id: 'zh_travel_013', display: '买单', input: '买单', meaning: '', level: 'HSK 1-3', category: 'travel', source: '[[first-travel-china]]' }
+- { id: 'zh_travel_014', display: '地铁', input: '地铁', meaning: '', level: 'HSK 1-3', category: 'travel', source: '[[first-travel-china]]' }
+- { id: 'zh_travel_015', display: '出租车', input: '出租车', meaning: '', level: 'HSK 1-3', category: 'travel', source: '[[first-travel-china]]' }
+- { id: 'zh_travel_016', display: '高铁', input: '高铁', meaning: '', level: 'HSK 1-3', category: 'travel', source: '[[first-travel-china]]' }
+- { id: 'zh_travel_017', display: '车站', input: '车站', meaning: '', level: 'HSK 1-3', category: 'travel', source: '[[first-travel-china]]' }
+- { id: 'zh_travel_018', display: '换乘', input: '换乘', meaning: '', level: 'HSK 1-3', category: 'travel', source: '[[first-travel-china]]' }
+- { id: 'zh_travel_019', display: '景点', input: '景点', meaning: '', level: 'HSK 1-3', category: 'travel', source: '[[first-travel-china]]' }
+- { id: 'zh_travel_020', display: '地图', input: '地图', meaning: '', level: 'HSK 1-3', category: 'travel', source: '[[first-travel-china]]' }
+- { id: 'zh_travel_021', display: '门票', input: '门票', meaning: '', level: 'HSK 1-3', category: 'travel', source: '[[first-travel-china]]' }
+- { id: 'zh_travel_022', display: '左边', input: '左边', meaning: '', level: 'HSK 1-3', category: 'travel', source: '[[first-travel-china]]' }
+- { id: 'zh_travel_023', display: '右边', input: '右边', meaning: '', level: 'HSK 1-3', category: 'travel', source: '[[first-travel-china]]' }
+- { id: 'zh_travel_024', display: '直走', input: '直走', meaning: '', level: 'HSK 1-3', category: 'travel', source: '[[first-travel-china]]' }
+- { id: 'zh_travel_025', display: '附近', input: '附近', meaning: '', level: 'HSK 1-3', category: 'travel', source: '[[first-travel-china]]' }
+- { id: 'zh_travel_026', display: '支付宝', input: '支付宝', meaning: '', level: 'HSK 1-3', category: 'travel', source: '[[first-travel-china]]' }
+- { id: 'zh_travel_027', display: '微信支付', input: '微信支付', meaning: '', level: 'HSK 1-3', category: 'travel', source: '[[first-travel-china]]' }
+- { id: 'zh_travel_028', display: '滴滴', input: '滴滴', meaning: '', level: 'HSK 1-3', category: 'travel', source: '[[first-travel-china]]' }
 ```

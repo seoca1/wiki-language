@@ -1430,15 +1430,240 @@ theme: "clothing"
 
 ## Pipeline Form (machine-readable)
 
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
+
 ```yaml
-- { id: zh_clothing_001, display: "衣服 (yīfu)", input: "yīfu", meaning: "clothes", level: "1", category: "clothing", source: "[[clothing-vocabulary]]" }
-- { id: zh_clothing_002, display: "裤子 (kùzi)", input: "kùzi", meaning: "pants", level: "1", category: "clothing", source: "[[clothing-vocabulary]]" }
-- { id: zh_clothing_003, display: "鞋子 (xié)", input: "xié", meaning: "shoes", level: "1", category: "clothing", source: "[[clothing-vocabulary]]" }
-- { id: zh_clothing_004, display: "帽子 (màozi)", input: "màozi", meaning: "hat", level: "1", category: "clothing", source: "[[clothing-vocabulary]]" }
-- { id: zh_clothing_005, display: "T恤 (T xù)", input: "T xù", meaning: "T-shirt", level: "1", category: "clothing", source: "[[clothing-vocabulary]]" }
-- { id: zh_clothing_006, display: "外套 (wàitào)", input: "wàitào", meaning: "jacket", level: "1", category: "clothing", source: "[[clothing-vocabulary]]" }
-- { id: zh_clothing_007, display: "裙子 (qúnzi)", input: "qúnzi", meaning: "skirt", level: "1", category: "clothing", source: "[[clothing-vocabulary]]" }
-- { id: zh_clothing_008, display: "袜子 (wàzi)", input: "wàzi", meaning: "socks", level: "1", category: "clothing", source: "[[clothing-vocabulary]]" }
-- { id: zh_clothing_009, display: "毛衣 (máoyī)", input: "máoyī", meaning: "sweater", level: "1", category: "clothing", source: "[[clothing-vocabulary]]" }
-- { id: zh_clothing_010, display: "围巾 (wéijīn)", input: "wéijīn", meaning: "scarf", level: "2", category: "clothing", source: "[[clothing-vocabulary]]" }
+- { id: 'zh_clothing_001', display: 'T恤 (T xù)', input: 'T xù', meaning: 'T-shirt', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_002', display: '衬衫 (chènshān)', input: 'chènshān', meaning: 'Shirt', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_003', display: '外套 (wàitào)', input: 'wàitào', meaning: 'Jacket', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_004', display: '夹克 (jiákè)', input: 'jiákè', meaning: 'Jacket', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_005', display: '毛衣 (máoyī)', input: 'máoyī', meaning: 'Sweater', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_006', display: '大衣 (dàyī)', input: 'dàyī', meaning: 'Coat', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_007', display: '风衣 (fēngyī)', input: 'fēngyī', meaning: 'Windbreaker', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_008', display: '夹克衫 (jiákè shān)', input: 'jiákè shān', meaning: 'Jacket', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_009', display: '羽绒服 (yǔróngfú)', input: 'yǔróngfú', meaning: 'Down jacket', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_010', display: '棉袄 (mián''ǎo)', input: 'mián''ǎo', meaning: 'Cotton-padded jacket', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_011', display: '马甲 (mǎjiǎ)', input: 'mǎjiǎ', meaning: 'Vest', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_012', display: '背带 (bēidài)', input: 'bēidài', meaning: 'Suspenders', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_013', display: '罩衫 (zhàoshān)', input: 'zhàoshān', meaning: 'Coverall', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_014', display: '工作服 (gōngzuòfú)', input: 'gōngzuòfú', meaning: 'Work clothes', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_015', display: '制服 (zhìfú)', input: 'zhìfú', meaning: 'Uniform', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_016', display: '裤子 (kùzi)', input: 'kùzi', meaning: 'Pants', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_017', display: '牛仔裤 (niúzǎi)', input: 'niúzǎi', meaning: 'Jeans', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_018', display: '长裤 (chángkù)', input: 'chángkù', meaning: 'Long pants', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_019', display: '短裤 (duǎnkù)', input: 'duǎnkù', meaning: 'Shorts', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_020', display: '七分裤 (qīfēnkù)', input: 'qīfēnkù', meaning: 'Capri pants', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_021', display: '九分裤 (jiǔfēnkù)', input: 'jiǔfēnkù', meaning: 'Ankle pants', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_022', display: '运动裤 (yùndòngkù)', input: 'yùndòngkù', meaning: 'Sweatpants', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_023', display: '休闲裤 (xiūxiánkù)', input: 'xiūxiánkù', meaning: 'Casual pants', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_024', display: '西裤 (xīkù)', input: 'xīkù', meaning: 'Dress pants', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_025', display: '棉裤 (miánkù)', input: 'miánkù', meaning: 'Cotton pants', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_026', display: '羽绒裤 (yǔróngkù)', input: 'yǔróngkù', meaning: 'Down pants', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_027', display: '灯笼裤 (dēnglóngkù)', input: 'dēnglóngkù', meaning: 'Bloomers', level: '4', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_028', display: '裙裤 (qúnkù)', input: 'qúnkù', meaning: 'Culottes', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_029', display: '喇叭裤 (lǎbākù)', input: 'lǎbākù', meaning: 'Bell-bottoms', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_030', display: '阔腿裤 (kuòtuǐkù)', input: 'kuòtuǐkù', meaning: 'Wide-leg pants', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_031', display: '裙子 (qúnzi)', input: 'qúnzi', meaning: 'Skirt', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_032', display: '连衣裙 (liányīqún)', input: 'liányīqún', meaning: 'Dress', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_033', display: '短裙 (duǎnqún)', input: 'duǎnqún', meaning: 'Short skirt', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_034', display: '长裙 (chángqún)', input: 'chángqún', meaning: 'Long skirt', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_035', display: '百褶裙 (bǎizhěqún)', input: 'bǎizhěqún', meaning: 'Pleated skirt', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_036', display: 'A字裙 (A zì qún)', input: 'A zì qún', meaning: 'A-line skirt', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_037', display: '蓬蓬裙 (péngpéngqún)', input: 'péngpéngqún', meaning: 'Puffy skirt', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_038', display: '鱼尾裙 (yúwěiqún)', input: 'yúwěiqún', meaning: 'Mermaid skirt', level: '4', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_039', display: '半身裙 (bànshēnqún)', input: 'bànshēnqún', meaning: 'Half skirt', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_040', display: '旗袍 (qípáo)', input: 'qípáo', meaning: 'Qipao/Cheongsam', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_041', display: '晚礼服 (wǎnlǐfú)', input: 'wǎnlǐfú', meaning: 'Evening gown', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_042', display: '婚纱 (hūnshā)', input: 'hūnshā', meaning: 'Wedding dress', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_043', display: '礼服 (lǐfú)', input: 'lǐfú', meaning: 'Formal dress', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_044', display: '内衣 (nèiyī)', input: 'nèiyī', meaning: 'Underwear', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_045', display: '内裤 (nèikù)', input: 'nèikù', meaning: 'Underpants', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_046', display: '文胸 (wénxiōng)', input: 'wénxiōng', meaning: 'Bra', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_047', display: '睡衣 (shuìyī)', input: 'shuìyī', meaning: 'Pajamas', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_048', display: '睡裙 (shuìqún)', input: 'shuìqún', meaning: 'Nightgown', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_049', display: '家居服 (jiājūfú)', input: 'jiājūfú', meaning: 'Home wear', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_050', display: '秋衣秋裤 (qiūyī qiūkù)', input: 'qiūyī qiūkù', meaning: 'Thermal underwear', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_051', display: '保暖内衣 (bǎonuǎn nèiyī)', input: 'bǎonuǎn nèiyī', meaning: 'Thermal underwear', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_052', display: '塑身衣 (sùshēnyī)', input: 'sùshēnyī', meaning: 'Shapewear', level: '4', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_053', display: '束腰带 (shùyāodài)', input: 'shùyāodài', meaning: 'Waist trainer', level: '4', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_054', display: '袜 (wà)', input: 'wà', meaning: 'Sock', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_055', display: '连裤袜 (liánkùwà)', input: 'liánkùwà', meaning: 'Pantyhose', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_056', display: '丝袜 (sīwà)', input: 'sīwà', meaning: 'Silk stockings', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_057', display: '棉袜 (miánwà)', input: 'miánwà', meaning: 'Cotton socks', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_058', display: '运动袜 (yùndòngwà)', input: 'yùndòngwà', meaning: 'Sports socks', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_059', display: '船袜 (chuánwà)', input: 'chuánwà', meaning: 'No-show socks', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_060', display: '短袜 (duǎnwà)', input: 'duǎnwà', meaning: 'Ankle socks', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_061', display: '长袜 (chángwà)', input: 'chángwà', meaning: 'Long socks', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_062', display: '网袜 (wǎngwà)', input: 'wǎngwà', meaning: 'Fishnet stockings', level: '4', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_063', display: '羊毛袜 (yángmáowà)', input: 'yángmáowà', meaning: 'Wool socks', level: '4', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_064', display: '长筒袜 (chángtǒngwà)', input: 'chángtǒngwà', meaning: 'Thigh-high socks', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_065', display: '鞋 (xié)', input: 'xié', meaning: 'Shoe', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_066', display: '运动鞋 (yùndòngxié)', input: 'yùndòngxié', meaning: 'Sneakers', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_067', display: '皮鞋 (píxié)', input: 'píxié', meaning: 'Leather shoes', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_068', display: '凉鞋 (liángxié)', input: 'liángxié', meaning: 'Sandals', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_069', display: '拖鞋 (tuōxié)', input: 'tuōxié', meaning: 'Slippers', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_070', display: '靴子 (xuēzi)', input: 'xuēzi', meaning: 'Boots', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_071', display: '高跟鞋 (gāogēnxié)', input: 'gāogēnxié', meaning: 'High heels', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_072', display: '帆布鞋 (fānbùxié)', input: 'fānbùxié', meaning: 'Canvas shoes', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_073', display: '跑鞋 (pǎoxié)', input: 'pǎoxié', meaning: 'Running shoes', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_074', display: '篮球鞋 (lánqiúxié)', input: 'lánqiúxié', meaning: 'Basketball shoes', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_075', display: '足球鞋 (zúqiúxié)', input: 'zúqiúxié', meaning: 'Soccer shoes/Football boots', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_076', display: '雪地靴 (xuědìxuē)', input: 'xuědìxuē', meaning: 'Snow boots', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_077', display: '雨靴 (yǔxuē)', input: 'yǔxuē', meaning: 'Rain boots', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_078', display: '布鞋 (bùxié)', input: 'bùxié', meaning: 'Cloth shoes', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_079', display: '草鞋 (cǎoxié)', input: 'cǎoxié', meaning: 'Straw sandals', level: '4', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_080', display: '人字拖 (rénzìtuō)', input: 'rénzìtuō', meaning: 'Flip-flops', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_081', display: '棉拖 (miántuō)', input: 'miántuō', meaning: 'Cotton slippers', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_082', display: '帽子 (màozi)', input: 'màozi', meaning: 'Hat', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_083', display: '鸭舌帽 (yāshémào)', input: 'yāshémào', meaning: 'Baseball cap', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_084', display: '棒球帽 (bàngqiúmào)', input: 'bàngqiúmào', meaning: 'Baseball cap', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_085', display: '草帽 (cǎomào)', input: 'cǎomào', meaning: 'Straw hat', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_086', display: '礼帽 (lǐmào)', input: 'lǐmào', meaning: 'Top hat', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_087', display: '太阳帽 (tàiyángmào)', input: 'tàiyángmào', meaning: 'Sun hat', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_088', display: '渔夫帽 (yúfūmào)', input: 'yúfūmào', meaning: 'Bucket hat', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_089', display: '贝雷帽 (bèilèimào)', input: 'bèilèimào', meaning: 'Beret', level: '4', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_090', display: '头巾 (tóujīn)', input: 'tóujīn', meaning: 'Headscarf', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_091', display: '发卡 (fàkǎ)', input: 'fàkǎ', meaning: 'Hair clip', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_092', display: '发圈 (fàquān)', input: 'fàquān', meaning: 'Hair tie', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_093', display: '发带 (fàdài)', input: 'fàdài', meaning: 'Headband', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_094', display: '发簪 (fàzān)', input: 'fàzān', meaning: 'Hairpin', level: '4', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_095', display: '项链 (xiàngliàn)', input: 'xiàngliàn', meaning: 'Necklace', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_096', display: '耳环 (ěrhuán)', input: 'ěrhuán', meaning: 'Earrings', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_097', display: '耳钉 (ěrdīng)', input: 'ěrdīng', meaning: 'Stud earrings', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_098', display: '手链 (shǒuliàn)', input: 'shǒuliàn', meaning: 'Bracelet', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_099', display: '戒指 (jièzhǐ)', input: 'jièzhǐ', meaning: 'Ring', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_100', display: '手表 (shǒubiǎo)', input: 'shǒubiǎo', meaning: 'Watch', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_101', display: '眼镜 (yǎnjìng)', input: 'yǎnjìng', meaning: 'Glasses', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_102', display: '太阳镜 (tàiyángjìng)', input: 'tàiyángjìng', meaning: 'Sunglasses', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_103', display: '隐形眼镜 (yǐnxíng yǎnjìng)', input: 'yǐnxíng yǎnjìng', meaning: 'Contact lenses', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_104', display: '围巾 (wéijīn)', input: 'wéijīn', meaning: 'Scarf', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_105', display: '手套 (shǒutào)', input: 'shǒutào', meaning: 'Gloves', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_106', display: '皮带 (pídài)', input: 'pídài', meaning: 'Belt', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_107', display: '钱包 (qiánbāo)', input: 'qiánbāo', meaning: 'Wallet', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_108', display: '钥匙扣 (yàochikòu)', input: 'yàochikòu', meaning: 'Keychain', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_109', display: '太阳伞 (tàiyángsǎn)', input: 'tàiyángsǎn', meaning: 'Sun umbrella', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_110', display: '雨伞 (yǔsǎn)', input: 'yǔsǎn', meaning: 'Umbrella', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_111', display: '背包 (bèibāo)', input: 'bèibāo', meaning: 'Backpack', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_112', display: '手提包 (shǒutíbāo)', input: 'shǒutíbāo', meaning: 'Handbag', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_113', display: '双肩包 (shuāngjiānbāo)', input: 'shuāngjiānbāo', meaning: 'Backpack', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_114', display: '旅行箱 (lǚxíngxiāng)', input: 'lǚxíngxiāng', meaning: 'Suitcase', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_115', display: '行李箱 (xínglǐxiāng)', input: 'xínglǐxiāng', meaning: 'Luggage', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_116', display: '手提箱 (shǒutíxiāng)', input: 'shǒutíxiāng', meaning: 'Suitcase', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_117', display: '书包 (shūbāo)', input: 'shūbāo', meaning: 'School bag', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_118', display: '学生书包 (xuéshēng shūbāo)', input: 'xuéshēng shūbāo', meaning: 'Student schoolbag', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_119', display: '棉 (mián)', input: 'mián', meaning: 'Cotton', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_120', display: '麻 (má)', input: 'má', meaning: 'Linen/Hemp', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_121', display: '丝 (sī)', input: 'sī', meaning: 'Silk', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_122', display: '羊毛 (yángmáo)', input: 'yángmáo', meaning: 'Wool', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_123', display: '羊绒 (yángróng)', input: 'yángróng', meaning: 'Cashmere', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_124', display: '涤纶 (dílún)', input: 'dílún', meaning: 'Polyester', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_125', display: '尼纶 (nílún)', input: 'nílún', meaning: 'Nylon', level: '4', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_126', display: '腈纶 (jīnglún)', input: 'jīnglún', meaning: 'Acrylic', level: '4', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_127', display: '莫代尔 (mòdài''ěr)', input: 'mòdài''ěr', meaning: 'Modal', level: '5', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_128', display: '莱赛尔 (láisài''ěr)', input: 'láisài''ěr', meaning: 'Lyocell/Tencel', level: '5', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_129', display: '棉麻 (miánmá)', input: 'miánmá', meaning: 'Cotton-linen blend', level: '4', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_130', display: '真丝 (zhēnsī)', input: 'zhēnsī', meaning: 'Pure silk', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_131', display: '天丝 (tiānsī)', input: 'tiānsī', meaning: 'Tencel', level: '5', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_132', display: '雪纺 (xuěfǎng)', input: 'xuěfǎng', meaning: 'Chiffon', level: '4', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_133', display: '纱 (shā)', input: 'shā', meaning: 'Gauze/Yarn', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_134', display: '呢绒 (níróng)', input: 'níróng', meaning: 'Woolen cloth', level: '4', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_135', display: '灯芯绒 (dēngxīnróng)', input: 'dēngxīnróng', meaning: 'Corduroy', level: '4', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_136', display: '麂皮绒 (jǐpíóng)', input: 'jǐpíóng', meaning: 'Suede', level: '4', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_137', display: '皮革 (pígé)', input: 'pígé', meaning: 'Leather', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_138', display: '仿皮 (fǎngpí)', input: 'fǎngpí', meaning: 'Faux leather', level: '4', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_139', display: 'PU皮 (PU pí)', input: 'PU pí', meaning: 'PU leather', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_140', display: 'PVC皮 (PVC pí)', input: 'PVC pí', meaning: 'PVC leather', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_141', display: '帆布 (fānbù)', input: 'fānbù', meaning: 'Canvas', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_142', display: '牛仔布 (niúzǎibù)', input: 'niúzǎibù', meaning: 'Denim', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_143', display: '呢子 (nízi)', input: 'nízi', meaning: 'Woolen cloth', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_144', display: '绒布 (róngbù)', input: 'róngbù', meaning: 'Velvet', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_145', display: '丝绸 (sīchóu)', input: 'sīchóu', meaning: 'Silk', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_146', display: '锦缎 (jǐnduàn)', input: 'jǐnduàn', meaning: 'Brocade', level: '4', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_147', display: '棉麻混纺 (miánmá hùnfǎng)', input: 'miánmá hùnfǎng', meaning: 'Cotton-linen blend', level: '4', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_148', display: '涤棉混纺 (dǐmián hùnfǎng)', input: 'dǐmián hùnfǎng', meaning: 'Polyester-cotton blend', level: '4', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_149', display: '莫代尔棉 (mòdài''ěr mián)', input: 'mòdài''ěr mián', meaning: 'Modal-cotton blend', level: '4', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_150', display: '竹纤维 (zhúxiānwéi)', input: 'zhúxiānwéi', meaning: 'Bamboo fiber', level: '4', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_151', display: '大豆纤维 (dàdòu xiānwéi)', input: 'dàdòu xiānwéi', meaning: 'Soy fiber', level: '4', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_152', display: '玉米纤维 (yùmǐ xiānwéi)', input: 'yùmǐ xiānwéi', meaning: 'Corn fiber', level: '4', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_153', display: '竹炭纤维 (zhútàn xiānwéi)', input: 'zhútàn xiānwéi', meaning: 'Bamboo charcoal fiber', level: '4', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_154', display: '椰碳纤维 (yētàn xiānwéi)', input: 'yētàn xiānwéi', meaning: 'Coconut charcoal fiber', level: '4', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_155', display: '草本纤维 (cǎoběn xiānwéi)', input: 'cǎoběn xiānwéi', meaning: 'Herbal fiber', level: '4', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_156', display: '春装 (chūnzhuāng)', input: 'chūnzhuāng', meaning: 'Spring clothes', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_157', display: '夏装 (xiàzhuāng)', input: 'xiàzhuāng', meaning: 'Summer clothes', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_158', display: '秋装 (qiūzhuāng)', input: 'qiūzhuāng', meaning: 'Autumn clothes', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_159', display: '冬装 (dōngzhuāng)', input: 'dōngzhuāng', meaning: 'Winter clothes', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_160', display: '泳装 (yǒngzhuāng)', input: 'yǒngzhuāng', meaning: 'Swimsuit', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_161', display: '晚装 (wǎnzhuāng)', input: 'wǎnzhuāng', meaning: 'Evening dress', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_162', display: '休闲装 (xiūxiánzhuāng)', input: 'xiūxiánzhuāng', meaning: 'Casual wear', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_163', display: '运动装 (yùndòngzhuāng)', input: 'yùndòngzhuāng', meaning: 'Sportswear', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_164', display: '工作装 (gōngzuòzhuāng)', input: 'gōngzuòzhuāng', meaning: 'Work wear', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_165', display: '校服 (xiàofú)', input: 'xiàofú', meaning: 'School uniform', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_166', display: '纯色 (chúnsè)', input: 'chúnsè', meaning: 'Solid color', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_167', display: '花色 (huāsè)', input: 'huāsè', meaning: 'Patterned', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_168', display: '条纹 (tiáowén)', input: 'tiáowén', meaning: 'Striped', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_169', display: '格子 (gézi)', input: 'gézi', meaning: 'Plaid/Checkered', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_170', display: '印花 (yìnhuā)', input: 'yìnhuā', meaning: 'Printed', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_171', display: '刺绣 (cìxiù)', input: 'cìxiù', meaning: 'Embroidered', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_172', display: '镂空 (lòukōng)', input: 'lòukōng', meaning: 'Hollowed out', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_173', display: '蕾丝 (lěisī)', input: 'lěisī', meaning: 'Lace', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_174', display: '亮片 (liàngpiàn)', input: 'liàngpiàn', meaning: 'Sequins', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_175', display: '拼接 (pīnjiē)', input: 'pīnjiē', meaning: 'Patchwork', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_176', display: '渐变 (jiànbiàn)', input: 'jiànbiàn', meaning: 'Gradient', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_177', display: '撞色 (zhuàngsè)', input: 'zhuàngsè', meaning: 'Color-blocking', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_178', display: '试穿 (shìchuān)', input: 'shìchuān', meaning: 'Try on', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_179', display: '试衣间 (shìyījiān)', input: 'shìyījiān', meaning: 'Fitting room', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_180', display: '尺码 (chǐmǎ)', input: 'chǐmǎ', meaning: 'Size', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_181', display: '大号 (dàhào)', input: 'dàhào', meaning: 'Large', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_182', display: '中号 (zhōnghào)', input: 'zhōnghào', meaning: 'Medium', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_183', display: '小号 (xiǎohào)', input: 'xiǎohào', meaning: 'Small', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_184', display: '大码 (dàmǎ)', input: 'dàmǎ', meaning: 'Plus size', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_185', display: '加大码 (jiādàmǎ)', input: 'jiādàmǎ', meaning: 'Extra large', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_186', display: '均码 (jūnmǎ)', input: 'jūnmǎ', meaning: 'One size', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_187', display: '颜色 (yánsè)', input: 'yánsè', meaning: 'Color', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_188', display: '款式 (kuǎnshì)', input: 'kuǎnshì', meaning: 'Style', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_189', display: '面料 (miànliào)', input: 'miànliào', meaning: 'Fabric', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_190', display: '材质 (cáizhì)', input: 'cáizhì', meaning: 'Material', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_191', display: '价格 (jiàgé)', input: 'jiàgé', meaning: 'Price', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_192', display: '折扣 (zhékòu)', input: 'zhékòu', meaning: 'Discount', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_193', display: '满减 (mǎnjiǎn)', input: 'mǎnjiǎn', meaning: 'Full reduction', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_194', display: '优惠券 (yōuhuìquàn)', input: 'yōuhuìquàn', meaning: 'Coupon', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_195', display: '换货 (huànhuò)', input: 'huànhuò', meaning: 'Exchange', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_196', display: '退货 (tuìhuò)', input: 'tuìhuò', meaning: 'Return', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_197', display: '发票 (fāpiào)', input: 'fāpiào', meaning: 'Receipt/Invoice', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_198', display: '保修 (bǎoxiū)', input: 'bǎoxiū', meaning: 'Warranty', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_199', display: '维修 (wéixiū)', input: 'wéixiū', meaning: 'Repair', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_200', display: '干洗 (gānxǐ)', input: 'gānxǐ', meaning: 'Dry clean', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_201', display: '水洗 (shuǐxǐ)', input: 'shuǐxǐ', meaning: 'Hand wash', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_202', display: '机洗 (jīxǐ)', input: 'jīxǐ', meaning: 'Machine wash', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_203', display: '漂白 (piǎobái)', input: 'piǎobái', meaning: 'Bleach', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_204', display: '熨烫 (yùntàng)', input: 'yùntàng', meaning: 'Iron', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_205', display: '烘干 (hōnggān)', input: 'hōnggān', meaning: 'Tumble dry', level: '3', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_206', display: '晾干 (liànggān)', input: 'liànggān', meaning: 'Hang dry', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_207', display: '阴干 (yīngān)', input: 'yīngān', meaning: 'Dry in shade', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_208', display: '晾晒 (liàngshài)', input: 'liàngshài', meaning: 'Hang to dry', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_209', display: '折叠 (zhédié)', input: 'zhédié', meaning: 'Fold', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_210', display: '收纳 (shōunà)', input: 'shōunà', meaning: 'Store', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_211', display: '整理 (zhěnglǐ)', input: 'zhěnglǐ', meaning: 'Organize', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_212', display: '搭配 (dāpèi)', input: 'dāpèi', meaning: 'Match/Coordinate', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_213', display: '混搭 (hùndā)', input: 'hùndā', meaning: 'Mix and match', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_214', display: '时尚 (shíshàng)', input: 'shíshàng', meaning: 'Fashionable', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_215', display: '流行 (liúxíng)', input: 'liúxíng', meaning: 'Trendy', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_216', display: '经典 (jīngdiǎn)', input: 'jīngdiǎn', meaning: 'Classic', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_217', display: '复古 (fùgǔ)', input: 'fùgǔ', meaning: 'Retro', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_218', display: '简约 (jiǎnyuē)', input: 'jiǎnyuē', meaning: 'Minimalist', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_219', display: '个性 (gèxìng)', input: 'gèxìng', meaning: 'Personal/Unique', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_220', display: '大方 (dàfāng)', input: 'dàfāng', meaning: 'Generous/Elegant', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_221', display: '得体 (détǐ)', input: 'détǐ', meaning: 'Appropriate/Decent', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_222', display: '合适 (héshì)', input: 'héshì', meaning: 'Suitable', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_223', display: '合身 (héshēn)', input: 'héshēn', meaning: 'Fitted', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_224', display: '宽松 (kuānsōng)', input: 'kuānsōng', meaning: 'Loose', level: '1', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_225', display: '紧身 (jǐnshēn)', input: 'jǐnshēn', meaning: 'Tight', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_226', display: '透气 (tòuqì)', input: 'tòuqì', meaning: 'Breathable', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_227', display: '吸汗 (xīhàn)', input: 'xīhàn', meaning: 'Sweat-absorbing', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_228', display: '防水 (fángshuǐ)', input: 'fángshuǐ', meaning: 'Waterproof', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_229', display: '防风 (fángfēng)', input: 'fángfēng', meaning: 'Windproof', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_230', display: '保暖 (bǎonuǎn)', input: 'bǎonuǎn', meaning: 'Warm', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
+- { id: 'zh_clothing_231', display: '凉爽 (liángshuǎng)', input: 'liángshuǎng', meaning: 'Cool', level: '2', category: 'clothing', source: '[[clothing-vocabulary]]' }
 ```

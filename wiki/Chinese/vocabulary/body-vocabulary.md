@@ -855,15 +855,126 @@ theme: "body"
 
 ## Pipeline Form (machine-readable)
 
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
+
 ```yaml
-- { id: zh_body_001, display: "头 (tóu)", input: "tóu", meaning: "head", level: "1", category: "body", source: "[[body-vocabulary]]" }
-- { id: zh_body_002, display: "眼睛 (yǎnjing)", input: "yǎnjing", meaning: "eye", level: "1", category: "body", source: "[[body-vocabulary]]" }
-- { id: zh_body_003, display: "鼻子 (bízi)", input: "bízi", meaning: "nose", level: "1", category: "body", source: "[[body-vocabulary]]" }
-- { id: zh_body_004, display: "嘴 (zuǐ)", input: "zuǐ", meaning: "mouth", level: "1", category: "body", source: "[[body-vocabulary]]" }
-- { id: zh_body_005, display: "耳朵 (ěrduo)", input: "ěrduo", meaning: "ear", level: "1", category: "body", source: "[[body-vocabulary]]" }
-- { id: zh_body_006, display: "手 (shǒu)", input: "shǒu", meaning: "hand", level: "1", category: "body", source: "[[body-vocabulary]]" }
-- { id: zh_body_007, display: "脚 (jiǎo)", input: "jiǎo", meaning: "foot", level: "1", category: "body", source: "[[body-vocabulary]]" }
-- { id: zh_body_008, display: "身体 (shēntǐ)", input: "shēntǐ", meaning: "body", level: "1", category: "body", source: "[[body-vocabulary]]" }
-- { id: zh_body_009, display: "头发 (tóufa)", input: "tóufa", meaning: "hair", level: "1", category: "body", source: "[[body-vocabulary]]" }
-- { id: zh_body_010, display: "脸 (liǎn)", input: "liǎn", meaning: "face", level: "1", category: "body", source: "[[body-vocabulary]]" }
+- { id: 'zh_body_001', display: '头 (tóu)', input: 'tóu', meaning: 'Head', level: '1', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_002', display: '头发 (tóufa)', input: 'tóufa', meaning: 'Hair', level: '1', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_003', display: '脸 (liǎn)', input: 'liǎn', meaning: 'Face', level: '1', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_004', display: '眼睛 (yǎnjing)', input: 'yǎnjing', meaning: 'Eye', level: '1', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_005', display: '鼻子 (bízi)', input: 'bízi', meaning: 'Nose', level: '1', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_006', display: '嘴 (zuǐ)', input: 'zuǐ', meaning: 'Mouth', level: '1', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_007', display: '嘴唇 (zuǐchún)', input: 'zuǐchún', meaning: 'Lip', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_008', display: '牙齿 (yáchǐ)', input: 'yáchǐ', meaning: 'Tooth', level: '1', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_009', display: '舌头 (shétou)', input: 'shétou', meaning: 'Tongue', level: '1', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_010', display: '耳朵 (ěrduo)', input: 'ěrduo', meaning: 'Ear', level: '1', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_011', display: '眉毛 (méimao)', input: 'méimao', meaning: 'Eyebrow', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_012', display: '睫毛 (jiémáo)', input: 'jiémáo', meaning: 'Eyelash', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_013', display: '额头 (é''tóu)', input: 'é''tóu', meaning: 'Forehead', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_014', display: '脸颊 (liǎnjiá)', input: 'liǎnjiá', meaning: 'Cheek', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_015', display: '下巴 (xiàba)', input: 'xiàba', meaning: 'Chin', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_016', display: '喉咙 (hóulóng)', input: 'hóulóng', meaning: 'Throat', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_017', display: '脖子 (bózi)', input: 'bózi', meaning: 'Neck', level: '1', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_018', display: '身体 (shēntǐ)', input: 'shēntǐ', meaning: 'Body', level: '1', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_019', display: '肩膀 (jiānbǎng)', input: 'jiānbǎng', meaning: 'Shoulder', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_020', display: '背 (bèi)', input: 'bèi', meaning: 'Back', level: '1', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_021', display: '胸 (xiōng)', input: 'xiōng', meaning: 'Chest', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_022', display: '肚子 (dùzi)', input: 'dùzi', meaning: 'Stomach/Belly', level: '1', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_023', display: '腰 (yāo)', input: 'yāo', meaning: 'Waist', level: '1', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_024', display: '屁股 (pìgu)', input: 'pìgu', meaning: 'Buttocks', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_025', display: '手 (shǒu)', input: 'shǒu', meaning: 'Hand', level: '1', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_026', display: '手臂 (shǒubì)', input: 'shǒubì', meaning: 'Arm', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_027', display: '腿 (tuǐ)', input: 'tuǐ', meaning: 'Leg', level: '1', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_028', display: '脚 (jiǎo)', input: 'jiǎo', meaning: 'Foot', level: '1', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_029', display: '膝盖 (xīgài)', input: 'xīgài', meaning: 'Knee', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_030', display: '手腕 (shǒuwàn)', input: 'shǒuwàn', meaning: 'Wrist', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_031', display: '脚踝 (jiǎohuái)', input: 'jiǎohuái', meaning: 'Ankle', level: '3', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_032', display: '肘部 (zhǒubù)', input: 'zhǒubù', meaning: 'Elbow', level: '3', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_033', display: '手指 (shǒuzhǐ)', input: 'shǒuzhǐ', meaning: 'Finger', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_034', display: '脚趾 (jiǎozhǐ)', input: 'jiǎozhǐ', meaning: 'Toe', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_035', display: '拇指 (mǔzhǐ)', input: 'mǔzhǐ', meaning: 'Thumb', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_036', display: '食指 (shízhǐ)', input: 'shízhǐ', meaning: 'Index finger', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_037', display: '中指 (zhōngzhǐ)', input: 'zhōngzhǐ', meaning: 'Middle finger', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_038', display: '无名指 (wúmíngzhǐ)', input: 'wúmíngzhǐ', meaning: 'Ring finger', level: '3', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_039', display: '小指 (xiǎozhǐ)', input: 'xiǎozhǐ', meaning: 'Little finger', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_040', display: '指甲 (zhǐjia)', input: 'zhǐjia', meaning: 'Nail (finger/toe)', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_041', display: '手掌 (shǒuzhǎng)', input: 'shǒuzhǎng', meaning: 'Palm', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_042', display: '手背 (shǒubèi)', input: 'shǒubèi', meaning: 'Back of hand', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_043', display: '脚掌 (jiǎozhǎng)', input: 'jiǎozhǎng', meaning: 'Sole of foot', level: '3', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_044', display: '脚背 (jiǎobèi)', input: 'jiǎobèi', meaning: 'Top of foot', level: '3', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_045', display: '心脏 (xīnzàng)', input: 'xīnzàng', meaning: 'Heart', level: '3', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_046', display: '肺 (fèi)', input: 'fèi', meaning: 'Lung', level: '3', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_047', display: '肝 (gān)', input: 'gān', meaning: 'Liver', level: '3', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_048', display: '肾 (shèn)', input: 'shèn', meaning: 'Kidney', level: '3', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_049', display: '胃 (wèi)', input: 'wèi', meaning: 'Stomach', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_050', display: '脾 (pí)', input: 'pí', meaning: 'Spleen', level: '4', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_051', display: '膀胱 (pángguāng)', input: 'pángguāng', meaning: 'Bladder', level: '4', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_052', display: '子宫 (zǐgōng)', input: 'zǐgōng', meaning: 'Uterus', level: '4', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_053', display: '脑 (nǎo)', input: 'nǎo', meaning: 'Brain', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_054', display: '心 (xīn)', input: 'xīn', meaning: 'Heart', level: '1', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_055', display: '肠 (cháng)', input: 'cháng', meaning: 'Intestine', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_056', display: '胆 (dǎn)', input: 'dǎn', meaning: 'Gallbladder', level: '3', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_057', display: '骨头 (gǔtou)', input: 'gǔtou', meaning: 'Bone', level: '1', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_058', display: '头骨 (tóugǔ)', input: 'tóugǔ', meaning: 'Skull', level: '3', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_059', display: '脊椎 (jǐzhuī)', input: 'jǐzhuī', meaning: 'Spine', level: '3', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_060', display: '肋骨 (lèigǔ)', input: 'lèigǔ', meaning: 'Rib', level: '3', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_061', display: '锁骨 (suǒgǔ)', input: 'suǒgǔ', meaning: 'Clavicle', level: '3', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_062', display: '肩胛骨 (jiānjiǎgǔ)', input: 'jiānjiǎgǔ', meaning: 'Scapula', level: '4', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_063', display: '肱骨 (gōnggǔ)', input: 'gōnggǔ', meaning: 'Humerus', level: '4', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_064', display: '桡骨 (ráogǔ)', input: 'ráogǔ', meaning: 'Radius', level: '4', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_065', display: '尺骨 (chǐgǔ)', input: 'chǐgǔ', meaning: 'Ulna', level: '4', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_066', display: '股骨 (gǔgǔ)', input: 'gǔgǔ', meaning: 'Femur', level: '4', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_067', display: '髌骨 (bìngǔ)', input: 'bìngǔ', meaning: 'Patella', level: '4', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_068', display: '胫骨 (jìnggǔ)', input: 'jìnggǔ', meaning: 'Tibia', level: '4', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_069', display: '腓骨 (féigǔ)', input: 'féigǔ', meaning: 'Fibula', level: '4', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_070', display: '跟骨 (gēngǔ)', input: 'gēngǔ', meaning: 'Calcaneus', level: '4', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_071', display: '距骨 (jùgǔ)', input: 'jùgǔ', meaning: 'Talus', level: '4', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_072', display: '肌肉 (jīròu)', input: 'jīròu', meaning: 'Muscle', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_073', display: '肌腱 (jījiàn)', input: 'jījiàn', meaning: 'Tendon', level: '4', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_074', display: '韧带 (rèndài)', input: 'rèndài', meaning: 'Ligament', level: '4', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_075', display: '软骨 (ruǎngǔ)', input: 'ruǎngǔ', meaning: 'Cartilage', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_076', display: '骨髓 (gǔsuǐ)', input: 'gǔsuǐ', meaning: 'Bone marrow', level: '3', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_077', display: '关节 (guānjié)', input: 'guānjié', meaning: 'Joint', level: '3', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_078', display: '健康 (jiànkāng)', input: 'jiànkāng', meaning: 'Healthy', level: '1', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_079', display: '生病 (shēngbìng)', input: 'shēngbìng', meaning: 'Sick', level: '1', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_080', display: '累 (lèi)', input: 'lèi', meaning: 'Tired', level: '1', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_081', display: '饿 (è)', input: 'è', meaning: 'Hungry', level: '1', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_082', display: '渴 (kě)', input: 'kě', meaning: 'Thirsty', level: '1', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_083', display: '困 (kùn)', input: 'kùn', meaning: 'Sleepy', level: '1', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_084', display: '痛 (tòng)', input: 'tòng', meaning: 'Painful', level: '1', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_085', display: '痒 (yǎng)', input: 'yǎng', meaning: 'Itchy', level: '1', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_086', display: '肿 (zhǒng)', input: 'zhǒng', meaning: 'Swollen', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_087', display: '发烧 (fāshāo)', input: 'fāshāo', meaning: 'Have a fever', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_088', display: '咳嗽 (késou)', input: 'késou', meaning: 'Cough', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_089', display: '感冒 (gǎnmào)', input: 'gǎnmào', meaning: 'Have a cold', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_090', display: '发炎 (fāyán)', input: 'fāyán', meaning: 'Inflamed', level: '3', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_091', display: '过敏 (guòmǐn)', input: 'guòmǐn', meaning: 'Allergic', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_092', display: '受伤 (shòushāng)', input: 'shòushāng', meaning: 'Injured', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_093', display: '骨折 (gǔzhé)', input: 'gǔzhé', meaning: 'Broken bone', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_094', display: '流血 (liúxiě)', input: 'liúxiě', meaning: 'Bleeding', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_095', display: '头晕 (tóuyūn)', input: 'tóuyūn', meaning: 'Dizzy', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_096', display: '头痛 (tóutòng)', input: 'tóutòng', meaning: 'Headache', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_097', display: '肚子痛 (dùzi tòng)', input: 'dùzi tòng', meaning: 'Stomachache', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_098', display: '牙痛 (yátòng)', input: 'yátòng', meaning: 'Toothache', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_099', display: '喉咙痛 (hóulóng tòng)', input: 'hóulóng tòng', meaning: 'Sore throat', level: '3', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_100', display: '血压 (xuèyā)', input: 'xuèyā', meaning: 'Blood pressure', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_101', display: '心跳 (xīntiào)', input: 'xīntiào', meaning: 'Heartbeat', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_102', display: '呼吸 (hūxī)', input: 'hūxī', meaning: 'Breathe/Breathing', level: '1', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_103', display: '脉搏 (màibó)', input: 'màibó', meaning: 'Pulse', level: '3', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_104', display: '体温 (tǐwēn)', input: 'tǐwēn', meaning: 'Body temperature', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_105', display: '血糖 (xuětáng)', input: 'xuětáng', meaning: 'Blood sugar', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_106', display: '血脂 (xuèzhī)', input: 'xuèzhī', meaning: 'Blood lipid', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_107', display: '心率 (xīnlǜ)', input: 'xīnlǜ', meaning: 'Heart rate', level: '3', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_108', display: '体检 (tǐjiǎn)', input: 'tǐjiǎn', meaning: 'Physical examination', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_109', display: '健康检查 (jiànkāng jiǎnchá)', input: 'jiànkāng jiǎnchá', meaning: 'Health check', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_110', display: '疫苗 (yìmiáo)', input: 'yìmiáo', meaning: 'Vaccine', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_111', display: '看病 (kànbìng)', input: 'kànbìng', meaning: 'See a doctor', level: '1', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_112', display: '住院 (zhùyuàn)', input: 'zhùyuàn', meaning: 'Hospitalization', level: '1', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_113', display: '手术 (shǒushù)', input: 'shǒushù', meaning: 'Surgery', level: '1', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_114', display: '处方 (chǔfāng)', input: 'chǔfāng', meaning: 'Prescription', level: '2', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_115', display: '药 (yào)', input: 'yào', meaning: 'Medicine', level: '1', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_116', display: '吃药 (chīyào)', input: 'chīyào', meaning: 'Take medicine', level: '1', category: 'body', source: '[[body-zh]]' }
+- { id: 'zh_body_117', display: '打针 (dǎzhēn)', input: 'dǎzhēn', meaning: 'Get a shot/injection', level: '1', category: 'body', source: '[[body-zh]]' }
 ```

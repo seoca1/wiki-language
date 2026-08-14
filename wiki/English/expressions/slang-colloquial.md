@@ -1,3 +1,10 @@
+---
+title: "slang-colloquial (English) expressions"
+language: "English"
+category: "slang-colloquial"
+level: "B2-C2"
+---
+
 # Expressions: Slang & Colloquial (English)
 
 > **Theme:** Slang & Colloquial
@@ -265,3 +272,20 @@ Informal, friendly contexts.
 
 - `[[emotions-reactions]]` — Emotional reactions
 - `[[Language/wiki/comparative/slang-colloquial]]` — 5-language slang
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'en_slang_colloquial_001', display: 'Awesome', input: 'Awesome', meaning: '"Awesome" — positive exclamation.', level: 'B2-C2', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+- { id: 'en_slang_colloquial_002', display: 'You got this!', input: 'You got this!', meaning: '"You got this!" — encouragement.', level: 'B2-C2', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+- { id: 'en_slang_colloquial_003', display: 'LOL / LMAO', input: 'LOL / LMAO', meaning: '"Laugh out loud / Laughing my ass off" — internet laugh.', level: 'B2-C2', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+- { id: 'en_slang_colloquial_004', display: 'Ghosting', input: 'Ghosting', meaning: '"Ghosting" — suddenly cutting off all communication.', level: 'B2-C2', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+- { id: 'en_slang_colloquial_005', display: 'Spill the tea', input: 'Spill the tea', meaning: '"Spill the tea" — share gossip.', level: 'B2-C2', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+- { id: 'en_slang_colloquial_006', display: 'Burnout', input: 'Burnout', meaning: '"Burnout" — work/stress exhaustion.', level: 'B2-C2', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+- { id: 'en_slang_colloquial_007', display: 'Adulting', input: 'Adulting', meaning: '"Adulting" — doing grown-up tasks.', level: 'B2-C2', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+- { id: 'en_slang_colloquial_008', display: 'Bro / Dude', input: 'Bro / Dude', meaning: '"Bro / Dude" — casual male address.', level: 'B2-C2', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+```

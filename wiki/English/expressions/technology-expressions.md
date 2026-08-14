@@ -1,3 +1,10 @@
+---
+title: "technology-expressions (English) expressions"
+language: "English"
+category: "technology-expressions"
+level: "A2-C1"
+---
+
 # Expressions: Technology & Internet (English)
 
 > **Theme:** Technology & Internet
@@ -236,3 +243,19 @@ Modern e-commerce.
 
 - `[[travel-basics]]` — Basic travel tech
 - `[[Language/wiki/comparative/tech-internet]]` — 5-language tech
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'en_technology_expressions_001', display: 'What''s the WiFi password?', input: 'What''s the WiFi password?', meaning: '"What''s the WiFi password?" — connecting to internet.', level: 'A2-C1', category: 'technology-expressions', source: '[[technology-expressions]]' }
+- { id: 'en_technology_expressions_002', display: 'Can I get your number?', input: 'Can I get your number?', meaning: '"Can I get your number?" — sharing contact info.', level: 'A2-C1', category: 'technology-expressions', source: '[[technology-expressions]]' }
+- { id: 'en_technology_expressions_003', display: 'DM me', input: 'DM me', meaning: '"DM me" — direct message on social media.', level: 'A2-C1', category: 'technology-expressions', source: '[[technology-expressions]]' }
+- { id: 'en_technology_expressions_004', display: 'Tag me', input: 'Tag me', meaning: '"Tag me" — mentioning someone in social media post.', level: 'A2-C1', category: 'technology-expressions', source: '[[technology-expressions]]' }
+- { id: 'en_technology_expressions_005', display: 'No cap', input: 'No cap', meaning: '"No lie / For real" — affirmation.', level: 'A2-C1', category: 'technology-expressions', source: '[[technology-expressions]]' }
+- { id: 'en_technology_expressions_006', display: 'Rideshare', input: 'Rideshare', meaning: '"Rideshare" — Uber/Lyft style service.', level: 'A2-C1', category: 'technology-expressions', source: '[[technology-expressions]]' }
+- { id: 'en_technology_expressions_007', display: 'Live-stream shopping', input: 'Live-stream shopping', meaning: '"Live-stream shopping" — buying via live video.', level: 'A2-C1', category: 'technology-expressions', source: '[[technology-expressions]]' }
+```

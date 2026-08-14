@@ -63,3 +63,17 @@ level: "A1-A2"
 
 - [[common-phrases]] - 핵심 일상 표현
 - [[greetings]] - 인사 표현
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'en_apologies_001', display: 'I am sorry.', input: 'I am sorry.', meaning: '', level: 'A1-A2', category: 'apologies', source: '[[apologies]]' }
+- { id: 'en_apologies_002', display: 'Excuse me.', input: 'Excuse me.', meaning: '', level: 'A1-A2', category: 'apologies', source: '[[apologies]]' }
+- { id: 'en_apologies_003', display: 'I beg your pardon.', input: 'I beg your pardon.', meaning: '', level: 'A1-A2', category: 'apologies', source: '[[apologies]]' }
+- { id: 'en_apologies_004', display: 'Please forgive me.', input: 'Please forgive me.', meaning: '', level: 'A1-A2', category: 'apologies', source: '[[apologies]]' }
+- { id: 'en_apologies_005', display: 'It was my fault.', input: 'It was my fault.', meaning: '', level: 'A1-A2', category: 'apologies', source: '[[apologies]]' }
+```

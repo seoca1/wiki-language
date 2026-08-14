@@ -310,19 +310,17 @@ Es la cláusula **multiusos** de la cortesía hispana: se añade al final de cua
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
-> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: es_requests_001, display: "¿Podrías ayudarme?", input: "¿Podrías ayudarme?", meaning: "Could you help me? (tú)", level: "A2-B1", category: "requests", source: "[[requests]]" }
-- { id: es_requests_002, display: "¿Te importa si...?", input: "¿Te importa si...?", meaning: "Do you mind if...?", level: "A2", category: "requests", source: "[[requests]]" }
-- { id: es_requests_003, display: "Quisiera ver la carta", input: "Quisiera ver la carta", meaning: "I would like to see the menu", level: "A2", category: "requests", source: "[[requests]]" }
-- { id: es_requests_004, display: "¿Me permite entrar?", input: "¿Me permite entrar?", meaning: "May I come in? (formal)", level: "A2", category: "requests", source: "[[requests]]" }
-- { id: es_requests_005, display: "¿Le importa...?", input: "¿Le importa...?", meaning: "Would you mind...? (usted)", level: "A2", category: "requests", source: "[[requests]]" }
-- { id: es_requests_006, display: "¿Sería tan amable de...?", input: "¿Sería tan amable de...?", meaning: "Would you be so kind as to...?", level: "B1", category: "requests", source: "[[requests]]" }
-- { id: es_requests_007, display: "Si no te importa", input: "Si no te importa", meaning: "If you don't mind", level: "A2", category: "requests", source: "[[requests]]" }
-- { id: es_requests_008, display: "¿Podría ayudarme?", input: "¿Podría ayudarme?", meaning: "Could you help me? (usted)", level: "A2-B1", category: "requests", source: "[[requests]]" }
-- { id: es_requests_009, display: "¿Me podría repetir...?", input: "¿Me podría repetir...?", meaning: "Could you repeat...?", level: "A2-B1", category: "requests", source: "[[requests]]" }
-- { id: es_requests_010, display: "Por favor", input: "Por favor", meaning: "Please", level: "A1", category: "requests", source: "[[requests]]" }
+- { id: 'es_requests_001', display: '¿Podrías + infinitivo?', input: '¿Podrías + infinitivo?', meaning: 'Petición suave dirigida a un interlocutor de confianza. Estructura: *¿Podrías + infinitivo?* = "Could you...?" . Variante formal: *¿Podría + infinitivo?* = "Could you...?" .', level: 'A1-B1', category: 'requests', source: '[[requests]]', literal: 'você poderia + infinitivo' }
+- { id: 'es_requests_002', display: '¿Te importa si...?', input: '¿Te importa si...?', meaning: 'Do you mind if...?', level: 'A2', category: 'requests', source: '[[requests]]' }
+- { id: 'es_requests_003', display: 'Quisiera + infinitivo', input: 'Quisiera + infinitivo', meaning: 'Petición **formal** o comercial. *"Quisiera pedir una cita"* = "I would like to request an appointment". Estructura: **quísiera / quisiera** + infinitivo.', level: 'A1-B1', category: 'requests', source: '[[requests]]', literal: 'eu gostaria de + infinitivo' }
+- { id: 'es_requests_004', display: '¿Me permite...?', input: '¿Me permite...?', meaning: 'Petición de **permiso formal** a un superior, autoridad o desconocido. *"¿Me permite pasar?"* = "May I pass?" / "Do you allow me to pass?". Estructura: **permitir** en tercera persona + **me** .', level: 'A1-B1', category: 'requests', source: '[[requests]]', literal: 'você me permite...' }
+- { id: 'es_requests_005', display: '¿Le importa...?', input: '¿Le importa...?', meaning: 'Would you mind...? (usted)', level: 'A2', category: 'requests', source: '[[requests]]' }
+- { id: 'es_requests_006', display: '¿Sería tan amable de...?', input: '¿Sería tan amable de...?', meaning: 'Would you be so kind as to...?', level: 'B1', category: 'requests', source: '[[requests]]' }
+- { id: 'es_requests_007', display: 'Si no te importa', input: 'Si no te importa', meaning: 'If you don''t mind', level: 'A2', category: 'requests', source: '[[requests]]' }
+- { id: 'es_requests_008', display: '¿Podría + infinitivo? (registro máximo)', input: 'registro máximo', meaning: 'Variante **formal con usted** de *¿Podrías...?*. *"¿Podría ayudarme?"* = "Could you help me?". Condicional simple + infinitivo.', level: 'A1-B1', category: 'requests', source: '[[requests]]', literal: 'poderia + infinitivo' }
 ```

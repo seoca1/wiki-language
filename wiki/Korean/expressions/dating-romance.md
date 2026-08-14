@@ -1,3 +1,10 @@
+---
+title: "dating-romance (Korean) expressions"
+language: "Korean"
+category: "dating-romance"
+level: "A1-B2"
+---
+
 # 표현: 연애 표현 / Expresiones sentimentales
 
 > **Theme:** Dating & Romance
@@ -423,3 +430,20 @@ Vocabulary for dating, romantic interest, confessions, and breakups.
 - 토익 / TOPIK 4급 어휘
 
 ---
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'kr_dating_romance_001', display: '같이-밥-먹을래', input: '같이-밥-먹을래', meaning: '"같이 밥 먹을래?" — Most common casual date invitation.', level: 'A1-B2 (idioms)', category: 'dating-romance', source: '[[dating-romance]]' }
+- { id: 'kr_dating_romance_002', display: '나-너-좋아해', input: '나-너-좋아해', meaning: '"나 너 좋아해" — Standard direct confession.', level: 'A1-B2 (idioms)', category: 'dating-romance', source: '[[dating-romance]]' }
+- { id: 'kr_dating_romance_003', display: '나중에-또-보자', input: '나중에-또-보자', meaning: '"나중에 또 보자" — Standard parting phrase, suggests meeting again.', level: 'A1-B2 (idioms)', category: 'dating-romance', source: '[[dating-romance]]' }
+- { id: 'kr_dating_romance_004', display: '너-자꾸-생각나', input: '너-자꾸-생각나', meaning: '"너 자꾸 생각나" — Classic 썸 expression, "I keep thinking about you".', level: 'A1-B2 (idioms)', category: 'dating-romance', source: '[[dating-romance]]' }
+- { id: 'kr_dating_romance_005', display: '만나서-반가워요', input: '만나서-반가워요', meaning: '"만나서 반가워요" — Standard polite greeting on first meeting.', level: 'A1-B2 (idioms)', category: 'dating-romance', source: '[[dating-romance]]' }
+- { id: 'kr_dating_romance_006', display: '보고-싶다', input: '보고-싶다', meaning: '"보고 싶다" — "I miss you" / "I want to see you".', level: 'A1-B2 (idioms)', category: 'dating-romance', source: '[[dating-romance]]' }
+- { id: 'kr_dating_romance_007', display: '손-잡아도-돼', input: '손-잡아도-돼', meaning: '"손 잡아도 돼?" — Consent request for hand-holding.', level: 'A1-B2 (idioms)', category: 'dating-romance', source: '[[dating-romance]]' }
+- { id: 'kr_dating_romance_008', display: '친구로-지내자', input: '친구로-지내자', meaning: '"우리 친구로 지내자" — Polite decline preserving friendship.', level: 'A1-B2 (idioms)', category: 'dating-romance', source: '[[dating-romance]]' }
+```

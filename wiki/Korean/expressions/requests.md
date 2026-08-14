@@ -416,22 +416,22 @@ Korean request expressions. 일상·서비스·비즈니스에서 쓰는 정중�
 
 ## Pipeline Form (machine-readable)
 
-> Per `wiki/pipeline-to-game.md`. Schema: display/input/meaning/level/category/source.
-> Game consumer: `Game/typing_language/raw/kr_words.md` (request expressions, 해요체~합쇼체 커버리지).
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: req_001, display: "~해 주세요", input: "~hae juseyo", meaning: "Please do ~ (polite casual)", level: "A2", category: "requests", source: "[[requests]]" }
-- { id: req_002, display: "~해 주시겠어요?", input: "~hae jusigesseoyo?", meaning: "Would you ~? (polite)", level: "A2", category: "requests", source: "[[requests]]" }
-- { id: req_003, display: "~해도 될까요?", input: "~haedo doel-kka?", meaning: "May I ~? (asking permission)", level: "A2", category: "requests", source: "[[requests]]" }
-- { id: req_004, display: "~부탁드립니다", input: "~butak deurimnida", meaning: "Please ~ (formal business)", level: "B1", category: "requests", source: "[[requests]]" }
-- { id: req_005, display: "혹시 ~할 수 있으세요?", input: "hoksi ~hal su isseuseyo?", meaning: "Could you perhaps ~? (very polite)", level: "B1", category: "requests", source: "[[requests]]" }
-- { id: req_006, display: "~해 주시겠습니까?", input: "~hae jusigetseumnikka?", meaning: "Would you kindly ~? (formal)", level: "B1", category: "requests", source: "[[requests]]" }
-- { id: req_007, display: "~해 주실 수 있을까요?", input: "~hae jusul su isseulkka?", meaning: "Could you possibly ~? (polite)", level: "B1", category: "requests", source: "[[requests]]" }
-- { id: req_008, display: "좀", input: "jom", meaning: "a little / please (softener)", level: "A2", category: "requests", source: "[[requests]]" }
-- { id: req_009, display: "부탁해요", input: "butakhaeyo", meaning: "please (casual-polite)", level: "A2", category: "requests", source: "[[requests]]" }
-- { id: req_010, display: "~해 드릴까요?", input: "~hae deuril-kka?", meaning: "Shall I do ~ for you? (offer)", level: "A2", category: "requests", source: "[[requests]]" }
+- { id: 'kr_requests_001', display: '~해 주세요 (~hae juseyo, please do ~)', input: '~hae juseyo', meaning: '가장 보편적인 정중 요청. 일상·서비스업·가벼운 부탁에 두루 사용.', level: 'A2-B1', category: 'requests', source: '[[requests]]', literal: '"Please do ~ for me."', register: '해요체 (polite informal). 캐주얼 정중 — 상점·식당·친구·직장 동료에게 무난.' }
+- { id: 'kr_requests_002', display: '~해 주시겠어요? (~hae jusigesseoyo, would you ~?)', input: '~hae jusigesseoyo', meaning: '더 정중한 의문형 요청. 상대방에게 선택권을 주는 부드러운 부탁.', level: 'A2-B1', category: 'requests', source: '[[requests]]', literal: '"Would you be willing to do ~?"', register: '해요체 (polite informal) + 의문형. 직장·서비스·연인·윗사람에게 격식을 한 단계 올린 요청.' }
+- { id: 'kr_requests_003', display: '~해도 될까요? (~haedo doel-kka, may I ~?)', input: '~haedo doel-kka', meaning: '허가 요청 . "~해도 돼요?"보다 정중.', level: 'A2-B1', category: 'requests', source: '[[requests]]', literal: '"Is it okay if I do ~?"', register: '해요체 (polite informal). 직장·가벼운 격식 상황, 권리/허가 요청.' }
+- { id: 'kr_requests_004', display: '부탁드립니다 (butak deurimnida, I request / please)', input: 'butak deurimnida', meaning: '격식 있는 간결한 요청. 비즈니스·공식 문서·전화 응대에서 표준.', level: 'A2-B1', category: 'requests', source: '[[requests]]', literal: '"I make a request / please."', register: '합쇼체 (formal). 비즈니스·공식·전화·고객 응대 — 격식 최고 단계.' }
+- { id: 'kr_requests_005', display: '혹시 ~할 수 있으세요? (hoksi ~hal su isseuseyo, by any chance, can you ~?)', input: 'hoksi ~hal su isseuseyo', meaning: '더 부드럽고 정중한 의뢰형 요청. 상사·초면·호의가 필요한 부탁에 적합.', level: 'A2-B1', category: 'requests', source: '[[requests]]', literal: '"By any chance, can you do ~?"', register: '해요체 (polite informal) + 정중 양식. 격식은 합쇼체보다 한 단계 낮지만 예의는 더 정중.' }
+- { id: 'kr_requests_006', display: '~아/어 주시겠습니까? (~a/eo jusigetseumnikka, would you kindly ~?)', input: '~a/eo jusigetseumnikka', meaning: '비즈니스·공식 격식의 의뢰형 요청. 가장 정중한 요청 변형.', level: 'A2-B1', category: 'requests', source: '[[requests]]', literal: '"Would you be so kind as to do ~?"', register: '합쇼체 (formal). 비즈니스 이메일·공식 전화·고객 응대·계약 협상.' }
+- { id: 'kr_requests_007', display: '~아/어 주실 수 있을까요? (~a/eo jusul su isseulkka, would you be able to ~?)', input: '~a/eo jusul su isseulkka', meaning: '"~해 주시겠어요?"보다 더 부드럽고 의뢰형에 가까운 요청. 거절 부담 최소화.', level: 'A2-B1', category: 'requests', source: '[[requests]]', literal: '"Would you be able to do ~?"', register: '해요체 (polite informal) + 정중 의뢰형. 직장·서비스·친한 사이에서 격식 유지.' }
+- { id: 'kr_requests_008', display: '좀 (jom, a little / please)', input: 'jom', meaning: '요청을 부드럽게 만드는 양보 부사. 단독으로 쓰이거나 동사 앞에 붙어 "조금만 ~해 줘"의 뉘앙스.', level: 'A2-B1', category: 'requests', source: '[[requests]]', literal: '"A little / please."', register: '모든 격식 단계에 첨가 가능. 반말 "좀" (친구) ~ 합쇼체 "조금만" (격식).' }
+- { id: 'kr_requests_009', display: '부탁해요 (butakhaeyo, please / I''m asking you)', input: 'butakhaeyo', meaning: '캐주얼·정중 사이의 요청. "~해 주세요"보다 한 단계 캐주얼하지만 정중함 유지.', level: 'A2-B1', category: 'requests', source: '[[requests]]', literal: '"I''m asking you / please."', register: '해요체 (polite informal). 친구·동료·서비스 직원이 손님에게 — 일상 빈도 매우 높음.' }
+- { id: 'kr_requests_010', display: '~아/어 줄게(요)? (~a/eo julge(yo), shall I do ~ for you?)', input: '~a/eo julge(yo)', meaning: '능동적 제안/호의. "~해 줄까요?"로 도움을 먼저 제안하는 패턴.', level: 'A2-B1', category: 'requests', source: '[[requests]]', literal: '"Shall I do ~ for you?"', register: '해요체 (polite informal). 동료·서비스·친구·연인 — 도움이 필요한 상황을 먼저 파악해 제안.' }
 ```
-
 ## Sources
 
 - [[daily-life-basics]] — 일상 회화

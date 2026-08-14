@@ -63,3 +63,17 @@ level: "A1-A2"
 
 - [[common-phrases]] - 핵심 일상 표현
 - [[greetings]] - 인사 표현
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'zh_agreement_001', display: '好的, 我同意 (hǎo de, wǒ tóngyì)', input: 'hǎo de', meaning: '', level: 'A1-A2', category: 'agreement', source: '[[agreement]]' }
+- { id: 'zh_agreement_002', display: '听起来不错 (tīng qǐlái bùcuò)', input: 'tīng qǐlái bùcuò', meaning: '', level: 'A1-A2', category: 'agreement', source: '[[agreement]]' }
+- { id: 'zh_agreement_003', display: '我也这么想 (wǒ yě zhème xiǎng)', input: 'wǒ yě zhème xiǎng', meaning: '', level: 'A1-A2', category: 'agreement', source: '[[agreement]]' }
+- { id: 'zh_agreement_004', display: '完全正确 (wánquán zhèngquè)', input: 'wánquán zhèngquè', meaning: '', level: 'A1-A2', category: 'agreement', source: '[[agreement]]' }
+- { id: 'zh_agreement_005', display: '你是对的 (nǐ shì duì de)', input: 'nǐ shì duì de', meaning: '', level: 'A1-A2', category: 'agreement', source: '[[agreement]]' }
+```

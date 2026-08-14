@@ -63,3 +63,17 @@ level: "A1-A2"
 
 - [[common-phrases]] - 핵심 일상 표현
 - [[greetings]] - 인사 표현
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'jp_agreement_001', display: 'はい、同意します (はい、どういします)', input: 'はい、どういします', meaning: '', level: 'A1-A2', category: 'agreement', source: '[[agreement]]' }
+- { id: 'jp_agreement_002', display: 'いいですね (いいですね)', input: 'いいですね', meaning: '', level: 'A1-A2', category: 'agreement', source: '[[agreement]]' }
+- { id: 'jp_agreement_003', display: '私もそう思います (わたしもそうおもいます)', input: 'わたしもそうおもいます', meaning: '', level: 'A1-A2', category: 'agreement', source: '[[agreement]]' }
+- { id: 'jp_agreement_004', display: 'その通りです (そのとおりです)', input: 'そのとおりです', meaning: '', level: 'A1-A2', category: 'agreement', source: '[[agreement]]' }
+- { id: 'jp_agreement_005', display: 'おっしゃる通りです (おっしゃるとおりです)', input: 'おっしゃるとおりです', meaning: '', level: 'A1-A2', category: 'agreement', source: '[[agreement]]' }
+```

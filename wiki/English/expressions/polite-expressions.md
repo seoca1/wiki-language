@@ -1,3 +1,10 @@
+---
+title: "polite-expressions (English) expressions"
+language: "English"
+category: "polite-expressions"
+level: "A1-C1"
+---
+
 # Expressions: Polite & Honorific (English)
 
 > **Theme:** Politeness & Honorifics
@@ -270,3 +277,20 @@ End of business meetings, professional relationships.
 - `[[apologies]]` — Apology expressions
 - `[[requests]]` — Request expressions
 - `[[Language/wiki/comparative/politeness-honorifics]]` — 5-language politeness
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'en_polite_expressions_001', display: 'Thank you', input: 'Thank you', meaning: '"Thank you" — most common gratitude expression.', level: 'A1-C1', category: 'polite-expressions', source: '[[polite-expressions]]' }
+- { id: 'en_polite_expressions_002', display: 'Please', input: 'Please', meaning: '"Please" — making requests polite.', level: 'A1-C1', category: 'polite-expressions', source: '[[polite-expressions]]' }
+- { id: 'en_polite_expressions_003', display: 'Excuse me', input: 'Excuse me', meaning: '"Excuse me" — apology or attention-getter.', level: 'A1-C1', category: 'polite-expressions', source: '[[polite-expressions]]' }
+- { id: 'en_polite_expressions_004', display: 'I''m sorry', input: 'I''m sorry', meaning: '"I''m sorry" — apology.', level: 'A1-C1', category: 'polite-expressions', source: '[[polite-expressions]]' }
+- { id: 'en_polite_expressions_005', display: 'You''re welcome', input: 'You''re welcome', meaning: '"You''re welcome" — response to "thank you".', level: 'A1-C1', category: 'polite-expressions', source: '[[polite-expressions]]' }
+- { id: 'en_polite_expressions_006', display: 'May I ___?', input: 'May I ___?', meaning: '"May I ___?" — polite permission request.', level: 'A1-C1', category: 'polite-expressions', source: '[[polite-expressions]]' }
+- { id: 'en_polite_expressions_007', display: 'I appreciate it', input: 'I appreciate it', meaning: '"I appreciate it" — expressing gratitude + respect.', level: 'A1-C1', category: 'polite-expressions', source: '[[polite-expressions]]' }
+- { id: 'en_polite_expressions_008', display: 'It''s been a pleasure', input: 'It''s been a pleasure', meaning: '"It''s been a pleasure" — closing formal interaction.', level: 'A1-C1', category: 'polite-expressions', source: '[[polite-expressions]]' }
+```

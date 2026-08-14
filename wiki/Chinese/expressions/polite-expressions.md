@@ -1,3 +1,10 @@
+---
+title: "polite-expressions (Chinese) expressions"
+language: "Chinese"
+category: "polite-expressions"
+level: "A1-C1"
+---
+
 # Expressions: Polite & Honorific (zh-CN)
 
 > **Theme:** Politeness & Honorifics
@@ -287,3 +294,20 @@
 - `[[greetings]]`
 - `[[apologies]]`
 - `[[Language/wiki/comparative/politeness-honorifics]]`
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'zh_polite_expressions_001', display: '谢谢', input: '谢谢', meaning: '"Thank you" — 가장 흔한 감사 표현.', level: 'A1-C1', category: 'polite-expressions', source: '[[polite-expressions]]' }
+- { id: 'zh_polite_expressions_002', display: '您好', input: '您好', meaning: '"Hello " — 정중한 인사.', level: 'A1-C1', category: 'polite-expressions', source: '[[polite-expressions]]' }
+- { id: 'zh_polite_expressions_003', display: '请', input: '请', meaning: '"Please" — 정중한 요청.', level: 'A1-C1', category: 'polite-expressions', source: '[[polite-expressions]]' }
+- { id: 'zh_polite_expressions_004', display: '对不起/抱歉', input: '对不起/抱歉', meaning: '"I''m sorry" — 사과 표현.', level: 'A1-C1', category: 'polite-expressions', source: '[[polite-expressions]]' }
+- { id: 'zh_polite_expressions_005', display: '不客气', input: '不客气', meaning: '"You''re welcome" — 감사 응답.', level: 'A1-C1', category: 'polite-expressions', source: '[[polite-expressions]]' }
+- { id: 'zh_polite_expressions_006', display: '麻烦了', input: '麻烦了', meaning: '"Sorry to trouble you" — 부탁 표현.', level: 'A1-C1', category: 'polite-expressions', source: '[[polite-expressions]]', register: '劳驾 (láojià — 오래된 호칭)' }
+- { id: 'zh_polite_expressions_007', display: '没关系', input: '没关系', meaning: '"No problem / It''s okay" — 사과 응답.', level: 'A1-C1', category: 'polite-expressions', source: '[[polite-expressions]]', register: '没关系 (méi guānxi — "관계 없다")' }
+- { id: 'zh_polite_expressions_008', display: '久仰', input: '久仰', meaning: '"I''ve long admired you " — 첫 만남 격식 인사.', level: 'A1-C1', category: 'polite-expressions', source: '[[polite-expressions]]' }
+```

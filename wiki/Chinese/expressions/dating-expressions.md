@@ -1,3 +1,10 @@
+---
+title: "dating-expressions (Chinese) expressions"
+language: "Chinese"
+category: "dating-expressions"
+level: "B1-C1"
+---
+
 # Expressions: Dating & Romance (zh-CN)
 
 > **Theme:** Dating & Romance
@@ -290,3 +297,20 @@
 
 - `[[dating-romance]]`
 - `[[Language/wiki/comparative/dating-romance]]`
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'zh_dating_expressions_001', display: '我喜欢你', input: '我喜欢你', meaning: '"I like you" — 고백.', level: 'B1-C1', category: 'dating-expressions', source: '[[dating-expressions]]' }
+- { id: 'zh_dating_expressions_002', display: '缘分', input: '缘分', meaning: '"Fate/destiny " — 인연.', level: 'B1-C1', category: 'dating-expressions', source: '[[dating-expressions]]' }
+- { id: 'zh_dating_expressions_003', display: '老公/老婆', input: '老公/老婆', meaning: '"Husband/Wife" — 부부 호칭.', level: 'B1-C1', category: 'dating-expressions', source: '[[dating-expressions]]' }
+- { id: 'zh_dating_expressions_004', display: '我们分手吧', input: '我们分手吧', meaning: '"Let''s break up" — 이별 표현.', level: 'B1-C1', category: 'dating-expressions', source: '[[dating-expressions]]' }
+- { id: 'zh_dating_expressions_005', display: '相亲', input: '相亲', meaning: '"Blind date " — 부모님 소개팅.', level: 'B1-C1', category: 'dating-expressions', source: '[[dating-expressions]]' }
+- { id: 'zh_dating_expressions_006', display: '彩礼', input: '彩礼', meaning: '"Bride price" — 혼인聘礼.', level: 'B1-C1', category: 'dating-expressions', source: '[[dating-expressions]]' }
+- { id: 'zh_dating_expressions_007', display: '网恋', input: '网恋', meaning: '"Online dating relationship" — 온라인 연애.', level: 'B1-C1', category: 'dating-expressions', source: '[[dating-expressions]]' }
+- { id: 'zh_dating_expressions_008', display: '见家长/见父母', input: '见家长/见父母', meaning: '"Meeting the parents" — 부모님 인사.', level: 'B1-C1', category: 'dating-expressions', source: '[[dating-expressions]]' }
+```

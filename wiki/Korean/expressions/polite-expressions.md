@@ -1,3 +1,10 @@
+---
+title: "polite-expressions (Korean) expressions"
+language: "Korean"
+category: "polite-expressions"
+level: "A1-C1"
+---
+
 # Expressions: Polite & Honorific (한국어)
 
 > **Theme:** Politeness & Honorifics
@@ -245,3 +252,20 @@ Korean politeness — speech levels (존댓말), honorifics, business etiquette.
 - `[[apologies]]` — Apology expressions
 - `[[requests]]` — Request expressions
 - `[[Language/wiki/comparative/politeness-honorifics]]` — 5-language politeness
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'kr_polite_expressions_001', display: '감사합니다', input: '감사합니다', meaning: '"Thank you" — formal gratitude.', level: 'A1-C1', category: 'polite-expressions', source: '[[polite-expressions]]' }
+- { id: 'kr_polite_expressions_002', display: '___ 해 주세요', input: '___ 해 주세요', meaning: '"Please do ___" — polite request.', level: 'A1-C1', category: 'polite-expressions', source: '[[polite-expressions]]' }
+- { id: 'kr_polite_expressions_003', display: '죄송합니다', input: '죄송합니다', meaning: '"I''m sorry" — formal apology.', level: 'A1-C1', category: 'polite-expressions', source: '[[polite-expressions]]' }
+- { id: 'kr_polite_expressions_004', display: '죄송해요 / 미안해요', input: '죄송해요 / 미안해요', meaning: '"I''m sorry" — polite apology.', level: 'A1-C1', category: 'polite-expressions', source: '[[polite-expressions]]' }
+- { id: 'kr_polite_expressions_005', display: '아니에요 / 천만에요', input: '아니에요 / 천만에요', meaning: '"No, it''s nothing / You''re welcome" — response to thanks.', level: 'A1-C1', category: 'polite-expressions', source: '[[polite-expressions]]' }
+- { id: 'kr_polite_expressions_006', display: '___ 해도 돼요?', input: '___ 해도 돼요?', meaning: '"May I ___?" — polite permission request.', level: 'A1-C1', category: 'polite-expressions', source: '[[polite-expressions]]' }
+- { id: 'kr_polite_expressions_007', display: '잘 부탁드립니다', input: '잘 부탁드립니다', meaning: '"Please treat me well" — business greeting/closing.', level: 'A1-C1', category: 'polite-expressions', source: '[[polite-expressions]]' }
+- { id: 'kr_polite_expressions_008', display: '수고하셨습니다', input: '수고하셨습니다', meaning: '"Thank you for your hard work" — closing.', level: 'A1-C1', category: 'polite-expressions', source: '[[polite-expressions]]' }
+```

@@ -1,3 +1,10 @@
+---
+title: "travel-basics (Japanese) expressions"
+language: "Japanese"
+category: "travel-basics"
+level: "A1-B2"
+---
+
 # Expressions: Travel Basics (日本語)
 
 > **Theme:** Travel & Tourism
@@ -379,3 +386,24 @@ Japanese travel phrases — airport, hotel, transport, directions, sightseeing, 
 
 - `[[index]]`
 - `[[Language/wiki/comparative/travel-essentials]]`
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'jp_travel_basics_001', display: '空港', input: '空港', meaning: '"Airport" — 공항.', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'jp_travel_basics_002', display: 'ホテル', input: 'ホテル', meaning: '"Hotel" — 호텔.', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'jp_travel_basics_003', display: '切符をください', input: '切符をください', meaning: '"Ticket, please" — 교통 티켓 구매.', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'jp_travel_basics_004', display: '駅はどこですか', input: '駅はどこですか', meaning: '"Where is the station?" — 가장 흔한 방향 문의.', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'jp_travel_basics_005', display: 'いくらですか', input: 'いくらですか', meaning: '', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'jp_travel_basics_006', display: 'トイレはどこですか', input: 'トイレはどこですか', meaning: '', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'jp_travel_basics_007', display: '道を教えてください', input: '道を教えてください', meaning: '"Please tell me the way" — 길 묻기.', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'jp_travel_basics_008', display: '助けて', input: '助けて', meaning: '', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'jp_travel_basics_009', display: '警察を呼んでください', input: '警察を呼んでください', meaning: '"Please call the police" — 응급.', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'jp_travel_basics_010', display: '英語を話せる人いますか', input: '英語を話せる人いますか', meaning: '"Is there someone who speaks English?" — 영어 도움 요청.', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'jp_travel_basics_011', display: '写真を撮ってもいいですか', input: '写真を撮ってもいいですか', meaning: '"May I take photos?" — 박물관/랜드마크에서.', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'jp_travel_basics_012', display: '荷物を預かってもらえますか', input: '荷物を預かってもらえますか', meaning: '"Can you hold my luggage?" — 짐 보관 요청.', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+```

@@ -1,3 +1,10 @@
+---
+title: "idioms-proverbs (English) expressions"
+language: "English"
+category: "idioms-proverbs"
+level: "B2-C2"
+---
+
 # Expressions: Idioms & Proverbs (English)
 
 > **Theme:** Idioms & Proverbs
@@ -171,3 +178,20 @@ Encouraging consistent practice.
 
 - `[[quotes-zh]]` — Comparative quotes
 - `[[Language/wiki/comparative/idioms-proverbs]]` — 5-language idioms
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'en_idioms_proverbs_001', display: 'Kill two birds with one stone', input: 'Kill two birds with one stone', meaning: '"Kill two birds with one stone" — achieve two goals with one action.', level: 'B2-C2', category: 'idioms-proverbs', source: '[[idioms-proverbs]]' }
+- { id: 'en_idioms_proverbs_002', display: 'Don''t count your chickens before they hatch', input: 'Don''t count your chickens before they hatch', meaning: '"Don''t count your chickens before they hatch" — don''t assume success too early.', level: 'B2-C2', category: 'idioms-proverbs', source: '[[idioms-proverbs]]' }
+- { id: 'en_idioms_proverbs_003', display: 'A penny saved is a penny earned', input: 'A penny saved is a penny earned', meaning: '"A penny saved is a penny earned" — saving money equals earning.', level: 'B2-C2', category: 'idioms-proverbs', source: '[[idioms-proverbs]]' }
+- { id: 'en_idioms_proverbs_004', display: 'Don''t put all your eggs in one basket', input: 'Don''t put all your eggs in one basket', meaning: '"Don''t put all your eggs in one basket" — diversify risk.', level: 'B2-C2', category: 'idioms-proverbs', source: '[[idioms-proverbs]]' }
+- { id: 'en_idioms_proverbs_005', display: 'Rome wasn''t built in a day', input: 'Rome wasn''t built in a day', meaning: '"Rome wasn''t built in a day" — major achievements take time.', level: 'B2-C2', category: 'idioms-proverbs', source: '[[idioms-proverbs]]' }
+- { id: 'en_idioms_proverbs_006', display: 'Actions speak louder than words', input: 'Actions speak louder than words', meaning: '"Actions speak louder than words" — what you do matters more than what you say.', level: 'B2-C2', category: 'idioms-proverbs', source: '[[idioms-proverbs]]' }
+- { id: 'en_idioms_proverbs_007', display: 'Better late than never', input: 'Better late than never', meaning: '"Better late than never" — doing something late is better than not at all.', level: 'B2-C2', category: 'idioms-proverbs', source: '[[idioms-proverbs]]' }
+- { id: 'en_idioms_proverbs_008', display: 'Practice makes perfect', input: 'Practice makes perfect', meaning: '"Practice makes perfect" — repetition leads to mastery.', level: 'B2-C2', category: 'idioms-proverbs', source: '[[idioms-proverbs]]' }
+```

@@ -337,19 +337,19 @@ Adding お (honorific prefix) to 天気 is the polite version; the ね particle 
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/jp_words.md`).
-> Schema reference: `wiki/pipeline-to-game.md` L33-39.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: smt_001, display: "いい天気ですね", input: "ii tenki desu ne", meaning: "날씨 좋네요 (안전한 화제)", level: "A2", category: "small-talk", source: "[[small-talk]]" }
-- { id: smt_002, display: "お元気ですか", input: "o-genki desu ka", meaning: "잘 지내세요? (격식 안부)", level: "A2", category: "small-talk", source: "[[small-talk]]" }
-- { id: smt_003, display: "最近の調子はどうですか", input: "saikin no choushi wa dou desu ka", meaning: "요즘 상태는 어떤가요?", level: "B1", category: "small-talk", source: "[[small-talk]]" }
-- { id: smt_004, display: "趣味は何ですか", input: "shumi wa nan desu ka", meaning: "취미가 무엇인가요?", level: "A2", category: "small-talk", source: "[[small-talk]]" }
-- { id: smt_005, display: "どこか行きましたか", input: "doko ka ikimashita ka", meaning: "어디 다녀오셨어요?", level: "A2", category: "small-talk", source: "[[small-talk]]" }
-- { id: smt_006, display: "お変わりありませんか", input: "o-kawari arimasen ka", meaning: "별 탈 없으신가요? (격식)", level: "B1", category: "small-talk", source: "[[small-talk]]" }
-- { id: smt_007, display: "ご機嫌いかがでしょうか", input: "go-kigen ikaga deshou ka", meaning: "기분은 어떠신가요? (격식)", level: "B1", category: "small-talk", source: "[[small-talk]]" }
-- { id: smt_008, display: "今日はいいお天気ですね", input: "kyou wa ii o-tenki desu ne", meaning: "오늘 날씨 좋네요 (정중형)", level: "A2", category: "small-talk", source: "[[small-talk]]" }
-- { id: smt_009, display: "最近どうですか", input: "saikin dou desu ka", meaning: "요즘 어떻게 지내요?", level: "A2", category: "small-talk", source: "[[small-talk]]" }
-- { id: smt_010, display: "季節ですね", input: "kisetsu desu ne", meaning: "계절이네요 (계절 감각)", level: "A2", category: "small-talk", source: "[[small-talk]]" }
+- { id: 'jp_small_talk_001', display: 'いい天気ですね', input: 'いい天気ですね', meaning: '날씨 좋네요 (안전한 화제)', level: 'A2', category: 'small-talk', source: '[[small-talk]]' }
+- { id: 'jp_small_talk_002', display: 'お元気ですか', input: 'お元気ですか', meaning: '잘 지내세요? (격식 안부)', level: 'A2', category: 'small-talk', source: '[[small-talk]]' }
+- { id: 'jp_small_talk_003', display: '最近の調子はどうですか', input: '最近の調子はどうですか', meaning: '요즘 상태는 어떤가요?', level: 'B1', category: 'small-talk', source: '[[small-talk]]' }
+- { id: 'jp_small_talk_004', display: '趣味は何ですか', input: '趣味は何ですか', meaning: '취미가 무엇인가요?', level: 'A2', category: 'small-talk', source: '[[small-talk]]' }
+- { id: 'jp_small_talk_005', display: 'どこか行きましたか', input: 'どこか行きましたか', meaning: '어디 다녀오셨어요?', level: 'A2', category: 'small-talk', source: '[[small-talk]]' }
+- { id: 'jp_small_talk_006', display: 'お変わりありませんか', input: 'お変わりありませんか', meaning: '별 탈 없으신가요? (격식)', level: 'B1', category: 'small-talk', source: '[[small-talk]]' }
+- { id: 'jp_small_talk_007', display: 'ご機嫌いかがでしょうか', input: 'ご機嫌いかがでしょうか', meaning: '기분은 어떠신가요? (격식)', level: 'B1', category: 'small-talk', source: '[[small-talk]]' }
+- { id: 'jp_small_talk_008', display: '今日はいいお天気ですね', input: '今日はいいお天気ですね', meaning: '오늘 날씨 좋네요 (정중형)', level: 'A2', category: 'small-talk', source: '[[small-talk]]' }
+- { id: 'jp_small_talk_009', display: '最近どうですか', input: '最近どうですか', meaning: '요즘 어떻게 지내요?', level: 'A2', category: 'small-talk', source: '[[small-talk]]' }
+- { id: 'jp_small_talk_010', display: '季節ですね', input: '季節ですね', meaning: '계절이네요 (계절 감각)', level: 'A2', category: 'small-talk', source: '[[small-talk]]' }
 ```

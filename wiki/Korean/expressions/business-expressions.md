@@ -1,3 +1,10 @@
+---
+title: "business-expressions (Korean) expressions"
+language: "Korean"
+category: "business-expressions"
+level: "B2-C1"
+---
+
 # Expressions: Business (한국어)
 
 > **Theme:** Business & Workplace
@@ -238,3 +245,20 @@ Business expressions — emails, meetings, contracts, titles, workplace etiquett
 
 - `[[business-basics]]` — Basic business
 - `[[Language/wiki/comparative/business-workplace]]` — 5-language workplace
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'kr_business_expressions_001', display: '처음 뵙겠습니다', input: '처음 뵙겠습니다', meaning: '"Nice to meet you " — formal first meeting.', level: 'B2-C1', category: 'business-expressions', source: '[[business-expressions]]' }
+- { id: 'kr_business_expressions_002', display: '시간 내 주셔서 감사합니다', input: '시간 내 주셔서 감사합니다', meaning: '"Thank you for taking the time" — closing meeting.', level: 'B2-C1', category: 'business-expressions', source: '[[business-expressions]]' }
+- { id: 'kr_business_expressions_003', display: '견적서 부탁드립니다', input: '견적서 부탁드립니다', meaning: '"Could I get a quote, please?" — pricing inquiry.', level: 'B2-C1', category: 'business-expressions', source: '[[business-expressions]]' }
+- { id: 'kr_business_expressions_004', display: '계약 조건이 어떻게 되나요?', input: '계약 조건이 어떻게 되나요?', meaning: '"What are the contract terms?" — contract negotiation.', level: 'B2-C1', category: 'business-expressions', source: '[[business-expressions]]' }
+- { id: 'kr_business_expressions_005', display: '세금계산서 발행해 주세요', input: '세금계산서 발행해 주세요', meaning: '"Please issue a tax invoice" — billing request.', level: 'B2-C1', category: 'business-expressions', source: '[[business-expressions]]' }
+- { id: 'kr_business_expressions_006', display: '연차 사용하고 싶습니다', input: '연차 사용하고 싶습니다', meaning: '"I''d like to use annual leave" — leave request.', level: 'B2-C1', category: 'business-expressions', source: '[[business-expressions]]' }
+- { id: 'kr_business_expressions_007', display: '미팅 시간 잡아 주실 수 있나요?', input: '미팅 시간 잡아 주실 수 있나요?', meaning: '"Can we schedule a meeting?" — scheduling.', level: 'B2-C1', category: 'business-expressions', source: '[[business-expressions]]' }
+- { id: 'kr_business_expressions_008', display: '담당자 좀 바꿔 주시겠어요?', input: '담당자 좀 바꿔 주시겠어요?', meaning: '"Can I speak to the person in charge?" — escalation.', level: 'B2-C1', category: 'business-expressions', source: '[[business-expressions]]' }
+```

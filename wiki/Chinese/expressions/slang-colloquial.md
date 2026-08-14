@@ -1,3 +1,10 @@
+---
+title: "slang-colloquial (Chinese) expressions"
+language: "Chinese"
+category: "slang-colloquial"
+level: "B2-C2"
+---
+
 # Expressions: Slang & Colloquial (zh-CN)
 
 > **Theme:** Slang & Colloquial
@@ -291,3 +298,20 @@
 
 - `[[emotions-reactions]]`
 - `[[technology-expressions]]`
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'zh_slang_colloquial_001', display: '厉害', input: '厉害', meaning: '"Awesome/Impressive" — 감탄 표현.', level: 'B2-C2', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+- { id: 'zh_slang_colloquial_002', display: '加油', input: '加油', meaning: '"Fighting! / You can do it!" — 격려 표현.', level: 'B2-C2', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+- { id: 'zh_slang_colloquial_003', display: '呵呵', input: '呵呵', meaning: '"Hehe" — 비꼼 표현.', level: 'B2-C2', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+- { id: 'zh_slang_colloquial_004', display: '打卡', input: '打卡', meaning: '"Check in " — SNS 인증.', level: 'B2-C2', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+- { id: 'zh_slang_colloquial_005', display: '吃瓜群众', input: '吃瓜群众', meaning: '"Onlooker/spectator" — 구경꾼.', level: 'B2-C2', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+- { id: 'zh_slang_colloquial_006', display: '摆烂', input: '摆烂', meaning: '"Lying flat / giving up" — 포기/타협.', level: 'B2-C2', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+- { id: 'zh_slang_colloquial_007', display: '杠精', input: '杠精', meaning: '"Argumentative person / contrarian" — 반대론자.', level: 'B2-C2', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+- { id: 'zh_slang_colloquial_008', display: '老铁', input: '老铁', meaning: '"Bro / close friend" — 친근한 호칭.', level: 'B2-C2', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+```

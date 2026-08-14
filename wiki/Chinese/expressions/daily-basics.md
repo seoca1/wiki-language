@@ -1,3 +1,10 @@
+---
+title: "daily-basics (Chinese) expressions"
+language: "Chinese"
+category: "daily-basics"
+level: "A1-B2"
+---
+
 # Expressions: Daily Basics (zh-CN)
 
 > **Theme:** Daily Basics
@@ -543,3 +550,27 @@ B: 没关系 (No problem)
 - `[Chinese/sources/pinyin-basics-zh]`
 - `[Chinese/vocabulary/measure-words-zh]`
 - `[Chinese/vocabulary/numbers-zh]`
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'zh_daily_basics_001', display: '你好', input: '你好', meaning: '"Hello" — 가장 기본적인 중국어 인사. 시간 제한 없음 .', level: 'A1-B2 (idioms)', category: 'daily-basics', source: '[[daily-basics]]' }
+- { id: 'zh_daily_basics_002', display: '谢谢', input: '谢谢', meaning: '"Thank you" — 표준 감사 표현.', level: 'A1-B2 (idioms)', category: 'daily-basics', source: '[[daily-basics]]' }
+- { id: 'zh_daily_basics_003', display: '对不起', input: '对不起', meaning: '"Sorry" — 사과. 사과의 뉘앙스 + 사과의 상황 .', level: 'A1-B2 (idioms)', category: 'daily-basics', source: '[[daily-basics]]' }
+- { id: 'zh_daily_basics_004', display: '请', input: '请', meaning: '"Please" — 정중한 요청의 입구. 동사 앞에 붙여 사용.', level: 'A1-B2 (idioms)', category: 'daily-basics', source: '[[daily-basics]]' }
+- { id: 'zh_daily_basics_005', display: '多少钱', input: '多少钱', meaning: '"How much?" — 가격 문의.', level: 'A1-B2 (idioms)', category: 'daily-basics', source: '[[daily-basics]]' }
+- { id: 'zh_daily_basics_006', display: '厕所在哪里', input: '厕所在哪里', meaning: '"Where is the bathroom?" — 가장 흔한 응급 표현.', level: 'A1-B2 (idioms)', category: 'daily-basics', source: '[[daily-basics]]' }
+- { id: 'zh_daily_basics_007', display: '听不懂', input: '听不懂', meaning: '"I don''t understand" — 청해하지 못함.', level: 'A1-B2 (idioms)', category: 'daily-basics', source: '[[daily-basics]]' }
+- { id: 'zh_daily_basics_008', display: '救命', input: '救命', meaning: '"Help!" — 응급 호출.', level: 'A1-B2 (idioms)', category: 'daily-basics', source: '[[daily-basics]]' }
+- { id: 'zh_daily_basics_009', display: '我叫...', input: '我叫...', meaning: '"My name is..." — 자기소개 첫 마디.', level: 'A1-B2 (idioms)', category: 'daily-basics', source: '[[daily-basics]]' }
+- { id: 'zh_daily_basics_010', display: '你是哪里人', input: '你是哪里人', meaning: '"Where are you from?" — 신상/국적 문의.', level: 'A1-B2 (idioms)', category: 'daily-basics', source: '[[daily-basics]]' }
+- { id: 'zh_daily_basics_011', display: '可以拍照吗', input: '可以拍照吗', meaning: '"Can I take a photo?" — 박물관/랜드마크에서 흔한 요청.', level: 'A1-B2 (idioms)', category: 'daily-basics', source: '[[daily-basics]]' }
+- { id: 'zh_daily_basics_012', display: '微信支付可以吗', input: '微信支付可以吗', meaning: '"Can I pay with WeChat?" — 현대 중국 결제 표준.', level: 'A1-B2 (idioms)', category: 'daily-basics', source: '[[daily-basics]]' }
+- { id: 'zh_daily_basics_013', display: '收银台', input: '收银台', meaning: '"Cashier/Checkout counter" — 계산대 위치.', level: 'A1-B2 (idioms)', category: 'daily-basics', source: '[[daily-basics]]' }
+- { id: 'zh_daily_basics_014', display: '太好了', input: '太好了', meaning: '"Great!" — 긍정적 반응.', level: 'A1-B2 (idioms)', category: 'daily-basics', source: '[[daily-basics]]' }
+- { id: 'zh_daily_basics_015', display: '没关系', input: '没关系', meaning: '"It''s okay / No problem" — 사과 받거나 거절 정중화.', level: 'A1-B2 (idioms)', category: 'daily-basics', source: '[[daily-basics]]' }
+```

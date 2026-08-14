@@ -297,14 +297,14 @@ Chinese technology 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: 'zh_technology_001', display: '电脑 (diànnǎo, 電腦)', input: '电脑 (diànnǎo, 電腦)', meaning: 'computer', level: 'HSK 1', category: 'technology', source: '[[technology-vocabulary]]' }
-- { id: 'zh_technology_002', display: '手机 (shǒujī, 手機)', input: '手机 (shǒujī, 手機)', meaning: 'phone', level: 'HSK 1', category: 'technology', source: '[[technology-vocabulary]]' }
-- { id: 'zh_technology_003', display: '互联网 (hùliánwǎng, 互聯網)', input: '互联网 (hùliánwǎng, 互聯網)', meaning: 'internet', level: 'HSK 3', category: 'technology', source: '[[technology-vocabulary]]' }
-- { id: 'zh_technology_004', display: '邮件 (yóujiàn, 郵件)', input: '邮件 (yóujiàn, 郵件)', meaning: 'email', level: 'HSK 2', category: 'technology', source: '[[technology-vocabulary]]' }
-- { id: 'zh_technology_005', display: '网站 (wǎngzhàn, 網站)', input: '网站 (wǎngzhàn, 網站)', meaning: 'website', level: 'HSK 3', category: 'technology', source: '[[technology-vocabulary]]' }
-- { id: 'zh_technology_006', display: '应用 (yìngyòng, 應用)', input: '应用 (yìngyòng, 應用)', meaning: 'app', level: 'HSK 3', category: 'technology', source: '[[technology-vocabulary]]' }
-- { id: 'zh_technology_007', display: '密码 (mìmǎ, 密碼)', input: '密码 (mìmǎ, 密碼)', meaning: 'password', level: 'HSK 3', category: 'technology', source: '[[technology-vocabulary]]' }
-- { id: 'zh_technology_008', display: '鼠标 (shǔbiāo, 鼠標)', input: '鼠标 (shǔbiāo, 鼠標)', meaning: 'mouse', level: 'HSK 3', category: 'technology', source: '[[technology-vocabulary]]' }
-- { id: 'zh_technology_009', display: '键盘 (jiànpán, 鍵盤)', input: '键盘 (jiànpán, 鍵盤)', meaning: 'keyboard', level: 'HSK 3', category: 'technology', source: '[[technology-vocabulary]]' }
-- { id: 'zh_technology_010', display: '屏幕 (píngmù, 屏幕)', input: '屏幕 (píngmù, 屏幕)', meaning: 'screen', level: 'HSK 2', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'zh_technology_001', display: '电脑 (diànnǎo, 電腦)', input: '电脑 (diànnǎo, 電腦)', meaning: 'computer', level: 'A1-A2', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'zh_technology_002', display: '手机 (shǒujī, 手機)', input: '手机 (shǒujī, 手機)', meaning: 'phone', level: 'A1-A2', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'zh_technology_003', display: '互联网 (hùliánwǎng, 互聯網)', input: '互联网 (hùliánwǎng, 互聯網)', meaning: 'internet', level: 'A1-A2', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'zh_technology_004', display: '邮件 (yóujiàn, 郵件)', input: '邮件 (yóujiàn, 郵件)', meaning: 'email', level: 'A1-A2', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'zh_technology_005', display: '网站 (wǎngzhàn, 網站)', input: '网站 (wǎngzhàn, 網站)', meaning: 'website', level: 'A1-A2', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'zh_technology_006', display: '应用 (yìngyòng, 應用)', input: '应用 (yìngyòng, 應用)', meaning: 'app', level: 'A1-A2', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'zh_technology_007', display: '密码 (mìmǎ, 密碼)', input: '密码 (mìmǎ, 密碼)', meaning: 'password', level: 'A1-A2', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'zh_technology_008', display: '鼠标 (shǔbiāo, 鼠標)', input: '鼠标 (shǔbiāo, 鼠標)', meaning: 'mouse', level: 'A1-A2', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'zh_technology_009', display: '键盘 (jiànpán, 鍵盤)', input: '键盘 (jiànpán, 鍵盤)', meaning: 'keyboard', level: 'A1-A2', category: 'technology', source: '[[technology-vocabulary]]' }
+- { id: 'zh_technology_010', display: '屏幕 (píngmù, 屏幕)', input: '屏幕 (píngmù, 屏幕)', meaning: 'screen', level: 'A1-A2', category: 'technology', source: '[[technology-vocabulary]]' }
 ```

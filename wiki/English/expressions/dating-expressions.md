@@ -1,3 +1,10 @@
+---
+title: "dating-expressions (English) expressions"
+language: "English"
+category: "dating-expressions"
+level: "B1-C1"
+---
+
 # Expressions: Dating & Romance (English)
 
 > **Theme:** Dating & Romance
@@ -265,3 +272,20 @@ Relationship milestone.
 
 - `[[dating-romance]]` — Basic dating
 - `[[Language/wiki/comparative/dating-romance]]` — 5-language dating
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'en_dating_expressions_001', display: 'I like you', input: 'I like you', meaning: '"I like you" — direct confession.', level: 'B1-C1', category: 'dating-expressions', source: '[[dating-expressions]]' }
+- { id: 'en_dating_expressions_002', display: 'Will you be my boyfriend/girlfriend?', input: 'Will you be my boyfriend/girlfriend?', meaning: '"Will you be my boyfriend/girlfriend?" — official relationship start.', level: 'B1-C1', category: 'dating-expressions', source: '[[dating-expressions]]' }
+- { id: 'en_dating_expressions_003', display: 'I love you', input: 'I love you', meaning: '"I love you" — deep affection.', level: 'B1-C1', category: 'dating-expressions', source: '[[dating-expressions]]' }
+- { id: 'en_dating_expressions_004', display: 'I want to break up', input: 'I want to break up', meaning: '"I want to break up" — ending relationship.', level: 'B1-C1', category: 'dating-expressions', source: '[[dating-expressions]]' }
+- { id: 'en_dating_expressions_005', display: 'Blind date', input: 'Blind date', meaning: '"Blind date" — meeting someone new through friends/family.', level: 'B1-C1', category: 'dating-expressions', source: '[[dating-expressions]]' }
+- { id: 'en_dating_expressions_006', display: 'Moving in together', input: 'Moving in together', meaning: '"Moving in together" — cohabitation decision.', level: 'B1-C1', category: 'dating-expressions', source: '[[dating-expressions]]' }
+- { id: 'en_dating_expressions_007', display: 'Online dating', input: 'Online dating', meaning: '"Online dating" — meeting via apps/websites.', level: 'B1-C1', category: 'dating-expressions', source: '[[dating-expressions]]' }
+- { id: 'en_dating_expressions_008', display: 'Meeting the parents', input: 'Meeting the parents', meaning: '"Meeting the parents" — introducing partner to family.', level: 'B1-C1', category: 'dating-expressions', source: '[[dating-expressions]]' }
+```

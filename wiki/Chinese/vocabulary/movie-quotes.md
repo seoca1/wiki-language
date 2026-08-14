@@ -352,15 +352,14 @@ theme: "movies"
 
 ## Pipeline Form (machine-readable)
 
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
+
 ```yaml
-- { id: zh_movie_001, display: "电影 (diànyǐng)", input: "diànyǐng", meaning: "movie", level: "1", category: "movies", source: "[[movie-quotes]]" }
-- { id: zh_movie_002, display: "电影 (diànyǐng)", input: "diànyǐng", meaning: "movie", level: "1", category: "movies", source: "[[movie-quotes]]" }
-- { id: zh_movie_003, display: "演员 (yǎnyuán)", input: "yǎnyuán", meaning: "actor", level: "3", category: "movies", source: "[[movie-quotes]]" }
-- { id: zh_movie_004, display: "导演 (dǎoyǎn)", input: "dǎoyǎn", meaning: "director", level: "3", category: "movies", source: "[[movie-quotes]]" }
-- { id: zh_movie_005, display: "电影 (diànyǐng)", input: "diànyǐng", meaning: "movie", level: "1", category: "movies", source: "[[movie-quotes]]" }
-- { id: zh_movie_006, display: "电影 (diànyǐng)", input: "diànyǐng", meaning: "movie", level: "1", category: "movies", source: "[[movie-quotes]]" }
-- { id: zh_movie_007, display: "电影院 (diànyǐngyuàn)", input: "diànyǐngyuàn", meaning: "cinema", level: "1", category: "movies", source: "[[movie-quotes]]" }
-- { id: zh_movie_008, display: "电影 (diànyǐng)", input: "diànyǐng", meaning: "movie", level: "1", category: "movies", source: "[[movie-quotes]]" }
-- { id: zh_movie_009, display: "周星驰 (zhōu xīngchí)", input: "zhōu xīngchí", meaning: "Stephen Chow", level: "3", category: "movies", source: "[[movie-quotes]]" }
-- { id: zh_movie_010, display: "成龙 (chéng lóng)", input: "chéng lóng", meaning: "Jackie Chan", level: "3", category: "movies", source: "[[movie-quotes]]" }
+- { id: 'zh_movies_001', display: '《霸王别姬》(1993, 陈凯歌)', input: '《霸王别姬》(1993, 陈凯歌)', meaning: '', level: 'HSK 3-5', category: 'movies', source: '[[movie-quotes]]' }
+- { id: 'zh_movies_002', display: '《大话西游》(1995, 刘镇伟)', input: '《大话西游》(1995, 刘镇伟)', meaning: '', level: 'HSK 3-5', category: 'movies', source: '[[movie-quotes]]' }
+- { id: 'zh_movies_003', display: '《无间道》(2002, 刘伟强/麦兆辉)', input: '《无间道》(2002, 刘伟强/麦兆辉)', meaning: '', level: 'HSK 3-5', category: 'movies', source: '[[movie-quotes]]' }
+- { id: 'zh_movies_004', display: '《花样年华》(2000, 王家卫)', input: '《花样年华》(2000, 王家卫)', meaning: '', level: 'HSK 3-5', category: 'movies', source: '[[movie-quotes]]' }
+- { id: 'zh_movies_005', display: '《阿飞正传》(1990, 王家卫)', input: '《阿飞正传》(1990, 王家卫)', meaning: '', level: 'HSK 3-5', category: 'movies', source: '[[movie-quotes]]' }
 ```

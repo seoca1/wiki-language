@@ -1,3 +1,10 @@
+---
+title: "travel-basics (English) expressions"
+language: "English"
+category: "travel-basics"
+level: "A1-B2"
+---
+
 # Expressions: Travel Basics (English)
 
 > **Theme:** Travel & Tourism
@@ -385,3 +392,24 @@ English travel phrases — airport, hotel, transport, directions, sightseeing, e
 
 - `[English/vocabulary/travel]`
 - `[[Language/wiki/comparative/travel-essentials]]`
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'en_travel_basics_001', display: 'Where is the airport?', input: 'Where is the airport?', meaning: '"Where is the airport?" — 가장 흔한 방향 문의.', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'en_travel_basics_002', display: 'Where is the hotel?', input: 'Where is the hotel?', meaning: '"Where is the hotel?" — 호텔 위치 문의.', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'en_travel_basics_003', display: 'Can I have a ticket to ___?', input: 'Can I have a ticket to ___?', meaning: '"Can I have a ticket to ___?" — 교통 티켓 구매.', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'en_travel_basics_004', display: 'How much is a taxi to ___?', input: 'How much is a taxi to ___?', meaning: '"How much is a taxi to ___?" — 택시 비용.', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'en_travel_basics_005', display: 'Where is the bathroom?', input: 'Where is the bathroom?', meaning: '', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'en_travel_basics_006', display: 'Where is the train station?', input: 'Where is the train station?', meaning: '"Where is the train station?" — 가장 흔한 방향 문의.', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'en_travel_basics_007', display: 'How do I get to ___?', input: 'How do I get to ___?', meaning: '"How do I get to ___?" — 가장 흔한 길 묻기.', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'en_travel_basics_008', display: 'Help!', input: 'Help!', meaning: '', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'en_travel_basics_009', display: 'Call 911!', input: 'Call 911!', meaning: '"Call 911!" — 응급 호출 .', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'en_travel_basics_010', display: 'Can I have a menu?', input: 'Can I have a menu?', meaning: '', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'en_travel_basics_011', display: 'Can you take a photo of me?', input: 'Can you take a photo of me?', meaning: '"Can you take a photo of me?" — 사진 부탁.', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'en_travel_basics_012', display: 'Where can I find a good restaurant?', input: 'Where can I find a good restaurant?', meaning: '"Where can I find a good restaurant?" — 식당 추천 요청.', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+```

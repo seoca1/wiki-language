@@ -1,3 +1,10 @@
+---
+title: "technology-expressions (Japanese) expressions"
+language: "Japanese"
+category: "technology-expressions"
+level: "A2-C1"
+---
+
 # Expressions: Technology & Internet (日本語)
 
 > **Theme:** Technology & Internet
@@ -210,3 +217,19 @@ Tech/internet expressions — apps, payments, social media, internet culture.
 
 - `[[daily-life]]` — Daily life tech
 - `[[Language/wiki/comparative/tech-internet]]` — 5-language tech
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'jp_technology_expressions_001', display: 'Wi-Fiのパスワードは何ですか?', input: 'Wi-Fiのパスワードは何ですか?', meaning: '"What''s the WiFi password?" — connecting to internet.', level: 'A2-C1', category: 'technology-expressions', source: '[[technology-expressions]]' }
+- { id: 'jp_technology_expressions_002', display: '連絡先を教えてください', input: '連絡先を教えてください', meaning: '"Please tell me your contact info" — sharing contact.', level: 'A2-C1', category: 'technology-expressions', source: '[[technology-expressions]]' }
+- { id: 'jp_technology_expressions_003', display: 'DMしてください', input: 'DMしてください', meaning: '"Please DM me" — direct message on social media.', level: 'A2-C1', category: 'technology-expressions', source: '[[technology-expressions]]' }
+- { id: 'jp_technology_expressions_004', display: 'タグして', input: 'タグして', meaning: '"Tag " — mentioning in social media.', level: 'A2-C1', category: 'technology-expressions', source: '[[technology-expressions]]' }
+- { id: 'jp_technology_expressions_005', display: 'やばい', input: 'やばい', meaning: '"Yabai" — multi-purpose .', level: 'A2-C1', category: 'technology-expressions', source: '[[technology-expressions]]' }
+- { id: 'jp_technology_expressions_006', display: '配車アプリ', input: '配車アプリ', meaning: '"Ride-hailing app" — Uber/Lyft style service.', level: 'A2-C1', category: 'technology-expressions', source: '[[technology-expressions]]' }
+- { id: 'jp_technology_expressions_007', display: 'ライブコマース', input: 'ライブコマース', meaning: '"Live commerce" — buying via live video.', level: 'A2-C1', category: 'technology-expressions', source: '[[technology-expressions]]' }
+```

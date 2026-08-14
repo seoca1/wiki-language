@@ -1,3 +1,10 @@
+---
+title: "polite-expressions (Japanese) expressions"
+language: "Japanese"
+category: "polite-expressions"
+level: "A1-C1"
+---
+
 # Expressions: Polite & Honorific (日本語)
 
 > **Theme:** Politeness & Honorifics
@@ -240,3 +247,20 @@ Japanese politeness — keigo (敬語) system, honorifics, business etiquette.
 - `[[apologies]]` — Apology expressions
 - `[[requests]]` — Request expressions
 - `[[Language/wiki/comparative/politeness-honorifics]]` — 5-language politeness
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'jp_polite_expressions_001', display: 'ありがとうございます', input: 'ありがとうございます', meaning: '"Thank you very much" — most common gratitude.', level: 'A1-C1', category: 'polite-expressions', source: '[[polite-expressions]]' }
+- { id: 'jp_polite_expressions_002', display: 'お願いします', input: 'お願いします', meaning: '"Please" — polite request.', level: 'A1-C1', category: 'polite-expressions', source: '[[polite-expressions]]' }
+- { id: 'jp_polite_expressions_003', display: 'すみません', input: 'すみません', meaning: '"Excuse me / I''m sorry" — multiple uses.', level: 'A1-C1', category: 'polite-expressions', source: '[[polite-expressions]]' }
+- { id: 'jp_polite_expressions_004', display: 'ごめんなさい', input: 'ごめんなさい', meaning: '"I''m sorry" — apology.', level: 'A1-C1', category: 'polite-expressions', source: '[[polite-expressions]]' }
+- { id: 'jp_polite_expressions_005', display: 'どういたしまして', input: 'どういたしまして', meaning: '"You''re welcome" — response to thanks.', level: 'A1-C1', category: 'polite-expressions', source: '[[polite-expressions]]' }
+- { id: 'jp_polite_expressions_006', display: '___してもいいですか?', input: '___してもいいですか?', meaning: '"May I ___?" — polite permission request.', level: 'A1-C1', category: 'polite-expressions', source: '[[polite-expressions]]' }
+- { id: 'jp_polite_expressions_007', display: 'お世話になっております', input: 'お世話になっております', meaning: '"Thank you for your continued support" — business greeting.', level: 'A1-C1', category: 'polite-expressions', source: '[[polite-expressions]]' }
+- { id: 'jp_polite_expressions_008', display: 'お疲れ様でした', input: 'お疲れ様でした', meaning: '"Thank you for your hard work" — closing.', level: 'A1-C1', category: 'polite-expressions', source: '[[polite-expressions]]' }
+```

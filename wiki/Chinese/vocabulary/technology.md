@@ -247,36 +247,37 @@ theme: "technology"
 
 > Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: zh_tech_001, display: "微信 (wēixìn)", input: "weixin", meaning: "WeChat", level: "3", category: "technology", source: "[[technology]]" }
-- { id: zh_tech_002, display: "支付宝 (zhīfùbǎo)", input: "zhifubao", meaning: "Alipay", level: "3", category: "technology", source: "[[technology]]" }
-- { id: zh_tech_003, display: "小程序 (xiǎochéngxù)", input: "xiaochengxu", meaning: "Mini Program", level: "4", category: "technology", source: "[[technology]]" }
-- { id: zh_tech_004, display: "微信支付 (wēixìn zhīfù)", input: "weixinfu", meaning: "WeChat Pay", level: "4", category: "technology", source: "[[technology]]" }
-- { id: zh_tech_005, display: "抖音 (dǒuyīn)", input: "douyin", meaning: "Douyin (TikTok China)", level: "3", category: "technology", source: "[[technology]]" }
-- { id: zh_tech_006, display: "快手 (kuàishǒu)", input: "kuaishou", meaning: "Kuaishou", level: "3", category: "technology", source: "[[technology]]" }
-- { id: zh_tech_007, display: "小红书 (xiǎohóngshū)", input: "xiaohongshu", meaning: "Xiaohongshu (RED)", level: "3", category: "technology", source: "[[technology]]" }
-- { id: zh_tech_008, display: "哔哩哔哩 (bīlībīlī)", input: "bilibili", meaning: "Bilibili", level: "3", category: "technology", source: "[[technology]]" }
-- { id: zh_tech_009, display: "美团 (měituán)", input: "meituan", meaning: "Meituan", level: "3", category: "technology", source: "[[technology]]" }
-- { id: zh_tech_010, display: "饿了么 (èleme)", input: "eleme", meaning: "Ele.me", level: "3", category: "technology", source: "[[technology]]" }
-- { id: zh_tech_011, display: "京东 (jīngdōng)", input: "jingdong", meaning: "JD.com", level: "3", category: "technology", source: "[[technology]]" }
-- { id: zh_tech_012, display: "拼多多 (pīnduōduō)", input: "pinduoduo", meaning: "Pinduoduo", level: "3", category: "technology", source: "[[technology]]" }
-- { id: zh_tech_013, display: "淘宝 (táobǎo)", input: "taobao", meaning: "Taobao", level: "3", category: "technology", source: "[[technology]]" }
-- { id: zh_tech_014, display: "天猫 (tiānmāo)", input: "tianmao", meaning: "Tmall", level: "3", category: "technology", source: "[[technology]]" }
-- { id: zh_tech_015, display: "云原生 (yún yuánshēng)", input: "yunyuansheng", meaning: "Cloud Native", level: "5", category: "technology", source: "[[technology]]" }
-- { id: zh_tech_016, display: "微服务 (wēifúwù)", input: "weifuwu", meaning: "Microservices", level: "5", category: "technology", source: "[[technology]]" }
-- { id: zh_tech_017, display: "容器 (róngqì)", input: "rongqi", meaning: "Container", level: "5", category: "technology", source: "[[technology]]" }
-- { id: zh_tech_018, display: "Kubernetes (Kubernetes)", input: "kubernetes", meaning: "Kubernetes (K8s)", level: "5", category: "technology", source: "[[technology]]" }
-- { id: zh_tech_019, display: "Serverless (Serverless)", input: "serverless", meaning: "Serverless", level: "5", category: "technology", source: "[[technology]]" }
-- { id: zh_tech_020, display: "大语言模型 (dà yǔyán móxíng)", input: "dayuyanmoxing", meaning: "LLM", level: "5", category: "technology", source: "[[technology]]" }
-- { id: zh_tech_021, display: "生成式AI (shēngchéngshì AI)", input: "shengchengshiAI", meaning: "Generative AI", level: "5", category: "technology", source: "[[technology]]" }
-- { id: zh_tech_022, display: "RAG (RAG)", input: "RAG", meaning: "Retrieval-Augmented Generation", level: "5", category: "technology", source: "[[technology]]" }
-- { id: zh_tech_023, display: "智能体 (zhìnéngtǐ)", input: "zhiningti", meaning: "AI Agent", level: "5", category: "technology", source: "[[technology]]" }
-- { id: zh_tech_024, display: "区块链 (qūkuàiliàn)", input: "qukuailian", meaning: "Blockchain", level: "5", category: "technology", source: "[[technology]]" }
-- { id: zh_tech_025, display: "DeFi (DeFi)", input: "DeFi", meaning: "Decentralized Finance", level: "5", category: "technology", source: "[[technology]]" }
-- { id: zh_tech_026, display: "NFT (NFT)", input: "NFT", meaning: "Non-Fungible Token", level: "5", category: "technology", source: "[[technology]]" }
-- { id: zh_tech_027, display: "5G (5G)", input: "5G", meaning: "5G", level: "4", category: "technology", source: "[[technology]]" }
-- { id: zh_tech_028, display: "智能家居 (zhìnéng jiājū)", input: "zhinenghjiaju", meaning: "Smart Home", level: "4", category: "technology", source: "[[technology]]" }
-- { id: zh_tech_029, display: "Matter (Matter)", input: "matter", meaning: "Matter (IoT standard)", level: "5", category: "technology", source: "[[technology]]" }
-- { id: zh_tech_030, display: "零信任 (língxìnrèn)", input: "lingxinren", meaning: "Zero Trust", level: "5", category: "technology", source: "[[technology]]" }
+- { id: 'zh_technology_001', display: '微信', input: '微信', meaning: '', level: 'HSK 3-5', category: 'technology', source: '[[technology-and-internet-zh]]' }
+- { id: 'zh_technology_002', display: '小程序', input: '小程序', meaning: '', level: 'HSK 3-5', category: 'technology', source: '[[technology-and-internet-zh]]' }
+- { id: 'zh_technology_003', display: '微信支付', input: '微信支付', meaning: '', level: 'HSK 3-5', category: 'technology', source: '[[technology-and-internet-zh]]' }
+- { id: 'zh_technology_004', display: '支付宝', input: '支付宝', meaning: '', level: 'HSK 3-5', category: 'technology', source: '[[technology-and-internet-zh]]' }
+- { id: 'zh_technology_005', display: '大语言模型', input: '大语言模型', meaning: '', level: 'HSK 3-5', category: 'technology', source: '[[technology-and-internet-zh]]' }
+- { id: 'zh_technology_006', display: '生成式AI', input: '生成式AI', meaning: '', level: 'HSK 3-5', category: 'technology', source: '[[technology-and-internet-zh]]' }
+- { id: 'zh_technology_007', display: 'RAG', input: 'RAG', meaning: '', level: 'HSK 3-5', category: 'technology', source: '[[technology-and-internet-zh]]' }
+- { id: 'zh_technology_008', display: '智能体', input: '智能体', meaning: '', level: 'HSK 3-5', category: 'technology', source: '[[technology-and-internet-zh]]' }
+- { id: 'zh_technology_009', display: '云原生', input: '云原生', meaning: '', level: 'HSK 3-5', category: 'technology', source: '[[technology-and-internet-zh]]' }
+- { id: 'zh_technology_010', display: '微服务', input: '微服务', meaning: '', level: 'HSK 3-5', category: 'technology', source: '[[technology-and-internet-zh]]' }
+- { id: 'zh_technology_011', display: '容器', input: '容器', meaning: '', level: 'HSK 3-5', category: 'technology', source: '[[technology-and-internet-zh]]' }
+- { id: 'zh_technology_012', display: 'Kubernetes', input: 'Kubernetes', meaning: '', level: 'HSK 3-5', category: 'technology', source: '[[technology-and-internet-zh]]' }
+- { id: 'zh_technology_013', display: 'Serverless', input: 'Serverless', meaning: '', level: 'HSK 3-5', category: 'technology', source: '[[technology-and-internet-zh]]' }
+- { id: 'zh_technology_014', display: '区块链', input: '区块链', meaning: '', level: 'HSK 3-5', category: 'technology', source: '[[technology-and-internet-zh]]' }
+- { id: 'zh_technology_015', display: 'DeFi', input: 'DeFi', meaning: '', level: 'HSK 3-5', category: 'technology', source: '[[technology-and-internet-zh]]' }
+- { id: 'zh_technology_016', display: 'NFT', input: 'NFT', meaning: '', level: 'HSK 3-5', category: 'technology', source: '[[technology-and-internet-zh]]' }
+- { id: 'zh_technology_017', display: '5G', input: '5G', meaning: '', level: 'HSK 3-5', category: 'technology', source: '[[technology-and-internet-zh]]' }
+- { id: 'zh_technology_018', display: '智能家居', input: '智能家居', meaning: '', level: 'HSK 3-5', category: 'technology', source: '[[technology-and-internet-zh]]' }
+- { id: 'zh_technology_019', display: '抖音', input: '抖音', meaning: '', level: 'HSK 3-5', category: 'technology', source: '[[technology-and-internet-zh]]' }
+- { id: 'zh_technology_020', display: '快手', input: '快手', meaning: '', level: 'HSK 3-5', category: 'technology', source: '[[technology-and-internet-zh]]' }
+- { id: 'zh_technology_021', display: '小红书', input: '小红书', meaning: '', level: 'HSK 3-5', category: 'technology', source: '[[technology-and-internet-zh]]' }
+- { id: 'zh_technology_022', display: '哔哩哔哩', input: '哔哩哔哩', meaning: '', level: 'HSK 3-5', category: 'technology', source: '[[technology-and-internet-zh]]' }
+- { id: 'zh_technology_023', display: '美团', input: '美团', meaning: '', level: 'HSK 3-5', category: 'technology', source: '[[technology-and-internet-zh]]' }
+- { id: 'zh_technology_024', display: '饿了么', input: '饿了么', meaning: '', level: 'HSK 3-5', category: 'technology', source: '[[technology-and-internet-zh]]' }
+- { id: 'zh_technology_025', display: '京东', input: '京东', meaning: '', level: 'HSK 3-5', category: 'technology', source: '[[technology-and-internet-zh]]' }
+- { id: 'zh_technology_026', display: '拼多多', input: '拼多多', meaning: '', level: 'HSK 3-5', category: 'technology', source: '[[technology-and-internet-zh]]' }
+- { id: 'zh_technology_027', display: '淘宝', input: '淘宝', meaning: '', level: 'HSK 3-5', category: 'technology', source: '[[technology-and-internet-zh]]' }
+- { id: 'zh_technology_028', display: '天猫', input: '天猫', meaning: '', level: 'HSK 3-5', category: 'technology', source: '[[technology-and-internet-zh]]' }
+- { id: 'zh_technology_029', display: 'Matter', input: 'Matter', meaning: '', level: 'HSK 3-5', category: 'technology', source: '[[technology-and-internet-zh]]' }
+- { id: 'zh_technology_030', display: '零信任', input: '零信任', meaning: '', level: 'HSK 3-5', category: 'technology', source: '[[technology-and-internet-zh]]' }
 ```

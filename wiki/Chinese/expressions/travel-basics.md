@@ -1,3 +1,10 @@
+---
+title: "travel-basics (Chinese) expressions"
+language: "Chinese"
+category: "travel-basics"
+level: "A1-B2"
+---
+
 # Expressions: Travel Basics (zh-CN)
 
 > **Theme:** Travel & Tourism
@@ -377,3 +384,21 @@ B: 长城, 故宫, 都很经典 (Great Wall, Forbidden City, all classic)
 - `[[Language/wiki/comparative/travel-essentials]]`
 - `[Chinese/sources/pinyin-basics-zh]`
 - [[greetings-zh]]
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'zh_travel_basics_001', display: '机场', input: '机场', meaning: '"Airport" — 공항.', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'zh_travel_basics_002', display: '出租车', input: '出租车', meaning: '"Taxi" — 택시.', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'zh_travel_basics_003', display: '地铁', input: '地铁', meaning: '"Subway/Metro" — 지하철.', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'zh_travel_basics_004', display: '酒店', input: '酒店', meaning: '"Hotel" — 호텔.', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'zh_travel_basics_005', display: '帮我拍照', input: '帮我拍照', meaning: '"Help me take a photo" — 여행 필수 표현.', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'zh_travel_basics_006', display: '多少钱一张票', input: '多少钱一张票', meaning: '"How much is one ticket?" — 관광지/박물관 티켓 가격.', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'zh_travel_basics_007', display: '帮我看一下行李', input: '帮我看一下行李', meaning: '"Watch my luggage for me" — 여행자 필수.', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'zh_travel_basics_008', display: '报警/叫救护车', input: '报警/叫救护车', meaning: '"Call the police / ambulance" — 응급 호출.', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+- { id: 'zh_travel_basics_009', display: '请给我推荐', input: '请给我推荐', meaning: '"Please recommend " — 여행자 핵심 표현.', level: 'A1-B2', category: 'travel-basics', source: '[[travel-basics]]' }
+```

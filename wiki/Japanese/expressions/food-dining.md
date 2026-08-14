@@ -1,3 +1,10 @@
+---
+title: "food-dining (Japanese) expressions"
+language: "Japanese"
+category: "food-dining"
+level: "A1-B2"
+---
+
 # Expressions: Food & Dining (日本語)
 
 > **Theme:** Food & Restaurant
@@ -350,3 +357,22 @@ Japanese food culture expressions — restaurant flow, ordering, payment, dietar
 - `[Japanese/vocabulary/food-vocabulary]`
 - `[[Language/wiki/comparative/food-dining]]`
 - `[[Language/wiki/comparative/numbers-counters]]`
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'jp_food_dining_001', display: 'メニューをください', input: 'メニューをください', meaning: '"Menu, please" — 메뉴판 요청.', level: 'A1-B2', category: 'food-dining', source: '[[food-dining]]' }
+- { id: 'jp_food_dining_002', display: 'これをください', input: 'これをください', meaning: '"This, please" — 메뉴판/사진 가리키며 주문.', level: 'A1-B2', category: 'food-dining', source: '[[food-dining]]' }
+- { id: 'jp_food_dining_003', display: 'お会計お願いします', input: 'お会計お願いします', meaning: '"Check, please" — 계산 요청.', level: 'A1-B2', category: 'food-dining', source: '[[food-dining]]' }
+- { id: 'jp_food_dining_004', display: 'いただきます', input: 'いただきます', meaning: '', level: 'A1-B2', category: 'food-dining', source: '[[food-dining]]' }
+- { id: 'jp_food_dining_005', display: '辛くしないでください', input: '辛くしないでください', meaning: '"Please make it not spicy" — 매운 정도 조절.', level: 'A1-B2', category: 'food-dining', source: '[[food-dining]]' }
+- { id: 'jp_food_dining_006', display: 'ベジタリアンです', input: 'ベジタリアンです', meaning: '"I''m vegetarian" — 채식주의자.', level: 'A1-B2', category: 'food-dining', source: '[[food-dining]]' }
+- { id: 'jp_food_dining_007', display: 'お酒を飲みません', input: 'お酒を飲みません', meaning: '"I don''t drink alcohol" — 음주 거절.', level: 'A1-B2', category: 'food-dining', source: '[[food-dining]]' }
+- { id: 'jp_food_dining_008', display: 'おいしい', input: 'おいしい', meaning: '"Delicious" — 맛있음.', level: 'A1-B2', category: 'food-dining', source: '[[food-dining]]' }
+- { id: 'jp_food_dining_009', display: '持ち帰りできますか', input: '持ち帰りできますか', meaning: '"Can I take it to go?" — 음식 포장.', level: 'A1-B2', category: 'food-dining', source: '[[food-dining]]' }
+- { id: 'jp_food_dining_010', display: 'ごちそうさまでした', input: 'ごちそうさまでした', meaning: '', level: 'A1-B2', category: 'food-dining', source: '[[food-dining]]' }
+```

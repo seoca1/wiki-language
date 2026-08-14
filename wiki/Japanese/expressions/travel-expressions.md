@@ -1,3 +1,10 @@
+---
+title: "travel-expressions (Japanese) expressions"
+language: "Japanese"
+category: "travel-expressions"
+level: "B1-C1"
+---
+
 # Expressions: Travel Advanced (日本語)
 
 > **Theme:** Travel (Advanced)
@@ -242,3 +249,20 @@ Advanced travel expressions — booking, ticket issues, directions, accommodatio
 
 - `[[travel-basics]]` — Basic travel
 - `[[Language/wiki/comparative/travel-essentials]]` — 5-language travel
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'jp_travel_expressions_001', display: '予約したいんですが', input: '予約したいんですが', meaning: '"I''d like to make a reservation" — booking flights/hotels/restaurants.', level: 'B1-C1', category: 'travel-expressions', source: '[[travel-expressions]]' }
+- { id: 'jp_travel_expressions_002', display: '___までの切符を一枚ください', input: '___までの切符を一枚ください', meaning: '"One ticket to..." — transport purchase.', level: 'B1-C1', category: 'travel-expressions', source: '[[travel-expressions]]' }
+- { id: 'jp_travel_expressions_003', display: 'この辺で何か面白い所はありますか?', input: 'この辺で何か面白い所はありますか?', meaning: '"Is there anything interesting around here?" — sightseeing.', level: 'B1-C1', category: 'travel-expressions', source: '[[travel-expressions]]' }
+- { id: 'jp_travel_expressions_004', display: 'トイレはどこですか?', input: 'トイレはどこですか?', meaning: '"Where is the restroom?" — basic but essential.', level: 'B1-C1', category: 'travel-expressions', source: '[[travel-expressions]]' }
+- { id: 'jp_travel_expressions_005', display: '安くなりますか?', input: '安くなりますか?', meaning: '"Can it be cheaper?" — bargaining .', level: 'B1-C1', category: 'travel-expressions', source: '[[travel-expressions]]' }
+- { id: 'jp_travel_expressions_006', display: '道に迷いました', input: '道に迷いました', meaning: '"I''m lost" — getting help when disoriented.', level: 'B1-C1', category: 'travel-expressions', source: '[[travel-expressions]]' }
+- { id: 'jp_travel_expressions_007', display: 'Wi-Fiはありますか?', input: 'Wi-Fiはありますか?', meaning: '"Is there WiFi?" — internet access inquiry.', level: 'B1-C1', category: 'travel-expressions', source: '[[travel-expressions]]' }
+- { id: 'jp_travel_expressions_008', display: '英語が話せるガイドをお願いします', input: '英語が話せるガイドをお願いします', meaning: '"I''d like an English-speaking guide" — guided tour.', level: 'B1-C1', category: 'travel-expressions', source: '[[travel-expressions]]' }
+```

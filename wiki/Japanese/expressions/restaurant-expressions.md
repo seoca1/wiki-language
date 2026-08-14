@@ -1,3 +1,10 @@
+---
+title: "restaurant-expressions (Japanese) expressions"
+language: "Japanese"
+category: "restaurant-expressions"
+level: "A2-B2"
+---
+
 # Expressions: Restaurant & Dining (日本語)
 
 > **Theme:** Restaurant & Dining
@@ -211,3 +218,19 @@ Restaurant/dining expressions — ordering, allergies, bill, dining etiquette.
 
 - `[[food-dining]]` — Basic food expressions
 - `[[Language/wiki/comparative/food-dining]]` — 5-language food
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'jp_restaurant_expressions_001', display: 'メニューをいただけますか?', input: 'メニューをいただけますか?', meaning: '"Could I have the menu, please?" — upon sitting.', level: 'A2-B2', category: 'restaurant-expressions', source: '[[restaurant-expressions]]' }
+- { id: 'jp_restaurant_expressions_002', display: 'これをください', input: 'これをください', meaning: '"I''ll have this" — placing an order.', level: 'A2-B2', category: 'restaurant-expressions', source: '[[restaurant-expressions]]' }
+- { id: 'jp_restaurant_expressions_003', display: '___のアレルギーがあります', input: '___のアレルギーがあります', meaning: '"I have a ___ allergy" — allergy disclosure.', level: 'A2-B2', category: 'restaurant-expressions', source: '[[restaurant-expressions]]' }
+- { id: 'jp_restaurant_expressions_004', display: 'お会計おねがいします', input: 'お会計おねがいします', meaning: '"Check, please" — asking for the bill.', level: 'A2-B2', category: 'restaurant-expressions', source: '[[restaurant-expressions]]' }
+- { id: 'jp_restaurant_expressions_005', display: '持ち帰りにできますか?', input: '持ち帰りにできますか?', meaning: '"Can I take this to go?" — leftovers/doggy bag.', level: 'A2-B2', category: 'restaurant-expressions', source: '[[restaurant-expressions]]' }
+- { id: 'jp_restaurant_expressions_006', display: 'これは何が入っていますか?', input: 'これは何が入っていますか?', meaning: '"What''s in this?" — ingredient inquiry.', level: 'A2-B2', category: 'restaurant-expressions', source: '[[restaurant-expressions]]' }
+- { id: 'jp_restaurant_expressions_007', display: 'とても美味しいです', input: 'とても美味しいです', meaning: '"It''s very delicious" — praising food.', level: 'A2-B2', category: 'restaurant-expressions', source: '[[restaurant-expressions]]' }
+```

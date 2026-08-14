@@ -1,3 +1,10 @@
+---
+title: "daily-basics (English) expressions"
+language: "English"
+category: "daily-basics"
+level: "A1-B2"
+---
+
 # Expressions: Daily Basics
 
 > **Theme:** Daily Basics
@@ -184,3 +191,16 @@ night — how about Thursday?" shows real interest.
 - BBC Learning English — Saying no politely
 
 ---
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'en_daily_basics_001', display: 'how-much', input: 'how-much', meaning: '"얼마예요?" — 가격을 물을 때 쓰는 가장 기본 영어 표현.', level: 'A1-B2 (idioms)', category: 'daily-basics', source: '[[daily-basics]]' }
+- { id: 'en_daily_basics_002', display: 'where-is', input: 'where-is', meaning: '"어디인가요?" — 위치·방향 물을 때 쓰는 가장 기본 영어 표현.', level: 'A1-B2 (idioms)', category: 'daily-basics', source: '[[daily-basics]]' }
+- { id: 'en_daily_basics_003', display: 'nice-to-meet-you', input: 'nice-to-meet-you', meaning: '"만나서 반가워요" — Standard polite greeting on first meeting.', level: 'A1-B2 (idioms)', category: 'daily-basics', source: '[[daily-basics]]' }
+- { id: 'en_daily_basics_004', display: 'im-busy', input: 'im-busy', meaning: '"바빠" — Evasive way to decline without giving specific reason.', level: 'A1-B2 (idioms)', category: 'daily-basics', source: '[[daily-basics]]' }
+```

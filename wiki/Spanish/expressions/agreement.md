@@ -63,3 +63,17 @@ level: "A1-A2"
 
 - [[common-phrases]] - 핵심 일상 표현
 - [[greetings]] - 인사 표현
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'es_agreement_001', display: 'Sí, estoy de acuerdo.', input: 'Sí, estoy de acuerdo.', meaning: '', level: 'A1-A2', category: 'agreement', source: '[[agreement]]' }
+- { id: 'es_agreement_002', display: 'Suena bien.', input: 'Suena bien.', meaning: '', level: 'A1-A2', category: 'agreement', source: '[[agreement]]' }
+- { id: 'es_agreement_003', display: 'Yo también lo creo.', input: 'Yo también lo creo.', meaning: '', level: 'A1-A2', category: 'agreement', source: '[[agreement]]' }
+- { id: 'es_agreement_004', display: '¡Exacto!', input: '¡Exacto!', meaning: '', level: 'A1-A2', category: 'agreement', source: '[[agreement]]' }
+- { id: 'es_agreement_005', display: 'Tienes razón.', input: 'Tienes razón.', meaning: '', level: 'A1-A2', category: 'agreement', source: '[[agreement]]' }
+```

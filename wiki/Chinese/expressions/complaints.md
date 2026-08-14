@@ -302,76 +302,19 @@ theme: "complaints"
 
 ## Pipeline Form (machine-readable)
 
-게임 코퍼스 큐레이션용 YAML (per `wiki/pipeline-to-game.md` L33-39).
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- display: 我要投诉
-  input: wǒ yào tóusù
-  meaning: I want to complain / lodge a complaint
-  level: B1
-  category: complaints
-  source: "[[complaints]]"
-
-- display: 这有问题
-  input: zhè yǒu wèntí
-  meaning: this has a problem
-  level: A2
-  category: complaints
-  source: "[[complaints]]"
-
-- display: 跟我想的不一样
-  input: gēn wǒ xiǎng de bù yīyàng
-  meaning: different from what I thought
-  level: A2
-  category: complaints
-  source: "[[complaints]]"
-
-- display: 请处理
-  input: qǐng chǔlǐ
-  meaning: please handle [it] (formal)
-  level: B1
-  category: complaints
-  source: "[[complaints]]"
-
-- display: 不满意
-  input: bù mǎnyì
-  meaning: not satisfied
-  level: A2
-  category: complaints
-  source: "[[complaints]]"
-
-- display: 麻烦换一个
-  input: máfan huàn yīge
-  meaning: please change to another one
-  level: A2
-  category: complaints
-  source: "[[complaints]]"
-
-- display: 这不对
-  input: zhè bù duì
-  meaning: this is not right
-  level: A2
-  category: complaints
-  source: "[[complaints]]"
-
-- display: 这太贵了
-  input: zhè tài guì le
-  meaning: this is too expensive
-  level: A1
-  category: complaints
-  source: "[[complaints]]"
-
-- display: 找你们经理
-  input: zhǎo nǐmen jīnglǐ
-  meaning: call your manager (escalation)
-  level: B1
-  category: complaints
-  source: "[[complaints]]"
-
-- display: 我要退款
-  input: wǒ yào tuìkuǎn
-  meaning: I want a refund
-  level: B1
-  category: complaints
-  source: "[[complaints]]"
+- { id: 'zh_complaints_001', display: '我要投诉', input: '我要投诉', meaning: '', level: 'A2-B1', category: 'complaints', source: '[[complaints]]' }
+- { id: 'zh_complaints_002', display: '这有问题', input: '这有问题', meaning: '', level: 'A2-B1', category: 'complaints', source: '[[complaints]]' }
+- { id: 'zh_complaints_003', display: '跟我想的不一样', input: '跟我想的不一样', meaning: '', level: 'A2-B1', category: 'complaints', source: '[[complaints]]' }
+- { id: 'zh_complaints_004', display: '请处理', input: '请处理', meaning: '', level: 'A2-B1', category: 'complaints', source: '[[complaints]]' }
+- { id: 'zh_complaints_005', display: '不满意', input: '不满意', meaning: '', level: 'A2-B1', category: 'complaints', source: '[[complaints]]' }
+- { id: 'zh_complaints_006', display: '麻烦换一个', input: '麻烦换一个', meaning: '', level: 'A2-B1', category: 'complaints', source: '[[complaints]]' }
+- { id: 'zh_complaints_007', display: '这不对', input: '这不对', meaning: '', level: 'A2-B1', category: 'complaints', source: '[[complaints]]' }
+- { id: 'zh_complaints_008', display: '这太贵了', input: '这太贵了', meaning: '', level: 'A2-B1', category: 'complaints', source: '[[complaints]]' }
+- { id: 'zh_complaints_009', display: '找你们经理', input: '找你们经理', meaning: '', level: 'A2-B1', category: 'complaints', source: '[[complaints]]' }
+- { id: 'zh_complaints_010', display: '我要退款', input: '我要退款', meaning: '', level: 'A2-B1', category: 'complaints', source: '[[complaints]]' }
 ```

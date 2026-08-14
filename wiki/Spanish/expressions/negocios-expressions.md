@@ -1,3 +1,10 @@
+---
+title: "negocios-expressions (Spanish) expressions"
+language: "Spanish"
+category: "negocios-expressions"
+level: "B2-C1"
+---
+
 # Expresiones: Negocios (Español)
 
 > **Tema:** Negocios y Trabajo
@@ -265,3 +272,20 @@ Recepción, mostrador, escalación.
 
 - `[[business-basics]]` — Negocios básicos
 - `[[Language/wiki/comparative/business-workplace]]` — Comparativa 5 idiomas
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'es_negocios_expressions_001', display: 'Encantado de conocerle', input: 'Encantado de conocerle', meaning: '"Encantado de conocerle" — primera reunión formal.', level: 'A1', category: 'negocios-expressions', source: '[[negocios-expressions]]' }
+- { id: 'es_negocios_expressions_002', display: 'Gracias por su tiempo', input: 'Gracias por su tiempo', meaning: '"Gracias por su tiempo" — cerrar reunión o llamada.', level: 'A1', category: 'negocios-expressions', source: '[[negocios-expressions]]' }
+- { id: 'es_negocios_expressions_003', display: 'Quisiéramos un presupuesto', input: 'Quisiéramos un presupuesto', meaning: '"Qusiéramos un presupuesto" — consulta de precios.', level: 'A1', category: 'negocios-expressions', source: '[[negocios-expressions]]' }
+- { id: 'es_negocios_expressions_004', display: '¿Cuáles son las condiciones del contrato?', input: '¿Cuáles son las condiciones del contrato?', meaning: '"¿Cuáles son las condiciones del contrato?" — negociación.', level: 'A1', category: 'negocios-expressions', source: '[[negocios-expressions]]' }
+- { id: 'es_negocios_expressions_005', display: '¿Me puede dar una factura?', input: '¿Me puede dar una factura?', meaning: '"¿Me puede dar una factura?" — solicitud de facturación.', level: 'A1', category: 'negocios-expressions', source: '[[negocios-expressions]]' }
+- { id: 'es_negocios_expressions_006', display: 'Necesito unos días libres', input: 'Necesito unos días libres', meaning: '"Necesito unos días libres" — solicitud de ausencia.', level: 'A1', category: 'negocios-expressions', source: '[[negocios-expressions]]' }
+- { id: 'es_negocios_expressions_007', display: 'Organicemos una llamada', input: 'Organicemos una llamada', meaning: '"Organicemos una llamada" — programar reunión.', level: 'A1', category: 'negocios-expressions', source: '[[negocios-expressions]]' }
+- { id: 'es_negocios_expressions_008', display: '¿Está el encargado/responsable?', input: '¿Está el encargado/responsable?', meaning: '"¿Está el encargado/responsable?" — pedir hablar con manager.', level: 'A1', category: 'negocios-expressions', source: '[[negocios-expressions]]' }
+```

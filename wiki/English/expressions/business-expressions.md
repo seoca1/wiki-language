@@ -1,3 +1,10 @@
+---
+title: "business-expressions (English) expressions"
+language: "English"
+category: "business-expressions"
+level: "B2-C1"
+---
+
 # Expressions: Business (English)
 
 > **Theme:** Business & Workplace
@@ -266,3 +273,20 @@ Reception, front desk, escalation.
 
 - `[[business-basics]]` — Basic business
 - `[[Language/wiki/comparative/business-workplace]]` — 5-language workplace
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'en_business_expressions_001', display: 'It''s a pleasure to meet you', input: 'It''s a pleasure to meet you', meaning: '"It''s a pleasure to meet you" — formal first meeting.', level: 'B2-C1', category: 'business-expressions', source: '[[business-expressions]]' }
+- { id: 'en_business_expressions_002', display: 'Thank you for your time', input: 'Thank you for your time', meaning: '"Thank you for your time" — closing meeting or call.', level: 'B2-C1', category: 'business-expressions', source: '[[business-expressions]]' }
+- { id: 'en_business_expressions_003', display: 'We''d like to get a quote', input: 'We''d like to get a quote', meaning: '"We''d like to get a quote" — pricing inquiry.', level: 'B2-C1', category: 'business-expressions', source: '[[business-expressions]]' }
+- { id: 'en_business_expressions_004', display: 'What are the contract terms?', input: 'What are the contract terms?', meaning: '"What are the contract terms?" — contract negotiation.', level: 'B2-C1', category: 'business-expressions', source: '[[business-expressions]]' }
+- { id: 'en_business_expressions_005', display: 'Could I have an invoice?', input: 'Could I have an invoice?', meaning: '"Could I have an invoice?" — billing request.', level: 'B2-C1', category: 'business-expressions', source: '[[business-expressions]]' }
+- { id: 'en_business_expressions_006', display: 'I need to take some time off', input: 'I need to take some time off', meaning: '"I need to take some time off" — leave request.', level: 'B2-C1', category: 'business-expressions', source: '[[business-expressions]]' }
+- { id: 'en_business_expressions_007', display: 'Let''s set up a call', input: 'Let''s set up a call', meaning: '"Let''s set up a call" — scheduling meeting.', level: 'B2-C1', category: 'business-expressions', source: '[[business-expressions]]' }
+- { id: 'en_business_expressions_008', display: 'Is the manager available?', input: 'Is the manager available?', meaning: '"Is the manager available?" — asking to speak to manager.', level: 'B2-C1', category: 'business-expressions', source: '[[business-expressions]]' }
+```

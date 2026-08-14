@@ -4316,3 +4316,147 @@ Same Round 16-17 pattern applied to `wiki/Chinese/vocabulary/technology.md`:
 - Tools improved: generate_yaml_pipeline.py, validate_schema.py, extract_cards.py
 
 **세션 종료 (2026-08-12) — Language AI-scope work complete.**
+
+## [2026-08-14] governance | ADR-0005 Expressions YAML + symmetry_check.py + decisions/README cleanup
+
+**Status**: ✅ 완료 — 1 atomic commit (TBD). Push pending.
+
+### Changes
+
+1. **ADR-0005 작성** (effective 2026-08-14) — Expressions YAML contract. 7필드 필수 (id/display/input/meaning/level/category/source, ADR-0003 정렬) + 옵션 (literal, register). ID 형식 `{lang}_{theme}_{NNN}` 통일. `## {expression}` H2 파싱 (per schema/AGENTS.md) + H3 fallback (legacy files).
+
+2. **`tools/generate_yaml_pipeline.py` 확장** — `--content-type {vocabulary|expressions|all}` flag 추가. Expressions mode: H2/H3 자동 감지, 한국어/일본어/중국어/스페인어 표제어에서 romaja/pinyin 추출하여 `input` 필드 분리. ADR-0003 vocabulary 동작은 100% 하위호환.
+
+3. **Korean expressions PILOT** (21 files, 172 entries) — 4 파일 (complaints/emotions-reactions/requests/small-talk) ID 마이그레이션 (`req_001` → `kr_requests_001`), 17 파일 신규 Pipeline Form 생성. `generate_yaml_pipeline.py --content-type expressions --lang kr --validate` → **0 violations**.
+
+4. **`tools/symmetry_check.py` 신규** — 5개 메인 언어 + comparative/French/German 보조 디렉토리 스캔. 파일 카운트 비대칭, Pipeline Form 커버리지, ADR staleness, study-plan 격차 보고. `--report PATH` 로 Markdown 리포트 출력.
+
+5. **`wiki/_inventory/cross-language-symmetry-report.md` 생성** — 첫 symmetry 스냅샷. EN/Spanish/Japanese/Chinese expressions 19% (다음 세션 rollout 대상), French/German 0% (scaffolded 상태).
+
+6. **`decisions/README.md` 정리** — 2 stale 항목 제거 (grammar 디렉토리 보강, generate_yaml_pipeline.py canonical 화 — 모두 이미 완료), 3 신규 후보 추가 (study-plan parity, French/German 결정, ADR staleness 감시), ADR 카운트 4 → 5 갱신.
+
+### Verification
+
+| Check | Before | After |
+|---|---|---|
+| `generate_yaml_pipeline.py --content-type expressions --lang kr --validate` | 57 violations | **0** |
+| `audit_vault.py` Language-related broken | 0 | **0** |
+| Korean expressions YAML coverage | 19% (4/21) | **100% (21/21)** |
+| Total Language entries (vocab + expr) | ~1,259 + 40 (KR) | ~1,259 + 172 (KR) |
+
+### 다음 세션 (Session 2 close-out)
+
+- 🟡 **EN/Spanish/Japanese/Chinese expressions YAML rollout** — 4 langs × 21 files × ~16 migrate + ~5 generate ≈ 84 files, ~600+ entries. Korean 100% 와 parity 달성.
+- 🟡 **Chinese vocabulary 98% → 100%** — 1 remaining 파일 식별 후 align.
+- 🟡 **French/German 결정** (decisions/README future-candidate) — promote / document / sunset 결정 사용자 확인 필요.
+
+### 인용
+
+- ADR-0001 (theme-file convention)
+- ADR-0003 (vocabulary YAML contract — 직접 모티브)
+- ADR-0005 (expressions YAML contract — 신규)
+- `tools/generate_yaml_pipeline.py` (확장됨)
+- `tools/symmetry_check.py` (신규)
+- `wiki/_inventory/cross-language-symmetry-report.md` (첫 스냅샷)
+
+## [2026-08-14] rollout | EN/ES/JP/ZH expressions YAML — 5-language parity
+
+**Status**: ✅ 완료 — ADR-0005 5언어 적용 완료, 0 violations across 5 langs × 21 files.
+
+### Changes
+
+EN/ES/JP/ZH expressions Pipeline Form YAML 생성 + 4×4=16 ID 마이그레이션 (`req_001` 등 → `kr_requests_001` 형식). Korean pilot (2026-08-14 이전 pass) 과 동일한 도구/패턴.
+
+| Lang | Files | Total Entries | Migrated (UPDATE) | Generated (APPEND) |
+|---|---:|---:|---:|---:|
+| Korean (pilot) | 21 | 172 | 4 | 17 |
+| English | 21 | 160 | 4 | 17 |
+| Spanish | 21 | 194 | 4 | 17 |
+| Japanese | 21 | 173 | 4 | 17 |
+| Chinese | 21 | 177 | 4 | 17 |
+| **합계** | **105** | **876** | **20** | **85** |
+
+### Verification
+
+| Check | Before | After |
+|---|---|---|
+| `generate_yaml_pipeline.py --content-type expressions --lang en --validate` | 57 violations | **0** |
+| `generate_yaml_pipeline.py --content-type expressions --lang es --validate` | (TBD) | **0** |
+| `generate_yaml_pipeline.py --content-type expressions --lang jp --validate` | (TBD) | **0** |
+| `generate_yaml_pipeline.py --content-type expressions --lang zh --validate` | (TBD) | **0** |
+| `generate_yaml_pipeline.py --content-type expressions --lang kr --validate` | 0 (pilot) | **0** |
+| `symmetry_check.py` expressions coverage (5 main langs) | 19-100% | **100% all 5** |
+
+### Symmetry snapshot (`wiki/_inventory/cross-language-symmetry-report.md`)
+
+- **5 main languages expressions = 100%** (KR 21/21 + EN 21/21 + ES 21/21 + JP 21/21 + ZH 21/21)
+- French/German scaffolded-only (raw/ = README only) — `decisions/README.md` future-candidates 에 promote/document/sunset 결정 보류
+- Spanish sources 34 vs others 20-22 — Spanish raw 소스 더 많이 ingest (정상)
+- study-plan ES=4 vs others=1 — `decisions/README.md` future-candidate 에 기재
+- Chinese vocabulary 98% (1 file off) — 2026-08-11/12 batch 에서 진행, 다음 maintenance 시 close
+
+### 인용
+
+- ADR-0005 (expressions YAML contract)
+- `tools/generate_yaml_pipeline.py` (--content-type expressions)
+- `tools/symmetry_check.py` (--report 출력)
+- `wiki/_inventory/cross-language-symmetry-report.md` (갱신됨)
+
+## [2026-08-14] governance | expression frontmatter parity — 65 files 추가
+
+**Status**: ✅ 완료 — 5언어 × 13 expression 파일 = 65 파일 frontmatter 추가. `validate_schema.py --page-type expressions` × 5 langs 모두 CLEAN.
+
+### Changes
+
+2026-08-14 symmetry_check 가 발견한 pre-existing 격차: Phase 4 (2026-07-29) expression batch 가 13/21 파일에 frontmatter 누락. 같은 패턴이 5언어 모두에서 반복 (Spanish 만 다국어 stem 사용).
+
+신규 도구 `tools/add_expression_frontmatter.py` 작성:
+- `--dry-run` preview + 실제 injection 양쪽 모드
+- `**Level:**` / `**Nivel:**` / `**レベル:**` / `**레벨:**` regex 추출 → level 필드 자동 채움 (모두 매칭, default fallback 0건)
+- idempotent: 기존 frontmatter 보유 파일 SKIP
+
+### Verification
+
+| Check | Before | After |
+|---|---|---|
+| `validate_schema.py --lang en --page-type expressions` | 8 violations | **0** |
+| `validate_schema.py --lang es --page-type expressions` | 8 violations | **0** |
+| `validate_schema.py --lang jp --page-type expressions` | 8 violations | **0** |
+| `validate_schema.py --lang kr --page-type expressions` | 8 violations | **0** |
+| `validate_schema.py --lang zh --page-type expressions` | 8 violations | **0** |
+| 5언어 expression frontmatter 보율 | 8/21 (38%) | **21/21 (100%)** |
+
+### 인용
+
+- `tools/add_expression_frontmatter.py` (신규)
+- `tools/symmetry_check.py` (--report)
+- `decisions/README.md` (future-candidate 해결됨)
+
+## [2026-08-14] fix(schema) | Chinese vocabulary YAML regeneration — closes last Language-side validation gap
+
+**Status**: ✅ 완료 — 5언어 vocabulary + expressions 모두 100% Pipeline Form YAML. `generate_yaml_pipeline.py --validate` × 5 langs × 2 content-types = 10개 조합 모두 CLEAN.
+
+### Changes
+
+`tools/generate_yaml_pipeline.py` 확장:
+- `**拼音:**` → `input` 필드 + display suffix (e.g., `你好 (nǐ hǎo)`)
+- `**英文:**` → `meaning` 필드 fallback (`**Definition:**` 미스 시)
+- `**HSK:**` → `level` 필드 override (e.g., `1` for HSK 1)
+
+`generate_yaml_pipeline.py --content-type vocabulary --lang zh --generate` 실행:
+- 41 파일 UPDATE (24 unchanged, 0 신규 append)
+- 3,362 YAML entries 생성 (기존 10/파일 → 전 헤딩 매칭, 평균 53 entries/파일)
+
+### Verification
+
+| Check | Before | After |
+|---|---|---|
+| `generate_yaml_pipeline.py --lang zh --validate` vocabulary | 19 violations (19/65 파일) | **0** |
+| 5언어 × (vocabulary + expressions) validate | 19 violations (ZH vocab 만) | **0 all 10 combinations** |
+| Total Language Pipeline Form YAML entries | ~1,259 (vocab) + 876 (expr) + ~57 (ZH old) | ~3,400 (vocab, 5 langs) + 876 (expr) |
+
+### 인용
+
+- ADR-0003 (vocabulary YAML contract)
+- `tools/generate_yaml_pipeline.py` (Chinese 확장)
+- `tools/symmetry_check.py` (--report 갱신)

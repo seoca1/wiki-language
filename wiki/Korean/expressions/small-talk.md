@@ -477,23 +477,23 @@ Korean small talk expressions. 일상 잡담·날씨·안부·취미·음식·�
 
 ## Pipeline Form (machine-readable)
 
-> Per `wiki/pipeline-to-game.md`. Schema: display/input/meaning/level/category/source.
-> Game consumer: `Game/typing_language/raw/kr_words.md` (small talk expressions, 해요체 중심 + 합쇼체 변형).
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: talk_001, display: "날씨 좋죠?", input: "nalssi johjyo?", meaning: "Nice weather, isn't it? (polite casual)", level: "A1", category: "small-talk", source: "[[small-talk]]" }
-- { id: talk_002, display: "잘 지내세요?", input: "jal jinaeseyo?", meaning: "Are you doing well? (polite casual)", level: "A1", category: "small-talk", source: "[[small-talk]]" }
-- { id: talk_003, display: "요즘 바쁘세요?", input: "yoeum bappeuseyo?", meaning: "Are you busy lately? (polite casual)", level: "A1", category: "small-talk", source: "[[small-talk]]" }
-- { id: talk_004, display: "취미가 뭐예요?", input: "chwimiga mwoyeyo?", meaning: "What's your hobby? (polite casual)", level: "A2", category: "small-talk", source: "[[small-talk]]" }
-- { id: talk_005, display: "어디 가봤어요?", input: "eodi gabwasseoyo?", meaning: "Where have you been? (polite casual)", level: "A2", category: "small-talk", source: "[[small-talk]]" }
-- { id: talk_006, display: "밥 먹었어요?", input: "bap meogeosseoyo?", meaning: "Have you eaten? (polite casual)", level: "A1", category: "small-talk", source: "[[small-talk]]" }
-- { id: talk_007, display: "식사 하셨어요?", input: "siksa hasyeosseoyo?", meaning: "Did you have a meal? (formal)", level: "B1", category: "small-talk", source: "[[small-talk]]" }
-- { id: talk_008, display: "이거 맛있죠?", input: "igeo masitjyo?", meaning: "This is delicious, right? (polite casual)", level: "A1", category: "small-talk", source: "[[small-talk]]" }
-- { id: talk_009, display: "가족은 잘 지내세요?", input: "gajok-eun jal jinaeseyo?", meaning: "Is your family well? (polite casual)", level: "A2", category: "small-talk", source: "[[small-talk]]" }
-- { id: talk_010, display: "이번 주말에 뭐 해요?", input: "ibeon jumare mwo haeyo?", meaning: "What are you doing this weekend? (polite casual)", level: "A1", category: "small-talk", source: "[[small-talk]]" }
-- { id: talk_011, display: "스트레스 받아요?", input: "seutuleseu batayo?", meaning: "Are you stressed? (polite casual)", level: "A2", category: "small-talk", source: "[[small-talk]]" }
+- { id: 'kr_small_talk_001', display: '날씨 좋죠? (nalssi johjyo?, the weather is nice, isn''t it?)', input: 'nalssi johjyo?', meaning: '가장 보편적인 한국식 잡담 도입. 영미권 "Nice weather, isn''t it?"와 동일 기능.', level: 'A1-B1', category: 'small-talk', source: '[[small-talk]]', literal: '"The weather is good, right?"', register: '해요체 (polite informal). 이웃·동료·엘리베이터·상점 — 만남의 첫 대화.' }
+- { id: 'kr_small_talk_002', display: '잘 지내세요? (jal jinaeseyo?, how are you? / are you doing well?)', input: 'jal jinaeseyo?', meaning: '안부 인사. 만남의 표준 도입부. 영어 "How are you?"와 동일 기능.', level: 'A1-B1', category: 'small-talk', source: '[[small-talk]]', literal: '"Are you doing well?"', register: '해요체 (polite informal). 이웃·동료·친구·가족 — 만남 시 1차 안부.' }
+- { id: 'kr_small_talk_003', display: '요즘 바쁘세요? (yoeum bappeuseyo?, are you busy lately?)', input: 'yoeum bappeuseyo?', meaning: '안부 + 사정 확인. 한국 잡담의 표준 도입.', level: 'A1-B1', category: 'small-talk', source: '[[small-talk]]', literal: '"Are you busy lately?"', register: '해요체 (polite informal). 이웃·동료·친구 — 만남의 1차 안부.' }
+- { id: 'kr_small_talk_004', display: '취미가 뭐예요? (chwimiga mwoyeyo?, what''s your hobby?)', input: 'chwimiga mwoyeyo?', meaning: '취미·관심사 질문. 한국 잡담의 표준 도입.', level: 'A1-B1', category: 'small-talk', source: '[[small-talk]]', literal: '"What is your hobby?"', register: '해요체 (polite informal). 신규 만남·동료·친구 — 관심사 확인.' }
+- { id: 'kr_small_talk_005', display: '어디 가봤어요? (eodi gabwasseoyo?, where have you been?)', input: 'eodi gabwasseoyo?', meaning: '여행·방문 경험 질문. 한국 잡담의 표준 도입.', level: 'A1-B1', category: 'small-talk', source: '[[small-talk]]', literal: '"Where have you been?"', register: '해요체 (polite informal). 동료·친구·가족 — 만남 시 일상적 질문.' }
+- { id: 'kr_small_talk_006', display: '밥 먹었어요? (bap meogeosseoyo?, have you eaten?)', input: 'bap meogeosseoyo?', meaning: '한국 잡담의 가장 한국적인 표현. 안부 + 관심.', level: 'A1-B1', category: 'small-talk', source: '[[small-talk]]', literal: '"Have you eaten?"', register: '해요체 (polite informal). 이웃·동료·친구 — 만남 시 일상적 인사.' }
+- { id: 'kr_small_talk_007', display: '식사 하셨어요? (siksa hasyeosseoyo?, did you have a meal?)', input: 'siksa hasyeosseoyo?', meaning: '"밥 먹었어요?"의 격식 변형. 비즈니스·격식 자리에서 사용.', level: 'A1-B1', category: 'small-talk', source: '[[small-talk]]', literal: '"Did you have a meal?"', register: '합쇼체 (formal). 비즈니스·상사·격식 자리·손님 — 격식 유지.' }
+- { id: 'kr_small_talk_008', display: '이거 맛있죠? (igeo masitjyo?, this is delicious, right?)', input: 'igeo masitjyo?', meaning: '음식 대화의 표준 도입. 식사·식당·요리 평가.', level: 'A1-B1', category: 'small-talk', source: '[[small-talk]]', literal: '"This is delicious, right?"', register: '해요체 (polite informal). 식사·식당·요리 평가 — 음식 대화의 기본.' }
+- { id: 'kr_small_talk_009', display: '가족은 잘 지내세요? (gajok-eun jal jinaeseyo?, is your family doing well?)', input: 'gajok-eun jal jinaeseyo?', meaning: '가족 안부. 한국 잡담의 정 표현.', level: 'A1-B1', category: 'small-talk', source: '[[small-talk]]', literal: '"Is your family doing well?"', register: '해요체 (polite informal). 이웃·동료·친구 — 만남 시 가족 안부.' }
+- { id: 'kr_small_talk_010', display: '이번 주말에 뭐 해요? (ibeon jumare mwo haeyo?, what are you doing this weekend?)', input: 'ibeon jumare mwo haeyo?', meaning: '주말 계획 질문. 한국 잡담의 표준 도입 + 약속 설정.', level: 'A1-B1', category: 'small-talk', source: '[[small-talk]]', literal: '"What are you doing this weekend?"', register: '해요체 (polite informal). 동료·친구 — 주말 약속·계획 대화.' }
+- { id: 'kr_small_talk_011', display: '스트레스 받아요? (seutuleseu batayo?, are you stressed?)', input: 'seutuleseu batayo?', meaning: '관심·공감 표현. 현대 한국 사회의 보편적 안부.', level: 'A1-B1', category: 'small-talk', source: '[[small-talk]]', literal: '"Are you receiving stress? / Are you stressed?"', register: '해요체 (polite informal). 동료·친구·가족 — 관심 표현.' }
 ```
-
 ## Sources
 
 - [[daily-life-basics]] — 일상 회화

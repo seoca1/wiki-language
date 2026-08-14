@@ -1,3 +1,10 @@
+---
+title: "slang-colloquial (Japanese) expressions"
+language: "Japanese"
+category: "slang-colloquial"
+level: "B2-C2"
+---
+
 # Expressions: Slang & Colloquial (日本語)
 
 > **Theme:** Slang & Colloquial
@@ -242,3 +249,20 @@ Japanese slang/colloquial — Gen Z, internet culture, modern Japanese usage.
 
 - `[[emotions-reactions]]` — Emotional reactions
 - `[[Language/wiki/comparative/slang-colloquial]]` — 5-language slang
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'jp_slang_colloquial_001', display: 'すごい', input: 'すごい', meaning: '"Sugoi" — "Awesome/Incredible".', level: 'B2-C2', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+- { id: 'jp_slang_colloquial_002', display: '頑張って', input: '頑張って', meaning: '"Ganbatte" — "Do your best!" / "Hang in there!".', level: 'B2-C2', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+- { id: 'jp_slang_colloquial_003', display: '草 / w', input: '草 / w', meaning: '"Kusa / w" — Internet laugh.', level: 'B2-C2', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+- { id: 'jp_slang_colloquial_004', display: 'フラれる', input: 'フラれる', meaning: '"Furareru" — being rejected in dating.', level: 'B2-C2', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+- { id: 'jp_slang_colloquial_005', display: 'ググる', input: 'ググる', meaning: '"Guguru" — "to Google something".', level: 'B2-C2', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+- { id: 'jp_slang_colloquial_006', display: '限界 / 詰み', input: '限界 / 詰み', meaning: '"Genkai / Tsumi" — at one''s limit / checkmate.', level: 'B2-C2', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+- { id: 'jp_slang_colloquial_007', display: '大人になる', input: '大人になる', meaning: '"Otona ni naru" — becoming an adult.', level: 'B2-C2', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+- { id: 'jp_slang_colloquial_008', display: 'ダチ / 仲間', input: 'ダチ / 仲間', meaning: '"Dachi / Nakama" — buddy / comrade.', level: 'B2-C2', category: 'slang-colloquial', source: '[[slang-colloquial]]' }
+```

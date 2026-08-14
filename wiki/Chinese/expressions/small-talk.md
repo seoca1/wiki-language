@@ -266,16 +266,17 @@ Both 你吃了吗 and 吃过饭了吗 are common food-greetings. 吃 (chī) + �
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
-> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: zh_smalltalk_001, display: "今天天气真好", input: "jīntiān tiānqì zhēn hǎo", meaning: "오늘 날씨 정말 좋네요", level: "A1", category: "small-talk", source: "[[small-talk]]" }
-- { id: zh_smalltalk_002, display: "你吃了吗", input: "nǐ chī le ma", meaning: "식사 하셨어요? (인사)", level: "A1", category: "small-talk", source: "[[small-talk]]" }
-- { id: zh_smalltalk_003, display: "你在哪里工作", input: "nǐ zài nǎlǐ gōngzuò", meaning: "어디서 일하세요?", level: "A2", category: "small-talk", source: "[[small-talk]]" }
-- { id: zh_smalltalk_004, display: "你家是哪里的", input: "nǐ jiā shì nǎlǐ de", meaning: "고향이 어디세요?", level: "A2", category: "small-talk", source: "[[small-talk]]" }
-- { id: zh_smalltalk_005, display: "最近忙不忙", input: "zuìjìn máng bù máng", meaning: "요즘 바쁘세요?", level: "A2", category: "small-talk", source: "[[small-talk]]" }
-- { id: zh_smalltalk_006, display: "最近怎么样", input: "zuìjìn zěnmeyàng", meaning: "요즘 어떻게 지내요?", level: "A2", category: "small-talk", source: "[[small-talk]]" }
-- { id: zh_smalltalk_007, display: "吃过饭了吗", input: "chī guò fàn le ma", meaning: "밥 드셨어요?", level: "A1", category: "small-talk", source: "[[small-talk]]" }
-- { id: zh_smalltalk_008, display: "周末有什么安排", input: "zhōumò yǒu shénme ānpái", meaning: "주말에 뭐 할 계획이에요?", level: "A2", category: "small-talk", source: "[[small-talk]]" }
+- { id: 'zh_small_talk_001', display: '今天天气真好', input: '今天天气真好', meaning: '오늘 날씨 정말 좋네요', level: 'A1', category: 'small-talk', source: '[[small-talk]]' }
+- { id: 'zh_small_talk_002', display: '你吃了吗', input: '你吃了吗', meaning: '식사 하셨어요? (인사)', level: 'A1', category: 'small-talk', source: '[[small-talk]]' }
+- { id: 'zh_small_talk_003', display: '你在哪里工作', input: '你在哪里工作', meaning: '어디서 일하세요?', level: 'A2', category: 'small-talk', source: '[[small-talk]]' }
+- { id: 'zh_small_talk_004', display: '你家是哪里的', input: '你家是哪里的', meaning: '고향이 어디세요?', level: 'A2', category: 'small-talk', source: '[[small-talk]]' }
+- { id: 'zh_small_talk_005', display: '最近忙不忙', input: '最近忙不忙', meaning: '요즘 바쁘세요?', level: 'A2', category: 'small-talk', source: '[[small-talk]]' }
+- { id: 'zh_small_talk_006', display: '最近怎么样', input: '最近怎么样', meaning: '요즘 어떻게 지내요?', level: 'A2', category: 'small-talk', source: '[[small-talk]]' }
+- { id: 'zh_small_talk_007', display: '吃过饭了吗', input: '吃过饭了吗', meaning: '밥 드셨어요?', level: 'A1', category: 'small-talk', source: '[[small-talk]]' }
+- { id: 'zh_small_talk_008', display: '周末有什么安排', input: '周末有什么安排', meaning: '주말에 뭐 할 계획이에요?', level: 'A2', category: 'small-talk', source: '[[small-talk]]' }
 ```

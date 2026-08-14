@@ -502,10 +502,10 @@ theme: "numbers"
 - { id: 'zh_numbers_010', display: '九 (jiǔ)', input: '九 (jiǔ)', meaning: '9', level: 'HSK 1', category: 'numbers-zh', source: '[[numbers-zh]]' }
 - { id: 'zh_numbers_011', display: '十 (shí)', input: '十 (shí)', meaning: '10', level: 'HSK 1', category: 'numbers-zh', source: '[[numbers-zh]]' }
 - { id: 'zh_numbers_012', display: '百 (bǎi)', input: '百 (bǎi)', meaning: '100', level: 'HSK 1', category: 'numbers-zh', source: '[[numbers-zh]]' }
-- { id: 'zh_numbers_013', display: '千 (qiān)', input: '千 (qiān)', meaning: '1,000', level: 'HSK 1', category: 'numbers-zh', source: '[[numbers-zh]]' }
-- { id: 'zh_numbers_014', display: '万 (wàn)', input: '万 (wàn)', meaning: '10,000', level: 'HSK 1', category: 'numbers-zh', source: '[[numbers-zh]]' }
+- { id: 'zh_numbers_013', display: '千 (qiān)', input: '千 (qiān)', meaning: '1', level: 'HSK 1', category: 'numbers-zh', source: '[[numbers-zh]]' }
+- { id: 'zh_numbers_014', display: '万 (wàn)', input: '万 (wàn)', meaning: '10', level: 'HSK 1', category: 'numbers-zh', source: '[[numbers-zh]]' }
 - { id: 'zh_numbers_015', display: '零 (líng)', input: '零 (líng)', meaning: '0', level: 'HSK 1', category: 'numbers-zh', source: '[[numbers-zh]]' }
-- { id: 'zh_numbers_016', display: '亿 (yì)', input: '亿 (yì)', meaning: '100,000,000 (1억)', level: 'HSK 1', category: 'numbers-zh', source: '[[numbers-zh]]' }
+- { id: 'zh_numbers_016', display: '亿 (yì)', input: '亿 (yì)', meaning: '100', level: 'HSK 1', category: 'numbers-zh', source: '[[numbers-zh]]' }
 - { id: 'zh_numbers_017', display: '两 (liǎng) vs 二 (èr)', input: '两 (liǎng) vs 二 (èr)', meaning: '', level: 'HSK 1-2', category: 'numbers', source: '[[numbers-zh]]' }
 - { id: 'zh_numbers_018', display: '零 (líng) 사용', input: '零 (líng) 사용', meaning: '', level: 'HSK 1-2', category: 'numbers', source: '[[numbers-zh]]' }
 - { id: 'zh_numbers_019', display: '4 (四, sì) 문화적 금기', input: '4 (四, sì) 문화적 금기', meaning: '', level: 'HSK 1-2', category: 'numbers', source: '[[numbers-zh]]' }

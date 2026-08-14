@@ -378,15 +378,16 @@ theme: "literature"
 
 ## Pipeline Form (machine-readable)
 
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> The body above remains the human-readable form and is the source of truth.
+
 ```yaml
-- { id: zh_lit_001, display: "书 (shū)", input: "shū", meaning: "book", level: "1", category: "literature", source: "[[literature-passages]]" }
-- { id: zh_lit_002, display: "小说 (xiǎoshuō)", input: "xiǎoshuō", meaning: "novel", level: "3", category: "literature", source: "[[literature-passages]]" }
-- { id: zh_lit_003, display: "诗歌 (shīgē)", input: "shīgē", meaning: "poetry", level: "2", category: "literature", source: "[[literature-passages]]" }
-- { id: zh_lit_004, display: "散文 (sǎnwén)", input: "sǎnwén", meaning: "prose", level: "3", category: "literature", source: "[[literature-passages]]" }
-- { id: zh_lit_005, display: "作者 (zuòzhě)", input: "zuòzhě", meaning: "author", level: "3", category: "literature", source: "[[literature-passages]]" }
-- { id: zh_lit_006, display: "故事 (gùshi)", input: "gùshi", meaning: "story", level: "2", category: "literature", source: "[[literature-passages]]" }
-- { id: zh_lit_007, display: "童话 (tónghuà)", input: "tónghuà", meaning: "fairy tale", level: "2", category: "literature", source: "[[literature-passages]]" }
-- { id: zh_lit_008, display: "诗 (shī)", input: "shī", meaning: "poem", level: "1", category: "literature", source: "[[literature-passages]]" }
-- { id: zh_lit_009, display: "李白 (lǐbái)", input: "lǐbái", meaning: "Li Bai", level: "2", category: "literature", source: "[[literature-passages]]" }
-- { id: zh_lit_010, display: "鲁迅 (lǔxùn)", input: "lǔxùn", meaning: "Lu Xun", level: "2", category: "literature", source: "[[literature-passages]]" }
+- { id: 'zh_literature_001', display: '《静夜思》(唐·李白)', input: '《静夜思》(唐·李白)', meaning: '', level: 'HSK 4-6', category: 'literature', source: '[[literature-passages-zh]]' }
+- { id: 'zh_literature_002', display: '《春晓》(唐·孟浩然)', input: '《春晓》(唐·孟浩然)', meaning: '', level: 'HSK 4-6', category: 'literature', source: '[[literature-passages-zh]]' }
+- { id: 'zh_literature_003', display: '《登鹳雀楼》(唐·王之涣)', input: '《登鹳雀楼》(唐·王之涣)', meaning: '', level: 'HSK 4-6', category: 'literature', source: '[[literature-passages-zh]]' }
+- { id: 'zh_literature_004', display: '《相思》(唐·王维)', input: '《相思》(唐·王维)', meaning: '', level: 'HSK 4-6', category: 'literature', source: '[[literature-passages-zh]]' }
+- { id: 'zh_literature_005', display: '《天上的街市》(郭沫若)', input: '《天上的街市》(郭沫若)', meaning: '', level: 'HSK 4-6', category: 'literature', source: '[[literature-passages-zh]]' }
+- { id: 'zh_literature_006', display: '《一棵小桃树》(贾平凹)', input: '《一棵小桃树》(贾平凹)', meaning: '', level: 'HSK 4-6', category: 'literature', source: '[[literature-passages-zh]]' }
+- { id: 'zh_literature_007', display: '《海棠花》(季羡林)', input: '《海棠花》(季羡林)', meaning: '', level: 'HSK 4-6', category: 'literature', source: '[[literature-passages-zh]]' }
 ```

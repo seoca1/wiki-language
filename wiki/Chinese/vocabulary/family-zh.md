@@ -855,7 +855,7 @@ theme: "family"
 - { id: 'zh_family_007', display: '丈夫 (zhàngfu)', input: '丈夫 (zhàngfu)', meaning: '', level: 'HSK 1-2', category: 'family', source: '[[family-zh]]' }
 - { id: 'zh_family_008', display: '妻子 (qīzi)', input: '妻子 (qīzi)', meaning: '', level: 'HSK 1-2', category: 'family', source: '[[family-zh]]' }
 - { id: 'zh_family_009', display: '儿子 (érzi)', input: '儿子 (érzi)', meaning: '아들', level: 'HSK 1-2', category: 'family-zh', source: '[[family-zh]]' }
-- { id: 'zh_family_010', display: '女儿 (nǚ''ér)', input: '女儿 (nǚ''ér)', meaning: '딸', level: 'HSK 1-2', category: 'family-zh', source: '[[family-zh]]' }
+- { id: 'zh_family_010', display: '女儿 (nǚ''ér)', input: '女儿 (nǚ''ér)', meaning: '', level: 'HSK 1-2', category: 'family', source: '[[family-zh]]' }
 - { id: 'zh_family_011', display: '哥哥 (gēge)', input: '哥哥 (gēge)', meaning: '형/오빠', level: 'HSK 1-2', category: 'family-zh', source: '[[family-zh]]' }
 - { id: 'zh_family_012', display: '姐姐 (jiějie)', input: '姐姐 (jiějie)', meaning: '누나/언니', level: 'HSK 1-2', category: 'family-zh', source: '[[family-zh]]' }
 - { id: 'zh_family_013', display: '弟弟 (dìdi)', input: '弟弟 (dìdi)', meaning: '남동생', level: 'HSK 1-2', category: 'family-zh', source: '[[family-zh]]' }

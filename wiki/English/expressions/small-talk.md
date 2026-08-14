@@ -265,16 +265,17 @@ Open-ended question about adjustment. Useful for welcoming newcomers and showing
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
-> Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: en_smalltalk_001, display: "Nice weather, isn't it?", input: "Nice weather, isn't it?", meaning: "날씨 좋죠? (안전한 화제)", level: "A2", category: "small-talk", source: "[[small-talk]]" }
-- { id: en_smalltalk_002, display: "How about this weather?", input: "How about this weather?", meaning: "이 날씨 어때요?", level: "A2", category: "small-talk", source: "[[small-talk]]" }
-- { id: en_smalltalk_003, display: "What do you do for work?", input: "What do you do for work?", meaning: "직업이 뭔가요?", level: "A2", category: "small-talk", source: "[[small-talk]]" }
-- { id: en_smalltalk_004, display: "Where are you from?", input: "Where are you from?", meaning: "어디서 오셨어요?", level: "A2", category: "small-talk", source: "[[small-talk]]" }
-- { id: en_smalltalk_005, display: "Have you seen any good movies lately?", input: "Have you seen any good movies lately?", meaning: "요즘 좋은 영화 봤어요?", level: "A2", category: "small-talk", source: "[[small-talk]]" }
-- { id: en_smalltalk_006, display: "Did you do anything fun this weekend?", input: "Did you do anything fun this weekend?", meaning: "주말에 뭐 재밌는 거 했어요?", level: "A2", category: "small-talk", source: "[[small-talk]]" }
-- { id: en_smalltalk_007, display: "Do you have any plans for the weekend?", input: "Do you have any plans for the weekend?", meaning: "주말에 뭐 할 계획 있어요?", level: "A2", category: "small-talk", source: "[[small-talk]]" }
-- { id: en_smalltalk_008, display: "How do you like it here?", input: "How do you like it here?", meaning: "여기 어떻게 생각하세요? (새로 온 사람)", level: "B1", category: "small-talk", source: "[[small-talk]]" }
+- { id: 'en_small_talk_001', display: 'Nice weather, isn''t it?', input: 'Nice weather, isn''t it?', meaning: '날씨 좋죠? (안전한 화제)', level: 'A2', category: 'small-talk', source: '[[small-talk]]' }
+- { id: 'en_small_talk_002', display: 'How about this weather?', input: 'How about this weather?', meaning: '이 날씨 어때요?', level: 'A2', category: 'small-talk', source: '[[small-talk]]' }
+- { id: 'en_small_talk_003', display: 'What do you do for work?', input: 'What do you do for work?', meaning: '직업이 뭔가요?', level: 'A2', category: 'small-talk', source: '[[small-talk]]' }
+- { id: 'en_small_talk_004', display: 'Where are you from?', input: 'Where are you from?', meaning: '어디서 오셨어요?', level: 'A2', category: 'small-talk', source: '[[small-talk]]' }
+- { id: 'en_small_talk_005', display: 'Have you seen any good movies lately?', input: 'Have you seen any good movies lately?', meaning: '요즘 좋은 영화 봤어요?', level: 'A2', category: 'small-talk', source: '[[small-talk]]' }
+- { id: 'en_small_talk_006', display: 'Did you do anything fun this weekend?', input: 'Did you do anything fun this weekend?', meaning: '주말에 뭐 재밌는 거 했어요?', level: 'A2', category: 'small-talk', source: '[[small-talk]]' }
+- { id: 'en_small_talk_007', display: 'Do you have any plans for the weekend?', input: 'Do you have any plans for the weekend?', meaning: '주말에 뭐 할 계획 있어요?', level: 'A2', category: 'small-talk', source: '[[small-talk]]' }
+- { id: 'en_small_talk_008', display: 'How do you like it here?', input: 'How do you like it here?', meaning: '여기 어떻게 생각하세요? (새로 온 사람)', level: 'B1', category: 'small-talk', source: '[[small-talk]]' }
 ```

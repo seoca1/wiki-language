@@ -1,3 +1,10 @@
+---
+title: "restaurant-expressions (Korean) expressions"
+language: "Korean"
+category: "restaurant-expressions"
+level: "A2-B2"
+---
+
 # Expressions: Restaurant & Dining (한국어)
 
 > **Theme:** Restaurant & Dining
@@ -212,3 +219,19 @@ Restaurant/dining expressions — ordering, allergies, bill, Korean dining etiqu
 
 - `[[food-dining]]` — Basic food expressions
 - `[[Language/wiki/comparative/food-dining]]` — 5-language food
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'kr_restaurant_expressions_001', display: '메뉴판 주세요', input: '메뉴판 주세요', meaning: '"Menu, please" — upon sitting at restaurant.', level: 'A2-B2', category: 'restaurant-expressions', source: '[[restaurant-expressions]]' }
+- { id: 'kr_restaurant_expressions_002', display: '이거 주세요', input: '이거 주세요', meaning: '"I''ll have this" — placing an order.', level: 'A2-B2', category: 'restaurant-expressions', source: '[[restaurant-expressions]]' }
+- { id: 'kr_restaurant_expressions_003', display: '___ 알레르기 있어요', input: '___ 알레르기 있어요', meaning: '"I have a ___ allergy" — allergy disclosure.', level: 'A2-B2', category: 'restaurant-expressions', source: '[[restaurant-expressions]]' }
+- { id: 'kr_restaurant_expressions_004', display: '계산서 주세요', input: '계산서 주세요', meaning: '"Check, please" — asking for the bill.', level: 'A2-B2', category: 'restaurant-expressions', source: '[[restaurant-expressions]]' }
+- { id: 'kr_restaurant_expressions_005', display: '포장해 주세요', input: '포장해 주세요', meaning: '"Please wrap it up" — leftovers/doggy bag.', level: 'A2-B2', category: 'restaurant-expressions', source: '[[restaurant-expressions]]' }
+- { id: 'kr_restaurant_expressions_006', display: '이게 뭐예요?', input: '이게 뭐예요?', meaning: '"What is this?" — ingredient inquiry.', level: 'A2-B2', category: 'restaurant-expressions', source: '[[restaurant-expressions]]' }
+- { id: 'kr_restaurant_expressions_007', display: '정말 맛있어요!', input: '정말 맛있어요!', meaning: '"It''s really delicious!" — praising food.', level: 'A2-B2', category: 'restaurant-expressions', source: '[[restaurant-expressions]]' }
+```

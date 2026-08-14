@@ -1,3 +1,10 @@
+---
+title: "idioms-proverbs (Japanese) expressions"
+language: "Japanese"
+category: "idioms-proverbs"
+level: "B2-C2"
+---
+
 # Expressions: Idioms & Proverbs (日本語)
 
 > **Theme:** Idioms & Proverbs
@@ -175,3 +182,20 @@ Warning about patterns.
 
 - `[[cultural-idioms]]` — Cultural idioms
 - `[[Language/wiki/comparative/idioms-proverbs]]` — 5-language idioms
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'jp_idioms_proverbs_001', display: '一石二鳥', input: '一石二鳥', meaning: '"Kill two birds with one stone" — efficiency.', level: 'B2-C2', category: 'idioms-proverbs', source: '[[idioms-proverbs]]' }
+- { id: 'jp_idioms_proverbs_002', display: '蛇足', input: '蛇足', meaning: '"Gilding the lily" — unnecessary addition.', level: 'B2-C2', category: 'idioms-proverbs', source: '[[idioms-proverbs]]' }
+- { id: 'jp_idioms_proverbs_003', display: '馬の耳に念仏', input: '馬の耳に念仏', meaning: '"Casting pearls before swine" — wasted effort.', level: 'B2-C2', category: 'idioms-proverbs', source: '[[idioms-proverbs]]' }
+- { id: 'jp_idioms_proverbs_004', display: '花より団子', input: '花より団子', meaning: '"Dumplings over flowers" — practicality over aesthetics.', level: 'B2-C2', category: 'idioms-proverbs', source: '[[idioms-proverbs]]' }
+- { id: 'jp_idioms_proverbs_005', display: '猿も木から落ちる', input: '猿も木から落ちる', meaning: '"Even monkeys fall from trees" — even experts make mistakes.', level: 'B2-C2', category: 'idioms-proverbs', source: '[[idioms-proverbs]]' }
+- { id: 'jp_idioms_proverbs_006', display: '七転び八起き', input: '七転び八起き', meaning: '"Fall seven times, stand up eight" — perseverance.', level: 'B2-C2', category: 'idioms-proverbs', source: '[[idioms-proverbs]]' }
+- { id: 'jp_idioms_proverbs_007', display: '備えあれば憂いなし', input: '備えあれば憂いなし', meaning: '"Forewarned is forearmed" — preparation prevents worry.', level: 'B2-C2', category: 'idioms-proverbs', source: '[[idioms-proverbs]]' }
+- { id: 'jp_idioms_proverbs_008', display: '二度あることは三度ある', input: '二度あることは三度ある', meaning: '"Things that happen twice happen thrice" — pattern recognition.', level: 'B2-C2', category: 'idioms-proverbs', source: '[[idioms-proverbs]]' }
+```

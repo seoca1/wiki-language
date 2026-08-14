@@ -388,21 +388,21 @@ Korean complaint expressions. 일상·서비스·고객센터에서 쓰는 문�
 
 ## Pipeline Form (machine-readable)
 
-> Per `wiki/pipeline-to-game.md`. Schema: display/input/meaning/level/category/source.
-> Game consumer: `Game/typing_language/raw/kr_words.md` (complaint expressions, 합쇼체~해요체 커버리지).
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: comp_001, display: "~가 안 돼서 불편합니다", input: "~ga an dweseo bulpyeonhamnida", meaning: "~doesn't work and it's inconvenient (formal)", level: "B1", category: "complaints", source: "[[complaints]]" }
-- { id: comp_002, display: "교환/환불 부탁드립니다", input: "gyohwan/hwanbul butak deurimnida", meaning: "Please exchange/refund (formal)", level: "B1", category: "complaints", source: "[[complaints]]" }
-- { id: comp_003, display: "~에 문제가 있습니다", input: "~e munjega isseumnida", meaning: "There is a problem with ~ (formal)", level: "B1", category: "complaints", source: "[[complaints]]" }
-- { id: comp_004, display: "불만 있습니다", input: "bulman isseumnida", meaning: "I have a complaint (formal)", level: "B1", category: "complaints", source: "[[complaints]]" }
-- { id: comp_005, display: "개선 요청드립니다", input: "gaeseon yocheong deurimnida", meaning: "I request an improvement (formal)", level: "B1", category: "complaints", source: "[[complaints]]" }
-- { id: comp_006, display: "이거 잘못된 것 같은데요", input: "igeo jalmotdoen geot gateundeyo", meaning: "This seems wrong (polite casual)", level: "A2", category: "complaints", source: "[[complaints]]" }
-- { id: comp_007, display: "죄송하지만 다시 한번 확인해 주시겠어요?", input: "joesonghajiman dasi hanbeon hwag-in hae jusigesseoyo?", meaning: "Sorry, could you check again? (polite)", level: "A2", category: "complaints", source: "[[complaints]]" }
-- { id: comp_008, display: "이거 안 되는데요", input: "igeo an dwenneundeyo", meaning: "This isn't working (polite casual)", level: "A2", category: "complaints", source: "[[complaints]]" }
-- { id: comp_009, display: "조금 더 신경 써 주세요", input: "jogeum deo singyeong sseo juseyo", meaning: "Please pay a little more attention (polite)", level: "A2", category: "complaints", source: "[[complaints]]" }
+- { id: 'kr_complaints_001', display: '~가 안 돼서 불편합니다 (~ga an dweseo bulpyeonhamnida, it doesn''t ~ and it''s inconvenient)', input: '~ga an dweseo bulpyeonhamnida', meaning: '가장 일반적인 정중한 불만 표현. 서비스·제품·환경 문제 시 1차 항의.', level: 'A2-B1', category: 'complaints', source: '[[complaints]]', literal: '"~ doesn''t work and it''s inconvenient."', register: '합쇼체 (formal). 고객센터·전화 응대·공식 항의 — 격식 유지.' }
+- { id: 'kr_complaints_002', display: '교환/환불 부탁드립니다 (gyohwan/hwanbul butak deurimnida, please exchange/refund)', input: 'gyohwan/hwanbul butak deurimnida', meaning: '구매 후 문제 발생 시 교환·환불을 정중히 요청하는 표준 표현.', level: 'A2-B1', category: 'complaints', source: '[[complaints]]', literal: '"Please exchange / refund."', register: '합쇼체 (formal). 매장·고객센터·온라인 쇼핑 CS — 격식 최고 단계.' }
+- { id: 'kr_complaints_003', display: '~에 문제가 있습니다 (~e munjega isseumnida, there is a problem with ~)', input: '~e munjega isseumnida', meaning: '정중하고 사실 전달형 항의. "~이 잘못됐어요"보다 격식 높음.', level: 'A2-B1', category: 'complaints', source: '[[complaints]]', literal: '"There is a problem with ~."', register: '합쇼체 (formal). 공식 항의·전화·이메일·계약 분쟁.' }
+- { id: 'kr_complaints_004', display: '불만 있습니다 (bulman isseumnida, I have a complaint)', input: 'bulman isseumnida', meaning: '공식 항의 선언. 서비스·제품·관공서 응대에서 직접적 항의.', level: 'A2-B1', category: 'complaints', source: '[[complaints]]', literal: '"I have a complaint."', register: '합쇼체 (formal). 고객센터·공식 항의서·소비자 분쟁.' }
+- { id: 'kr_complaints_005', display: '개선 요청드립니다 (gaeseon yocheong deurimnida, I request an improvement)', input: 'gaeseon yocheong deurimnida', meaning: '격식 있는 개선 요청. 단순 불만을 넘어 구체적 조치 요구.', level: 'A2-B1', category: 'complaints', source: '[[complaints]]', literal: '"I request an improvement."', register: '합쇼체 (formal). 고객센터·정부 민원·상사·경영진 — 정중 + 구체적 요청.' }
+- { id: 'kr_complaints_006', display: '이거 잘못된 것 같은데요 (igeo jalmotdoen geot gateundeyo, this seems wrong)', input: 'igeo jalmotdoen geot gateundeyo', meaning: '부드럽고 간접적 문제 제기. 일상·캐주얼 항의의 기본.', level: 'A2-B1', category: 'complaints', source: '[[complaints]]', literal: '"This seems wrong, I think."', register: '해요체 (polite informal). 일상·매장·친구·동료 — 직접 항의보다 부드럽게.' }
+- { id: 'kr_complaints_007', display: '죄송하지만 다시 한번 확인해 주시겠어요? (joesonghajiman dasi hanbeon hwagin hae jusigesseoyo, sorry but could you check again?)', input: 'joesonghajiman dasi hanbeon hwagin hae jusigesseoyo', meaning: '사과 + 확인 요청. 문제 제기 + 정중한 재확인 요청 결합.', level: 'A2-B1', category: 'complaints', source: '[[complaints]]', literal: '"Sorry, but could you please check again?"', register: '해요체 (polite informal) + 정중 의뢰형. 매장·서비스·전화 응대 — 정중도 높음.' }
+- { id: 'kr_complaints_008', display: '이거 안 되는데요 (igeo an dwenneundeyo, this isn''t working / this is no good)', input: 'igeo an dwenneundeyo', meaning: '캐주얼·직접적 항의. 정중도 한 단계 낮은 일상 표현.', level: 'A2-B1', category: 'complaints', source: '[[complaints]]', literal: '"This isn''t working / this is unacceptable."', register: '해요체 (polite informal) + 직접. 매장·서비스·동료 — 부드럽지만 직접적.' }
+- { id: 'kr_complaints_009', display: '조금 더 신경 써 주세요 (jogeum deo singyeong sseo juseyo, please pay a little more attention)', input: 'jogeum deo singyeong sseo juseyo', meaning: '개선 요청의 부드러운 표현. 직접 항의보다 건설적.', level: 'A2-B1', category: 'complaints', source: '[[complaints]]', literal: '"Please pay a little more attention."', register: '해요체 (polite informal). 매장·서비스·동료·상사 — 부드럽지만 정중.' }
 ```
-
 ## Sources
 
 - [[daily-life-basics]] — 일상 회화

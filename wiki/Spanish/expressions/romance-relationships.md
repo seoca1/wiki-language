@@ -1,3 +1,10 @@
+---
+title: "romance-relationships (Spanish) expressions"
+language: "Spanish"
+category: "romance-relationships"
+level: "A1-B2"
+---
+
 # Expresiones: Romance & Relationships
 
 > **Theme:** Romance & Relationships
@@ -359,3 +366,19 @@ este contexto). "Me lo pasé" también es válido (más enfático).
 - Aula Internacional 2 (A2)
 
 ---
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'es_romance_relationships_001', display: 'te-amo', input: 'te-amo', meaning: '"사랑해" — Deep romantic love.', level: 'A1-B2 (idioms)', category: 'romance-relationships', source: '[[romance-relationships]]' }
+- { id: 'es_romance_relationships_002', display: 'estoy-enamorado', input: 'estoy-enamorado', meaning: '"난 사랑에 빠졌어" — Formal declaration of being in love.', level: 'A1-B2 (idioms)', category: 'romance-relationships', source: '[[romance-relationships]]' }
+- { id: 'es_romance_relationships_003', display: 'me-gustas-mucho', input: 'me-gustas-mucho', meaning: '"난 너를 많이 좋아해" — Strong expression of attraction.', level: 'A1-B2 (idioms)', category: 'romance-relationships', source: '[[romance-relationships]]' }
+- { id: 'es_romance_relationships_004', display: 'puedo-darte-beso', input: 'puedo-darte-beso', meaning: '"키스해도 돼?" — Consent request for first kiss.', level: 'A1-B2 (idioms)', category: 'romance-relationships', source: '[[romance-relationships]]' }
+- { id: 'es_romance_relationships_005', display: 'pedir la mano (de alguien)', input: 'de alguien', meaning: 'Solicitar formalmente el consentimiento de los padres para casarse con su hija. Rito de petición matrimonial.', level: 'A1-B2 (idioms)', category: 'romance-relationships', source: '[[romance-relationships]]', literal: 'pedir la mão (de alguém)' }
+- { id: 'es_romance_relationships_006', display: 'seguir-siendo-amigos', input: 'seguir-siendo-amigos', meaning: '"친구로 지내자" — Polite but firm decline of romantic interest.', level: 'A1-B2 (idioms)', category: 'romance-relationships', source: '[[romance-relationships]]' }
+- { id: 'es_romance_relationships_007', display: 'he-pasado-bien', input: 'he-pasado-bien', meaning: '"잘 지내봤어" — Standard post-date appreciation.', level: 'A1-B2 (idioms)', category: 'romance-relationships', source: '[[romance-relationships]]' }
+```

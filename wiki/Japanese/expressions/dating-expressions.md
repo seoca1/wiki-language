@@ -1,3 +1,10 @@
+---
+title: "dating-expressions (Japanese) expressions"
+language: "Japanese"
+category: "dating-expressions"
+level: "B1-C1"
+---
+
 # Expressions: Dating & Romance (日本語)
 
 > **Theme:** Dating & Romance
@@ -239,3 +246,20 @@ Dating/romance expressions — confession, affection, relationship stages, break
 
 - `[[dating-romance]]` — Basic dating
 - `[[Language/wiki/comparative/dating-romance]]` — 5-language dating
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'jp_dating_expressions_001', display: '好きです', input: '好きです', meaning: '"I like you" — direct confession.', level: 'B1-C1', category: 'dating-expressions', source: '[[dating-expressions]]' }
+- { id: 'jp_dating_expressions_002', display: '付き合ってください', input: '付き合ってください', meaning: '"Please go out with me" — official relationship request.', level: 'B1-C1', category: 'dating-expressions', source: '[[dating-expressions]]' }
+- { id: 'jp_dating_expressions_003', display: '愛してる', input: '愛してる', meaning: '"I love you" — deep affection.', level: 'B1-C1', category: 'dating-expressions', source: '[[dating-expressions]]' }
+- { id: 'jp_dating_expressions_004', display: '別れましょう', input: '別れましょう', meaning: '"Let''s break up" — ending relationship.', level: 'B1-C1', category: 'dating-expressions', source: '[[dating-expressions]]' }
+- { id: 'jp_dating_expressions_005', display: 'お見合い', input: 'お見合い', meaning: '"Arranged meeting" — traditional matchmaking.', level: 'B1-C1', category: 'dating-expressions', source: '[[dating-expressions]]' }
+- { id: 'jp_dating_expressions_006', display: '同棲', input: '同棲', meaning: '"Cohabitation" — living together unmarried.', level: 'B1-C1', category: 'dating-expressions', source: '[[dating-expressions]]' }
+- { id: 'jp_dating_expressions_007', display: 'マッチングアプリ', input: 'マッチングアプリ', meaning: '"Matching app" — online dating.', level: 'B1-C1', category: 'dating-expressions', source: '[[dating-expressions]]' }
+- { id: 'jp_dating_expressions_008', display: '親への挨拶', input: '親への挨拶', meaning: '"Greeting to parents" — formal family introduction.', level: 'B1-C1', category: 'dating-expressions', source: '[[dating-expressions]]' }
+```

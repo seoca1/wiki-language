@@ -297,14 +297,14 @@ Chinese directions 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: 'zh_directions_001', display: '左 (zuǒ, 左)', input: '左 (zuǒ, 左)', meaning: 'left', level: 'HSK 1', category: 'directions', source: '[[directions-vocabulary]]' }
-- { id: 'zh_directions_002', display: '右 (yòu, 右)', input: '右 (yòu, 右)', meaning: 'right', level: 'HSK 1', category: 'directions', source: '[[directions-vocabulary]]' }
-- { id: 'zh_directions_003', display: '直走 (zhízǒu, 直走)', input: '直走 (zhízǒu, 直走)', meaning: 'straight', level: 'HSK 2', category: 'directions', source: '[[directions-vocabulary]]' }
-- { id: 'zh_directions_004', display: '上 (shàng, 上)', input: '上 (shàng, 上)', meaning: 'up', level: 'HSK 1', category: 'directions', source: '[[directions-vocabulary]]' }
-- { id: 'zh_directions_005', display: '下 (xià, 下)', input: '下 (xià, 下)', meaning: 'down', level: 'HSK 1', category: 'directions', source: '[[directions-vocabulary]]' }
-- { id: 'zh_directions_006', display: '这里 (zhèli, 這裡)', input: '这里 (zhèli, 這裡)', meaning: 'here', level: 'HSK 1', category: 'directions', source: '[[directions-vocabulary]]' }
-- { id: 'zh_directions_007', display: '那里 (nàli, 那裡)', input: '那里 (nàli, 那裡)', meaning: 'there', level: 'HSK 1', category: 'directions', source: '[[directions-vocabulary]]' }
-- { id: 'zh_directions_008', display: '附近 (fùjìn, 附近)', input: '附近 (fùjìn, 附近)', meaning: 'near', level: 'HSK 2', category: 'directions', source: '[[directions-vocabulary]]' }
-- { id: 'zh_directions_009', display: '远 (yuǎn, 遠)', input: '远 (yuǎn, 遠)', meaning: 'far', level: 'HSK 1', category: 'directions', source: '[[directions-vocabulary]]' }
-- { id: 'zh_directions_010', display: '中间 (zhōngjiān, 中間)', input: '中间 (zhōngjiān, 中間)', meaning: 'between', level: 'HSK 2', category: 'directions', source: '[[directions-vocabulary]]' }
+- { id: 'zh_directions_001', display: '左 (zuǒ, 左)', input: '左 (zuǒ, 左)', meaning: 'left', level: 'A1-A2', category: 'directions', source: '[[directions-vocabulary]]' }
+- { id: 'zh_directions_002', display: '右 (yòu, 右)', input: '右 (yòu, 右)', meaning: 'right', level: 'A1-A2', category: 'directions', source: '[[directions-vocabulary]]' }
+- { id: 'zh_directions_003', display: '直走 (zhízǒu, 直走)', input: '直走 (zhízǒu, 直走)', meaning: 'straight', level: 'A1-A2', category: 'directions', source: '[[directions-vocabulary]]' }
+- { id: 'zh_directions_004', display: '上 (shàng, 上)', input: '上 (shàng, 上)', meaning: 'up', level: 'A1-A2', category: 'directions', source: '[[directions-vocabulary]]' }
+- { id: 'zh_directions_005', display: '下 (xià, 下)', input: '下 (xià, 下)', meaning: 'down', level: 'A1-A2', category: 'directions', source: '[[directions-vocabulary]]' }
+- { id: 'zh_directions_006', display: '这里 (zhèli, 這裡)', input: '这里 (zhèli, 這裡)', meaning: 'here', level: 'A1-A2', category: 'directions', source: '[[directions-vocabulary]]' }
+- { id: 'zh_directions_007', display: '那里 (nàli, 那裡)', input: '那里 (nàli, 那裡)', meaning: 'there', level: 'A1-A2', category: 'directions', source: '[[directions-vocabulary]]' }
+- { id: 'zh_directions_008', display: '附近 (fùjìn, 附近)', input: '附近 (fùjìn, 附近)', meaning: 'near', level: 'A1-A2', category: 'directions', source: '[[directions-vocabulary]]' }
+- { id: 'zh_directions_009', display: '远 (yuǎn, 遠)', input: '远 (yuǎn, 遠)', meaning: 'far', level: 'A1-A2', category: 'directions', source: '[[directions-vocabulary]]' }
+- { id: 'zh_directions_010', display: '中间 (zhōngjiān, 中間)', input: '中间 (zhōngjiān, 中間)', meaning: 'between', level: 'A1-A2', category: 'directions', source: '[[directions-vocabulary]]' }
 ```

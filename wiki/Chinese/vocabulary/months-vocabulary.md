@@ -297,14 +297,14 @@ Chinese months 어휘는 일상 대화에서 자주 사용됨.
 > The body above remains the human-readable form and is the source of truth.
 
 ```yaml
-- { id: 'zh_months_001', display: '一月 (yīyuè, 一月)', input: '一月 (yīyuè, 一月)', meaning: 'January', level: 'HSK 1', category: 'months', source: '[[months-vocabulary]]' }
-- { id: 'zh_months_002', display: '二月 (èryuè, 二月)', input: '二月 (èryuè, 二月)', meaning: 'February', level: 'HSK 1', category: 'months', source: '[[months-vocabulary]]' }
-- { id: 'zh_months_003', display: '三月 (sānyuè, 三月)', input: '三月 (sānyuè, 三月)', meaning: 'March', level: 'HSK 1', category: 'months', source: '[[months-vocabulary]]' }
-- { id: 'zh_months_004', display: '四月 (sìyuè, 四月)', input: '四月 (sìyuè, 四月)', meaning: 'April', level: 'HSK 1', category: 'months', source: '[[months-vocabulary]]' }
-- { id: 'zh_months_005', display: '五月 (wǔyuè, 五月)', input: '五月 (wǔyuè, 五月)', meaning: 'May', level: 'HSK 1', category: 'months', source: '[[months-vocabulary]]' }
-- { id: 'zh_months_006', display: '六月 (liùyuè, 六月)', input: '六月 (liùyuè, 六月)', meaning: 'June', level: 'HSK 1', category: 'months', source: '[[months-vocabulary]]' }
-- { id: 'zh_months_007', display: '七月 (qīyuè, 七月)', input: '七月 (qīyuè, 七月)', meaning: 'July', level: 'HSK 1', category: 'months', source: '[[months-vocabulary]]' }
-- { id: 'zh_months_008', display: '八月 (bāyuè, 八月)', input: '八月 (bāyuè, 八月)', meaning: 'August', level: 'HSK 1', category: 'months', source: '[[months-vocabulary]]' }
-- { id: 'zh_months_009', display: '九月 (jiǔyuè, 九月)', input: '九月 (jiǔyuè, 九月)', meaning: 'September', level: 'HSK 1', category: 'months', source: '[[months-vocabulary]]' }
-- { id: 'zh_months_010', display: '十月 (shíyuè, 十月)', input: '十月 (shíyuè, 十月)', meaning: 'October', level: 'HSK 1', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'zh_months_001', display: '一月 (yīyuè, 一月)', input: '一月 (yīyuè, 一月)', meaning: 'January', level: 'A1-A2', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'zh_months_002', display: '二月 (èryuè, 二月)', input: '二月 (èryuè, 二月)', meaning: 'February', level: 'A1-A2', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'zh_months_003', display: '三月 (sānyuè, 三月)', input: '三月 (sānyuè, 三月)', meaning: 'March', level: 'A1-A2', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'zh_months_004', display: '四月 (sìyuè, 四月)', input: '四月 (sìyuè, 四月)', meaning: 'April', level: 'A1-A2', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'zh_months_005', display: '五月 (wǔyuè, 五月)', input: '五月 (wǔyuè, 五月)', meaning: 'May', level: 'A1-A2', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'zh_months_006', display: '六月 (liùyuè, 六月)', input: '六月 (liùyuè, 六月)', meaning: 'June', level: 'A1-A2', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'zh_months_007', display: '七月 (qīyuè, 七月)', input: '七月 (qīyuè, 七月)', meaning: 'July', level: 'A1-A2', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'zh_months_008', display: '八月 (bāyuè, 八月)', input: '八月 (bāyuè, 八月)', meaning: 'August', level: 'A1-A2', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'zh_months_009', display: '九月 (jiǔyuè, 九月)', input: '九月 (jiǔyuè, 九月)', meaning: 'September', level: 'A1-A2', category: 'months', source: '[[months-vocabulary]]' }
+- { id: 'zh_months_010', display: '十月 (shíyuè, 十月)', input: '十月 (shíyuè, 十月)', meaning: 'October', level: 'A1-A2', category: 'months', source: '[[months-vocabulary]]' }
 ```

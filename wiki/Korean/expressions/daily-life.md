@@ -1,3 +1,10 @@
+---
+title: "daily-life (Korean) expressions"
+language: "Korean"
+category: "daily-life"
+level: "A1-B2"
+---
+
 # Expressions: Daily Life (한국어)
 
 > **Theme:** Daily Life
@@ -396,3 +403,22 @@ Universal expressions for everyday situations — greetings, dining, transit, sh
 - `[[Language/wiki/comparative/greetings]]`
 - `[[Language/wiki/comparative/politeness-honorifics]]`
 - `[[Language/wiki/comparative/cultural-values]]`
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'kr_daily_life_001', display: '감사합니다', input: '감사합니다', meaning: '"Thank you" — 가장 기본 감사 표현.', level: 'A1-B2', category: 'daily-life', source: '[[daily-life]]' }
+- { id: 'kr_daily_life_002', display: '죄송합니다', input: '죄송합니다', meaning: '"I''m sorry" — 가장 정중한 사과.', level: 'A1-B2', category: 'daily-life', source: '[[daily-life]]' }
+- { id: 'kr_daily_life_003', display: '안녕하세요', input: '안녕하세요', meaning: '"Hello" — 한국 표준 인사.', level: 'A1-B2', category: 'daily-life', source: '[[daily-life]]' }
+- { id: 'kr_daily_life_004', display: '얼마예요', input: '얼마예요', meaning: '"How much is it?" — 가격 문의.', level: 'A1-B2', category: 'daily-life', source: '[[daily-life]]' }
+- { id: 'kr_daily_life_005', display: '화장실 어디예요', input: '화장실 어디예요', meaning: '"Where is the bathroom?" — 필수 표현.', level: 'A1-B2', category: 'daily-life', source: '[[daily-life]]' }
+- { id: 'kr_daily_life_006', display: '모르겠어요', input: '모르겠어요', meaning: '"I don''t know" — 청해 못함/모를 때.', level: 'A1-B2', category: 'daily-life', source: '[[daily-life]]' }
+- { id: 'kr_daily_life_007', display: '도와주세요', input: '도와주세요', meaning: '"Please help me" — 응급/도움 요청.', level: 'A1-B2', category: 'daily-life', source: '[[daily-life]]' }
+- { id: 'kr_daily_life_008', display: '역이 어디예요', input: '역이 어디예요', meaning: '"Where is the station?" — 가장 흔한 방향 문의.', level: 'A1-B2', category: 'daily-life', source: '[[daily-life]]' }
+- { id: 'kr_daily_life_009', display: '잘 먹겠습니다', input: '잘 먹겠습니다', meaning: '"I''ll eat well" — 식사 전 인사.', level: 'A1-B2', category: 'daily-life', source: '[[daily-life]]' }
+- { id: 'kr_daily_life_010', display: '네, 알겠습니다', input: '네, 알겠습니다', meaning: '"Yes, I understand" — 동의/수락.', level: 'A1-B2', category: 'daily-life', source: '[[daily-life]]' }
+```

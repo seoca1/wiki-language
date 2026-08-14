@@ -1,3 +1,10 @@
+---
+title: "technology-expressions (Korean) expressions"
+language: "Korean"
+category: "technology-expressions"
+level: "A2-C1"
+---
+
 # Expressions: Technology & Internet (한국어)
 
 > **Theme:** Technology & Internet
@@ -212,3 +219,19 @@ Tech/internet expressions — apps, payments, social media, K-tech culture.
 
 - `[[daily-life]]` — Daily life tech
 - `[[Language/wiki/comparative/tech-internet]]` — 5-language tech
+
+## Pipeline Form (machine-readable)
+
+> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
+> The body above remains the human-readable form and is the source of truth.
+
+```yaml
+- { id: 'kr_technology_expressions_001', display: 'Wi-Fi 비밀번호 뭐예요?', input: 'Wi-Fi 비밀번호 뭐예요?', meaning: '"What''s the WiFi password?" — connecting to internet.', level: 'A2-C1', category: 'technology-expressions', source: '[[technology-expressions]]' }
+- { id: 'kr_technology_expressions_002', display: '연락처 알려주세요', input: '연락처 알려주세요', meaning: '"Please give me your contact" — sharing contact.', level: 'A2-C1', category: 'technology-expressions', source: '[[technology-expressions]]' }
+- { id: 'kr_technology_expressions_003', display: 'DM 보내주세요', input: 'DM 보내주세요', meaning: '"Please DM me" — direct message on social media.', level: 'A2-C1', category: 'technology-expressions', source: '[[technology-expressions]]' }
+- { id: 'kr_technology_expressions_004', display: '태그해줘', input: '태그해줘', meaning: '"Tag me" — mentioning in social media.', level: 'A2-C1', category: 'technology-expressions', source: '[[technology-expressions]]' }
+- { id: 'kr_technology_expressions_005', display: 'ㅋㅋㅋ / ㅎㅎㅎ', input: 'ㅋㅋㅋ / ㅎㅎㅎ', meaning: '"kkk / hhh" — Internet laugh.', level: 'A2-C1', category: 'technology-expressions', source: '[[technology-expressions]]' }
+- { id: 'kr_technology_expressions_006', display: '택시 어플', input: '택시 어플', meaning: '"Taxi app" — Korean ride-hailing app.', level: 'A2-C1', category: 'technology-expressions', source: '[[technology-expressions]]' }
+- { id: 'kr_technology_expressions_007', display: '라이브커머스', input: '라이브커머스', meaning: '"Live commerce" — buying via live video.', level: 'A2-C1', category: 'technology-expressions', source: '[[technology-expressions]]' }
+```
