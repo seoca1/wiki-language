@@ -40,7 +40,7 @@ created: 2026-08-14
 
 ## 게임 코드 인용 컨벤션
 
-`Game/typing_language/prototype/src/data/corpus.ts`의 FR 항목들은
+`Game/lingotype/prototype/src/data/corpus.ts`의 FR 항목들은
 `source: '[테마 stem]'` 필드로 위의 theme-file을 인용합니다.
 wikilink target은 theme-file stem 이어야 합니다 (per-word 페이지 없음, §3.1.1 규약).
 

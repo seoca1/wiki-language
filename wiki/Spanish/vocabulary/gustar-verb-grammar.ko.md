@@ -71,7 +71,7 @@ language: "Korean"
 
 ## 파이프라인 형태 (기계 판독 가능)
 
-> 하류 소비자용으로 생성됨 (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
+> 하류 소비자용으로 생성됨 (`Game/lingotype/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
 > 스키마 참조: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
 > 위 본문이 사람이 읽을 수 있는 형태이며 진실의 원천임.
 

@@ -34,9 +34,11 @@ Language/tools/
 | **`search_wiki.py`** ★ Track D | Hybrid keyword search across wiki pages (lightweight qmd alternative, no external deps) | `python3 Language/tools/search_wiki.py "query" [--lang es] [--page-type grammar] [--limit 10]` |
 | **`audit_downstream.py`** ★ Track E | Audit downstream consumers (Game corpus + openclaw exposure logs) — verifies cross-project citations | `python3 Language/tools/audit_downstream.py [--target game\|openclaw\|all] [--lang en]` |
 | **`add_game_category.py`** ★ Bonus | Auto-inject missing `category:` field into Game corpus YAML entries (from Track E findings) | `python3 Language/tools/add_game_category.py [--lang jp] [--dry-run]` |
+| **`reverse_pipeline.py`** ★ Track G | Reverse-pipeline citation auditor — detects Game corpus entries whose `source: [[theme]]` does not resolve to a Language wiki page | `python3 Language/tools/reverse_pipeline.py [--lang en] [--json] [--report PATH]` |
 | **`broken_wikilink_processor.py`** | Find broken wikilinks, generate stub pages | `python3 Language/tools/broken_wikilink_processor.py --inventory` |
 | **`extract_cards.py`** | Extract vocabulary from card news archives | `python3 Language/tools/extract_cards.py` |
 | **`linguistic_stub_gen.py`** | Generate linguistic stub pages with metadata | `python3 Language/tools/linguistic_stub_gen.py` |
+| **`symmetry_check.py`** ★ Track F | Cross-language symmetry validator — file counts, YAML coverage, **ADR staleness (age + referenced paths + resolved candidates)** | `python3 Language/tools/symmetry_check.py [--report PATH] [--json]` |
 
 ### search_wiki.py — detail (Track D)
 
@@ -89,7 +91,7 @@ python3 Language/tools/validate_schema.py --lang es --page-type vocabulary
 
 Cross-project contract validator per ADR-0003 + schema §Downstream Consumers. Verifies two downstream consumers:
 
-**1. Game corpus (`Game/typing_language/raw/{lang}_words.md`)** — typing_language game
+**1. Game corpus (`Game/lingotype/raw/{lang}_words.md`)** — lingotype game
 - Each YAML entry MUST have: `id`, `display`, `meaning` (or sentence marker), `level`, `category`, `source`
 - `source:` MUST be a wikilink (`[[theme-filename]]`) and MUST resolve to a Language wiki vocabulary theme file
 - Sentence entries (`ens_001`, `jps_001`, etc.) — `meaning:` field optional, `display:` IS the sentence
@@ -165,6 +167,34 @@ Validates broader page format conventions per ADR-0001, ADR-0002, ADR-0003, and 
 **Filters:** `--lang {en,es,jp,kr,zh}`, `--page-type {vocabulary,expressions,culture,grammar,sources,study-plan,comparative}`
 
 **Exit codes:** 0 = clean, 1 = violations, 2 = runtime error.
+
+### symmetry_check.py — Track F (2026-08-19)
+
+ADR staleness detection (3 detectors, appended in v2):
+
+1. **Age staleness** (`detect_adr_age_staleness`) — warns when an Accepted ADR has not been touched in > 180 days (configurable via `--stale-days N`). Catches ADRs that became stale due to project evolution.
+2. **Referenced paths** (`detect_adr_referenced_paths`) — scans backtick-quoted paths in Accepted ADRs; if a path no longer exists in Language/, parent, or workspace root, reports it. Catches stale references like ADR-0003 → `tools/generate_yaml.py` (renamed to `generate_yaml_pipeline.py`).
+3. **Resolved candidates** (`detect_resolved_candidates`) — scans `decisions/README.md` future-candidates section; if a backtick-token also appears in another ADR body, suggests promoting to ADR or removing. Catches candidates that were informally resolved.
+
+Exit codes: 0 = clean, 1 = asymmetries found, 2 = runtime error.
+
+### reverse_pipeline.py — Track G (2026-08-19)
+
+Reverse-pipeline citation auditor. Parses `Game/lingotype/raw/{lang}_words.md` and checks every `source: `[[theme-stem]]`` against the corresponding `Language/wiki/{Lang}/vocabulary/` or `expressions/` directory.
+
+**Detects**: corpus entries that cite a Language theme file which doesn't exist — i.e., the consumer is asking for content the source wiki hasn't ingested. If a citation target is missing, the recommended action is to add the theme file to Language wiki (rather than changing the corpus).
+
+**Findings (2026-08-19 baseline)**: 3,092 Game corpus entries scanned, 35 unique source citations, **0 missing** — Game corpus is fully aligned with Language wiki.
+
+Usage:
+```bash
+python3 Language/tools/reverse_pipeline.py                 # all 4 langs
+python3 Language/tools/reverse_pipeline.py --lang en       # one lang
+python3 Language/tools/reverse_pipeline.py --report PATH   # Markdown report
+python3 Language/tools/reverse_pipeline.py --json          # machine-readable
+```
+
+Exit codes: 0 = clean, 1 = missing citations found, 2 = runtime error.
 
 ### One-off / Historical
 

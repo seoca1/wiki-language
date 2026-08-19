@@ -416,7 +416,7 @@ Korean request expressions. 일상·서비스·비즈니스에서 쓰는 정중�
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Generated for downstream consumers (`Game/lingotype/raw/{lang}_expressions.md`).
 > Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
 > The body above remains the human-readable form and is the source of truth.
 

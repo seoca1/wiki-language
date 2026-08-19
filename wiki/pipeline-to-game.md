@@ -1,6 +1,6 @@
 # Content Pipeline: Language → Game
 
-`Language/`는 학습 콘텐츠의 **단일 진실 공급원(single source of truth)** 이고, `Game/typing_language/`는 그 콘텐츠를 게임용으로 큐레이션하여 소비한다. 이 문서는 다운스트림(콘텐츠가 흘러가는 쪽)인 Language 위키 측의 계약이다.
+`Language/`는 학습 콘텐츠의 **단일 진실 공급원(single source of truth)** 이고, `Game/lingotype/`는 그 콘텐츠를 게임용으로 큐레이션하여 소비한다. 이 문서는 다운스트림(콘텐츠가 흘러가는 쪽)인 Language 위키 측의 계약이다.
 
 ## 원칙
 
@@ -15,7 +15,7 @@
 
 | 컨슈머 | 위치 | 소비 대상 | 비고 |
 | --- | --- | --- | --- |
-| `typing_language` 게임 | `Game/typing_language/` | `wiki/{Language}/vocabulary/`, `expressions/`, `culture/` | 게임용 코퍼스(`raw/{lang}_words.md`)의 출처 |
+| `lingotype` 게임 | `Game/lingotype/` | `wiki/{Language}/vocabulary/`, `expressions/`, `culture/` | 게임용 코퍼스(`raw/{lang}_words.md`)의 출처 |
 
 향후 추가될 수 있는 다운스트림: 다른 게임, 플래시카드 앱, 블로그 자동 생성 등.
 
@@ -44,7 +44,7 @@
 게임은 Language 위키에서 추출한 데이터를 다음 형식으로 큐레이션한다:
 
 ```yaml
-# Game/typing_language/raw/{lang}_words.md
+# Game/lingotype/raw/{lang}_words.md
 - id: kr_001
   display: 한국          # Language 위키 표기 그대로
   input: hangug          # 게임 입력 방식(로마자 등)
@@ -65,11 +65,11 @@
   ↓
 [에이전트] Language/wiki/Korean/vocabulary/ 확인
   ↓ (있으면)
-[에이전트] → Game/typing_language/raw/kr_words.md 에 인용과 함께 큐레이션
+[에이전트] → Game/lingotype/raw/kr_words.md 에 인용과 함께 큐레이션
   ↓ (없으면)
 [에이전트] Language/raw/Korean/ 에 출처(교재·기사·원서) 추가
   → Language/wiki/Korean/ 인제스트 (vocabulary 페이지 생성)
-  → Game/typing_language/raw/kr_words.md 에 인용과 함께 큐레이션
+  → Game/lingotype/raw/kr_words.md 에 인용과 함께 큐레이션
 ```
 
 ### 단계별 체크리스트
@@ -80,11 +80,11 @@
    - 인제스트: vocabulary / expression / culture 페이지 생성
    - `index.md`, `log.md` 갱신
 3. **게임 코퍼스로 큐레이션**:
-   - `Game/typing_language/raw/{lang}_words.md` 에 항목 추가
+   - `Game/lingotype/raw/{lang}_words.md` 에 항목 추가
    - `source` 필드에 Language 위키 페이지 링크
 4. **게임 측 메타 갱신**:
-   - `Game/typing_language/wiki/languages/{lang}.md` (언어별 페이지) 갱신
-   - `Game/typing_language/index.md`, `log.md` 갱신
+   - `Game/lingotype/wiki/languages/{lang}.md` (언어별 페이지) 갱신
+   - `Game/lingotype/index.md`, `log.md` 갱신
 
 ## Language 에이전트가 지켜야 할 약속
 
@@ -100,7 +100,7 @@
 
 | 트리거 | 점검 위치 |
 | --- | --- |
-| 새 언어 추가 | `Game/typing_language/wiki/languages/{lang}.md` 존재 여부 |
+| 새 언어 추가 | `Game/lingotype/wiki/languages/{lang}.md` 존재 여부 |
 | 난이도 체계 변경 (예: A1~C2 → TOPIK 1~6) | 게임 측 `wiki/languages/{lang}.md` 의 레벨 표 동기화 |
 | 대량의 vocabulary 추가 (50+) | 게임 코퍼스도 함께 확장 제안 |
 
@@ -108,15 +108,15 @@
 
 | 언어 | Language 위키 | 게임 언어 페이지 | 게임 코퍼스 |
 | --- | --- | --- | --- |
-| English | `Language/wiki/English/` | `Game/typing_language/wiki/languages/english.md` | `Game/typing_language/raw/en_words.md` |
-| Spanish | `Language/wiki/Spanish/` | `Game/typing_language/wiki/languages/spanish.md` | `Game/typing_language/raw/es_words.md` |
-| Japanese | `Language/wiki/Japanese/` | `Game/typing_language/wiki/languages/japanese.md` | `Game/typing_language/raw/jp_words.md` |
-| Korean | `Language/wiki/Korean/` | `Game/typing_language/wiki/languages/korean.md` | `Game/typing_language/raw/kr_words.md` |
+| English | `Language/wiki/English/` | `Game/lingotype/wiki/languages/english.md` | `Game/lingotype/raw/en_words.md` |
+| Spanish | `Language/wiki/Spanish/` | `Game/lingotype/wiki/languages/spanish.md` | `Game/lingotype/raw/es_words.md` |
+| Japanese | `Language/wiki/Japanese/` | `Game/lingotype/wiki/languages/japanese.md` | `Game/lingotype/raw/jp_words.md` |
+| Korean | `Language/wiki/Korean/` | `Game/lingotype/wiki/languages/korean.md` | `Game/lingotype/raw/kr_words.md` |
 
 ## 관련 문서
 
-- 게임 측 파이프라인: `Game/typing_language/wiki/corpus-pipeline.md`
-- 게임 측 언어 페이지: `Game/typing_language/wiki/languages/*.md`
-- 게임 측 원본 코퍼스: `Game/typing_language/raw/*_words.md`
+- 게임 측 파이프라인: `Game/lingotype/wiki/corpus-pipeline.md`
+- 게임 측 언어 페이지: `Game/lingotype/wiki/languages/*.md`
+- 게임 측 원본 코퍼스: `Game/lingotype/raw/*_words.md`
 - LLM Wiki 표준: `Language/schema/AGENTS.md`
 - **Cross-Language Comparisons**: `Language/wiki/comparative/index` — 5언어 (EN/ES/JP/KR/CH) 비교 페이지 24개. 게임이 다국어 캐릭터를 표현할 때(예: NPC 대사 다국어 버전) 참조 가능. 특히 `politeness-honorifics`, `greetings`, `pronouns-reference` 페이지가 게임 콘텐츠 큐레이션에 직접 활용 가능.

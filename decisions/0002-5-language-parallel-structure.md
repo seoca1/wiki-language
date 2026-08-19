@@ -103,6 +103,7 @@ wiki/{English,Spanish,Japanese,Korean,Chinese}/
 - 신규 언어 추가 시 `wiki/{NewLang}/` layout + `raw/{NewLang}/` 가 본 ADR 의 5언어 구조와 정렬 필수
 - Chinese raw 는 현행 Option A 유지 — 변경 시 신규 ADR 작성
 - Per-language `index.md` 는 Cross-Language Comparisons 섹션으로 `wiki/comparative/*` 와 양방향 연결 (ADR-0004)
+- **French/German** 은 **scaffolded-only** 로 인정 (ADR-0007) — wiki/{French,German}/ 의 5 vocab + 1 expression + README 구성은 의도적 scaffold. raw 부재로 machine-readable (Pipeline YAML) 생성 불가 → 0% YAML 유지. promote 시 ADR-0008 별도 작성.
 
 ### 향후 결정
 
@@ -144,4 +145,5 @@ wiki/{English,Spanish,Japanese,Korean,Chinese}/
 - 2026-07-13: Chinese 가 5번째 언어로 추가, raw 단계 부재 (Option A 적용)
 - 2026-07-28: 모든 Chinese source-summary 페이지에 `## Sources` 섹션 추가 (traceability)
 - 2026-08-08: ADR 형식화 (배치 governance, batch A)
+- 2026-08-19: French/German scaffolded-only 명시 추가 (ADR-0007 cross-reference)
 - 2026-08-11: EN/JA/KO/ZH grammar/ 보강 완료 상태 반영. "향후 결정" 의 "EN/JA/KO wiki/{Lang}/grammar/ 디렉토리 보강" 항목 해소 (ADR 본문 변경 없이 §향후 결정 섹션에 status note 추가만 함 — ADR-0002 의 immutable decision 본문 유지). 진행 사항 상세: `Language/log.md` 2026-08-11 entry + `Language/_archive/sessions/SESSION_SUMMARY_2026-08-11-language-all-options.md`.

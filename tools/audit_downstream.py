@@ -5,7 +5,7 @@ Audit downstream consumers of Language wiki content.
 Per ADR-0003 (Pipeline YAML contract) and schema/AGENTS.md §Downstream
 Consumers, Language wiki is the single source of truth for downstream:
 
-1. **Game/typing_language/raw/{lang}_words.md** — game corpus (E1)
+1. **Game/lingotype/raw/{lang}_words.md** — game corpus (E1)
    - Each YAML entry MUST have `source:` field with bare-stem wikilink
    - The `source:` MUST resolve to a file in Language/wiki/{Lang}/vocabulary/
 
@@ -42,7 +42,7 @@ PROJECT_ROOT = LANG_DIR.parent
 WIKI_DIR = LANG_DIR / "wiki"
 
 # Game corpus location (typing_language)
-GAME_RAW_DIR = PROJECT_ROOT / "Game" / "typing_language" / "raw"
+GAME_RAW_DIR = PROJECT_ROOT / "Game" / "lingotype" / "raw"
 
 # Openclaw workspace location (system volume, outside project)
 OPENCLAW_ROOT = Path("/Users/emilio/.openclaw/workspace/wiki")
@@ -255,7 +255,7 @@ def source_resolves(source_wikilink: str, lang: str, stem_index: dict[str, list[
 
 
 def audit_game_corpus(lang_filter: Optional[str], stem_index: dict[str, list[Path]]) -> list[Violation]:
-    """Audit Game/typing_language/raw/{lang}_words.md for ADR-0003 compliance."""
+    """Audit Game/lingotype/raw/{lang}_words.md for ADR-0003 compliance."""
     violations = []
 
     if not GAME_RAW_DIR.exists():

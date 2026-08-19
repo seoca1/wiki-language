@@ -177,6 +177,8 @@ Dedicated grammar pages for English-specific patterns (added 2026-08-08: 2; 2026
 
 ### Study Plan (added 1)
 - [[study-plan/README]] — English study-plan placeholder — meets AGENTS.md 7-subdirectory requirement
+- [[study-plan/weekly-plan]] — English Weekly Study Plan (level-bracketed 4-week rotation)
+- [[study-plan/recursos-en]] — English Learning Resources Catalog (textbooks, apps, podcasts, TV)
 
 ## Cross-Language Comparisons
 

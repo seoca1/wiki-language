@@ -11,7 +11,7 @@ Language 위키는 두 다운스트림 컨슈머에게 학습 콘텐츠를 노�
 
 | 다운스트림 | 위치 | 소비 형태 |
 |---|---|---|
-| `typing_language` 게임 | `Game/typing_language/raw/{lang}_words.md` | vocabulary theme 파일을 게임 코퍼스로 큐레이션, `source: [[wikilink]]` 인용 |
+| `lingotype` 게임 | `Game/lingotype/raw/{lang}_words.md` | vocabulary theme 파일을 게임 코퍼스로 큐레이션, `source: [[wikilink]]` 인용 |
 | `.openclaw` workspace | `.openclaw/workspace/wiki/{lang}/_exposure_log.md` | vocabulary + culture 페이지에서 daily-exposure entry 풀 |
 
 2026-07-29 직전 audit 에서 양 컨슈머의 machine-readable contract 가 **대부분 비어 있음** 이 발견되었다:
@@ -26,7 +26,7 @@ Language 위키는 두 다운스트림 컨슈머에게 학습 콘텐츠를 노�
 
 결과:
 - openclaw 가 Japanese/Spanish/Chinese vocabulary 에서 machine-readable 데이터 추출 불가
-- 게임 측 `Game/typing_language/raw/{lang}_words.md` 의 cross-reference 검증 불가 (raw/ 는 정본이지만 wiki YAML 은 reference 표시 역할)
+- 게임 측 `Game/lingotype/raw/{lang}_words.md` 의 cross-reference 검증 불가 (raw/ 는 정본이지만 wiki YAML 은 reference 표시 역할)
 - 신규 vocabulary 추가 시 machine-readable 보장 메커니즘 부재
 
 ## 고려한 옵션
@@ -115,7 +115,7 @@ Language 위키는 두 다운스트림 컨슈머에게 학습 콘텐츠를 노�
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Generated for downstream consumers (`Game/lingotype/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
@@ -137,7 +137,7 @@ Language 위키는 두 다운스트림 컨슈머에게 학습 콘텐츠를 노�
 | **합계** | **59** | **1,259** |
 
 ### 다운스트림 contract
-- **게임 (`Game/typing_language/raw/{lang}_words.md`)**: YAML entry 의 `source: [[{theme-stem}]]` 인용 + `display/input/meaning/level/category` 5필드 활용
+- **게임 (`Game/lingotype/raw/{lang}_words.md`)**: YAML entry 의 `source: [[{theme-stem}]]` 인용 + `display/input/meaning/level/category` 5필드 활용
 - **openclaw (`.openclaw/workspace/wiki/{lang}/_exposure_log.md`)**: vocabulary entries + culture 페이지 `## Ejemplos` 섹션 daily-exposure 풀
 
 ### 강제되는 결정
@@ -155,7 +155,7 @@ Language 위키는 두 다운스트림 컨슈머에게 학습 콘텐츠를 노�
 - `Language/schema/AGENTS.md` L130-141 (Vocabulary 페이지 형식)
 - `Language/wiki/pipeline-to-game.md` — 게임 측 consumer contract
 - `Language/wiki/pipeline-to-openclaw.md` — openclaw 측 consumer contract
-- `Game/typing_language/AGENTS.md` §1.5 — 게임 raw/ 의 source: `[[theme-stem]]` 인용 규약
+- `Game/lingotype/AGENTS.md` §1.5 — 게임 raw/ 의 source: `[[theme-stem]]` 인용 규약
 - `Language/log.md` 2026-07-29 entries (배치 YAML 생성)
 
 ## 관련 결정

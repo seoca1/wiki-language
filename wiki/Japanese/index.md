@@ -172,6 +172,8 @@ Dedicated grammar pages for Japanese-specific patterns (added 2026-08-08; 4 new 
 
 ### Study Plan (added 1)
 - [[study-plan/README]] — Japanese study-plan placeholder — meets AGENTS.md 7-subdirectory requirement
+- [[study-plan/weekly-plan]] — Japanese Weekly Study Plan (level-bracketed 4-week rotation)
+- [[study-plan/recursos-jp]] — Japanese Learning Resources Catalog (textbooks, apps, podcasts, TV)
 
 ## Cross-Language Comparisons
 

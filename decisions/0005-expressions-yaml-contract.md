@@ -9,7 +9,7 @@
 ## 컨텍스트
 
 ADR-0003 는 vocabulary theme 파일(`### {word}` 머리글)에 한정된 YAML pipeline 계약을 정의했다.
-2026-07-29 batch 에서 1,259 vocabulary entries 가 생성되어 `Game/typing_language/raw/{lang}_words.md` 가
+2026-07-29 batch 에서 1,259 vocabulary entries 가 생성되어 `Game/lingotype/raw/{lang}_words.md` 가
 이 contract 를 안정적으로 소비하고 있다.
 
 같은 batch 에서 5개 언어의 표현(idiom·숙어·관용구) 페이지 일부(`wiki/{Lang}/expressions/{theme}.md`)에도
@@ -21,7 +21,7 @@ YAML Pipeline Form 섹션이 작성되었으나, **두 가지 일관성 결함**
 | (2) **적용 범위 불균형** | 5개 언어 × 21 expression theme = 105 파일 중 **4 파일/언어 = 20 파일만 YAML 보유 (19%)** | 85 파일은 machine-readable 형태 부재 → 표현 콘텐츠가 게임·flashcard 다운스트림으로 흐르지 못함 |
 
 `schema/expression.md` (tier-1: Literal Translation / Meaning / Usage Context / Examples 3+ / Cultural Background / Similar Expressions 2+ / Sources 1+) 가 human 본문 표준이지만,
-**downstream machine consumer (typing_language 게임, future SRS/Anki export, flashcard 앱)** 가
+**downstream machine consumer (lingotype 게임, future SRS/Anki export, flashcard 앱)** 가
 요구하는 최소 필드는 vocabulary 와 동일한 7 필드(id/display/input/meaning/level/category/source) 이다.
 
 ## 고려한 옵션
@@ -49,7 +49,7 @@ YAML Pipeline Form 섹션이 작성되었으나, **두 가지 일관성 결함**
 
 근거:
 1. ADR-0003 의 single source-of-truth 원칙 정렬 (theme 파일 안에 YAML)
-2. downstream consumer (typing_language 게임 등) 가 vocabulary / expression 구분 없이 단일 파서로 처리 가능
+2. downstream consumer (lingotype 게임 등) 가 vocabulary / expression 구분 없이 단일 파서로 처리 가능
 3. 기존 작성된 20 expression YAML 파일은 ID 형식만 마이그레이션하면 그대로 호환
 
 ## 사용자 결정
@@ -121,7 +121,7 @@ YAML Pipeline Form 섹션이 작성되었으나, **두 가지 일관성 결함**
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Generated for downstream consumers (`Game/lingotype/raw/{lang}_words.md`).
 > Schema reference: ADR-0005 + `wiki/pipeline-to-game.md`.
 > The body above remains the human-readable form and is the source of truth.
 
@@ -160,7 +160,7 @@ PILOT 의 검증 통과 후 ROLLOUT 진행.
 - `Language/schema/AGENTS.md` L155-200 (Expression 페이지 형식) — `## Pipeline Form` 섹션 예시 추가 (PILOT 후)
 - `Language/tools/generate_yaml_pipeline.py` — `--content-type` 추가
 - `Language/wiki/pipeline-to-game.md` L29 — expressions 항목 machine-readable contract 명시 (PILOT 후)
-- `Game/typing_language/raw/{lang}_expressions.md` — 신규 (typing_language 측 ROLLOUT 후)
+- `Game/lingotype/raw/{lang}_expressions.md` — 신규 (lingotype 측 ROLLOUT 후)
 - `Language/log.md` — 2026-08-14 batch entries
 
 ## 관련 결정

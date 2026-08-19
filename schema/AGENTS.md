@@ -130,7 +130,7 @@ Location: `wiki/{Language}/vocabulary/{theme}.md` (theme-file convention)
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Generated for downstream consumers (`Game/lingotype/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 
@@ -141,7 +141,7 @@ Location: `wiki/{Language}/vocabulary/{theme}.md` (theme-file convention)
 ```
 ```
 
-게임 측 컨슈머(`Game/typing_language/`)는 위 YAML 부록의 각 entry를 그대로 가져가면 된다. `source: [[{theme-filename}]]` 한 줄이 5필드(display/input/meaning/level/category)와 함께 그 entry가 어느 page에서 왔는지 식별한다.
+게임 측 컨슈머(`Game/lingotype/`)는 위 YAML 부록의 각 entry를 그대로 가져가면 된다. `source: [[{theme-filename}]]` 한 줄이 5필드(display/input/meaning/level/category)와 함께 그 entry가 어느 page에서 왔는지 식별한다.
 
 ### Expression Pages
 
@@ -389,7 +389,7 @@ Since this wiki covers five languages (English, Spanish, Japanese, Korean, Chine
 
 | 다운스트림 | 위치 | 소비 형태 |
 | --- | --- | --- |
-| `typing_language` 게임 | `Game/typing_language/` | `wiki/{Language}/vocabulary/` 를 게임 코퍼스(`raw/{lang}_words.md`)의 `source` 인용 형태로 큐레이션 |
+| `lingotype` 게임 | `Game/lingotype/` | `wiki/{Language}/vocabulary/` 를 게임 코퍼스(`raw/{lang}_words.md`)의 `source` 인용 형태로 큐레이션 |
 
 ### 규칙
 

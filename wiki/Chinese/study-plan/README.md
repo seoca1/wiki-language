@@ -20,7 +20,7 @@ When the Chinese plan is eventually authored, follow the same shape as the other
 
 ## Open decisions (Chinese-specific)
 
-- **Input method**: pinyin input (병음) / zhuyin (注音符號, 대만) / direct hanzi (한자 직입력) — affects how the typing game `Game/typing_language/` should treat Chinese keystrokes
+- **Input method**: pinyin input (병음) / zhuyin (注音符號, 대만) / direct hanzi (한자 직입력) — affects how the typing game `Game/lingotype/` should treat Chinese keystrokes
 - **Script focus**: Simplified (大陆) vs Traditional (繁體, 台灣/홍콩) — these diverge significantly in vocabulary, characters, and grammar
 - **Tone pedagogy**: tone-pair drills (声调组合) are a Chinese-specific axis that no other language in the vault needs
 - **Measure words (量词)**: a Chinese-specific grammar axis that the 4-week rotation should reserve a slot for

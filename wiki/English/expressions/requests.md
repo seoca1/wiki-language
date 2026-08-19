@@ -337,7 +337,7 @@ This phrase acknowledges the listener's time as a resource. It implies "If you'r
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_expressions.md`).
+> Generated for downstream consumers (`Game/lingotype/raw/{lang}_expressions.md`).
 > Schema: ADR-0005 — `## {expression}` (H2/H3) → 7 required fields + optional literal/register.
 > The body above remains the human-readable form and is the source of truth.
 

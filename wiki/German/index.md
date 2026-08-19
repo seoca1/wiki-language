@@ -26,8 +26,8 @@ created: 2026-08-14
 
 ## Cross-references
 
-- 게임 다운스트림: `Game/typing_language/prototype/src/data/corpus.ts` — `DE_WORDS` / `DE_SENTENCES` 가 본 위키 theme-file들을 인용.
-- 입력 방식: `Game/typing_language/wiki/languages/german.md` (game-side).
+- 게임 다운스트림: `Game/lingotype/prototype/src/data/corpus.ts` — `DE_WORDS` / `DE_SENTENCES` 가 본 위키 theme-file들을 인용.
+- 입력 방식: `Game/lingotype/wiki/languages/german.md` (game-side).
 
 ## 독일어 입력 특이 사항
 

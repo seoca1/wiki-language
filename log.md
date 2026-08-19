@@ -4460,3 +4460,113 @@ EN/ES/JP/ZH expressions Pipeline Form YAML 생성 + 4×4=16 ID 마이그레이�
 - ADR-0003 (vocabulary YAML contract)
 - `tools/generate_yaml_pipeline.py` (Chinese 확장)
 - `tools/symmetry_check.py` (--report 갱신)
+
+## [2026-08-19] governance | ADR-0006 comparative multilingual + ADR-0007 FR/DE scaffolded + Track C1/G1 tooling
+
+**Status**: 🟡 In progress (tracks C1, G1, B2 complete; tracks A1, A2, B1 phases 1-3 in progress)
+
+### Track B2 — ADR-0007 French/German scaffolded (Option 2 Document)
+- 신규 ADR: `decisions/0007-french-german-scaffolded-state.md` (Accepted)
+- ADR count: 5 → 6
+- 갱신: `decisions/README.md` (인덱스 + 영향 그래프 + future-candidates resolved markers)
+- 갱신: `decisions/0002-5-language-parallel-structure.md` §강제되는 결정 + §변경 이력 (French/German scaffolded-only 명시)
+- 신규: `wiki/French/README.md` + `wiki/German/README.md` (scaffolded 상태 + promote 절차)
+- 갱신: `tools/symmetry_check.py` §Resolution Status (ADR-0007 cross-reference)
+
+### Track C1 — ADR staleness automation
+- `tools/symmetry_check.py` 에 3개 신규 detector 추가:
+  - `detect_adr_age_staleness` — 180일 이상 Accepted ADR 경고
+  - `detect_adr_referenced_paths` — ADR 내 backtick-quoted path 가 존재하지 않으면 경고 (다중 root 시도)
+  - `detect_resolved_candidates` — future-candidates 항목이 다른 ADR body 에 등장 시 알림
+- 갱신: `tools/README.md` Track F 섹션 추가
+
+### Track G1 — Reverse pipeline detector (NEW tool)
+- 신규: `tools/reverse_pipeline.py` — Game corpus 의 `source: \[ [theme-stem] ]` 인용이 Language wiki 에 존재하는지 검증
+- 결과: 3,092 Game corpus entries, 35 unique sources, **0 missing** (Game corpus ↔ Language wiki 정합성 100%)
+- 갱신: `tools/README.md` Track G 섹션 추가
+- 보고서: `wiki/_inventory/reverse-pipeline-citation-report.md`
+
+### Cross-references
+- workspace log.md 에 cross-project entry 추가 예정 (이 세션 종료 시)
+- 63 commits ahead of origin (push 대기)
+
+
+## [2026-08-19~20] mega-session | Tracks A1/A2/B1/C1/D1 + B2/ADR-0006/0007
+
+**Status**: ✅ 완료 — 6개 트랙 (A1 Chinese grammar 6→11, A2 study-plan parity, B1 comparative/ 다국어 mirror 232 files, B2 French/German ADR, C1 ADR staleness tooling, D1 reverse pipeline detector) + 2 신규 ADR (ADR-0006 multilingual translation, ADR-0007 French/German scaffolded)
+
+### 1. Track A1 — Chinese grammar expansion 6→11 (5 신규 files)
+- 신규: `wiki/Chinese/grammar/chinese-conjunctions.md` (HSK 2-4)
+- 신규: `wiki/Chinese/grammar/chinese-shi-de-emphasis.md` (HSK 4-5)
+- 신규: `wiki/Chinese/grammar/chinese-topic-comment.md` (HSK 4-5)
+- 신규: `wiki/Chinese/grammar/chinese-resultative-complements.md` (HSK 4-5)
+- 신규: `wiki/Chinese/grammar/chinese-reduplication.md` (HSK 2-4)
+- 갱신: `wiki/Chinese/index.md` §Grammar (6 → 11 entries)
+- validate_schema.py: 11 files CLEAN
+
+### 2. Track A2 — study-plan parity (4 langs × 2 files = 8 신규 files)
+- 신규 × 4 langs: `weekly-plan.md` + `recursos-{en,jp,kr,zh}.md`
+- 갱신: 4 langs 의 index.md
+- symmetry delta: ES=4 vs others=1 → ES=4 vs others=3 (delta 3 → delta 1, below alert threshold)
+
+### 3. Track B1 — comparative/ 다국어 mirror (ADR-0006, 232 mirror files)
+- Phase 1 (pilot): `greetings.{es,ja,ko,zh}.md` × 4 = 4 files
+- Phase 2 (round 1, 4 parallel deep agents): 28 langs × 4 = 112 files
+- Phase 3 (round 2, 4 parallel deep agents + manual fill): 29 langs × 4 + manual fixes = 116 files
+- Total mirror files: 232 (58 per lang × 4 langs)
+- Footer policy: ```
+Original (English): [[topic]] | Espejos/関連/相关: [[topic.ko]] · [[topic.ja]] · [[topic.zh]]
+```
+- Bare-stem wikilinks enforced (path-prefixed `[[../Spanish/...]]` stripped via regex post-process)
+- Final cleanup: removed 14 speculative wikilinks (k-pop-glossary, hanja-vocabulary, etc.) pointing to non-existent wiki pages
+- audit_vault.py: 0 production issues (228 orphans = mirror files awaiting index update per ADR-0006 §Index Updates)
+
+### 4. Track B2 — ADR-0007 French/German scaffolded (Option 2 Document)
+- 신규: `decisions/0007-french-german-scaffolded-state.md` (Accepted)
+- ADR count: 5 → 6
+- 갱신: `decisions/README.md` (인덱스 + 영향 그래프 + future-candidates resolved markers)
+- 갱신: `decisions/0002-5-language-parallel-structure.md` (French/German scaffolded-only 명시)
+- 신규: `wiki/French/README.md` + `wiki/German/README.md` (scaffolded 상태 + promote 절차)
+- 갱신: `tools/symmetry_check.py` §Resolution Status (ADR-0007 cross-reference)
+
+### 5. Track C1 — ADR staleness automation (Track F)
+- `tools/symmetry_check.py` 에 3개 신규 detector 추가:
+  - `detect_adr_age_staleness` — 180일 이상 Accepted ADR 경고
+  - `detect_adr_referenced_paths` — ADR 내 backtick-quoted path 가 존재하지 않으면 경고
+  - `detect_resolved_candidates` — future-candidates 항목이 다른 ADR body 에 등장 시 알림
+- 갱신: `tools/README.md` Track F 섹션 추가
+- 갱신: `wiki/_inventory/cross-language-symmetry-report.md` (3개 신규 finding: ADR-0001 / 0003 / 0004 + 1 candidate resolved)
+
+### 6. Track D1 — Reverse pipeline detector (NEW tool Track G)
+- 신규: `tools/reverse_pipeline.py` — Game corpus 의 `source: \[ [theme-stem] ]` 인용이 Language wiki 에 존재하는지 검증
+- 결과 (baseline): 0 missing — Game corpus ↔ Language wiki 정합성 100%
+- 갱신: `tools/README.md` Track G 섹션 추가
+- 보고서: `wiki/_inventory/reverse-pipeline-citation-report.md`
+
+### 7. ADR-0006 — comparative/ multilingual translation policy
+- 신규: `decisions/0006-comparative-multilingual-translation.md` (Accepted)
+- ADR count: 6 → 7
+- 갱신: `decisions/README.md` (인�스 + 영향 그래프 + future-candidates resolved markers)
+
+### 8. Final Validation (2026-08-20)
+- `audit_vault.py`: ✅ CLEAN (0 production issues, 228 mirror orphans expected per ADR-0006)
+- `validate_schema.py`: ✅ CLEAN (960 files, 0 violations)
+- `symmetry_check.py`: 7 alerts (FR/DE 0% YAML — intentional per ADR-0007) + 7 warns (ADR staleness findings) + 2 info
+- `reverse_pipeline.py`: ✅ CLEAN (0 missing citations)
+- `audit_downstream.py`: Game raw dir 경로 해결 이슈 (별도 workdir 필요)
+
+### 9. 통계
+- Language wiki: ~3110 → ~3360 markdown files (+250)
+- comparative/ mirror files: 0 → 232
+- 신규 ADR: 2 (ADR-0006, ADR-0007)
+- ADR count: 5 → 7
+- Chinese grammar: 6 → 11
+- study-plan files per lang: 1 → 3 (4 langs)
+- Cross-project 영향: 0 (raw/ 무수정, Game corpus 무수정)
+- 665 files changed total
+- Push 상태: ahead-of-origin 상태 유지 (workspace AGENTS.md §6 commit without explicit request = Never)
+
+### 10. Cross-references
+- workspace log.md 에 cross-project entry 추가 (이 세션 종료 시)
+- `NEXT_SESSION_TODO.md` 갱신 — push 상태만 갱신, B1 작업은 완료됨
+

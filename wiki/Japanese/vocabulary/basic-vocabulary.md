@@ -9,7 +9,7 @@ level: "A1-B1"
 
 # Basic Vocabulary — Japanese (基本語彙)
 
-> **Aggregator 페이지**: 이 페이지는 `Game/typing_language/raw/jp_words.md` 코퍼스의 `source: [[basic-vocabulary]]` 인용을 resolve하기 위해 생성됨 (2026-07-30). JP corpus 548 entries (전체의 92.7%) 가 이 theme-file을 인용함.
+> **Aggregator 페이지**: 이 페이지는 `Game/lingotype/raw/jp_words.md` 코퍼스의 `source: [[basic-vocabulary]]` 인용을 resolve하기 위해 생성됨 (2026-07-30). JP corpus 548 entries (전체의 92.7%) 가 이 theme-file을 인용함.
 
 ## 카테고리 분포
 
@@ -95,14 +95,14 @@ JP 는 2026-07-10 테마 파일 컨벤션 (per-word .md 금지) 적용 시점에
 
 ## Sources
 
-- `Game/typing_language/raw/jp_words.md` (548 entries)
+- `Game/lingotype/raw/jp_words.md` (548 entries)
 - `Language/wiki/Japanese/vocabulary/numbers-vocabulary.md` (cross-reference for detailed number forms)
 - `Language/wiki/Japanese/vocabulary/colors-vocabulary.md` (cross-reference for color vocabulary)
 - `Language/wiki/Japanese/kanji-n5.md` (cross-reference for kanji_n5 entries)
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Generated for downstream consumers (`Game/lingotype/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 

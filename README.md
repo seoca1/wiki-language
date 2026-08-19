@@ -127,11 +127,11 @@ Each page has **cross-references back to per-language wikis** via `[[wiki/{Langu
 
 | 다운스트림 | 위치 | 소비 형태 |
 | --- | --- | --- |
-| `typing_language` 게임 | `../Game/typing_language/` | `wiki/{Lang}/vocabulary/` 를 게임 코퍼스(`raw/{lang}_words.md`)의 `source: [[wikilink]]` 인용 형태로 큐레이션 |
+| `lingotype` 게임 | `../Game/lingotype/` | `wiki/{Lang}/vocabulary/` 를 게임 코퍼스(`raw/{lang}_words.md`)의 `source: [[wikilink]]` 인용 형태로 큐레이션 |
 
 게임 측에서 신규 콘텐츠를 요청했을 때 Language 위키에 없으면, **Language에 먼저 출처를 추가하고 인제스트한 후** 게임으로 반영한다. Language 위키는 게임 없이도 독립적으로 성장한다.
 
-자세한 파이프라인: `wiki/pipeline-to-game.md`, 게임 측: `../Game/typing_language/wiki/corpus-pipeline.md`
+자세한 파이프라인: `wiki/pipeline-to-game.md`, 게임 측: `../Game/lingotype/wiki/corpus-pipeline.md`
 
 ---
 

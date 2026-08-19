@@ -13,6 +13,7 @@
 |------|-----------|-------|
 | [[politeness-honorifics]] | EN / ES / JP / KR / CH | Speech levels, honorifics, register, pronouns |
 | [[greetings]] | EN / ES / JP / KR / CH | Greeting rituals, time-based, status-based, contact |
+| Multilingual mirrors (ADR-0006, 2026-08-19) | ES · JP · KR · ZH | Per-language narrative + learner notes. See [[greetings.es]], [[greetings.ja]], [[greetings.ko]], [[greetings.zh]] |
 | [[numbers-counters]] | EN / ES / JP / KR / CH | Cardinal/ordinal, counters/classifiers, large numbers |
 | [[pronouns-reference]] | EN / ES / JP / KR / CH | Personal, demonstrative, interrogative, zero-pronoun |
 | [[negation]] | EN / ES / JP / KR / CH | Negation particles, double negation, scope |
@@ -109,7 +110,7 @@
 ## Navigation
 
 - **Per-language wikis**: [[../English/index]] · [[../Spanish/index]] · [[../Japanese/index]] · [[../Korean/index]] · [[../Chinese/index]]
-- **Pipeline**: [[../pipeline-to-game]] — downstream consumers (typing_language game)
+- **Pipeline**: [[../pipeline-to-game]] — downstream consumers (lingotype game)
 - **Log**: [[log]] — this directory's activity log (separate from per-language logs)
 - **Status**: [[FINAL_STATUS]] — final completion status report
 

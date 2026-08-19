@@ -33,7 +33,7 @@ This directory contains **24 cross-language comparison pages** organized into 6 
 
 - **Per-language wikis**: `../English/`, `../Spanish/`, `../Japanese/`, `../Korean/`, `../Chinese/`
 - **Source schema**: `../../schema/AGENTS.md`
-- **Downstream consumers**: `../pipeline-to-game.md` (typing_language game)
+- **Downstream consumers**: `../pipeline-to-game.md` (lingotype game)
 - **Vault root**: `../../AGENTS.md`
 
 ## Cross-Project Notes

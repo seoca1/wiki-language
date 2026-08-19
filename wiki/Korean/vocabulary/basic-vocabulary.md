@@ -9,7 +9,7 @@ level: "A1-B1"
 
 # 기초 어휘 — Korean
 
-> **Aggregator 페이지**: `Game/typing_language/raw/kr_words.md` 코퍼스의 `source: [[basic-vocabulary]]` 인용을 resolve하기 위해 2026-07-30 생성됨. KR corpus 697 entries (전체의 54.8%) 가 이 theme-file을 인용함.
+> **Aggregator 페이지**: `Game/lingotype/raw/kr_words.md` 코퍼스의 `source: [[basic-vocabulary]]` 인용을 resolve하기 위해 2026-07-30 생성됨. KR corpus 697 entries (전체의 54.8%) 가 이 theme-file을 인용함.
 
 ## 카테고리 분포
 
@@ -128,7 +128,7 @@ level: "A1-B1"
 
 ## Sources
 
-- `Game/typing_language/raw/kr_words.md` (697 entries)
+- `Game/lingotype/raw/kr_words.md` (697 entries)
 - `Language/wiki/Korean/vocabulary/topik1-starter.md` (TOPIK 1 cross-reference)
 - `Language/wiki/Korean/vocabulary/greetings-vocabulary.md` (greetings cross-reference)
 - `Language/wiki/Korean/vocabulary/numbers-vocabulary.md` (numbers cross-reference)
@@ -136,7 +136,7 @@ level: "A1-B1"
 
 ## Pipeline Form (machine-readable)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`).
+> Generated for downstream consumers (`Game/lingotype/raw/{lang}_words.md`).
 > Schema reference: `wiki/pipeline-to-game.md` L33-39, L92.
 > The body above remains the human-readable form and is the source of truth.
 

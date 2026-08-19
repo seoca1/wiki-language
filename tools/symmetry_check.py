@@ -166,6 +166,161 @@ def detect_adrs_staleness() -> list[Asymmetry]:
     return out
 
 
+# ADR staleness v2 (2026-08-19 — Track C1 upgrade)
+
+ADR_FILE_RE = re.compile(r"^(?P<num>\d{4})-(?P<slug>[a-z0-9\-]+)\.md$")
+ADR_HEADER_RE = re.compile(r"^\*\*상태\*\*:\s*(?P<status>\S+)", re.MULTILINE)
+ADR_DATE_RE = re.compile(r"\*\*날짜\*\*:\s*(?P<date>[\d\-/\s\(\)~]+)")
+BACKTICK_PATH_RE = re.compile(r"`((?:[\w./\-]+\.[a-z]{1,5}))`")
+
+
+def _parse_adr_age_days(adr_text: str) -> Optional[int]:
+    """Extract effective date from ADR markdown; return age in days from today."""
+    m = ADR_DATE_RE.search(adr_text)
+    if not m:
+        return None
+    raw = m.group("date")
+    iso = re.search(r"(\d{4})-(\d{2})-(\d{2})", raw)
+    if not iso:
+        return None
+    try:
+        y, mo, d = int(iso.group(1)), int(iso.group(2)), int(iso.group(3))
+        adr_date = date(y, mo, d)
+        return (date.today() - adr_date).days
+    except ValueError:
+        return None
+
+
+def detect_adr_age_staleness(stale_days: int = 180) -> list[Asymmetry]:
+    """Warn when Accepted ADRs have not been touched in > stale_days."""
+    out = []
+    if not DECISIONS_DIR.exists():
+        return out
+    for path in sorted(DECISIONS_DIR.glob("*.md")):
+        if path.name == "README.md":
+            continue
+        m_adr = ADR_FILE_RE.match(path.name)
+        if not m_adr:
+            continue
+        try:
+            text = path.read_text(encoding="utf-8")
+        except Exception:
+            continue
+        status_m = ADR_HEADER_RE.search(text)
+        if not status_m:
+            continue
+        status = status_m.group("status").strip()
+        if status.lower() != "accepted":
+            continue
+        age_days = _parse_adr_age_days(text)
+        if age_days is None:
+            continue
+        if age_days >= stale_days:
+            out.append(Asymmetry(
+                category="adr-staleness",
+                description=f"ADR-{m_adr.group('num')} ({m_adr.group('slug')}) Accepted {age_days}d ago — review for relevance",
+                languages_affected=[],
+                delta=age_days,
+                severity="warn",
+            ))
+    return out
+
+
+def detect_adr_referenced_paths() -> list[Asymmetry]:
+    """For each Accepted ADR, check if backtick-quoted file paths still exist.
+
+    Tries multiple resolution roots (workspace, Language/, parent) because ADRs
+    often include `Language/...` prefix even when written from Language/.
+    """
+    out = []
+    if not DECISIONS_DIR.exists():
+        return out
+    roots = [LANG_DIR, LANG_DIR.parent, LANG_DIR.parent.parent]
+    for path in sorted(DECISIONS_DIR.glob("*.md")):
+        if path.name == "README.md":
+            continue
+        m_adr = ADR_FILE_RE.match(path.name)
+        if not m_adr:
+            continue
+        try:
+            text = path.read_text(encoding="utf-8")
+        except Exception:
+            continue
+        status_m = ADR_HEADER_RE.search(text)
+        if not status_m:
+            continue
+        if status_m.group("status").strip().lower() != "accepted":
+            continue
+        for ref in BACKTICK_PATH_RE.finditer(text):
+            ref_path = ref.group(1)
+            if ref_path.startswith(("http://", "https://", "mailto:", "git@")):
+                continue
+            if "/" not in ref_path and "\\" not in ref_path:
+                continue
+            if ref_path.startswith("[[") or ref_path.endswith("]]"):
+                continue
+            if any(target.exists() for target in (root / ref_path for root in roots)):
+                continue
+            out.append(Asymmetry(
+                category="adr-staleness",
+                description=f"ADR-{m_adr.group('num')} references missing path: `{ref_path}`",
+                languages_affected=[],
+                delta=0,
+                severity="warn",
+            ))
+    return out
+
+
+def detect_resolved_candidates() -> list[Asymmetry]:
+    """Find future-candidates items that appear already resolved.
+
+    Heuristic: scan decisions/README.md future-candidates section for bullet
+    lines; if any backtick-token appears in another ADR body, mark as likely
+    resolved (promote to ADR or remove from candidates).
+    """
+    out = []
+    readme = DECISIONS_DIR / "README.md"
+    if not readme.exists():
+        return out
+    text = readme.read_text(encoding="utf-8")
+    in_candidates = False
+    candidate_lines: list[str] = []
+    for line in text.splitlines():
+        if "## 향후 결정 후보" in line or "## Future decision candidates" in line:
+            in_candidates = True
+            continue
+        if in_candidates and line.startswith("## "):
+            break
+        if in_candidates and line.startswith("- "):
+            candidate_lines.append(line)
+
+    adr_corpus: list[str] = []
+    for path in sorted(DECISIONS_DIR.glob("*.md")):
+        if path.name == "README.md":
+            continue
+        try:
+            adr_corpus.append(path.read_text(encoding="utf-8"))
+        except Exception:
+            pass
+
+    for line in candidate_lines:
+        tokens = re.findall(r"`([^`]+)`", line)
+        for tok in tokens:
+            if len(tok) < 5:
+                continue
+            for adr_text in adr_corpus:
+                if tok in adr_text and f"ADR-0000" not in line:
+                    out.append(Asymmetry(
+                        category="adr-staleness",
+                        description=f"Candidate `{tok}` appears resolved in ADR — promote or remove",
+                        languages_affected=[],
+                        delta=0,
+                        severity="info",
+                    ))
+                    break
+    return out
+
+
 def build_full_grid() -> dict[str, dict[str, LangDirStats]]:
     """Build the full stats grid."""
     grid: dict[str, dict[str, LangDirStats]] = {}
@@ -300,8 +455,18 @@ def format_markdown_report(
     lines.append("Symmetry gaps fall into 3 buckets:")
     lines.append("")
     lines.append("1. **Pilot-in-progress** (expected) — partial rollout already documented in `decisions/README.md`")
-    lines.append("2. **Known intentional** — French/German scaffolded-only by design (no raw sources ingested)")
+    lines.append("2. **Known intentional** — French/German scaffolded-only by design per **ADR-0007** (2026-08-19, Option 2 Document); raw/ = Phase 15/16 seed README only. YAML 0% is intentional. Promote via ADR-0008 when user provides raw.")
     lines.append("3. **Actionable** — needs follow-up session to close gap")
+    lines.append("")
+    lines.append("### ADR Staleness Findings")
+    lines.append("")
+    adr_findings = [a for a in asymmetries if a.category == "adr-staleness"]
+    if not adr_findings:
+        lines.append("✅ No ADR staleness detected.")
+    else:
+        for a in adr_findings:
+            icon = {"alert": "🔴", "warn": "🟡", "info": "🔵"}[a.severity]
+            lines.append(f"- {icon} {a.description}")
     lines.append("")
     lines.append("Run `python3 Language/tools/symmetry_check.py` after any batch to refresh this view.")
     lines.append("")
@@ -321,6 +486,9 @@ def main() -> int:
         detect_count_asymmetries(grid)
         + detect_yaml_coverage_gaps(grid)
         + detect_adrs_staleness()
+        + detect_adr_age_staleness()
+        + detect_adr_referenced_paths()
+        + detect_resolved_candidates()
     )
 
     if args.json:

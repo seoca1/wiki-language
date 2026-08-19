@@ -73,7 +73,7 @@ estimated-effort: 30-45 min
 
 > **소요 시간**: 5분
 > **선행 조건**: 없음
-> **영향**: 2개 repo 의 push 권한 (wiki-language + typing-language)
+> **영향**: 2개 repo 의 push 권한 (wiki-language + lingotype)
 
 ### 단계
 
@@ -95,7 +95,7 @@ estimated-effort: 30-45 min
    - **Expiration**: 90 days (또는 정책에 맞게)
    - **Repository access**: Only select repositories
      - `seoca1/wiki-language` ✓
-     - `seoca1/typing-language` ✓
+     - `seoca1/lingotype` ✓
    - **Permissions**:
      - Contents: Read and write (push 위해)
      - Metadata: Read-only (자동 부여)
@@ -150,10 +150,10 @@ git push --force-with-lease origin main
 #### 3.2 Game repo curation push
 
 ```bash
-cd /Users/emilio/projects/Projects/Game/typing_language
+cd /Users/emilio/projects/Projects/Game/lingotype
 
 # 1. 새 PAT 로 remote URL 갱신
-git remote set-url origin https://<NEW_PAT>@github.com/seoca1/typing-language.git
+git remote set-url origin https://<NEW_PAT>@github.com/seoca1/lingotype.git
 
 # 2. Game curation commit push
 git push origin main
@@ -169,8 +169,8 @@ cd /Users/emilio/projects/Projects/Language
 git remote set-url origin https://github.com/seoca1/wiki-language.git
 
 # Game
-cd /Users/emilio/projects/Projects/Game/typing_language
-git remote set-url origin https://github.com/seoca1/typing-language.git
+cd /Users/emilio/projects/Projects/Game/lingotype
+git remote set-url origin https://github.com/seoca1/lingotype.git
 
 # 검증
 git remote -v  # 둘 다 https://github.com/... 형태여야 함 (token 없음)
@@ -180,8 +180,8 @@ git remote -v  # 둘 다 https://github.com/... 형태여야 함 (token 없음)
 
 - GitHub 웹에서 `seoca1/wiki-language` → commits 탭 → 최신 commit 이
   `c6e1c2c docs(Language/Spanish): log entry — basic-vocabulary theme...` 인지 확인
-- GitHub 웹에서 `seoca1/typing-language` → 최신 commit 이
-  `7d78707 curate(Game/typing_language): raw/ EN+ES basic-vocab...` 인지 확인
+- GitHub 웹에서 `seoca1/lingotype` → 최신 commit 이
+  `7d78707 curate(Game/lingotype): raw/ EN+ES basic-vocab...` 인지 확인
 
 ---
 
@@ -321,7 +321,7 @@ cd /Users/emilio/projects/Projects/Language/_publish/scripts
 - [ ] 기존 (노출된) Notion integration 비활성화/삭제
 - [ ] GitHub 에서 기존 PAT 폐기 완료
 - [ ] GitHub 에서 새 PAT 생성 + 저장
-- [ ] 새 PAT 에서 wiki-language + typing-language 두 repo 권한 부여
+- [ ] 새 PAT 에서 wiki-language + lingotype 두 repo 권한 부여
 - [ ] Language repo force-push 성공
 - [ ] Game repo curation push 성공
 - [ ] 양 repo remote URL 에서 PAT 제거 확인 (`git remote -v`)

@@ -14,7 +14,7 @@ Language 위키는 2026-06~07 에 걸쳐 빠르게 확장되며 모든 단어·�
 - graph view 가 단어 단위로 fragmentation → Obsidian 백링크 패널이 거의 무용
 - 신규 vocabulary 추가 시 파일 단위 frontmatter / index 갱신 / log 기록 부담이 선형 증가
 
-같은 시기에 `Game/typing_language/raw/{lang}_words.md` 가 게임 코퍼스를 위해 vocabulary 항목을 가져와야 하는데, per-word 페이지 형식이 YAML 머신러더블 export 와 충돌했다.
+같은 시기에 `Game/lingotype/raw/{lang}_words.md` 가 게임 코퍼스를 위해 vocabulary 항목을 가져와야 하는데, per-word 페이지 형식이 YAML 머신러더블 export 와 충돌했다.
 
 ## 고려한 옵션
 
@@ -116,7 +116,7 @@ Language 위키는 2026-06~07 에 걸쳐 빠르게 확장되며 모든 단어·�
 
 - ADR-0003 (Pipeline YAML contract) — theme-file 의 `### {word}` 가 YAML entry 의 source-of-truth
 - ADR-0004 (comparative wiki scope) — per-language theme 와 cross-language comparative 의 분리 원칙
-- `Game/typing_language/AGENTS.md` §1.5 — 게임 측 raw/ entry 가 source: `[[theme-stem]]` 으로 인용
+- `Game/lingotype/AGENTS.md` §1.5 — 게임 측 raw/ entry 가 source: `[[theme-stem]]` 으로 인용
 
 ## 변경 이력
 

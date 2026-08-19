@@ -162,9 +162,9 @@ The Chinese sources section absorbed lesson files from `.openclaw/workspace/wiki
 - [[chinese-family-zh]] — Chinese Family Source. 가족 문화, 孝道, 421 family.
 - [[chinese-food-culture-zh]] — Chinese Food Culture Source. 8대 菜系, 차 문화.
 
-## Grammar (6 entries; 4 added 2026-08-11)
+## Grammar (11 entries; 5 added 2026-08-19)
 
-The Chinese grammar section was initialized on 2026-07-13 with 2 entries absorbed from `.openclaw/workspace/wiki/chinese/grammar/`. Expanded on 2026-08-11 with 4 new entries to reach Spanish parity (6 grammar pages). Each page is HSK-graded beginner-to-intermediate level with detailed Korean learner notes (한국어 학습자 주의 / 한국 한자음 ≠ 중국 병음 warning), Spanish/Japanese/Korean cross-language comparison table, and 简/繁 notes.
+The Chinese grammar section was initialized on 2026-07-13 with 2 entries absorbed from `.openclaw/workspace/wiki/chinese/grammar/`. Expanded on 2026-08-11 with 4 new entries (6 grammar pages). **Expanded on 2026-08-19 with 5 new advanced grammar entries** (11 grammar pages) — covering high-value typological patterns: conjunctions (连词), 是...의 emphasis, topic-comment structure, resultative complements, and reduplication. Each page is HSK-graded beginner-to-advanced with detailed Korean learner notes (한국어 학습자 주의 / 한국 한자음 ≠ 중국 병음 warning), 4-language cross-language comparison table, and 简/繁 notes.
 
 - [[basic-particles]] — 기본 조사 (的/了/在/有) — 소유격/완료/위치/소유 4종 + 한국어 비교 + 5단계 학습법 + 실전 회화 (HSK 1-2)
 - [[word-order]] — 어순 (Word Order, 语序) — SVO 구조 + 한국어 SOV 와의 차이 + 20 흔한 어순 패턴 + 의문문/부정 (HSK 1-2)
@@ -172,13 +172,18 @@ The Chinese grammar section was initialized on 2026-07-13 with 2 entries absorbe
 - [[chinese-modal-verbs]] — 情态动词 能/会/可以/要 — 능력/기술/허가/의지 + 8개 예문 + 한중일서 비교 (HSK 1-3)
 - [[chinese-measure-words]] — 量词 个/位/只/条/张/本/件 — 분류사 시스템 + 两 vs 二 + 通用量词 (HSK 1-3)
 - [[chinese-ba-sentence]] — 把字句 — 处置式 구문 + 결과보어 필수 + SVO 대비 + 8개 예문 (HSK 3-4)
+- [[chinese-conjunctions]] — 접속사 (连词) — 병렬/대조/인과/조건/양보 5대 계열 + 한국어 어미 vs 중국어 독립 단어 차이 (HSK 2-4) ✨ NEW 2026-08-19
+- [[chinese-shi-de-emphasis]] — 是...의 강조 구문 — 시간/장소/방식/대상 강조 + 了 와 비교 (HSK 4-5) ✨ NEW 2026-08-19
+- [[chinese-topic-comment]] — 화제-평설 구문 (话题-评述) — typological feature + 吧/啊/呢 조사 + 이중 화제 + 都/也/还 (HSK 4-5) ✨ NEW 2026-08-19
+- [[chinese-resultative-complements]] — 결과 보어 (结果补语) — 결과/방향/가능/정도 4종 + 得/不 가능 보어 + 看 vs 看见 (HSK 4-5) ✨ NEW 2026-08-19
+- [[chinese-reduplication]] — 중첩 (重叠) — AA 형용사/VV 동사/AABB + 시간 명사 반복 + 한국어 ~하게/살짝 차이 (HSK 2-4) ✨ NEW 2026-08-19
 
 ## Conventions
 
 This wiki follows the same conventions as the other Language wikis:
 
 - **Theme-file convention**: vocabulary and expressions live as theme files (e.g. `food-vocabulary.md`), with per-word / per-expression sections inside. No single-word or single-sentence `.md` files.
-- **Pipeline Form YAML**: every vocabulary page carries the game-pipeline YAML appendix (5 fields: `display` / `input` / `meaning` / `level` / `category` + `source`) so the typing game at `Game/typing_language/` can ingest via theme-anchor citations.
+- **Pipeline Form YAML**: every vocabulary page carries the game-pipeline YAML appendix (5 fields: `display` / `input` / `meaning` / `level` / `category` + `source`) so the typing game at `Game/lingotype/` can ingest via theme-anchor citations.
 - **Wikilinks**: Obsidian stem matching; cross-references should use `[[wikilink]]` form.
 - **raw/ is read-only**: the `raw/Chinese/` directory is owned by upstream sources. This wiki writes only to `wiki/Chinese/`.
 - **log.md**: every change appends a `## [YYYY-MM-DD] {kind} | {summary}` entry to `log.md` for parseability.
@@ -224,6 +229,8 @@ This wiki follows the same conventions as the other Language wikis:
 
 ### Study Plan (added 1)
 - [[study-plan/README]] — Chinese study-plan placeholder — meets AGENTS.md 7-subdirectory requirement
+- [[study-plan/weekly-plan]] — Chinese Weekly Study Plan (level-bracketed 4-week rotation)
+- [[study-plan/recursos-zh]] — Chinese Learning Resources Catalog (textbooks, apps, podcasts, TV)
 
 ## Cross-Language Comparisons
 

@@ -581,7 +581,7 @@ En *Como agua para chocolate*, las cebollas son el catalizador de la magia culin
 
 ## 파이프라인 형태 (기계 판독 가능)
 
-> Generated for downstream consumers (`Game/typing_language/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
+> Generated for downstream consumers (`Game/lingotype/raw/{lang}_words.md`, `.openclaw/workspace/wiki/{lang}/_exposure_log.md`).
 > Schema reference: `wiki/pipeline-to-game.md`, `wiki/pipeline-to-openclaw.md`.
 > The body above remains the human-readable form and is the source of truth.
 

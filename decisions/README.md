@@ -24,6 +24,8 @@
 | 0003 | [Pipeline YAML contract — downstream consumer machine-readable 인터페이스](0003-pipeline-yaml-contract.md) | **Accepted** | 2026-07-29 (effective) / 2026-08-08 (ADR 형식화) | P1 |
 | 0004 | [comparative/ 위키 스코프 — cross-language 비교 페이지 통합 정책](0004-comparative-wiki-scope.md) | **Accepted** | 2026-07-19 (effective) / 2026-08-08 (ADR 형식화) | P2 |
 | 0005 | [Expressions YAML contract — `## {expression}` 머리글 machine-readable 인터페이스](0005-expressions-yaml-contract.md) | **Accepted** | 2026-08-14 (effective) | P1 |
+| 0006 | [comparative/ 다국어 parallel translation policy — EN→ES/JP/KR/ZH 번역 contract](0006-comparative-multilingual-translation.md) | **Accepted** | 2026-08-19 (effective) | P2 |
+| 0007 | [French/German scaffolded state — promote / document / sunset 결정](0007-french-german-scaffolded-state.md) | **Accepted** | 2026-08-19 (effective) | P2 |
 
 ---
 
@@ -32,10 +34,12 @@
 | 결정 | 영향 받는 영역 | 강제 사항 |
 | --- | --- | --- |
 | 0001 (Theme-file) | 모든 vocabulary/expressions 신규 파일 | per-word 별도 페이지 금지, theme 파일에 `### {word}` / `## {expression}` 섹션 |
-| 0002 (5언어 병렬) | 5개 per-language wiki layout | 동일 디렉토리 layout + Chinese raw 예외 (Option A) |
+| 0002 (5언어 병렬) | 5개 per-language wiki layout + French/German scaffolded-only 예외 | 동일 디렉토리 layout + Chinese raw 예외 (Option A) + French/German 의도적 비-main |
 | 0003 (Pipeline YAML) | 모든 vocabulary theme 파일 | `## Pipeline Form` YAML 섹션 + 7필드 (id/display/input/meaning/level/category/source) |
 | 0004 (comparative) | cross-language 페이지 추가 | comparative/ 단일 위치 + per-language 양방향 reference |
 | 0005 (Expressions YAML) | 모든 expression theme 파일 | `## Pipeline Form` YAML 섹션 + ADR-0003 동일 7필드 + 옵션 (literal, register), ID `{lang}_{theme}_{NNN}` |
+| 0006 (comparative multilingual) | comparative/ 의 다국어 mirror 페이지 | `wiki/comparative/{topic}.{lang}.md` 구조 + ADR-0004 정렬 + 데이터 테이블 보존 |
+| 0007 (FR/DE scaffolded) | French/German wiki 유지 정책 | raw 부재 시 scaffolded-only 유지 + 사용자 raw 제공 시 promote (ADR-0008) |
 
 ### 핵심 invariant (모든 ADR 합집합)
 1. **단일 진실 공급원 (Single Source of Truth)**: wiki 가 raw 보다 우선, theme-file 의 human 본문이 machine-readable YAML 보다 우선
@@ -57,10 +61,11 @@
 
 - `schema/vocabulary.md` vs 별도 `decisions/vocabulary-schema.md` 분리 필요 여부 (현재 schema/ 보조 파일 유지)
 - Chinese raw 정책 전환 (Option B = .openclaw/ 추출, Option C = placeholder) 검토
-- comparative/ 페이지 다국어 parallel 번역 (현재 영어만)
 - study-plan parity: ES=4 files, EN/JP/KR/ZH=1 each — 신규 작성 필요
-- French/German scaffolded 상태 결정 (8 wiki files × 2 langs, raw/ = README only) — promote / document / sunset 결정 필요
 - ADR staleness 감시: 본 README 의 future-candidates 항목이 1-2달 내 obsolete 되는 패턴 방지 — `tools/symmetry_check.py` 에 ADR/README 검증 추가 검토
+- comparative/ 다국어 mirror 후속 — 기존 EN-only + .ko.md sibling 페이지 정책은 ADR-0006 pilot 후 재평가
+- **RESOLVED 2026-08-19 (ADR-0007)** French/German scaffolded 상태 — promote/document/sunset 결정 → Option 2 (Document) 채택
+- **RESOLVED 2026-08-19 (ADR-0006)** comparative/ 다국어 parallel translation — 5언어 mirror 정책 + ID scheme 결정
 
 ---
 

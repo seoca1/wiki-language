@@ -11,7 +11,7 @@ language: "Korean"
 
 # Basic Vocabulary (기본 어휘) - Korean Translation
 
-이 페이지는 `wiki/Japanese/vocabulary/basic-vocabulary.md` 의 한국어 번역/관점 페이지 입니다. 일본어 **aggregator (집계)** 페이지로서, `Game/typing_language/raw/jp_words.md` 코퍼스의 548개 entry (전체의 92.7%) 가 인용함. 본 페이지의 카테고리 구조는 **greetings / numbers / colors / food / animals / kanji_basic / body / family / time / nature / misc** 등 11개 분류.
+이 페이지는 `wiki/Japanese/vocabulary/basic-vocabulary.md` 의 한국어 번역/관점 페이지 입니다. 일본어 **aggregator (집계)** 페이지로서, `Game/lingotype/raw/jp_words.md` 코퍼스의 548개 entry (전체의 92.7%) 가 인용함. 본 페이지의 카테고리 구조는 **greetings / numbers / colors / food / animals / kanji_basic / body / family / time / nature / misc** 등 11개 분류.
 
 **Aggregator 특성**: 본 페이지는 게임 코퍼스 (`raw/jp_words.md`) 의 다수 entry 가 인용하는 중심 theme-file. 한국어 학습자가 해당 entry 의 의미를 빠르게 검색 가능하도록 한국어 번역·문화 노트 추가.
 
@@ -345,7 +345,7 @@ JLPT N5 한자 一二三四五六七八九十 + 人日月火水木金土山川 �
 
 > Aggregator 의 성격상, raw 코퍼스 entry (548) 의 한국어 meaning 인덱스 역할. Pipeline Form YAML 에 카테고리별 샘플 entry (greetings 6 + numbers 10 + colors 4 + food 15 + animals 8 + kanji_basic 70 + body 10 + family 15 + time 30 + nature 25) = 193 entries 만 인용. 나머지 355 entries 는 misc 카테고리.
 
-> 하류 소비자용으로 생성됨 (`Game/typing_language/raw/jp_words.md`).
+> 하류 소비자용으로 생성됨 (`Game/lingotype/raw/jp_words.md`).
 > 스키마 참조: `wiki/pipeline-to-game.md` L33-39, L92.
 > 위 본문이 사람이 읽을 수 있는 형태이며 진실의 원천임.
 

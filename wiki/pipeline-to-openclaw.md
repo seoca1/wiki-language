@@ -132,7 +132,7 @@ Language wiki 가 openclaw contract 보완 상태 (post-language-expansion):
 | Language | Files | YAML entries | Source |
 | --- | --- | --- | --- |
 | English | 9 | 111 | [Oxford 3000 + OEC] |
-| Spanish | 23 | 276 | [es_words.md](https://github.com/seoca1/typing-language) + comparative research |
+| Spanish | 23 | 276 | [es_words.md](https://github.com/seoca1/lingotype) + comparative research |
 | Japanese | 9 | 267 | [jp_words.md] + JLPT reference |
 | Korean | 13 | 549 | [kr_words.md] + TOPIK reference |
 | Chinese | 5 | 56 | [Chinese HSK 1-2 curriculum] |

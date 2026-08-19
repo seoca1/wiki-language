@@ -37,7 +37,7 @@ date_added: "2026-08-13"
 
 ## Game/Character Connection
 
-The typing_language companion character for Korean (`CharacterData.ts → CULTURAL_APPEARANCES`) wears hanbok as the cultural costume. Players see 한복 silhouette (고름 ribbon + chima + jeogori) during Korean stage progression. The 한복 색상 palette informs `EffectsSystem.ts` Korean accent colors (`['#ffb6c1', '#5b9bd5', '#ffd700']` = 분홍/파랑/금빛 obangsaek variation).
+The lingotype companion character for Korean (`CharacterData.ts → CULTURAL_APPEARANCES`) wears hanbok as the cultural costume. Players see 한복 silhouette (고름 ribbon + chima + jeogori) during Korean stage progression. The 한복 색상 palette informs `EffectsSystem.ts` Korean accent colors (`['#ffb6c1', '#5b9bd5', '#ffd700']` = 분홍/파랑/금빛 obangsaek variation).
 
 ## Sources
 

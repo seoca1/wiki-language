@@ -1,6 +1,6 @@
 # Cross-Language Symmetry Report
 
-**Generated**: 2026-08-15
+**Generated**: 2026-08-19
 **Tool**: `tools/symmetry_check.py`
 **Scope**: 5 main languages (EN/ES/JP/KR/ZH) + auxiliary (comparative, French, German)
 
@@ -61,17 +61,37 @@
 - **[expressions]** French/expressions: 0/1 files have Pipeline Form YAML (0%)
 - **[expressions]** German/expressions: 0/1 files have Pipeline Form YAML (0%)
 
-### 🟡 WARN (2)
+### 🟡 WARN (7)
 
 - **[culture]** culture: Korean=46 vs English=43 (delta=3)
 - **[study-plan]** study-plan: Spanish=4 vs English=1 (delta=3)
+- **[adr-staleness]** ADR-0001 references missing path: `_inventory/BROKEN_WIKILINKS_2026-07-11.md`
+- **[adr-staleness]** ADR-0001 references missing path: `_inventory/BROKEN_WIKILINKS_2026-07-11.md`
+- **[adr-staleness]** ADR-0003 references missing path: `tools/generate_yaml.py`
+- **[adr-staleness]** ADR-0004 references missing path: `wiki/Korean/comparative/politeness.md`
+- **[adr-staleness]** ADR-0004 references missing path: `wiki/Korean/comparative/politeness.md`
+
+### 🔵 INFO (2)
+
+- **[adr-staleness]** Candidate `schema/vocabulary.md` appears resolved in ADR — promote or remove
+- **[adr-staleness]** Candidate `tools/symmetry_check.py` appears resolved in ADR — promote or remove
 
 ## Resolution Status
 
 Symmetry gaps fall into 3 buckets:
 
 1. **Pilot-in-progress** (expected) — partial rollout already documented in `decisions/README.md`
-2. **Known intentional** — French/German scaffolded-only by design (no raw sources ingested)
+2. **Known intentional** — French/German scaffolded-only by design per **ADR-0007** (2026-08-19, Option 2 Document); raw/ = Phase 15/16 seed README only. YAML 0% is intentional. Promote via ADR-0008 when user provides raw.
 3. **Actionable** — needs follow-up session to close gap
+
+### ADR Staleness Findings
+
+- 🟡 ADR-0001 references missing path: `_inventory/BROKEN_WIKILINKS_2026-07-11.md`
+- 🟡 ADR-0001 references missing path: `_inventory/BROKEN_WIKILINKS_2026-07-11.md`
+- 🟡 ADR-0003 references missing path: `tools/generate_yaml.py`
+- 🟡 ADR-0004 references missing path: `wiki/Korean/comparative/politeness.md`
+- 🟡 ADR-0004 references missing path: `wiki/Korean/comparative/politeness.md`
+- 🔵 Candidate `schema/vocabulary.md` appears resolved in ADR — promote or remove
+- 🔵 Candidate `tools/symmetry_check.py` appears resolved in ADR — promote or remove
 
 Run `python3 Language/tools/symmetry_check.py` after any batch to refresh this view.
