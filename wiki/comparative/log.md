@@ -306,3 +306,20 @@ Final vault-wide wikilink audit: 860 files, 1743 wikilinks, 0 broken ✅
 - **`.openclaw/` reference confirmed external**: `/Users/emilio/.openclaw/workspace/`, populated by separate runtime. AGENTS.md reference is correct, not stale.
 - **Chinese wiki `raw/` absence is intentional**: Chinese is the 5th language (commit `b2a9b6b`), sourced from `.openclaw` consumer. Documented in `.omo/evidence/korean-ingest-2026-07-13/`.
 - **Vault-wide broken-link campaign**: 105 → 40 → 0 broken across two sessions (2026-07-25). See Fiction/wiki/log.md for full cleanup history.
+
+## [2026-08-20] 작업 | comparative/ index.md ADR-0006 §Index Updates — 232 mirror wikilinks 추가
+
+**Scope**: ADR-0006 §인덱스 갱신 형식에 맞춰 `wiki/comparative/index.md` 의 5개 테이블 (Core Linguistic / Situational / Cultural / Learning Strategy / Modern Contemporary) 을 mirror link 컬럼으로 재생성.
+
+**Changes**:
+- Header: `| Page | Languages | Focus |` → `| Page | EN | ES | JP | KR | ZH | Focus |`
+- Separator: `|---|---|---|` → `|---|---|---|---|---|---|---|`
+- Body rows: each stem wikilink followed by EN label + 4 mirror-file wikilinks (es/ja/ko/zh) + focus description (e.g., politeness-honorifics row links to stem, then .es/.ja/.ko/.zh mirrors)
+- 통계 갱신: 42 pages → 58 base pages × 4 langs = 290 total comparative files (232 mirror wikilinks, 100% coverage)
+- "Multilingual mirrors (ADR-0006)" pilot 행 제거 (이제 모든 행이 mirror 컬럼 보유)
+
+**Verification**:
+- `audit_vault.py`: ✅ CLEAN
+- `mixed_language_audit.py`: ✅ 0 violations
+- `validate_schema.py`: ✅ 960 files, 0 violations
+- `symmetry_check.py`: pre-existing 8 alerts (FR/DE/Chinese scaffolded per ADR-0007) + 7 warns (ADR-0001/0003/0004/0006 stale paths — already in deferred list)
