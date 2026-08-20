@@ -1,5 +1,7 @@
 # Spanish Learning - Activity Log
 
+## [2026-08-20] ingest | first-travel-spain | Spanish first travel experience
+
 ## [2026-08-08] ingest | Spanish Naturaleza Vocabulary (raw/Spanish/nature-vocabulary-es.md)
 
 - Updated `wiki/Spanish/vocabulary/nature-vocabulary.md` with 39 entries (was 28 stub entries with formatting issues)

@@ -131,3 +131,6 @@ Index.md updated (Culture: 2 → 4 entries)
 
 **Next phases**:
 - Phase 4.4 — Korean expressions expansion (8 files)
+
+## [2026-08-20] ingest | first-travel-korea | Japanese traveler's perspective on Korea
+

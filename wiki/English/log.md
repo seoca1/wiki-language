@@ -1,5 +1,7 @@
 # English Learning - Activity Log
 
+## [2026-08-20] ingest | first-travel-japan | Korean traveler's perspective on Japan
+
 ## [2026-08-08] ingest | English Nature Vocabulary (raw/English/nature-vocabulary.md)
 
 - Updated `wiki/English/vocabulary/nature-vocabulary.md` with 39 entries (was 2 stub entries)

@@ -306,3 +306,6 @@ Converting these to ### headings would destroy the side-by-side ko/jp comparison
 - Total files converted to ADR-0001: **17**
 
 Final coverage: **All 325 standalone vocabulary theme files across 5 languages now use ### {word} headings per ADR-0001.**
+
+## [2026-08-20] ingest | first-travel-japan | First Japan travel experience vocabulary
+
