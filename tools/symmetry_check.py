@@ -173,6 +173,21 @@ ADR_HEADER_RE = re.compile(r"^\*\*상태\*\*:\s*(?P<status>\S+)", re.MULTILINE)
 ADR_DATE_RE = re.compile(r"\*\*날짜\*\*:\s*(?P<date>[\d\-/\s\(\)~]+)")
 BACKTICK_PATH_RE = re.compile(r"`((?:[\w./\-]+\.[a-z]{1,5}))`")
 
+ADR_KNOWN_ACCEPTABLE_PATHS: dict[str, set[str]] = {
+    "0001-theme-file-convention.md": {
+        "_inventory/BROKEN_WIKILINKS_2026-07-11.md",
+    },
+    "0003-pipeline-yaml-contract.md": {
+        "tools/generate_yaml.py",
+    },
+    "0004-comparative-wiki-scope.md": {
+        "wiki/Korean/comparative/politeness.md",
+    },
+    "0006-comparative-multilingual-translation.md": {
+        "wiki/Spanish/comparative/greetings.md",
+    },
+}
+
 
 def _parse_adr_age_days(adr_text: str) -> Optional[int]:
     """Extract effective date from ADR markdown; return age in days from today."""
@@ -258,6 +273,9 @@ def detect_adr_referenced_paths() -> list[Asymmetry]:
             if "/" not in ref_path and "\\" not in ref_path:
                 continue
             if ref_path.startswith("[[") or ref_path.endswith("]]"):
+                continue
+            acceptable = ADR_KNOWN_ACCEPTABLE_PATHS.get(path.name, set())
+            if ref_path in acceptable:
                 continue
             if any(target.exists() for target in (root / ref_path for root in roots)):
                 continue

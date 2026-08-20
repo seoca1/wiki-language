@@ -4570,3 +4570,21 @@ Original (English): [[topic]] | Espejos/関連/相关: [[topic.ko]] · [[topic.j
 - workspace log.md 에 cross-project entry 추가 (이 세션 종료 시)
 - `NEXT_SESSION_TODO.md` 갱신 — push 상태만 갱신, B1 작업은 완료됨
 
+
+## [2026-08-20] 작업 | symmetry_check.py ADR-staleness false positive allowlist 추가
+
+**Scope**: `Language/tools/symmetry_check.py` 의 `detect_adr_referenced_paths()` 함수가 Accepted ADR 의 backtick-quoted path 중 4개 (6 occurrences) 를 stale 로 잘못 보고. Accepted ADR 은 immutable per workspace AGENTS.md §5 — 따라서 tool 측에 allowlist 추가 (ADR text 변경 아님).
+
+**Allowlist (4 paths)**:
+- `decisions/0001-theme-file-convention.md` → `_inventory/BROKEN_WIKILINKS_2026-07-11.md` (×2 occurrences) — historical reference, file intentionally deleted per ADR line 97
+- `decisions/0003-pipeline-yaml-contract.md` → `tools/generate_yaml.py` (×1) — typo in Option 4 description; correct path mentioned in line 149 of same ADR
+- `decisions/0004-comparative-wiki-scope.md` → `wiki/Korean/comparative/politeness.md` (×2) — hypothetical example in rejected Option 1/3 descriptions
+- `decisions/0006-comparative-multilingual-translation.md` → `wiki/Spanish/comparative/greetings.md` (×1) — hypothetical example in rejected Option 3 description
+
+**Implementation**: `ADR_KNOWN_ACCEPTABLE_PATHS: dict[str, set[str]]` 상수 추가 + `detect_adr_referenced_paths` 의 path resolution 직전 allowlist 체크 1줄 추가.
+
+**Validators**:
+- `symmetry_check.py`: WARN 7 → 1 (6 false positive ADR-staleness 제거). Pre-existing 1 culture count warn (Korean=46 vs English=43) + 2 INFO (resolved candidates) 유지.
+- `audit_vault.py`: ✅ CLEAN
+- `mixed_language_audit.py`: ✅ 0 violations
+- `validate_schema.py`: ✅ 960 files, 0 violations
