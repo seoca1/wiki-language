@@ -4588,3 +4588,27 @@ Original (English): [[topic]] | Espejos/関連/相关: [[topic.ko]] · [[topic.j
 - `audit_vault.py`: ✅ CLEAN
 - `mixed_language_audit.py`: ✅ 0 violations
 - `validate_schema.py`: ✅ 960 files, 0 violations
+
+## [2026-08-20] 작업 | Chinese raw 정책 Option B 채택 — `.openclaw/` canonical source
+
+**Scope**: 2 files. `Language/raw/Chinese/README.md` 전면 갱신 + `Language/decisions/README.md` future-candidates RESOLVED entry 추가.
+
+**Background**: 기존 README 는 "디렉토리 부재" 라고 잘못 기술 (실제 25+ files 존재). 2026-08-20 deferred review 에서 Chinese raw 정책 결정 필요 → 사용자 Option B 선택 (Recommended).
+
+**Option B 정책 (effective 2026-08-20)**:
+- **NEW Chinese content canonical source**: `.openclaw/workspace/wiki/chinese/` (per workspace §1 정의)
+- **`Language/raw/Chinese/`** 역할: historical content (25+ files, 2026-07-13 batch) 보존 + 직접 user-provided raw materials + OpenClaw 가 추출하지 못한 특수 source
+- **워크플로**: `[외부 source]` → OpenClaw runtime 자동 추출 → `.openclaw/workspace/wiki/chinese/` → OpenClaw pipeline mirror → `wiki/Chinese/`
+
+**변경 사항**:
+- `Language/raw/Chinese/README.md`: outdated "디렉토리 부재" 표현 제거 + Option B 정책 document + historical files inventory + OpenClaw canonical reference table + 변경 이력
+- `Language/decisions/README.md`: future-candidates section 에 "**RESOLVED 2026-08-20 Chinese raw 정책 — Option B 채택**" entry 추가
+- `workspace/NEXT_SESSION_TODO.md`: "Chinese raw 정책" → ✅ CLOSED 2026-08-20
+
+**ADR-0002 정렬**: 5언어 平行 구조 의 Chinese raw Option A exception 과 architectural consistency 유지. `Language/raw/Chinese/` 가 canonical 이 아닌 것은 ADR-0002 §invariant (3 컨슈머 분리) 와 정렬.
+
+**Validators**:
+- `audit_vault.py`: ✅ CLEAN
+- `mixed_language_audit.py`: ✅ 0 violations
+- `validate_schema.py`: ✅ 960 files
+- `symmetry_check.py`: 8 ALERTs (pre-existing) + 1 WARN (pre-existing) + 5 INFOs (3 new resolved candidates from `.openclaw/` path references in Chinese README — informational only)

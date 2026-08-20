@@ -66,6 +66,7 @@
 - comparative/ 다국어 mirror 후속 — 기존 EN-only + .ko.md sibling 페이지 정책은 ADR-0006 pilot 후 재평가
 - **RESOLVED 2026-08-19 (ADR-0007)** French/German scaffolded 상태 — promote/document/sunset 결정 → Option 2 (Document) 채택
 - **RESOLVED 2026-08-19 (ADR-0006)** comparative/ 다국어 parallel translation — 5언어 mirror 정책 + ID scheme 결정
+- **RESOLVED 2026-08-20** Chinese raw 정책 — Option B 채택 (`.openclaw/workspace/wiki/chinese/` 가 canonical source, `Language/raw/Chinese/` 는 historical/direct user-provided 한정). 자세한 사항: `Language/raw/Chinese/README.md` 갱신 + ADR-0002 의 Chinese raw Option A exception 과 정렬.
 
 ---
 

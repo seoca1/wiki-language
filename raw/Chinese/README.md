@@ -1,61 +1,67 @@
 # Language/raw/Chinese/ — README
 
-> **상태 (status)**: 디렉토리 부재 — Chinese wiki 는 raw source 없이 인제스트 됨.
+> **상태 (status)**: 25+ historical files + Option B policy (effective 2026-08-20)
+> **Canonical source for NEW Chinese content**: `.openclaw/workspace/wiki/chinese/`
+> **Policy decision**: `Language/decisions/README.md` §향후 결정 후보 — "RESOLVED 2026-08-20 (Option B)"
 
-## 배경
+## 배경 (Background)
 
-`Language/raw/{English,Spanish,Japanese,Korean}/` 4개 언어 raw 는 모두 source-of-truth 자료 (교재, 기사, 원서) 가 `.md` 파일로 보존되어 있다. 반면 **Chinese raw 는 디렉토리 자체가 부재** (0 files) 인데, Chinese wiki (`wiki/Chinese/`) 는 27개 파일 (sources 8 + vocabulary 5 + expressions 4 + culture 4 + grammar 1 + study-plan README) 로 이미 인제스트 완료된 상태다.
+`Language/raw/{English,Spanish,Japanese,Korean}/` 4개 언어 raw 는 모두 source-of-truth 자료 (교재, 기사, 원서) 가 `.md` 파일로 보존되어 있다. `Language/raw/Chinese/` 는 2026-07-13 batch ingest 시점에 다른 4개 언어와 다른 파이프라인으로 인제스트 되었다 — 일부 파일은 직접 작성, 일부는 OpenClaw 추출 mirror.
 
-## 워크플로 차이
+## Option B Policy (effective 2026-08-20)
 
-다른 4개 언어 raw 는 다음 흐름을 따른다:
+NEW Chinese content 의 canonical source 는 OpenClaw runtime 이다:
+
 ```
-[교재·기사·원서 source]  →  Language/raw/{Lang}/{topic}.md  →  wiki/{Lang}/...
+[외부 source (web article / HSK 교재 / lesson platform)]
+  ↓ OpenClaw runtime 자동 추출
+.openclaw/workspace/wiki/chinese/{culture,grammar,lessons,vocabulary}/
+  ↓ OpenClaw pipeline mirror
+wiki/Chinese/...
 ```
 
-Chinese 는 다른 워크플로로 인제스트 되었다:
-```
-[외부 upstream source (web article / lesson platform / 교재 직접 인용)]
-  ↓ 직접 인용 + 영어 summary 형태로 wiki/sources/{topic}-zh.md 작성
-  ↓ raw 단계 생략
-```
+`Language/raw/Chinese/` 의 역할:
+- **Historical content** 보존 (25+ files, 2026-07-13 batch)
+- **Direct user-provided raw materials** (예: 사용자가 직접 붙여넣은 HSK 교재 발췌, 여행 raw)
+- **OpenClaw 가 추출하지 못한 특수 source** (예: 비공개 lesson platform)
 
-즉, Chinese source-summary 페이지 (`wiki/Chinese/sources/{topic}-zh.md`) 들은 다음을 자체 보유한다:
-- `**Type:** lesson`
-- `**Date Added:** 2026-07-13`
-- `**Language Level:** beginner (HSK 1)`
-- 영문 summary + Key Takeaways
+`Language/raw/Chinese/` 가 canonical 이 **아닌** 이유:
+- workspace §1 의 "`.openclaw/workspace/wiki/ — Foreign Language Wiki 외부 작업공간 (OpenClaw 런타임, Language 위키 미러)" 정의에 따라 OpenClaw 가 canonical
+- 다른 4개 언어와 다른 governance (raw 직접 작성 vs OpenClaw 추출) 통일
+- 5언어 平行 구조 (ADR-0002) 의 architectural consistency
 
-raw 단계가 생략된 이유는 추정컨대:
-1. Chinese source material 은 주로 web article / HSK 교재 직접 발췌 — copyright 민감
-2. 2026-07-13 batch ingest 시 다른 4개 언어와 다른 파이프라인 사용 (lesson platform 기반)
-3. 출처 URL/원문이 `.openclaw/workspace/wiki/chinese/` 어딘가에 보관되었을 가능성
+## Historical content (25+ files, 2026-07-13 batch)
 
-## 향후 권고
+| File pattern | Count | Source type |
+|---|---:|---|
+| `*-zh.md` (body, food, family, ...) | 24 | 직접 작성 / lesson platform 발췌 |
+| `first-travel-china.md` | 1 | user-provided travel raw (76KB) |
+| `README.md` | 1 | 본 문서 |
 
-| 옵션 | 설명 | trade-off |
-|---|---|---|
-| A. 그대로 유지 | wiki 가 self-contained, source citation 명확 | raw 단계 audit 시 Chinese 만 빈 셀 |
-| B. `.openclaw/` 에서 raw 추출 | source-summary 의 upstream 원문/URL 채워서 `Language/raw/Chinese/{topic}.md` 신규 작성 | 시간/조사 비용 큼, 정확도 검증 필요 |
-| C. 최소 placeholder | 본 README 만 두고 source-summary 페이지에 "원본 보존 위치: .openclaw/..." 주석 추가 | 간단, traceability 확보 |
+각 파일의 source citation 은 `wiki/Chinese/sources/{topic}-zh.md` 의 frontmatter (`**Type:**`, `**Date Added:**`, `**Language Level:**`) 참조.
 
-현재 상태: **A** (그대로 유지). 추후 Chinese raw 보존 정책 결정 시 B 또는 C 채택.
+## OpenClaw canonical source reference
 
-## Source-summary 페이지 매핑
-
-| Wiki source page | 추청 source type |
+| File / directory | Purpose |
 |---|---|
-| `wiki/Chinese/sources/basic-particles-zh.md` | lesson (HSK 1 grammar) |
-| `wiki/Chinese/sources/chinese-family-zh.md` | culture/lesson |
-| `wiki/Chinese/sources/chinese-food-culture-zh.md` | culture/lesson |
-| `wiki/Chinese/sources/daily-routine-zh.md` | lesson (vocabulary) |
-| `wiki/Chinese/sources/greetings-zh.md` | lesson (HSK 1) |
-| `wiki/Chinese/sources/pinyin-basics-zh.md` | lesson (pronunciation) |
-| `wiki/Chinese/sources/tone-pairs-zh.md` | lesson (pronunciation) |
-| `wiki/Chinese/sources/word-order-zh.md` | lesson (grammar) |
+| `.openclaw/workspace/wiki/chinese/_Chinese_MOC.md` | Chinese MOC (Map of Content) |
+| `.openclaw/workspace/wiki/chinese/_exposure_log.md` | Daily exposure tracking |
+| `.openclaw/workspace/wiki/chinese/culture/` | Culture extraction target |
+| `.openclaw/workspace/wiki/chinese/grammar/` | Grammar extraction target |
+| `.openclaw/workspace/wiki/chinese/lessons/` | HSK lesson extraction target |
+| `.openclaw/workspace/wiki/chinese/vocabulary/` | Vocabulary extraction target |
 
-## 인용
+**Note**: `.openclaw/workspace/wiki/` 는 OpenClaw runtime mirror 이므로 AI 직접 수정 금지. 본 README 는 `.openclaw/` 가 canonical 임을 document 만 할 뿐, `.openclaw/` 자체에 변경을 가하지 않는다.
 
-- workspace `AGENTS.md` §2 ("raw/ - Immutable source materials organized by language") — Chinese 예외 케이스
-- `Language/schema/AGENTS.md` L9 ("raw/ - Immutable source materials organized by language") — 동일 규약
-- 2026-07-13 batch ingest 로그 (Chinese 예외 workflow)
+## See also
+
+- `.openclaw/workspace/wiki/chinese/_Chinese_MOC.md` — Chinese MOC
+- `wiki/Chinese/index.md` — Language wiki index
+- `Language/decisions/README.md` — Option B resolution entry
+- `Language/decisions/0002-5-language-parallel-structure.md` — 5언어 平行 구조 (Chinese raw Option A exception 과 정렬)
+- workspace `AGENTS.md` §1 — `.openclaw/workspace/wiki/` canonical 정의
+
+## 변경 이력
+
+- 2026-07-13: 디렉토리 초기 배치 (25+ files, batch ingest)
+- 2026-08-20: Option B policy effective — `.openclaw/` 가 canonical source 임을 document. 기존 "디렉토리 부재" 잘못된 표현 제거.
