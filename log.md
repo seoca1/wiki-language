@@ -4612,3 +4612,5 @@ Original (English): [[topic]] | Espejos/関連/相关: [[topic.ko]] · [[topic.j
 - `mixed_language_audit.py`: ✅ 0 violations
 - `validate_schema.py`: ✅ 960 files
 - `symmetry_check.py`: 8 ALERTs (pre-existing) + 1 WARN (pre-existing) + 5 INFOs (3 new resolved candidates from `.openclaw/` path references in Chinese README — informational only)
+
+[2026-08-20] Infrastructure | LLM monitoring optimization applied at workspace level (see Projects/log.md)
