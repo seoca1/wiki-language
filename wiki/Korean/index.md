@@ -139,6 +139,7 @@ Last updated: 2026-08-20
 - [[topik1-starter]]
 - [[travel-basics-kr]]
 - [[travel-basics]]
+- [[jp-travel-vocab]] - 일본 여행 어휘 43개 — 영어 학습자용 동일 본: `wiki/English/jp-travel-vocab.md`
 
 ---
 

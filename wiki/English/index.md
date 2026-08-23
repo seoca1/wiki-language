@@ -119,6 +119,7 @@ Last updated: 2026-08-20
 - [[travel-adventure]]
 - [[travel-basics]]
 - [[travel]]
+- [[jp-travel-vocab]] - 43 Japanese words for first travel — Korean sibling: `wiki/Korean/jp-travel-vocab.md`
 - [[work-and-career]]
 
 ---
