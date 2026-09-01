@@ -140,22 +140,35 @@ The Chinese sources section absorbed lesson files from `.openclaw/workspace/wiki
 - [[greetings-zh]] — Greetings and Self-Introduction (Greetings_Chinese.md). HSK 1 beginner. 20 greetings + 是 (shì) self-intro pattern.
 - [[daily-routine-zh]] — Daily Routine in Chinese (Daily_Routine_Chinese.md). HSK 1-2 beginner. Time + verb pattern + 17 routine verbs.
 
-### Vocabulary Sources (13 new)
+### Vocabulary Sources (26 new)
 
-- [[numbers-zh]] — Chinese Numbers Vocabulary (16 entries: 1-10, large units, compound numbers, special rules). HSK 1-2.
-- [[colors-zh]] — Chinese Colors Vocabulary (11 entries: basic colors). HSK 1-2.
-- [[family-zh]] — Chinese Family Vocabulary (23 entries: immediate family, siblings, grandparents, relatives, children, spouse terms). HSK 1-2.
-- [[body-zh]] — Chinese Body Parts Vocabulary (23 entries: 머리/얼굴, 상체, 하체). HSK 1-2.
-- [[time-zh]] — Chinese Time Vocabulary (시간 단위, 날짜/요일, 시간 표현, 빈도/반복). HSK 1-2.
-- [[weather-zh]] — Chinese Weather Vocabulary (기본 날씨, 기온/온도, 계절, 강수/강설, 바람/대기, 날씨 예보, 기상 경보). HSK 1-2.
-- [[education-zh]] — Chinese Education Vocabulary (학교/교육기관, 학년/학기, 수업/과목, 교실/시설, 인물, 학습 동사/표현, 성적/평가). HSK 2-3.
-- [[transportation-zh]] — Chinese Transportation Vocabulary (교통수단, 장소/시설, 동작/표현, 길찾기/방향, 교통 관련 질문/표현). HSK 1-2.
-- [[directions-zh]] — Chinese Directions Vocabulary (기본 방향, 상대적 위치, 방향 동작, 위치 전치사, 거리/범위, 길찾기 표현, 이동/이동수단 방향). HSK 1-2.
-- [[weekdays-zh]] — Chinese Weekdays Vocabulary (기본 요일, 요일 관련 표현, 주/주말 관련 어휘, 요일 약어, 문화적 배경). HSK 1.
-- [[months-zh]] — Chinese Months Vocabulary (12개월, 월 관련 표현, 계절과 월, 음력/양력, 월별 별칭). HSK 1.
-- [[health-zh]] — Chinese Health Vocabulary (병원/의료기관, 의료진, 증상/질병, 신체 부위, 의료 동작/처치, 약/처방, 의료 표현/문장, 문화적 배경). HSK 2-3.
-
-### Culture & Grammar Sources (4)
+- [[adventure-vocabulary-zh]] — Adventure & Outdoor Vocabulary (HSK 3-5)
+- [[animals-vocabulary-zh]] — Animals Vocabulary (HSK 3-5)
+- [[basic-vocabulary-zh]] — Basic Vocabulary (HSK 1-2)
+- [[body-zh]] — Body Parts Vocabulary (HSK 1-2)
+- [[business-email-zh]] — Business Email Templates (HSK 4-6)
+- [[career-vocabulary-zh]] — Career Vocabulary (HSK 3-5)
+- [[clothing-vocabulary-zh]] — Clothing Vocabulary (HSK 3-5)
+- [[daily-life-basics-zh]] — Daily Life Basics (HSK 1-2)
+- [[dating-romance-zh]] — Dating & Romance (HSK 3-5)
+- [[emotions-personality-vocabulary-zh]] — Emotions & Personality (HSK 3-5)
+- [[first-travel-china-zh]] — First Trip to China Guide (HSK 3-5)
+- [[first-travel-japan-zh]] — First Trip to Japan (HSK 3-5)
+- [[first-travel-korea-zh]] — First Trip to Korea (HSK 3-5)
+- [[first-travel-spain-zh]] — First Trip to Spain (HSK 3-5)
+- [[food-and-dining-zh]] — Food & Dining Vocabulary (HSK 3-5)
+- [[food-vocabulary-zh]] — Food Vocabulary (HSK 3-5)
+- [[health-and-body-zh]] — Health & Body Vocabulary (HSK 3-5)
+- [[holidays-and-celebrations-zh]] — Holidays & Celebrations (HSK 3-5)
+- [[literature-passages-zh]] — Literature Passages (HSK 5-6)
+- [[movie-quotes-zh]] — Movie Quotes (HSK 3-5)
+- [[nature-vocabulary-zh]] — Nature Vocabulary (HSK 3-5)
+- [[shopping-and-money-zh]] — Shopping & Money (HSK 3-5)
+- [[sports-and-hobbies-zh]] — Sports & Hobbies (HSK 3-5)
+- [[technology-and-internet-zh]] — Technology & Internet (HSK 2-3)
+- [[tense-aspect-en-zh]] — Tense-Aspect Reference (HSK 2-3)
+- [[travel-adventure-zh]] — Travel & Adventure (HSK 2-4)
+- [[work-and-career-zh]] — Work & Career (HSK 3-5)### Culture & Grammar Sources (4)
 
 - [[basic-particles-zh]] — Basic Particles (的/了/在/有). HSK 1-2. 소유격/완료/위치/소유 4종 + 한국어 비교.
 - [[word-order-zh]] — Word Order (语序). HSK 1-2. SVO 구조 + 한국어 SOV 와의 차이.
