@@ -4614,3 +4614,31 @@ Original (English): [[topic]] | Espejos/関連/相关: [[topic.ko]] · [[topic.j
 - `symmetry_check.py`: 8 ALERTs (pre-existing) + 1 WARN (pre-existing) + 5 INFOs (3 new resolved candidates from `.openclaw/` path references in Chinese README — informational only)
 
 [2026-08-20] Infrastructure | LLM monitoring optimization applied at workspace level (see Projects/log.md)
+
+## [2026-08-31] ingest | 4 English grammar/travel sources + 1 grammar page update
+
+**Status**: ✅ 완료
+
+### 작업
+
+1. **articles-en.md** (영어 관사 레퍼런스) — a/an/the/zero 종합, 한국어 학습자 실수 패턴, 교차언어 비교 포함
+2. **dating-romance.md** (연애/데이트 표현) — 8 카테고리(소개/칭찬/관심/데이트신청/데이트중/애정진전/위로/거절), CEFR B1-B2, 영화 대사 포함
+3. **first-travel-japan.md** (한국인 첫 일본 여행 실전 회화) — 4일 일정(공항/호텔/식당/길찾기/관광), 일본 문화 매너, 한자 활용 팁
+4. **tense-aspect-en.md** (영어 시제-상 12 형태 종합) — 시제×상 12개 형태, 한국어 학습자 주의점(완료vs단순, will vs be going to, 정적동사), 결정표 포함
+
+### 생성/수정 파일
+
+| 파일 | 종류 | 상태 |
+|------|------|------|
+| `wiki/English/sources/articles-en.md` | 신규 | ✅ 생성 |
+| `wiki/English/sources/dating-romance.md` | 기존 | ✅ 존재 |
+| `wiki/English/sources/first-travel-japan.md` | 기존 | ✅ 갱신 (확장) |
+| `wiki/English/sources/tense-aspect-en.md` | 신규 | ✅ 생성 |
+| `wiki/English/grammar/articles-en.md` | 기존 | ✅ 기존 유지 (교차언어 비교 추가됨) |
+| `wiki/English/index.md` | 수정 | ✅ Sources 22→26 (4개 추가) |
+
+### 검증
+
+- `audit_vault.py`: ✅ CLEAN
+- `mixed_language_audit.py`: ✅ 0 violations
+- `validate_schema.py`: ✅ CLEAN

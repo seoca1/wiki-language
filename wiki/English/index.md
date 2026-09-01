@@ -97,9 +97,10 @@ Last updated: 2026-08-20
 - [[travel-basics]] - "Where is the airport?" — 가장 흔한 방향 문의.
 - [[travel-expressions]] - "I'd like to make a reservation" — booking flights/hotels/restaurants.
 
-## Sources (21 processed)
+## Sources (26 processed)
 
 - [[animals-vocabulary]]
+- [[articles-en]]
 - [[business-vocabulary]]
 - [[clothing-vocabulary]]
 - [[daily-life-basics]]
@@ -116,6 +117,7 @@ Last updated: 2026-08-20
 - [[shopping-and-money]]
 - [[sports-and-hobbies]]
 - [[technology-and-internet]]
+- [[tense-aspect-en]]
 - [[travel-adventure]]
 - [[travel-basics]]
 - [[travel]]
