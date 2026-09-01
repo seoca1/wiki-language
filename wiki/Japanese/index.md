@@ -104,7 +104,7 @@ Last updated: 2026-08-20
 - [[travel-basics]] - "Airport" — 공항.
 - [[travel-expressions]] - "I'd like to make a reservation" — booking flights/hotels/restaurants.
 
-## Sources (22 processed)
+## Sources (24 processed)
 
 - [[2026-07-13_Kanji_N5_100]]
 - [[animals-vocabulary-jp]]
@@ -122,12 +122,14 @@ Last updated: 2026-08-20
 - [[holidays-and-celebrations]]
 - [[literature-passages]]
 - [[nature-vocabulary-jp]]
+- [[particles-jp]]
 - [[shopping-and-money]]
 - [[sports-and-hobbies]]
 - [[technology-and-internet]]
 - [[travel-adventure]]
 - [[travel-basics-jp]]
 - [[travel-basics]]
+- [[verb-forms-jp]]
 
 ---
 
