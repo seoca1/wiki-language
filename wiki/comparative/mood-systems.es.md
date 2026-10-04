@@ -80,7 +80,7 @@ Los idiomas codifican de manera diferente el **modo gramatical** (la actitud del
 - [[subjuntivo-conversacional]] — subjuntivo en conversación
 - [[gustar-verb-grammar]] — construcción invertida en español
 - [[tense-aspect-systems]] — tiempo y aspecto (sistema compañero)
-- [[particles-jp]] — partículas finales japonesas (よ, ね, よね)
+- [[Language/wiki/Japanese/grammar/particles-jp]] — partículas finales japonesas (よ, ね, よね)
 - [[speech-levels-ko]] — niveles de habla coreanos (해요체/합쇼체)
 - [[basic-particles]] — partículas chinas y adverbios modales
 
@@ -98,14 +98,14 @@ Los idiomas codifican de manera diferente el **modo gramatical** (la actitud del
 - `[[subjuntivo-conversacional]]` — subjuntivo en conversación
 - `[[gustar-verb-grammar]]` — construcción invertida en español
 - `[[tense-aspect-systems]]` — tiempo y aspecto (sistema compañero)
-- `[[particles-jp]]` — partículas japonesas
+- `[[Language/wiki/Japanese/grammar/particles-jp]]` — partículas japonesas
 
 ## Fuentes
 
 - `[[subjuntivo-conversacional]]` — subjuntivo en conversación
 - `[[gustar-verb-grammar]]` — construcción invertida en español
 - `[[tense-aspect-systems]]` — tiempo y aspecto
-- `[[particles-jp]]` — partículas finales japonesas
+- `[[Language/wiki/Japanese/grammar/particles-jp]]` — partículas finales japonesas
 - `[[speech-levels-ko]]` — niveles de habla coreanos
 - `[[basic-particles]]` — partículas chinas y adverbios modales
 

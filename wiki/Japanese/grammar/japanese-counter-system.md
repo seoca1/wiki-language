@@ -159,5 +159,5 @@
 
 - [[jp-counters]] — 48-entry counter reference (covers 個/人/本/枚/匹/台/階/冊/杯 + 30+ more).
 - [[numbers-vocabulary]] — 1-10 native readings (訓読み) for non-counter contexts.
-- [[particles-jp]] — counters attach to particles を/が/で/と.
+- [[Language/wiki/Japanese/grammar/particles-jp]] — counters attach to particles を/が/で/と.
 - [[kanji-n5]] — JLPT N5 kanji includes 個/本/枚/台/階.

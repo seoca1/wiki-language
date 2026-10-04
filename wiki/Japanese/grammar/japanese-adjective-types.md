@@ -155,7 +155,7 @@
 
 ## Sources
 
-- [[particles-jp]], [[verb-forms-jp]], apply い/な adjectives with particles and verb forms.
+- [[Language/wiki/Japanese/grammar/particles-jp]], [[verb-forms-jp]], apply い/な adjectives with particles and verb forms.
 - [[emotions-personality-vocabulary]], emotion adjectives (嬉しい/悲しい = い) vs 好き/嫌い = な.
 - [[japanese-communication-keigo]], keigo prefix お + い형용사 stem (お忙しい etc.).
 - [[food-vocabulary]], food adjectives 美味しい/甘い/辛い (い) vs 好き/嫌い (な).

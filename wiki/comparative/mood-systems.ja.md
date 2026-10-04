@@ -158,7 +158,7 @@
 - `[[subjuntivo-conversacional]]` — スペイン語接続法の会話用法
 - `[[gustar-verb-grammar]]` — スペイン語倒置構文
 - `[[tense-aspect-systems]]` — tense-aspect 比較
-- `[[particles-jp]]` — 日本語終助詞
+- `[[Language/wiki/Japanese/grammar/particles-jp]]` — 日本語終助詞
 - `[[speech-levels-ko]]` — 韓国語敬語体系
 - `[[basic-particles]]` — 中国語助詞と様相副詞
 

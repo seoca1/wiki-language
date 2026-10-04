@@ -102,6 +102,6 @@ Languages differ in how they encode **tense** (when an event occurs) and **aspec
 - [[subjuntivo-conversacional]] — Spanish mood system
 - [[mood-systems]] — Indicative vs. subjunctive comparison
 - [[verb-conjugation-patterns]] — Spanish verb patterns
-- [[particles-jp]] — Japanese aspect particles
+- [[Language/wiki/Japanese/grammar/particles-jp]] — Japanese aspect particles
 - [[particles-ko]] — Korean aspect particles
 - [[basic-particles]] — Chinese aspect particles (了, 过, 在)

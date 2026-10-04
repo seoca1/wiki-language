@@ -13,7 +13,7 @@ A1-B1 文法 + CEFR/JLPT 進行用.
 - **Tobira (中級)**: N3-N2 bridge.
 - **Shin Kanzen Master**: JLPT 対策 (N1-N3 各レベル).
 
-Related wiki themes: [[basic-vocabulary]], [[particles-jp]], [[verb-forms-jp]]
+Related wiki themes: [[basic-vocabulary]], [[Language/wiki/Japanese/grammar/particles-jp]], [[verb-forms-jp]]
 
 ## 2. アプリ
 
@@ -36,7 +36,7 @@ Related wiki themes: [[daily-life-vocabulary]], [[japanese-te-form-usage]], [[jp
 - **NHK News Web Easy**: 易しい日本語で書かれたニュース. 入門〜中級.
 - **Maggie Sensei**: 日本語 学習者 ブログ. 文法 tips 豊富.
 
-Related wiki themes: [[particles-jp]], [[japanese-conditional-forms]], [[japanese-counter-system]]
+Related wiki themes: [[Language/wiki/Japanese/grammar/particles-jp]], [[japanese-conditional-forms]], [[japanese-counter-system]]
 
 ## 4. YouTube チャンネル
 

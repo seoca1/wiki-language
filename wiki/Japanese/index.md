@@ -122,7 +122,7 @@ Last updated: 2026-08-20
 - [[holidays-and-celebrations]]
 - [[literature-passages]]
 - [[nature-vocabulary-jp]]
-- [[particles-jp]]
+- [[Language/wiki/Japanese/grammar/particles-jp]]
 - [[shopping-and-money]]
 - [[sports-and-hobbies]]
 - [[technology-and-internet]]

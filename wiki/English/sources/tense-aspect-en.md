@@ -3,8 +3,8 @@
 **Source:** Cambridge Grammar of English + Murphy's English Grammar in Use (synthesized reference)  
 **Type:** 문법 레퍼런스 (grammar reference)  
 **Theme:** 시제 (tense) + 상 (aspect) / 시제-상 체계  
-**Level:** A2-B1 / CEFR  
-**Date Ingested:** 2026-08-31  
+**Language Level:** A2-B1 / CEFR  
+**Date Added:** 2026-08-31  
 
 ---
 
@@ -165,5 +165,5 @@
 ## Linked Wiki Pages
 
 - **Grammar:** [[english-conditionals]], [[english-modal-verbs]], [[english-passive-voice]], [[english-prepositions]], [[tense-aspect-en]]
-- **Vocabulary:** [[verbs-stative]], [[verbs-dynamic]] (to be created)
-- **Cross-language:** Compare with [[spanish/grammar/tenses]], [[japanese/grammar/aspects]]
+- **Vocabulary:** [[verbs-stative]], [[verbs-dynamic]]
+- **Cross-language:** Compare with [[Language/wiki/Spanish/grammar/tiempos-verbales]], [[Language/wiki/Japanese/grammar/aspects]]

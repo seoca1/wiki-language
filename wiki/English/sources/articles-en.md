@@ -3,7 +3,7 @@
 **Type:** grammar reference / 문법 레퍼런스  
 **Source Material:** Murphy's English Grammar in Use (Unit 70-80) + Cambridge Grammar of English (synthesized reference)  
 **Theme:** 관사 (articles) — a/an/the/zero  
-**Level:** A1-A2 / CEFR  
+**Language Level:** A1-A2 / CEFR  
 **Date Added:** 2026-08-31  
 
 ---
@@ -69,4 +69,4 @@
 - **Grammar:** [[articles-en]] — main grammar page
 - **Vocabulary:** [[food-vocabulary]], [[animals-vocabulary]], [[travel-basics]] — apply articles in context
 - **Expressions:** [[emotions-personality-vocabulary]] — abstract nouns (zero article)
-- **Cross-language:** Compare with [[spanish/grammar/articles]], [[japanese/grammar/particles]]
+- **Cross-language:** Compare with [[Language/wiki/Spanish/grammar/articulos]], [[Language/wiki/Japanese/grammar/particles-jp]]

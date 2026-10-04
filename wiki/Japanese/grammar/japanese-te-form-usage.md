@@ -197,6 +197,6 @@ See [[verb-forms-jp]] for the full Group 1/2/Irregular conjugation tables. Key s
 ## Sources
 
 - [[verb-forms-jp]] — base verb conjugation tables for Group 1/2/Irregular + て형 derivation chart.
-- [[particles-jp]] — で (location) + て형 verb sequence.
+- [[Language/wiki/Japanese/grammar/particles-jp]] — で (location) + て형 verb sequence.
 - [[requests]], [[complaints]] — request patterns using ていただけますか / てください.
 - [[japanese-communication-keigo]] — keigo forms of て형 (ていただけます / て差し上げます).

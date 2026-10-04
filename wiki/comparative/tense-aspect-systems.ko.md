@@ -123,7 +123,7 @@
 ### 관련 한국어 위키 페이지
 
 - [[mood-systems]] — 법 시스템 (시제 동반)
-- [[particles-jp]] — 일본어 상 조사
+- [[Language/wiki/Japanese/grammar/particles-jp]] — 일본어 상 조사
 - [[particles-ko]] — 한국어 상 조사
 - [[basic-particles]] — 중국어 상 조사 (了, 过, 在)
 - [[tense-aspect-systems]] — 시제-상 동반
@@ -135,7 +135,7 @@
 - `[[subjuntivo-conversacional]]` — 스페인어 가정법
 - `[[mood-systems]]` — 직설법 vs 가정법 비교
 - `[[verb-conjugation-patterns]]` — 스페인어 동사 패턴
-- `[[particles-jp]]` — 일본어 상 조사
+- `[[Language/wiki/Japanese/grammar/particles-jp]]` — 일본어 상 조사
 - `[[particles-ko]]` — 한국어 상 조사
 - `[[basic-particles]]` — 중국어 상 조사 (了, 过, 在)
 

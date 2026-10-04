@@ -108,7 +108,7 @@
 - [[subjuntivo-conversacional]] — 西班牙语气系统
 - [[mood-systems]] — 陈述 vs 虚拟对比
 - [[verb-conjugation-patterns]] — 西班牙语动词模式
-- [[particles-jp]] — 日语体助词
+- [[Language/wiki/Japanese/grammar/particles-jp]] — 日语体助词
 - [[particles-ko]] — 韩语体助词
 - [[basic-particles]] — 中文体助词 (了, 过, 在)
 
@@ -117,7 +117,7 @@
 - [[subjuntivo-conversacional]] — 西班牙语 mood 系统
 - [[mood-systems]] — 陈述 vs 虚拟对比
 - [[verb-conjugation-patterns]] — 西班牙语动词模式
-- [[particles-jp]] — 日语体助词
+- [[Language/wiki/Japanese/grammar/particles-jp]] — 日语体助词
 - [[particles-ko]] — 韩语体助词
 - [[basic-particles]] — 中文体助词 (了, 过, 在)
 

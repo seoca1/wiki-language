@@ -106,5 +106,5 @@
 ## Sources
 
 - Plan philosophy: `wiki/Spanish/study-plan/weekly-plan.md` (precedent)
-- Grammar pages: [[japanese-te-form-usage]], [[japanese-conditional-forms]], [[particles-jp]], [[verb-forms-jp]], [[japanese-adjective-types]], [[japanese-counter-system]]
+- Grammar pages: [[japanese-te-form-usage]], [[japanese-conditional-forms]], [[Language/wiki/Japanese/grammar/particles-jp]], [[verb-forms-jp]], [[japanese-adjective-types]], [[japanese-counter-system]]
 - See also: [[recursos-jp]] (resource catalog)

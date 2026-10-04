@@ -28,6 +28,7 @@ This wiki uses the LLM Wiki pattern to build a persistent, compounding knowledge
      - `culture/` - Cultural context and usage notes
      - `sources/` - Summaries of processed materials
      - `study-plan/` - Personal study plans, weekly rotations, output workflows
+     - `_inventory/` - **Non-canonical**: one-off audit/report outputs from `tools/symmetry_check.py` / `reverse_pipeline.py`. Not part of the ingest → wiki → schema flow; safe to ignore for cross-language queries. Do not cite or treat as content pages.
 
 3. **schema/** - This file and other configuration documents
 

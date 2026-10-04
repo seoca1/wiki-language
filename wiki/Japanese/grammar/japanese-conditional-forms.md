@@ -221,7 +221,7 @@
 ## Sources
 
 - [[verb-forms-jp]] — verb conjugation base for all 4 conditionals (ば형, た형, 辞書형).
-- [[particles-jp]] — と as particle (and/with) differs from conditional と. Context determines meaning.
+- [[Language/wiki/Japanese/grammar/particles-jp]] — と as particle (and/with) differs from conditional と. Context determines meaning.
 - [[verb-forms-jp]] — て-form section + た-form source for たら.
 - [[japanese-communication-keigo]] — keigo forms of conditional (でしたら/ございますなら).
 - [[travel-basics]], [[business-basics]] — practical conditional usage in travel/business scenarios.

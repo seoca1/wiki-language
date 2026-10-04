@@ -83,7 +83,7 @@ Los idiomas codifican de manera diferente el **tiempo gramatical** (cuándo ocur
 - [[subjuntivo-conversacional]] — sistema de modo en español
 - [[mood-systems]] — indicativo vs. subjuntivo en 5 idiomas
 - [[verb-conjugation-patterns]] — patrones de conjugación en español
-- [[particles-jp]] — partículas aspectuales japonesas
+- [[Language/wiki/Japanese/grammar/particles-jp]] — partículas aspectuales japonesas
 - [[particles-ko]] — partículas aspectuales coreanas
 - [[basic-particles]] — partículas básicas en chino
 
@@ -101,14 +101,14 @@ Los idiomas codifican de manera diferente el **tiempo gramatical** (cuándo ocur
 - `[[mood-systems]]` — Comparación de modos (indicativo/subjuntivo)
 - `[[subjuntivo-conversacional]]` — Subjuntivo en conversación
 - `[[verb-conjugation-patterns]]` — Patrones verbales en español
-- `[[particles-jp]]` — Partículas aspectuales japonesas
+- `[[Language/wiki/Japanese/grammar/particles-jp]]` — Partículas aspectuales japonesas
 
 ## Fuentes
 
 - `[[subjuntivo-conversacional]]` — sistema de modo en español
 - `[[mood-systems]]` — comparativa indicativo/subjuntivo
 - `[[verb-conjugation-patterns]]` — patrones de conjugación
-- `[[particles-jp]]` — partículas aspectuales japonesas
+- `[[Language/wiki/Japanese/grammar/particles-jp]]` — partículas aspectuales japonesas
 - `[[particles-ko]]` — partículas aspectuales coreanas
 - `[[basic-particles]]` — partículas chinas (了, 过, 在)
 

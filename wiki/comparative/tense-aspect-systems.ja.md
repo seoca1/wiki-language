@@ -116,7 +116,7 @@
 - `[[subjuntivo-conversacional]]` — スペイン語接続法
 - `[[mood-systems]]` — 法 (mood) 比較
 - `[[verb-conjugation-patterns]]` — スペイン語動詞パターン
-- `[[particles-jp]]` — 日本語相助詞
+- `[[Language/wiki/Japanese/grammar/particles-jp]]` — 日本語相助詞
 - `[[particles-ko]]` — 韓国語相助詞
 - `[[basic-particles]]` — 中国語相助詞 (了, 过, 在)
 

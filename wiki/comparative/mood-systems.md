@@ -94,6 +94,6 @@ Languages differ in how they encode **mood** (the speaker's attitude toward the 
 - [[subjuntivo-conversacional]] — Spanish subjunctive in conversation
 - [[gustar-verb-grammar]] — Spanish inverted-verb construction
 - [[tense-aspect-systems]] — Tense-aspect companion comparison
-- [[particles-jp]] — Japanese sentence-final particles
+- [[Language/wiki/Japanese/grammar/particles-jp]] — Japanese sentence-final particles
 - [[speech-levels-ko]] — Korean speech levels (honorific system)
 - [[basic-particles]] — Chinese particles and modal adverbs

@@ -102,7 +102,7 @@
 - [[subjuntivo-conversacional]] — 西班牙语会话虚拟式
 - [[gustar-verb-grammar]] — 西班牙语动词反转结构
 - [[tense-aspect-systems]] — 时态-体对比
-- [[particles-jp]] — 日语句尾助词
+- [[Language/wiki/Japanese/grammar/particles-jp]] — 日语句尾助词
 - [[speech-levels-ko]] — 韩语语阶 (敬语系统)
 - [[basic-particles]] — 中文助词与模态副词
 
@@ -111,7 +111,7 @@
 - [[subjuntivo-conversacional]] — 西班牙语会话虚拟式
 - [[gustar-verb-grammar]] — 西班牙语动词反转结构
 - [[tense-aspect-systems]] — 时态-体对比
-- [[particles-jp]] — 日语句尾助词
+- [[Language/wiki/Japanese/grammar/particles-jp]] — 日语句尾助词
 - [[speech-levels-ko]] — 韩语语阶 (敬语系统)
 - [[basic-particles]] — 中文助词与模态副词
 

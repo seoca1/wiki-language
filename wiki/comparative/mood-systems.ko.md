@@ -115,7 +115,7 @@
 - [[tense-aspect-systems]] — 시제 매트릭스 (법 동반)
 - [[subjuntivo-conversacional]] — 스페인어 가정법 대화
 - [[gustar-verb-grammar]] — 스페인어 역동사 구조
-- [[particles-jp]] — 일본어 문말 조사
+- [[Language/wiki/Japanese/grammar/particles-jp]] — 일본어 문말 조사
 - [[speech-levels-ko]] — 한국어 경어 단계
 - [[basic-particles]] — 중국어 조사/양태 부사
 
@@ -126,7 +126,7 @@
 - `[[subjuntivo-conversacional]]` — 스페인어 대화 가정법
 - `[[gustar-verb-grammar]]` — 스페인어 역동사 구조
 - `[[tense-aspect-systems]]` — 시제-상 동반 비교
-- `[[particles-jp]]` — 일본어 문말 조사
+- `[[Language/wiki/Japanese/grammar/particles-jp]]` — 일본어 문말 조사
 - `[[speech-levels-ko]]` — 한국어 경어 단계 (존댓말)
 - `[[basic-particles]]` — 중국어 조사 및 양태 부사
 
