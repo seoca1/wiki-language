@@ -4642,3 +4642,18 @@ Original (English): [[topic]] | Espejos/関連/相关: [[topic.ko]] · [[topic.j
 - `audit_vault.py`: ✅ CLEAN
 - `mixed_language_audit.py`: ✅ 0 violations
 - `validate_schema.py`: ✅ CLEAN
+
+## [2026-10-04] chore | 미커밋 ingest/경로수리 정리 + schema 검증 green
+
+2026-09-01 이후 미커밋 상태로 남아 있던 ingest·tooling 변경을 정리·커밋 (3 commits).
+
+- **tools (31)**: 하드코딩 레거시 경로 `/Users/emelio/projects/Projects/Language` → `/Users/emilio/projects/opencodework/Language`; `tools/audit_vault.py` symlink `../../scripts/audit_vault.py` 로 재타겟 (workspace path reorg 후속).
+- **wiki**: path-style wikilink 정합 (34건, repo 기존 관례 79건과 일치) + `particles-jp` sources/ 중복을 grammar/ 로 병합 (YAML frontmatter + KO summary + learner sections).
+- **신규 18 페이지**: JP vocab 7 + JP `grammar/aspects` + KR vocab 6 + ES `grammar/articulos`·`tiempos-verbales` + EN `sources/verbs-{dynamic,stative}`.
+- **schema 보완**: 신규 `aspects.md` Track B1 Korean Summary block 추가 + pre-existing `articles-en.md`·`tense-aspect-en.md` 누락 메타필드(`**Language Level:**`/`**Date Added:**`) 보완 → **1008/1008 CLEAN**.
+
+### 검증
+
+- `validate_schema.py`: ✅ 1008/1008 CLEAN
+- `audit_vault.py` (workspace): ✅ Language 기여 broken/orphan 0
+- `mixed_language_audit.py`: ✅ 0 violations
