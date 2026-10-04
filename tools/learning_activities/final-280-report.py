@@ -1,10 +1,10 @@
 """Generate 280-phase completion report."""
 import os
-os.chdir("/Usersemelio/projects/Projects/Language") if Path("/Usersemelio").exists() else os.chdir("/Users/emelio/projects/Projects/Language")
+os.chdir("/Users/emilio/projects/opencodework/Language") if Path("/Usersemelio").exists() else os.chdir("/Users/emilio/projects/opencodework/Language")
 from pathlib import Path
 from datetime import datetime
 
-ROOT = Path("/Usersemelio/projects/Projects/Language") if Path("/Usersemelio").exists() else Path("/Users/emelio/projects/Projects/Language")
+ROOT = Path("/Users/emilio/projects/opencodework/Language") if Path("/Usersemelio").exists() else Path("/Users/emilio/projects/opencodework/Language")
 WIKI = ROOT / "wiki"
 SCRIPTS = ROOT / "scripts"
 TESTS = ROOT / "tests"

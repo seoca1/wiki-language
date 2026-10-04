@@ -4,7 +4,7 @@
 import re
 from pathlib import Path
 
-LANG_DIR = Path("/Users/emilio/projects/Projects/Language/wiki")
+LANG_DIR = Path("/Users/emilio/projects/opencodework/Language/wiki")
 
 # Map of language to directory
 LANGUAGES = ["Korean", "English", "Spanish", "Japanese", "Chinese"]

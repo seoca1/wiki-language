@@ -354,7 +354,7 @@ def convert_file(input_path: Path, output_path: Path):
 
 
 def main():
-    vocab_dir = Path('/Users/emilio/projects/Projects/Language/wiki/Korean/vocabulary')
+    vocab_dir = Path('/Users/emilio/projects/opencodework/Language/wiki/Korean/vocabulary')
     
     # Files to convert (table format → full format)
     files_to_convert = [

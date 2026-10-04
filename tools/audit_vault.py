@@ -1,1 +1,1 @@
-../../audit_vault.py
+../../scripts/audit_vault.py

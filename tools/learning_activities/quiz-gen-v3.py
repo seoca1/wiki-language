@@ -11,7 +11,7 @@ from pathlib import Path
 from datetime import datetime
 from collections import defaultdict
 
-ROOT = Path("/Usersemelio/projects/Projects/Language") if Path("/Usersemelio").exists() else Path("/Users/emelio/projects/Projects/Language")
+ROOT = Path("/Users/emilio/projects/opencodework/Language") if Path("/Usersemelio").exists() else Path("/Users/emilio/projects/opencodework/Language")
 LANGS = ["English", "Spanish", "Japanese", "Korean"]
 SECTION = "## Cross-Language Equivalents"
 

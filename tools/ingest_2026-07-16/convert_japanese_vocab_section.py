@@ -336,7 +336,7 @@ def convert_file_jp_section(input_path: Path, output_path: Path):
 
 
 def main():
-    vocab_dir = Path('/Users/emilio/projects/Projects/Language/wiki/Japanese/vocabulary')
+    vocab_dir = Path('/Users/emilio/projects/opencodework/Language/wiki/Japanese/vocabulary')
     
     # Files with section format that need conversion
     files_to_convert = [

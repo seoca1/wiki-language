@@ -328,7 +328,7 @@ def convert_file_en(input_path: Path, output_path: Path):
 
 
 def main():
-    vocab_dir = Path('/Users/emilio/projects/Projects/Language/wiki/English/vocabulary')
+    vocab_dir = Path('/Users/emilio/projects/opencodework/Language/wiki/English/vocabulary')
     
     files_to_convert = [
         'animals-vocabulary.md',

@@ -10,7 +10,7 @@ import urllib.error
 from pathlib import Path
 from datetime import datetime
 
-ROOT = Path("/Usersemelio/projects/Projects/Language") if Path("/Usersemelio").exists() else Path("/Users/emelio/projects/Projects/Language")
+ROOT = Path("/Users/emilio/projects/opencodework/Language") if Path("/Usersemelio").exists() else Path("/Users/emilio/projects/opencodework/Language")
 CONFIG_FILE = ROOT / "llm_config.json"
 
 

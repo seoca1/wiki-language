@@ -22,7 +22,7 @@ from datetime import date, datetime
 from pathlib import Path
 
 # Paths
-VAULT = Path("/Users/emilio/projects/Projects")
+VAULT = Path("/Users/emilio/projects/opencodework")
 OPENCLAW_ARCHIVE = Path("/Users/emilio/.openclaw/workspace/wiki/card_news/archive")
 SPANISH_VOCAB = VAULT / "Language/wiki/Spanish/vocabulary"
 SPANISH_CULTURE = VAULT / "Language/wiki/Spanish/culture"

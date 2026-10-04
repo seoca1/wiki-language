@@ -9,7 +9,7 @@ from pathlib import Path
 from datetime import datetime, timedelta
 from collections import defaultdict
 
-ROOT = Path("/Usersemelio/projects/Projects/Language") if Path("/Usersemelio").exists() else Path("/Users/emilio/projects/Projects/Language")
+ROOT = Path("/Users/emilio/projects/opencodework/Language") if Path("/Usersemelio").exists() else Path("/Users/emilio/projects/opencodework/Language")
 TM_DIR = ROOT / "exports" / "realtime_tm"
 TM_DIR.mkdir(parents=True, exist_ok=True)
 

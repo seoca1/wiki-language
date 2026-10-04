@@ -406,7 +406,7 @@ def infer_pos_es(word: str, meaning: str) -> str:
 
 
 def main():
-    vocab_dir = Path('/Users/emilio/projects/Projects/Language/wiki/Spanish/vocabulary')
+    vocab_dir = Path('/Users/emilio/projects/opencodework/Language/wiki/Spanish/vocabulary')
     
     files_to_convert = [
         'animals-vocabulary.md',
