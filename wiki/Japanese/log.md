@@ -134,3 +134,10 @@ Index.md updated (Culture: 2 → 4 entries)
 
 ## [2026-08-20] ingest | first-travel-korea | Japanese traveler's perspective on Korea
 
+
+## [2026-11-05] manus | greetings.md 문화 주석 라운드트립
+
+- 입력: Language/wiki/japanese/expressions/greetings.md
+- Manus 태스크: HWVDTFDtCsg8zQ8Fi7aAPa (file.upload round-trip, agent lite)
+- 산출물: Language/wiki/japanese/expressions/greetings.manus.md (문화 주석·예문·오류 노트)
+- 상태: 검토 후 원본 병합 예정 (Phase 2 exit criteria 달성)
